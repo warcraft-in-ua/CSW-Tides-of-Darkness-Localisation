@@ -1,0 +1,1421 @@
+library OilHarvest initializer init uses Table, ListT, TimerUtils, IsUnitContructing, SpellEffectEvent, OrderEvent, DelayedOrder, BlizzardMessage, ConstructEvent
+
+/*
+    NOTE:
+    As a general rule, never remove a unit from the game, unless you know what you're doing. This is especially true
+    for any of the units concerned with this system. If you have to get rid of them, kill them.
+
+    Also, worth noting, this system does not work with resurrection. A revived unit has the same index, but the instance
+    that was tied to it was already destroyed.
+
+    All you have to do for the system to work is to give the relevant units the relevant abilities. See Abilites in the
+    globals block for more information.
+
+    API
+
+    call OilHarvest_setUIVisible(boolean b)
+        This function will turn off both the Oil UI display and the floating text that indicates Oil amount. If you wish
+        to show/hide these two different elements separately, then use the two functions below. Otherwise, this function
+        is all you should ever need.
+
+        Set to false to hide, true to unhide.
+
+    call OilHarvest_muteWarnings(boolean flag)
+        This function will prevent any pings or warning sounds due to low resource count related to harvesting Oil.
+        If true == all warning are muted
+        If false == all warning are unmuted. False is the default, so all warning are by default enabled.
+
+    call OilUI.setVisibile(boolean b)
+        This function will hide the frames for the Oil UI. Set to false to hide, true to unhide. This applies to all players.
+        
+    call OilUI.setVisibilePlayer(player p, boolean b)
+        This function will hide the frames for the Oil UI. Set to false to hide, true to unhide. This applies to the specified
+        player.
+
+    call OilDisplay.setAllVisibile(boolean b)
+        This function will hide/unhide all texttags so that the floating texts can be hidden/restored during and after
+        cutscenes. Set to false to hide, true to unhide.
+
+    call OilPatch.killPatch(unit u)
+        NEVER kill an Oil Patch directly. Always use this function if you have to kill one.
+
+    call setPlayerOilRate(player p, integer newRate)
+        Setting newRate to 125 will make tankers owned by player p to harvest 125 Oil per trip instead of the default 100.
+        NB: In JASS, Player 1 starts on zero. So player 1 would be Player(0), player 3 would be Player(2), etc.
+
+    call updateNearestRigDepot(integer playerNumber)
+        This will calculate distances between all player-owned Rigs (platforms) and Depots (shipyards).
+
+    call updateOwnerships(unit whichRigOrDepot, player oldOwner, player newOwner)
+        When a unit changes ownership, call this function after to update the player lists
+        NB: In JASS, Player 1 starts on zero. So the ID of player 1 would be 0, player 3 would be 2, etc.
+
+*/
+
+globals
+    // TEXT TO TRANSLATE
+    private constant string LOW_WARNING_MESSAGE = "The oil patch is running low"
+    private constant string DEPLETED_WARNING_MESSAGE = "|c00FF7F00Oil patch is depleted|r"
+    private constant string TXT_COLLECTOR_ABIL_NAME_FULL = "Deliver Oil"
+    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_FULL = "Return the Oil to the nearest Shipyard."
+    private constant string TXT_WHERE_GET_OIL = "Oil is gathered from Oil Patches."
+    private constant string TXT_OIL_LOCALISATION_NAME = "Oil: "
+    private constant string TXT_OIL_ZERO = "Oil: 0"
+        
+    // Parameters
+    private constant boolean USE_TEXT_TAGS = false
+    private constant real TEXT_TAG_HEIGHT = 360.
+    private constant real FONT_SIZE = TextTagSize2Height(10.)
+    private constant string FONT_COLOUR = "|cff0a32aa"
+    
+    private constant integer OIL_PATCH_AMOUNT_DEFAULT = 12500
+    private constant integer OIL_PATCH_UNIT_ID = 'n60P' // this is used to generate an Oil Patch
+    private constant real OIL_ZONE_LENGTH = 200.
+    private constant real OIL_ZONE_HEIGHT = 200.
+
+    private constant integer OIL_LOW_WARNING_THRESHOLD = 1000
+    private constant real LOW_WARNING_DURATION = 4.
+    private constant integer LOW_WARNING_R = 255 // from 0 to 255
+    private constant integer LOW_WARNING_G = 255 // from 0 to 255
+    private constant integer LOW_WARNING_B = 0 // from 0 to 255
+    private constant boolean LOW_WARNING_STYLE = false // false is a 'simple' or 'attack' ping. true is a 'falshy' ping.
+    private constant string LOW_WARNING_ORC = "Sound\\Interface\\Warning\\Orc\\GruntOilPatchLow1.flac"
+    private constant string LOW_WARNING_HUMAN = "Sound\\Interface\\Warning\\Human\\HumanOilPatchLow1.flac"
+    
+    private constant string LOW_WARNING_COLOUR_CODE = "|c00FF7F00"
+
+    private constant real DEPLETED_WARNING_DURATION = 4.
+    private constant integer DEPLETED_WARNING_R = 255 // from 0 to 255
+    private constant integer DEPLETED_WARNING_G = 0 // from 0 to 255
+    private constant integer DEPLETED_WARNING_B = 0 // from 0 to 255
+    private constant boolean DEPLETED_WARNING_STYLE = false // false is a 'simple' or 'attack' ping. true is a 'falshy' ping.
+    private constant string DEPLETED_WARNING_ORC = "Sound\\Interface\\Warning\\Orc\\GruntOilPatchDepleted1.flac"
+    private constant string DEPLETED_WARNING_HUMAN = "Sound\\Interface\\Warning\\Human\\HumanOilPatchDepleted1.flac"
+
+    private constant string DEPLETED_WARNING_COLOUR_CODE = "|c00640000"
+
+    // Amount of Oil collected per run
+    private constant integer OIL_COLLECTION_RATE_DEFAULT = 100
+    private constant real OIL_COLLECTION_INTERVAL = 3. // in seconds
+    private constant integer ORDER_COLLECTOR_ACTION_ORDER = 852529 // absord mana
+    private constant integer ORDER_SMART = 851971
+
+    // frames
+    private constant real OIL_UI_ICON_SIZE = .01640625
+    private constant integer OIL_UI_FONT_SIZE = 11
+    private constant real OIL_UI_MASTER_FRAME_X = .0705
+    private constant real OIL_UI_MASTER_FRAME_Y = OIL_UI_ICON_SIZE
+    private constant real OIL_UI_FRAME_OFFSET = .016
+    private constant real OIL_UI_AMOUNT_OFFSET = .0005
+    private constant string OIL_UI_ICON_PATH = "UI\\resourceoil.dds"
+    // private constant real OIL_UI_
+
+    private framehandle oilMasterFrame = null
+    private framehandle oilHoverFrame = null
+    private framehandle oilIcon = null
+    private framehandle oilAmount = null
+    private framehandle oilTooltip = null
+    private framehandle oilTooltipTitle = null
+
+    // Abilities
+
+        // This identifies Oil Patches as being just that, Oil Patches. It will automatically create a rect around the
+        // Oil Patch so that any Rigs constructed on top of it will know which Patch it's supposed to interract with.
+        // Can be a hidden dummy ability.
+        constant integer OIL_PATCH_ABIL = 'A65L' // [TAG] - Oil Patch
+
+        // The ability that idenfies a unit as being an Oil Rig, and thus will accept Collectors to gather Oil from it.
+        // Can be a hidden dummy ability.
+        constant integer OIL_RIG_ABIL = 'A65M' // [TAG] - Oil Rig
+
+        // The ability that identifies a unit as being an Oil Depot, and thus will accept Collectors droping off Oil at it.
+        // Can be a hidden dummy ability.
+        constant integer OIL_DEPOT_ABIL = 'A65K' // [TAG] - Oil Depot
+
+        // This identifies a unit as a Collector. The ability must be based on Channel, must only target player-owned
+        // units, and must have ORDER_COLLECTOR_ACTION_ORDER as the order id. This is how the system knows the Collector
+        // is in range to either queue it for harvesting oil at Rigs or for delivering oil at Depots (Shipyards). This
+        // ability is hidden and only interacts with the system. The range must be something like 100 or lower.
+        constant integer OIL_COLLECTOR_ABIL = 'A65H' // [SYSTEM] - Oil Collector Action
+
+        // this is the ability you see on Collectors. An empty Collector will be tasked to automatically go harvest.
+        // A full Collector will automatically go deliver the oil. It is no necessary to add this ability to Tankers,
+        // the system will do that for you.
+        constant integer COLLECTOR_ACTION_ABIL = 'A65G' // Collect Oil
+
+            // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Icon.
+            constant string COLLECTOR_ABIL_ICON_EMPTY = "ReplaceableTextures\\CommandButtons\\BTNGatherGold.dds"
+
+            // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip (Name).
+             constant string COLLECTOR_ABIL_NAME_EMPTY = "Збирати нафту"
+
+            //string COLLECTOR_ABIL_NAME_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
+
+            // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip Extended (Description).
+            constant string COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Вибудовувати нафту з нафтових родовищ."
+
+            //string COLLECTOR_ABIL_DESCRIPTION_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
+
+            //string COLLECTOR_ABIL_DESCRIPTION_EMPTY = BlzGetAbilityExtendedTooltip ('A60Y', 1)
+
+            // When the Collector has Oil, the COLLECTOR_ACTION_ABIL will have this Icon.
+            constant string COLLECTOR_ABIL_ICON_FULL = "ReplaceableTextures\\CommandButtons\\BTNReturnGoods.dds"
+
+            // When the Collector has Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip (Name).
+            constant string COLLECTOR_ABIL_NAME_FULL = TXT_COLLECTOR_ABIL_NAME_FULL
+
+            //string COLLECTOR_ABIL_NAME_FULL = BlzGetAbilityTooltip ('A60Y', 1)
+
+            // When the Collector has Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip Extended (Description).
+            constant string COLLECTOR_ABIL_DESCRIPTION_FULL = TXT_COLLECTOR_ABIL_DESCRIPTION_FULL
+
+            //string COLLECTOR_ABIL_DESCRIPTION_FULL = BlzGetAbilityTooltip ('A60Y', 1)
+
+    // lists
+    private IntegerList array playerListRigs
+    private IntegerList array playerListDepots
+    private IntegerList listZones = 0
+
+    // Other
+    private integer array playerOil
+    private integer array playerOilRate
+    private constant real MAX_DISTANCE = 9999999999999.
+    private unit tankerTarget = null
+
+    // utility
+    private constant location loc = Location(0., 0.)
+    private constant group hideGroup = CreateGroup()
+    private constant real AREA_HIDE_RADIUS = 512.
+    private boolean uiVisible = true
+    private boolean muted = false
+
+    private constant player NEUTRAL_PLAYER = Player(PLAYER_NEUTRAL_PASSIVE)
+
+endglobals
+
+
+/*
+    Struct for hiding/showing texttags during cinematics
+*/
+struct OilDisplay
+
+    texttag tag
+    player owner
+    integer index
+
+    private static thistype array tagStack
+    private static integer count = 0
+
+    method destroy takes nothing returns nothing
+        set tagStack[this.index] = tagStack[count]
+        set tagStack[count].index = this.index
+        set tagStack[count] = 0
+        set count = count - 1
+        call DestroyTextTag(this.tag)
+        set this.tag = null
+        call this.deallocate()
+    endmethod
+
+    static method new takes player owner returns thistype
+        local thistype this = allocate()
+        set this.tag = CreateTextTag()
+        set this.owner = owner
+        set count = count + 1
+        set tagStack[count] = this
+        set this.index = count
+        // if not using floating texts to display Oil, force it to be hidden always
+        if not USE_TEXT_TAGS then
+            call SetTextTagVisibility(this.tag, false)
+        endif
+        return this
+    endmethod
+
+    method determineVisibility takes nothing returns nothing
+        if USE_TEXT_TAGS then
+            if uiVisible then
+                if this.owner == NEUTRAL_PLAYER then
+                    call SetTextTagVisibility(this.tag, true)
+                else
+                    call SetTextTagVisibility(this.tag, GetLocalPlayer() == this.owner)
+                endif
+            else
+                call SetTextTagVisibility(this.tag, false)
+            endif
+        else
+            call SetTextTagVisibility(this.tag, false)
+        endif
+    endmethod
+
+    method setText takes string s returns nothing
+        call SetTextTagText(this.tag, s, FONT_SIZE)
+        call this.determineVisibility()
+    endmethod
+
+    static method setAllVisibile takes boolean flag returns nothing
+        local integer i = 0
+        if USE_TEXT_TAGS then
+            // when true, show all.
+            if flag then
+                loop
+                    set i = i + 1
+                    exitwhen i > count
+                    if tagStack[i].owner == NEUTRAL_PLAYER then
+                        call SetTextTagVisibility(tagStack[i].tag, true)
+                    else
+                        call SetTextTagVisibility(tagStack[i].tag, GetLocalPlayer() == tagStack[i].owner)
+                    endif
+                endloop
+            else
+                loop
+                    set i = i + 1
+                    exitwhen i > count
+                    call SetTextTagVisibility(tagStack[i].tag, false)
+                endloop
+            endif
+        endif
+    endmethod
+
+endstruct
+
+/*
+    Struct for quickly reading rect details.
+*/
+struct Zone
+
+    real xMin
+    real xMax
+    real yMin
+    real yMax
+    real xMid
+    real yMid
+    rect r
+
+    static method new takes real centerX, real centerY, real halfLength, real halfHeight returns thistype
+        local thistype this = allocate()
+        set this.xMid = centerX
+        set this.xMin = centerX - halfLength
+        set this.xMax = centerX + halfLength
+        set this.yMid = centerY
+        set this.yMin = centerY - halfHeight
+        set this.yMax = centerY + halfHeight
+        set this.r = Rect(this.xMin, this.yMin, this.xMax, this.yMax)
+        return this
+    endmethod
+
+    method destroy takes nothing returns nothing
+        call RemoveRect(this.r)
+        set this.r = null
+    endmethod
+
+    method move takes real newX, real newY returns nothing
+        call MoveRectTo(this.r, newX, newY)
+        set this.xMid = newX
+        set this.xMin = GetRectMinX(this.r)
+        set this.xMax = GetRectMaxX(this.r)
+        set this.yMid = newY
+        set this.yMin = GetRectMinY(this.r)
+        set this.yMax = GetRectMaxY(this.r)
+    endmethod
+
+endstruct
+
+private function groupShow takes nothing returns nothing
+    call ShowUnit(GetEnumUnit(), true)
+endfunction
+
+private function groupHide takes nothing returns boolean
+    call ShowUnit(GetFilterUnit(), false)
+    return true
+endfunction
+
+function areaHideUnits takes real x, real y, real radius returns nothing
+    local unit u
+    call GroupEnumUnitsInRange(hideGroup, x, y, radius, Filter(function groupHide))
+endfunction
+
+function unhideUnits takes nothing returns nothing
+    call ForGroup(hideGroup, function groupShow)
+    call GroupClear(hideGroup)
+endfunction
+
+function getUnitZ takes unit u returns real
+    call MoveLocation(loc, GetUnitX(u), GetUnitY(u))
+    return GetLocationZ(loc) + GetUnitFlyHeight(u)
+endfunction
+
+function playerAddOil takes player play, integer amount returns nothing
+    local integer playerNum = GetPlayerId(play)
+    local integer amnt = playerOil[playerNum] + amount
+    local string oil = I2S(amnt)
+    set playerOil[playerNum] = amnt
+    // update UI
+    // call BJDebugMsg("P" + I2S(playerNum+1) + " Oil: " + I2S(playerOil[playerNum]))
+    if GetLocalPlayer() == play then
+        call BlzFrameSetText(oilAmount, oil)
+        call BlzFrameSetText(oilTooltipTitle, TXT_OIL_LOCALISATION_NAME + oil)
+    endif
+endfunction
+
+function getPlayerOil takes player play returns integer
+    return playerOil[GetPlayerId(play)]
+endfunction
+
+// this determines how much Oil is gathered per trip
+function setPlayerOilRate takes player play, integer newRate returns nothing
+    set playerOilRate[GetPlayerId(play)] = newRate
+endfunction
+
+private function distCheckSquared takes OilRig rig, OilDepot depot returns real
+    local real dx = depot.x - rig.x
+    local real dy = depot.y - rig.y
+    return dx * dx + dy * dy
+endfunction
+
+private function distCheckSquaredUnit takes unit source, unit target returns real
+    local real dx = GetUnitX(target) - GetUnitX(source)
+    local real dy = GetUnitY(target) - GetUnitY(source)
+    return dx * dx + dy * dy
+endfunction
+
+// updates which rig is nearest to which depot per player.
+function updateNearestRigDepot takes integer playerNum returns nothing
+    local IntegerListItem linkRig = 0
+    local IntegerListItem linkDepot = 0
+
+    local real distance
+    local real distCheck
+
+    local OilRig rig = 0
+    local OilDepot depot = 0
+
+    // check nearest depot per rig
+    set linkRig = playerListRigs[playerNum].first
+    loop
+        exitwhen linkRig == 0
+
+        set linkDepot = playerListDepots[playerNum].first
+        set distance = MAX_DISTANCE
+        set rig = linkRig.data
+        loop
+            exitwhen linkDepot == 0
+            set distCheck = distCheckSquared(rig, linkDepot.data)
+            if distCheck <= distance then
+                set distance = distCheck
+                set depot = linkDepot.data
+            endif
+            set linkDepot = linkDepot.next
+        endloop
+
+        if depot == 0 then
+            set rig.nearestDepot = null
+        else
+            set rig.nearestDepot = depot.source
+        endif
+
+        set linkRig = linkRig.next
+    endloop
+
+    set rig = 0
+    set depot = 0
+
+    // check nearest rig per depot
+    set linkDepot = playerListDepots[playerNum].first
+    loop
+        exitwhen linkDepot == 0
+
+        set linkRig = playerListRigs[playerNum].first
+        set distance = MAX_DISTANCE
+        set depot = linkDepot.data
+        loop
+            exitwhen linkRig == 0
+            set distCheck = distCheckSquared(linkRig.data, depot)
+            if distCheck <= distance then
+                set distance = distCheck
+                set rig = linkRig.data
+            endif
+            set linkRig = linkRig.next
+        endloop
+
+        if rig == 0 then
+            set depot.nearestRig = null
+        else
+            set depot.nearestRig = rig.source
+        endif
+
+        set linkDepot = linkDepot.next
+    endloop
+endfunction
+
+function findNearestRig takes unit source returns unit
+    local IntegerList list = playerListRigs[GetPlayerId(GetOwningPlayer(source))]
+    local IntegerListItem link = list.first
+    local real distance = MAX_DISTANCE
+    local real distCheck
+    local OilRig rig
+    set tankerTarget = null
+    loop
+        exitwhen link == 0
+        set rig = link.data
+        set distCheck = distCheckSquaredUnit(source, rig.source)
+        if distCheck <= distance then
+            set distance = distCheck
+            set tankerTarget = rig.source
+        endif
+        set link = link.next
+    endloop
+    return tankerTarget
+endfunction
+
+function findNearestDepot takes unit source returns unit
+    local IntegerList list = playerListDepots[GetPlayerId(GetOwningPlayer(source))]
+    local IntegerListItem link = list.first
+    local real distance = MAX_DISTANCE
+    local real distCheck
+    local OilDepot depot
+    set tankerTarget = null
+    loop
+        exitwhen link == 0
+        set depot = link.data
+        set distCheck = distCheckSquaredUnit(source, depot.source)
+        if distCheck <= distance then
+            set distance = distCheck
+            set tankerTarget = depot.source
+        endif
+        set link = link.next
+    endloop
+    return tankerTarget
+endfunction
+
+
+/*
+    The patch of Oil in the ocean. Essentially a Gold Mine in the water.
+    Oil Rigs must be built on it. The Oil amount is actually determined
+    by a rect.
+*/
+struct OilPatch
+
+    unit source
+    unit rig
+    Zone zone
+    integer amount
+    integer patchIndex // the index of the oil patch unit is stored because it can get replaced due to the nature of gold-mine type units.
+    OilDisplay display
+    boolean giveLowWarning
+
+    private static Table structTable
+    private static real zoneX = OIL_ZONE_LENGTH * .5
+    private static real zoneY = OIL_ZONE_HEIGHT * .5
+
+    static method getRect takes rect re returns thistype
+        return structTable[GetHandleId(re)]
+    endmethod
+
+    static method hasRect takes rect re returns boolean
+        return structTable.has(GetHandleId(re))
+    endmethod
+   
+    static method get takes unit u returns thistype
+        return structTable[GetHandleId(u)]
+    endmethod
+
+    static method has takes unit u returns boolean
+        return structTable.has(GetHandleId(u))
+    endmethod
+
+    method setRig takes unit u returns nothing
+        set this.rig = u
+    endmethod
+
+    method clearRig takes nothing returns nothing
+        set this.rig = null
+    endmethod
+
+    method destroy takes nothing returns nothing
+        call structTable.remove(GetHandleId(this.source))
+        call structTable.remove(GetHandleId(this.zone.r))
+        call this.display.destroy()
+        call listZones.removeElem(this.zone)
+        set this.source = null
+        set this.zone = 0
+        call this.deallocate()
+    endmethod
+
+    // use this function if you specifically want to kill an Oil Patch
+    static method killPatch takes unit u returns nothing
+        local thistype this = thistype.get(u)
+        if this != 0 then
+            call this.destroy()
+            call UnitApplyTimedLife(u, 'BTLF', .01)
+        endif
+    endmethod
+
+    method setAmount takes integer newAmount returns nothing
+        set this.amount = newAmount
+        call this.display.setText(FONT_COLOUR + I2S(newAmount) + "|r")
+        if this.rig != null then
+            call SetUnitState(this.rig, UNIT_STATE_MANA, newAmount)
+        endif
+    endmethod
+
+    method modAmount takes integer amountDifference returns nothing
+        set this.amount = this.amount + amountDifference
+        if USE_TEXT_TAGS then
+            call this.display.setText(FONT_COLOUR + I2S(this.amount) + "|r")
+        endif
+        if this.rig != null then
+            call SetUnitState(this.rig, UNIT_STATE_MANA, this.amount)
+        endif
+
+        if this.giveLowWarning and this.amount <= OIL_LOW_WARNING_THRESHOLD then
+            set this.giveLowWarning = false
+            if not muted then
+                call BlizzardMessage(LOW_WARNING_MESSAGE, LOW_WARNING_COLOUR_CODE, WARNING, this.display.owner)
+                if GetLocalPlayer() == this.display.owner then
+                    call PingMinimapEx(this.zone.xMid, this.zone.yMid, LOW_WARNING_DURATION, LOW_WARNING_R, LOW_WARNING_G, LOW_WARNING_B, LOW_WARNING_STYLE)
+                    if GetPlayerRace(this.display.owner) == RACE_ORC then
+                        call PlaySound(LOW_WARNING_ORC)
+                    elseif GetPlayerRace(this.display.owner) == RACE_HUMAN then
+                        call PlaySound(LOW_WARNING_HUMAN)
+                    endif
+                endif
+            endif
+        endif
+    endmethod
+
+    static method setOilAmount takes unit u, integer newAmount returns nothing
+        if thistype.has(u) then
+            call thistype.get(u).setAmount(newAmount)
+        endif
+    endmethod
+
+    method setOwnership takes player play returns nothing
+        set this.display.owner = play
+        if USE_TEXT_TAGS then
+            if uiVisible then
+                call SetTextTagVisibility(this.display.tag, GetLocalPlayer() == play)
+            endif
+        endif
+    endmethod
+
+    method removeOwnership takes nothing returns nothing
+        set this.display.owner = NEUTRAL_PLAYER
+        if USE_TEXT_TAGS then
+            if uiVisible then
+                call SetTextTagVisibility(this.display.tag, true)
+            endif
+        endif
+    endmethod
+
+    method move takes real newX, real newY returns nothing
+        call SetUnitPathing(this.source, false)
+        call SetUnitX(this.source, newX)
+        call SetUnitY(this.source, newY)
+        call SetUnitPathing(this.source, true)
+        call this.zone.move(newX, newY)
+    endmethod
+
+    // when a Rig is destroyed, the Oil Patch unit is either kept hidden, removed from the game, or,
+    // in the instance that an Oil Rig was cancelled, killed. This function will create a new patch
+    // underneath the Oil Rig. To avoid any sort of collision, all nearby units are hidden, before the
+    // patch is created, and unhidden right after. This will unfortunately deselect any nearby units.
+    // In the event that the patch is attempting to be restored when it is depleted, the system will
+    // instead destroy the patch instance.
+    method restoreOilPatchUnit takes nothing returns nothing
+        if this.amount > 0 then
+            call areaHideUnits(this.zone.xMid, this.zone.yMid, AREA_HIDE_RADIUS)
+
+            if this.patchIndex != 0 then
+                call structTable.remove(this.patchIndex)
+            endif
+
+            if this.source != null then
+                call RemoveUnit(this.source)
+            endif
+            
+            set this.source = CreateUnit(Player(PLAYER_NEUTRAL_PASSIVE), OIL_PATCH_UNIT_ID, this.zone.xMid, this.zone.yMid, bj_UNIT_FACING)
+            set this.patchIndex = GetHandleId(this.source)
+            set structTable[this.patchIndex] = this
+
+            call unhideUnits()
+        else
+            if not muted then
+                call BlizzardMessage(DEPLETED_WARNING_MESSAGE, DEPLETED_WARNING_COLOUR_CODE, WARNING, this.display.owner)
+                if GetLocalPlayer() == this.display.owner then
+                    call PingMinimapEx(this.zone.xMid, this.zone.yMid, DEPLETED_WARNING_DURATION, DEPLETED_WARNING_R, DEPLETED_WARNING_G, DEPLETED_WARNING_B, DEPLETED_WARNING_STYLE)
+                    if GetPlayerRace(this.display.owner) == RACE_ORC then
+                        call PlaySound(DEPLETED_WARNING_ORC)
+                    elseif GetPlayerRace(this.display.owner) == RACE_HUMAN then
+                        call PlaySound(DEPLETED_WARNING_HUMAN)
+                    endif
+                endif
+            endif
+            call this.destroy()
+        endif
+    endmethod
+
+    private method setupThings takes unit u returns nothing
+        local real x = GetUnitX(u)
+        local real y = GetUnitY(u)
+        local player play = GetOwningPlayer(u)
+        set this.display = OilDisplay.new(play)
+        call SetTextTagText(this.display.tag, FONT_COLOUR + I2S(this.amount) + "|r", FONT_SIZE)
+        // call SetTextTagPosUnit(this.display.tag, patch, TEXT_TAG_HEIGHT)
+        call SetTextTagPos(this.display.tag, x, y, getUnitZ(u) + TEXT_TAG_HEIGHT)
+        call SetTextTagPermanent(this.display.tag, true)
+        call this.display.determineVisibility()
+
+        set this.zone = Zone.new(x, y, zoneX, zoneY)
+        set this.giveLowWarning = (this.amount > OIL_LOW_WARNING_THRESHOLD)
+    endmethod
+
+    static method new takes unit patch, integer amount returns thistype
+        local thistype this = allocate()
+        set this.source = patch
+        set this.amount = amount
+
+        call this.setupThings(patch)
+
+        set this.patchIndex = GetHandleId(patch)
+        set structTable[this.patchIndex] = this
+        set structTable[GetHandleId(this.zone.r)] = this
+        call listZones.push(this.zone)
+
+        return this
+    endmethod
+
+    // for pre-placed rigs
+    static method newSpecial takes unit rigUnit, integer amount returns thistype
+        local thistype this = allocate()
+        set this.source = null
+        set this.amount = amount
+
+        call this.setupThings(rigUnit)
+
+        set this.patchIndex = 0
+        set structTable[GetHandleId(this.zone.r)] = this
+        call listZones.push(this.zone)
+
+        return this
+    endmethod
+
+    private static method onInit takes nothing returns nothing
+        set structTable = Table.create()
+    endmethod
+
+endstruct
+
+
+/*
+    The unit that harvests the Oil at the Oil Rig
+    Eg. Oil Tanker
+*/
+struct OilCollector
+
+    unit source
+    unit destination
+    unit assignedRigUnit
+    ability gatherAbility
+    integer amount
+    trigger deathListener
+    trigger orderListener
+    OilRig activeRig // this will be zero unless the Collector is actively queueing at a specific rig.
+    
+    private static Table structTable
+    private static constant real X_SPEED = .0355 * Cos(1.5708)
+    private static constant real Y_SPEED = .0355 * Sin(1.5708)
+
+    static method get takes unit u returns thistype
+        return structTable[GetHandleId(u)]
+    endmethod
+
+    static method has takes unit u returns boolean
+        return structTable.has(GetHandleId(u))
+    endmethod
+
+    method destroy takes nothing returns nothing
+        call structTable.remove(GetHandleId(this.source))
+        call DestroyTrigger(this.deathListener)
+        call DestroyTrigger(this.orderListener)
+        set this.deathListener = null
+        set this.orderListener = null
+        set this.source = null
+        call this.deallocate()
+    endmethod
+    
+    private static method onDeath takes nothing returns nothing
+        local thistype this = thistype.get(GetTriggerUnit())
+        call this.destroy()
+    endmethod
+
+    method unqueue takes nothing returns nothing
+        call this.activeRig.queue.removeElem(this)
+        set this.activeRig = 0
+    endmethod
+
+    // this checks if a Collector is currently queued. If ordered to do anything but right-click the Rig,
+    // it will be removed from the queue.
+    private static method onOrder takes nothing returns nothing
+        local thistype this = thistype.get(GetTriggerUnit())
+        if this.activeRig != 0 then
+            if not (GetIssuedOrderId() == ORDER_SMART and GetOrderTarget() == this.activeRig.source) then
+                call this.unqueue()
+            endif
+        endif
+    endmethod
+
+    method updateGatherAbil takes boolean full returns nothing
+        local string icon = COLLECTOR_ABIL_ICON_EMPTY
+        local string name = COLLECTOR_ABIL_NAME_EMPTY
+        local string desc = COLLECTOR_ABIL_DESCRIPTION_EMPTY
+        if full then
+            set icon = COLLECTOR_ABIL_ICON_FULL
+            set name = COLLECTOR_ABIL_NAME_FULL
+            set desc = COLLECTOR_ABIL_DESCRIPTION_FULL
+            call AddUnitAnimationProperties(this.source, "gold", true)
+            call UnitAddAbilityBJ( 'A62Y', this.source )
+        else
+            call AddUnitAnimationProperties(this.source, "gold", false)
+            call UnitRemoveAbilityBJ( 'A62Y', this.source )
+            call UnitRemoveBuffBJ( 'B611', this.source )
+        endif
+        // call BlzSetAbilityStringLevelField(this.gatherAbility, ABILITY_SLF_ICON_NORMAL, 0, icon)
+        call BlzSetAbilityStringField(this.gatherAbility, ABILITY_SF_ICON_ACTIVATED, icon)
+        call BlzSetAbilityStringLevelField(this.gatherAbility, ABILITY_SLF_TOOLTIP_NORMAL, 0, name)
+        call BlzSetAbilityStringLevelField(this.gatherAbility, ABILITY_SLF_TOOLTIP_NORMAL_EXTENDED, 0, desc)
+    endmethod
+
+    static method new takes unit u returns thistype
+        local thistype this = allocate()
+        set this.source = u
+        set this.destination = null
+        set this.amount = 0
+        set this.activeRig = 0
+        set this.assignedRigUnit = null
+        call UnitAddAbility(u, COLLECTOR_ACTION_ABIL)
+        set this.gatherAbility = BlzGetUnitAbility(u, COLLECTOR_ACTION_ABIL)
+        call this.updateGatherAbil(false)
+        
+        set this.deathListener = CreateTrigger()
+        call TriggerRegisterDeathEvent(this.deathListener, u)
+        call TriggerAddAction(this.deathListener, function thistype.onDeath)
+
+        set this.orderListener = CreateTrigger()
+        call TriggerRegisterUnitEvent(this.orderListener, u, EVENT_UNIT_ISSUED_ORDER)
+        call TriggerRegisterUnitEvent(this.orderListener, u, EVENT_UNIT_ISSUED_TARGET_ORDER)
+        call TriggerRegisterUnitEvent(this.orderListener, u, EVENT_UNIT_ISSUED_POINT_ORDER)
+        call TriggerAddAction(this.orderListener, function thistype.onOrder)
+
+        set structTable[GetHandleId(u)] = this
+
+        return this
+    endmethod
+
+    method deliverOil takes unit destination returns nothing
+        set this.destination = destination
+        call IssueTargetOrderById(this.source, ORDER_COLLECTOR_ACTION_ORDER, destination)
+    endmethod
+
+    method retrieveOil takes unit destination returns nothing
+        set this.assignedRigUnit = destination
+        call IssueTargetOrderById(this.source, ORDER_COLLECTOR_ACTION_ORDER, destination)
+    endmethod
+
+    static method retrieveOilUnit takes unit tanker, unit destination returns nothing
+        local thistype this = thistype.get(tanker)
+        if this != 0 then
+            set this.assignedRigUnit = destination
+            call IssueTargetOrderById(this.source, ORDER_COLLECTOR_ACTION_ORDER, destination)
+        endif
+    endmethod
+
+    method automateOilProcess takes nothing returns nothing
+        if this.amount > 0 then
+            call this.deliverOil(findNearestDepot(this.source))
+        else
+            call this.retrieveOil(findNearestRig(this.source))
+        endif
+    endmethod
+
+    method depositOil takes nothing returns nothing
+        local texttag tag
+        local player play = GetOwningPlayer(this.source)
+        call playerAddOil(play, this.amount)
+
+        // Delivery text
+        if uiVisible then
+            set tag = CreateTextTag()
+            call SetTextTagText(tag, FONT_COLOUR + "+" + I2S(this.amount) + "|r", FONT_SIZE)
+            call SetTextTagPos(tag, GetUnitX(this.source), GetUnitY(this.source), getUnitZ(this.source))
+            call SetTextTagPermanent(tag, false)
+            call SetTextTagLifespan(tag, 2.0)
+            call SetTextTagFadepoint(tag, 1.0)
+            call SetTextTagVelocity(tag, X_SPEED, Y_SPEED)
+            call SetTextTagVisibility(tag, GetLocalPlayer() == play)
+            set tag = null
+        endif
+
+        set this.amount = 0
+        call this.updateGatherAbil(false)
+        call DelayedOrderTarget.start(this.source, ORDER_COLLECTOR_ACTION_ORDER, 0., this.assignedRigUnit)
+    endmethod
+
+    private static method onInit takes nothing returns nothing
+        set structTable = Table.create()
+    endmethod
+
+endstruct
+
+
+/*
+    The Oil Rig struct itself
+    NB: because of the nature of Oil Patches and how a destroyed rig unit will be left without a patch,
+    the death event for a rig unit is handled globally as the actual OilRig instance is only created
+    upon building completion.
+*/
+struct OilRig
+
+    unit source
+    unit nearestDepot
+    timer clock
+    OilPatch patch
+    IntegerList queue
+    real x
+    real y
+    boolean lockOut = false
+    OilCollector dockedCollector
+    
+    private static Table structTable
+
+    static method getOilPatch takes real x, real y returns OilPatch
+        local IntegerListItem link = listZones.first
+        local OilPatch p = 0
+        local Zone zone = 0
+        loop
+            exitwhen link == 0
+            set zone = link.data
+            // if x >= zone.xMin and x <= zone.xMax and y >= zone.yMin and y <= zone.yMax then
+            if (zone.xMin <= x) and (x <= zone.xMax) and (zone.yMin <= y) and (y <= zone.yMax) then
+            // if (GetRectMinX(zone.r) <= x) and (x <= GetRectMaxX(zone.r)) and (GetRectMinY(zone.r) <= y) and (y <= GetRectMaxY(zone.r)) then
+                // call BJDebugMsg("has patch")
+                set p = OilPatch.getRect(zone.r)
+                set link = 0
+            else
+                set link = link.next
+            endif
+        endloop
+        return p
+    endmethod
+
+    static method get takes unit u returns thistype
+        return structTable[GetHandleId(u)]
+    endmethod
+
+    static method has takes unit u returns boolean
+        return structTable.has(GetHandleId(u))
+    endmethod
+
+    static method setOilAmount takes unit u, integer newAmount returns nothing
+        local thistype oilrig = thistype.get(u)
+        if oilrig != 0 then
+            call oilrig.patch.setAmount(newAmount)
+            call SetUnitState(oilrig.source, UNIT_STATE_MANA, newAmount)
+        endif
+    endmethod
+
+    method cancelAll takes nothing returns nothing
+        local IntegerListItem link = this.queue.first
+        local IntegerListItem linkNext
+        local OilCollector collector
+        loop
+            exitwhen link == 0
+            set linkNext = link.next
+            set collector = link.data
+            call collector.unqueue()
+            set link = linkNext
+        endloop
+    endmethod
+
+    method destroy takes nothing returns nothing
+        local integer playerNum = GetPlayerId(GetOwningPlayer(this.source))
+        call playerListRigs[playerNum].removeElem(this)
+        call updateNearestRigDepot(playerNum)
+        call this.cancelAll()
+        call structTable.remove(GetHandleId(this.source))
+        if this.dockedCollector != 0 then
+            call ShowUnit(this.dockedCollector.source, true)
+            set this.dockedCollector = 0
+        endif
+        call this.patch.clearRig()
+        call this.patch.removeOwnership()
+        // call RemoveUnit(this.source)
+        set this.source = null
+        call this.queue.destroy()
+        call this.deallocate()
+    endmethod
+    
+    static method new takes unit u returns thistype
+        local thistype this = allocate()
+        local player play = GetOwningPlayer(u)
+        local integer playerNum = GetPlayerId(play)
+
+        set this.source = u
+        set this.x = GetUnitX(u)
+        set this.y = GetUnitY(u)
+        set this.dockedCollector = 0
+        set this.clock = null
+        set this.queue = IntegerList.create()
+        
+        set this.patch = thistype.getOilPatch(this.x, this.y)
+        if this.patch == 0 then
+            set this.patch = OilPatch.newSpecial(u, OIL_PATCH_AMOUNT_DEFAULT)
+        endif
+        call this.patch.setOwnership(play)
+        call this.patch.setRig(u)
+
+        set structTable[GetHandleId(u)] = this
+
+        // add to the player's rig list
+        call playerListRigs[playerNum].push(this)
+        call updateNearestRigDepot(playerNum)
+
+        return this
+    endmethod
+
+    private method dockCollector takes OilCollector collector returns nothing
+        set this.dockedCollector = collector
+        set collector.activeRig = 0
+        call ShowUnit(collector.source, false)
+    endmethod
+
+    static method unload takes nothing returns nothing
+        local thistype this = GetTimerData(GetExpiredTimer())
+        local OilCollector collector = this.dockedCollector
+        local integer rate = playerOilRate[GetPlayerId(GetOwningPlayer(this.source))]
+
+        // unload current tanker
+        if collector != 0 then
+            call ShowUnit(collector.source, true)
+            if this.patch.amount > rate then
+                set collector.amount = rate
+                call this.patch.modAmount(-rate)
+            else
+                // kill rig and patch?
+                call UnitApplyTimedLife(this.source, 'BTLF', .01)
+                // call UnitApplyTimedLife(this.patch.source, 'BTLF', .01)
+                set collector.amount = this.patch.amount
+                set this.patch.amount = 0
+                call this.cancelAll()
+                set this.lockOut = true
+            endif
+            call collector.updateGatherAbil(true)
+            call collector.deliverOil(this.nearestDepot)
+        endif
+
+        if this.queue.empty() then
+            set this.dockedCollector = 0
+            call ReleaseTimer(this.clock)
+            call SetUnitAnimation(this.source, "stand")
+        else
+            call this.dockCollector(this.queue.front())
+            call this.queue.shift()
+        endif
+    endmethod
+
+    method queueUp takes OilCollector collector returns nothing
+        if not this.lockOut then
+            if this.dockedCollector == 0 then
+                call this.dockCollector(collector)
+                set this.clock = NewTimerEx(this)
+                call TimerStart(this.clock, OIL_COLLECTION_INTERVAL, true, function thistype.unload)
+                call SetUnitAnimation(this.source, "stand work")
+            else
+                call this.queue.push(collector)
+                set collector.activeRig = this
+            endif
+        endif
+    endmethod
+
+    private static method onInit takes nothing returns nothing
+        set structTable = Table.create()
+    endmethod
+
+endstruct
+
+/*
+    The Oil drop-off point.
+    Eg: Shipyard
+*/
+struct OilDepot
+
+    unit source
+    unit nearestRig
+    real x
+    real y
+    trigger deathListener
+    
+    private static Table structTable
+
+    static method get takes unit u returns thistype
+        return structTable[GetHandleId(u)]
+    endmethod
+
+    static method has takes unit u returns boolean
+        return structTable.has(GetHandleId(u))
+    endmethod
+
+    method destroy takes nothing returns nothing
+        local integer playerNum = GetPlayerId(GetOwningPlayer(this.source))
+        call playerListDepots[playerNum].removeElem(this)
+        call updateNearestRigDepot(playerNum)
+        call structTable.remove(GetHandleId(this.source))
+        call DestroyTrigger(this.deathListener)
+        set this.deathListener = null
+        set this.source = null
+        call this.deallocate()
+    endmethod
+
+    private static method onDeath takes nothing returns nothing
+        local thistype this = thistype.get(GetTriggerUnit())
+        call this.destroy()
+    endmethod
+
+    static method new takes unit u returns thistype
+        local thistype this = allocate()
+        local integer playerNum = GetPlayerId(GetOwningPlayer(u))
+
+        set this.source = u
+        set this.x = GetUnitX(u)
+        set this.y = GetUnitY(u)
+        
+        set this.deathListener = CreateTrigger()
+        call TriggerRegisterDeathEvent(this.deathListener, u)
+        call TriggerAddAction(this.deathListener, function thistype.onDeath)
+
+        set structTable[GetHandleId(u)] = this
+
+        // add to the player's depot list
+        call playerListDepots[playerNum].push(this)
+        call updateNearestRigDepot(playerNum)
+
+        return this
+    endmethod
+
+    private static method onInit takes nothing returns nothing
+        set structTable = Table.create()
+    endmethod
+
+endstruct
+
+/*
+    Special Use functions
+*/
+
+function updateOwnerships takes unit u, player old, player new returns nothing
+    local OilDepot depot = OilDepot.get(u)
+    local OilRig rig = OilRig.get(u)
+    local integer oldNum = GetPlayerId(old)
+    local integer newNum = GetPlayerId(new)
+    local boolean update = false
+    if depot != 0 then
+        call playerListDepots[oldNum].removeElem(depot)
+        call playerListDepots[newNum].push(depot)
+        set update = true
+    endif
+    if rig != 0 then 
+        call playerListRigs[oldNum].removeElem(rig)
+        call playerListRigs[newNum].push(rig)
+        set update = true
+    endif
+    if update then
+        call updateNearestRigDepot(oldNum)
+        call updateNearestRigDepot(newNum)
+    endif
+endfunction
+
+/*
+    Events
+*/
+private function setupUnits takes unit u returns nothing
+    if GetUnitAbilityLevel(u, OIL_PATCH_ABIL) > 0 then
+        if not OilPatch.has(u) then
+            call OilPatch.new(u, OIL_PATCH_AMOUNT_DEFAULT)
+        endif
+    endif
+    if GetUnitAbilityLevel(u, OIL_RIG_ABIL) > 0 then
+        if not OilRig.has(u) then
+            call OilRig.new(u)
+            call OilCollector.retrieveOilUnit(GetStructureBuilder(u), u)
+        endif
+    endif
+    if GetUnitAbilityLevel(u, OIL_COLLECTOR_ABIL) > 0 then
+        if not OilCollector.has(u) then
+            call OilCollector.new(u)
+        endif
+    endif
+    if GetUnitAbilityLevel(u, OIL_DEPOT_ABIL) > 0 then
+        if not OilDepot.has(u) then
+            call OilDepot.new(u)
+        endif
+    endif
+endfunction
+
+private function onCollectorAutomation takes nothing returns nothing
+    local OilCollector collector = OilCollector.get(GetTriggerUnit())
+    if collector != 0 then
+        call collector.automateOilProcess()
+    endif
+endfunction
+
+// Collector Action happens when a collector is in range, so either to queue up for harvesting or to deposit oil.
+private function onCollectorAction takes nothing returns nothing
+    local unit source = GetTriggerUnit()
+    local unit target = GetSpellTargetUnit()
+    local OilCollector collector = OilCollector.get(source)
+    local OilRig rig
+    if collector != 0 then
+        if collector.amount > 0. then
+            if OilDepot.has(target) then
+                call collector.depositOil()
+            endif
+        else
+            set rig = OilRig.get(target) 
+            if rig != null then
+                call rig.queueUp(collector)
+            endif
+        endif
+    endif
+    set source = null
+    set target = null
+endfunction
+
+private function onSmart takes nothing returns nothing
+    local unit source = GetTriggerUnit()
+    local unit target = GetOrderTargetUnit()
+    local OilCollector collector
+    if GetOwningPlayer(source) == GetOwningPlayer(target) then
+        set collector = OilCollector.get(source)
+        if collector != 0 then
+            if collector.amount > 0. then
+                if OilDepot.has(target) then
+                    call collector.deliverOil(target)
+                endif
+            else
+                if OilRig.has(target) then
+                    call collector.retrieveOil(target)
+                endif
+            endif
+        endif
+    endif
+    set source = null
+    set target = null
+endfunction
+
+private function onIndexEx takes nothing returns nothing
+    local unit source = udg_IndexExUnit
+    local integer id = GetUnitUserData(source)
+    if not udg_IsUnitConstructing[id] then
+        call setupUnits(source)
+    endif
+    set source = null
+endfunction
+
+// private function onDeindexEx takes nothing returns nothing
+//     local unit source = udg_UDexUnits[udg_UDex]
+//     if OilPatch.has(source) then
+//         call OilPatch.get(source).destroy()
+//     endif
+//     if OilRig.has(source) then
+//         call OilRig.get(source).destroy()
+//     endif
+//     if OilCollector.has(source) then
+//         call OilCollector.get(source).destroy()
+//     endif
+//     if OilDepot.has(source) then
+//         call OilDepot.get(source).destroy()
+//     endif
+//     set source = null
+// endfunction
+
+private function onBuildFinish takes nothing returns nothing
+    call setupUnits(GetTriggeringStructure())
+endfunction
+
+private function onBuildCancel takes nothing returns nothing
+    local unit u = GetTriggerUnit()
+    local OilRig rig = OilRig.get(u)
+    local OilPatch p
+    if GetUnitAbilityLevel(u, OIL_RIG_ABIL) > 0 then
+        set p = OilRig.getOilPatch(GetUnitX(u), GetUnitY(u))
+        call p.restoreOilPatchUnit()
+    endif
+    if rig != 0 then
+        call rig.destroy()
+    endif
+    set u = null
+endfunction
+
+private module OilFrameInit
+    private static method onInit takes nothing returns nothing
+        local trigger onLoadListener    = CreateTrigger()
+        // local trigger onSaveListener    = CreateTrigger()
+        // call TriggerRegisterGameEvent(onSaveListener, EVENT_GAME_SAVE)
+        // call TriggerAddAction(onSaveListener, function thistype.onSave)
+        call TriggerRegisterGameEvent(onLoadListener, EVENT_GAME_LOADED)
+        call TriggerAddAction(onLoadListener, function thistype.onLoad)
+        call thistype.setupFrames()
+    endmethod
+endmodule
+
+struct OilUI
+    private static method restoreOilTexts takes nothing returns nothing
+        local integer i = -1
+        local string oil
+        loop
+            set i = i + 1
+            exitwhen i > bj_MAX_PLAYER_SLOTS
+            set oil = I2S(playerOil[i])
+            if GetLocalPlayer() == Player(i) then
+                call BlzFrameSetText(oilAmount, oil)
+                call BlzFrameSetText(oilTooltipTitle, "Oil: " + oil)
+            endif
+        endloop
+    endmethod
+
+    private static method setupFrames takes nothing returns nothing
+        local framehandle upkeepFrame   = BlzFrameGetChild(BlzGetFrameByName("ResourceBarFrame", 0), 2)
+        local framehandle foodFrame     = BlzFrameGetChild(BlzGetFrameByName("ResourceBarFrame", 0), 3)
+        local framehandle upkeepText    = BlzGetFrameByName("ResourceBarUpkeepText" , 0)
+        local framehandle foodText      = BlzGetFrameByName("ResourceBarSupplyText" , 0)
+
+        local framehandle fh
+
+        // move foodFrame
+        // call BlzFrameSetAllPoints(foodFrame, upkeepFrame)
+        // call BlzFrameSetAllPoints(foodText, upkeepText)
+
+        call BlzLoadTOCFile("CustomUI.toc")
+
+        call BlzFrameSetAbsPoint(upkeepText, FRAMEPOINT_LEFT, 12., 12.)
+        call BlzFrameSetAbsPoint(upkeepFrame, FRAMEPOINT_LEFT, 12., 12.)
+
+        set oilMasterFrame = BlzCreateFrameByType("FRAME", "OilMasterFrame", BlzGetOriginFrame(ORIGIN_FRAME_GAME_UI, 0), "", 0)
+        call BlzFrameSetSize(oilMasterFrame, OIL_UI_MASTER_FRAME_X + OIL_UI_AMOUNT_OFFSET, OIL_UI_MASTER_FRAME_Y)
+        call BlzFrameSetPoint(oilMasterFrame, FRAMEPOINT_TOPLEFT, foodFrame, FRAMEPOINT_TOPRIGHT, OIL_UI_FRAME_OFFSET, 0.)
+
+        set oilTooltip = BlzCreateFrame("TooltipText", BlzGetOriginFrame(ORIGIN_FRAME_GAME_UI, 0), 1, 0)
+        set oilTooltipTitle = BlzGetFrameByName("TooltipTextTitle", 0)
+        call BlzFrameSetText(oilTooltipTitle, TXT_OIL_ZERO)
+
+        set fh = BlzGetFrameByName("TooltipTextValue", 0)
+        call BlzFrameSetText(fh, TXT_WHERE_GET_OIL)
+        // call BlzFrameSetSize(oilTooltip, .29, .0435)
+        // call BlzFrameSetSize(oilTooltip, .29, .0535)
+        
+        call BlzFrameSetPoint(oilTooltip, FRAMEPOINT_TOPLEFT, oilTooltipTitle, FRAMEPOINT_TOPLEFT, -.005, .0055)
+        call BlzFrameSetPoint(oilTooltip, FRAMEPOINT_BOTTOMRIGHT, fh, FRAMEPOINT_BOTTOMRIGHT, .005, -.0055)
+        call BlzFrameSetAbsPoint(fh, FRAMEPOINT_BOTTOMRIGHT, 0.8 -.005, 0.1625 + .0055)
+        
+        set oilHoverFrame = BlzCreateFrameByType("FRAME", "OilHoverFrame", oilMasterFrame, "", 0)
+        call BlzFrameSetAllPoints(oilHoverFrame, oilMasterFrame)
+        call BlzFrameSetTooltip(oilHoverFrame, oilTooltip)
+
+        set oilIcon = BlzCreateFrameByType("BACKDROP", "OilIcon", oilMasterFrame, "", 0)
+        call BlzFrameSetSize(oilIcon, OIL_UI_ICON_SIZE, OIL_UI_ICON_SIZE)
+        call BlzFrameSetTexture(oilIcon, OIL_UI_ICON_PATH, 0, true)
+        call BlzFrameSetPoint(oilIcon, FRAMEPOINT_LEFT, oilMasterFrame, FRAMEPOINT_LEFT, 0., 0.)
+        // call BlzFrameSetAbsPoint(oilIcon, FRAMEPOINT_CENTER, 0.4, 0.3)
+
+        set oilAmount = BlzCreateFrameByType("TEXT", "OilAmount", oilMasterFrame, "", 0)
+        call BlzFrameSetTextSizeLimit(oilAmount, OIL_UI_FONT_SIZE)
+        call BlzFrameSetText(oilAmount, "0")
+        call BlzFrameSetPoint(oilAmount, FRAMEPOINT_RIGHT, oilMasterFrame, FRAMEPOINT_RIGHT, -OIL_UI_AMOUNT_OFFSET, 0.)
+
+        set fh = null
+        set foodText = null
+        set upkeepText = null
+        set foodFrame = null
+        set upkeepFrame = null
+    endmethod
+
+    // static method onAfterSave takes nothing returns nothing
+    //     call BlzFrameSetVisible(oilMasterFrame, true)
+    //     call ReleaseTimer(GetExpiredTimer())
+    // endmethod
+
+    // static method onSave takes nothing returns nothing
+    //     call BlzFrameSetVisible(oilMasterFrame, false)
+    //     call TimerStart(NewTimer(), 0., false, function thistype.onAfterSave)
+    // endmethod
+
+    static method onLoad takes nothing returns nothing
+        call thistype.setupFrames()
+        call thistype.restoreOilTexts()
+    endmethod
+
+    static method setVisibile takes boolean flag returns nothing
+        call BlzFrameSetVisible(oilMasterFrame, flag)
+    endmethod
+
+    static method setVisibilePlayer takes player play, boolean flag returns nothing
+        if GetLocalPlayer() == play then
+            call BlzFrameSetVisible(oilMasterFrame, flag)
+        endif
+    endmethod
+
+    implement OilFrameInit
+endstruct
+
+private function init takes nothing returns nothing
+    local trigger indexExListener = CreateTrigger()
+    // local trigger deindexListener = CreateTrigger()
+    local trigger buildFinishListener = CreateTrigger()
+    local trigger rigDeathListener = CreateTrigger()
+
+    local integer i = -1
+    local player play
+
+    call TriggerRegisterVariableEvent(indexExListener, "udg_UnitIndexExEvent", EQUAL, 1.00)
+    call TriggerAddCondition(indexExListener, function onIndexEx)
+    set indexExListener = null
+
+    // call TriggerRegisterVariableEvent(deindexListener, "udg_UnitIndexExEvent", EQUAL, 2.00)
+    // call TriggerAddCondition(deindexListener, function onDeindexEx)
+    // set deindexListener = null
+
+    call RegisterNativeEvent(EVENT_UNIT_CONSTRUCTION_FINISH, function onBuildFinish)
+    
+    // EVENT_PLAYER_UNIT_CONSTRUCT_CANCEL will fire a death event
+    call TriggerRegisterAnyUnitEventBJ(rigDeathListener, EVENT_PLAYER_UNIT_DEATH)
+    call TriggerAddAction(rigDeathListener, function onBuildCancel)
+    set rigDeathListener = null
+
+    call RegisterSpellEffectEvent(COLLECTOR_ACTION_ABIL, function onCollectorAutomation)
+    call RegisterSpellEffectEvent(OIL_COLLECTOR_ABIL, function onCollectorAction)
+    call RegisterOrderEvent(ORDER_SMART, function onSmart)
+
+    set listZones = IntegerList.create()
+    loop
+        set i = i + 1
+        exitwhen i > bj_MAX_PLAYER_SLOTS
+        set playerListRigs[i] = IntegerList.create()
+        set playerListDepots[i] = IntegerList.create()
+        set playerOilRate[i] = OIL_COLLECTION_RATE_DEFAULT
+    endloop
+endfunction
+
+private function delay takes nothing returns nothing
+    call OilUI.setVisibile(uiVisible)
+    call OilDisplay.setAllVisibile(uiVisible)
+    call ReleaseTimer(GetExpiredTimer())
+endfunction
+public function setUIVisible takes boolean flag returns nothing
+    set uiVisible = flag
+    call TimerStart(NewTimer(), 0., false, function delay)
+endfunction
+
+public function muteWarnings takes boolean flag returns nothing
+    set muted = flag
+endfunction
+
+endlibrary
+
