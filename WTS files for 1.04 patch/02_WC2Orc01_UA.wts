@@ -1,0 +1,1313 @@
+﻿STRING 1
+{
+Chapter 01
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 104
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Вовки
+  - Знайти і знищити всі вовчі лігва на острові
+}
+
+STRING 112
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Вовки
+}
+
+STRING 187
+{
+Клан чорної гори
+}
+
+STRING 230
+{
+Orcish Horde
+}
+
+STRING 233
+{
+One
+}
+
+STRING 234
+{
+WC2Orc01
+}
+
+STRING 236
+{
+Люди Лордерону
+}
+
+STRING 249
+{
+Unable to use Oil Rig.
+}
+
+STRING 250
+{
+That Oil Patch has already being used.
+}
+
+STRING 251
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 252
+{
+Build more Farms to continue unit production.,Побудуйте більше свиноферм аби далі розширювати військо.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 253
+{
+Must build Oil Rig first.
+}
+
+STRING 254
+{
+Must target an Oil Rig.
+}
+
+STRING 255
+{
+Must build upon Oil Patch.
+}
+
+STRING 258
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration, Berserker Sight, Lighter Axes. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 264
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 268
+// Units: ndfl (Железные метательные топоры), Description (Description)
+{
+Грозный корабль людей, эффективный как в морских сражениях, так и при штурме береговых построек. |n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 269
+// Units: ndfl (Железные метательные топоры), Name (Name)
+{
+Железные метательные топоры
+}
+
+STRING 270
+// Units: ndfl (Железные метательные топоры), EditorSuffix (Name - Editor Suffix)
+{
+Осколочные ядра катапульт (|cffffcc00G|r)
+}
+
+STRING 272
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrate
+}
+
+STRING 378
+// Units: n606 (Orc Намет), Name (Name)
+{
+Orc Намет
+}
+
+STRING 678
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 679
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 708
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 709
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 718
+// Units: h620 (Намет), Name (Name)
+{
+Намет
+}
+
+STRING 719
+// Units: h620 (Намет), Tip (Tooltip - Basic)
+{
+Намет
+}
+
+STRING 720
+// Units: h621 (Намет), Name (Name)
+{
+Намет
+}
+
+STRING 721
+// Units: h621 (Намет), Tip (Tooltip - Basic)
+{
+Намет
+}
+
+STRING 722
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 763
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 865
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 871
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 872
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 873
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 874
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 900
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+No Path
+}
+
+STRING 902
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 940
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 941
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 944
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 947
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 958
+// Destructibles: B60L (WInter Canopy Bush), Name (Name)
+{
+WInter Canopy Bush
+}
+
+STRING 959
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 960
+// Destructibles: B60S (Fallen Winter Tree 2), Name (Name)
+{
+Fallen Winter Tree 2
+}
+
+STRING 962
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 963
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 964
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 965
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 966
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+AllianceBanner
+}
+
+STRING 981
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 986
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1006
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1029
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1085
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1157
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1164
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1165
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1187
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1188
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1195
+// Doodads: D60J (Banner Клан чорної гори), Name (Name)
+{
+Banner Клан чорної гори
+}
+
+STRING 1198
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1976
+// Units: n004 (Wolf Den), EditorSuffix (Name - Editor Suffix)
+{
+ (Quest)
+}
+
+STRING 1978
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 1979
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 1980
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 2059
+{
+|cff00ff00ПІДКАЗКА|r
+Уток напівгерой і може підіймати, носити та використовувати предмети. Але якщо він помре, ви не зможете його оживити до кінця завдання як інших героїв.
+Підвищення рівня Утока відбувається при виконанні додаткових завдань.
+}
+
+STRING 2060
+// Destructibles: B000 (Rock Chunks Snow), Name (Name)
+{
+Rock Chunks Snow
+}
+
+STRING 2075
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Всі шахти з золотом було вичерпано до того як вам вдалося зібрати необхідну кількість ресурсів.
+}
+
+STRING 2081
+// Destructibles: B001 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 2082
+// Destructibles: B002 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 2083
+// Destructibles: B003 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 2084
+// Destructibles: B004 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 2085
+// Units: n004 (Wolf Den), Name (Name)
+{
+Wolf Den
+}
+
+STRING 2091
+// Destructibles: B005 (BoatPlatform), Name (Name)
+{
+BoatPlatform
+}
+
+STRING 2095
+{
+Alliance
+}
+
+STRING 2110
+// Destructibles: B006 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2111
+// Destructibles: B007 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2112
+// Destructibles: B007 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 2113
+// Destructibles: B008 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2114
+// Destructibles: B008 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Tilted)
+}
+
+STRING 2115
+// Destructibles: B009 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2116
+// Destructibles: B009 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small Tilted)
+}
+
+STRING 2144
+// Destructibles: B60P (Den), Name (Name)
+{
+Вовче лігво
+}
+
+STRING 2146
+// Destructibles: B00B (Crates), EditorSuffix (Editor Suffix)
+{
+(No Pitch)
+}
+
+STRING 2160
+// Destructibles: B00C (Den), Name (Name)
+{
+Den
+}
+
+STRING 2161
+// Destructibles: B00C (Den), EditorSuffix (Editor Suffix)
+{
+(Unselectable)
+}
+
+STRING 2186
+// Destructibles: B00A (Snowpile Cliff), Name (Name)
+{
+Snowpile Cliff
+}
+
+STRING 2187
+// Destructibles: B00D (Snowpile Flat), Name (Name)
+{
+Snowpile Flat
+}
+
+STRING 2188
+// Destructibles: B00E (Snowpile Northrend), Name (Name)
+{
+Snowpile Northrend
+}
+
+STRING 2190
+{
+Клан чорної гори
+}
+
+STRING 2220
+{
+Закріпитися на острові
+}
+
+STRING 2221
+{
+Орґрім Молот Згуби наказав вам розбити табір на острові Зул’дар. Ви маєете побудувати  декілька свиноферм аби прогодувати армію, та бараки аби мати змогу обороняти табір.
+}
+
+STRING 2222
+{
+Побудувати бараки
+}
+
+STRING 2223
+{
+Побудувати свиноферми (0 з 4 побудовано)
+}
+
+STRING 2224
+{
+Запалити вогні
+}
+
+STRING 2225
+{
+Для підготовки воєнної кампанії на півночі, вам необхідно зібрати суттєву кількість золота та деревини.
+}
+
+STRING 2230
+{
+Вовки
+}
+
+STRING 2231
+{
+Ваша активність на острові спровокувала активність диких вовків. Розвідайте територію, знайдіть і знищіть всі вовчі лігва.
+}
+
+STRING 2232
+{
+Знайдіть та зруйнуйте всі вовчі лігва на острові
+}
+
+STRING 2237
+{
+Перша кров
+}
+
+STRING 2238
+{
+Невеликий людський розвідувальний загін висадився на острів. Не можна їм дозволити передати інформацію на материк про нашу підготовку тут на Зул'Дарі. Виріжте їх всіх до одного!
+}
+
+STRING 2239
+{
+Загасіть сигнальне багаття
+}
+
+STRING 2240
+{
+Вбийте розвідувальний загін людей
+}
+
+STRING 2248
+{
+|cff00ff00ПІДКАЗКА|r
+|cffffcc003000 од. золота|r було вилучено на потреби Орди.
+}
+
+STRING 2250
+{
+|cff00ff00ПІДКАЗКА|r
+|cff0080003000 од. деревини|r було вилучено на потреби Орди.
+}
+
+STRING 2254
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Запалити вогні
+}
+
+STRING 2256
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Закріпитися на острові
+}
+
+STRING 2259
+{
+|cff00ff00ПІДКАЗКА|r
+У кожному розділі є додаткові завдання, при їх виконанні рівень Утока буде підвищуватись, відкриваючи доступ до нових здібностей та підвищувати його показники.
+}
+
+STRING 2261
+{
+|c0000FF00Підказка:|r Полеглого героя можна оживити у Великій залі.
+}
+
+STRING 2264
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Перша кров
+}
+
+STRING 2265
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Перша кров
+  -|cff808080 Загасити сигнальне багаття (Завершено)|r
+  - Вбийте розвідників
+}
+
+STRING 2266
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Перша кров
+  - Загасити сигнальне багаття
+  -|cff808080 Вбити розвідників (Виконано)|r
+}
+
+STRING 2286
+{
+Загасіть сигнальне багаття
+}
+
+STRING 2287
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Перша кров
+ - Загасіть сигнальне багаття
+ - Вбийте всіх розвідників
+}
+
+STRING 2288
+{
+|cff00ff00ПІДКАЗКА|r
+Аби загасити сигнальне багаття, віддайте наказ будь-якій одиниці зайти у коло сили.
+}
+
+STRING 2289
+{
+Золото для орди:
+}
+
+STRING 2290
+{
+Деревина для орди:
+}
+
+STRING 2291
+{
+|cff00ff00ПІДКАЗКА|r
+Кожного разу коли у вас буде 3000 од. золота або деревини, ці ресурси будуть вилучені для потреб Орди.
+}
+
+STRING 2292
+{
+Цілі завдання
+}
+
+STRING 2293
+{
+Свиноферм побудовано:
+}
+
+STRING 2294
+{
+Бараки побудовано:
+}
+
+STRING 2295
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Закріпитися на острові
+ - Побудувати свиноферми (0 з 4 побудовано)
+ - Побудувати бараки 
+}
+
+STRING 2296
+{
+Побудувати свиноферми
+}
+
+STRING 2300
+{
+ПОРАЗКА
+}
+
+STRING 2305
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Перша кров
+  -|cffff0000 Загасити сигнальне багаття (Провалено)|r
+  - Вбийте розвідників
+}
+
+STRING 2307
+{
+|cffffcc00MГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Всі ваші споруди було знищено та всі одиниці було вбито.
+}
+
+STRING 2308
+{
+Defeat!
+}
+
+STRING 2309
+// Items: I0L0 (WC2Orc01Utok1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 2310
+// Items: I0L0 (WC2Orc01Utok1), Description (Description)
+{
+Тром-ка, отамане.
+}
+
+STRING 2311
+// Items: I0L0 (WC2Orc01Utok1), Name (Name)
+{
+WC2Orc01Utok1
+}
+
+STRING 2312
+// Items: I1L0 (WC2Orc01Utok2), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 2313
+// Items: I1L0 (WC2Orc01Utok2), Description (Description)
+{
+Отамане, тут у північній бухті людські кораблі!
+}
+
+STRING 2314
+// Items: I1L0 (WC2Orc01Utok2), Name (Name)
+{
+WC2Orc01Utok2
+}
+
+STRING 2315
+// Items: I1L1 (WC2Orc01Rend1), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2316
+// Items: I1L1 (WC2Orc01Rend1), Description (Description)
+{
+Тром-ка, воїне.
+}
+
+STRING 2317
+// Items: I1L1 (WC2Orc01Rend1), Name (Name)
+{
+WC2Orc01Rend1
+}
+
+STRING 2318
+// Items: I1L2 (WC2Orc01Rend2), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2319
+// Items: I1L2 (WC2Orc01Rend2), Description (Description)
+{
+Орда готується розпочати напад на землі Лордерону.
+}
+
+STRING 2320
+// Items: I1L2 (WC2Orc01Rend2), Name (Name)
+{
+WC2Orc01Rend2
+}
+
+STRING 2321
+// Items: I1L3 (WC2Orc01Rend3), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2322
+// Items: I1L3 (WC2Orc01Rend3), Description (Description)
+{
+Орґрім Молот Згуби — Вождь Орди Орків і правитель клану Чорної гори наказав нам поставити невеличкий табір на південних берегах Лордерону.
+}
+
+STRING 2323
+// Items: I1L3 (WC2Orc01Rend3), Name (Name)
+{
+WC2Orc01Rend3
+}
+
+STRING 2324
+// Items: I1L4 (WC2Orc01Rend4), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2325
+// Items: I1L4 (WC2Orc01Rend4), Description (Description)
+{
+Для захисту регіону Зул’дар за наказом Молота Згуби, нам треба побудувати бараки та декілька свиноферм аби мати змогу прогодувати військо.
+}
+
+STRING 2326
+// Items: I1L4 (WC2Orc01Rend4), Name (Name)
+{
+WC2Orc01Rend4
+}
+
+STRING 2327
+// Items: I1L5 (WC2Orc01Rend5), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2328
+// Items: I1L5 (WC2Orc01Rend5), Description (Description)
+{
+Тут у нас є змога зрозуміти, що з себе представляє оборона людей та наскільки вона нікчемна, а також побачити чи взагалі можуть вони чинити опір нашим силам.
+}
+
+STRING 2329
+// Items: I1L5 (WC2Orc01Rend5), Name (Name)
+{
+WC2Orc01Rend5
+}
+
+STRING 2330
+// Items: I1L6 (WC2Orc01Rend6), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2331
+// Items: I1L6 (WC2Orc01Rend6), Description (Description)
+{
+Для потреб нашої воєнної кампанії на півночі, Орді буде потрібна величезна кількість ресурсів. Добувайте золото та рубайте ліс!
+}
+
+STRING 2332
+// Items: I1L6 (WC2Orc01Rend6), Name (Name)
+{
+WC2Orc01Rend6
+}
+
+STRING 2333
+// Items: I1L7 (WC2Orc01Rend7), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2334
+// Items: I1L7 (WC2Orc01Rend7), Description (Description)
+{
+Знайдіть їхнє лігво і покладіть край цим нападам!
+}
+
+STRING 2335
+// Items: I1L7 (WC2Orc01Rend7), Name (Name)
+{
+WC2Orc01Rend7
+}
+
+STRING 2336
+// Items: I1L9 (WC2Orc01Rend8), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2337
+// Items: I1L9 (WC2Orc01Rend8), Description (Description)
+{
+Це було останній.
+}
+
+STRING 2338
+// Items: I1L9 (WC2Orc01Rend8), Name (Name)
+{
+WC2Orc01Rend8
+}
+
+STRING 2339
+// Items: I1LA (WC2Orc01Rend9), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2340
+// Items: I1LA (WC2Orc01Rend9), Description (Description)
+{
+Прокляття! Ми до цього не готові! Треба негайно загасити сигнальне багаття, інакше вони помітять нас із кораблів. Розвідайте весь острів, вбивайте людей і не дайте їм передати звістку на материк!
+}
+
+STRING 2342
+// Items: I1lA (WC2Orc01Rend10), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 2343
+// Items: I1lA (WC2Orc01Rend10), Description (Description)
+{
+Пречудово! Табір влаштовано, а територія розвідана. Молот Згуби буде задоволений.
+}
+
+STRING 2344
+// Items: I1LA (WC2Orc01Rend9), Name (Name)
+{
+WC2Orc01Rend9
+}
+
+STRING 2345
+// Items: I1LB (T02Grunt04901), Tip (Tooltip - Basic)
+{
+Рубайло
+}
+
+STRING 2346
+// Items: I1LB (T02Grunt04901), Description (Description)
+{
+Людських нікчем знищено!
+}
+
+STRING 2347
+// Items: I1LB (T02Grunt04901), Name (Name)
+{
+T02Grunt04901
+}
+
+STRING 2348
+// Items: I1LC (WC2Orc01Peon1), Tip (Tooltip - Basic)
+{
+Батрак
+}
+
+STRING 2349
+// Items: I1LC (WC2Orc01Peon1), Description (Description)
+{
+Вовки! На нас напали!
+}
+
+STRING 2350
+// Items: I1LC (WC2Orc01Peon1), Name (Name)
+{
+WC2Orc01Peon1
+}
+
+STRING 2351
+// Items: I1LD (WC2Orc01footman1), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 2352
+// Items: I1LD (WC2Orc01footman1), Description (Description)
+{
+Сір скажіть це правда? Невже орки справді дійшли так далеко на північ?
+}
+
+STRING 2353
+// Items: I1LD (WC2Orc01footman1), Name (Name)
+{
+WC2Orc01footman1
+}
+
+STRING 2354
+// Items: I1LE (WC2Orc01footman2), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 2355
+// Items: I1LE (WC2Orc01footman2), Description (Description)
+{
+І всі ці жахливі історії? Нехай навіть половина з них правдива, як ми здолаємо їх?
+}
+
+STRING 2356
+// Items: I1LE (WC2Orc01footman2), Name (Name)
+{
+WC2Orc01footman2
+}
+
+STRING 2357
+// Items: I1LF (WC2Orc01footman3), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 2358
+// Items: I1LF (WC2Orc01footman3), Description (Description)
+{
+Світло захистить нас...
+}
+
+STRING 2359
+// Items: I1LF (WC2Orc01footman3), Name (Name)
+{
+WC2Orc01footman3
+}
+
+STRING 2360
+// Items: I1LG (O07FootmanA1101), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 2361
+// Items: I1LG (O07FootmanA1101), Description (Description)
+{
+Orcs! Arm yourselves!
+}
+
+STRING 2362
+// Items: I1LG (O07FootmanA1101), Name (Name)
+{
+O07FootmanA1101
+}
+
+STRING 2363
+// Items: I1LH (WC2Orc01Captain1), Tip (Tooltip - Basic)
+{
+Капітан
+}
+
+STRING 2364
+// Items: I1LH (WC2Orc01Captain1), Description (Description)
+{
+Добре хлопці, нам треба облаштувати табір і готуймося рушати.
+}
+
+STRING 2365
+// Items: I1LH (WC2Orc01Captain1), Name (Name)
+{
+WC2Orc01Captain1
+}
+
+STRING 2366
+// Items: I1LI (WC2Orc01Captain2), Tip (Tooltip - Basic)
+{
+Капітан
+}
+
+STRING 2367
+// Items: I1LI (WC2Orc01Captain2), Description (Description)
+{
+Заспокойтеся та зосередьтеся на нашому завданні. Ми тут якраз для того, щоб перевірити ці чутки про ймовірну присутність Орди в регіоні Зул'дар. 
+}
+
+STRING 2368
+// Items: I1LI (WC2Orc01Captain2), Name (Name)
+{
+WC2Orc01Captain2
+}
+
+STRING 2369
+// Items: I1LJ (WC2Orc01Captain3), Tip (Tooltip - Basic)
+{
+Капітан
+}
+
+STRING 2370
+// Items: I1LJ (WC2Orc01Captain3), Description (Description)
+{
+Розведімо вогнище тут та будемо сподіватися, що сигнальне багаття на іншому кінці острова не згасло.
+}
+
+STRING 2371
+// Items: I1LJ (WC2Orc01Captain3), Name (Name)
+{
+WC2Orc01Captain3
+}
+
+STRING 2374
+// Items: I1lA (WC2Orc01Rend10), Name (Name)
+{
+WC2Orc01Rend10
+}
+
+STRING 2375
+// Doodads: D000 (Snow(vt)), Name (Name)
+{
+Snow(vt)
+}
+
+STRING 2377
+// Units: ngz3 (Wild Bear), Name (Name)
+{
+Дикий ведмідь
+}
+
+STRING 2379
+// Doodads: D001 (Light Yellow), Name (Name)
+{
+Light Yellow
+}
+
+STRING 2380
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 2381
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 2382
+{
+|cffffcc00Cheat Enabled.|r
+}
+
+STRING 2383
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 2384
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 2385
+{
+|cffff0000Загасити сигнальне багаття (Провалено)|r
+}
+
+STRING 2386
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+Закріпитися на острові
+}
+
+STRING 2387
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  - Побудувати бараки
+}
+
+STRING 2388
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+  -|cff808080 Побудувати бараки (Завершено)|r
+}
+
+STRING 2389
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+}
+
+STRING 2390
+// Items: IQL2 (Quest Landing Localization), Tip (Tooltip - Basic)
+{
+ з 4х побудовано)
+}
+
+STRING 2391
+// Items: IQL2 (Quest Landing Localization), Ubertip (Tooltip - Extended)
+{
+  - Побудувати свиноферми (
+}
+
+STRING 2392
+// Items: IQL2 (Quest Landing Localization), Description (Description)
+{
+  -|cff808080 Побудувати свиноферми (Завершено)|r
+}
+
+STRING 2393
+// Items: IQL2 (Quest Landing Localization), Name (Name)
+{
+Quest Landing Localization
+}
+
+STRING 2394
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Tip (Tooltip - Basic)
+{
+Запалити вогні
+}
+
+STRING 2395
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Ubertip (Tooltip - Extended)
+{
+  - Добути 
+}
+
+STRING 2396
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Description (Description)
+{
+ золота
+}
+
+STRING 2397
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Name (Name)
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+}
+
+STRING 2398
+// Items: IQL4 ( Lumber (Completed)|r), Ubertip (Tooltip - Extended)
+{
+  - Нарубати 
+}
+
+STRING 2399
+// Items: IQL4 ( Lumber (Completed)|r), Description (Description)
+{
+ деревини
+}
+
+STRING 2401
+// Items: IQL4 ( Lumber (Completed)|r), Tip (Tooltip - Basic)
+{
+  -|cff808080 Добуто 
+}
+
+STRING 2402
+// Items: IQL4 ( Lumber (Completed)|r), Name (Name)
+{
+ Деревина (Завершено)|r
+}
+
+STRING 2403
+// Items: IQL5 (Gold Localiztion Quest Completed), Tip (Tooltip - Basic)
+{
+ Золото (Завершено)|r
+}
+
+STRING 2404
+// Items: IQL5 (Gold Localiztion Quest Completed), Description (Description)
+{
+  -|cff808080 Зібрано 
+}
+
+STRING 2405
+// Items: IQL5 (Gold Localiztion Quest Completed), Name (Name)
+{
+Gold Localiztion Quest Completed
+}
+
+STRING 2406
+{
+Build Pig Farms
+}
+
+STRING 2407
+// Items: IQL5 (Gold Localiztion Quest Completed), Ubertip (Tooltip - Extended)
+{
+Побудувати свиноферми (
+}
+
+STRING 2408
+// Items: IQL6 (Harvest ), Description (Description)
+{
+Добути 
+}
+
+STRING 2409
+// Items: IQL6 (Harvest ), Name (Name)
+{
+Нарубати 
+}
+

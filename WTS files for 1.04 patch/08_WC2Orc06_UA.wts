@@ -1,0 +1,4240 @@
+﻿STRING 3
+{
+WC2Orc06New
+}
+
+STRING 4
+{
+Chapter Six: Wetlands
+}
+
+STRING 5
+{
+LoreCraftDesigns
+}
+
+STRING 10
+{
+Люди Стормґарду
+}
+
+STRING 11
+{
+Cinematic Dummy
+}
+
+STRING 15
+{
+Дворфи Стальгорну
+}
+
+STRING 16
+{
+Horde
+}
+
+STRING 17
+{
+Alliance
+}
+
+STRING 18
+{
+Neutrals
+}
+
+STRING 25
+// Units: n00T (Stalker), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 77
+// Units: e601 (Ballista), Name (Name)
+{
+Балліста
+}
+
+STRING 98
+// Units: n60G (Snake), Name (Name)
+{
+Змія
+}
+
+STRING 112
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 117
+// Units: h602 (Miner), Name (Name)
+{
+Шахтар
+}
+
+STRING 118
+// Units: h602 (Miner), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 119
+// Units: h602 (Miner), Tip (Tooltip - Basic)
+{
+Train Miner
+}
+
+STRING 120
+// Units: h603 (Guardsman), Name (Name)
+{
+Вартовий
+}
+
+STRING 121
+// Units: h603 (Guardsman), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 122
+// Units: h603 (Guardsman), Tip (Tooltip - Basic)
+{
+Train Guardsman
+}
+
+STRING 125
+// Units: h61O (Mountain Cavalier), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 130
+// Units: h60U (Forgeguard), EditorSuffix (Name - Editor Suffix)
+{
+(DarkIron)
+}
+
+STRING 145
+// Units: h607 (Dwarven Cannon), Name (Name)
+{
+Дворфійська гармата
+}
+
+STRING 146
+// Units: h607 (Dwarven Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 147
+// Units: h607 (Dwarven Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 149
+// Units: n606 (Orc Tent), Name (Name)
+{
+Orc Tent
+}
+
+STRING 164
+// Units: O616 (Chieftain), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 172
+// Units: n60C (Scout Post), Name (Name)
+{
+Ороче оборонне укріплення
+}
+
+STRING 173
+// Units: n60C (Scout Post), Tip (Tooltip - Basic)
+{
+Ороче оборонне укріплення
+}
+
+STRING 174
+// Units: n60C (Scout Post), Description (Description)
+{
+Orcish Scout Post
+}
+
+STRING 203
+// Units: h61T (Anvilguard), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 216
+// Units: h60E (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarven)
+}
+
+STRING 295
+// Units: o002 (Slave), Ubertip (Tooltip - Extended)
+{
+Basic worker unit. Can harvest gold and lumber, build structures, and Repair.  |n|n|cffffcc00Attacks land units and trees.|r
+}
+
+STRING 422
+// Units: h61D (Settlement), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarf)
+}
+
+STRING 423
+// Units: h61D (Settlement), Name (Name)
+{
+Поселення
+}
+
+STRING 424
+// Units: h61D (Settlement), Tip (Tooltip - Basic)
+{
+Build Settlement
+}
+
+STRING 448
+// Units: n60V (Duck), Name (Name)
+{
+Качка
+}
+
+STRING 449
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 455
+// Units: h61O (Mountain Cavalier), Name (Name)
+{
+Гірський наїзник
+}
+
+STRING 456
+// Units: h61W (Mountaineer), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 457
+// Units: h61O (Mountain Cavalier), Tip (Tooltip - Basic)
+{
+Train Mountain Cavalier
+}
+
+STRING 466
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 478
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Стіна з шипами
+}
+
+STRING 479
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Стіна з шипами
+}
+
+STRING 487
+// Destructibles: B00U (Spirit), Name (Name)
+{
+Дух
+}
+
+STRING 488
+// Units: h620 (Tent), Name (Name)
+{
+Намет
+}
+
+STRING 489
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Намет
+}
+
+STRING 490
+// Units: h621 (Tent), Name (Name)
+{
+Намет
+}
+
+STRING 491
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Намет
+}
+
+STRING 492
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 547
+// Units: h60F (Human Cannon), Name (Name)
+{
+Human Cannon
+}
+
+STRING 548
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 549
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 551
+// Units: u004 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 562
+// Units: n60Y (Raven), Name (Name)
+{
+Raven
+}
+
+STRING 571
+// Units: n60Z (Spiders), Name (Name)
+{
+Spiders
+}
+
+STRING 572
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Spiders
+}
+
+STRING 573
+// Units: h60T (Clansman), Name (Name)
+{
+Clansman
+}
+
+STRING 574
+// Units: h60T (Clansman), EditorSuffix (Name - Editor Suffix)
+{
+(Wild Hammer)
+}
+
+STRING 575
+// Units: h60T (Clansman), Tip (Tooltip - Basic)
+{
+Train Clansman
+}
+
+STRING 576
+// Units: h60T (Clansman), Ubertip (Tooltip - Extended)
+{
+Versatile foot soldier. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 578
+// Units: h60U (Forgeguard), Name (Name)
+{
+Вартовий наковальні
+}
+
+STRING 579
+// Units: h61U (Ghost), EditorSuffix (Name - Editor Suffix)
+{
+(DarkIron)
+}
+
+STRING 580
+// Units: h60U (Forgeguard), Tip (Tooltip - Basic)
+{
+Train Forgeguard
+}
+
+STRING 585
+// Units: h61V (Thane), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 588
+// Units: h61T (Anvilguard), Name (Name)
+{
+Охоронець кузні
+}
+
+STRING 589
+// Units: h61Z (Sawmill), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 643
+// Units: h61V (Thane), Name (Name)
+{
+Тан
+}
+
+STRING 648
+// Units: h61W (Mountaineer), Name (Name)
+{
+Гірський піхотинець
+}
+
+STRING 656
+// Units: o61S (Bunker), Name (Name)
+{
+Bunker
+}
+
+STRING 657
+// Units: o61S (Bunker), Tip (Tooltip - Basic)
+{
+Build Bunker
+}
+
+STRING 658
+// Units: o61S (Bunker), Ubertip (Tooltip - Extended)
+{
+Provides food, which increases the maximum number of units that can be trained. Riflemen can garrison inside to attack enemy units. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 665
+// Units: h61Z (Sawmill), Name (Name)
+{
+Пилорама
+}
+
+STRING 666
+// Units: h61Z (Sawmill), Tip (Tooltip - Basic)
+{
+Build Sawmill
+}
+
+STRING 670
+// Units: n61O (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 671
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gray)
+}
+
+STRING 672
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 673
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 674
+// Units: n61P (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 675
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Black)
+}
+
+STRING 676
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 677
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 678
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 679
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Brown)
+}
+
+STRING 680
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 681
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 818
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Cinematic Head Pointer
+}
+
+STRING 906
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 931
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 932
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 933
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 934
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 942
+// Doodads: D647 (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 945
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Cavern
+}
+
+STRING 950
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 951
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 952
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 969
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Old Tomb
+}
+
+STRING 971
+// Destructibles: B62T (Egg), Name (Name)
+{
+Яйце кроколіска
+}
+
+STRING 976
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 977
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 980
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 983
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 999
+// Destructibles: B60U (Chest), Name (Name)
+{
+Скриня
+}
+
+STRING 1000
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 1004
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 1005
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1008
+// Destructibles: B00V (WETLAND), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 1009
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1012
+// Destructibles: B61C (Stromgarde Banner), EditorSuffix (Editor Suffix)
+{
+(Destroyed)
+}
+
+STRING 1014
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1015
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1016
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 1046
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1047
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1048
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1049
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1050
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+DarkCliff
+}
+
+STRING 1051
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1052
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+DarkCliffSmall
+}
+
+STRING 1053
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1062
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1063
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1064
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1065
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1066
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1069
+// Destructibles: B002 (Jungle Beast Doodad), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1090
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Stone Bench
+}
+
+STRING 1091
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Wooden Bench
+}
+
+STRING 1092
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Weapon Rack New
+}
+
+STRING 1094
+// Destructibles: B00H (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 1095
+// Destructibles: B00I (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 1096
+// Destructibles: B00J (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 1097
+// Destructibles: B00K (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 1099
+// Destructibles: B00M (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1100
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+Food Supplies
+}
+
+STRING 1102
+// Destructibles: B00P (Carpets), Name (Name)
+{
+Carpets
+}
+
+STRING 1103
+// Destructibles: B00Q (Railroad), Name (Name)
+{
+Railroad
+}
+
+STRING 1104
+// Destructibles: B00A (Vine Trap), Name (Name)
+{
+Пастка з лози
+}
+
+STRING 1113
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1114
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1118
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1120
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1121
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1123
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1125
+// Doodads: D623 (Dwarven Banner), Name (Name)
+{
+Dwarven Banner
+}
+
+STRING 1131
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1133
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1140
+// Doodads: D69C (Plague), Name (Name)
+{
+Plague
+}
+
+STRING 1156
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1157
+// Doodads: D6AD (Fog), Name (Name)
+{
+Fog
+}
+
+STRING 1158
+// Doodads: D6AE (Light), Name (Name)
+{
+Light
+}
+
+STRING 1159
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1160
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1167
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1185
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Glow Small
+}
+
+STRING 1192
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1193
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1194
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1195
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1198
+// Doodads: D6D6 (Torture Cage), Name (Name)
+{
+Torture Cage
+}
+
+STRING 1199
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1200
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1201
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1202
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1203
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1204
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1206
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+StromGarde Banner
+}
+
+STRING 1207
+// Doodads: D6DQ (Burning Blade Banner), Name (Name)
+{
+Burning Blade Banner
+}
+
+STRING 1228
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1229
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1230
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1233
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1234
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1239
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1240
+// Doodads: D6F8 (Lightning Branched), Name (Name)
+{
+Lightning Branched
+}
+
+STRING 1241
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1262
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Orc Long Banner
+}
+
+STRING 1269
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1277
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1278
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1279
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1280
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1297
+// Doodads: D60M (Wildhammer Well), Name (Name)
+{
+Wildhammer Well
+}
+
+STRING 1298
+// Doodads: D61B (Wildhammer Post), Name (Name)
+{
+Wildhammer Post
+}
+
+STRING 1299
+// Doodads: D61C (Gryphon Shed), Name (Name)
+{
+Gryphon Shed
+}
+
+STRING 1300
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1301
+// Doodads: D61G (Wildhammer Banner), Name (Name)
+{
+Wildhammer Banner
+}
+
+STRING 1302
+// Doodads: D000 (DoorArch), Name (Name)
+{
+DoorArch
+}
+
+STRING 1307
+// Doodads: D00X (Sewer Hatch), Name (Name)
+{
+Sewer Hatch
+}
+
+STRING 1308
+// Doodads: D006 (Cargo), Name (Name)
+{
+Cargo
+}
+
+STRING 1309
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Gunny Bag
+}
+
+STRING 2523
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 2524
+{
+Unable to use Oil Rig.
+}
+
+STRING 2525
+{
+That Oil Patch has already being used.
+}
+
+STRING 2526
+{
+Must build Oil Rig first.
+}
+
+STRING 2527
+{
+Must target an Oil Patch.
+}
+
+STRING 2528
+{
+Must build upon Oil Patch.
+}
+
+STRING 2529
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 2530
+{
+Нечисть
+}
+
+STRING 2531
+// Destructibles: B60J (Egg Sack), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 2532
+// Destructibles: B00S (Grim Batol Gate), Name (Name)
+{
+Grim Batol Gate
+}
+
+STRING 2533
+// Doodads: D008 (Grim Batol Tower A), Name (Name)
+{
+Grim Batol Tower A
+}
+
+STRING 2534
+// Doodads: D009 (Grim Batol Tower B), Name (Name)
+{
+Grim Batol Tower B
+}
+
+STRING 2535
+// Doodads: D00A (Grim Batol Tower C), Name (Name)
+{
+Grim Batol Tower C
+}
+
+STRING 2536
+// Doodads: D00B (Grim Batol Tower D), Name (Name)
+{
+Grim Batol Tower D
+}
+
+STRING 2537
+// Doodads: D00C (Dwarven Tower A), Name (Name)
+{
+Dwarven Tower A
+}
+
+STRING 2538
+// Doodads: D00D (Dwarven Tower B), Name (Name)
+{
+Dwarven Tower B
+}
+
+STRING 2539
+// Doodads: D00E (Dwarven Tower C), Name (Name)
+{
+Dwarven Tower C
+}
+
+STRING 2540
+// Doodads: D00F (Dwarven Tower D), Name (Name)
+{
+Dwarven Tower D
+}
+
+STRING 2547
+// Units: o001 (Дикун з клану кривавої очниці), EditorSuffix (Name - Editor Suffix)
+{
+(Bleeding Hollow)
+}
+
+STRING 2548
+// Units: o001 (Дикун з клану кривавої очниці), Name (Name)
+{
+Дикун
+}
+
+STRING 2549
+// Units: o001 (Дикун з клану кривавої очниці), Tip (Tooltip - Basic)
+{
+Train Дикун з клану кривавої очниці
+}
+
+STRING 2550
+// Units: njg1 (Bog Beast), Name (Name)
+{
+Болотяний звір
+}
+
+STRING 2551
+// Units: njg1 (Bog Beast), Tip (Tooltip - Basic)
+{
+Summon Bog Beast
+}
+
+STRING 2552
+// Units: njgb (Enraged Bog Beast), Name (Name)
+{
+Розлючений  болотяний звір
+}
+
+STRING 2553
+// Units: njgb (Enraged Bog Beast), Tip (Tooltip - Basic)
+{
+Summon Enraged Bog Beast
+}
+
+STRING 2554
+// Units: njga (Huge Bog Beast), Name (Name)
+{
+Великий болотяний звір
+}
+
+STRING 2555
+// Units: njga (Huge Bog Beast), Tip (Tooltip - Basic)
+{
+Summon Huge Bog Beast
+}
+
+STRING 2559
+// Units: n00T (Stalker), Name (Name)
+{
+Сталкер
+}
+
+STRING 2560
+// Units: n00T (Stalker), Tip (Tooltip - Basic)
+{
+Train Stalker
+}
+
+STRING 2562
+// Units: n00T (Stalker), EditorSuffix (Name - Editor Suffix)
+{
+(Bleeding Hollow)
+}
+
+STRING 2564
+// Units: o002 (Slave), EditorSuffix (Name - Editor Suffix)
+{
+(Bleeding hollow)
+}
+
+STRING 2565
+// Units: o002 (Slave), Name (Name)
+{
+Раб
+}
+
+STRING 2566
+// Units: o002 (Slave), Tip (Tooltip - Basic)
+{
+Train Slave
+}
+
+STRING 2567
+// Units: h006 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde)
+}
+
+STRING 2568
+// Units: h007 (Knight), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde)
+}
+
+STRING 2569
+// Units: h008 (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde)
+}
+
+STRING 2571
+// Doodads: D00H (Wetlands Structure 01), Name (Name)
+{
+Wetlands Structure 01
+}
+
+STRING 2572
+// Doodads: D00W (Wetlands Structure 02), Name (Name)
+{
+Wetlands Structure 02
+}
+
+STRING 2573
+// Doodads: D00J (Wetlands Structure 09), Name (Name)
+{
+Wetlands Structure 09
+}
+
+STRING 2574
+// Doodads: D00K (Wetlands Structure 10), Name (Name)
+{
+Wetlands Structure 10
+}
+
+STRING 2575
+// Doodads: D00L (Wetlands Column), Name (Name)
+{
+Wetlands Column
+}
+
+STRING 2576
+// Doodads: D00M (Wetlands Column Destroyed), Name (Name)
+{
+Wetlands Column Destroyed
+}
+
+STRING 2577
+// Doodads: D00N (Wetlands Wall), Name (Name)
+{
+Wetlands Wall
+}
+
+STRING 2578
+// Doodads: D00O (Wetlands Wall Low), Name (Name)
+{
+Wetlands Wall Low
+}
+
+STRING 2579
+// Doodads: D00I (Wetlands Structure 12), Name (Name)
+{
+Wetlands Structure 12
+}
+
+STRING 2580
+// Doodads: D00P (Wetlands Structure 11), Name (Name)
+{
+Wetlands Structure 11
+}
+
+STRING 2581
+// Doodads: D00Q (Wetlands Structure 03), Name (Name)
+{
+Wetlands Structure 03
+}
+
+STRING 2582
+// Doodads: D00R (Wetlands Structure 04), Name (Name)
+{
+Wetlands Structure 04
+}
+
+STRING 2583
+// Doodads: D00S (Wetlands Structure 05), Name (Name)
+{
+Wetlands Structure 05
+}
+
+STRING 2584
+// Doodads: D00T (Wetlands Structure 06), Name (Name)
+{
+Wetlands Structure 06
+}
+
+STRING 2585
+// Doodads: D00U (Wetlands Structure 07), Name (Name)
+{
+Wetlands Structure 07
+}
+
+STRING 2586
+// Doodads: D00V (Wetlands Structure 08), Name (Name)
+{
+Wetlands Structure 08
+}
+
+STRING 2587
+// Units: n00U (Eagle), Name (Name)
+{
+Eagle
+}
+
+STRING 2588
+// Destructibles: B00T (Bridgelog small), Name (Name)
+{
+Bridgelog small
+}
+
+STRING 2590
+// Doodads: D00Y (Dwarven Wall), Name (Name)
+{
+Dwarven Wall
+}
+
+STRING 2591
+// Doodads: D00Z (Dwarven Wall Low), Name (Name)
+{
+Dwarven Wall Low
+}
+
+STRING 2592
+// Doodads: D010 (Dwarven Column), Name (Name)
+{
+Dwarven Column
+}
+
+STRING 2593
+// Doodads: D011 (Dwarven Column Destroyed), Name (Name)
+{
+Dwarven Column Destroyed
+}
+
+STRING 2594
+// Doodads: D012 (Dwarven Structure 01), Name (Name)
+{
+Dwarven Structure 01
+}
+
+STRING 2595
+// Doodads: D013 (Dwarven Structure 02), Name (Name)
+{
+Dwarven Structure 02
+}
+
+STRING 2596
+// Doodads: D014 (Dwarven Structure 03), Name (Name)
+{
+Dwarven Structure 03
+}
+
+STRING 2597
+// Doodads: D015 (Dwarven Structure 04), Name (Name)
+{
+Dwarven Structure 04
+}
+
+STRING 2598
+// Doodads: D016 (Dwarven Structure 05), Name (Name)
+{
+Dwarven Structure 05
+}
+
+STRING 2599
+// Doodads: D017 (Dwarven Structure 06), Name (Name)
+{
+Dwarven Structure 06
+}
+
+STRING 2600
+// Doodads: D018 (Dwarven Structure 07), Name (Name)
+{
+Dwarven Structure 07
+}
+
+STRING 2601
+// Doodads: D019 (Dwarven Structure 08), Name (Name)
+{
+Dwarven Structure 08
+}
+
+STRING 2602
+// Doodads: SLt0 (WETLAND_Tree), Name (Name)
+{
+WETLAND_Tree
+}
+
+STRING 2627
+// Units: ncpn (Забутий дух), EditorSuffix (Name - Editor Suffix)
+{
+(Wetland Quest)
+}
+
+STRING 2628
+// Units: ncpn (Забутий дух), Name (Name)
+{
+Забутий дух
+}
+
+STRING 2631
+// Units: n00V (The Beast), EditorSuffix (Name - Editor Suffix)
+{
+(Wetland Quest)
+}
+
+STRING 2636
+// Units: n00W (Angwe), Name (Name)
+{
+Анґве легендарний ґанкер
+}
+
+STRING 2637
+// Doodads: D00G (WETLAND_Dragonfly swarm), Name (Name)
+{
+WETLAND_Dragonfly swarm
+}
+
+STRING 2638
+// Doodads: D01A (WETLAND_rushes), Name (Name)
+{
+WETLAND_rushes
+}
+
+STRING 2639
+// Doodads: D01B (WETLAND_Rocks), Name (Name)
+{
+WETLAND_Rocks
+}
+
+STRING 2640
+// Doodads: D01C (WETLAND_rock), Name (Name)
+{
+WETLAND_rock
+}
+
+STRING 2641
+// Doodads: D01D (WETLAND_vines), Name (Name)
+{
+WETLAND_vines
+}
+
+STRING 2642
+// Doodads: D01E (WETLAND_vines), Name (Name)
+{
+WETLAND_vines
+}
+
+STRING 2643
+// Doodads: D01F (WETLAND_Glow), Name (Name)
+{
+WETLAND_Glow
+}
+
+STRING 2644
+// Doodads: D01G (WETLAND_Grass), Name (Name)
+{
+WETLAND_Grass
+}
+
+STRING 2645
+// Doodads: D01H (WETLAND_Grass2), Name (Name)
+{
+WETLAND_Grass2
+}
+
+STRING 2646
+// Doodads: D01I (WETLAND_Orc watch Tower), Name (Name)
+{
+WETLAND_Orc watch Tower
+}
+
+STRING 2647
+// Doodads: D01J (WETLAND_Dwarf outpost), Name (Name)
+{
+WETLAND_Dwarf outpost
+}
+
+STRING 2648
+// Doodads: D01K (WETLAND_Bones), Name (Name)
+{
+WETLAND_Bones
+}
+
+STRING 2649
+// Doodads: D01L (WETLAND_StoneWall), Name (Name)
+{
+WETLAND_StoneWall
+}
+
+STRING 2650
+// Doodads: D01M (WETLAND_Fence), Name (Name)
+{
+WETLAND_Fence
+}
+
+STRING 2651
+// Doodads: D01N (WETLAND_Destruction), Name (Name)
+{
+WETLAND_Destruction
+}
+
+STRING 2652
+// Doodads: D01O (WETLAND_Fence), Name (Name)
+{
+WETLAND_Fence
+}
+
+STRING 2653
+// Doodads: D01P (WETLAND_bushes), Name (Name)
+{
+WETLAND_bushes
+}
+
+STRING 2654
+// Doodads: D01Q (WETLAND_FELFIRE), Name (Name)
+{
+WETLAND_FELFIRE
+}
+
+STRING 2655
+// Doodads: D01R (WETLAND_Tree), Name (Name)
+{
+WETLAND_Tree
+}
+
+STRING 2656
+// Doodads: D01T (Wetland_crater), Name (Name)
+{
+Wetland_crater
+}
+
+STRING 2660
+// Destructibles: B00V (WETLAND), Name (Name)
+{
+WETLAND
+}
+
+STRING 2661
+// Doodads: D01U (WETLAND_Dwarf outpost), Name (Name)
+{
+WETLAND_Dwarf outpost
+}
+
+STRING 2662
+// Doodads: D01V (WETLAND_Windmill), Name (Name)
+{
+WETLAND_Windmill
+}
+
+STRING 2663
+// Doodads: D01W (WETLAND_Collum), Name (Name)
+{
+WETLAND_Collum
+}
+
+STRING 2694
+// Items: I00A (Stranglekelp), Name (Name)
+{
+Удавник
+}
+
+STRING 2695
+// Items: I00A (Stranglekelp), Tip (Tooltip - Basic)
+{
+Purchase Stranglekelp
+}
+
+STRING 2698
+// Doodads: D01Y (WETLAND_Woodpannel), Name (Name)
+{
+WETLAND_Woodpannel
+}
+
+STRING 2710
+// Destructibles: B00W (Cliffs EDIT), Name (Name)
+{
+Cliffs EDIT
+}
+
+STRING 2711
+// Destructibles: B00W (Cliffs EDIT), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 2716
+// Units: n00Y (Ma's Ghost), Name (Name)
+{
+Ma's Ghost
+}
+
+STRING 2717
+// Units: n00Z (Horrorjaw Jr), Name (Name)
+{
+"Щелепи Кошмару" молодший
+}
+
+STRING 2718
+// Items: I00A (Stranglekelp), Ubertip (Tooltip - Extended)
+{
+Restores 5 Mana points.
+
+Stranglekelp is an herb that can be gathered by those with herbalism. Stranglekelp is mostly found underwater in coastal areas.
+}
+
+STRING 2719
+// Items: I00A (Stranglekelp), Description (Description)
+{
+Restores 50 mana.
+A plant used in alchemy.
+}
+
+STRING 2721
+// Units: n00W (Angwe), EditorSuffix (Name - Editor Suffix)
+{
+(easter egg)
+}
+
+STRING 2722
+// Units: n00Y (Ma's Ghost), EditorSuffix (Name - Editor Suffix)
+{
+(easter egg)
+}
+
+STRING 2723
+// Units: e002 (Vengefull spirit), Name (Name)
+{
+Vengefull spirit
+}
+
+STRING 2724
+// Units: e002 (Vengefull spirit), EditorSuffix (Name - Editor Suffix)
+{
+(Ma's summons)
+}
+
+STRING 2725
+{
+Клан Чорної скелі
+}
+
+STRING 2727
+{
+Клан Чорнозубого вищиру
+}
+
+STRING 2728
+{
+Клан Драконячої пащі
+}
+
+STRING 2729
+{
+Клан Кривавої очниці
+}
+
+STRING 2730
+// Units: n011 (Ma's Grave), Name (Name)
+{
+Ma's Grave
+}
+
+STRING 2731
+// Destructibles: B00X (Railroad tilted), Name (Name)
+{
+Railroad tilted
+}
+
+STRING 2732
+// Destructibles: B00Y (Cavern), Name (Name)
+{
+Cavern
+}
+
+STRING 2733
+// Destructibles: B00Y (Cavern), EditorSuffix (Editor Suffix)
+{
+(decoration)
+}
+
+STRING 2734
+// Doodads: D01Z (WETLAND_Fence), Name (Name)
+{
+WETLAND_Fence
+}
+
+STRING 2736
+// Destructibles: B00Z (WETLAND_LIGHTS), Name (Name)
+{
+WETLAND_LIGHTS
+}
+
+STRING 2737
+// Doodads: D021 (WETLAND_Light), Name (Name)
+{
+WETLAND_Light
+}
+
+STRING 2738
+// Units: n00V (The Beast), Name (Name)
+{
+Звірюка
+}
+
+STRING 2739
+// Destructibles: B010 (Pathing Blocker (Ground) (Large Tall)), Name (Name)
+{
+Pathing Blocker (Ground) (Large Tall)
+}
+
+STRING 2740
+// Destructibles: B011 (Pathing Blocker (Ground) (Large Tall)), Name (Name)
+{
+Pathing Blocker (Ground) (Large Tall)
+}
+
+STRING 2741
+// Destructibles: B012 (Pathing Blocker (Ground) (Large Tall)), Name (Name)
+{
+Pathing Blocker (Ground) (Large Tall)
+}
+
+STRING 2742
+// Destructibles: B013 (Pathing Blocker (Ground) (Large Fat)), Name (Name)
+{
+Pathing Blocker (Ground) (Large Fat)
+}
+
+STRING 2796
+// Units: u004 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Spells)
+}
+
+STRING 2812
+// Units: Nfir (Elemental), Name (Name)
+{
+Елементаль
+}
+
+STRING 2901
+// Units: Nfir (Elemental), Propernames (Proper Names)
+{
+Елементаль вогню
+}
+
+STRING 2905
+// Destructibles: B61C (Stromgarde Banner), Name (Name)
+{
+Stromgarde Banner
+}
+
+STRING 2909
+// Destructibles: B60P (Cavern), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 2910
+// Doodads: D01X (WETLAND_Woodpannel_Vertical), Name (Name)
+{
+WETLAND_Woodpannel_Vertical
+}
+
+STRING 2911
+// Destructibles: B000 (Wetland Canopy Tree), Name (Name)
+{
+Wetland Canopy Tree
+}
+
+STRING 2912
+{
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+}
+
+STRING 2913
+{
+Blacktoothgrin Clan
+}
+
+STRING 2922
+{
+|cffff0000УВАГА|r 
+Ви обрали йти стежиною, що веде на ПІВНІЧ. Ви НЕ можете йти на південь.
+}
+
+STRING 2924
+{
+ЯКОЮ СТЕЖИНОЮ ПІДЕТЕ?
+}
+
+STRING 2925
+{
+ЛІВОРУЧ ЧЕРЕЗ ТАБІР ЛЮДЕЙ 
+}
+
+STRING 2926
+{
+ПРАВОРУЧ ЧЕРЕЗ ТАБІР ДВОРФІВ
+}
+
+STRING 3038
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3041
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Запізно, сонце зійшло, але Чоʼґалл так і не досяг табору клану кривавої очниці.
+}
+
+STRING 3042
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Уток загинув.
+}
+
+STRING 3043
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Ваш герой загинув.
+}
+
+STRING 3069
+// Destructibles: B001 (Jungle Beast Doodad), Name (Name)
+{
+Jungle Beast Doodad
+}
+
+STRING 3070
+// Destructibles: B001 (Jungle Beast Doodad), EditorSuffix (Editor Suffix)
+{
+(Medium)
+}
+
+STRING 3071
+// Destructibles: B002 (Jungle Beast Doodad), Name (Name)
+{
+Jungle Beast Doodad
+}
+
+STRING 3073
+// Destructibles: B003 (Jungle Beast Doodad), Name (Name)
+{
+Jungle Beast Doodad
+}
+
+STRING 3074
+// Destructibles: B003 (Jungle Beast Doodad), EditorSuffix (Editor Suffix)
+{
+(Big)
+}
+
+STRING 3077
+// Destructibles: B004 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3078
+// Destructibles: B004 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Villager Male)
+}
+
+STRING 3079
+// Destructibles: B005 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3080
+// Destructibles: B005 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Pack Horse)
+}
+
+STRING 3081
+// Destructibles: B006 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3082
+// Destructibles: B006 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Blacktoorhgrin Brute)
+}
+
+STRING 3083
+// Destructibles: B007 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3084
+// Destructibles: B007 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Footman Stromgarde)
+}
+
+STRING 3085
+// Destructibles: B008 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3086
+// Destructibles: B008 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Captain Stromgarde)
+}
+
+STRING 3087
+// Destructibles: B009 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3088
+// Destructibles: B009 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Archer Stromgarde)
+}
+
+STRING 3089
+// Doodads: D001 (Dragonfly swarm), Name (Name)
+{
+Dragonfly swarm
+}
+
+STRING 3142
+// Items: I00B (Tome of War), Name (Name)
+{
+Том війни
+}
+
+STRING 3143
+// Items: I00B (Tome of War), Tip (Tooltip - Basic)
+{
+Purchase Tome of War
+}
+
+STRING 3144
+// Items: I00B (Tome of War), Ubertip (Tooltip - Extended)
+{
+Increases the weapon mastery of your units.
+}
+
+STRING 3145
+// Items: I00B (Tome of War), Description (Description)
+{
+Покращує майстерність володіння зброєю.
+}
+
+STRING 3148
+// Destructibles: B00B (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3149
+// Destructibles: B00B (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Rifleman)
+}
+
+STRING 3150
+// Destructibles: B00C (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3151
+// Destructibles: B00C (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Moauntaineer)
+}
+
+STRING 3152
+// Destructibles: B00L (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3153
+// Destructibles: B00L (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Дикун з клану кривавої очниці)
+}
+
+STRING 3158
+{
+Клан Палаючого клинка
+}
+
+STRING 3164
+// Destructibles: B00R (Cilyndrical Ramp), Name (Name)
+{
+Cilyndrical Ramp
+}
+
+STRING 3165
+// Units: h00A (Visibility Controller), Name (Name)
+{
+Visibility Controller
+}
+
+STRING 3166
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3167
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3168
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3169
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3170
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3171
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3172
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3175
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3176
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3177
+{
+|cffffcc00CHEAT ENABLED|r 
+}
+
+STRING 3178
+// Doodads: D020 (Light Cold), Name (Name)
+{
+Light Cold
+}
+
+STRING 3183
+// Destructibles: B014 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3184
+// Destructibles: B014 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Villager Female)
+}
+
+STRING 3185
+// Destructibles: B015 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3186
+// Destructibles: B015 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Villager Female Decaied)
+}
+
+STRING 3190
+{
+|cffff0000УВАГА|r 
+Ви обрали йти лівою стежиною. Шлях праворуч тепер недоступний.
+}
+
+STRING 3191
+// Destructibles: B016 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3192
+// Destructibles: B016 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Ballistae)
+}
+
+STRING 3309
+// Units: O616 (Chieftain), Propernames (Proper Names)
+{
+Кілроґґ Мертве Око
+}
+
+STRING 3316
+// Units: O616 (Chieftain), Awakentip (Tooltip - Awaken)
+{
+Revive Chieftain
+}
+
+STRING 3317
+// Units: O616 (Chieftain), Revivetip (Tooltip - Revive)
+{
+Revive Chieftain
+}
+
+STRING 3318
+// Units: O616 (Chieftain), Name (Name)
+{
+Отаман
+}
+
+STRING 3339
+{
+|cffd47832LORE|r
+Cho’gall is a powerful ogre mage, Initiate of the Fifth Circle of the Shadow Council and Chieftain of the Twilight's Hammer clan. He was spared execution alongside his master Gul’dan and must now prove his worth to the Horde.
+}
+
+STRING 3341
+{
+|cffd47832LORE|r
+As a consequence of the Second War, the Wetlands have become a ruthless battleground, with the Ironforge dwarves and their Stromgarde allies fighting relentlessly against the Bleeding Hollow and the Burning Blade clans.
+}
+
+STRING 3412
+// Doodads: D022 (Fire Pit (Pathless)), Name (Name)
+{
+Fire Pit (Pathless)
+}
+
+STRING 3432
+{
+Зулугед Змучений
+}
+
+STRING 3433
+// _HD.w3mod/Sound/Ambient/DoodadEffects/DoomhammerAnnoyed_1.mp3
+{
+Hmm...
+}
+
+STRING 3434
+{
+|cff87ceebREINFORCEMENT|r
+Bleeding Hollow |cff008000Savages|r came from the wilds of Tanaan Jungle on Draenor. They can |cffff0000eat corpses|r in order to regain their health after combat.
+
+}
+
+STRING 3435
+{
+|cff87ceebREINFORCEMENT|r
+Bleeding Hollow |cff008000Stalkers|r are ranged units, trained to hunt in dangerous jungles of Tanaan.
+They have |cff00ff00envenomed spears|r that poison their enemies.
+
+}
+
+STRING 3479
+// Units: ndrj (Slime), Name (Name)
+{
+Слиз
+}
+
+STRING 3481
+// Doodads: D023 (Map Poster), Name (Name)
+{
+Map Poster
+}
+
+STRING 3487
+// Doodads: D024 (Distant Land Wallpaper Highlands), Name (Name)
+{
+Distant Land Wallpaper Highlands
+}
+
+STRING 3499
+{
+Клан Сутінкового молоту
+}
+
+STRING 3500
+{
+Клан Чорнозубого вищиру
+}
+
+STRING 3501
+// Units: n00T (Stalker), Ubertip (Tooltip - Extended)
+{
+Medium ranged unit that throws spears. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 3507
+// Units: O616 (Chieftain), Tip (Tooltip - Basic)
+{
+Отаман
+}
+
+STRING 3514
+{
+|cffffcc00ЗНАЙДЕНО СЕКРЕТ|r
+Розблоковано секретне завдання.
+}
+
+STRING 3518
+// Units: Nfir (Elemental), Awakentip (Tooltip - Awaken)
+{
+Revive Elemental
+}
+
+STRING 3519
+// Units: Nfir (Elemental), Tip (Tooltip - Basic)
+{
+Summon Elemental
+}
+
+STRING 3520
+// Units: Nfir (Elemental), Revivetip (Tooltip - Revive)
+{
+Revive Elemental
+}
+
+STRING 3529
+// Units: o001 (Дикун з клану кривавої очниці), Ubertip (Tooltip - Extended)
+{
+Brutish Orc warrior.
+Abilities: Cannibalism - Pillage
+
+|cffffcc00Attacks land units.|r
+}
+
+STRING 3530
+// Doodads: DOWP (Wanted Scroll), Name (Name)
+{
+Wanted Scroll
+}
+
+STRING 3531
+{
+Чо'ґалл
+}
+
+STRING 3532
+{
+Могутній огр-маг Чо'ґалл отримав завдання від вождя, перевірити стан нафтової інфраструктури орди у Хаз Модані. Супроводіть його в безпеці у табір Кривавої очниці до світанку.
+}
+
+STRING 3533
+{
+Супроводіть Чо'ґалла у табір до світанку
+}
+
+STRING 3534
+{
+Чо'ґалл має вижити.
+}
+
+STRING 3535
+{
+Зулугед має вижити.
+}
+
+STRING 3536
+{
+Уток має вижити.
+}
+
+STRING 3538
+{
+Світанок о 06:00
+}
+
+STRING 3539
+{
+Поточний час (в годинах):
+}
+
+STRING 3540
+{
+Поточний час:
+}
+
+STRING 3541
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Чо'ґалл
+- Супроводіть Чо'ґалла у табір до світанку
+- Чо'ґалл та Зулугед мають вижити
+}
+
+STRING 3542
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Чо'ґалл
+- Супроводіть Чо'ґалла у табір до світанку
+- Чо'ґалл та Зулугед та Уток мають вижити
+- Уток має вижити
+}
+
+STRING 3549
+{
+|cffd47832LORE|r
+The Wetlands is a vast, cold swampy region north of Ironforge. Mists cloak the ground, and the overcast sky makes the land a uniform gray. Many Ironforge strongholds once stood in this region, but war has reduced them to rubble. The land is dangerous and filled with vicious wild animals ready to prey on unsuspecting travelers.
+
+}
+
+STRING 3551
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Чо'ґалл
+}
+
+STRING 3552
+{
+|c0000FF00Слідкуйте за часом, половина ночі вже пройшла.|r
+}
+
+STRING 3554
+{
+|c00FF7F00Покваптесь! Світанок за дві години!|r
+}
+
+STRING 3556
+{
+|c00FF7F00Не зволікайте! Світанок за годину!|r
+}
+
+STRING 3558
+{
+|c00FF7F00Час збігає! Світанок за пів години!|r
+}
+
+STRING 3560
+{
+|cffff0000Часу майже немає, світанок ось ось!|r
+}
+
+STRING 3564
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r 
+Ґрім Батол
+- Дістанеться до Ґрім Батолу.
+}
+
+STRING 3565
+{
+Ґрім Батол
+}
+
+STRING 3566
+{
+Слідкуйте Кілроґґом Мертве Око до входу у Ґрім Батол.
+}
+
+STRING 3567
+{
+Дістанеться до Ґрім Батолу
+}
+
+STRING 3568
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Ґрім Батол
+}
+
+STRING 3575
+{
+Бранці
+}
+
+STRING 3576
+{
+Люди взяли в полон і посадили у клітки наших побратимів. Вбийте рожевошкірих та звільніть наших воїнів.  
+}
+
+STRING 3577
+{
+Звільніть 4х бранців
+}
+
+STRING 3578
+{
+Звільність 6 бранців
+}
+
+STRING 3579
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|
+Бранці
+  - Звільніть 6 бранців
+}
+
+STRING 3582
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r
+Бранці
+}
+
+STRING 3583
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Бранці
+  - Звільніть 4х бранців
+}
+
+STRING 3587
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Звірюка
+  - Позбудьтеся звіра
+}
+
+STRING 3591
+{
+Поверніться до дикуна
+}
+
+STRING 3592
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Звірюка
+|cff808080- Позбудьтеся звірюки (Завершено)|r
+- Поверніться до дикуна з клану Кривавої очниці
+}
+
+STRING 3593
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r
+Звірюка
+|cff808080- Позбудьтеся звірюки. (Виконано).|r
+|cff808080- Поверніться до дикуна з клану Кривавої очниці. (Виконано).|r
+}
+
+STRING 3594
+{
+|cff32cd32ПІДКАЗКА|r
+Том війни збільшує бойові навички всіх ваших одиниць окрім героїв. Тепер вони мають +1 рівень покращення атаки та захисту.
+}
+
+STRING 3595
+{
+|cff8080ffНОВИЙ ГЕРОЙ|r
+Чо'ґалл — могутній огр-маг, посвячений п'ятого кола Ради Тіней і Вождь клану Сутінкового Молота. Орґрім Молот Згуби помилував Чо’ґалла та його повелителя Ґул'дана, і тепер він служить Орді аби довести свою вірність.
+}
+
+STRING 3596
+{
+|cffd47832LORE|r
+Chaotic and unpredictable, the Burning Blade is a brotherhood of demented Orcs whose only objective is to raze and plunder with no regard for their own safety. 
+
+}
+
+STRING 3597
+{
+|cffd47832LORE|r
+The Bleeding Hollow clan under  the cunning leadership of their chieftain Кілроґґ Мертве Око it has achieved legendary status for their participation in the destruction of Stormwind. It has since become instrumental in the Horde occupation of the dwarven and gnomish homelands of Khaz Modan.
+
+}
+
+STRING 3601
+{
+Звірюка
+}
+
+STRING 3602
+{
+Болотяна звірюка вбила багато орків з клану Кривавої очниці у цьому місці. Знайдіть спосіб позбутися звіра.
+}
+
+STRING 3603
+{
+Позбудьтеся звірюки
+}
+
+STRING 3606
+{
+Лишилося визволити окрів:
+}
+
+STRING 3607
+// Items: I0L0 (WC2Orc06Zuluhed1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3610
+// Items: I0L0 (WC2Orc06Zuluhed1), Description (Description)
+{
+Я не любитель таких вологих і тим паче болотяних земель, Утоке. Спочатку Тананські джунглі на Дренорі, потім після того, як ми пройшли крізь темний портал болотяна місцевість «Чорної драговини»… тепер це місце.
+}
+
+STRING 3611
+// Items: I0L0 (WC2Orc06Zuluhed1), Name (Name)
+{
+WC2Orc06Zuluhed1
+}
+
+STRING 3612
+// Items: I0L1 (WC2Orc06Zuluhed2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3613
+// Items: I0L1 (WC2Orc06Zuluhed2), Description (Description)
+{
+Саме так. До того ж ці кляті болота притуплюють мої відчуття… але не дивлячись на це, треба продовжувати. Утоке, ти краще розкажи мені, як такий молодий орк пішов шляхом шамана?
+}
+
+STRING 3614
+// Items: I0L1 (WC2Orc06Zuluhed2), Name (Name)
+{
+WC2Orc06Zuluhed2
+}
+
+STRING 3615
+// Items: I0L2 (WC2Orc06Zuluhed3), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3616
+// Items: I0L2 (WC2Orc06Zuluhed3), Description (Description)
+{
+Те що з нами трапилося це… неймовірно прикро, я сподіваюсь на те, що Орґрім веде нас до перемоги й допоможе всім нам побудувати нове майбутнє у цьому світі, світі який далеко від демонів та їх мерзенних проклять.
+}
+
+STRING 3617
+// Items: I0L2 (WC2Orc06Zuluhed3), Name (Name)
+{
+WC2Orc06Zuluhed3
+}
+
+STRING 3618
+// Items: I0L3 (WC2Orc06Zuluhed4), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3619
+// Items: I0L3 (WC2Orc06Zuluhed4), Description (Description)
+{
+Добре тоді, сфокусуймось на тому для чого Молот Згуби нас сюди відправив. У тій звістці, що ти отримав, там було хоч якесь уточнення, що саме за "посланця" ми маємо охороняти тут?
+}
+
+STRING 3620
+// Items: I0L3 (WC2Orc06Zuluhed4), Name (Name)
+{
+WC2Orc06Zuluhed4
+}
+
+STRING 3621
+// Items: I0L4 (WC2Orc06Zuluhed5), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3622
+// Items: I0L4 (WC2Orc06Zuluhed5), Description (Description)
+{
+Чо'ґалл?! Він і є "посланцем"? Ніколи б не подумав, що Молот Згуби так принизить мене, приставивши у якості охоронця до цієї зрадницької тваринки Ґул'дана.
+}
+
+STRING 3623
+// Items: I0L4 (WC2Orc06Zuluhed5), Name (Name)
+{
+WC2Orc06Zuluhed5
+}
+
+STRING 3624
+// Items: I0L5 (WC2Orc06Zuluhed6), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3625
+// Items: I0L5 (WC2Orc06Zuluhed6), Description (Description)
+{
+Вітаю Чо'ґалле… дивлюсь ваш клан більше не дотримується наших традицій, обладунки та вигляд твоїх воїнів якісь дивні, і поведінка теж... якась...
+}
+
+STRING 3626
+// Items: I0L5 (WC2Orc06Zuluhed6), Name (Name)
+{
+WC2Orc06Zuluhed6
+}
+
+STRING 3627
+// Items: I0L6 (WC2Orc06Zuluhed7), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3628
+// Items: I0L6 (WC2Orc06Zuluhed7), Description (Description)
+{
+О духи, дайте мені терпіння... Давайте до справ...
+}
+
+STRING 3629
+// Items: I0L6 (WC2Orc06Zuluhed7), Name (Name)
+{
+WC2Orc06Zuluhed7
+}
+
+STRING 3630
+// Items: I0L7 (WC2Orc06Zuluhed8), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3631
+// Items: I0L7 (WC2Orc06Zuluhed8), Description (Description)
+{
+Під покровом ночі, зможемо пройти ці землі, майже непомітно. Ми маємо дійти до Ґрім Батолу до світанку. Тож рушаймо.
+}
+
+STRING 3632
+// Items: I0L7 (WC2Orc06Zuluhed8), Name (Name)
+{
+WC2Orc06Zuluhed8
+}
+
+STRING 3633
+// Items: I0L8 (WC2Orc06Zuluhed9), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3634
+// Items: I0L8 (WC2Orc06Zuluhed9), Description (Description)
+{
+Я теж це відчуваю, Кілроґґ… І я б хотів дослідити це більше, але дослідження цього місця має зачекати. Чо’ґалл… ти готовий продовжити свою подорож звідси?
+}
+
+STRING 3635
+// Items: I0L8 (WC2Orc06Zuluhed9), Name (Name)
+{
+WC2Orc06Zuluhed9
+}
+
+STRING 3636
+// Items: I0L9 (WC2Orc06Zuluhed10), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3637
+// Items: I0L9 (WC2Orc06Zuluhed10), Description (Description)
+{
+Ти не один Кілроґґ. Я відчуваю дивні сили від нього.., це ані скверна, ані таємна магія. це щось інше...
+}
+
+STRING 3638
+// Items: I0L9 (WC2Orc06Zuluhed10), Name (Name)
+{
+WC2Orc06Zuluhed10
+}
+
+STRING 3639
+// Items: I0LA (WC2Orc06Zuluhed11), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3641
+// Items: I0LA (WC2Orc06Zuluhed11), Name (Name)
+{
+WC2Orc06Zuluhed11
+}
+
+STRING 3642
+// Items: I0LB (WC2Orc06Zuluhed12), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3643
+// Items: I0LB (WC2Orc06Zuluhed12), Description (Description)
+{
+І ще... мені треба розгадати одну загадку.
+}
+
+STRING 3644
+// Items: I0LB (WC2Orc06Zuluhed12), Name (Name)
+{
+WC2Orc06Zuluhed12
+}
+
+STRING 3645
+// Items: I0LC (WC2Orc06Zuluhed_AllianceCatapult1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3646
+// Items: I0LC (WC2Orc06Zuluhed_AllianceCatapult1), Description (Description)
+{
+Було б чудово знищити Альянс їх власною зброєю...
+}
+
+STRING 3647
+// Items: I0LC (WC2Orc06Zuluhed_AllianceCatapult1), Name (Name)
+{
+WC2Orc06Zuluhed_AllianceCatapult1
+}
+
+STRING 3648
+// Items: I0LD (WC2Orc06Zuluhed_BHollowLastCamp1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3649
+// Items: I0LD (WC2Orc06Zuluhed_BHollowLastCamp1), Description (Description)
+{
+Нарешті ми тут...
+}
+
+STRING 3650
+// Items: I0LD (WC2Orc06Zuluhed_BHollowLastCamp1), Name (Name)
+{
+WC2Orc06Zuluhed_BHollowLastCamp1
+}
+
+STRING 3651
+// Items: I0LE (WC2Orc06Zuluhed_BHollowLastCamp2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3652
+// Items: I0LE (WC2Orc06Zuluhed_BHollowLastCamp2), Description (Description)
+{
+Тобі бракує манер… Орге.
+}
+
+STRING 3653
+// Items: I0LE (WC2Orc06Zuluhed_BHollowLastCamp2), Name (Name)
+{
+WC2Orc06Zuluhed_BHollowLastCamp2
+}
+
+STRING 3654
+// Items: I0LF (WC2Orc06Zuluhed_BHollowMinicamp1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3655
+// Items: I0LF (WC2Orc06Zuluhed_BHollowMinicamp1), Description (Description)
+{
+Тром-ка воїни! Здається, багатьох з вас було поранено.
+}
+
+STRING 3656
+// Items: I0LF (WC2Orc06Zuluhed_BHollowMinicamp1), Name (Name)
+{
+WC2Orc06Zuluhed_BHollowMinicamp1
+}
+
+STRING 3657
+// Items: I0LG (WC2Orc06Zuluhed_BHollowMinicamp2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3658
+// Items: I0LG (WC2Orc06Zuluhed_BHollowMinicamp2), Description (Description)
+{
+Дуже добре воїне. Не в наших інтересах лишати друзів гнити в клітках Альянсу.
+}
+
+STRING 3659
+// Items: I0LG (WC2Orc06Zuluhed_BHollowMinicamp2), Name (Name)
+{
+WC2Orc06Zuluhed_BHollowMinicamp2
+}
+
+STRING 3660
+// Items: I0LH (WC2Orc06Zuluhed_BrokenBridge1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3661
+// Items: I0LH (WC2Orc06Zuluhed_BrokenBridge1), Description (Description)
+{
+Схоже що ці мости не були розраховані на огрів, треба бути обачнішими далі.
+}
+
+STRING 3662
+// Items: I0LH (WC2Orc06Zuluhed_BrokenBridge1), Name (Name)
+{
+WC2Orc06Zuluhed_BrokenBridge1
+}
+
+STRING 3663
+// Items: I0LI (WC2Orc06Zuluhed_ChooseWay1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3664
+// Items: I0LI (WC2Orc06Zuluhed_ChooseWay1), Description (Description)
+{
+Хмммм... далі стежина розходиться у різні боки. Треба обрати яким як саме ми підемо до Ґрім Батолу, бо розділятися це досить ризиковано.
+}
+
+STRING 3665
+// Items: I0LI (WC2Orc06Zuluhed_ChooseWay1), Name (Name)
+{
+WC2Orc06Zuluhed_ChooseWay1
+}
+
+STRING 3666
+// Items: I0LJ (WC2Orc06Zuluhed_ChooseWay2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3667
+// Items: I0LJ (WC2Orc06Zuluhed_ChooseWay2), Description (Description)
+{
+Обидва шляхи не є безпечними, але нема часу на роздуми.
+}
+
+STRING 3668
+// Items: I0LJ (WC2Orc06Zuluhed_ChooseWay2), Name (Name)
+{
+WC2Orc06Zuluhed_ChooseWay2
+}
+
+STRING 3669
+// Items: I0LK (WC2Orc06Zuluhed_CrocoliskQuest1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3670
+// Items: I0LK (WC2Orc06Zuluhed_CrocoliskQuest1), Description (Description)
+{
+Спокійно юначе, що з тобою трапилось?
+}
+
+STRING 3671
+// Items: I0LK (WC2Orc06Zuluhed_CrocoliskQuest1), Name (Name)
+{
+WC2Orc06Zuluhed_CrocoliskQuest1
+}
+
+STRING 3672
+// Items: I0LL (WC2Orc06Zuluhed_CrocoliskQuest2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3673
+// Items: I0LL (WC2Orc06Zuluhed_CrocoliskQuest2), Description (Description)
+{
+Ось ти… і ти зовсім не демон… Просто загнана у кут тварина яка захищала свою територію, але… те що ти забрала життя не має лишитися безкарним.
+}
+
+STRING 3674
+// Items: I0LL (WC2Orc06Zuluhed_CrocoliskQuest2), Name (Name)
+{
+WC2Orc06Zuluhed_CrocoliskQuest2
+}
+
+STRING 3675
+// Items: I0LM (WC2Orc06Zuluhed_CrocoliskQuest3), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3676
+// Items: I0LM (WC2Orc06Zuluhed_CrocoliskQuest3), Description (Description)
+{
+Хмм... що ж я маю зробити? Вилікувати тебе і лишити тебе в мирі або помститися за моїх братів? Що духи підкажуть мені?
+}
+
+STRING 3677
+// Items: I0LM (WC2Orc06Zuluhed_CrocoliskQuest3), Name (Name)
+{
+WC2Orc06Zuluhed_CrocoliskQuest3
+}
+
+STRING 3678
+// Items: I0LN (WC2Orc06Zuluhed_CrocoliskQuest4), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3679
+// Items: I0LN (WC2Orc06Zuluhed_CrocoliskQuest4), Description (Description)
+{
+Звір більше не потурбує тебе, юначе, відпочивай і коли зможеш долучайся до наших воїнів.
+}
+
+STRING 3680
+// Items: I0LN (WC2Orc06Zuluhed_CrocoliskQuest4), Name (Name)
+{
+WC2Orc06Zuluhed_CrocoliskQuest4
+}
+
+STRING 3681
+// Items: I0LO (WC2Orc06Zuluhed_CrocoliskQuest5), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3682
+// Items: I0LO (WC2Orc06Zuluhed_CrocoliskQuest5), Description (Description)
+{
+Ми повернемо вас до вашого отамана воїне.
+}
+
+STRING 3683
+// Items: I0LO (WC2Orc06Zuluhed_CrocoliskQuest5), Name (Name)
+{
+WC2Orc06Zuluhed_CrocoliskQuest5
+}
+
+STRING 3684
+// Items: I0LP (WC2Orc06Zuluhed_Figurine1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3685
+// Items: I0LP (WC2Orc06Zuluhed_Figurine1), Description (Description)
+{
+Аааа, ось і останній фрагмент для фігурки дракона. Це мають бути крила дракона. І якщо і натиснути тут… ага ось воно. Фігурка зібрана!
+}
+
+STRING 3686
+// Items: I0LP (WC2Orc06Zuluhed_Figurine1), Name (Name)
+{
+WC2Orc06Zuluhed_Figurine1
+}
+
+STRING 3687
+// Items: I0LQ (WC2Orc06Zuluhed_ForlornSpirit1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3688
+// Items: I0LQ (WC2Orc06Zuluhed_ForlornSpirit1), Description (Description)
+{
+Невпокоєний дух! Що трапилось з тобою, чому ти борониш це місце?
+}
+
+STRING 3689
+// Items: I0LQ (WC2Orc06Zuluhed_ForlornSpirit1), Name (Name)
+{
+WC2Orc06Zuluhed_ForlornSpirit1
+}
+
+STRING 3690
+// Items: I0LR (WC2Orc06Zuluhed_ForlornSpirit2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3691
+// Items: I0LR (WC2Orc06Zuluhed_ForlornSpirit2), Description (Description)
+{
+Жорстка доля тебе спіткала... якщо ми звільнемо твоїх друзів, то чи впокоїшся ти?
+}
+
+STRING 3692
+// Items: I0LR (WC2Orc06Zuluhed_ForlornSpirit2), Name (Name)
+{
+WC2Orc06Zuluhed_ForlornSpirit2
+}
+
+STRING 3693
+// Items: I0LS (WC2Orc06Zuluhed_RuinsTopLeft1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3694
+// Items: I0LS (WC2Orc06Zuluhed_RuinsTopLeft1), Description (Description)
+{
+Хммм, той, хто звів цей табір, мабуть, був дуже зайнятий розкопуванням артефактів з цієї стародавньої фортеці.
+}
+
+STRING 3695
+// Items: I0LS (WC2Orc06Zuluhed_RuinsTopLeft1), Name (Name)
+{
+WC2Orc06Zuluhed_RuinsTopLeft1
+}
+
+STRING 3696
+// Items: I0LT (WC2Orc06Zuluhed_RuinsTopRight1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3697
+// Items: I0LT (WC2Orc06Zuluhed_RuinsTopRight1), Description (Description)
+{
+Це дуже старі руїни, вражаюче. Стиль та міць цих дворфів може бути порівняно з дренеями або навіть з ограми Ґорії, що на Дренорі.
+}
+
+STRING 3698
+// Items: I0LT (WC2Orc06Zuluhed_RuinsTopRight1), Name (Name)
+{
+WC2Orc06Zuluhed_RuinsTopRight1
+}
+
+STRING 3699
+// Items: I0LU (WC2Orc06Zuluhed_TormentedSoul1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3700
+// Items: I0LU (WC2Orc06Zuluhed_TormentedSoul1), Description (Description)
+{
+Спочивай у мирі...змучена душа…
+}
+
+STRING 3701
+// Items: I0LU (WC2Orc06Zuluhed_TormentedSoul1), Name (Name)
+{
+WC2Orc06Zuluhed_TormentedSoul1
+}
+
+STRING 3702
+// Items: I0LV (WC2Orc06Utok1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3703
+// Items: I0LV (WC2Orc06Utok1), Description (Description)
+{
+Щось не так, отамане? Ти виглядаєш не дуже задоволеним.
+}
+
+STRING 3704
+// Items: I0LV (WC2Orc06Utok1), Name (Name)
+{
+WC2Orc06Utok1
+}
+
+STRING 3705
+// Items: I0LW (WC2Orc06Utok2), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3706
+// Items: I0LW (WC2Orc06Utok2), Description (Description)
+{
+Досить очікувано від орка який був народжений у сухих Дренорських землях Горгронду.
+}
+
+STRING 3707
+// Items: I0LW (WC2Orc06Utok2), Name (Name)
+{
+WC2Orc06Utok2
+}
+
+STRING 3708
+// Items: I0LX (WC2Orc06Utok3), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3709
+// Items: I0LX (WC2Orc06Utok3), Description (Description)
+{
+Відколи Молот Згуби позбавив орду від впливу «Тіньової ради», мені схотілося піти шляхом, яким шли наші пращури. Я просто ненавиджу все те, що Ґулʼдан зі своїм клятим демонічним відріддям зробили з нашим народом, та нашою історією.
+}
+
+STRING 3710
+// Items: I0LX (WC2Orc06Utok3), Name (Name)
+{
+WC2Orc06Utok3
+}
+
+STRING 3711
+// Items: I0LZ (WC2Orc06Utok4), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3712
+// Items: I0LZ (WC2Orc06Utok4), Description (Description)
+{
+Ні отамане, гонець від вождя не дав жодних подробиць. Щось мені підказує, що ось-ось ми дізнаємось більше.
+}
+
+STRING 3713
+// Items: I0LZ (WC2Orc06Utok4), Name (Name)
+{
+WC2Orc06Utok4
+}
+
+STRING 3714
+// Items: I0Lz (WC2Orc06Utok5), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3715
+// Items: I0Lz (WC2Orc06Utok5), Description (Description)
+{
+Це дивує мене не менше ніж тебе, Зулугеде. Я розумію, що ти не в захваті, але думаю що треба покластися на мудрість вождя. Молот Згуби обрав саме тебе, оскільки знає що у Хаз Модані ти є самим надійним отаманом.
+}
+
+STRING 3716
+// Items: I0Lz (WC2Orc06Utok5), Name (Name)
+{
+WC2Orc06Utok5
+}
+
+STRING 3717
+// Items: I0Ly (WC2Orc06Utok6), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3718
+// Items: I0Ly (WC2Orc06Utok6), Description (Description)
+{
+Отамани, давайте заспокоїмось. Ми всі на одному боці!
+}
+
+STRING 3719
+// Items: I0Ly (WC2Orc06Utok6), Name (Name)
+{
+WC2Orc06Utok6
+}
+
+STRING 3720
+// Items: I0LY (WC2Orc06Utok7), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3721
+// Items: I0LY (WC2Orc06Utok7), Description (Description)
+{
+Саме так… Що ви можете сказати про наше завдання тут?
+}
+
+STRING 3722
+// Items: I0LY (WC2Orc06Utok7), Name (Name)
+{
+WC2Orc06Utok7
+}
+
+STRING 3723
+// Items: I0Lx (WC2Orc06Utok8), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3724
+// Items: I0Lx (WC2Orc06Utok8), Description (Description)
+{
+Неймовірно... хто б міг подумати, що ці карлики спроможні побудувати таку архітектуру.
+}
+
+STRING 3725
+// Items: I0Lx (WC2Orc06Utok8), Name (Name)
+{
+WC2Orc06Utok8
+}
+
+STRING 3726
+// Items: I0Lw (WC2Orc06Utok9), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3727
+// Items: I0Lw (WC2Orc06Utok9), Description (Description)
+{
+Отамани, перепрошую, що втручуюсь, але оскільки наше завдання завершене, я маю доручення якомога швидше повернутися до Мейма Чорнорука. Мені потрібно буде скористатися одним із твоїх дирижаблів, отамане Кілрогґ.
+}
+
+STRING 3728
+// Items: I0Lw (WC2Orc06Utok9), Name (Name)
+{
+WC2Orc06Utok9
+}
+
+STRING 3729
+// Items: I0Lv (WC2Orc06Utok_Ambush1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3730
+// Items: I0Lv (WC2Orc06Utok_Ambush1), Description (Description)
+{
+Засідка! Переріжте їх усіх!
+}
+
+STRING 3731
+// Items: I0Lv (WC2Orc06Utok_Ambush1), Name (Name)
+{
+WC2Orc06Utok_Ambush1
+}
+
+STRING 3732
+// Items: I0Lu (WC2Orc06Utok_BrokenBridge1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3733
+// Items: I0Lu (WC2Orc06Utok_BrokenBridge1), Description (Description)
+{
+Прокляття... нам були потрібні ці катапульти
+}
+
+STRING 3734
+// Items: I0Lu (WC2Orc06Utok_BrokenBridge1), Name (Name)
+{
+WC2Orc06Utok_BrokenBridge1
+}
+
+STRING 3735
+// Items: I0Lt (WC2Orc06Utok_ChooseWay1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3736
+// Items: I0Lt (WC2Orc06Utok_ChooseWay1), Description (Description)
+{
+Світанок вже скоро... треба вирішувати швидко!
+}
+
+STRING 3737
+// Items: I0Lt (WC2Orc06Utok_ChooseWay1), Name (Name)
+{
+WC2Orc06Utok_ChooseWay1
+}
+
+STRING 3738
+// Items: I0Ls (WC2Orc06Utok_ChooseWay2), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3739
+// Items: I0Ls (WC2Orc06Utok_ChooseWay2), Description (Description)
+{
+Що це таке?
+}
+
+STRING 3740
+// Items: I0Ls (WC2Orc06Utok_ChooseWay2), Name (Name)
+{
+WC2Orc06Utok_ChooseWay2
+}
+
+STRING 3741
+// Items: I0Lr (WC2Orc06Angwee_EasterEgg1), Tip (Tooltip - Basic)
+{
+Анґве - легендарний ганкер
+}
+
+STRING 3742
+// Items: I0Lr (WC2Orc06Angwee_EasterEgg1), Description (Description)
+{
+Повідомте мені якщо ви десь побачите це сміття з Альянсу.
+}
+
+STRING 3743
+// Items: I0Lr (WC2Orc06Angwee_EasterEgg1), Name (Name)
+{
+WC2Orc06Angwee_EasterEgg1
+}
+
+STRING 3744
+// Items: I0Lq (WC2Orc06THammerGrunt1), Tip (Tooltip - Basic)
+{
+Фанатик з клану Сутінкового молоту
+}
+
+STRING 3745
+// Items: I0Lq (WC2Orc06THammerGrunt1), Description (Description)
+{
+Яке нахабство! Отамане Чо'ґалле, хочеш я виріжу йому язика?
+}
+
+STRING 3746
+// Items: I0Lq (WC2Orc06THammerGrunt1), Name (Name)
+{
+WC2Orc06THammerGrunt1
+}
+
+STRING 3747
+// Items: I0Lp (WC2Orc06BHollowGrunt_CrocoliskQuest1), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3748
+// Items: I0Lp (WC2Orc06BHollowGrunt_CrocoliskQuest1), Description (Description)
+{
+Давай потворо! Ти тут знайдеш свою смер.. ааа? Отамане Зулугеде з клану Драконячої пащі? Як це можливо?
+}
+
+STRING 3749
+// Items: I0Lp (WC2Orc06BHollowGrunt_CrocoliskQuest1), Name (Name)
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest1
+}
+
+STRING 3750
+// Items: I0Lo (WC2Orc06BHollowGrunt_CrocoliskQuest2a), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3751
+// Items: I0Lo (WC2Orc06BHollowGrunt_CrocoliskQuest2a), Description (Description)
+{
+Мій загін... ми вели бої з цими клятими дворфами, а потім ця кремезна тварюка вийшла з темряви та вбила усіх, орків, дворфів, геть усіх.
+}
+
+STRING 3752
+// Items: I0Lo (WC2Orc06BHollowGrunt_CrocoliskQuest2a), Name (Name)
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest2a
+}
+
+STRING 3753
+// Items: I0Ln (WC2Orc06BHollowGrunt_CrocoliskQuest2b), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3754
+// Items: I0Ln (WC2Orc06BHollowGrunt_CrocoliskQuest2b), Description (Description)
+{
+Вона була більше за будь-якого василіска якого я бачив на Дренорі. Очі жовті наче сонце, а луска темна і тверда наче скеля…
+}
+
+STRING 3755
+// Items: I0Ln (WC2Orc06BHollowGrunt_CrocoliskQuest2b), Name (Name)
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest2b
+}
+
+STRING 3756
+// Items: I0Lm (WC2Orc06BHollowGrunt_CrocoliskQuest2c), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3757
+// Items: I0Lm (WC2Orc06BHollowGrunt_CrocoliskQuest2c), Description (Description)
+{
+…зуби гострі як мечі. Я був… я єдиний хто вижив, і зміг врятуватися від тієї істоти. Прошу, помститися за наших полеглих побратимів. знайди цього демона і вбий його!
+}
+
+STRING 3758
+// Items: I0Lm (WC2Orc06BHollowGrunt_CrocoliskQuest2c), Name (Name)
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest2c
+}
+
+STRING 3759
+// Items: I0Ll (WC2Orc06BHollowGrunt_CrocoliskQuest3), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3760
+// Items: I0Ll (WC2Orc06BHollowGrunt_CrocoliskQuest3), Description (Description)
+{
+Дякую тобі, отамане, будь ласка, прийми цей тотем на знак моєї вдячності.
+}
+
+STRING 3761
+// Items: I0Ll (WC2Orc06BHollowGrunt_CrocoliskQuest3), Name (Name)
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest3
+}
+
+STRING 3762
+// Items: I0Lk (WC2Orc06BHollowGrunt_FinalCamp1), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3763
+// Items: I0Lk (WC2Orc06BHollowGrunt_FinalCamp1), Description (Description)
+{
+Зулугед Змучений?! Я радий що ти прибув цілим і неушкодженим. Сьогодні великий день для орди! Ми вбили всіх нікчемних людей… Як тільки відпочинемо, направимо наш гнів на тих безхребетних дворфів що на півдні…
+}
+
+STRING 3764
+// Items: I0Lk (WC2Orc06BHollowGrunt_FinalCamp1), Name (Name)
+{
+WC2Orc06BHollowGrunt_FinalCamp1
+}
+
+STRING 3765
+// Items: I0Lj (WC2Orc06BHollowGrunt_FinalCamp1a), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3766
+// Items: I0Lj (WC2Orc06BHollowGrunt_FinalCamp1a), Description (Description)
+{
+Зулугед змучений?! Я радий що ти прибув цілим і неушкодженим. Сьогодні великий день для орди! Ми вбили всіх нікчемних дворфів... Як тільки відпочинемо, направимо наш гнів на тих безхребетних людей що на півночі…
+}
+
+STRING 3767
+// Items: I0Lj (WC2Orc06BHollowGrunt_FinalCamp1a), Name (Name)
+{
+WC2Orc06BHollowGrunt_FinalCamp1a
+}
+
+STRING 3768
+// Items: I0Li (WC2Orc06BHollowGrunt_FirstQuest1), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3769
+// Items: I0Li (WC2Orc06BHollowGrunt_FirstQuest1), Description (Description)
+{
+Вітаємо отамани! Ми чекали на вас!
+}
+
+STRING 3770
+// Items: I0Li (WC2Orc06BHollowGrunt_FirstQuest1), Name (Name)
+{
+WC2Orc06BHollowGrunt_FirstQuest1
+}
+
+STRING 3771
+// Items: I0Lg (WC2Orc06BHollowGrunt_FirstQuest3), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3772
+// Items: I0Lh (WC2Orc06BHollowGrunt_FirstQuest2), Description (Description)
+{
+Протягом тижнів, день і ніч ми вели запеклі бої з людьми та цим дворфійськими сміттям яке з ними в союзі... але досить швидко нас меншало і багатьох наших воїнів взяли в полон. Якщо ти допоможеш нам звільнити побратимів, то ми з радістю доєднаємось до вашої справи!
+}
+
+STRING 3773
+// Items: I0Lh (WC2Orc06BHollowGrunt_FirstQuest2), Name (Name)
+{
+WC2Orc06BHollowGrunt_FirstQuest2
+}
+
+STRING 3774
+// Items: I0Lf (WC2Orc06BHollowGrunt_Free1), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3775
+// Items: I0Lg (WC2Orc06BHollowGrunt_FirstQuest3), Description (Description)
+{
+Лок'тар Оґар, Отаман Кілрогґ буде дуже вдячний за вашу допомогу.
+}
+
+STRING 3776
+// Items: I0Lg (WC2Orc06BHollowGrunt_FirstQuest3), Name (Name)
+{
+WC2Orc06BHollowGrunt_FirstQuest3
+}
+
+STRING 3777
+// Items: I0Le (WC2Orc06BHollowGrunt_Free2), Tip (Tooltip - Basic)
+{
+Дикун з клану кривавої очниці
+}
+
+STRING 3779
+// Items: I0Lf (WC2Orc06BHollowGrunt_Free1), Name (Name)
+{
+WC2Orc06BHollowGrunt_Free1
+}
+
+STRING 3780
+// Items: I0Lc (WC2Orc06BHollowGrunt_Outnumbered1), Tip (Tooltip - Basic)
+{
+Звільнений з полону орк клану Кривавої очниці
+}
+
+STRING 3781
+// Items: I0Le (WC2Orc06BHollowGrunt_Free2), Description (Description)
+{
+Аааа, як гарно бути на волі!
+}
+
+STRING 3782
+// Items: I0Le (WC2Orc06BHollowGrunt_Free2), Name (Name)
+{
+WC2Orc06BHollowGrunt_Free2
+}
+
+STRING 3783
+// Items: I0Lb (WC2Orc06BHollowGrunt_YoursToCommand1), Tip (Tooltip - Basic)
+{
+Звільнений з полону орк клану Кривавої очниці
+}
+
+STRING 3784
+// Items: I0Lc (WC2Orc06BHollowGrunt_Outnumbered1), Description (Description)
+{
+Нас переважали… багато з нас билися з честю, але решта потрапили в полон… декому вдалося втекти. Дякуємо, що врятували нас, ми завдячуємо вам життям.
+}
+
+STRING 3785
+// Items: I0Lc (WC2Orc06BHollowGrunt_Outnumbered1), Name (Name)
+{
+WC2Orc06BHollowGrunt_Outnumbered1
+}
+
+STRING 3787
+// Items: I0Lb (WC2Orc06BHollowGrunt_YoursToCommand1), Description (Description)
+{
+Чекаємо на твої накази.
+}
+
+STRING 3788
+// Items: I0Lb (WC2Orc06BHollowGrunt_YoursToCommand1), Name (Name)
+{
+WC2Orc06BHollowGrunt_YoursToCommand1
+}
+
+STRING 3789
+// Items: I0La (WC2Orc06ForlornSpirit1), Tip (Tooltip - Basic)
+{
+Невпокоєний дух
+}
+
+STRING 3790
+// Items: I0La (WC2Orc06ForlornSpirit1), Description (Description)
+{
+Зулугед? Я... Я втік! На нас напали, поневолили і закували в ланцюги...... а потім мені вдалося втіки, але я... я лишив своїх побратимів... Я їх зрадив.
+}
+
+STRING 3791
+// Items: I0La (WC2Orc06ForlornSpirit1), Name (Name)
+{
+WC2Orc06ForlornSpirit1
+}
+
+STRING 3792
+// Items: I1La (WC2Orc06ForlornSpirit2), Tip (Tooltip - Basic)
+{
+Забутий дух
+}
+
+STRING 3793
+// Items: I1La (WC2Orc06ForlornSpirit2), Description (Description)
+{
+Так, так, це було б… будь ласка, звільни їх…
+}
+
+STRING 3794
+// Items: I1La (WC2Orc06ForlornSpirit2), Name (Name)
+{
+WC2Orc06ForlornSpirit2
+}
+
+STRING 3795
+// Items: I1Lb (WC2Orc06Kilrogg_EnterCamp1), Tip (Tooltip - Basic)
+{
+Кілроґґ Мертве Око
+}
+
+STRING 3796
+// Items: I1Lb (WC2Orc06Kilrogg_EnterCamp1), Description (Description)
+{
+Ааа отамане Зулугед! Це велика честь вітати поважного старого шамана у моєму таборі! Ми чекали на тебе
+}
+
+STRING 3797
+// Items: I1Lb (WC2Orc06Kilrogg_EnterCamp1), Name (Name)
+{
+WC2Orc06Kilrogg_EnterCamp1
+}
+
+STRING 3798
+// Items: I1Lc (WC2Orc06Kilrogg_EnterCamp2), Tip (Tooltip - Basic)
+{
+Кілроґґ Мертве Око
+}
+
+STRING 3799
+// Items: I1Lc (WC2Orc06Kilrogg_EnterCamp2), Description (Description)
+{
+Як скажеш, звірюко. Йдемо до входу, дварфійське місто Ґрім Батол просто перед нами.
+}
+
+STRING 3800
+// Items: I1Lc (WC2Orc06Kilrogg_EnterCamp2), Name (Name)
+{
+WC2Orc06Kilrogg_EnterCamp2
+}
+
+STRING 3801
+// Items: I1Ld (WC2Orc06Kilrogg1), Tip (Tooltip - Basic)
+{
+Кілроґґ Мертве Око
+}
+
+STRING 3802
+// Items: I1Ld (WC2Orc06Kilrogg1), Description (Description)
+{
+То є правда, але це місце відчувається проклятим... мої воїни не наважилися увійти...
+}
+
+STRING 3803
+// Items: I1Ld (WC2Orc06Kilrogg1), Name (Name)
+{
+WC2Orc06Kilrogg1
+}
+
+STRING 3804
+// Items: I1Le (WC2Orc06Kilrogg2), Tip (Tooltip - Basic)
+{
+Кілроґґ Мертве Око
+}
+
+STRING 3805
+// Items: I1Le (WC2Orc06Kilrogg2), Description (Description)
+{
+Навіть не можу уявити, що Молот Згуби побачив у цьому "чарівнику"… Я йому не довіряю анітрохи.
+}
+
+STRING 3806
+// Items: I1Le (WC2Orc06Kilrogg2), Name (Name)
+{
+WC2Orc06Kilrogg2
+}
+
+STRING 3807
+// Items: I1Lf (WC2Orc06Kilrogg3), Tip (Tooltip - Basic)
+{
+Кілроґґ Мертве Око
+}
+
+STRING 3808
+// Items: I1Lf (WC2Orc06Kilrogg3), Description (Description)
+{
+Звісно юний шамане, бери.
+}
+
+STRING 3809
+// Items: I1Lf (WC2Orc06Kilrogg3), Name (Name)
+{
+WC2Orc06Kilrogg3
+}
+
+STRING 3810
+// Items: I1Lg (WC2Orc06Knight_StromgardeCamp1), Tip (Tooltip - Basic)
+{
+Капітан
+}
+
+STRING 3811
+// Items: I1Lg (WC2Orc06Knight_StromgardeCamp1), Description (Description)
+{
+Люди! На нас напали. Іменем короля знищіть цих чудовиськ. За Штормовій! За Тролебоя!
+}
+
+STRING 3812
+// Items: I1Lg (WC2Orc06Knight_StromgardeCamp1), Name (Name)
+{
+WC2Orc06Knight_StromgardeCamp1
+}
+
+STRING 3813
+// Items: I1Lh (WC2Orc06DironCaptain_encounter1), Tip (Tooltip - Basic)
+{
+Привид двофра
+}
+
+STRING 3814
+// Items: I1Lh (WC2Orc06DironCaptain_encounter1), Description (Description)
+{
+За клан темного заліза!
+}
+
+STRING 3815
+// Items: I1Lh (WC2Orc06DironCaptain_encounter1), Name (Name)
+{
+WC2Orc06DironCaptain_encounter1
+}
+
+STRING 3816
+// Items: I1Li (WC2Orc06DwarfKnight_IronforgeCamp1), Tip (Tooltip - Basic)
+{
+Дворф
+}
+
+STRING 3817
+// Items: I1Li (WC2Orc06DwarfKnight_IronforgeCamp1), Description (Description)
+{
+Зеленошкірі повернулися! Давайте дівчатка, бийтеся за своє життя!
+}
+
+STRING 3818
+// Items: I1Li (WC2Orc06DwarfKnight_IronforgeCamp1), Name (Name)
+{
+WC2Orc06DwarfKnight_IronforgeCamp1
+}
+
+STRING 3819
+// Items: I1Lj (WC2Orc06Footman_StromgardeCamp1), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 3820
+// Items: I1Lj (WC2Orc06Footman_StromgardeCamp1), Description (Description)
+{
+Орки вже тут!
+}
+
+STRING 3821
+// Items: I1Lj (WC2Orc06Footman_StromgardeCamp1), Name (Name)
+{
+WC2Orc06Footman_StromgardeCamp1
+}
+
+STRING 3822
+// Items: I1Lk (WC2Orc06Chogall1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3823
+// Items: I1Lk (WC2Orc06Chogall1), Description (Description)
+{
+|cffffcc00Чо:|r Вітаємо. Ми вже давненько на вас чекаємо, орченята. 
+|n|cffffcc00Ґалл:|r Щось ви довго барилися аби прибути. Ми вже кілька днів гниємо в цьому смердючому болоті!
+}
+
+STRING 3824
+// Items: I1Lk (WC2Orc06Chogall1), Name (Name)
+{
+WC2Orc06Chogall1
+}
+
+STRING 3825
+// Items: I1Ll (WC2Orc06Chogall2), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3826
+// Items: I1Ll (WC2Orc06Chogall2), Description (Description)
+{
+|cffffcc00Чо:|r Ні… в цьому нема потреби, але непосвяченим варто було б обдумувати свої слова на майбутнє. Наш клан присягнув вождю як у всі інші.|n|cffffcc00Ґалл:|r  Ти ж не хочеш поставити це під сумнів? Молот Згуби буде дуже не задоволений якщо ти поставиш під загрозу єдність орди своїми необачними словами..
+}
+
+STRING 3827
+// Items: I1Ll (WC2Orc06Chogall2), Name (Name)
+{
+WC2Orc06Chogall2
+}
+
+STRING 3828
+// Items: I1Lm (WC2Orc06Chogall3), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3829
+// Items: I1Lm (WC2Orc06Chogall3), Description (Description)
+{
+|cffffcc00Чо:|r Так! У нас нема часу на цей обмін люб'язностями! |n|cffffcc00Ґалл:|r В решті решт ми всі "друзі" і слугуємо вождю.
+}
+
+STRING 3830
+// Items: I1Lm (WC2Orc06Chogall3), Name (Name)
+{
+WC2Orc06Chogall3
+}
+
+STRING 3831
+// Items: I1Ln (WC2Orc06Chogall4), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3832
+// Items: I1Ln (WC2Orc06Chogall4), Description (Description)
+{
+|cffffcc00Чо:|r Нам треба пройти через ці небезпечні болота до дворфійської фортеці Грім Батол. Там на нас чекає клан Кривавої очниці. Після цього вирушимо на східні береги, щоб оглянути наші нафтопереробні заводи.
+}
+
+STRING 3833
+// Items: I1Ln (WC2Orc06Chogall4), Name (Name)
+{
+WC2Orc06Chogall4
+}
+
+STRING 3834
+// Items: I1Lo (WC2Orc06Chogall5), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3835
+// Items: I1Lo (WC2Orc06Chogall5), Description (Description)
+{
+|cffffcc00Ґалл:|r Втім, є одна проблема яка стоїть у нас на шляху. Люди та дворфи які кочують цією місцевістю у великій кількості, окрім того, оскільки у нас обмаль часу ми не зможемо отаборитися, щоб перебити їх усіх...
+}
+
+STRING 3836
+// Items: I1Lo (WC2Orc06Chogall5), Name (Name)
+{
+WC2Orc06Chogall5
+}
+
+STRING 3837
+// Items: I1Lp (WC2Orc06Chogall6), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3838
+// Items: I1Lp (WC2Orc06Chogall6), Description (Description)
+{
+|cffffcc00Чо:|r Так, Зулугеде… нафтопереробні заводи мають бути заповнені доповна, або вождь відрубає наші голови. |n|cffffcc00Ґалл:|r І тоді ми всі повернемось в пустоту.
+}
+
+STRING 3839
+// Items: I1Lp (WC2Orc06Chogall6), Name (Name)
+{
+WC2Orc06Chogall6
+}
+
+STRING 3840
+// Items: I1Lq (WC2Orc06Chogall_BHollowCamp1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3841
+// Items: I1Lq (WC2Orc06Chogall_BHollowCamp1), Description (Description)
+{
+|cffffcc00Чо:|r Дворфи? Ха! Ми вже вбили їх усіх! |n|cffffcc00Ґалл:|r Вони були пожерті пустотою!
+}
+
+STRING 3842
+// Items: I1Lq (WC2Orc06Chogall_BHollowCamp1), Name (Name)
+{
+WC2Orc06Chogall_BHollowCamp1
+}
+
+STRING 3843
+// Items: I1Lr (WC2Orc06Chogall_BHollowCamp1a), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3844
+// Items: I1Lr (WC2Orc06Chogall_BHollowCamp1a), Description (Description)
+{
+|cffffcc00Чо:|r Людей? Ха! Ми вже вбили їх усіх! |n|cffffcc00Ґалл:|r Вони були пожерті пустотою!
+}
+
+STRING 3845
+// Items: I1Lr (WC2Orc06Chogall_BHollowCamp1a), Name (Name)
+{
+WC2Orc06Chogall_BHollowCamp1a
+}
+
+STRING 3846
+// Items: I1Ls (WC2Orc06Chogall_BHollowCamp2), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3847
+// Items: I1Ls (WC2Orc06Chogall_BHollowCamp2), Description (Description)
+{
+|cffffcc00Чо:|r Ти мав на увазі, що чекаєш нас, старий орк! Вождь доручив це завдання нам, а не їм.
+}
+
+STRING 3848
+// Items: I1Ls (WC2Orc06Chogall_BHollowCamp2), Name (Name)
+{
+WC2Orc06Chogall_BHollowCamp2
+}
+
+STRING 3849
+// Items: I1Lt (WC2Orc06Chogall_BrokenBridge1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3850
+// Items: I1Lt (WC2Orc06Chogall_BrokenBridge1), Description (Description)
+{
+|cffffcc00Чо:|r Кляті болота, вибираймось звідси брате!
+}
+
+STRING 3851
+// Items: I1Lt (WC2Orc06Chogall_BrokenBridge1), Name (Name)
+{
+WC2Orc06Chogall_BrokenBridge1
+}
+
+STRING 3852
+// Items: I1Lu (WC2Orc06Chogall_BrokenBridge2), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3853
+// Items: I1Lu (WC2Orc06Chogall_BrokenBridge2), Description (Description)
+{
+|cffffcc00Чо:|r That's better!
+}
+
+STRING 3854
+// Items: I1Lu (WC2Orc06Chogall_BrokenBridge2), Name (Name)
+{
+WC2Orc06Chogall_BrokenBridge2
+}
+
+STRING 3855
+// Items: I1Lv (WC2Orc06Chogall_Crosspath1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3856
+// Items: I1Lv (WC2Orc06Chogall_Crosspath1), Description (Description)
+{
+|cffffcc00Ґалл:|r Хa-хa-хa-хa-хa!|n|cffffcc00Чо:|r Не варто боятися, маленький орк. Це закляття зветься "Око Кілроґа", і спочатку його практикували орки з клану Кривавої очниці. Ми вдосконалили це закляття, і тепер воно покаже нам дорогу далі.
+}
+
+STRING 3857
+// Items: I1Lv (WC2Orc06Chogall_Crosspath1), Name (Name)
+{
+WC2Orc06Chogall_Crosspath1
+}
+
+STRING 3858
+// Items: I1Lw (WC2Orc06Chogall_Crosspath2), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3859
+// Items: I1Lw (WC2Orc06Chogall_Crosspath2), Description (Description)
+{
+|cffffcc00Ґалл:|r Стежина праворуч лежить через укріполний табір дворфів Ми не думаємо що вони будуть дуже щасливі від зустрічі з нами.
+}
+
+STRING 3860
+// Items: I1Lw (WC2Orc06Chogall_Crosspath2), Name (Name)
+{
+WC2Orc06Chogall_Crosspath2
+}
+
+STRING 3861
+// Items: I1Lx (WC2Orc06Chogall_Crosspath3), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3862
+// Items: I1Lx (WC2Orc06Chogall_Crosspath3), Description (Description)
+{
+|cffffcc00Чо:|r Якщо рушимо стежиною ліворуч, треба буде пройти через війська людей Стомґарду. Їх мечі та стріли не менш небезпечні аніж дворфи.
+}
+
+STRING 3863
+// Items: I1Lx (WC2Orc06Chogall_Crosspath3), Name (Name)
+{
+WC2Orc06Chogall_Crosspath3
+}
+
+STRING 3864
+// Items: I1Ly (WC2Orc06Chogall_Stromgarde_Ironforge1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3865
+// Items: I1Ly (WC2Orc06Chogall_Stromgarde_Ironforge1), Description (Description)
+{
+|cffffcc00Чо:|r Славетна перемога для орди! Вождь буде задоволений! Ми вбили багатьох! |cffffcc00Ґалл:|r Таааак… ми вбили, ТАК МИ ВБИЛИ!
+
+}
+
+STRING 3866
+// Items: I1Ly (WC2Orc06Chogall_Stromgarde_Ironforge1), Name (Name)
+{
+WC2Orc06Chogall_Stromgarde_Ironforge1
+}
+
+STRING 3867
+// Units: h61U (Ghost), Name (Name)
+{
+Привид двофра
+}
+
+STRING 3868
+// Items: I1lP (WC2Orc06Chogall_Ambush1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3869
+// Items: I1lP (WC2Orc06Chogall_Ambush1), Description (Description)
+{
+|cffffcc00Чо:|r Бам! Це людське відріддя докучало нам протягом тижнів! |cffffcc00Ґалл:|r Так! Так! Треба пожерти їх душі!
+}
+
+STRING 3870
+// Items: I1lP (WC2Orc06Chogall_Ambush1), Name (Name)
+{
+WC2Orc06Chogall_Ambush1
+}
+
+STRING 3872
+// Items: I0Lh (WC2Orc06BHollowGrunt_FirstQuest2), Tip (Tooltip - Basic)
+{
+Звільнений з полону орк клану кривавої очниці
+}
+
+STRING 3873
+// Items: I0Lf (WC2Orc06BHollowGrunt_Free1), Description (Description)
+{
+Тром'ка Отмане, дякую за твою допомогу.
+}
+
+STRING 3874
+// Items: I0LA (WC2Orc06Zuluhed11), Description (Description)
+{
+Я поки лишусь тут Кілроґґ, бо мої старі кістки потребують відпочинку після таких пригод.
+}
+
+STRING 3875
+// Units: o61U (Defense Tower), Name (Name)
+{
+Дворфійська оборонна вежа
+}
+
+STRING 3876
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3877
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 3878
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3879
+{
+|cffffcc00Cheat Disabled|r
+}
+

@@ -1,0 +1,2619 @@
+﻿STRING 1
+{
+WC2Orc12
+}
+
+STRING 2
+{
+The Lost Islands
+}
+
+STRING 3
+{
+Blizzard\LoreCraftDesigns
+}
+
+STRING 283
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 291
+{
+|cffffcc00ЗНАЙДЕНА СЕКРЕТНА ЗОНА|r
+Ви знайшли стародавню бібліотекую
+}
+
+STRING 292
+{
+У пошуках Ґул'дана
+}
+
+STRING 293
+{
+Зрадник знаходиться десь на цих островах. Вам потрібно знайти його.
+}
+
+STRING 294
+{
+Знайдіть Ґулʼдана.
+}
+
+STRING 295
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+ У пошуках Ґул'дана
+  - Знайдіть Ґул'дана
+}
+
+STRING 296
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+ У пошуках Ґул'дана
+  -|cffc0c0c0 - Знайдіть Ґул'дана (Завершено)|r
+}
+
+STRING 297
+{
+Залишки Тіньової ради
+}
+
+STRING 298
+{
+Якщо ви хочете, щоб Дрек'тул допоміг вам знайти Ґул'дана, вам потрібно знищити табір чаклунів Тіньової ради. Дрек'тул боїться їхньої помсти, якщо він зрадить Ґул'дана. Він хоче захистити себе за допомогою артефакту, що належить чорнокнижникам.
+}
+
+STRING 299
+{
+Знищіть табір Тіньвої ради.
+}
+
+STRING 300
+{
+Принесіть артефакт Дрек'тулу.
+}
+
+STRING 301
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Тіньова Рада
+  - Знищіть табір Тіньової ради
+  - Принесіть артефакт Дрек'тулу
+}
+
+STRING 302
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Тіньова Рада
+  |cffc0c0c0 - Знищіть табір Тіньової ради (Завершено)|r
+  -Принесіть артефакт Дрек'тулу
+}
+
+STRING 303
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r
+Тіньова Рада
+  |cffc0c0c0 - Знищіть табір Тіньової ради (Завершено)|r
+  |cffc0c0c0 - Принесіть артефакт Драк'тулу (Завершено)|r
+}
+
+STRING 304
+{
+Гробниця Серґареса
+}
+
+STRING 305
+{
+Ґул'дан переховується десь у гробниці Сарґераса. Аби увійти у гробницю та знайти його, вам необхідно перемоги Чо'ґалла та його посіпак з клану сутінкового молоту які охороняють вхід.
+}
+
+STRING 306
+{
+Здолайте Чо'ґалла 
+}
+
+STRING 307
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+ Гробниця Сарґераса
+  - Здолайте Чо'ґалла 
+  - Мейм має вижити
+  - Ренд має вижити
+}
+
+STRING 308
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+ Гробниця Серґареса
+}
+
+STRING 309
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРАВАЛЕНО|r
+Ваш табір знищено
+}
+
+STRING 353
+{
+Дрек'тул
+}
+
+STRING 406
+{
+Orcish Horde
+}
+
+STRING 407
+{
+Клан Сутінкового молоту
+}
+
+STRING 408
+{
+Клан Бушуючого шторму
+}
+
+STRING 410
+{
+Horde
+}
+
+STRING 411
+{
+Traitors
+}
+
+STRING 414
+// Units: n61Y (Дрек'тул's hut), Name (Name)
+{
+Хатинка Дрек'тула
+}
+
+STRING 438
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 439
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 440
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 441
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 442
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 443
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 444
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 445
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 446
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 447
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 448
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 449
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 450
+{
+|cffffff00Time to Dance!|r
+}
+
+STRING 457
+{
+Cinematic Dummy
+}
+
+STRING 458
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 459
+{
+Unable to use Oil Rig.
+}
+
+STRING 460
+{
+That Oil Patch has already being used.
+}
+
+STRING 461
+{
+Must build Oil Rig first.
+}
+
+STRING 462
+{
+Must target an Oil Patch.
+}
+
+STRING 463
+{
+Must build upon Oil Patch.
+}
+
+STRING 464
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 465
+{
+Нечестивість
+}
+
+STRING 467
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 468
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+Elven Ranger
+}
+
+STRING 469
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 470
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 471
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 472
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 473
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 474
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 475
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 476
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Elven Mage
+}
+
+STRING 477
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrate
+}
+
+STRING 478
+// Units: nwc1 (Cage), Name (Name)
+{
+Cage
+}
+
+STRING 479
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+Build  Cage
+}
+
+STRING 480
+// Units: nwc1 (Cage), Description (Description)
+{
+A sturdy cage designed to hold Prisoners captive.
+}
+
+STRING 481
+// Units: nbel (High Elf Captain), Name (Name)
+{
+High Elf Captain
+}
+
+STRING 482
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+Train High Elf Captain
+}
+
+STRING 483
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+Powerful captain from Silvermoon army. Experts at destroying spellcasters. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 505
+// Units: O002 (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 513
+// Units: n008 (Twilight Cultist), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 514
+// Units: n008 (Twilight Cultist), Ubertip (Tooltip - Extended)
+{
+Spellcasting warrior of the Ogre Legion. Can cast Bloodlust. Can learn "Eye of Kilrogg" and "Runes". |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 528
+// Units: O001 (Ogre Magi), Propernames (Proper Names)
+{
+Чо'ґалл
+}
+
+STRING 530
+// Units: O001 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 531
+// Units: O001 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 533
+// Units: O001 (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 551
+// Units: O007 (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 644
+// Units: n00F (Doomguard), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 801
+// Units: O002 (Shaman), Propernames (Proper Names)
+{
+Зулугед Змучений 
+}
+
+STRING 802
+// Units: O002 (Shaman), Name (Name)
+{
+Шаман
+}
+
+STRING 805
+// Units: O002 (Shaman), Revivetip (Tooltip - Revive)
+{
+Revive Shaman (|cffffcc00S|r)
+}
+
+STRING 806
+// Units: O002 (Shaman), Tip (Tooltip - Basic)
+{
+Revive Shaman (|cffffcc00S|r)
+}
+
+STRING 807
+// Units: O002 (Shaman), Awakentip (Tooltip - Awaken)
+{
+Shaman (|cffffcc00S|r)
+}
+
+STRING 846
+// Units: O007 (Shaman), Propernames (Proper Names)
+{
+Зулугед Змучений the Whacked
+}
+
+STRING 847
+// Units: O007 (Shaman), Name (Name)
+{
+Shaman
+}
+
+STRING 849
+// Units: O007 (Shaman), Awakentip (Tooltip - Awaken)
+{
+Shaman (|cffffcc00S|r)
+}
+
+STRING 850
+// Units: O007 (Shaman), Revivetip (Tooltip - Revive)
+{
+Revive Shaman (|cffffcc00S|r)
+}
+
+STRING 851
+// Units: O002 (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 852
+// Units: O007 (Shaman), Tip (Tooltip - Basic)
+{
+Revive Shaman (|cffffcc00S|r)
+}
+
+STRING 887
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 888
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 905
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 917
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Стіна з шипами
+}
+
+STRING 971
+// Units: n62A (Shark), Name (Name)
+{
+Акула
+}
+
+STRING 972
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+Акула
+}
+
+STRING 973
+// Units: n62B (Purple Shark), Name (Name)
+{
+Рожева акула
+}
+
+STRING 974
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+Акула
+}
+
+STRING 990
+// Units: u005 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 1001
+// Units: n60Y (Raven), Name (Name)
+{
+Raven
+}
+
+STRING 1010
+// Units: n60Z (Spiders), Name (Name)
+{
+Spiders
+}
+
+STRING 1011
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Spiders
+}
+
+STRING 1052
+// Units: n611 (Wolf), Name (Name)
+{
+Wolf
+}
+
+STRING 1053
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1066
+// Units: O005 (Ogre Magi), Propernames (Proper Names)
+{
+Чо'ґалл
+}
+
+STRING 1068
+// Units: O005 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 1069
+// Units: O005 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 1070
+// Units: O005 (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 1225
+// Units: n61Y (Дрек'тул's hut), EditorSuffix (Name - Editor Suffix)
+{
+(Campaign)
+}
+
+STRING 1296
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1317
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1318
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1319
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1320
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1336
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1355
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Old Tomb
+}
+
+STRING 1357
+// Destructibles: B62T (Egg), Name (Name)
+{
+Яйце
+}
+
+STRING 1362
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1363
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1366
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1369
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1385
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1395
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1400
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1401
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1402
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 1432
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1433
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1434
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1435
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1476
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1477
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1478
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1488
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1490
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1525
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1599
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1621
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 1636
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1637
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1638
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1679
+// Units: ntor (Whirlwind), Name (Name)
+{
+Whirlwind
+}
+
+STRING 2842
+{
+Cinematic Blackrock
+}
+
+STRING 2843
+{
+Cinematic Blacktooth
+}
+
+STRING 2844
+{
+Cinematic Dragonmaw
+}
+
+STRING 2845
+{
+Cinemaitc
+}
+
+STRING 2848
+{
+Blacktoothgrin Clan
+}
+
+STRING 2851
+// Doodads: D000 (ToS Exterior Main Tower), Name (Name)
+{
+ToS Exterior Main Tower
+}
+
+STRING 2852
+// Doodads: D001 (ToS Exterior Tower), Name (Name)
+{
+ToS Exterior Tower
+}
+
+STRING 2853
+// Doodads: D002 (ToS Exterior Wall), Name (Name)
+{
+ToS Exterior Wall
+}
+
+STRING 2854
+// Doodads: D003 (ToS Column), Name (Name)
+{
+ToS Column
+}
+
+STRING 2855
+// Doodads: D004 (ToS Wall), Name (Name)
+{
+ToS Wall
+}
+
+STRING 2856
+// Doodads: D005 (ToS Column Broken), Name (Name)
+{
+ToS Column Broken
+}
+
+STRING 2857
+// Doodads: D006 (ToS Exterior Gate), Name (Name)
+{
+ToS Exterior Gate
+}
+
+STRING 2858
+// Doodads: D007 (ToS Archway), Name (Name)
+{
+ToS Archway
+}
+
+STRING 2859
+// Doodads: D008 (ToS Statue), Name (Name)
+{
+ToS Statue
+}
+
+STRING 2861
+// Doodads: D009 (ToS Statues), Name (Name)
+{
+ToS Statues
+}
+
+STRING 2862
+// Doodads: D00A (ToS Statues Broken), Name (Name)
+{
+ToS Statues Broken
+}
+
+STRING 2864
+// Doodads: D00C (ToS Rubble), Name (Name)
+{
+ToS Rubble
+}
+
+STRING 2866
+// Doodads: D00E (ToS Corals 2), Name (Name)
+{
+ToS Corals 2
+}
+
+STRING 2868
+// Doodads: D00G (ToS Seaweed 1), Name (Name)
+{
+ToS Seaweed 1
+}
+
+STRING 2870
+// Doodads: D00I (ToS Cattail), Name (Name)
+{
+ToS Cattail
+}
+
+STRING 2871
+// Doodads: D00J (Waterfall Mini), Name (Name)
+{
+Waterfall Mini
+}
+
+STRING 2872
+// Doodads: D00K (ToS Column Semi Circle), Name (Name)
+{
+ToS Column Semi Circle
+}
+
+STRING 2873
+// Doodads: D00L (ToS Column Semi Circle Ruined), Name (Name)
+{
+ToS Column Semi Circle Ruined
+}
+
+STRING 2874
+// Doodads: D00B (ToS Rocks 1), Name (Name)
+{
+ToS Rocks 1
+}
+
+STRING 2875
+// Doodads: D00M (ToS Rocks 2), Name (Name)
+{
+ToS Rocks 2
+}
+
+STRING 2876
+// Doodads: D00N (ToS Rocks 3), Name (Name)
+{
+ToS Rocks 3
+}
+
+STRING 2877
+// Doodads: D00O (ToS Rocks 4), Name (Name)
+{
+ToS Rocks 4
+}
+
+STRING 2878
+// Doodads: D00P (ToS Rocks 5), Name (Name)
+{
+ToS Rocks 5
+}
+
+STRING 2879
+// Doodads: D00Q (ToS Rocks 6), Name (Name)
+{
+ToS Rocks 6
+}
+
+STRING 2880
+// Doodads: D00F (ToS Barnacles), Name (Name)
+{
+ToS Barnacles
+}
+
+STRING 2882
+// Doodads: D00H (ToS Seaweed Hanging 1), Name (Name)
+{
+ToS Seaweed Hanging 1
+}
+
+STRING 2883
+// Doodads: D00R (ToS Seaweed Hanging 2), Name (Name)
+{
+ToS Seaweed Hanging 2
+}
+
+STRING 2884
+// Doodads: D00D (ToS Corals Red), Name (Name)
+{
+ToS Corals Red
+}
+
+STRING 2885
+// Doodads: D00S (ToS Seaweed 2), Name (Name)
+{
+ToS Seaweed 2
+}
+
+STRING 2886
+// Doodads: D00T (ToS Seaweed 3), Name (Name)
+{
+ToS Seaweed 3
+}
+
+STRING 2888
+// Doodads: D00U (ToS Exterior Wall (Angled)), Name (Name)
+{
+ToS Exterior Wall (Angled)
+}
+
+STRING 2889
+// Doodads: D00V (ToS Corals 3), Name (Name)
+{
+ToS Corals 3
+}
+
+STRING 2890
+// Destructibles: B000 (Ancient Tree), Name (Name)
+{
+Ancient Tree
+}
+
+STRING 2891
+// Destructibles: B000 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 1)
+}
+
+STRING 2892
+// Destructibles: B001 (Ancient Tree), Name (Name)
+{
+Ancient Tree
+}
+
+STRING 2893
+// Destructibles: B001 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 2)
+}
+
+STRING 2894
+// Doodads: D00W (ToS Bench), Name (Name)
+{
+ToS Bench
+}
+
+STRING 2895
+// Doodads: D00X (ToS Fountain), Name (Name)
+{
+ToS Fountain
+}
+
+STRING 2896
+// Doodads: D00Y (ToS Fountain Broken), Name (Name)
+{
+ToS Fountain Broken
+}
+
+STRING 2898
+// Doodads: D00Z (Hay Roof), Name (Name)
+{
+Hay Roof
+}
+
+STRING 2899
+// Doodads: D010 (ToS Statues (angle)), Name (Name)
+{
+ToS Statues (angle)
+}
+
+STRING 2900
+// Doodads: D011 (ToS Rock Archway), Name (Name)
+{
+ToS Rock Archway
+}
+
+STRING 2901
+// Doodads: D012 (Black), Name (Name)
+{
+Black
+}
+
+STRING 2902
+// Destructibles: B002 (Torch), Name (Name)
+{
+Torch
+}
+
+STRING 2903
+// Destructibles: B005 (Ritual), Name (Name)
+{
+Ritual
+}
+
+STRING 2904
+// Destructibles: B003 (Ritual Fel), Name (Name)
+{
+Ritual Fel
+}
+
+STRING 2905
+// Destructibles: B004 (Ritual Void), Name (Name)
+{
+Ritual Void
+}
+
+STRING 2906
+// Destructibles: B006 (Ritual Fire), Name (Name)
+{
+Ritual Fire
+}
+
+STRING 2907
+// Units: n004 (Ancient Dragon Turtle), Name (Name)
+{
+Ancient Dragon Turtle
+}
+
+STRING 2911
+// Destructibles: DEGG (Egg), Name (Name)
+{
+Яйце
+}
+
+STRING 2912
+// Destructibles: DEGG (Egg), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 2915
+// Units: O006 (Ogre Magi), Propernames (Proper Names)
+{
+Чо'ґалл
+}
+
+STRING 2917
+// Units: O006 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 2918
+// Units: O006 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 2919
+// Units: O006 (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 2920
+// Units: n006 (Tentacle), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2924
+// Units: O002 (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2930
+// Destructibles: DMAG (Magical Barrier), Name (Name)
+{
+Magical Barrier
+}
+
+STRING 2931
+// Destructibles: DMAG (Magical Barrier), EditorSuffix (Editor Suffix)
+{
+(Fake)
+}
+
+STRING 2932
+// Destructibles: DIG1 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2933
+// Destructibles: DIG2 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2939
+// Units: O007 (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 2941
+// Units: n007 (Orb of Fire), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2943
+// Units: n008 (Twilight Cultist), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2948
+// Units: n007 (Orb of Fire), Name (Name)
+{
+Сфера вогню
+}
+
+STRING 2968
+// Destructibles: B00B (Old God Eye), Name (Name)
+{
+Old God Eye
+}
+
+STRING 2969
+// Destructibles: B00C (Old God Tentacle), Name (Name)
+{
+Щупальце древнього бога
+}
+
+STRING 2970
+// Units: u005 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Spells)
+}
+
+STRING 3150
+// Units: O001 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 1)
+}
+
+STRING 3156
+// Units: O005 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 3)
+}
+
+STRING 3162
+// Units: O006 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 2)
+}
+
+STRING 3209
+// Units: n008 (Twilight Cultist), Name (Name)
+{
+Сутінковий сектант
+}
+
+STRING 3210
+// Destructibles: B008 (ToS Tombguard Scene), Name (Name)
+{
+ToS Tombguard Scene
+}
+
+STRING 3211
+// Destructibles: B007 (ToS Guldan Scene), Name (Name)
+{
+ToS Guldan Scene
+}
+
+STRING 3212
+// Destructibles: B009 (ToS Gate), Name (Name)
+{
+ToS Gate
+}
+
+STRING 3213
+// Doodads: D013 (ToS Stairs), Name (Name)
+{
+ToS Stairs
+}
+
+STRING 3221
+// Units: O007 (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic Fly)
+}
+
+STRING 3222
+// Units: n00D (Rend's Wolf), Name (Name)
+{
+Rend's Wolf
+}
+
+STRING 3223
+// Destructibles: B00A (Fake Sky Ashenvale), Name (Name)
+{
+Fake Sky Ashenvale
+}
+
+STRING 3225
+// Units: n00E (Highborne Ghost), Name (Name)
+{
+Привид ельфа торговця
+}
+
+STRING 3226
+// Destructibles: B00D (Ghost), Name (Name)
+{
+Привид високородного ельфа
+}
+
+STRING 3227
+// Destructibles: B00E (Suspicious Dirt Pile), Name (Name)
+{
+
+Підозріла купа землі
+}
+
+STRING 3228
+// Destructibles: B00E (Suspicious Dirt Pile), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3234
+// Units: n00F (Doomguard), Name (Name)
+{
+Doomguard
+}
+
+STRING 3241
+{
+Сутінкові орки
+}
+
+STRING 3242
+{
+Війська клану Сутінкового Молоту охороняють сили Ґул'дана біля гробниці. Знищіть їх, аби підібратися до чорнокнижника зрадника.
+}
+
+STRING 3243
+{
+Знищіть табір клану Сутінкового молоту
+}
+
+STRING 3244
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+ Сутінкові орки
+  - Знищіть табір клану Сутінкового молоту
+}
+
+STRING 3245
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+ Сутінкові орки
+  - Знищіть табір клану Сутінкового молоту (Завершено)
+}
+
+STRING 3301
+{
+Blackhand brats will be healed by cheat
+}
+
+STRING 3302
+{
+Blackhand brats will NOT be healed by cheat
+}
+
+STRING 3305
+{
+Ренд має вижити.
+}
+
+STRING 3306
+{
+Мейм має вижити.
+}
+
+STRING 3307
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Вашого героя вбито
+}
+
+STRING 3309
+// Doodads: D014 (FakeSky), Name (Name)
+{
+FakeSky
+}
+
+STRING 3322
+{
+|cffffff00Cheat Enabled|r
+}
+
+STRING 3323
+{
+|cffffff00Cheat Enabled|r
+}
+
+STRING 3324
+{
+|cffffff00Cheat Enabled|r
+}
+
+STRING 3327
+{
+|cffffff00Cheat Enabled|r
+}
+
+STRING 3328
+// Doodads: D015 (ToS Gate), Name (Name)
+{
+ToS Gate
+}
+
+STRING 3329
+{
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+}
+
+STRING 3334
+{
+|cffffcc00Ґалл:|r Спалити їх усіх!
+}
+
+STRING 3335
+{
+|cffffcc00ДОСТУПНО НОВЕ ПОКРАЩЕННЯ|r
+«Нечестива варта» робить ваші оборонні вежі здатними бачити невидимих ворогів, таких як бойові черепахи. Покращення можна зробити у «Храмі проклятих»
+}
+
+STRING 3336
+{
+|cffff0000Cheats are not allowed here!|r
+}
+
+STRING 3337
+// Units: oUC1 (Уток Дряпач), Name (Name)
+{
+Уток Дряпач
+}
+
+STRING 3338
+// Units: oUC1 (Уток Дряпач), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 3339
+// Items: I0LA (WC2Orc12Maim1), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3340
+// Items: I0LA (WC2Orc12Maim1), Description (Description)
+{
+Щось не так з цим місцем… воно відчувається… якимось неприродним.
+}
+
+STRING 3341
+// Items: I0LA (WC2Orc12Maim1), Name (Name)
+{
+WC2Orc12Maim1
+}
+
+STRING 3342
+// Items: I0LB (WC2Orc12Maim2), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3343
+// Items: I0LB (WC2Orc12Maim2), Description (Description)
+{
+Гарна ідея. Вбити його!
+}
+
+STRING 3344
+// Items: I0LB (WC2Orc12Maim2), Name (Name)
+{
+WC2Orc12Maim2
+}
+
+STRING 3345
+// Items: I0LC (WC2Orc12Maim3), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3346
+// Items: I0LC (WC2Orc12Maim3), Description (Description)
+{
+Ти двоголова свиня, я поріжу тебе на сало!
+}
+
+STRING 3347
+// Items: I0LC (WC2Orc12Maim3), Name (Name)
+{
+WC2Orc12Maim3
+}
+
+STRING 3348
+// Items: I0LD (WC2Orc12Maim4), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3349
+// Items: I0LD (WC2Orc12Maim4), Description (Description)
+{
+Він точно мертвий? Треба переконатися!
+}
+
+STRING 3350
+// Items: I0LD (WC2Orc12Maim4), Name (Name)
+{
+WC2Orc12Maim4
+}
+
+STRING 3351
+// Items: I0LE (WC2Orc12Maim5), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3352
+// Items: I0LE (WC2Orc12Maim5), Description (Description)
+{
+Аргггх! Чортівня! Я хотів цю голову!
+}
+
+STRING 3353
+// Items: I0LE (WC2Orc12Maim5), Name (Name)
+{
+WC2Orc12Maim5
+}
+
+STRING 3354
+// Items: I0LF (WC2Orc12Rend8), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3355
+// Items: I0LF (WC2Orc12Rend8), Ubertip (Tooltip - Extended)
+{
+(This line was moved to Maim)
+}
+
+STRING 3356
+// Items: I0LF (WC2Orc12Rend8), Description (Description)
+{
+Почекай, що за…
+}
+
+STRING 3357
+// Items: I0LF (WC2Orc12Rend8), Name (Name)
+{
+WC2Orc12Rend8
+}
+
+STRING 3358
+// Items: I0LG (WC2Orc12Rend1), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3359
+// Items: I0LG (WC2Orc12Rend1), Description (Description)
+{
+Так… Я теж це відчув… І ці руїни, вони виглядають ельфійськими, але іншими у порівнянні з тим, як Уток описував ельфійські споруди. Зулугеде, а ти що думаєш?
+}
+
+STRING 3360
+// Items: I0LG (WC2Orc12Rend1), Name (Name)
+{
+WC2Orc12Rend1
+}
+
+STRING 3361
+// Items: I0LH (WC2Orc12Rend2), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3362
+// Items: I0LH (WC2Orc12Rend2), Description (Description)
+{
+Це Ґул'дан? Ти його бачиш?
+}
+
+STRING 3363
+// Items: I0LH (WC2Orc12Rend2), Name (Name)
+{
+WC2Orc12Rend2
+}
+
+STRING 3364
+// Items: I0LJ (WC2Orc12Rend3), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3365
+// Items: I0LJ (WC2Orc12Rend3), Description (Description)
+{
+Значить Ґул'дан має бути близько, треба поспішати!
+}
+
+STRING 3366
+// Items: I0LJ (WC2Orc12Rend3), Name (Name)
+{
+WC2Orc12Rend3
+}
+
+STRING 3367
+// Items: I0LK (WC2Orc12Rend4), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3370
+// Items: I0LL (WC2Orc12Rend5), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3371
+// Items: I0LK (WC2Orc12Rend4), Description (Description)
+{
+Воїни, нам необхідно облаштувати табір і потім продовжимо наше полювання. Сюди, Ґул'дан помре сьогодні!
+}
+
+STRING 3372
+// Items: I0LK (WC2Orc12Rend4), Name (Name)
+{
+WC2Orc12Rend4
+}
+
+STRING 3373
+// Items: I0LN (WC2Orc12Rend6), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3374
+// Items: I0LL (WC2Orc12Rend5), Description (Description)
+{
+Почекай брате! Можливо він знає де Ґул'дан.
+}
+
+STRING 3375
+// Items: I0LL (WC2Orc12Rend5), Name (Name)
+{
+WC2Orc12Rend5
+}
+
+STRING 3376
+// Items: I0LO (WC2Orc12Rend7), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3379
+// Items: I0LP (WC2Orc12Rend9), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3380
+// Items: I0LN (WC2Orc12Rend6), Description (Description)
+{
+Це якісь демонічні собаки! Виріжте їх іменем Орди!
+}
+
+STRING 3381
+// Items: I0LN (WC2Orc12Rend6), Name (Name)
+{
+WC2Orc12Rend6
+}
+
+STRING 3382
+// Items: I0LQ (WC2Orc12Rend10), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3383
+// Items: I0LO (WC2Orc12Rend7), Description (Description)
+{
+Ці «шаманчики» мають значно більше сили, аніж у такого кремезного довбня як ти!
+}
+
+STRING 3384
+// Items: I0LO (WC2Orc12Rend7), Name (Name)
+{
+WC2Orc12Rend7
+}
+
+STRING 3385
+// Items: I0LR (WC2Orc12Rend11), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3386
+// Items: I0LP (WC2Orc12Rend9), Description (Description)
+{
+Тримайся брате! Покінчимо з цим еретичним шматком сала просто зараз.
+}
+
+STRING 3387
+// Items: I0LP (WC2Orc12Rend9), Name (Name)
+{
+WC2Orc12Rend9
+}
+
+STRING 3389
+// Items: I0LQ (WC2Orc12Rend10), Description (Description)
+{
+Згоден брате… Я відріжу одну голову, а ти іншу!
+}
+
+STRING 3390
+// Items: I0LQ (WC2Orc12Rend10), Name (Name)
+{
+WC2Orc12Rend10
+}
+
+STRING 3392STRING 3443
+// Items: I0LR (WC2Orc12Rend11), Description (Description)
+{
+Відріжемо обидві згодом, зараз треба йти!
+}
+
+STRING 3393
+// Items: I0LR (WC2Orc12Rend11), Name (Name)
+{
+WC2Orc12Rend11
+}
+
+STRING 3394
+// Items: I0LS (WC2Orc12Utok1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3395
+// Items: I0LS (WC2Orc12Utok1), Description (Description)
+{
+Цих островів нема на жодній з наших мап… але маршрут відповідає тому про який доповідали шпигуни.
+}
+
+STRING 3396
+// Items: I0LS (WC2Orc12Utok1), Name (Name)
+{
+WC2Orc12Utok1
+}
+
+STRING 3397
+// Items: I0LT (WC2Orc12Utok2), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3398
+// Items: I0LT (WC2Orc12Utok2), Description (Description)
+{
+Зрадники мають дещо більше аніж просто сильний флот. Нам доведеться зіткнутися з оґрами магами, чорнокнижниками та цими новими "лицарями смерті" теж…
+}
+
+STRING 3399
+// Items: I0LT (WC2Orc12Utok2), Name (Name)
+{
+WC2Orc12Utok2
+}
+
+STRING 3400
+// Items: I0LU (WC2Orc12Utok3), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3401
+// Items: I0LU (WC2Orc12Utok3), Description (Description)
+{
+Іменем вождя, відтяти йому голову!
+}
+
+STRING 3402
+// Items: I0LU (WC2Orc12Utok3), Name (Name)
+{
+WC2Orc12Utok3
+}
+
+STRING 3403
+// Items: I0LV (WC2Orc12Utok4), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3404
+// Items: I0LV (WC2Orc12Utok4), Description (Description)
+{
+Ренде, Мейме!
+}
+
+STRING 3405
+// Items: I0LV (WC2Orc12Utok4), Name (Name)
+{
+WC2Orc12Utok4
+}
+
+STRING 3406
+// Items: I0LW (WC2Orc12Zuluhed1), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3407
+// Items: I0LW (WC2Orc12Zuluhed1), Description (Description)
+{
+Нема сумнівів, що вони дуже давні, і схоже, що вони відмічені дуже сильною магією. Можливо це місце було серцем ельфійської цивілізації у цьому світі, прямо як Ґорія для оґрів на Дренорі. Але навіть у повітрі я відчуваю… щось прадавнє… могутнє… темне…
+}
+
+STRING 3408
+// Items: I0LW (WC2Orc12Zuluhed1), Name (Name)
+{
+WC2Orc12Zuluhed1
+}
+
+STRING 3409
+// Items: I0LX (WC2Orc12Zuluhed2), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3410
+// Items: I0LX (WC2Orc12Zuluhed2), Description (Description)
+{
+Моє бачення затьмарене, наче ці острови окутані якимось туманом. Але тут безпомилково тхне скверною.
+}
+
+STRING 3411
+// Items: I0LX (WC2Orc12Zuluhed2), Name (Name)
+{
+WC2Orc12Zuluhed2
+}
+
+STRING 3412
+// Items: I0LY (WC2Orc12Zuluhed3), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3413
+// Items: I0LY (WC2Orc12Zuluhed3), Description (Description)
+{
+Утоке ми можемо розраховувати на такі самі сили на нашому боці. Ґул'дан нажив собі багато ворогів, і вже не зможе від них втекти.
+}
+
+STRING 3414
+// Items: I0LY (WC2Orc12Zuluhed3), Name (Name)
+{
+WC2Orc12Zuluhed3
+}
+
+STRING 3415
+// Items: I0LZ (WC2Orc12Zuluhed4), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3416
+// Items: I0LZ (WC2Orc12Zuluhed4), Description (Description)
+{
+Дрек'туле…
+}
+
+STRING 3417
+// Items: I0LZ (WC2Orc12Zuluhed4), Name (Name)
+{
+WC2Orc12Zuluhed4
+}
+
+STRING 3418
+// Items: I0La (WC2Orc12Zuluhed5), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3419
+// Items: I0La (WC2Orc12Zuluhed5), Description (Description)
+{
+Дрек'туле, ти ж маєш бути шаманом. Чи вартий цей темний шлях аби померти за нього?
+}
+
+STRING 3420
+// Items: I0La (WC2Orc12Zuluhed5), Name (Name)
+{
+WC2Orc12Zuluhed5
+}
+
+STRING 3421
+// Items: I0Lb (WC2Orc12Zuluhed6), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3422
+// Items: I0Lb (WC2Orc12Zuluhed6), Description (Description)
+{
+Але зараз ти слабкий, а ми сильні. Скажи нам де саме Ґул'дан і ми збережемо тобі життя.
+}
+
+STRING 3423
+// Items: I0Lb (WC2Orc12Zuluhed6), Name (Name)
+{
+WC2Orc12Zuluhed6
+}
+
+STRING 3424
+// Items: I0Lc (WC2Orc12Zuluhed7), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3425
+// Items: I0Lc (WC2Orc12Zuluhed7), Description (Description)
+{
+Всі зрадники мертві… а ось і обіцяний артефакт.
+}
+
+STRING 3426
+// Items: I0Lc (WC2Orc12Zuluhed7), Name (Name)
+{
+WC2Orc12Zuluhed7
+}
+
+STRING 3427
+// Items: I0Ld (WC2Orc12Zuluhed8), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3428
+// Items: I0Ld (WC2Orc12Zuluhed8), Description (Description)
+{
+Темного титана?
+}
+
+STRING 3429
+// Items: I0Ld (WC2Orc12Zuluhed8), Name (Name)
+{
+WC2Orc12Zuluhed8
+}
+
+STRING 3430
+// Items: I0Le (WC2Orc12Zuluhed9), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3431
+// Items: I0Le (WC2Orc12Zuluhed9), Description (Description)
+{
+Ґул'дан божевільний! Його одержимість силою знищить цей світ так само, як він знищив Дренор! Вперед воїни! Ми негайно покладемо цьому край!
+}
+
+STRING 3432
+// Items: I0Le (WC2Orc12Zuluhed9), Name (Name)
+{
+WC2Orc12Zuluhed9
+}
+
+STRING 3433
+// Items: I0Lf (WC2Orc12Zuluhed10), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3434
+// Items: I0Lf (WC2Orc12Zuluhed10), Description (Description)
+{
+А ось і Ґул'дан. Я знав що ми знайдемо його. Лок'тар, воїни!
+}
+
+STRING 3435
+// Items: I0Lf (WC2Orc12Zuluhed10), Name (Name)
+{
+WC2Orc12Zuluhed10
+}
+
+STRING 3436
+// Items: I0Lg (WC2Orc12Zuluhed11), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3437
+// Items: I0Lg (WC2Orc12Zuluhed11), Description (Description)
+{
+Сини Чорнорука, я допоможу вам!
+}
+
+STRING 3438
+// Items: I0Lg (WC2Orc12Zuluhed11), Name (Name)
+{
+WC2Orc12Zuluhed11
+}
+
+STRING 3439
+// Items: I0Lh (WC2Orc12Zuluhed12), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3440
+// Items: I0Lh (WC2Orc12Zuluhed12), Description (Description)
+{
+Ренде! Мейне! Сила якою володіє Чо'ґалл, більша аніж всі ми можемо навіть уявити. Якомога швидше вбийте його, доки він не вивільнив на нас всі ті жахливі сили якими володіє.
+}
+
+STRING 3441
+// Items: I0Lh (WC2Orc12Zuluhed12), Name (Name)
+{
+WC2Orc12Zuluhed12
+}
+
+STRING 3442
+// Items: I0Lj (WC2Orc12Zuluhed13), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3443
+// Items: I0Lj (WC2Orc12Zuluhed13), Description (Description)
+{
+Ми не маємо на це часу! Утоке, повертайся у табір та відновись… Тримай човни на готові до нашого повернення.
+}
+
+STRING 3444
+// Items: I0Lj (WC2Orc12Zuluhed13), Name (Name)
+{
+WC2Orc12Zuluhed13
+}
+
+STRING 3445
+// Items: I0Lk (WC2Orc12Zuluhed14), Tip (Tooltip - Basic)
+{
+Зулугед Змучений
+}
+
+STRING 3446
+// Items: I0Lk (WC2Orc12Zuluhed14), Description (Description)
+{
+Хммм… Ці руїни можуть приховувати скарби.
+}
+
+STRING 3447
+// Items: I0Lk (WC2Orc12Zuluhed14), Name (Name)
+{
+WC2Orc12Zuluhed14
+}
+
+STRING 3448
+// Items: I0Ll (WC2Orc12Drakthul1), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3449
+// Items: I0Ll (WC2Orc12Drakthul1), Description (Description)
+{
+Зулугеде! Хах! Що ж здається в решті решт ми опинилися по різні боки… І що ти зробиш? Переріжеш мені горло та лишиш помирати?
+}
+
+STRING 3450
+// Items: I0Ll (WC2Orc12Drakthul1), Name (Name)
+{
+WC2Orc12Drakthul1
+}
+
+STRING 3451
+// Items: I0Lm (WC2Orc12Drakthul2), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3452
+// Items: I0Lm (WC2Orc12Drakthul2), Description (Description)
+{
+Я не хочу помирати Зулугеде, але я слугую Ґул'дану, тому що… Тому що слабкий має кориться сильному.
+}
+
+STRING 3453
+// Items: I0Lm (WC2Orc12Drakthul2), Name (Name)
+{
+WC2Orc12Drakthul2
+}
+
+STRING 3454
+// Items: I0Ln (WC2Orc12Drakthul3), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3456
+// Items: I0Ln (WC2Orc12Drakthul3), Name (Name)
+{
+WC2Orc12Drakthul3
+}
+
+STRING 3457
+// Items: I0Lo (WC2Orc12Drakthul4), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3458
+// Items: I0Lo (WC2Orc12Drakthul4), Description (Description)
+{
+Я тобі вдячний… Ґул'дан має неймовірну силу, ці острови були підняті ним з морського дна аби знайти стародавню гробницю. Місце останнього спочинку жахливого темного титана. І саме силу цього жахливого титана Ґул'дан зараз шукає…
+}
+
+STRING 3459
+// Items: I0Lo (WC2Orc12Drakthul4), Name (Name)
+{
+WC2Orc12Drakthul4
+}
+
+STRING 3460
+// Items: I0Lp (WC2Orc12Drakthul5), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3462
+// Items: I0Lp (WC2Orc12Drakthul5), Name (Name)
+{
+WC2Orc12Drakthul5
+}
+
+STRING 3463
+// Items: I0Lq (WC2Orc12Drakthul6), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3464
+// Items: I0Lq (WC2Orc12Drakthul6), Description (Description)
+{
+На північ звідси є велика вежа… це гробниця, про яку я казав. Саме там ви знайдете Ґул'дана. І саме там ви, скоріше за все, знайдете свою смерть. Що ж, ви отримали чого хотіли, а тепер облиште мене… Я хотів би на самоті прожити залишок свого життя.
+}
+
+STRING 3465
+// Items: I0Lq (WC2Orc12Drakthul6), Name (Name)
+{
+WC2Orc12Drakthul6
+}
+
+STRING 3466
+// Items: I0Lr (WC2Orc12Drakthul7), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3467
+// Items: I0Lr (WC2Orc12Drakthul7), Description (Description)
+{
+Йди геть.
+}
+
+STRING 3468
+// Items: I0Lr (WC2Orc12Drakthul7), Name (Name)
+{
+WC2Orc12Drakthul7
+}
+
+STRING 3469
+// Items: I0Ls (WC2Orc12Drakthul8), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3470
+// Items: I0Ls (WC2Orc12Drakthul8), Description (Description)
+{
+Хех. Думаєте я орк, що схибився, якого можна віддати на поживу вовкам? Я спілкувався з демонами, ще коли ви ще були в пелюшках.
+}
+
+STRING 3471
+// Items: I0Ls (WC2Orc12Drakthul8), Name (Name)
+{
+WC2Orc12Drakthul8
+}
+
+STRING 3472
+// Items: I0Lt (WC2Orc12Drakthul9), Tip (Tooltip - Basic)
+{
+Дрек'тул
+}
+
+STRING 3473
+// Items: I0Lt (WC2Orc12Drakthul9), Description (Description)
+{
+Я бажаю побути на самоті, поки пітьма в решті решт не поглине мене.
+}
+
+STRING 3474
+// Items: I0Lt (WC2Orc12Drakthul9), Name (Name)
+{
+WC2Orc12Drakthul9
+}
+
+STRING 3475
+// Items: I0Lu (WC2Orc12Guldan1), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3476
+// Items: I0Lu (WC2Orc12Guldan1), Description (Description)
+{
+Двері відкрито! Нарешті!
+}
+
+STRING 3477
+// Items: I0Lu (WC2Orc12Guldan1), Name (Name)
+{
+WC2Orc12Guldan1
+}
+
+STRING 3478
+// Items: I0Lv (WC2Orc12Guldan2), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3479
+// Items: I0Lv (WC2Orc12Guldan2), Description (Description)
+{
+Чо'ґалле, лишайся тут і охороняй вхід. Вбивай усіх хто спробує увійти після нас. Всі інші, йдіть за мною!
+}
+
+STRING 3480
+// Items: I0Lv (WC2Orc12Guldan2), Name (Name)
+{
+WC2Orc12Guldan2
+}
+
+STRING 3481
+// Items: I0Lw (WC2Orc12ChoGall1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3482
+// Items: I0Lw (WC2Orc12ChoGall1), Description (Description)
+{
+|cffffcc00Чо:|r Як скажеш, володарю.
+}
+
+STRING 3483
+// Items: I0Lw (WC2Orc12ChoGall1), Name (Name)
+{
+WC2Orc12ChoGall1
+}
+
+STRING 3484
+// Items: I0Lx (WC2Orc12ChoGall2), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3485
+// Items: I0Lx (WC2Orc12ChoGall2), Description (Description)
+{
+|cffffcc00Чо:|r Не так швидко, маленькі шаманчики… |n|cffffcc00Ґалл:|r Спочатку вам доведеться мати справу з нами!
+}
+
+STRING 3486
+// Items: I0Lx (WC2Orc12ChoGall2), Name (Name)
+{
+WC2Orc12ChoGall2
+}
+
+STRING 3487
+// Items: I0Ly (WC2Orc12ChoGall3a), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3488
+// Items: I0Ly (WC2Orc12ChoGall3a), Description (Description)
+{
+|cffffcc00Чо:|r Ааа, двоє синів Чорнорука… |n|cffffcc00Ґалл:|r Двоє нікчем Чорнорука. Ооо, Мейме, аби твій розум був такий самий як і сила, то може ти й міг би кинути нам виклик.
+}
+
+STRING 3489
+// Items: I0Ly (WC2Orc12ChoGall3a), Name (Name)
+{
+WC2Orc12ChoGall3a
+}
+
+STRING 3490
+// Items: I0Lz (WC2Orc12ChoGall3b), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3491
+// Items: I0Lz (WC2Orc12ChoGall3b), Description (Description)
+{
+|cffffcc00Ґалл:|r І Ренд… може ти й спадкував хитрість та підступність свого батька, але який в тому сенс якщо навіть твоя дохла сестричка Ґризельда, могла зламати тебе наче суху гілку? Не дивно, що в Орді вірять, що ви двоє були всього-на-всього нікчемними малюками, коли ваш батько Чорнорук, наказав своїм чорнокнижниками постарити вас, за допомогою магії скверни.
+}
+
+STRING 3492
+// Items: I0Lz (WC2Orc12ChoGall3b), Name (Name)
+{
+WC2Orc12ChoGall3b
+}
+
+STRING 3493
+// Items: I1LA (WC2Orc12ChoGall4), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3494
+// Items: I1LA (WC2Orc12ChoGall4), Description (Description)
+{
+|cffffcc00Ґалл:|r Щелепи смерті стискаються навколо вас.
+}
+
+STRING 3495
+// Items: I1LA (WC2Orc12ChoGall4), Name (Name)
+{
+WC2Orc12ChoGall4
+}
+
+STRING 3496
+// Items: I1LB (WC2Orc12ChoGall5), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3497
+// Items: I1LB (WC2Orc12ChoGall5), Description (Description)
+{
+|cffffcc00Ґалл:|r Вогонь та лють.
+}
+
+STRING 3498
+// Items: I1LB (WC2Orc12ChoGall5), Name (Name)
+{
+WC2Orc12ChoGall5
+}
+
+STRING 3499
+// Items: I1LC (WC2Orc12ChoGall7), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3500
+// Items: I1LC (WC2Orc12ChoGall7), Description (Description)
+{
+Ніхто не завадить гніву Чо'ґалла!
+}
+
+STRING 3501
+// Items: I1LC (WC2Orc12ChoGall7), Name (Name)
+{
+WC2Orc12ChoGall7
+}
+
+STRING 3502
+// Items: I1LD (WC2Orc12ChoGall8), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3503
+// Items: I1LD (WC2Orc12ChoGall8), Description (Description)
+{
+|cffffcc00Чо:|r Я потрощу ваші кістки!
+}
+
+STRING 3504
+// Items: I1LD (WC2Orc12ChoGall8), Name (Name)
+{
+WC2Orc12ChoGall8
+}
+
+STRING 3505
+// Items: I1LE (WC2Orc12ChoGall9), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3506
+// Items: I1LE (WC2Orc12ChoGall9), Description (Description)
+{
+|cffffcc00Ґалл:|r Ахахаха!
+}
+
+STRING 3507
+// Items: I1LE (WC2Orc12ChoGall9), Name (Name)
+{
+WC2Orc12ChoGall9
+}
+
+STRING 3508
+// Items: I1LF (WC2Orc12ChoGall10), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3509
+// Items: I1LF (WC2Orc12ChoGall10), Description (Description)
+{
+|cffffcc00Чо:|r Досить! Крики темних богів, розірвуть ваші нікчемні душі на шматки! |cffffcc00Ґалл:|r Споглядайте силу нашого справжнього володаря!
+}
+
+STRING 3510
+// Items: I1LF (WC2Orc12ChoGall10), Name (Name)
+{
+WC2Orc12ChoGall10
+}
+
+STRING 3511
+// Items: I1LG (WC2Orc12ChoGall11), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3512
+// Items: I1LG (WC2Orc12ChoGall11), Description (Description)
+{
+|cffffcc00Чо:|rВсі мають слугувати! |cffffcc00Ґалл:|r Всі мають утамувати голод темного бога!
+}
+
+STRING 3513
+// Items: I1LG (WC2Orc12ChoGall11), Name (Name)
+{
+WC2Orc12ChoGall11
+}
+
+STRING 3514
+// Items: I1LH (PeonPissed4), Tip (Tooltip - Basic)
+{
+Батрак
+}
+
+STRING 3515
+// Items: I1LH (PeonPissed4), Description (Description)
+{
+Це не той орк якого ти шукаєш!
+}
+
+STRING 3516
+// Items: I1LH (PeonPissed4), Name (Name)
+{
+PeonPissed4
+}
+
+STRING 3517
+// Items: I1LI (WC2Orc12Cultist1), Tip (Tooltip - Basic)
+{
+Оґр сектант
+}
+
+STRING 3518
+// Items: I1LI (WC2Orc12Cultist1), Description (Description)
+{
+Помріть іменем володаря!
+}
+
+STRING 3519
+// Items: I1LI (WC2Orc12Cultist1), Name (Name)
+{
+WC2Orc12Cultist1
+}
+
+STRING 3520
+// Items: I1LJ (WC2Orc12Cultist2), Tip (Tooltip - Basic)
+{
+Оґр сектант
+}
+
+STRING 3521
+// Items: I1LJ (WC2Orc12Cultist2), Description (Description)
+{
+Підкоріться страху!
+}
+
+STRING 3522
+// Items: I1LJ (WC2Orc12Cultist2), Name (Name)
+{
+WC2Orc12Cultist2
+}
+
+STRING 3523
+// Items: I1LK (WC2Orc12Cultist3), Tip (Tooltip - Basic)
+{
+Оґр сектант
+}
+
+STRING 3524
+// Items: I1LK (WC2Orc12Cultist3), Description (Description)
+{
+Ваші плани буде зруйновано!
+}
+
+STRING 3525
+// Items: I1LK (WC2Orc12Cultist3), Name (Name)
+{
+WC2Orc12Cultist3
+}
+
+STRING 3527
+// Items: I1lx (WC2Orc12Grunt1), Description (Description)
+{
+Ніколи більше я не буду виконувати накази Молота Згуби. Всі ви зараз отримаєте від мене по сокирі в серце.
+}
+
+STRING 3528
+// Items: I1lx (WC2Orc12Grunt1), Name (Name)
+{
+WC2Orc12Grunt1
+}
+
+STRING 3529
+// Units: O001 (Ogre Magi), Name (Name)
+{
+Оґр маг
+}
+
+STRING 3530
+// Units: O005 (Ogre Magi), Name (Name)
+{
+Оґр маг
+}
+
+STRING 3531
+// Units: O006 (Ogre Magi), Name (Name)
+{
+Оґр маг
+}
+
+STRING 3532
+// Items: I0Ln (WC2Orc12Drakthul3), Description (Description)
+{
+Я боюся гніву Тіньової ради, Зулугеде. Але якщо ви знищене їх, я вам все розкажу. Вони роблять жахливі ритуали на острові неподалік… Вбийте їх, і принесіть мені той артефакт що вони використовують.
+}
+
+STRING 3533
+// Items: I0Lp (WC2Orc12Drakthul5), Description (Description)
+{
+Його звали… Сарґерас. Повелитель нескінченних демонських легіонів. Кажуть, що колись Сарґерас був переможений, а його гробниця затонула багато століть тому. Саме демони Сарґераса перетворили Ґул'дана у те чим він зараз є. І саме демони Сарґераса зміцнити наших отаманів багато років тому. Усе, чим зараз ми є, усе чого ми досягли ми завдячуємо йому.
+}
+
+STRING 3534
+// Items: I1lx (WC2Orc12Grunt1), Tip (Tooltip - Basic)
+{
+Зрадник з клану Чорної гори
+}
+
+STRING 3535
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3536
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 3537
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 3538
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3539
+// Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
+{
+Зрадник з клану Чорної гори
+}
+
+STRING 3540
+// Items: IQL0 (Bonecrusher), Name (Name)
+{
+Кістколам
+}
+

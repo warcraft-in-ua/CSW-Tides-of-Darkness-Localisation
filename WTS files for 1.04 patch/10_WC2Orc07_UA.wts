@@ -1,0 +1,4070 @@
+﻿STRING 1
+{
+WC2Orc07
+}
+
+STRING 3
+{
+The Fall of Stromgarde
+}
+
+STRING 23
+{
+Transport
+}
+
+STRING 58
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 135
+{
+LoreCraftDesigns
+}
+
+STRING 138
+{
+Городяни Стормґарду
+}
+
+STRING 139
+{
+Alliance
+}
+
+STRING 140
+{
+Horde
+}
+
+STRING 200
+// Units: e601 (Ballista), Name (Name)
+{
+Балліста
+}
+
+STRING 221
+// Units: n600 (Snake), Name (Name)
+{
+Snake
+}
+
+STRING 222
+// Units: n600 (Snake), Tip (Tooltip - Basic)
+{
+Snake
+}
+
+STRING 235
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 269
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 270
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 309
+// Units: e002 (Ballista), Name (Name)
+{
+Балліста
+}
+
+STRING 319
+// Units: o006 (Destroyer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 324
+// Units: h605 (Kings Guard), Name (Name)
+{
+Королівська варта
+}
+
+STRING 325
+// Units: h61Q (Scout Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 334
+// Units: h00F (Cannon Worker), EditorSuffix (Name - Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 376
+// Units: o006 (Destroyer), Tip (Tooltip - Basic)
+{
+Build Destroyer
+}
+
+STRING 557
+// Units: H62E (King of Stromgarde), Revivetip (Tooltip - Revive)
+{
+Revive King
+}
+
+STRING 558
+// Units: H62E (King of Stromgarde), Awakentip (Tooltip - Awaken)
+{
+Revive King
+}
+
+STRING 567
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 568
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 585
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 597
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 598
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 607
+// Units: h620 (Намет), Name (Name)
+{
+Намет
+}
+
+STRING 608
+// Units: h620 (Намет), Tip (Tooltip - Basic)
+{
+Намет
+}
+
+STRING 609
+// Units: h621 (Намет), Name (Name)
+{
+Намет
+}
+
+STRING 610
+// Units: h621 (Намет), Tip (Tooltip - Basic)
+{
+Намет
+}
+
+STRING 611
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 621
+// Units: n627 (Wild horse), Name (Name)
+{
+Wild horse
+}
+
+STRING 626
+// Units: h627 (Cleric), Name (Name)
+{
+Cleric
+}
+
+STRING 639
+// Units: H62E (King of Stromgarde), Name (Name)
+{
+Король Стормґарду
+}
+
+STRING 651
+// Units: n62A (Shark), Name (Name)
+{
+Акула
+}
+
+STRING 652
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+Акула
+}
+
+STRING 653
+// Units: n62B (Purple Shark), Name (Name)
+{
+Рожева акула
+}
+
+STRING 654
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+Акула
+}
+
+STRING 666
+// Units: h60F (Human Cannon), Name (Name)
+{
+Людська гармата
+}
+
+STRING 681
+// Units: n60Y (Raven), Name (Name)
+{
+Raven
+}
+
+STRING 690
+// Units: n60Z (Spiders), Name (Name)
+{
+Spiders
+}
+
+STRING 691
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Spiders
+}
+
+STRING 696
+// Units: e60F (Hay Cart), Name (Name)
+{
+Hay Cart
+}
+
+STRING 788
+// Units: h618 (Pack Ram), Name (Name)
+{
+Pack Ram
+}
+
+STRING 789
+// Units: n61O (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 790
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gray)
+}
+
+STRING 791
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 792
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 793
+// Units: n61P (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 794
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Black)
+}
+
+STRING 795
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 796
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 797
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 798
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Brown)
+}
+
+STRING 799
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 800
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 845
+// Units: n00C (Tavern), Name (Name)
+{
+Корчма
+}
+
+STRING 977
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1002
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1003
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1005
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1007
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Брама гарнізону
+}
+
+STRING 1008
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(no Path)
+}
+
+STRING 1011
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1013
+// Destructibles: B60J (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 1015
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Castle Tower
+}
+
+STRING 1017
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Stone Wall
+}
+
+STRING 1019
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 1021
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1026
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1027
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1028
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1029
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1030
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1040
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Стара могила
+}
+
+STRING 1042
+// Destructibles: B62T (Egg), Name (Name)
+{
+Яйце
+}
+
+STRING 1045
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1046
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Marble Floor
+}
+
+STRING 1047
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1048
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1051
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1053
+// Destructibles: B01W (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1054
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1064
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 1070
+// Destructibles: B60U (Chest), Name (Name)
+{
+Скриня
+}
+
+STRING 1071
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 1072
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 1073
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 1075
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 1076
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1080
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1085
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1086
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1091
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1092
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1093
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1094
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1095
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1096
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1097
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1098
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1099
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1100
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1101
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1102
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1103
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1104
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1105
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1106
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1107
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1108
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1109
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1110
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1111
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1112
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1113
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1114
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Castle Archway
+}
+
+STRING 1115
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Castle Wall Stairs
+}
+
+STRING 1116
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Knight Statue
+}
+
+STRING 1117
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1118
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1119
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1120
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1133
+// Destructibles: B004 (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1134
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1135
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1136
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1137
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1152
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1156
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1161
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1164
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1166
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1174
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1177
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1190
+// Doodads: D69S (Door), Name (Name)
+{
+Door
+}
+
+STRING 1201
+// Doodads: D6AE (Light), Name (Name)
+{
+Light
+}
+
+STRING 1202
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1203
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1231
+// Destructibles: B00M (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1236
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1238
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1239
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1243
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1244
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1245
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1246
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1247
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1248
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1250
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+StromGarde Banner
+}
+
+STRING 1285
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1286
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1291
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1306
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Orc Long Banner
+}
+
+STRING 1307
+// Doodads: D6GR (Shark), Name (Name)
+{
+Акула
+}
+
+STRING 1313
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1321
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1322
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1323
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1324
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1326
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1327
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1335
+// Doodads: D60G (Strategy Map), Name (Name)
+{
+Strategy Map
+}
+
+STRING 1344
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1536
+// Abilities: A61Y (Warrior Rage), EditorSuffix (Editor Suffix)
+{
+(Warrior)
+}
+
+STRING 1537
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 1|r]
+}
+
+STRING 1538
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 2|r]
+}
+
+STRING 1539
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 3|r]
+}
+
+STRING 1540
+// Abilities: A61Y (Warrior Rage), Researchtip (Tooltip - Learn)
+{
+Learn «Warrior Rage» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 1541
+// Abilities: A61Y (Warrior Rage), Name (Name)
+{
+Warrior Rage
+}
+
+STRING 2555
+// Units: nvlw (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Local girl.
+}
+
+STRING 2585
+// Units: n004 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2586
+// Units: n006 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2587
+// Units: n007 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2588
+// Units: n008 (Міська годинникова вежа), Name (Name)
+{
+Міська годинникова вежа
+}
+
+STRING 2589
+// Units: n008 (Міська годинникова вежа), Tip (Tooltip - Basic)
+{
+Build Міська годинникова вежа
+}
+
+STRING 2590
+// Units: n009 (Міська годинникова вежа), EditorSuffix (Name - Editor Suffix)
+{
+(Brill)
+}
+
+STRING 2591
+// Units: n009 (Міська годинникова вежа), Name (Name)
+{
+Міська годинникова вежа
+}
+
+STRING 2592
+// Units: n009 (Міська годинникова вежа), Tip (Tooltip - Basic)
+{
+Build Міська годинникова вежа
+}
+
+STRING 2593
+// Units: n00A (Міська годинникова вежа), EditorSuffix (Name - Editor Suffix)
+{
+(Andorhal)
+}
+
+STRING 2594
+// Units: n00A (Міська годинникова вежа), Name (Name)
+{
+Міська годинникова вежа
+}
+
+STRING 2595
+// Units: n00A (Міська годинникова вежа), Tip (Tooltip - Basic)
+{
+Build Міська годинникова вежа
+}
+
+STRING 2596
+// Units: n00B (Міська годинникова вежа), EditorSuffix (Name - Editor Suffix)
+{
+(Stranbrad)
+}
+
+STRING 2597
+// Units: n00B (Міська годинникова вежа), Name (Name)
+{
+Міська годинникова вежа
+}
+
+STRING 2598
+// Units: n00B (Міська годинникова вежа), Tip (Tooltip - Basic)
+{
+Build Міська годинникова вежа
+}
+
+STRING 2600
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+Build Tavern
+}
+
+STRING 2601
+// Units: n00D (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2602
+// Units: n00E (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2603
+// Units: n00F (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2604
+// Units: n00G (Inn), Name (Name)
+{
+Трактир
+}
+
+STRING 2605
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+Build Inn
+}
+
+STRING 2606
+// Units: h003 (Granary), Name (Name)
+{
+Житниця
+}
+
+STRING 2607
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+Build Granary
+}
+
+STRING 2608
+// Units: h004 (Windmill), Name (Name)
+{
+Млин
+}
+
+STRING 2609
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+Build Wimdmill
+}
+
+STRING 2610
+// Units: n00H (Barn), Name (Name)
+{
+Хлів
+}
+
+STRING 2611
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+Build Barn
+}
+
+STRING 2612
+// Units: n00I (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2613
+// Units: n00J (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2615
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Cinematic Head Pointer
+}
+
+STRING 2640
+// Units: n00U (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2641
+// Units: n00U (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 2642
+// Units: n00V (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2643
+// Units: n00V (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 2644
+// Units: n00W (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 2645
+// Units: n00X (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 2646
+// Units: n00Y (Eagle), Name (Name)
+{
+Eagle
+}
+
+STRING 2647
+// Units: nvlw (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2648
+// Units: n00Z (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2649
+// Units: n00Z (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 2650
+// Units: nvil (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2651
+// Units: n010 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2652
+// Units: n010 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 2653
+// Units: nvl2 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2654
+// Units: n011 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2655
+// Units: n011 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 2656
+// Units: n00Z (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2657
+// Units: n012 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2658
+// Units: n012 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 2659
+// Units: n010 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2660
+// Units: n013 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2661
+// Units: n013 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 2662
+// Units: n011 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2663
+// Units: n014 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2664
+// Units: n014 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 2665
+// Units: n012 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2666
+// Units: n015 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2667
+// Units: n015 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 2668
+// Units: n013 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2669
+// Units: n016 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2670
+// Units: n016 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 2671
+// Units: n014 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2672
+// Units: n017 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2673
+// Units: n017 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 2674
+// Units: n015 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2675
+// Units: n018 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2676
+// Units: n018 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 2677
+// Units: n016 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2678
+// Units: n019 (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2679
+// Units: n019 (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 2680
+// Units: n01A (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2681
+// Units: n01A (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 2682
+// Units: n01B (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2683
+// Units: n01B (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 2684
+// Units: n01C (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2685
+// Units: n01C (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 5)
+}
+
+STRING 2686
+// Units: n01D (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2687
+// Units: n01D (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 6)
+}
+
+STRING 2688
+// Units: n01E (Лордеронська панянка), Name (Name)
+{
+Лордеронська панянка
+}
+
+STRING 2689
+// Units: n01E (Лордеронська панянка), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 7)
+}
+
+STRING 2690
+// Units: n01F (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 2691
+// Units: n01G (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 2692
+// Units: n01H (Літній городянин), Name (Name)
+{
+Літній городянин
+}
+
+STRING 2693
+// Units: n01H (Літній городянин), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 2694
+// Units: n01I (Літній городянин), Name (Name)
+{
+Літній городянин
+}
+
+STRING 2695
+// Units: n01I (Літній городянин), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 2696
+// Units: n01J (Літній городянин), Name (Name)
+{
+Літній городянин
+}
+
+STRING 2697
+// Units: n01J (Літній городянин), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 2698
+// Units: n01K (Літній городянин), Name (Name)
+{
+Літній городянин
+}
+
+STRING 2699
+// Units: n01K (Літній городянин), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 2700
+// Units: n01L (Літній городянин), Name (Name)
+{
+Літній городянин
+}
+
+STRING 2701
+// Units: n01L (Літній городянин), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 2702
+// Units: n017 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 2703
+// Units: n01M (Житель Стормґарду), Ubertip (Tooltip - Extended)
+{
+Just a regular Житель Стормґарду. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2704
+// Units: n01M (Житель Стормґарду), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 2826
+// Units: h00C (Visibility Controller), Name (Name)
+{
+Visibility Controller
+}
+
+STRING 2836
+// Destructibles: BTtw (Swamp Tree Wall), Name (Name)
+{
+Swamp Tree Wall
+}
+
+STRING 2837
+// Destructibles: BTtc (Swamp Canopy Tree), Name (Name)
+{
+Swamp Canopy Tree
+}
+
+STRING 2838
+// Destructibles: NTiw (Wetlands Tree Wall), Name (Name)
+{
+Wetlands Tree Wall
+}
+
+STRING 2839
+// Destructibles: B60J (Vines), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 2842
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+Thoradin Statue
+}
+
+STRING 2857
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Stone Bench
+}
+
+STRING 2858
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Wooden Bench
+}
+
+STRING 2859
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Weapon Rack New
+}
+
+STRING 2861
+// Destructibles: B00H (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 2862
+// Destructibles: B00I (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 2863
+// Destructibles: B00J (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 2864
+// Destructibles: B00K (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 2865
+// Destructibles: B00L (Chapel), Name (Name)
+{
+Chapel
+}
+
+STRING 2866
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+Food Supplies
+}
+
+STRING 2869
+// Destructibles: B00R (Vine Trap), Name (Name)
+{
+Vine Trap
+}
+
+STRING 2876
+// Destructibles: B00X (SummerCliffSmall Angled), Name (Name)
+{
+SummerCliffSmall Angled
+}
+
+STRING 2877
+// Destructibles: B00Y (SummerCliff Angled), Name (Name)
+{
+SummerCliff Angled
+}
+
+STRING 2878
+// Destructibles: B00Z (Orc Fences), Name (Name)
+{
+Orc Fences
+}
+
+STRING 2879
+// Destructibles: B011 (Orc Spikes), Name (Name)
+{
+Orc Spikes
+}
+
+STRING 2880
+// Destructibles: B012 (Dwarven Stairs), Name (Name)
+{
+Dwarven Stairs
+}
+
+STRING 2884
+// Destructibles: B016 (Stump Hollow Big), Name (Name)
+{
+Stump Hollow Big
+}
+
+STRING 2885
+// Destructibles: B017 (Scarab Crator), Name (Name)
+{
+Scarab Crator
+}
+
+STRING 2886
+// Destructibles: B019 (Spike Trap), Name (Name)
+{
+Spike Trap
+}
+
+STRING 2905
+// Destructibles: B01J (Concrete Floor), Name (Name)
+{
+Concrete Floor
+}
+
+STRING 2910
+// Destructibles: B01N (CliffBaseDarkA), Name (Name)
+{
+CliffBaseDarkA
+}
+
+STRING 2911
+// Destructibles: B01O (CliffBaseDarkB), Name (Name)
+{
+CliffBaseDarkB
+}
+
+STRING 2912
+// Destructibles: B01P (CliffBaseDarkC), Name (Name)
+{
+CliffBaseDarkC
+}
+
+STRING 2913
+// Destructibles: B01Q (CliffBaseDarkD), Name (Name)
+{
+CliffBaseDarkD
+}
+
+STRING 2922
+// Destructibles: B01V (Cannon bed), Name (Name)
+{
+Cannon bed
+}
+
+STRING 2924
+// Destructibles: B01W (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Yellow)
+}
+
+STRING 2925
+// Destructibles: B01X (Wooden Floor Tol Barad), Name (Name)
+{
+Wooden Floor Tol Barad
+}
+
+STRING 2926
+// Destructibles: B01Y (Pier Tol Barad), Name (Name)
+{
+Pier Tol Barad
+}
+
+STRING 2927
+// Destructibles: B01Z (Гарматні снаряди), Name (Name)
+{
+Гарматні снаряди
+}
+
+STRING 2928
+// Doodads: ZCv2 (Vines Cliffside (2)), Name (Name)
+{
+Vines Cliffside (2)
+}
+
+STRING 2938
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+Sewer Hatch
+}
+
+STRING 2939
+// Doodads: D006 (Cargo), Name (Name)
+{
+Cargo
+}
+
+STRING 2940
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Gunny Bag
+}
+
+STRING 2949
+// Doodads: D00G (Dragonfly swarm), Name (Name)
+{
+Dragonfly swarm
+}
+
+STRING 2980
+// Doodads: D01B (Mine Cart Destroyed), Name (Name)
+{
+Mine Cart Destroyed
+}
+
+STRING 2981
+// Doodads: D01C (Mine Cart Angled), Name (Name)
+{
+Mine Cart Angled
+}
+
+STRING 2982
+// Doodads: D01D (- Waterfall Mini), Name (Name)
+{
+- Waterfall Mini
+}
+
+STRING 2983
+// Doodads: D01F (Wetlands Grass 01), Name (Name)
+{
+Wetlands Grass 01
+}
+
+STRING 2984
+// Doodads: D01G (Wetlands Grass 02), Name (Name)
+{
+Wetlands Grass 02
+}
+
+STRING 2985
+// Doodads: D01H (Log Pathless), Name (Name)
+{
+Log Pathless
+}
+
+STRING 2986
+// Doodads: D01I (Black Glow), Name (Name)
+{
+Black Glow
+}
+
+STRING 2990
+// Doodads: D01M (Brick Doodad), Name (Name)
+{
+Brick Doodad
+}
+
+STRING 2992
+// Doodads: D01O (Shadow), Name (Name)
+{
+Shadow
+}
+
+STRING 2995
+// Doodads: D01R (Shadow Angled), Name (Name)
+{
+Shadow Angled
+}
+
+STRING 2996
+// Doodads: D01S (Dripping Water 2), Name (Name)
+{
+Dripping Water 2
+}
+
+STRING 2999
+// Doodads: D01U (Banner Long Baradin), Name (Name)
+{
+Banner Long Baradin
+}
+
+STRING 3000
+// Doodads: D01V (Lordaeron Rock Spires Yellow), Name (Name)
+{
+Lordaeron Rock Spires Yellow
+}
+
+STRING 3001
+// Doodads: D01W (Rock Archway No Path Yellow), Name (Name)
+{
+Rock Archway No Path Yellow
+}
+
+STRING 3003
+// Doodads: D01Y (-ZL-Pier), Name (Name)
+{
+-ZL-Pier
+}
+
+STRING 3272
+// Units: H00E (Ліам Тролебій), Awakentip (Tooltip - Awaken)
+{
+Revive Duke
+}
+
+STRING 3273
+// Units: H00E (Ліам Тролебій), Revivetip (Tooltip - Revive)
+{
+Revive Duke
+}
+
+STRING 3300
+{
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 3301
+{
+Unable to use Oil Rig.
+}
+
+STRING 3302
+{
+That Oil Patch has already being used.
+}
+
+STRING 3303
+{
+Must build Oil Rig first.
+}
+
+STRING 3304
+{
+Must target an Oil Patch.
+}
+
+STRING 3305
+{
+Must build upon Oil Patch.
+}
+
+STRING 3306
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 3307
+{
+Unholy
+}
+
+STRING 3308
+{
+Клан Чорної гори
+}
+
+STRING 3309
+{
+Люди Стормґарду
+}
+
+STRING 3310
+{
+Клан Чорнозубого вищиру
+}
+
+STRING 3311
+{
+Cinematic Dummy
+}
+
+STRING 3312
+{
+Neutral
+}
+
+STRING 3313
+// Destructibles: B61C (Stromgarde Banner), Name (Name)
+{
+Знамено Стормґарду
+}
+
+STRING 3314
+// Destructibles: B61C (Stromgarde Banner), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 3315
+// Doodads: D647 (Vines Doodad), Name (Name)
+{
+Vines Doodad
+}
+
+STRING 3316
+// Doodads: D64K (Distant Land), Name (Name)
+{
+Distant Land
+}
+
+STRING 3317
+// Destructibles: B000 (Castle Wall Cannon), Name (Name)
+{
+Castle Wall Cannon
+}
+
+STRING 3318
+// Destructibles: B001 (Castle Wall Pillar), Name (Name)
+{
+Castle Wall Pillar
+}
+
+STRING 3319
+// Doodads: D001 (Waterfall Of Piss), Name (Name)
+{
+Waterfall Of Piss
+}
+
+STRING 3320
+// Units: n032 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 1
+}
+
+STRING 3321
+// Units: n032 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3322
+// Units: n033 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 2
+}
+
+STRING 3323
+// Units: n033 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3324
+// Units: n034 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 3
+}
+
+STRING 3325
+// Units: n034 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3326
+// Units: n035 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 4
+}
+
+STRING 3328
+// Units: n036 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 5
+}
+
+STRING 3330
+// Doodads: D008 (Wall Fountain Yellow), Name (Name)
+{
+Wall Fountain Yellow
+}
+
+STRING 3331
+// Units: n037 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 6
+}
+
+STRING 3333
+// Units: n038 (Будівля міста Стормґард), EditorSuffix (Name - Editor Suffix)
+{
+ 7
+}
+
+STRING 3335
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3336
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3337
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3338
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3339
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3340
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3341
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3342
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3343
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3344
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3345
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3346
+{
+|cffffcc00Потрібно більше нафти.|r
+}
+
+STRING 3347
+// Doodads: D009 (Banner Long Stromgarde), Name (Name)
+{
+Banner Long Stromgarde
+}
+
+STRING 3348
+// Destructibles: B002 (Castle Wall Pillar Small), Name (Name)
+{
+Castle Wall Pillar Small
+}
+
+STRING 3349
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3350
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3351
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3352
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3353
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3354
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3355
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3358
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3359
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3504
+// Units: H00E (Ліам Тролебій), Name (Name)
+{
+Ліам Тролебій
+}
+
+STRING 3508
+// Units: H00E (Ліам Тролебій), Propernames (Proper Names)
+{
+Ліам Тролебій
+}
+
+STRING 3542
+// Units: H62E (King of Stromgarde), Propernames (Proper Names)
+{
+Торас Тролебій
+}
+
+STRING 3590
+{
+|cff8080ffНОВІ ГЕРОЇ|r
+Під вашим контролем Орґрім Молот Згуби, могутній вождь Орди і найсильніший орк воїн.
+}
+
+STRING 3607
+{
+|cffffcc00MAIN QUEST FAILED|r
+Foothold
+- |cffff0000Prepare foothold before warchief arrives (Failed)|r
+
+}
+
+STRING 3610
+{
+|cffffcc00MISSION FAILED|r
+}
+
+STRING 3628
+// Units: h00G (Стіна з гарматою), Name (Name)
+{
+Стіна з гарматою
+}
+
+STRING 3630
+// Units: h00H (Стіна з гарматою), Name (Name)
+{
+Стіна з гарматою
+}
+
+STRING 3632
+// Units: h00G (Стіна з гарматою), EditorSuffix (Name - Editor Suffix)
+{
+(height 20)
+}
+
+STRING 3634
+// Units: h00H (Стіна з гарматою), EditorSuffix (Name - Editor Suffix)
+{
+(height 100, attack Z -300)
+}
+
+STRING 3635
+{
+Захисники Стормґарду
+}
+
+STRING 3661
+// Units: o006 (Destroyer), Name (Name)
+{
+Руйнівник орків
+}
+
+STRING 3663
+// Units: o006 (Destroyer), Ubertip (Tooltip - Extended)
+{
+The Destroyers are swift, ill-visaged longboats designed to cut through enemy armadas and deal damage to enemy vessels and their flying support. |n|n|cffffcc00Attacks land and air units.|r |n|n|cffffcc00Requires|r 700 |cffffcc00Oil|r.
+}
+
+STRING 3693
+// Units: o007 (Cinematic ship), Name (Name)
+{
+Cinematic ship
+}
+
+STRING 3704
+// Units: h00F (Cannon Worker), Name (Name)
+{
+Cannon Worker
+}
+
+STRING 3786
+// Destructibles: B003 (Pathing UnBlocker (Ground Large)), Name (Name)
+{
+Pathing UnBlocker (Ground Large)
+}
+
+STRING 3791
+// Units: n018 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 3792
+// Units: n019 (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 3793
+// Units: n01M (Житель Стормґарду), Name (Name)
+{
+Житель Стормґарду
+}
+
+STRING 3794
+// Units: e002 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(WallPositioned)
+}
+
+STRING 3797
+// Doodads: DRWS (Rack Weapon Spear), Name (Name)
+{
+Rack Weapon Spear
+}
+
+STRING 3798
+{
+Підготовка
+}
+
+STRING 3799
+{
+Ваші транспортні човни були захоплені силами Стормґарду. Поверніть їх під свій контроль, щоб мати змогу захопити золото копальню і розпочати напад на фортецю Стормґард.
+}
+
+STRING 3800
+{
+Поверніть контроль над орочими транспортними човнами
+}
+
+STRING 3801
+{
+Мейм має вижити
+}
+
+STRING 3802
+{
+Як мінімум один трудяга має вижити
+}
+
+STRING 3803
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Підготовка
+  - Поверніть транспорті човни
+  - Захопіть золотокопальню
+  - Мейм має вижити
+  - Як мінімум один трудяга має вижити
+}
+
+STRING 3804
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Підготовка
+  -|cff808080 Поверніть транспорті човни (Завершено)|r
+  - Захопіть золотокопальню
+  - Мейм має вижити
+  - Як мінімум один трудяга має вижити
+}
+
+STRING 3812
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Підготовка
+}
+
+STRING 3813
+{
+Перевага на морі
+}
+
+STRING 3814
+{
+Аби подавити сили Стормґарду на морі, вам необхідно зруйнувати всі їхні нафто обробні споруди.
+}
+
+STRING 3815
+{
+Знищіть нафтові вежі
+}
+
+STRING 3816
+{
+Знищіть корабельні
+}
+
+STRING 3817
+{
+Знищіть нафтопереробні заводи
+}
+
+STRING 3818
+{
+Знищіть ливарні
+}
+
+STRING 3832
+{
+Стормґард
+}
+
+STRING 3833
+{
+Нарешті тільки Стормґард стоїть між нами та північними землями. Це нікчемне недо королівство занадто давно було як заноза в одному місці… Перетворіть стіни у пил і залийте вулиці кровʼю…
+}
+
+STRING 3834
+{
+Знищіть казарми
+}
+
+STRING 3835
+{
+Знищіть конюшні
+}
+
+STRING 3836
+{
+Знищіть портову вежу
+}
+
+STRING 3837
+{
+Знищіть міську ратушу
+}
+
+STRING 3838
+{
+Знищіть фортецю 
+}
+
+STRING 3840
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Стормґард
+- Знищіть казарми
+- Знищіть конюшні
+- Знищіть портову вежу
+- Знищіть міську ратушу
+- Знищіть фортецю 
+}
+
+STRING 3846
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Стормґард
+}
+
+STRING 3848
+{
+|cffffcc0НОВІ ОДИНИЦІ ДОСТУПНІ|r
+Огри. Ці кремезі двоголові велетні були натреновані самим Чоʼґаллом. Їх можна тренувати у |cffffcc00«Пагорбі огрів»"|r.
+}
+
+STRING 3849
+{
+Тролебій
+}
+
+STRING 3850
+{
+Ви маєте вбити лідера людей Стормґарду аби зломити їх моральний дух.
+}
+
+STRING 3851
+{
+Вбийте Ліама Тролебоя
+}
+
+STRING 3853
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Тролебій
+  - Вбийте Ліама Тролебоя
+}
+
+STRING 3854
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Тролебій
+}
+
+STRING 3855
+{
+Плацдарм
+}
+
+STRING 3856
+{
+Вам необхідно до прибуття вождя підготувати плацдарм для атаки на Стормґард, поставте табір на великому острові та зведіть всі споруди необхідні для осади.
+}
+
+STRING 3857
+{
+Підготуйте плацдарм до прибуття вождя
+}
+
+STRING 3859
+{
+Зведіть бараки
+}
+
+STRING 3860
+{
+Зведіть бойову виробницю
+}
+
+STRING 3861
+{
+Зведіть ковальню
+}
+
+STRING 3862
+{
+Зведіть майстерню гобліна алхіміка
+}
+
+STRING 3863
+{
+Зведіть корабельню
+}
+
+STRING 3864
+{
+Зведіть нафтопереробний завод
+}
+
+STRING 3865
+{
+Зведіть ливарню
+}
+
+STRING 3867
+{
+Необхідно звести:
+}
+
+STRING 3877
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Плацдарм
+- Підготуйте табір до прибуття вождя
+- Зведіть бараки
+- Зведіть військову виробницю
+- Зведіть ковальню
+- Зведіть майстерню гобліна алхіміка
+- Зведіть корабельню
+- Зведіть ливарню
+- Зведіть нафтопереробний завод
+}
+
+STRING 3878
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Плацдарм
+}
+
+STRING 3880
+{
+Вождь прибуде через:
+}
+
+STRING 3882
+{
+Бараки
+}
+
+STRING 3886
+{
+Ковальню
+}
+
+STRING 3887
+{
+Військову виробницю
+}
+
+STRING 3889
+{
+Майстерню гобліна алхіміка
+}
+
+STRING 3891
+{
+Корабельню
+}
+
+STRING 3893
+{
+Ливарню
+}
+
+STRING 3895
+{
+Нафтопереробний завод
+}
+
+STRING 3897
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r
+Перевага на морі
+}
+
+STRING 3898
+{
+|cffff0000УВАГА|r
+Ви маєте звести базу до прибуття вождя. Слідкуйте за часом у верхньому правому куті екрану.
+}
+
+STRING 3899
+{
+|cffff0000УВАГА|r
+Лишилося всього хвилина до прибуття вождя.
+}
+
+STRING 3904
+{
+|cff32cd32ПІДКАЗКА|r
+Стіни замку з решітками можна |cffd47832зруйнувати|r.
+Віддайте наказ катапультам атакувати стіни, за допомогою правої кнопки миші.
+}
+
+STRING 3905
+{
+|cffffcc00ДОСТУПНІ НОВІ ТЕХНОЛОГІЇ|r
+Військова виробниця - Тут ви можете покращити видобуток деревини та бойові навички окрів списометів.
+}
+
+STRING 3907
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Стормґард
+- |cffff0000Ваш табір зруйновано, а ваших батраків вбито.|r
+}
+
+STRING 3908
+{
+Захопіть золоту шахту
+}
+
+STRING 3910
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Підготовка
+- |cffff0000Як мінімум один ""трудяга"" має вижити. (Провалено)|r
+}
+
+STRING 3911
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Підготовка
+- |cffff0000Мейм має вижити. (Провалено)|r
+}
+
+STRING 3912
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Перевага на морі
+  - Знищіть нафтові вежі
+  - Знищіть корабельні
+  - Знищіть нафтопереробні заводи
+  - Знищіть ливарні
+}
+
+STRING 3913
+{
+Клан Сутінкового молоту
+}
+
+STRING 3914
+// Units: n035 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3915
+// Units: n036 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3916
+// Units: n037 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3917
+// Units: n038 (Будівля міста Стормґард), Name (Name)
+{
+Будівля міста Стормґард
+}
+
+STRING 3921
+// Items: I0La (WC2Orc07Doomhammer1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3922
+// Items: I0La (WC2Orc07Doomhammer1), Description (Description)
+{
+Тром'ка, воїни.
+}
+
+STRING 3923
+// Items: I0La (WC2Orc07Doomhammer1), Name (Name)
+{
+WC2Orc07Doomhammer1
+}
+
+STRING 3924
+// Items: I0Lb (WC2Orc07Doomhammer2), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3925
+// Items: I0Lb (WC2Orc07Doomhammer2), Description (Description)
+{
+Гарна робота… Мейме. Зулугед доповів, що ти не такий безкорисний як я думав після у Дун Модрі. Ти маєш нескінченну пристрасть до битви та сміливість, але памʼятай що вдача на полі бою не нескінченна.
+}
+
+STRING 3926
+// Items: I0Lb (WC2Orc07Doomhammer2), Name (Name)
+{
+WC2Orc07Doomhammer2
+}
+
+STRING 3927
+// Items: I0Lc (WC2Orc07Doomhammer3), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3928
+// Items: I0Lc (WC2Orc07Doomhammer3), Description (Description)
+{
+А ти Утоке, дуже точний і роздумливий, рідкісні якості для орка. Ти в хорошій компанії з братами Чорноруками. Війна гарно йде коли кожен солдат на своєму місці.
+}
+
+STRING 3929
+// Items: I0Lc (WC2Orc07Doomhammer3), Name (Name)
+{
+WC2Orc07Doomhammer3
+}
+
+STRING 3930
+// Items: I0Ld (WC2Orc07Doomhammer4), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3931
+// Items: I0Ld (WC2Orc07Doomhammer4), Description (Description)
+{
+Чо’ґалл доповів що нафтові свердловини у Хаз Модані працюють вкрай добре, видобуток йде згідно з планом. Орда буде мати більш ніж достатньо нафти аби розпочати активну кампанію в землях далеко на півночі.
+}
+
+STRING 3932
+// Items: I0Ld (WC2Orc07Doomhammer4), Name (Name)
+{
+WC2Orc07Doomhammer4
+}
+
+STRING 3933
+// Items: I0Le (WC2Orc07Doomhammer5), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3934
+// Items: I0Le (WC2Orc07Doomhammer5), Description (Description)
+{
+На знак вдячності за його безпеку у тих болотах Чо'ґалл надіслав своїх огрів допомогти нам тут.
+}
+
+STRING 3935
+// Items: I0Le (WC2Orc07Doomhammer5), Name (Name)
+{
+WC2Orc07Doomhammer5
+}
+
+STRING 3936
+// Items: I0Lf (WC2Orc07Doomhammer6), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3937
+// Items: I0Lf (WC2Orc07Doomhammer6), Description (Description)
+{
+Лишилося лише приборкати людей Стормґраду, аби орда могла рушити далі.
+}
+
+STRING 3938
+// Items: I0Lf (WC2Orc07Doomhammer6), Name (Name)
+{
+WC2Orc07Doomhammer6
+}
+
+STRING 3939
+// Items: I0Lg (WC2Orc07Doomhammer7), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3940
+// Items: I0Lg (WC2Orc07Doomhammer7), Description (Description)
+{
+Тоді настав час брати столицю. Вони сподівалися саме у Стормґарді зупинити наше просування, а тепер вони пожнуть плоди від своїх сподівань… лише кров та смерть!
+}
+
+STRING 3941
+// Items: I0Lg (WC2Orc07Doomhammer7), Name (Name)
+{
+WC2Orc07Doomhammer7
+}
+
+STRING 3942
+// Items: I0Lh (WC2Orc07Doomhammer8), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3943
+// Items: I0Lh (WC2Orc07Doomhammer8), Description (Description)
+{
+Шануєш мене своїми лестощами, молодий Утоке. Одного дня ти станеш одним із моїх найбільш довірених воїнів.
+}
+
+STRING 3944
+// Items: I0Lh (WC2Orc07Doomhammer8), Name (Name)
+{
+WC2Orc07Doomhammer8
+}
+
+STRING 3945
+// Items: I0Li (WC2Orc07Doomhammer9), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3946
+// Items: I0Li (WC2Orc07Doomhammer9), Description (Description)
+{
+Нехай! Але не довго, бо тут не треба затримуватися.  Той король боягуз неодмінно попередить своїх про те що тут сталося. Незабаром нам треба рушати на північ.
+}
+
+STRING 3947
+// Items: I0Li (WC2Orc07Doomhammer9), Name (Name)
+{
+WC2Orc07Doomhammer9
+}
+
+STRING 3948
+// Items: I0Lj (WC2Orc07Doomhammer10), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3949
+// Items: I0Lj (WC2Orc07Doomhammer10), Description (Description)
+{
+Святкування послабляє дисципліну, Мейме. Я хочу аби наші воїни були готові у будь-яку мить. Дай їм день на відпочинок, а потім будьте готові виступати.
+}
+
+STRING 3950
+// Items: I0Lj (WC2Orc07Doomhammer10), Name (Name)
+{
+WC2Orc07Doomhammer10
+}
+
+STRING 3951
+// Items: I0Lk (WC2Orc07Doomhammer_Bossfight1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3952
+// Items: I0Lk (WC2Orc07Doomhammer_Bossfight1), Description (Description)
+{
+Ти?! Ти не король. Король втік як боягуз.
+}
+
+STRING 3953
+// Items: I0Lk (WC2Orc07Doomhammer_Bossfight1), Name (Name)
+{
+WC2Orc07Doomhammer_Bossfight1
+}
+
+STRING 3954
+// Items: I0Ll (WC2Orc07Doomhammer_Bossfight2), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3955
+// Items: I0Ll (WC2Orc07Doomhammer_Bossfight2), Description (Description)
+{
+Хоробрий воїн ти, але все марно!
+}
+
+STRING 3956
+// Items: I0Ll (WC2Orc07Doomhammer_Bossfight2), Name (Name)
+{
+WC2Orc07Doomhammer_Bossfight2
+}
+
+STRING 3957
+// Items: I0Lm (WC2Orc07Doomhammer_BuildCatapults1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3958
+// Items: I0Lm (WC2Orc07Doomhammer_BuildCatapults1), Description (Description)
+{
+Будуйте більше катапульт. Необхідно зруйнувати внутрішні стіни, аби потрапити в середину міста.
+}
+
+STRING 3959
+// Items: I0Lm (WC2Orc07Doomhammer_BuildCatapults1), Name (Name)
+{
+WC2Orc07Doomhammer_BuildCatapults1
+}
+
+STRING 3960
+// Items: I0Ln (WC2Orc07Doomhammer_FirstGate1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3961
+// Items: I0Ln (WC2Orc07Doomhammer_FirstGate1), Description (Description)
+{
+Утоке! Мейме! До мене негайно! Місто скоро паде! Просуваймось!
+}
+
+STRING 3962
+// Items: I0Ln (WC2Orc07Doomhammer_FirstGate1), Name (Name)
+{
+WC2Orc07Doomhammer_FirstGate1
+}
+
+STRING 3963
+// Items: I0Lo (WC2Orc07Doomhammer_OilRigComplete1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3964
+// Items: I0Lo (WC2Orc07Doomhammer_OilRigComplete1), Description (Description)
+{
+Перевага орди на морі забезпечена!
+}
+
+STRING 3965
+// Items: I0Lo (WC2Orc07Doomhammer_OilRigComplete1), Name (Name)
+{
+WC2Orc07Doomhammer_OilRigComplete1
+}
+
+STRING 3966
+// Items: I0Lp (WC2Orc07Doomhammer_OilRigTrigger1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3967
+// Items: I0Lp (WC2Orc07Doomhammer_OilRigTrigger1), Description (Description)
+{
+Тож знищимо їх, та встановимо свої!
+}
+
+STRING 3968
+// Items: I0Lp (WC2Orc07Doomhammer_OilRigTrigger1), Name (Name)
+{
+WC2Orc07Doomhammer_OilRigTrigger1
+}
+
+STRING 3969
+// Items: I0Lq (WC2Orc07Doomhammer_OilRigTrigger1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3970
+// Items: I0Lq (WC2Orc07Doomhammer_OilRigTrigger1), Description (Description)
+{
+Тож знищимо їхні свердловини та встановимо там свої!
+}
+
+STRING 3971
+// Items: I0Lq (WC2Orc07Doomhammer_OilRigTrigger1), Name (Name)
+{
+WC2Orc07Doomhammer_OilRigTrigger1
+}
+
+STRING 3972
+// Items: I0Lr (WC2Orc07Doomhammer_Rally1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3973
+// Items: I0Lr (WC2Orc07Doomhammer_Rally1), Description (Description)
+{
+Воїни! З часів Штормовія ми не стикалися з такою щільною обороною. Стіни Стормґарду міцні, а його люди — досвідчені бійці... загартовані століттями війни проти наших союзників тролів Амані.
+}
+
+STRING 3974
+// Items: I0Lr (WC2Orc07Doomhammer_Rally1), Name (Name)
+{
+WC2Orc07Doomhammer_Rally1
+}
+
+STRING 3975
+// Items: I0Ls (WC2Orc07Doomhammer_Rally2), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3976
+// Items: I0Ls (WC2Orc07Doomhammer_Rally2), Description (Description)
+{
+Але сьогодні, ніщо, ні стіни, ні досвід, не врятує їх від бойової машини Орди! Зруйнуйте стіни! Вбийте всіх людей! Лок'тар огар! За Орду!
+}
+
+STRING 3977
+// Items: I0Ls (WC2Orc07Doomhammer_Rally2), Name (Name)
+{
+WC2Orc07Doomhammer_Rally2
+}
+
+STRING 3978
+// Items: I0Lt (WC2Orc07Doomhammer_StromgardeLanding1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3979
+// Items: I0Lt (WC2Orc07Doomhammer_StromgardeLanding1), Description (Description)
+{
+Ти тут головний. Вбивши тебе я здобуту велику честь, людино.
+}
+
+STRING 3980
+// Items: I0Lt (WC2Orc07Doomhammer_StromgardeLanding1), Name (Name)
+{
+WC2Orc07Doomhammer_StromgardeLanding1
+}
+
+STRING 3981
+// Items: I0Lu (WC2Orc07Utok1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3982
+// Items: I0Lu (WC2Orc07Utok1), Description (Description)
+{
+Тихо там! Я бачу якийсь рух на місці висадки.
+}
+
+STRING 3983
+// Items: I0Lu (WC2Orc07Utok1), Name (Name)
+{
+WC2Orc07Utok1
+}
+
+STRING 3984
+// Items: I0Lv (WC2Orc07Utok2), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3985
+// Items: I0Lv (WC2Orc07Utok2), Description (Description)
+{
+Прокляття! Нас викрито, вони знають, що ми тут! Ось вам і елемент несподіванки…
+}
+
+STRING 3986
+// Items: I0Lv (WC2Orc07Utok2), Name (Name)
+{
+WC2Orc07Utok2
+}
+
+STRING 3987
+// Items: I0Lw (WC2Orc07Utok3), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3988
+// Items: I0Lw (WC2Orc07Utok3), Description (Description)
+{
+Відправ сигнал нашим кораблям! Ми підготуємо інший сюрприз для рожевошкірих.
+}
+
+STRING 3989
+// Items: I0Lw (WC2Orc07Utok3), Name (Name)
+{
+WC2Orc07Utok3
+}
+
+STRING 3990
+// Items: I0Lx (WC2Orc07Utok4), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3991
+// Items: I0Lx (WC2Orc07Utok4), Description (Description)
+{
+Ми взяли місто, вождь. Воно пало від твоєї могутності. Це велика честь битися поряд з тобою.
+}
+
+STRING 3992
+// Items: I0Lx (WC2Orc07Utok4), Name (Name)
+{
+WC2Orc07Utok4
+}
+
+STRING 3993
+// Items: I0Ly (WC2Orc07Utok5), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3994
+// Items: I0Ly (WC2Orc07Utok5), Description (Description)
+{
+Я не підведу тебе, вождь. Це була довга облога.  Наші воїни заслуговують на відпочинок і гуляння,  з твого дозволу звісно.
+}
+
+STRING 3995
+// Items: I0Ly (WC2Orc07Utok5), Name (Name)
+{
+WC2Orc07Utok5
+}
+
+STRING 3996
+// Items: I0Lz (WC2Orc07Utok_Goldmine1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 3997
+// Items: I0Lz (WC2Orc07Utok_Goldmine1), Description (Description)
+{
+Там золота шахта! Це буде ідеальне місце для нашого передового табору. Ці докучливі люди зміцнили свої позиції навколо нього, однак...
+}
+
+STRING 3998
+// Items: I0Lz (WC2Orc07Utok_Goldmine1), Name (Name)
+{
+WC2Orc07Utok_Goldmine1
+}
+
+STRING 3999
+// Items: I0LA (WC2Orc07Utok_Goldmine2), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 4000
+// Items: I0LA (WC2Orc07Utok_Goldmine2), Description (Description)
+{
+Сумую по часах коли ми працювали з Рендом ... Бо що у цього Чорнорука череп завеликий для такого мозку.
+}
+
+STRING 4001
+// Items: I0LA (WC2Orc07Utok_Goldmine2), Name (Name)
+{
+WC2Orc07Utok_Goldmine2
+}
+
+STRING 4002
+// Items: I0LB (WC2Orc07Utok_OilRig1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 4003
+// Items: I0LB (WC2Orc07Utok_OilRig1), Description (Description)
+{
+Вождь! Стормґард має сильний флот, який буде стояти на заваді при облозі, якщо не знищено їхні нафтодобувні станції аби зупинити видобуток нафти.
+}
+
+STRING 4004
+// Items: I0LB (WC2Orc07Utok_OilRig1), Name (Name)
+{
+WC2Orc07Utok_OilRig1
+}
+
+STRING 4005
+// Items: I0LC (WC2Orc07Utok_OrgrimWelcome1), Tip (Tooltip - Basic)
+{
+Уток Дряпач
+}
+
+STRING 4006
+// Items: I0LC (WC2Orc07Utok_OrgrimWelcome1), Description (Description)
+{
+Дякую, вождь, для мене велика честь служити тобі та орді.
+}
+
+STRING 4007
+// Items: I0LC (WC2Orc07Utok_OrgrimWelcome1), Name (Name)
+{
+WC2Orc07Utok_OrgrimWelcome1
+}
+
+STRING 4008
+// Items: I0LD (WC2Orc07Maim1), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4009
+// Items: I0LD (WC2Orc07Maim1), Description (Description)
+{
+Слідкуй за язиком юначе... Вождь виказав нам велику честь, довіривши задачу яке приведе наш клан до слави... а ти тут скаржишся на комарів!?
+}
+
+STRING 4010
+// Items: I0LD (WC2Orc07Maim1), Name (Name)
+{
+WC2Orc07Maim1
+}
+
+STRING 4011
+// Items: I0LE (WC2Orc07Maim2), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4012
+// Items: I0LE (WC2Orc07Maim2), Description (Description)
+{
+Ааа? Що ти бачиш?
+}
+
+STRING 4013
+// Items: I0LE (WC2Orc07Maim2), Name (Name)
+{
+WC2Orc07Maim2
+}
+
+STRING 4014
+// Items: I0LF (WC2Orc07Maim3), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4015
+// Items: I0LF (WC2Orc07Maim3), Description (Description)
+{
+Нам треба скористати транспортні човни аби закріпитися на більшому острові. Коли вождь прибуде, нам потрібно мати все необхідне для початку облоги.
+}
+
+STRING 4016
+// Items: I0LF (WC2Orc07Maim3), Name (Name)
+{
+WC2Orc07Maim3
+}
+
+STRING 4017
+// Items: I0LG (WC2Orc07Maim4), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4018
+// Items: I0LG (WC2Orc07Maim4), Description (Description)
+{
+Тром'ка вождь. Опорний табір за твоїм наказом готовий. Тим людським нікчемам не вистоять проти нас!
+}
+
+STRING 4019
+// Items: I0LG (WC2Orc07Maim4), Name (Name)
+{
+WC2Orc07Maim4
+}
+
+STRING 4020
+// Items: I0LH (WC2Orc07Maim5), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4021
+// Items: I0LH (WC2Orc07Maim5), Description (Description)
+{
+Наші війська готові аби розгромити їх, вождь.
+}
+
+STRING 4022
+// Items: I0LH (WC2Orc07Maim5), Name (Name)
+{
+WC2Orc07Maim5
+}
+
+STRING 4023
+// Items: I0LI (WC2Orc07Maim6), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4024
+// Items: I0LI (WC2Orc07Maim6), Description (Description)
+{
+Але ми маємо достойно відсвяткувати перемогу, щоб підняти дух наших воїнів, вождь.
+}
+
+STRING 4025
+// Items: I0LI (WC2Orc07Maim6), Name (Name)
+{
+WC2Orc07Maim6
+}
+
+STRING 4026
+// Items: I0LJ (WC2Orc07Maim7), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4027
+// Items: I0LJ (WC2Orc07Maim7), Description (Description)
+{
+Як накажеш. Могутній Орґріме.
+}
+
+STRING 4028
+// Items: I0LJ (WC2Orc07Maim7), Name (Name)
+{
+WC2Orc07Maim7
+}
+
+STRING 4029
+// Items: I0LK (WC2Orc07Maim_FirstGate1), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4030
+// Items: I0LK (WC2Orc07Maim_FirstGate1), Description (Description)
+{
+За Орду!
+}
+
+STRING 4031
+// Items: I0LK (WC2Orc07Maim_FirstGate1), Name (Name)
+{
+WC2Orc07Maim_FirstGate1
+}
+
+STRING 4032
+// Items: I0LL (WC2Orc07Maim_FootmanEncounter1), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4033
+// Items: I0LL (WC2Orc07Maim_FootmanEncounter1), Description (Description)
+{
+Ха! Я чув що ви бажаєте вирізати нас людські собаки. Ну що ж давайте, покажіть нам свою силу. Ха-ха-ха!
+}
+
+STRING 4034
+// Items: I0LL (WC2Orc07Maim_FootmanEncounter1), Name (Name)
+{
+WC2Orc07Maim_FootmanEncounter1
+}
+
+STRING 4035
+// Items: I0LM (WC2Orc07Maim_Goldmine1), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4036
+// Items: I0LM (WC2Orc07Maim_Goldmine1), Description (Description)
+{
+Які проблеми, Утоке? Більше тіл для мене!
+}
+
+STRING 4037
+// Items: I0LM (WC2Orc07Maim_Goldmine1), Name (Name)
+{
+WC2Orc07Maim_Goldmine1
+}
+
+STRING 4038
+// Items: I0LN (WC2Orc07Maim_Siege1a01), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 4039
+// Items: I0LN (WC2Orc07Maim_Siege1a01), Description (Description)
+{
+Спалити місто в щент!
+}
+
+STRING 4040
+// Items: I0LN (WC2Orc07Maim_Siege1a01), Name (Name)
+{
+WC2Orc07Maim_Siege1a01
+}
+
+STRING 4041
+// Items: I0LO (WC2Orc07Grunt1), Tip (Tooltip - Basic)
+{
+Рубайло
+}
+
+STRING 4042
+// Items: I0LO (WC2Orc07Grunt1), Description (Description)
+{
+Отамане, я вже задовбався стояти декілька годин у цьому болоті та відбиватися від комарів!
+}
+
+STRING 4043
+// Items: I0LO (WC2Orc07Grunt1), Name (Name)
+{
+WC2Orc07Grunt1
+}
+
+STRING 4044
+// Items: I0LP (WC2Orc07Footman1), Tip (Tooltip - Basic)
+{
+Капітан
+}
+
+STRING 4045
+// Items: I0LP (WC2Orc07Footman1), Description (Description)
+{
+Ординські мародери висадилися біля наших берегів. Надішліть світку до столиці. Вони тут.
+}
+
+STRING 4046
+// Items: I0LP (WC2Orc07Footman1), Name (Name)
+{
+WC2Orc07Footman1
+}
+
+STRING 4047
+// Items: I0LQ (WC2Orc07Footman2), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 4048
+// Items: I0LQ (WC2Orc07Footman2), Description (Description)
+{
+Схоже це диверсійно-розвідувальна група. Вони скоріше за все ховаються десь тут, на мілководді... їх не більше десятка, ми маємо повбивати їх усіх.
+}
+
+STRING 4049
+// Items: I0LQ (WC2Orc07Footman2), Name (Name)
+{
+WC2Orc07Footman2
+}
+
+STRING 4050
+// Items: I0LR (D06AFootman0601), Tip (Tooltip - Basic)
+{
+Піхотинець
+}
+
+STRING 4051
+// Items: I0LR (D06AFootman0601), Description (Description)
+{
+Дивіться но! Ще орки, наші здогадки були вірні...
+}
+
+STRING 4052
+// Items: I0LR (D06AFootman0601), Name (Name)
+{
+D06AFootman0601
+}
+
+STRING 4053
+// Items: I0LS (WC2Orc07Liam1), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4054
+// Items: I0LS (WC2Orc07Liam1), Description (Description)
+{
+Ти коли-небудь бачив таке видовище, брате мій? Ніколи в історії нашого королівства ми не бачили такої навали ворогів, що наближаються до наших берегів.
+}
+
+STRING 4055
+// Items: I0LS (WC2Orc07Liam1), Name (Name)
+{
+WC2Orc07Liam1
+}
+
+STRING 4056
+// Items: I0LT (WC2Orc07Liam2), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4057
+// Items: I0LT (WC2Orc07Liam2), Description (Description)
+{
+Його відкликав Андуїн Лотар, аби Данат йому допоміг знищити загони Орди які просуваються далі після знищення Гіллсбраду. Але я б хотів, щоб він був тут…
+}
+
+STRING 4058
+// Items: I0LT (WC2Orc07Liam2), Name (Name)
+{
+WC2Orc07Liam2
+}
+
+STRING 4059
+// Items: I0LU (WC2Orc07Liam_LowerCity1), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4060
+// Items: I0LU (WC2Orc07Liam_LowerCity1), Description (Description)
+{
+Нижня частина міста захоплена, вони прориваються далі! Люди! Захистіть свої домівки за будь-яку ціну!
+}
+
+STRING 4061
+// Items: I0LU (WC2Orc07Liam_LowerCity1), Name (Name)
+{
+WC2Orc07Liam_LowerCity1
+}
+
+STRING 4062
+// Items: I0LV (WC2Orc07Liam_BossFight1), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4063
+// Items: I0LV (WC2Orc07Liam_BossFight1), Description (Description)
+{
+Ні, він не втік. Він врятував нашу кров і тим самим наш рід. І вкрав в тебе ту честь яку чи бажав. Тепер зійдися у бою зі мною!
+}
+
+STRING 4064
+// Items: I0LV (WC2Orc07Liam_BossFight1), Name (Name)
+{
+WC2Orc07Liam_BossFight1
+}
+
+STRING 4065
+// Items: I0LW (WC2Orc07Liam_Retreat1), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4066
+// Items: I0LW (WC2Orc07Liam_Retreat1), Description (Description)
+{
+Брате! Місто майже пало. Орда вже біля воріт фортеці!
+}
+
+STRING 4067
+// Items: I0LW (WC2Orc07Liam_Retreat1), Name (Name)
+{
+WC2Orc07Liam_Retreat1
+}
+
+STRING 4068
+// Items: I0LX (WC2Orc07Liam_Retreat2), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4069
+// Items: I0LX (WC2Orc07Liam_Retreat2), Description (Description)
+{
+Ти король! Твоє життя значно важливіше за моє. Дім Тролебоів виживе завдяки тобі, брате мій. Ти маєш відступити у Лордерон.
+}
+
+STRING 4070
+// Items: I0LX (WC2Orc07Liam_Retreat2), Name (Name)
+{
+WC2Orc07Liam_Retreat2
+}
+
+STRING 4071
+// Items: I0LY (WC2Orc07Liam_Retreat3), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4072
+// Items: I0LY (WC2Orc07Liam_Retreat3), Description (Description)
+{
+Ні. Теренас Менетіл твій друг. Він допоможе. До того ж Андуїн Лотар доєднається до вас, коли прийде час помститися за мене. Живи сьогодні, аби битися завтра... живи ти, щоб Стромґард міг жити. Місто можна відбудувати, головне зберегти нашу кров.
+}
+
+STRING 4073
+// Items: I0LY (WC2Orc07Liam_Retreat3), Name (Name)
+{
+WC2Orc07Liam_Retreat3
+}
+
+STRING 4074
+// Items: I0LZ (WC2Orc07Liam_Retreat4), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4075
+// Items: I0LZ (WC2Orc07Liam_Retreat4), Description (Description)
+{
+Скажи Данатові, що я люблю його… і щоб пам’ятав мене. Скажи моєму племіннику, що я завжди пишався ним. А тепер йди! Я прикрию ваш відступ!
+}
+
+STRING 4076
+// Items: I0LZ (WC2Orc07Liam_Retreat4), Name (Name)
+{
+WC2Orc07Liam_Retreat4
+}
+
+STRING 4077
+// Items: I1LA (WC2Orc07Liam_Siege1), Tip (Tooltip - Basic)
+{
+Ліам Тролебій
+}
+
+STRING 4078
+// Items: I1LA (WC2Orc07Liam_Siege1), Description (Description)
+{
+Стояти на смерть! Стормґард  вистоїть!
+}
+
+STRING 4079
+// Items: I1LA (WC2Orc07Liam_Siege1), Name (Name)
+{
+WC2Orc07Liam_Siege1
+}
+
+STRING 4080
+// Items: I1LB (WC2Orc07Thoras1), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4081
+// Items: I1LB (WC2Orc07Thoras1), Description (Description)
+{
+Що б не сталося, Ліаме, ми сини імперії Аратора… війна у нашій крові, це те, що ми вміємо найкраще. Де твій син, Данат?
+}
+
+STRING 4082
+// Items: I1LB (WC2Orc07Thoras1), Name (Name)
+{
+WC2Orc07Thoras1
+}
+
+STRING 4083
+// Items: I1LC (WC2Orc07Thoras2), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4084
+// Items: I1LC (WC2Orc07Thoras2), Description (Description)
+{
+Кріпися брате мій, Стормґард стояв і буде стояти. Колись тролі вже намагалися взяти місто, і були стерті просто в пил прямо під цими стінами… з цією ордою дикунів буде те саме…
+}
+
+STRING 4085
+// Items: I1LC (WC2Orc07Thoras2), Name (Name)
+{
+WC2Orc07Thoras2
+}
+
+STRING 4086
+// Items: I1LD (WC2Orc07Thoras_Retreat1), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4087
+// Items: I1LD (WC2Orc07Thoras_Retreat1), Description (Description)
+{
+Стоїмо до останнього. Це наш дім. Ми не можемо від нього відмовитися!
+}
+
+STRING 4088
+// Items: I1LD (WC2Orc07Thoras_Retreat1), Name (Name)
+{
+WC2Orc07Thoras_Retreat1
+}
+
+STRING 4089
+// Items: I1LE (WC2Orc07Thoras_Retreat2), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4090
+// Items: I1LE (WC2Orc07Thoras_Retreat2), Description (Description)
+{
+Ліаме я не хочу бути відомим як король втікач! Крім того… ми родина, ти мій брат. Я не дозволю тобі так загинути, дотого ж ти носиш ім'я батька!
+}
+
+STRING 4091
+// Items: I1LE (WC2Orc07Thoras_Retreat2), Name (Name)
+{
+WC2Orc07Thoras_Retreat2
+}
+
+STRING 4092
+// Items: I1LF (WC2Orc07Thoras_Retreat3), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4093
+// Items: I1LF (WC2Orc07Thoras_Retreat3), Description (Description)
+{
+Ох брате, даю тобі слово, що  помщуся за тебе!
+}
+
+STRING 4094
+// Items: I1LF (WC2Orc07Thoras_Retreat3), Name (Name)
+{
+WC2Orc07Thoras_Retreat3
+}
+
+STRING 4095
+// Items: I1LT (WC2Orc07Thoras_Siege1), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4096
+// Items: I1LT (WC2Orc07Thoras_Siege1), Description (Description)
+{
+Діти Стормґарду! Це ваш дім ваші землі! Орда прийшла знищити все, що вам дорого! Захистіть свою честь! Захистіть свій дім!
+}
+
+STRING 4097
+// Items: I1LT (WC2Orc07Thoras_Siege1), Name (Name)
+{
+WC2Orc07Thoras_Siege1
+}
+
+STRING 4098
+// Items: I1LG (WC2Orc07Thoras_StromgardeLanding1), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4099
+// Items: I1LG (WC2Orc07Thoras_StromgardeLanding1), Description (Description)
+{
+Це місто колись було самим серцем людської цивілізації, орк… ти не збезчестиш його!
+}
+
+STRING 4100
+// Items: I1LG (WC2Orc07Thoras_StromgardeLanding1), Name (Name)
+{
+WC2Orc07Thoras_StromgardeLanding1
+}
+
+STRING 4101
+// Items: I1LH (WC2Orc07Thoras_StromgardeLanding2), Tip (Tooltip - Basic)
+{
+Торас Тролебій
+}
+
+STRING 4102
+// Items: I1LH (WC2Orc07Thoras_StromgardeLanding2), Description (Description)
+{
+Це ми ще подивимось, зеленошкірий. Моя сокира рубала незліченну кількість істот як ти, і поки, що я не зустрів жодну яка б кинула мені виклик.
+}
+
+STRING 4103
+// Items: I1LH (WC2Orc07Thoras_StromgardeLanding2), Name (Name)
+{
+WC2Orc07Thoras_StromgardeLanding2
+}
+
+STRING 4104
+// Doodads: D020 (Light Yellow), Name (Name)
+{
+Light Yellow
+}
+
+STRING 4105
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 4106
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 4107
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 4108
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 4109
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+  - Знищіть нафтові вежі
+}
+
+STRING 4110
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Знищіть нафтові вежі (Завершено)|r
+}
+
+STRING 4111
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Description (Description)
+{
+Перевага на морі
+}
+
+STRING 4112
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+}
+
+STRING 4113
+// Items: IQL1 (  - Destroy the Refineries), Tip (Tooltip - Basic)
+{
+  - Знищіть корабельні
+}
+
+STRING 4114
+// Items: IQL1 (  - Destroy the Refineries), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Знищіть корабельні (Завершено)|r
+}
+
+STRING 4115
+// Items: IQL1 (  - Destroy the Refineries), Description (Description)
+{
+  -|cff808080 Знищіть нафтопереробні заводи (Завершено)|r
+}
+
+STRING 4116
+// Items: IQL1 (  - Destroy the Refineries), Name (Name)
+{
+  - Знищіть нафтопереробні заводи
+}
+
+STRING 4117
+// Items: IQL2 (  - Destroy the Foundries), Tip (Tooltip - Basic)
+{
+  - Зведіть ливарню
+}
+
+STRING 4118
+// Items: IQL2 (  - Destroy the Foundries), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Зведіть ливарню (Завершено)|r
+}
+
+STRING 4119
+// Items: IQL2 (  - Destroy the Foundries), Description (Description)
+{
+  -|cff808080 Знищіть ливарні (Завершено)|r
+}
+
+STRING 4120
+// Items: IQL2 (  - Destroy the Foundries), Name (Name)
+{
+  - Знищіть ливарні
+}
+
+STRING 4121
+// Items: IQL3 (  - Build a Refinery), Tip (Tooltip - Basic)
+{
+  - Зведіть корабельню
+}
+
+STRING 4122
+// Items: IQL3 (  - Build a Refinery), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Зведіть корабельню (Завершено)|r
+}
+
+STRING 4123
+// Items: IQL3 (  - Build a Refinery), Description (Description)
+{
+  -|cff808080 Зведіть нафтопереробний завод (Завершено)|r
+}
+
+STRING 4124
+// Items: IQL3 (  - Build a Refinery), Name (Name)
+{
+  - Зведіть нафтопереробний завод
+}
+
+STRING 4125
+// Items: IQL4 (  - Build a Goblin Alchemist), Tip (Tooltip - Basic)
+{
+  - Зведіть ковальню
+}
+
+STRING 4126
+// Items: IQL4 (  - Build a Goblin Alchemist), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Зведіть ковальню (Завершено)|r
+}
+
+STRING 4127
+// Items: IQL4 (  - Build a Goblin Alchemist), Description (Description)
+{
+  -|cff808080 Зведіть майстерню гобліна алхіміка (Завершено)|r
+}
+
+STRING 4128
+// Items: IQL4 (  - Build a Goblin Alchemist), Name (Name)
+{
+  - Зведіть майстерню гобліна алхіміка
+}
+
+STRING 4129
+// Items: IQL5 (  - Build a Barracks), Tip (Tooltip - Basic)
+{
+  - Підготуйте плацдарм до прибуття вождя
+}
+
+STRING 4130
+// Items: IQL5 (  - Build a Barracks), Ubertip (Tooltip - Extended)
+{
+Плацдарм
+}
+
+STRING 4131
+// Items: IQL5 (  - Build a Barracks), Description (Description)
+{
+  -|cff808080 Зведіть бараки (Завершено)|r
+}
+
+STRING 4132
+// Items: IQL5 (  - Build a Barracks), Name (Name)
+{
+  - Зведіть бараки
+}
+
+STRING 4133
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+  - Зведіть військову виробницю
+}
+
+STRING 4134
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Зведіть військову виробницю (Завершено)|r
+}
+
+STRING 4135
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+Стормґард
+}
+
+STRING 4136
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+}
+
+STRING 4137
+// Items: IQL7 (  - Destroy the Barracks), Tip (Tooltip - Basic)
+{
+  - Знищіть конюшні
+}
+
+STRING 4138
+// Items: IQL7 (  - Destroy the Barracks), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Знищіть конюшні (Завершено)|r
+}
+
+STRING 4139
+// Items: IQL7 (  - Destroy the Barracks), Description (Description)
+{
+  -|cff808080 Знищіть казарми (Завершено)|r
+}
+
+STRING 4140
+// Items: IQL7 (  - Destroy the Barracks), Name (Name)
+{
+  - Знищіть казарми
+}
+
+STRING 4141
+// Items: IQL8 (  - Destroy the Port Tower), Tip (Tooltip - Basic)
+{
+  - Знищіть міську ратушу
+}
+
+STRING 4142
+// Items: IQL8 (  - Destroy the Port Tower), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Знищіть міську ратушу (Завершено)|r
+}
+
+STRING 4143
+// Items: IQL8 (  - Destroy the Port Tower), Description (Description)
+{
+  -|cff808080 Знищіть портову вежу (Завершено)|r
+}
+
+STRING 4144
+// Items: IQL8 (  - Destroy the Port Tower), Name (Name)
+{
+  - Знищіть портову вежу
+}
+
+STRING 4145
+// Items: IQL9 (  - Destroy the Keep), Description (Description)
+{
+  -|cff808080 Знищіть фортецю (Завершено)|r
+}
+
+STRING 4146
+// Items: IQL9 (  - Destroy the Keep), Name (Name)
+{
+  - Знищіть фортецю
+}
+

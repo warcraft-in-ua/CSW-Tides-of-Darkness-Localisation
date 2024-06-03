@@ -1,0 +1,4317 @@
+﻿STRING 1
+{
+WC2OrcAct1
+}
+
+STRING 2
+{
+Act I: The Seas of Blood
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 180
+// Units: n008 (Ship), EditorSuffix (Name - Editor Suffix)
+{
+A
+}
+
+STRING 301
+// Units: n608 (Monk), Name (Name)
+{
+Monk
+}
+
+STRING 302
+// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+{
+Kind priest.
+}
+
+STRING 303
+// Units: n608 (Monk), Tip (Tooltip - Basic)
+{
+Holy cleric.
+}
+
+STRING 313
+// Units: n00A (Ship), EditorSuffix (Name - Editor Suffix)
+{
+C
+}
+
+STRING 351
+// Destructibles: B61B (Long Cliff Bridge), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 415
+// Units: n007 (Ship), EditorSuffix (Name - Editor Suffix)
+{
+D
+}
+
+STRING 445
+// Units: o008 (Cinematic Grunt), Ubertip (Tooltip - Extended)
+{
+Brutish Orc warrior. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 577
+// Destructibles: B60O (Ironforge Gate), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 601
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 613
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 614
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 667
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 887
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 890
+// Doodads: D60M (Telescope), Name (Name)
+{
+Telescope
+}
+
+STRING 908
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 909
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 910
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 911
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 912
+// Destructibles: B605 (Platform), Name (Name)
+{
+Platform
+}
+
+STRING 913
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Garrison Gate
+}
+
+STRING 914
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(no Path)
+}
+
+STRING 915
+// Destructibles: B607 (Orc Wall), Name (Name)
+{
+Orc Wall
+}
+
+STRING 916
+// Destructibles: B60C (Orc Wall), Name (Name)
+{
+Orc Wall
+}
+
+STRING 917
+// Destructibles: B60C (Orc Wall), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 918
+// Destructibles: B60G (Giant Tree), Name (Name)
+{
+Giant Tree
+}
+
+STRING 919
+// Destructibles: B60J (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 920
+// Destructibles: B60K (Cinematic Gate), Name (Name)
+{
+Cinematic Gate
+}
+
+STRING 921
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Castle Tower
+}
+
+STRING 922
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Cavern
+}
+
+STRING 923
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Stone Wall
+}
+
+STRING 925
+// Destructibles: B610 (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 927
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 928
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 929
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 930
+// Destructibles: B61B (Long Cliff Bridge), Name (Name)
+{
+Long Cliff Bridge
+}
+
+STRING 932
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 933
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 934
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 935
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 936
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 937
+// Destructibles: B61K (Ice trap), Name (Name)
+{
+Ice trap
+}
+
+STRING 938
+// Destructibles: B61L (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 939
+// Destructibles: B61L (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 940
+// Destructibles: B61P (Iron Gate ), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 941
+// Destructibles: B61P (Iron Gate ), Name (Name)
+{
+Iron Gate 
+}
+
+STRING 942
+// Destructibles: B61R (Ice Platform), Name (Name)
+{
+Ice Platform
+}
+
+STRING 943
+// Destructibles: B61S (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 944
+// Destructibles: B61S (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(Path)
+}
+
+STRING 946
+// Destructibles: B62N (Big Door), Name (Name)
+{
+Big Door
+}
+
+STRING 947
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Old Tomb
+}
+
+STRING 948
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+Altar With the Book
+}
+
+STRING 949
+// Destructibles: B62T (Egg), Name (Name)
+{
+Egg
+}
+
+STRING 950
+// Destructibles: B60O (Ironforge Gate), Name (Name)
+{
+Ironforge Gate
+}
+
+STRING 952
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 953
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Marble Floor
+}
+
+STRING 954
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 955
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 956
+// Destructibles: B601 (Cliffs Red Barrens), Name (Name)
+{
+Cliffs Red Barrens
+}
+
+STRING 957
+// Destructibles: B601 (Cliffs Red Barrens), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 958
+// Destructibles: B602 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 959
+// Destructibles: B602 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Red)
+}
+
+STRING 960
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 961
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 962
+// Destructibles: B604 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 963
+// Destructibles: B604 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad BlackRed)
+}
+
+STRING 964
+// Destructibles: B608 (Cliffs Red Dungeon ), Name (Name)
+{
+Cliffs Red Dungeon 
+}
+
+STRING 965
+// Destructibles: B608 (Cliffs Red Dungeon ), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 966
+// Destructibles: B60D (Dungeon Platform), Name (Name)
+{
+Dungeon Platform
+}
+
+STRING 967
+// Destructibles: B609 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 968
+// Destructibles: B609 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Black)
+}
+
+STRING 969
+// Destructibles: B60E (Cliffs Dark Dungeon), Name (Name)
+{
+Cliffs Dark Dungeon
+}
+
+STRING 970
+// Destructibles: B60E (Cliffs Dark Dungeon), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 971
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 972
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 973
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 974
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 975
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 976
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Lighthouse
+}
+
+STRING 977
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 978
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 979
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 980
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 981
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+AllianceBanner
+}
+
+STRING 982
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 983
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 984
+// Destructibles: B61N (Big Cage Wall), Name (Name)
+{
+Big Cage Wall
+}
+
+STRING 985
+// Destructibles: B61O (Big Cage Wall), Name (Name)
+{
+Big Cage Wall
+}
+
+STRING 986
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 987
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 988
+// Destructibles: B61U (Hillsbrad Clock Tower), Name (Name)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 989
+// Destructibles: B61V (Hillsbrad Clock Tower), Name (Name)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 990
+// Destructibles: B61V (Hillsbrad Clock Tower), EditorSuffix (Editor Suffix)
+{
+(Destroyed)
+}
+
+STRING 991
+// Destructibles: B61W (City Windows), Name (Name)
+{
+City Windows
+}
+
+STRING 992
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 993
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 994
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 995
+// Destructibles: B60F (Arathor Statue), Name (Name)
+{
+Arathor Statue
+}
+
+STRING 996
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 997
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variations)
+}
+
+STRING 998
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 999
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1000
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1001
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1002
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1003
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1004
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1005
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1006
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1007
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1008
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1009
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1010
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1011
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1012
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1013
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1014
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1015
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1016
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1017
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1018
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1019
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1020
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1021
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Castle Archway
+}
+
+STRING 1022
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Castle Wall Stairs
+}
+
+STRING 1023
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Knight Statue
+}
+
+STRING 1024
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1025
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1026
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1027
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1028
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+DarkCliff
+}
+
+STRING 1029
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1030
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+DarkCliffSmall
+}
+
+STRING 1031
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1032
+// Destructibles: B62B (DesertCliff), Name (Name)
+{
+DesertCliff
+}
+
+STRING 1033
+// Destructibles: B62B (DesertCliff), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1034
+// Destructibles: B62C (DesertCliffSmall), Name (Name)
+{
+DesertCliffSmall
+}
+
+STRING 1035
+// Destructibles: B62C (DesertCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1036
+// Destructibles: B62D (DesertCliffLight), Name (Name)
+{
+DesertCliffLight
+}
+
+STRING 1037
+// Destructibles: B62D (DesertCliffLight), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1038
+// Destructibles: B62E (DesertCliffLightSmall), Name (Name)
+{
+DesertCliffLightSmall
+}
+
+STRING 1039
+// Destructibles: B62E (DesertCliffLightSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1040
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1041
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1042
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1043
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1044
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1045
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 1046
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 1047
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1048
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 1049
+// Destructibles: B62M (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 1050
+// Destructibles: B62M (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1051
+// Doodads: D600 (Wasteland Tree Cinematic), Name (Name)
+{
+Wasteland Tree Cinematic
+}
+
+STRING 1052
+// Doodads: D601 (Kul Tiras Banner), Name (Name)
+{
+Kul Tiras Banner
+}
+
+STRING 1053
+// Doodads: D602 (Alterac Banner), Name (Name)
+{
+Alterac Banner
+}
+
+STRING 1054
+// Doodads: D603 (Stormwind Banner), Name (Name)
+{
+Stormwind Banner
+}
+
+STRING 1055
+// Doodads: D604 (Dwarf Statue), Name (Name)
+{
+Dwarf Statue
+}
+
+STRING 1056
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1057
+// Doodads: D606 (War Tent), Name (Name)
+{
+War Tent
+}
+
+STRING 1058
+// Doodads: D607 (Shaman Tent), Name (Name)
+{
+Shaman Tent
+}
+
+STRING 1059
+// Doodads: D608 (Nulcear Strike), Name (Name)
+{
+Nulcear Strike
+}
+
+STRING 1060
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1061
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1062
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 1063
+// Doodads: D60K (Dungeon Pillar), Name (Name)
+{
+Dungeon Pillar
+}
+
+STRING 1065
+// Doodads: D60W (Warsong Banner), Name (Name)
+{
+Warsong Banner
+}
+
+STRING 1066
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1067
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1068
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1069
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1071
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1072
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+Square Tower Tall
+}
+
+STRING 1073
+// Doodads: D623 (Dwarven Banner), Name (Name)
+{
+Dwarven Banner
+}
+
+STRING 1074
+// Doodads: D646 (Lava Plane), Name (Name)
+{
+Lava Plane
+}
+
+STRING 1075
+// Doodads: D647 (Vines Poisoned), Name (Name)
+{
+Vines Poisoned
+}
+
+STRING 1076
+// Doodads: D64C (Cavern Big), Name (Name)
+{
+Cavern Big
+}
+
+STRING 1077
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+Fountain 2
+}
+
+STRING 1078
+// Doodads: D66P (QuelThalas Bush), Name (Name)
+{
+QuelThalas Bush
+}
+
+STRING 1079
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1080
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1081
+// Doodads: D66W (Destroyed Weapon Rack), Name (Name)
+{
+Destroyed Weapon Rack
+}
+
+STRING 1082
+// Doodads: D66X (Destroyed Weapon Rack 3), Name (Name)
+{
+Destroyed Weapon Rack 3
+}
+
+STRING 1083
+// Doodads: D66Y (Destroyed Weapon Rack 2), Name (Name)
+{
+Destroyed Weapon Rack 2
+}
+
+STRING 1084
+// Doodads: D66Z (Weapon Rack new 2), Name (Name)
+{
+Weapon Rack new 2
+}
+
+STRING 1085
+// Doodads: D670 (Weapon Rack New 3), Name (Name)
+{
+Weapon Rack New 3
+}
+
+STRING 1086
+// Doodads: D671 (Weapon Rack new), Name (Name)
+{
+Weapon Rack new
+}
+
+STRING 1087
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1088
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1089
+// Doodads: D697 (Wisp Explode Effect), Name (Name)
+{
+Wisp Explode Effect
+}
+
+STRING 1090
+// Doodads: D698 (Green Acid Effect), Name (Name)
+{
+Green Acid Effect
+}
+
+STRING 1091
+// Doodads: D699 (Flying Skull FX), Name (Name)
+{
+Flying Skull FX
+}
+
+STRING 1092
+// Doodads: D69A (Tranquility), Name (Name)
+{
+Tranquility
+}
+
+STRING 1093
+// Doodads: D69B (Cloud), Name (Name)
+{
+Cloud
+}
+
+STRING 1094
+// Doodads: D69C (Plague), Name (Name)
+{
+Plague
+}
+
+STRING 1095
+// Doodads: D69D (Frenzy), Name (Name)
+{
+Frenzy
+}
+
+STRING 1096
+// Doodads: D69E (Demonic Aura), Name (Name)
+{
+Demonic Aura
+}
+
+STRING 1097
+// Doodads: D69F (Floor Magic Painting), Name (Name)
+{
+Floor Magic Painting
+}
+
+STRING 1098
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Star leaves
+}
+
+STRING 1099
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+Dalaran Building Pathless
+}
+
+STRING 1100
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1101
+// Destructibles: B002 (Door), Name (Name)
+{
+Door
+}
+
+STRING 1102
+// Doodads: D6A4 (Altar Doodad), Name (Name)
+{
+Altar Doodad
+}
+
+STRING 1103
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+Single Column Pathless
+}
+
+STRING 1104
+// Doodads: D6A6 (Archway Pathless), Name (Name)
+{
+Archway Pathless
+}
+
+STRING 1105
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+House Doodad
+}
+
+STRING 1106
+// Doodads: D6A8 (Sky Storm), Name (Name)
+{
+Sky Storm
+}
+
+STRING 1107
+// Doodads: D6A9 (Sky Cloud 2), Name (Name)
+{
+Sky Cloud 2
+}
+
+STRING 1108
+// Doodads: D6AA (Sky Cloud 3), Name (Name)
+{
+Sky Cloud 3
+}
+
+STRING 1109
+// Doodads: D6AB (Sky Cloud), Name (Name)
+{
+Sky Cloud
+}
+
+STRING 1110
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1111
+// Doodads: D6AD (Fog), Name (Name)
+{
+Fog
+}
+
+STRING 1112
+// Doodads: D6AE (Light), Name (Name)
+{
+Light
+}
+
+STRING 1113
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1114
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1115
+// Doodads: D6AH (Alternatice Lava Cracks), Name (Name)
+{
+Alternatice Lava Cracks
+}
+
+STRING 1116
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Wasteland Bush
+}
+
+STRING 1117
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+Capital City Tower 2
+}
+
+STRING 1118
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+Capital City Dome
+}
+
+STRING 1119
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+Capital City Spire
+}
+
+STRING 1120
+// Doodads: D6AP (City Archway), Name (Name)
+{
+City Archway
+}
+
+STRING 1121
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+Capital City Tower
+}
+
+STRING 1122
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1123
+// Doodads: D6B2 (Dwarven Archway), Name (Name)
+{
+Dwarven Archway
+}
+
+STRING 1124
+// Doodads: D6B3 (Moria Archway), Name (Name)
+{
+Moria Archway
+}
+
+STRING 1125
+// Doodads: D6B9 (Underground Rock 01), Name (Name)
+{
+Underground Rock 01
+}
+
+STRING 1126
+// Doodads: D6BA (Underground Rock 02), Name (Name)
+{
+Underground Rock 02
+}
+
+STRING 1127
+// Doodads: D6BB (Underground Rock 03), Name (Name)
+{
+Underground Rock 03
+}
+
+STRING 1128
+// Doodads: D6BC (Underground Rock 04), Name (Name)
+{
+Underground Rock 04
+}
+
+STRING 1129
+// Doodads: D6BD (Underground Rock 05), Name (Name)
+{
+Underground Rock 05
+}
+
+STRING 1130
+// Doodads: D6BE (Underground Rock 06), Name (Name)
+{
+Underground Rock 06
+}
+
+STRING 1131
+// Doodads: D6BF (Underground Rock 07), Name (Name)
+{
+Underground Rock 07
+}
+
+STRING 1132
+// Doodads: D6BG (Underground Rock 08), Name (Name)
+{
+Underground Rock 08
+}
+
+STRING 1133
+// Doodads: D6BH (Underground Rock 09), Name (Name)
+{
+Underground Rock 09
+}
+
+STRING 1134
+// Doodads: D6BL (Gold), Name (Name)
+{
+Gold
+}
+
+STRING 1135
+// Doodads: D6BM (Railroad), Name (Name)
+{
+Railroad
+}
+
+STRING 1136
+// Doodads: D6BN (Railroad Curve), Name (Name)
+{
+Railroad Curve
+}
+
+STRING 1137
+// Doodads: D6BO (Railroad End), Name (Name)
+{
+Railroad End
+}
+
+STRING 1138
+// Doodads: D6BP (Railroad Branch 02), Name (Name)
+{
+Railroad Branch 02
+}
+
+STRING 1139
+// Doodads: D6BQ (Railroad Branch), Name (Name)
+{
+Railroad Branch
+}
+
+STRING 1140
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Glow Small
+}
+
+STRING 1141
+// Doodads: D6BS (Dirt Explosion), Name (Name)
+{
+Dirt Explosion
+}
+
+STRING 1142
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1143
+// Doodads: D6BV (Leaves Fall Dowm), Name (Name)
+{
+Leaves Fall Dowm
+}
+
+STRING 1144
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Circle of Power
+}
+
+STRING 1145
+// Doodads: D6CG (Volcano Ashes), Name (Name)
+{
+Volcano Ashes
+}
+
+STRING 1146
+// Doodads: D6CI (City Portal Doodad), Name (Name)
+{
+City Portal Doodad
+}
+
+STRING 1147
+// Doodads: D6CL (Wood Supply), Name (Name)
+{
+Wood Supply
+}
+
+STRING 1148
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1149
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1150
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1151
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1152
+// Doodads: D6CW (Column Semi Circle Pathless), Name (Name)
+{
+Column Semi Circle Pathless
+}
+
+STRING 1153
+// Doodads: D6CZ (Night Elves Banner), Name (Name)
+{
+Night Elves Banner
+}
+
+STRING 1154
+// Doodads: D6D6 (Torture Cage), Name (Name)
+{
+Torture Cage
+}
+
+STRING 1155
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1156
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1157
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1158
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1159
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1160
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1161
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+Dalaran Banner
+}
+
+STRING 1162
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+StromGarde Banner
+}
+
+STRING 1163
+// Doodads: D6DQ (Burning Blade Banner), Name (Name)
+{
+Burning Blade Banner
+}
+
+STRING 1164
+// Doodads: D6DS (LavaFall), Name (Name)
+{
+LavaFall
+}
+
+STRING 1165
+// Doodads: D6DT (Big Castle Doodad), Name (Name)
+{
+Big Castle Doodad
+}
+
+STRING 1166
+// Doodads: D6DW (Wall Long Doodad), Name (Name)
+{
+Wall Long Doodad
+}
+
+STRING 1167
+// Doodads: D6DX (Wall castle short), Name (Name)
+{
+Wall castle short
+}
+
+STRING 1168
+// Doodads: D6E0 (Wall Pillar), Name (Name)
+{
+Wall Pillar
+}
+
+STRING 1169
+// Doodads: D6E1 (Wall Door Big), Name (Name)
+{
+Wall Door Big
+}
+
+STRING 1170
+// Doodads: D6E2 (Wall Door Grate), Name (Name)
+{
+Wall Door Grate
+}
+
+STRING 1171
+// Doodads: D6E3 (Wall Door Small), Name (Name)
+{
+Wall Door Small
+}
+
+STRING 1172
+// Doodads: D6E4 (Wall Door Tall Passage), Name (Name)
+{
+Wall Door Tall Passage
+}
+
+STRING 1174
+// Doodads: D6E6 (Wall Pillar), Name (Name)
+{
+Wall Pillar
+}
+
+STRING 1175
+// Doodads: D6E7 (Wall Torch), Name (Name)
+{
+Wall Torch
+}
+
+STRING 1176
+// Doodads: D6E8 (Wall with Window), Name (Name)
+{
+Wall with Window
+}
+
+STRING 1177
+// Doodads: D6E9 (Wall with Grate), Name (Name)
+{
+Wall with Grate
+}
+
+STRING 1178
+// Doodads: D6EA (Window Royal Glass), Name (Name)
+{
+Window Royal Glass
+}
+
+STRING 1179
+// Doodads: D6EB (Door Doodad), Name (Name)
+{
+Door Doodad
+}
+
+STRING 1180
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+Capital City Structure Block
+}
+
+STRING 1181
+// Doodads: D6EE (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1182
+// Doodads: D6EF (Horde Chest), Name (Name)
+{
+Horde Chest
+}
+
+STRING 1183
+// Doodads: D6EG (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 1184
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1185
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1186
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1187
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+Books Pile C
+}
+
+STRING 1188
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+Books Pile B
+}
+
+STRING 1189
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1190
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1191
+// Doodads: D6EZ (Cloth 01), Name (Name)
+{
+Cloth 01
+}
+
+STRING 1192
+// Doodads: D6F1 (Cloth Red), Name (Name)
+{
+Cloth Red
+}
+
+STRING 1193
+// Doodads: D6F2 (Cloth Blue), Name (Name)
+{
+Cloth Blue
+}
+
+STRING 1194
+// Doodads: D6F3 (Cloth 02), Name (Name)
+{
+Cloth 02
+}
+
+STRING 1195
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1196
+// Doodads: D6F8 (Lightning Branched), Name (Name)
+{
+Lightning Branched
+}
+
+STRING 1197
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1198
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1199
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Winter Crate snow
+}
+
+STRING 1200
+// Doodads: D6FQ (Winter Snow Roadplank 3), Name (Name)
+{
+Winter Snow Roadplank 3
+}
+
+STRING 1201
+// Doodads: D6FR (Winter Snow Roadplank 4), Name (Name)
+{
+Winter Snow Roadplank 4
+}
+
+STRING 1202
+// Doodads: D6FS (Winter Snow Roadplank 2), Name (Name)
+{
+Winter Snow Roadplank 2
+}
+
+STRING 1203
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1204
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1205
+// Doodads: D6G6 (Wasteland Rock 1), Name (Name)
+{
+Wasteland Rock 1
+}
+
+STRING 1206
+// Doodads: D6G7 (Wasteland Rock Small D), Name (Name)
+{
+Wasteland Rock Small D
+}
+
+STRING 1207
+// Doodads: D6G8 (Wasteland Rock Small A), Name (Name)
+{
+Wasteland Rock Small A
+}
+
+STRING 1208
+// Doodads: D6G9 (Wasteland Rock Small B), Name (Name)
+{
+Wasteland Rock Small B
+}
+
+STRING 1209
+// Doodads: D6GA (Wasteland Rock Small C), Name (Name)
+{
+Wasteland Rock Small C
+}
+
+STRING 1210
+// Doodads: D6GB (Ancient Stone 1), Name (Name)
+{
+Ancient Stone 1
+}
+
+STRING 1211
+// Doodads: D6GC (Ancient Stone 2), Name (Name)
+{
+Ancient Stone 2
+}
+
+STRING 1212
+// Doodads: D6GD (Ancient Stone 3), Name (Name)
+{
+Ancient Stone 3
+}
+
+STRING 1213
+// Doodads: D6GE (Ancient Stone 4), Name (Name)
+{
+Ancient Stone 4
+}
+
+STRING 1214
+// Doodads: D6GF (Ancient Stone 5), Name (Name)
+{
+Ancient Stone 5
+}
+
+STRING 1215
+// Doodads: D6GG (Ancient Stone 6), Name (Name)
+{
+Ancient Stone 6
+}
+
+STRING 1216
+// Doodads: D6GH (Aurora Borealis 1), Name (Name)
+{
+Aurora Borealis 1
+}
+
+STRING 1217
+// Doodads: D6GI (Aurora Borealis 2), Name (Name)
+{
+Aurora Borealis 2
+}
+
+STRING 1220
+// Doodads: D64B (Iron Forge Ext 01), Name (Name)
+{
+Iron Forge Ext 01
+}
+
+STRING 1221
+// Doodads: D64F (Iron Forge Ext 02), Name (Name)
+{
+Iron Forge Ext 02
+}
+
+STRING 1222
+// Doodads: D64G (Iron Forge Ext 03), Name (Name)
+{
+Iron Forge Ext 03
+}
+
+STRING 1223
+// Doodads: D64I (Iron Forge Ext 04), Name (Name)
+{
+Iron Forge Ext 04
+}
+
+STRING 1224
+// Doodads: D64K (LOD), Name (Name)
+{
+LOD
+}
+
+STRING 1226
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1227
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1228
+// Doodads: D617 (Archway Stone Winter Pathless), Name (Name)
+{
+Archway Stone Winter Pathless
+}
+
+STRING 1229
+// Doodads: D60C (Wasteland Cliff Bottom), Name (Name)
+{
+Wasteland Cliff Bottom
+}
+
+STRING 1230
+// Doodads: D60F (Dungeon Cliff Bottom), Name (Name)
+{
+Dungeon Cliff Bottom
+}
+
+STRING 1231
+// Doodads: D60I (Dungeon Stone Basement), Name (Name)
+{
+Dungeon Stone Basement
+}
+
+STRING 1232
+// Doodads: D60B (Dungeon Wall Straight), Name (Name)
+{
+Dungeon Wall Straight
+}
+
+STRING 1233
+// Doodads: D60E (Dungeon Column Massive Round), Name (Name)
+{
+Dungeon Column Massive Round
+}
+
+STRING 1234
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1235
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1236
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1237
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1238
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+Refugee Banner
+}
+
+STRING 1239
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1240
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1241
+// Doodads: D60R (Steam Cloud), Name (Name)
+{
+Steam Cloud
+}
+
+STRING 1242
+// Doodads: D60S (Digging Dust), Name (Name)
+{
+Digging Dust
+}
+
+STRING 1243
+// Doodads: D60T (Sparks), Name (Name)
+{
+Sparks
+}
+
+STRING 1244
+// Doodads: D60U (SharedFX Text), Name (Name)
+{
+SharedFX Text
+}
+
+STRING 1245
+// Doodads: D60V (Wall Barred Small Endcap), Name (Name)
+{
+Wall Barred Small Endcap
+}
+
+STRING 1246
+// Doodads: D60Y (Wall Barred Endcap Dark), Name (Name)
+{
+Wall Barred Endcap Dark
+}
+
+STRING 1247
+// Doodads: D610 (Wall Barred Small Endcap Dark), Name (Name)
+{
+Wall Barred Small Endcap Dark
+}
+
+STRING 1248
+// Doodads: D60G (Strategy Map), Name (Name)
+{
+Strategy Map
+}
+
+STRING 1249
+// Doodads: D611 (Thandol Bridge), Name (Name)
+{
+Thandol Bridge
+}
+
+STRING 1250
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 1251
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 1252
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 1253
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 2416
+// Destructibles: B000 (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 2417
+// Destructibles: B000 (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 2418
+{
+Horde
+}
+
+STRING 2419
+{
+Force
+}
+
+STRING 2560
+// Destructibles: B001 (FloorBrick), Name (Name)
+{
+FloorBrick
+}
+
+STRING 2655
+// Doodads: D69S (Door), Name (Name)
+{
+Door
+}
+
+STRING 2708
+{
+Player 21
+}
+
+STRING 2710
+// Units: ewsp (Head Target), Name (Name)
+{
+Head Target
+}
+
+STRING 2746
+// Doodads: D6GQ (Wall Banner Black Rock), Name (Name)
+{
+Wall Banner Black Rock
+}
+
+STRING 2747
+// Doodads: D000 (Wall Banner Black Tooth Grin), Name (Name)
+{
+Wall Banner Black Tooth Grin
+}
+
+STRING 2748
+// Doodads: D001 (Wall Banner Bleeding Hollow), Name (Name)
+{
+Wall Banner Bleeding Hollow
+}
+
+STRING 2749
+// Doodads: D002 (Wall Banner Burning Blade), Name (Name)
+{
+Wall Banner Burning Blade
+}
+
+STRING 2750
+// Doodads: D003 (Wall Banner Dragonmaw), Name (Name)
+{
+Wall Banner Dragonmaw
+}
+
+STRING 2751
+// Doodads: D004 (Wall Banner Twilight Hammer), Name (Name)
+{
+Wall Banner Twilight Hammer
+}
+
+STRING 2760
+// Doodads: D005 (Rocks WaveBreak), Name (Name)
+{
+Rocks WaveBreak
+}
+
+STRING 2822
+// Units: n009 (Ship), EditorSuffix (Name - Editor Suffix)
+{
+B
+}
+
+STRING 2826
+// Destructibles: B003 (Strormwind Throne), Name (Name)
+{
+Strormwind Throne
+}
+
+STRING 2827
+// Destructibles: B004 (Strormwind Throne Base), Name (Name)
+{
+Strormwind Throne Base
+}
+
+STRING 2828
+// Doodads: D006 (Shadow), Name (Name)
+{
+Shadow
+}
+
+STRING 2830
+// Units: o008 (Cinematic Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(With Torch)
+}
+
+STRING 2831
+// Units: o008 (Cinematic Grunt), Name (Name)
+{
+Cinematic Grunt
+}
+
+STRING 2832
+// Doodads: D007 (Gold Pile 01), Name (Name)
+{
+Gold Pile 01
+}
+
+STRING 2833
+// Doodads: D008 (Gold Pile 02), Name (Name)
+{
+Gold Pile 02
+}
+
+STRING 2834
+// Doodads: D009 (Gold Pile 03), Name (Name)
+{
+Gold Pile 03
+}
+
+STRING 2835
+// Doodads: D00A (Gold Pile 04), Name (Name)
+{
+Gold Pile 04
+}
+
+STRING 2836
+// Doodads: D00B (Gold Pile 05), Name (Name)
+{
+Gold Pile 05
+}
+
+STRING 2837
+// Doodads: D00C (Gold Pile 06), Name (Name)
+{
+Gold Pile 06
+}
+
+STRING 2838
+// Doodads: D00D (Gold Pile 07), Name (Name)
+{
+Gold Pile 07
+}
+
+STRING 2839
+// Doodads: D00E (Gold Pile 08), Name (Name)
+{
+Gold Pile 08
+}
+
+STRING 2840
+// Doodads: D00F (Gold Pile 09), Name (Name)
+{
+Gold Pile 09
+}
+
+STRING 2841
+// Doodads: D00G (Gold Pile 10), Name (Name)
+{
+Gold Pile 10
+}
+
+STRING 2842
+// Doodads: D00H (Light Red), Name (Name)
+{
+Light Red
+}
+
+STRING 2845
+// Doodads: D6E5 (Wall Niche Arch), Name (Name)
+{
+Wall Niche Arch
+}
+
+STRING 2846
+// Doodads: D00J (Wall Niche Arch Big), Name (Name)
+{
+Wall Niche Arch Big
+}
+
+STRING 2852
+{
+Twilight Hammer
+}
+
+STRING 2853
+{
+Player 2
+}
+
+STRING 2854
+{
+Player 7
+}
+
+STRING 2855
+// Doodads: D64L (Wallpaper Mountains), Name (Name)
+{
+Wallpaper Mountains
+}
+
+STRING 2856
+// Doodads: D00I (Light Peach Weak), Name (Name)
+{
+Light Peach Weak
+}
+
+STRING 2857
+// Units: nX1B (Tomb Tower), Name (Name)
+{
+Tomb Tower
+}
+
+STRING 2858
+// Units: nX2B (Tomb OF Sargaras), Name (Name)
+{
+Tomb OF Sargaras
+}
+
+STRING 2863
+{
+Several weeks later....
+}
+
+STRING 2864
+// Items: IAL0 (WC2ORCACT01Doomhammer1), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2865
+// Items: IAL0 (WC2ORCACT01Doomhammer1), Description (Description)
+{
+Тром-ка, Варок! Дякую, мені їх доставили кілька днів тому з кузень клану чорної гори на Дренорі. Таким чином, частинка дому завжди буде супроводжувати мене у битвах, що чекають нас попереду.
+}
+
+STRING 2866
+// Items: IAL0 (WC2ORCACT01Doomhammer1), Name (Name)
+{
+WC2ORCACT01Doomhammer1
+}
+
+STRING 2867
+// Items: IAL1 (WC2ORCACT01Doomhammer2), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2868
+// Items: IAL1 (WC2ORCACT01Doomhammer2), Description (Description)
+{
+Чи маєш якісь новини?
+}
+
+STRING 2869
+// Items: IAL1 (WC2ORCACT01Doomhammer2), Name (Name)
+{
+WC2ORCACT01Doomhammer2
+}
+
+STRING 2870
+// Items: IAL2 (WC2ORCACT01Doomhammer3), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2871
+// Items: IAL2 (WC2ORCACT01Doomhammer3), Description (Description)
+{
+А, що з приводу чорнокнижника? Тобі вдалося взяти його живим?
+}
+
+STRING 2872
+// Items: IAL2 (WC2ORCACT01Doomhammer3), Name (Name)
+{
+WC2ORCACT01Doomhammer3
+}
+
+STRING 2873
+// Items: IAL3 (WC2ORCACT01Doomhammer4), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2874
+// Items: IAL3 (WC2ORCACT01Doomhammer4), Description (Description)
+{
+Я хочу, щоб його та залишки його ради, привезли до міста. Увʼязніть їх. Я навчу чорнокнижника чим небезпечна зрада…
+}
+
+STRING 2875
+// Items: IAL3 (WC2ORCACT01Doomhammer4), Name (Name)
+{
+WC2ORCACT01Doomhammer4
+}
+
+STRING 2876
+// Items: IAL4 (WC2ORCACT01Doomhammer5), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2877
+// Items: IAL4 (WC2ORCACT01Doomhammer5), Description (Description)
+{
+Хай прийдуть, якраз маю накази для них.
+}
+
+STRING 2878
+// Items: IAL4 (WC2ORCACT01Doomhammer5), Name (Name)
+{
+WC2ORCACT01Doomhammer5
+}
+
+STRING 2879
+// Items: IAL5 (WC2ORCACT01Doomhammer6), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2880
+// Items: IAL5 (WC2ORCACT01Doomhammer6), Description (Description)
+{
+Їх життя в моїх руках, Варок. Вони підкорилися мені, після Мак'Ґора. Я знайду їм гарне застосування.
+}
+
+STRING 2881
+// Items: IAL5 (WC2ORCACT01Doomhammer6), Name (Name)
+{
+WC2ORCACT01Doomhammer6
+}
+
+STRING 2882
+// Items: IAL6 (WC2ORCACT01Doomhammer7), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2883
+// Items: IAL6 (WC2ORCACT01Doomhammer7), Description (Description)
+{
+Лок'тар. Перш за все, я хочу, щоб ви обидва завжди пам’ятали, що завдячуєте своїм життям саме мені. Єдність і сила Орди є моїм ключовим пріоритетом. Ось чому я прийняв ваші присяги на вірність, попри ті чутки, що ширяться.
+}
+
+STRING 2884
+// Items: IAL6 (WC2ORCACT01Doomhammer7), Name (Name)
+{
+WC2ORCACT01Doomhammer7
+}
+
+STRING 2885
+// Items: IAL7 (WC2ORCACT01Doomhammer8), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2886
+// Items: IAL7 (WC2ORCACT01Doomhammer8), Description (Description)
+{
+Що ви збираєтесь повстати проти мого правління.
+}
+
+STRING 2887
+// Items: IAL7 (WC2ORCACT01Doomhammer8), Name (Name)
+{
+WC2ORCACT01Doomhammer8
+}
+
+STRING 2888
+// Items: IAL8 (WC2ORCACT01Doomhammer9), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2889
+// Items: IAL8 (WC2ORCACT01Doomhammer9), Description (Description)
+{
+Добре, я задоволений, що це питання закрито. Ну і тоді я маю для вас пропозицію. Ви очолите клан Чорнозубого Вищиру і поведете за собою всіх тих, хто лишився вірним Чорноруку.
+}
+
+STRING 2890
+// Items: IAL8 (WC2ORCACT01Doomhammer9), Name (Name)
+{
+WC2ORCACT01Doomhammer9
+}
+
+STRING 2891
+// Items: IAL9 (WC2ORCACT01Doomhammer10), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2892
+// Items: IAL9 (WC2ORCACT01Doomhammer10), Description (Description)
+{
+Натомість я очікую, що ви будете виконувати мої накази несамовито, а саме головне беззаперечно.
+}
+
+STRING 2893
+// Items: IAL9 (WC2ORCACT01Doomhammer10), Name (Name)
+{
+WC2ORCACT01Doomhammer10
+}
+
+STRING 2894
+// Items: IALa (WC2ORCACT01Doomhammer11), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2895
+// Items: IALa (WC2ORCACT01Doomhammer11), Description (Description)
+{
+Добре.
+}
+
+STRING 2896
+// Items: IALa (WC2ORCACT01Doomhammer11), Name (Name)
+{
+WC2ORCACT01Doomhammer11
+}
+
+STRING 2897
+// Items: IALb (WC2ORCACT01Doomhammer12), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2898
+// Items: IALb (WC2ORCACT01Doomhammer12), Description (Description)
+{
+Так, я дозволив їм піти.
+}
+
+STRING 2899
+// Items: IALb (WC2ORCACT01Doomhammer12), Name (Name)
+{
+WC2ORCACT01Doomhammer12
+}
+
+STRING 2900
+// Items: IALc (WC2ORCACT01Doomhammer13), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2901
+// Items: IALc (WC2ORCACT01Doomhammer13), Description (Description)
+{
+Їхні історії про смерть і жах поширяться на півночі, як пожежа в лісі. А їхні союзники будуть налякані, ще до того, як навіть зіткнуться з нами. Але досить вже питань.
+}
+
+STRING 2902
+// Items: IALc (WC2ORCACT01Doomhammer13), Name (Name)
+{
+WC2ORCACT01Doomhammer13
+}
+
+STRING 2903
+// Items: IALd (WC2ORCACT01Doomhammer14), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2904
+// Items: IALd (WC2ORCACT01Doomhammer14), Description (Description)
+{
+Тож Ренде, якщо ти так стурбований тими людськими кораблями, то у мене для тебе є завдання.
+}
+
+STRING 2905
+// Items: IALd (WC2ORCACT01Doomhammer14), Name (Name)
+{
+WC2ORCACT01Doomhammer14
+}
+
+STRING 2906
+// Items: IALe (WC2ORCACT01Doomhammer15), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2907
+// Items: IALe (WC2ORCACT01Doomhammer15), Description (Description)
+{
+
+Біженці прямують до північного королівства під назвою Лордерон. Наші в’язні виявили, що це людське королівство є не лише найбільшим союзником Штормовія, але й наймогутнішою нацією людей на півночі.
+}
+
+STRING 2908
+// Items: IALe (WC2ORCACT01Doomhammer15), Name (Name)
+{
+WC2ORCACT01Doomhammer15
+}
+
+STRING 2909
+// Items: IALf (WC2ORCACT01Doomhammer16), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2910
+// Items: IALf (WC2ORCACT01Doomhammer16), Description (Description)
+{
+Я наказав амбітному орку, на ім'я Уток Дряпач закріпитися на острові Зул’дар, що неподалік від південних берегів Лордерону.
+}
+
+STRING 2911
+// Items: IALf (WC2ORCACT01Doomhammer16), Name (Name)
+{
+WC2ORCACT01Doomhammer16
+}
+
+STRING 2912
+// Items: IALg (WC2ORCACT01Doomhammer17), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2913
+// Items: IALg (WC2ORCACT01Doomhammer17), Description (Description)
+{
+Ти будеш супроводжувати його під час цього завдання. У Зул'дарі ти оціниш силу ворога і підготуєшся до прибуття наших військ вторгнення. Це буде твоє перше завдання, Ренд Чорнорук.
+}
+
+STRING 2914
+// Items: IALg (WC2ORCACT01Doomhammer17), Name (Name)
+{
+WC2ORCACT01Doomhammer17
+}
+
+STRING 2915
+// Items: IALh (WC2ORCACT01Doomhammer18), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2916
+// Items: IALh (WC2ORCACT01Doomhammer18), Description (Description)
+{
+Негайно.
+}
+
+STRING 2917
+// Items: IALh (WC2ORCACT01Doomhammer18), Name (Name)
+{
+WC2ORCACT01Doomhammer18
+}
+
+STRING 2918
+// Items: IALi (WC2ORCACT01Doomhammer19), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2919
+// Items: IALi (WC2ORCACT01Doomhammer19), Description (Description)
+{
+Ти потрібен мені тут, Мейме. Ти будеш стежити за станом Ґул'дана після того, як він прибуде в місто. Я хочу його бачити перед собою, як тільки він прийде до тями.
+}
+
+STRING 2920
+// Items: IALi (WC2ORCACT01Doomhammer19), Name (Name)
+{
+WC2ORCACT01Doomhammer19
+}
+
+STRING 2921
+// Items: IALj (WC2ORCACT01Doomhammer20), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2922
+// Items: IALj (WC2ORCACT01Doomhammer20), Description (Description)
+{
+...Так?
+}
+
+STRING 2923
+// Items: IALj (WC2ORCACT01Doomhammer20), Name (Name)
+{
+WC2ORCACT01Doomhammer20
+}
+
+STRING 2924
+// Items: IALk (WC2ORCACT01Doomhammer21), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2925
+// Items: IALk (WC2ORCACT01Doomhammer21), Description (Description)
+{
+Я якості винятку... Я скажу Саурфанґу повернути тобі твого вовка.
+}
+
+STRING 2926
+// Items: IALk (WC2ORCACT01Doomhammer21), Name (Name)
+{
+WC2ORCACT01Doomhammer21
+}
+
+STRING 2927
+// Items: IALl (WC2ORCACT01Doomhammer22), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2928
+// Items: IALl (WC2ORCACT01Doomhammer22), Description (Description)
+{
+Досить! Одного вершника на вовках буде більш ніж достатньо у вашому клані. Тепер, починайте!
+}
+
+STRING 2929
+// Items: IALl (WC2ORCACT01Doomhammer22), Name (Name)
+{
+WC2ORCACT01Doomhammer22
+}
+
+STRING 2930
+// Items: IALm (WC2ORCACT01Doomhammer23), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2931
+// Items: IALm (WC2ORCACT01Doomhammer23), Description (Description)
+{
+Що ж, нарешті ти прийшов до тями…
+}
+
+STRING 2932
+// Items: IALm (WC2ORCACT01Doomhammer23), Name (Name)
+{
+WC2ORCACT01Doomhammer23
+}
+
+STRING 2933
+// Items: IALn (WC2ORCACT01Doomhammer24), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2934
+// Items: IALn (WC2ORCACT01Doomhammer24), Description (Description)
+{
+Мовчи!
+}
+
+STRING 2935
+// Items: IALn (WC2ORCACT01Doomhammer24), Name (Name)
+{
+WC2ORCACT01Doomhammer24
+}
+
+STRING 2936
+// Items: IALo (WC2ORCACT01Doomhammer25), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2937
+// Items: IALo (WC2ORCACT01Doomhammer25), Description (Description)
+{
+Я знаю, що ти зробив, Ґул'дане. Я знаю як ти маніпулював Чорноруком, і як твоя «Тіньова рада» потайки смикала за ниточки в Орді.
+}
+
+STRING 2938
+// Items: IALo (WC2ORCACT01Doomhammer25), Name (Name)
+{
+WC2ORCACT01Doomhammer25
+}
+
+STRING 2939
+// Items: IALp (WC2ORCACT01Doomhammer26), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2940
+// Items: IALp (WC2ORCACT01Doomhammer26), Description (Description)
+{
+Твої темні чари наразі не убережуть тебе.Ти та тобі подібні ледь не знищили нас усіх, ви заплямували нашу честь і наші шляхетні традиції, своїми гнилими хитрощами та чаклунством… і за це ти дуже дорого заплатиш!
+}
+
+STRING 2941
+// Items: IALp (WC2ORCACT01Doomhammer26), Name (Name)
+{
+WC2ORCACT01Doomhammer26
+}
+
+STRING 2942
+// Items: IALq (WC2ORCACT01Doomhammer27), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2943
+// Items: IALq (WC2ORCACT01Doomhammer27), Description (Description)
+{
+Дай мені хоч одну причину зберегти твоє нікчемне життя, чорнокнижнику.
+}
+
+STRING 2944
+// Items: IALq (WC2ORCACT01Doomhammer27), Name (Name)
+{
+WC2ORCACT01Doomhammer27
+}
+
+STRING 2945
+// Items: IALr (WC2ORCACT01Doomhammer28), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2946
+// Items: IALr (WC2ORCACT01Doomhammer28), Description (Description)
+{
+Пусті слова, Ґул'дане.
+}
+
+STRING 2947
+// Items: IALr (WC2ORCACT01Doomhammer28), Name (Name)
+{
+WC2ORCACT01Doomhammer28
+}
+
+STRING 2948
+// Items: IALs (WC2ORCACT01Doomhammer29), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2949
+// Items: IALs (WC2ORCACT01Doomhammer29), Description (Description)
+{
+Те що ти кажеш… правда. Добре тоді, в цьому питанні я поставлю інтереси Орди вище власних. Я збережу твоє життя та життя залишків твоєї «Тіньової ради», але тільки на той час поки ти слугуватимеш Орді.
+}
+
+STRING 2950
+// Items: IALs (WC2ORCACT01Doomhammer29), Name (Name)
+{
+WC2ORCACT01Doomhammer29
+}
+
+STRING 2951
+// Items: IALt (WC2ORCACT01Doomhammer30), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 2952
+// Items: IALt (WC2ORCACT01Doomhammer30), Description (Description)
+{
+Дивлячись на те, що ти накоїв... Я буду пильно стежити за тобою, Ґул'дане. Зійдеш з цього шляху, і втратиш життя.
+}
+
+STRING 2953
+// Items: IALt (WC2ORCACT01Doomhammer30), Name (Name)
+{
+WC2ORCACT01Doomhammer30
+}
+
+STRING 2954
+// Items: IALu (WC2ORCACT01Guldan1), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2955
+// Items: IALu (WC2ORCACT01Guldan1), Description (Description)
+{
+А… ось ти де, Медіве. Орда чудово просувається. Королівство Людей майже переможено. Штормовій довго не протримається.
+}
+
+STRING 2956
+// Items: IALu (WC2ORCACT01Guldan1), Name (Name)
+{
+WC2ORCACT01Guldan1
+}
+
+STRING 2957
+// Items: IALv (WC2ORCACT01Guldan2), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2958
+// Items: IALv (WC2ORCACT01Guldan2), Description (Description)
+{
+Усі вони будуть поневолені або вбиті…
+}
+
+STRING 2959
+// Items: IALv (WC2ORCACT01Guldan2), Name (Name)
+{
+WC2ORCACT01Guldan2
+}
+
+STRING 2960
+// Items: IALw (WC2ORCACT01Guldan3), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2961
+// Items: IALw (WC2ORCACT01Guldan3), Description (Description)
+{
+Та що знаєш про Кіл’джедена, людино!
+}
+
+STRING 2962
+// Items: IALw (WC2ORCACT01Guldan3), Name (Name)
+{
+WC2ORCACT01Guldan3
+}
+
+STRING 2963
+// Items: IALx (WC2ORCACT01Guldan4), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2964
+// Items: IALx (WC2ORCACT01Guldan4), Description (Description)
+{
+Який тоді сенс у цій розмові? Я вдячний за твою допомогу у відкритті порталу… та за інформацію, яка допоможе нам перемогти слабких цього світу, але що ти хочеш натомість?
+}
+
+STRING 2965
+// Items: IALx (WC2ORCACT01Guldan4), Name (Name)
+{
+WC2ORCACT01Guldan4
+}
+
+STRING 2966
+// Items: IALy (WC2ORCACT01Guldan5), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2967
+// Items: IALy (WC2ORCACT01Guldan5), Description (Description)
+{
+Цей світ? Цей світ буде належати Орді!
+}
+
+STRING 2968
+// Items: IALy (WC2ORCACT01Guldan5), Name (Name)
+{
+WC2ORCACT01Guldan5
+}
+
+STRING 2969
+// Items: IALz (WC2ORCACT01Guldan6), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2970
+// Items: IALz (WC2ORCACT01Guldan6), Description (Description)
+{
+І, що ж це може бути?
+}
+
+STRING 2971
+// Items: IALz (WC2ORCACT01Guldan6), Name (Name)
+{
+WC2ORCACT01Guldan6
+}
+
+STRING 2972
+// Items: IALZ (WC2ORCACT01Guldan7), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2973
+// Items: IALZ (WC2ORCACT01Guldan7), Description (Description)
+{
+Інтригуючи… і де така сила може бути знайдена?
+}
+
+STRING 2974
+// Items: IALZ (WC2ORCACT01Guldan7), Name (Name)
+{
+WC2ORCACT01Guldan7
+}
+
+STRING 2975
+// Items: IALY (WC2ORCACT01Guldan8), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2976
+// Items: IALY (WC2ORCACT01Guldan8), Description (Description)
+{
+І де я можу знайти цю гробницю?
+}
+
+STRING 2977
+// Items: IALY (WC2ORCACT01Guldan8), Name (Name)
+{
+WC2ORCACT01Guldan8
+}
+
+STRING 2978
+// Items: IALX (WC2ORCACT01Guldan9), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2979
+// Items: IALX (WC2ORCACT01Guldan9), Description (Description)
+{
+Медіве! Де вона?
+}
+
+STRING 2980
+// Items: IALX (WC2ORCACT01Guldan9), Name (Name)
+{
+WC2ORCACT01Guldan9
+}
+
+STRING 2981
+// Items: IALW (WC2ORCACT01Guldan10), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2982
+// Items: IALW (WC2ORCACT01Guldan10), Description (Description)
+{
+Ні! Де гробниця? Де…
+}
+
+STRING 2983
+// Items: IALW (WC2ORCACT01Guldan10), Name (Name)
+{
+WC2ORCACT01Guldan10
+}
+
+STRING 2984
+// Items: IALV (WC2ORCACT01Guldan11), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2985
+// Items: IALV (WC2ORCACT01Guldan11), Description (Description)
+{
+Де...   ...я?
+}
+
+STRING 2986
+// Items: IALV (WC2ORCACT01Guldan11), Name (Name)
+{
+WC2ORCACT01Guldan11
+}
+
+STRING 2987
+// Items: IALU (WC2ORCACT01Guldan12), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2988
+// Items: IALU (WC2ORCACT01Guldan12), Description (Description)
+{
+Мене так легко не здолати… ти боявся, що я лишу тебе на милість Чорнорука, Чо'ґалле?
+}
+
+STRING 2989
+// Items: IALU (WC2ORCACT01Guldan12), Name (Name)
+{
+WC2ORCACT01Guldan12
+}
+
+STRING 2990
+// Items: IALT (WC2ORCACT01Guldan13), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2991
+// Items: IALT (WC2ORCACT01Guldan13), Description (Description)
+{
+Мертвий? Що сталося?
+}
+
+STRING 2992
+// Items: IALT (WC2ORCACT01Guldan13), Name (Name)
+{
+WC2ORCACT01Guldan13
+}
+
+STRING 2993
+// Items: IALS (WC2ORCACT01Guldan14), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2994
+// Items: IALS (WC2ORCACT01Guldan14), Description (Description)
+{
+До кого нас ведуть?
+}
+
+STRING 2995
+// Items: IALS (WC2ORCACT01Guldan14), Name (Name)
+{
+WC2ORCACT01Guldan14
+}
+
+STRING 2996
+// Items: IALR (WC2ORCACT01Guldan15), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 2997
+// Items: IALR (WC2ORCACT01Guldan15), Description (Description)
+{
+Хто! Хто це зробив!?
+}
+
+STRING 2998
+// Items: IALR (WC2ORCACT01Guldan15), Name (Name)
+{
+WC2ORCACT01Guldan15
+}
+
+STRING 2999
+// Items: IALQ (WC2ORCACT01Guldan16), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3000
+// Items: IALQ (WC2ORCACT01Guldan16), Description (Description)
+{
+Володарю, я...
+}
+
+STRING 3001
+// Items: IALQ (WC2ORCACT01Guldan16), Name (Name)
+{
+WC2ORCACT01Guldan16
+}
+
+STRING 3002
+// Items: IALP (WC2ORCACT01Guldan17), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3003
+// Items: IALP (WC2ORCACT01Guldan17), Description (Description)
+{
+Ні… не роби цього, Молоте Згуби!
+}
+
+STRING 3004
+// Items: IALP (WC2ORCACT01Guldan17), Name (Name)
+{
+WC2ORCACT01Guldan17
+}
+
+STRING 3005
+// Items: IALO (WC2ORCACT01Guldan18), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3006
+// Items: IALO (WC2ORCACT01Guldan18), Description (Description)
+{
+Я схиляюся перед твоєю силою, могутній Молоте Згуби! Я визнаю тебе вождем Орди та клянусь у вічній вірності тобі!
+}
+
+STRING 3007
+// Items: IALO (WC2ORCACT01Guldan18), Name (Name)
+{
+WC2ORCACT01Guldan18
+}
+
+STRING 3008
+// Items: IALN (WC2ORCACT01Guldan19), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3009
+// Items: IALN (WC2ORCACT01Guldan19), Description (Description)
+{
+Ми потрібні один одному, вождь! Так, ти набагато сильніший, мудріший і далекоглядніший за Чорнорука, але ти не зможеш виграти майбутню війну самостійно.
+}
+
+STRING 3010
+// Items: IALN (WC2ORCACT01Guldan19), Name (Name)
+{
+WC2ORCACT01Guldan19
+}
+
+STRING 3011
+// Items: IALM (WC2ORCACT01Guldan20), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3012
+// Items: IALM (WC2ORCACT01Guldan20), Description (Description)
+{
+Ми обидва знаємо, що люди — це не єдина загроза, і що це не єдине їхнє королівство. Орда не зможе зберегти свою перевагу в майбутніх війнах без чорнокнижників. Не знехтуй цією сильною заради помсти.
+}
+
+STRING 3013
+// Items: IALM (WC2ORCACT01Guldan20), Name (Name)
+{
+WC2ORCACT01Guldan20
+}
+
+STRING 3014
+// Items: IALL (WC2ORCACT01Guldan21), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3015
+// Items: IALL (WC2ORCACT01Guldan21), Description (Description)
+{
+Дякую тобі, могутній Молот Згуби. Я підготую воїнів, які зможуть дати відсіч наймогутнішим людським жерцям і чарівникам. Всі вони будуть вірні тільки тобі, клянусь!
+}
+
+STRING 3016
+// Items: IALL (WC2ORCACT01Guldan21), Name (Name)
+{
+WC2ORCACT01Guldan21
+}
+
+STRING 3017
+// Items: IALK (WC2ORCACT01Guldan22), Tip (Tooltip - Basic)
+{
+Ґул'дан
+}
+
+STRING 3018
+// Items: IALK (WC2ORCACT01Guldan22), Description (Description)
+{
+Зберіть залишки «Тіньової ради» і прикличте всіх хто лишився… у нас багато роботи попереду.
+}
+
+STRING 3019
+// Items: IALK (WC2ORCACT01Guldan22), Name (Name)
+{
+WC2ORCACT01Guldan22
+}
+
+STRING 3020
+// Items: IALJ (WC2ORCACT01Rend1), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3021
+// Items: IALJ (WC2ORCACT01Rend1), Description (Description)
+{
+Лок'тар... вождь.
+}
+
+STRING 3022
+// Items: IALJ (WC2ORCACT01Rend1), Name (Name)
+{
+WC2ORCACT01Rend1
+}
+
+STRING 3023
+// Items: IALI (WC2ORCACT01Rend2), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3024
+// Items: IALI (WC2ORCACT01Rend2), Description (Description)
+{
+Деякі орки, які були віддані моєму батьку, може і хочуть повстати… але ми з братом визнаємо твою силу, вождь. Ми не ризикнемо почати громадянську війну черед орків.
+}
+
+STRING 3025
+// Items: IALI (WC2ORCACT01Rend2), Name (Name)
+{
+WC2ORCACT01Rend2
+}
+
+STRING 3026
+// Items: IALH (WC2ORCACT01Rend3), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3027
+// Items: IALH (WC2ORCACT01Rend3), Description (Description)
+{
+Вождь, це дуже щедра пропозиція.
+}
+
+STRING 3028
+// Items: IALH (WC2ORCACT01Rend3), Name (Name)
+{
+WC2ORCACT01Rend3
+}
+
+STRING 3029
+// Items: IALG (WC2ORCACT01Rend4), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3030
+// Items: IALG (WC2ORCACT01Rend4), Description (Description)
+{
+Вони прямують на північ… вони покличуть своїх союзників аби помститися! Вождь, ти дозволив людям втекти?
+}
+
+STRING 3031
+// Items: IALG (WC2ORCACT01Rend4), Name (Name)
+{
+WC2ORCACT01Rend4
+}
+
+STRING 3032
+// Items: IALF (WC2ORCACT01Rend5), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3033
+// Items: IALF (WC2ORCACT01Rend5), Description (Description)
+{
+Але чому?
+}
+
+STRING 3034
+// Items: IALF (WC2ORCACT01Rend5), Name (Name)
+{
+WC2ORCACT01Rend5
+}
+
+STRING 3035
+// Items: IALE (WC2ORCACT01Rend6), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3036
+// Items: IALE (WC2ORCACT01Rend6), Description (Description)
+{
+Хммм...
+}
+
+STRING 3037
+// Items: IALE (WC2ORCACT01Rend6), Name (Name)
+{
+WC2ORCACT01Rend6
+}
+
+STRING 3038
+// Items: IALD (WC2ORCACT01Rend7), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3039
+// Items: IALD (WC2ORCACT01Rend7), Description (Description)
+{
+Коли я вирушаю?
+}
+
+STRING 3040
+// Items: IALD (WC2ORCACT01Rend7), Name (Name)
+{
+WC2ORCACT01Rend7
+}
+
+STRING 3041
+// Items: IALC (WC2ORCACT01Rend8), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3042
+// Items: IALC (WC2ORCACT01Rend8), Description (Description)
+{
+Вождь... Я маю одне персональне прохання...
+}
+
+STRING 3043
+// Items: IALC (WC2ORCACT01Rend8), Name (Name)
+{
+WC2ORCACT01Rend8
+}
+
+STRING 3044
+// Items: IALB (WC2ORCACT01Rend9), Tip (Tooltip - Basic)
+{
+Ренд Чорнорук
+}
+
+STRING 3045
+// Items: IALB (WC2ORCACT01Rend9), Description (Description)
+{
+Ви розпустили вершників на вовках після того, як одягли накидку вождя. Але отаман, не отаман без свого вовка. Я б хотів отримати назад свого вовка.
+}
+
+STRING 3046
+// Items: IALB (WC2ORCACT01Rend9), Name (Name)
+{
+WC2ORCACT01Rend9
+}
+
+STRING 3047
+// Items: IALA (WC2ORCACT01Maim1), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3048
+// Items: IALA (WC2ORCACT01Maim1), Description (Description)
+{
+Лок'тар... Чекаємо на твої накази, вождь.
+}
+
+STRING 3049
+// Items: IALA (WC2ORCACT01Maim1), Name (Name)
+{
+WC2ORCACT01Maim1
+}
+
+STRING 3050
+// Items: IaLA (WC2ORCACT01Maim2), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3051
+// Items: IaLA (WC2ORCACT01Maim2), Description (Description)
+{
+Які чутки?
+}
+
+STRING 3052
+// Items: IaLA (WC2ORCACT01Maim2), Name (Name)
+{
+WC2ORCACT01Maim2
+}
+
+STRING 3053
+// Items: IaLB (WC2ORCACT01Maim3), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3054
+// Items: IaLB (WC2ORCACT01Maim3), Description (Description)
+{
+Наш клан добре послужить Орді, вождь..
+}
+
+STRING 3055
+// Items: IaLB (WC2ORCACT01Maim3), Name (Name)
+{
+WC2ORCACT01Maim3
+}
+
+STRING 3056
+// Items: IaLC (WC2ORCACT01Maim4), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3057
+// Items: IaLC (WC2ORCACT01Maim4), Description (Description)
+{
+Почекайте, що це? Людські кораблі?
+}
+
+STRING 3058
+// Items: IaLC (WC2ORCACT01Maim4), Name (Name)
+{
+WC2ORCACT01Maim4
+}
+
+STRING 3059
+// Items: IaLD (WC2ORCACT01Maim5), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3060
+// Items: IaLD (WC2ORCACT01Maim5), Description (Description)
+{
+Буде зроблено... Вождь.
+}
+
+STRING 3061
+// Items: IaLD (WC2ORCACT01Maim5), Name (Name)
+{
+WC2ORCACT01Maim5
+}
+
+STRING 3062
+// Items: IaLE (WC2ORCACT01Maim6), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3063
+// Items: IaLE (WC2ORCACT01Maim6), Description (Description)
+{
+Я теж! Хочу назад свого вовка.
+}
+
+STRING 3064
+// Items: IaLE (WC2ORCACT01Maim6), Name (Name)
+{
+WC2ORCACT01Maim6
+}
+
+STRING 3065
+// Items: IaLF (WC2ORCACT01Maim7), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3066
+// Items: IaLF (WC2ORCACT01Maim7), Description (Description)
+{
+Чому він тобі дозволив отримати назад свого вовка, а мені ні?
+}
+
+STRING 3067
+// Items: IaLF (WC2ORCACT01Maim7), Name (Name)
+{
+WC2ORCACT01Maim7
+}
+
+STRING 3068
+// Items: IaLG (WC2ORCACT01Maim8), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3069
+// Items: IaLG (WC2ORCACT01Maim8), Description (Description)
+{
+Що ж... Чорнокнижник нарешті прокинувся. Вождь бажає тебе бачити. Йди за мною, і не роби жодних різких рухів, або я відрубаю тобі руки.
+}
+
+STRING 3070
+// Items: IaLG (WC2ORCACT01Maim8), Name (Name)
+{
+WC2ORCACT01Maim8
+}
+
+STRING 3071
+// Items: IaLH (WC2ORCACT01Maim9), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3072
+// Items: IaLH (WC2ORCACT01Maim9), Description (Description)
+{
+Мене нудить від цього гнилого смороду! Зберіть вже все цінне і спаліть мертвих!
+}
+
+STRING 3073
+// Items: IaLH (WC2ORCACT01Maim9), Name (Name)
+{
+WC2ORCACT01Maim9
+}
+
+STRING 3074
+// Items: IaLI (WC2ORCACT01Maim10), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3075
+// Items: IaLI (WC2ORCACT01Maim10), Description (Description)
+{
+Повертайтесь до роботи! Розберіть уламки... нам потрібні матеріали.
+}
+
+STRING 3076
+// Items: IaLI (WC2ORCACT01Maim10), Name (Name)
+{
+WC2ORCACT01Maim10
+}
+
+STRING 3077
+// Items: IaLJ (WC2ORCACT01Maim12), Tip (Tooltip - Basic)
+{
+Мейм Чорнорук
+}
+
+STRING 3078
+// Items: IaLJ (WC2ORCACT01Maim12), Description (Description)
+{
+А що з приводу мене, вождь?
+}
+
+STRING 3080
+// Items: IaLK (WC2ORCACT01Varok1), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3081
+// Items: IaLK (WC2ORCACT01Varok1), Description (Description)
+{
+Тром-ка, Орґріме! Ці обладунки добре пасують тобі, мій старий друже, відповідають твоєму статусу Вождя.
+}
+
+STRING 3082
+// Items: IaLK (WC2ORCACT01Varok1), Name (Name)
+{
+WC2ORCACT01Varok1
+}
+
+STRING 3083
+// Items: IaLL (WC2ORCACT01Varok2), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3084
+// Items: IaLL (WC2ORCACT01Varok2), Description (Description)
+{
+Храм проклятих взятий в облогу, як ти й наказав.
+}
+
+STRING 3085
+// Items: IaLL (WC2ORCACT01Varok2), Name (Name)
+{
+WC2ORCACT01Varok2
+}
+
+STRING 3086
+// Items: IaLM (WC2ORCACT01Varok3), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3087
+// Items: IaLM (WC2ORCACT01Varok3), Description (Description)
+{
+Так, вождь. Однак «Тіньова рада» чинила опір, і ми були змушені повбивати їх майже всіх. Ґул'дан проводив якийсь ритуал, коли ми його знайшли. Він втратив свідомість і не ворухнувся, відколи ми його повернули.
+}
+
+STRING 3088
+// Items: IaLM (WC2ORCACT01Varok3), Name (Name)
+{
+WC2ORCACT01Varok3
+}
+
+STRING 3089
+// Items: IaLN (WC2ORCACT01Varok4), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3090
+// Items: IaLN (WC2ORCACT01Varok4), Description (Description)
+{
+Буде зроблено, вождь.
+}
+
+STRING 3091
+// Items: IaLN (WC2ORCACT01Varok4), Name (Name)
+{
+WC2ORCACT01Varok4
+}
+
+STRING 3092
+// Items: IaLO (WC2ORCACT01Varok5), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3093
+// Items: IaLO (WC2ORCACT01Varok5), Description (Description)
+{
+І ще дещо... сини Чорнорука, Ренд і Мейм, просять про аудієнцію.
+}
+
+STRING 3094
+// Items: IaLO (WC2ORCACT01Varok5), Name (Name)
+{
+WC2ORCACT01Varok5
+}
+
+STRING 3095
+// Items: IaLP (WC2ORCACT01Varok6), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3096
+// Items: IaLP (WC2ORCACT01Varok6), Description (Description)
+{
+Вождь, зі всією повагою... цим двом не можна довіряти. Вони завжди будуть обурені на тебе за смерть їхнього батька.
+}
+
+STRING 3097
+// Items: IaLP (WC2ORCACT01Varok6), Name (Name)
+{
+WC2ORCACT01Varok6
+}
+
+STRING 3098
+// Items: IaLQ (WC2ORCACT01Varok7), Tip (Tooltip - Basic)
+{
+Варок Саурфанґ
+}
+
+STRING 3099
+// Items: IaLQ (WC2ORCACT01Varok7), Description (Description)
+{
+Як скажеш, вождь.
+}
+
+STRING 3100
+// Items: IaLQ (WC2ORCACT01Varok7), Name (Name)
+{
+WC2ORCACT01Varok7
+}
+
+STRING 3101
+// Items: IaLR (WC2ORCACT01Grunt1), Tip (Tooltip - Basic)
+{
+Рубайло
+}
+
+STRING 3102
+// Items: IaLR (WC2ORCACT01Grunt1), Description (Description)
+{
+Буде зроблено, воєводо...
+}
+
+STRING 3103
+// Items: IaLR (WC2ORCACT01Grunt1), Name (Name)
+{
+WC2ORCACT01Grunt1
+}
+
+STRING 3104
+// Items: IaLS (WC2ORCACT01Peon1), Tip (Tooltip - Basic)
+{
+Батрак
+}
+
+STRING 3105
+// Items: IaLS (WC2ORCACT01Peon1), Description (Description)
+{
+Звісно, володарю.
+}
+
+STRING 3106
+// Items: IaLS (WC2ORCACT01Peon1), Name (Name)
+{
+WC2ORCACT01Peon1
+}
+
+STRING 3107
+// Items: IaLT (WC2ORCACT01Nekros1), Tip (Tooltip - Basic)
+{
+Некрос Череполам
+}
+
+STRING 3108
+// Items: IaLT (WC2ORCACT01Nekros1), Description (Description)
+{
+Перестань скиглити, Терон'ґорe! Ми живі лише тому, що Молот Згуби планує суд над Ґул'даном… наше життя залежить від його пробудження.
+}
+
+STRING 3109
+// Items: IaLT (WC2ORCACT01Nekros1), Name (Name)
+{
+WC2ORCACT01Nekros1
+}
+
+STRING 3110
+// Items: IaLU (WC2ORCACT01Nekros2), Tip (Tooltip - Basic)
+{
+Некрос Череполам
+}
+
+STRING 3111
+// Items: IaLU (WC2ORCACT01Nekros2), Description (Description)
+{
+Чо'ґалле... у тебе є якісь думки з приводу того коли Ґул'дан прийде до тями?
+}
+
+STRING 3112
+// Items: IaLU (WC2ORCACT01Nekros2), Name (Name)
+{
+WC2ORCACT01Nekros2
+}
+
+STRING 3113
+// Items: IaLV (WC2ORCACT01Nekros3), Tip (Tooltip - Basic)
+{
+Некрос Череполам
+}
+
+STRING 3114
+// Items: IaLV (WC2ORCACT01Nekros3), Description (Description)
+{
+Почекай! Хтось йде...
+}
+
+STRING 3115
+// Items: IaLV (WC2ORCACT01Nekros3), Name (Name)
+{
+WC2ORCACT01Nekros3
+}
+
+STRING 3116
+// Items: IaLW (WC2ORCACT01Terongor1), Tip (Tooltip - Basic)
+{
+Терон'кров
+}
+
+STRING 3117
+// Items: IaLW (WC2ORCACT01Terongor1), Description (Description)
+{
+Я вже збився з рахунку яку кількість днів я провів у цій клятій вʼязниці. Я мав померти під час штурму фортеці... сидіти тут увʼязненим нестерпно!
+}
+
+STRING 3118
+// Items: IaLW (WC2ORCACT01Terongor1), Name (Name)
+{
+WC2ORCACT01Terongor1
+}
+
+STRING 3119
+// Items: IaLX (WC2ORCACT01Terongor2), Tip (Tooltip - Basic)
+{
+Терон'кров
+}
+
+STRING 3120
+// Items: IaLX (WC2ORCACT01Terongor2), Description (Description)
+{
+Некросе, подивись, він прийшов до тями! Володар прокинувся!
+}
+
+STRING 3121
+// Items: IaLX (WC2ORCACT01Terongor2), Name (Name)
+{
+WC2ORCACT01Terongor2
+}
+
+STRING 3122
+// Items: IaLY (WC2ORCACT01Medivh1), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3123
+// Items: IaLY (WC2ORCACT01Medivh1), Description (Description)
+{
+Це лише початок, Ґул'дане. На цьому континенті, ще є шість інших людських королівств. Їхні землі багаті та вразливі. Жадібні дворфи сидять на своїх скарбах у горах Хаз Модану. Вищі ельфи, зіпсовані магією, ховаються в лісах Квель’таласу. Усі вони… вороги Орди.
+}
+
+STRING 3124
+// Items: IaLY (WC2ORCACT01Medivh1), Name (Name)
+{
+WC2ORCACT01Medivh1
+}
+
+STRING 3125
+// Items: IaLZ (WC2ORCACT01Medivh2), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3126
+// Items: IaLZ (WC2ORCACT01Medivh2), Description (Description)
+{
+Добре... і як тільки ти закінчиш, памʼятай хто саме привів Орду в цей світ, хто врятував твою націю від голоду та смерті після того, як Кіл'джеден покинув тебе.
+}
+
+STRING 3127
+// Items: IaLZ (WC2ORCACT01Medivh2), Name (Name)
+{
+WC2ORCACT01Medivh2
+}
+
+STRING 3128
+// Items: IaLz (WC2ORCACT01Medivh3), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3129
+// Items: IaLz (WC2ORCACT01Medivh3), Description (Description)
+{
+Людина? Я більше ніж людина, Ґул'Дане, і більше ніж просто чарівник. Я Вартівник Тірісфалю. Я знаю все, що можна знати, про тебе, весь твій рід і демонів.Я також знаю, що Кіл’джеден просто використав тебе, щоб позбутися своїх давніх ворогів, Дренеїв… але це не суть.
+}
+
+STRING 3130
+// Items: IaLz (WC2ORCACT01Medivh3), Name (Name)
+{
+WC2ORCACT01Medivh3
+}
+
+STRING 3131
+// Items: IaLy (WC2ORCACT01Medivh4), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3132
+// Items: IaLy (WC2ORCACT01Medivh4), Description (Description)
+{
+Натомість Ґул'дане, я хочу цей світ.
+}
+
+STRING 3133
+// Items: IaLy (WC2ORCACT01Medivh4), Name (Name)
+{
+WC2ORCACT01Medivh4
+}
+
+STRING 3134
+// Items: IaLx (WC2ORCACT01Medivh5), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3135
+// Items: IaLx (WC2ORCACT01Medivh5), Description (Description)
+{
+Орді, Ґул'дане ? Чи особисто тобі? Я бачу тебе наскрізь, маленький чорнокнижник, тебе і твої нікчемні бажання. Повір мені, те, що я хочу від цього світу, поза твоєю уявою... але я запропоную тобі дещо, дещо, що вартує в тисячу разів більше аніж цей світ.
+}
+
+STRING 3136
+// Items: IaLx (WC2ORCACT01Medivh5), Name (Name)
+{
+WC2ORCACT01Medivh5
+}
+
+STRING 3137
+// Items: IaLw (WC2ORCACT01Medivh6), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3138
+// Items: IaLw (WC2ORCACT01Medivh6), Description (Description)
+{
+Сила, Ґул'дан, сила яка у багато разів перевищує навіть міць самого Кіл’джедена.
+}
+
+STRING 3139
+// Items: IaLw (WC2ORCACT01Medivh6), Name (Name)
+{
+WC2ORCACT01Medivh6
+}
+
+STRING 3140
+// Items: IaLv (WC2ORCACT01Medivh7), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3141
+// Items: IaLv (WC2ORCACT01Medivh7), Description (Description)
+{
+Дуже давно цей світ потрясла велика битва, в якій темний титан Сарґерас зазнав поразки. Якщо ти знайдеш його гробницю, то зможеш поглинути його сутність і отримати силу темного титана. Це і є моя пропозиція.
+}
+
+STRING 3142
+// Items: IaLv (WC2ORCACT01Medivh7), Name (Name)
+{
+WC2ORCACT01Medivh7
+}
+
+STRING 3143
+// Items: IaLu (WC2ORCACT01Medivh8), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3144
+// Items: IaLu (WC2ORCACT01Medivh8), Description (Description)
+{
+Що?! Кадгар… Лотар?! Вам не варто було сюди приходити, мої старі друзі.
+}
+
+STRING 3145
+// Items: IaLu (WC2ORCACT01Medivh8), Name (Name)
+{
+WC2ORCACT01Medivh8
+}
+
+STRING 3146
+// Items: IaLt (WC2ORCACT01Medivh9), Tip (Tooltip - Basic)
+{
+Медів
+}
+
+STRING 3147
+// Items: IaLt (WC2ORCACT01Medivh9), Description (Description)
+{
+Що? Ні! Неможливо!
+}
+
+STRING 3148
+// Items: IaLt (WC2ORCACT01Medivh9), Name (Name)
+{
+WC2ORCACT01Medivh9
+}
+
+STRING 3149
+// Items: IaLs (WC2ORCACT01Chogall1), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3150
+// Items: IaLs (WC2ORCACT01Chogall1), Description (Description)
+{
+|cffffcc00Чо:|r Ні Некросе..|n|cffffcc00Ґалл:|r Ми знаємо не більше за тебе...
+}
+
+STRING 3151
+// Items: IaLs (WC2ORCACT01Chogall1), Name (Name)
+{
+WC2ORCACT01Chogall1
+}
+
+STRING 3152
+// Items: IaLr (WC2ORCACT01Chogall2), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3153
+// Items: IaLr (WC2ORCACT01Chogall2), Description (Description)
+{
+|cffffcc00Чо:|r Ви спали, володарю... наче мертві.|n|cffffcc00Ґалл:|r Багато тижнів ви не рухались, а тільки дихали. Ми думали ваш дух було знищено.
+}
+
+STRING 3154
+// Items: IaLr (WC2ORCACT01Chogall2), Name (Name)
+{
+WC2ORCACT01Chogall2
+}
+
+STRING 3155
+// Items: IaLq (WC2ORCACT01Chogall3), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3156
+// Items: IaLq (WC2ORCACT01Chogall3), Description (Description)
+{
+|cffffcc00Чо:|r Чорнорук руйнівник…|n|cffffcc00Ґалл:|r Мертвий, володарю.
+}
+
+STRING 3157
+// Items: IaLq (WC2ORCACT01Chogall3), Name (Name)
+{
+WC2ORCACT01Chogall3
+}
+
+STRING 3158
+// Items: IaLp (WC2ORCACT01Chogall4), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3159
+// Items: IaLp (WC2ORCACT01Chogall4), Description (Description)
+{
+|cffffcc00Чо:|r Він захопив владу, володарю Ґул'дане і напав на «Тіньову раду» поки ви були непритомні.|n|cffffcc00Ґалл:|r Він убив майже усіх... тільки ви, Некрос, Терон'ґор та ми лишились в живих.
+}
+
+STRING 3160
+// Items: IaLp (WC2ORCACT01Chogall4), Name (Name)
+{
+WC2ORCACT01Chogall4
+}
+
+STRING 3161
+// Items: IaLo (WC2ORCACT01Chogall5), Tip (Tooltip - Basic)
+{
+Чо'ґалл
+}
+
+STRING 3162
+// Items: IaLo (WC2ORCACT01Chogall5), Description (Description)
+{
+|cffffcc00Чо:|r Орґрім Молот Згуби...|n|cffffcc00Ґалл:|r Сини Чорнорука присягнули йому на вірність, і Орда визнала його як вождя.
+}
+
+STRING 3164
+// Items: Ial3 (WC2ORCACT01Doomhammer4a), Tip (Tooltip - Basic)
+{
+Орґрім Молот Згуби
+}
+
+STRING 3165
+// Items: Ial3 (WC2ORCACT01Doomhammer4a), Description (Description)
+{
+Ґул'дан розпалив вогонь який вже не зупинити. І цей вогонь пожере весь це свій.
+}
+
+STRING 3166
+// Items: Ial3 (WC2ORCACT01Doomhammer4a), Name (Name)
+{
+WC2ORCACT01Doomhammer4a
+}
+
+STRING 3167
+// Items: IaLJ (WC2ORCACT01Maim12), Name (Name)
+{
+WC2ORCACT01Maim12
+}
+
+STRING 3168
+// Items: IaLo (WC2ORCACT01Chogall5), Name (Name)
+{
+WC2ORCACT01Chogall5
+}
+
+STRING 3169
+// Destructibles: B005 (VT¨_ThroneRoom_Knight Statue), Name (Name)
+{
+VT¨_ThroneRoom_Knight Statue
+}
+
+STRING 3170
+// Destructibles: B006 (VT_ThroneRoom_Windows), Name (Name)
+{
+VT_ThroneRoom_Windows
+}
+
+STRING 3171
+// Doodads: D00K (VT_Throne Collom), Name (Name)
+{
+VT_Throne Collom
+}
+
+STRING 3172
+// Doodads: D00L (VT_throne_collumn), Name (Name)
+{
+VT_throne_collumn
+}
+
+STRING 3173
+// Doodads: D00M (VT_ThroneRoom_Wall Door), Name (Name)
+{
+VT_ThroneRoom_Wall Door
+}
+
+STRING 3174
+// Doodads: D00N (VT_ThroneRoom_detail), Name (Name)
+{
+VT_ThroneRoom_detail
+}
+
+STRING 3175
+// Doodads: D00O (VT_ThroneRoom_Archway Ruined), Name (Name)
+{
+VT_ThroneRoom_Archway Ruined
+}
+
+STRING 3176
+// Doodads: D00P (VT_ThroneRoom)Bench Stone), Name (Name)
+{
+VT_ThroneRoom)Bench Stone
+}
+
+STRING 3177
+// Doodads: D00Q (VT_ThroneRoom_Wall Low (Horizontal)), Name (Name)
+{
+VT_ThroneRoom_Wall Low (Horizontal)
+}
+
+STRING 3178
+// Doodads: D00R (VT_ThroneRoom_Light From Aside), Name (Name)
+{
+VT_ThroneRoom_Light From Aside
+}
+
+STRING 3179
+// Doodads: D00S (VT_Floor_circle), Name (Name)
+{
+VT_Floor_circle
+}
+
+STRING 3180
+// Doodads: D00T (VT_Rocks), Name (Name)
+{
+VT_Rocks
+}
+
+STRING 3181
+// Destructibles: B007 (VT_Barrel), Name (Name)
+{
+VT_Barrel
+}
+
+STRING 3182
+// Destructibles: B008 (DEAD CORPSE), Name (Name)
+{
+DEAD CORPSE
+}
+
+STRING 3183
+// Doodads: D00U (VT_Crates Empty), Name (Name)
+{
+VT_Crates Empty
+}
+
+STRING 3184
+// Doodads: D00V (VT_Table), Name (Name)
+{
+VT_Table
+}
+
+STRING 3185
+// Destructibles: B009 (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3186
+// Destructibles: B009 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Footman Stromgarde)
+}
+
+STRING 3187
+// Doodads: DSTW (DoorArch Throne Room), Name (Name)
+{
+DoorArch Throne Room
+}
+
+STRING 3188
+// Destructibles: BLTA (Lordaeron Spire), Name (Name)
+{
+Lordaeron Spire
+}
+
+STRING 3189
+// Doodads: DCFW (EV_ThroneCielingPlate), Name (Name)
+{
+EV_ThroneCielingPlate
+}
+
+STRING 3190
+// Destructibles: BCSA (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 3191
+// Destructibles: BCSA (City Stairs), EditorSuffix (Editor Suffix)
+{
+(Non Walkable)
+}
+
