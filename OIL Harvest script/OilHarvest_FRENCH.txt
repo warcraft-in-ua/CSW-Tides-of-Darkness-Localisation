@@ -53,14 +53,38 @@ library OilHarvest initializer init uses Table, ListT, TimerUtils, IsUnitContruc
 */
 
 globals
+
     // TEXT TO TRANSLATE
+
+    // The oil patch is running low [TEXT 1 OF 9]
     private constant string LOW_WARNING_MESSAGE = "Le puits de pétrole est presque épuisé"
+
+    // Oil patch is depleted [TEXT 2 OF 9]
     private constant string DEPLETED_WARNING_MESSAGE = "|c00FF7F00Le puits de pétrole est épuisé|r"
+
+    // Deliver Oil [TEXT 3 OF 9]
     private constant string TXT_COLLECTOR_ABIL_NAME_FULL = "Livrer le pétrole"
+
+    // Return the Oil to the nearest Shipyard. [TEXT 4 OF 9]
     private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_FULL = "Rapporter le pétrole au chantier naval le plus proche."
+
+    // Oil is gathered from Oil Patches. [TEXT 5 OF 9]
     private constant string TXT_WHERE_GET_OIL = "Le pétrole se récolte dans les puits de pétrole."
+
+    // Oil: [TEXT 6 OF 9]
     private constant string TXT_OIL_LOCALISATION_NAME = "Pétrole: "
+
+    // Oil: 0 [TEXT 7 OF 9]
     private constant string TXT_OIL_ZERO = "Pétrole: 0"
+
+    // Gather Oil [TEXT 8 OF 9]
+    private constant string TXT_COLLECTOR_ABIL_NAME_EMPTY = "Récolter du pétrole"
+
+    // Collect Oil from Oil Rigs. [TEXT 9 OF 9]
+    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Récupérer le pétrole depuis les plate-formes pétrolières."
+    
+    // END TEXT TO TRANSLATE
+
         
     // Parameters
     private constant boolean USE_TEXT_TAGS = false
@@ -147,12 +171,12 @@ globals
             constant string COLLECTOR_ABIL_ICON_EMPTY = "ReplaceableTextures\\CommandButtons\\BTNGatherGold.dds"
 
             // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip (Name).
-             constant string COLLECTOR_ABIL_NAME_EMPTY = "Збирати нафту"
+             constant string COLLECTOR_ABIL_NAME_EMPTY = TXT_COLLECTOR_ABIL_NAME_EMPTY
 
             //string COLLECTOR_ABIL_NAME_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
 
             // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip Extended (Description).
-            constant string COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Вибудовувати нафту з нафтових родовищ."
+            constant string COLLECTOR_ABIL_DESCRIPTION_EMPTY = TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY
 
             //string COLLECTOR_ABIL_DESCRIPTION_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
 

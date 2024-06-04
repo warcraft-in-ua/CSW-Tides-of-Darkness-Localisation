@@ -54,15 +54,34 @@ library OilHarvest initializer init uses Table, ListT, TimerUtils, IsUnitContruc
 
 globals
     // TEXT TO TRANSLATE
+
+    // The oil patch is running low [TEXT 1 OF 9]
     private constant string LOW_WARNING_MESSAGE = "Нафтове родовище майже вичерпано"
+
+    // Oil patch is depleted [TEXT 2 OF 9]
     private constant string DEPLETED_WARNING_MESSAGE = "|c00FF7F00Нафтове родовище вичерпано|r"
+
+    // Deliver Oil [TEXT 3 OF 9]
     private constant string TXT_COLLECTOR_ABIL_NAME_FULL = "Доставити нафту"
+
+    // Return the Oil to the nearest Shipyard. [TEXT 4 OF 9]
     private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_FULL = "Відвезти нафту у найближчу точку здачі."
+
+    // Oil is gathered from Oil Patches. [TEXT 5 OF 9]
     private constant string TXT_WHERE_GET_OIL = "Нафта видобувається з нафтових родовищ у воді."
+
+    // Oil: [TEXT 6 OF 9]
     private constant string TXT_OIL_LOCALISATION_NAME = "Нафта: "
+
+    // Oil: 0 [TEXT 7 OF 9]
     private constant string TXT_OIL_ZERO = "Нафта: 0"
+
+    // Gather Oil [TEXT 8 OF 9]
     private constant string TXT_COLLECTOR_ABIL_NAME_EMPTY = "Збирати нафту"
+
+    // Collect Oil from Oil Rigs. [TEXT 9 OF 9]
     private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Вибудовувати нафту з нафтових родовищ."
+    
     // END TEXT TO TRANSLATE
             
     // Parameters

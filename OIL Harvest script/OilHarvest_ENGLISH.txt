@@ -54,15 +54,34 @@ library OilHarvest initializer init uses Table, ListT, TimerUtils, IsUnitContruc
 
 globals
     // TEXT TO TRANSLATE
+
+    //[TEXT 1 OF 9]
     private constant string LOW_WARNING_MESSAGE = "The oil patch is running low"
+
+    //[TEXT 2 OF 9]
     private constant string DEPLETED_WARNING_MESSAGE = "|c00FF7F00Oil patch is depleted|r"
+
+    //[TEXT 3 OF 9]
     private constant string TXT_COLLECTOR_ABIL_NAME_FULL = "Deliver Oil"
+
+    //[TEXT 4 OF 9]
     private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_FULL = "Return the Oil to the nearest Shipyard."
+
+    //[TEXT 5 OF 9]
     private constant string TXT_WHERE_GET_OIL = "Oil is gathered from Oil Patches."
+
+    //[TEXT 6 OF 9]
     private constant string TXT_OIL_LOCALISATION_NAME = "Oil: "
+    
+    //[TEXT 7 OF 9]
     private constant string TXT_OIL_ZERO = "Oil: 0"
+
+    //[TEXT 8 OF 9]
     private constant string TXT_COLLECTOR_ABIL_NAME_EMPTY = "Gather Oil"
+
+    //[TEXT 9 OF 9]
     private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Collect Oil from Oil Rigs."
+    
     // END TEXT TO TRANSLATE
         
     // Parameters
