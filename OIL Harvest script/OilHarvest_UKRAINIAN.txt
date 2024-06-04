@@ -62,6 +62,7 @@ globals
     private constant string TXT_OIL_LOCALISATION_NAME = "Нафта: "
     private constant string TXT_OIL_ZERO = "Нафта: 0"
     private constant string TXT_COLLECTOR_ABIL_NAME_EMPTY = "Збирати нафту"
+    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Вибудовувати нафту з нафтових родовищ."
     // END TEXT TO TRANSLATE
             
     // Parameters
@@ -154,7 +155,7 @@ globals
             //string COLLECTOR_ABIL_NAME_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
 
             // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip Extended (Description).
-            constant string COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Вибудовувати нафту з нафтових родовищ."
+            constant string COLLECTOR_ABIL_DESCRIPTION_EMPTY = TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY
 
             //string COLLECTOR_ABIL_DESCRIPTION_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
 
