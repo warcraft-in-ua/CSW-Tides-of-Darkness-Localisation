@@ -61,6 +61,8 @@ globals
     private constant string TXT_WHERE_GET_OIL = "Нафта видобувається з нафтових родовищ у воді."
     private constant string TXT_OIL_LOCALISATION_NAME = "Нафта: "
     private constant string TXT_OIL_ZERO = "Нафта: 0"
+    private constant string TXT_COLLECTOR_ABIL_NAME_EMPTY = "Збирати нафту"
+    // END TEXT TO TRANSLATE
             
     // Parameters
     private constant boolean USE_TEXT_TAGS = false
@@ -147,7 +149,7 @@ globals
             constant string COLLECTOR_ABIL_ICON_EMPTY = "ReplaceableTextures\\CommandButtons\\BTNGatherGold.dds"
 
             // When the Collector has no Oil, the COLLECTOR_ACTION_ABIL will have this Tooltip (Name).
-             constant string COLLECTOR_ABIL_NAME_EMPTY = "Збирати нафту"
+             constant string COLLECTOR_ABIL_NAME_EMPTY = TXT_COLLECTOR_ABIL_NAME_EMPTY
 
             //string COLLECTOR_ABIL_NAME_EMPTY = BlzGetAbilityTooltip ('A60Y', 1)
 
