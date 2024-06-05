@@ -1,0 +1,3346 @@
+﻿STRING 1
+{
+WC2Orc08S
+}
+
+STRING 2
+{
+失落之章II：辛特兰
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 8
+{
+洛丹伦王国
+}
+
+STRING 9
+{
+邪枝部族
+}
+
+STRING 10
+{
+蛮锤村民
+}
+
+STRING 11
+{
+高等精灵
+}
+
+STRING 12
+{
+枯木部族
+}
+
+STRING 13
+{
+部落
+}
+
+STRING 14
+{
+联盟
+}
+
+STRING 20
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 21
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 24
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 25
+// Units: Hblm (Elven Mage), Name (Name)
+{
+精灵法师
+}
+
+STRING 26
+// Units: nchp (Magistrate), Name (Name)
+{
+镇长
+}
+
+STRING 27
+// Destructibles: B004 (Cage), Name (Name)
+{
+牢笼
+}
+
+STRING 67
+// Units: e601 (Ballista), Name (Name)
+{
+弩车
+}
+
+STRING 102
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 123
+// Units: n604 (Axe Thrower), Name (Name)
+{
+掷斧者
+}
+
+STRING 124
+// Units: n604 (Axe Thrower), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 125
+// Units: n604 (Axe Thrower), EditorSuffix (Name - Editor Suffix)
+{
+(WIldhammer)
+}
+
+STRING 126
+// Units: n604 (Axe Thrower), Tip (Tooltip - Basic)
+{
+训练掷斧者
+}
+
+STRING 127
+// Units: n604 (Axe Thrower), Ubertip (Tooltip - Extended)
+{
+轻型远程单位。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 136
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+建造火炮
+}
+
+STRING 137
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+强大的远程火炮，但移动缓慢且易被摧毁。|n|n|cffffcc00能攻击地面单位和树木。|r
+}
+
+STRING 162
+// Units: n60C (Scout Post), Name (Name)
+{
+侦察哨站
+}
+
+STRING 163
+// Units: n60C (Scout Post), Tip (Tooltip - Basic)
+{
+侦察哨站
+}
+
+STRING 164
+// Units: n60C (Scout Post), Description (Description)
+{
+兽人侦察哨站
+}
+
+STRING 221
+// Units: o60A (Wildhammer Catapult), Name (Name)
+{
+蛮锤投石车
+}
+
+STRING 222
+// Units: o60A (Wildhammer Catapult), Tip (Tooltip - Basic)
+{
+训练投石车
+}
+
+STRING 261
+// Units: h626 (Watch Tower), Ubertip (Tooltip - Extended)
+{
+主要防御建筑。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 431
+// Units: n60V (Duck), Name (Name)
+{
+鸭子
+}
+
+STRING 432
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+就是只野鸭
+}
+
+STRING 433
+// Units: h61K (Judicator), Name (Name)
+{
+仲裁者
+}
+
+STRING 434
+// Units: h61K (Judicator), Tip (Tooltip - Basic)
+{
+训练仲裁者
+}
+
+STRING 435
+// Units: h61N (Aviary), EditorSuffix (Name - Editor Suffix)
+{
+(High Elf)
+}
+
+STRING 436
+// Units: h003 (Engineer), EditorSuffix (Name - Editor Suffix)
+{
+(High Elf)
+}
+
+STRING 437
+// Units: h61N (Aviary), Name (Name)
+{
+龙鹰巢
+}
+
+STRING 441
+// Units: o61I (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 442
+// Units: o61J (Spirit Lodge), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 443
+// Units: o61K (Voodoo Altar), Name (Name)
+{
+巫毒祭坛
+}
+
+STRING 444
+// Units: o61L (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 449
+// Units: h61R (Orcish Stone Wall), Name (Name)
+{
+兽人石墙
+}
+
+STRING 461
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+尖刺护墙
+}
+
+STRING 462
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+尖刺护墙
+}
+
+STRING 471
+// Units: h620 (Tent), Name (Name)
+{
+帐篷
+}
+
+STRING 472
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+帐篷
+}
+
+STRING 473
+// Units: h621 (Tent), Name (Name)
+{
+帐篷
+}
+
+STRING 474
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+帐篷
+}
+
+STRING 475
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 524
+// Units: n60Q (Beastlair), Name (Name)
+{
+兽穴
+}
+
+STRING 525
+// Units: n60Q (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Barrens SE)
+}
+
+STRING 526
+// Units: n610 (Beastlair), Name (Name)
+{
+兽穴
+}
+
+STRING 527
+// Units: n610 (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Barrens SW)
+}
+
+STRING 529
+// Units: h60F (Human Cannon), Name (Name)
+{
+人类火炮
+}
+
+STRING 544
+// Units: n60Y (Raven), Name (Name)
+{
+渡鸦
+}
+
+STRING 553
+// Units: n60Z (Spiders), Name (Name)
+{
+蜘蛛
+}
+
+STRING 554
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+蜘蛛
+}
+
+STRING 555
+// Units: h60T (Clansman), Name (Name)
+{
+族人
+}
+
+STRING 556
+// Units: h60T (Clansman), EditorSuffix (Name - Editor Suffix)
+{
+(Wild Hammer)
+}
+
+STRING 557
+// Units: h60T (Clansman), Tip (Tooltip - Basic)
+{
+训练族人
+}
+
+STRING 558
+// Units: h60T (Clansman), Ubertip (Tooltip - Extended)
+{
+面面俱到的步兵。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 566
+// Units: h61I (Stonemason), Name (Name)
+{
+石匠
+}
+
+STRING 567
+// Units: h61I (Stonemason), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 568
+// Units: h61I (Stonemason), Tip (Tooltip - Basic)
+{
+训练石匠
+}
+
+STRING 569
+// Units: h61I (Stonemason), Ubertip (Tooltip - Extended)
+{
+基本工人单位。能采集黄金和木材，还能建造建筑和进行修理。|n|n|cffffcc00能攻击地面单位和树木。|r
+}
+
+STRING 574
+// Units: e60G (Hermit), Name (Name)
+{
+隐士
+}
+
+STRING 575
+// Units: e60G (Hermit), EditorSuffix (Name - Editor Suffix)
+{
+ (Dwarf Form)
+}
+
+STRING 576
+// Units: e60G (Hermit), Tip (Tooltip - Basic)
+{
+训练隐士
+}
+
+STRING 577
+// Units: e60H (Wildhammer Druid), Name (Name)
+{
+蛮锤德鲁伊
+}
+
+STRING 578
+// Units: e60H (Wildhammer Druid), EditorSuffix (Name - Editor Suffix)
+{
+ (Owlbear Form)
+}
+
+STRING 579
+// Units: e60K (Stormcaller), Name (Name)
+{
+风暴召唤者
+}
+
+STRING 580
+// Units: e60K (Stormcaller), Tip (Tooltip - Basic)
+{
+训练风暴召唤者
+}
+
+STRING 581
+// Units: e60K (Stormcaller), Ubertip (Tooltip - Extended)
+{
+灵活的施法单位。初始技能为精灵之火，能够降低敌方单位的护甲并获得其视野。还可学习季风和飓风术。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 582
+// Units: e60K (Stormcaller), Casterupgradetip (Caster Upgrade Tips)
+{
+- 精灵之火,- 精灵之火|n- 季风,- 精灵之火|n- 季风|n- 飓风术
+}
+
+STRING 595
+// Units: n007 (Wolf), Name (Name)
+{
+狼
+}
+
+STRING 623
+// Units: h61V (Thane), Name (Name)
+{
+领主
+}
+
+STRING 624
+// Units: h61V (Thane), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 649
+// Units: h618 (Pack Ram), Name (Name)
+{
+背负行囊的山羊
+}
+
+STRING 650
+// Units: n61O (Wild Ram), Name (Name)
+{
+野山羊
+}
+
+STRING 651
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gray)
+}
+
+STRING 652
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+被激怒的山羊
+}
+
+STRING 653
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+野山羊。可能很危险！
+}
+
+STRING 654
+// Units: n61P (Wild Ram), Name (Name)
+{
+野山羊
+}
+
+STRING 655
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Black)
+}
+
+STRING 656
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+被激怒的山羊
+}
+
+STRING 657
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+野山羊。可能很危险！
+}
+
+STRING 658
+// Units: n61Q (Wild Ram), Name (Name)
+{
+野山羊
+}
+
+STRING 659
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Brown)
+}
+
+STRING 660
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+祈唤山羊
+}
+
+STRING 661
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+野山羊。可能很危险！
+}
+
+STRING 676
+// Units: h60A (Longhouse), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 677
+// Units: h60A (Longhouse), Name (Name)
+{
+长屋
+}
+
+STRING 678
+// Units: h60A (Longhouse), Tip (Tooltip - Basic)
+{
+建造长屋
+}
+
+STRING 679
+// Units: h60A (Longhouse), Ubertip (Tooltip - Extended)
+{
+主要部队生产建筑。能训练族人，掷斧者和投石车。
+}
+
+STRING 680
+// Units: h61L (Lumber Mill), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 681
+// Units: h61M (Forge), Name (Name)
+{
+熔炉
+}
+
+STRING 682
+// Units: h624 (Forge), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 683
+// Units: h626 (Watch Tower), Name (Name)
+{
+了望塔
+}
+
+STRING 685
+// Units: h626 (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 686
+// Units: h626 (Watch Tower), Tip (Tooltip - Basic)
+{
+建造了望塔
+}
+
+STRING 687
+// Units: h629 (Hinterlands Den), Name (Name)
+{
+辛特兰地穴
+}
+
+STRING 688
+// Units: h629 (Hinterlands Den), EditorSuffix (Name - Editor Suffix)
+{
+(WIldhammer)
+}
+
+STRING 689
+// Units: h629 (Hinterlands Den), Tip (Tooltip - Basic)
+{
+建造辛特兰地穴
+}
+
+STRING 690
+// Units: h62B (Mead Hall), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 691
+// Units: h62A (Cottage), Name (Name)
+{
+农舍
+}
+
+STRING 692
+// Units: h62A (Cottage), Tip (Tooltip - Basic)
+{
+建造农舍
+}
+
+STRING 693
+// Units: h62C (Highland Manor), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 694
+// Units: h62B (Mead Hall), Name (Name)
+{
+蜜酒大厅
+}
+
+STRING 695
+// Units: h62B (Mead Hall), Tip (Tooltip - Basic)
+{
+建造蜜酒大厅
+}
+
+STRING 696
+// Units: h62G (Aerie Keep), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 697
+// Units: h62C (Highland Manor), Name (Name)
+{
+高地庄园
+}
+
+STRING 698
+// Units: h62C (Highland Manor), Tip (Tooltip - Basic)
+{
+升级到高地庄园
+}
+
+STRING 699
+// Units: h62C (Highland Manor), Ubertip (Tooltip - Extended)
+{
+升级到高地庄园以解锁更多新建筑和单位。
+}
+
+STRING 700
+// Units: n61N (Cottage), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 701
+// Units: h62G (Aerie Keep), Name (Name)
+{
+鹰巢要塞
+}
+
+STRING 702
+// Units: h62G (Aerie Keep), Tip (Tooltip - Basic)
+{
+升级到鹰巢要塞
+}
+
+STRING 703
+// Units: h62G (Aerie Keep), Ubertip (Tooltip - Extended)
+{
+升级到鹰巢要塞以解锁更多新建筑和单位。
+}
+
+STRING 704
+// Units: n61N (Cottage), Name (Name)
+{
+农舍
+}
+
+STRING 705
+// Units: n61R (Tavern), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 706
+// Units: n61R (Tavern), Name (Name)
+{
+酒馆
+}
+
+STRING 708
+// Units: n61S (Amanishi Guardian), Name (Name)
+{
+阿曼尼守护者
+}
+
+STRING 709
+// Units: n61S (Amanishi Guardian), Tip (Tooltip - Basic)
+{
+雇佣阿曼尼守护者
+}
+
+STRING 722
+// Units: n61T (Gryphon), Name (Name)
+{
+狮鹫
+}
+
+STRING 723
+// Units: n61T (Gryphon), Tip (Tooltip - Basic)
+{
+召唤狮鹫
+}
+
+STRING 724
+// Units: n61T (Gryphon), EditorSuffix (Name - Editor Suffix)
+{
+(no rider)
+}
+
+STRING 795
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+油桶
+}
+
+STRING 816
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 817
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 818
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+油桶
+}
+
+STRING 819
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 825
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 827
+// Destructibles: B60J (Vines), Name (Name)
+{
+藤蔓
+}
+
+STRING 830
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Cavern
+}
+
+STRING 831
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+石墙
+}
+
+STRING 835
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 836
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 837
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 854
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+古棺
+}
+
+STRING 856
+// Destructibles: B62T (Egg), Name (Name)
+{
+蛋
+}
+
+STRING 861
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 862
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 865
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 868
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 878
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 879
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 880
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 881
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 884
+// Destructibles: B60U (Chest), Name (Name)
+{
+木箱
+}
+
+STRING 885
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 886
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 887
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 888
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+AllianceBanner
+}
+
+STRING 889
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 890
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 894
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 899
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 900
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 901
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 903
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 904
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variations)
+}
+
+STRING 931
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 932
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 933
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 934
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 935
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+DarkCliff
+}
+
+STRING 936
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 937
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+DarkCliffSmall
+}
+
+STRING 938
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 947
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 948
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 949
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 950
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 951
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 952
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 953
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 954
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 955
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 970
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 971
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 979
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 983
+// Doodads: D647 (Vines Poisoned), Name (Name)
+{
+Vines Poisoned
+}
+
+STRING 987
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 988
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 989
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 995
+// Doodads: D69B (Cloud), Name (Name)
+{
+Cloud
+}
+
+STRING 1000
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Star leaves
+}
+
+STRING 1012
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1013
+// Doodads: D6AD (Fog), Name (Name)
+{
+Fog
+}
+
+STRING 1018
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Wasteland Bush
+}
+
+STRING 1036
+// Doodads: D6BL (Gold), Name (Name)
+{
+Gold
+}
+
+STRING 1042
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Glow Small
+}
+
+STRING 1046
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Circle of Power
+}
+
+STRING 1049
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1050
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1051
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1056
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1057
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1058
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1059
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1060
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1061
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1096
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1098
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1100
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Winter Crate snow
+}
+
+STRING 1104
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1105
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1126
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1127
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1134
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1135
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1136
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1137
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1150
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 1151
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 1152
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 1153
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 1154
+// Doodads: D60M (Wildhammer Well), Name (Name)
+{
+Wildhammer Well
+}
+
+STRING 1155
+// Doodads: D61B (Wildhammer Post), Name (Name)
+{
+Wildhammer Post
+}
+
+STRING 1156
+// Doodads: D61C (Gryphon Shed), Name (Name)
+{
+Gryphon Shed
+}
+
+STRING 1158
+// Doodads: D61G (Wildhammer Banner), Name (Name)
+{
+Wildhammer Banner
+}
+
+STRING 1908
+// Abilities: A600 (Beast Form), Name (Name)
+{
+野兽形态
+}
+
+STRING 1909
+// Abilities: A600 (Beast Form), Tip (Tooltip - Normal)
+{
+野兽形态
+}
+
+STRING 1910
+// Abilities: A600 (Beast Form), Ubertip (Tooltip - Normal - Extended)
+{
+让德鲁伊变为枭兽，法力恢复速度降低，但会使其变成一名强大的战士。
+}
+
+STRING 1911
+// Abilities: A600 (Beast Form), Unubertip (Tooltip - Turn Off - Extended)
+{
+让德鲁伊变回矮人形态。
+}
+
+STRING 2341
+{
+建造更多的农场来继续生产单位。,建造更多的猪圈来继续生产单位。,召唤更多的通灵塔来继续生产单位。,创造更多的月亮井来继续生产单位。
+}
+
+STRING 2342
+{
+不能使用原油钻机。
+}
+
+STRING 2343
+{
+该油田已被使用。
+}
+
+STRING 2344
+{
+必须先建造原油钻机。
+}
+
+STRING 2345
+{
+必须以油田为目标。
+}
+
+STRING 2346
+{
+必须建造在油田上。
+}
+
+STRING 2347
+{
+你可以在大厅复活你的英雄。
+}
+
+STRING 2348
+// Destructibles: B000 (Fence short), Name (Name)
+{
+短栅栏
+}
+
+STRING 2349
+// Destructibles: B001 (Fence short), Name (Name)
+{
+短栅栏
+}
+
+STRING 2350
+// Destructibles: B002 (Fence), Name (Name)
+{
+栅栏
+}
+
+STRING 2351
+// Destructibles: B003 (Fence), Name (Name)
+{
+栅栏
+}
+
+STRING 2353
+// Destructibles: B005 (Huge PB (both)), Name (Name)
+{
+Huge PB (both)
+}
+
+STRING 2354
+// Destructibles: B006 (Huge PB (Ground)), Name (Name)
+{
+Huge PB (Ground)
+}
+
+STRING 2355
+// Destructibles: B007 (medium PB (ground)), Name (Name)
+{
+medium PB (ground)
+}
+
+STRING 2356
+{
+黑石氏族
+}
+
+STRING 2357
+{
+蛮锤氏族
+}
+
+STRING 2358
+{
+蛮锤定居者
+}
+
+STRING 2359
+// Destructibles: B008 (Huge PB (Ground)), Name (Name)
+{
+Huge PB (Ground)
+}
+
+STRING 2360
+// Destructibles: B009 (Huge PB (Ground)), Name (Name)
+{
+Huge PB (Ground)
+}
+
+STRING 2361
+// Doodads: D000 (Elven Wall), Name (Name)
+{
+Elven Wall
+}
+
+STRING 2362
+// Doodads: D001 (Elven Wall), Name (Name)
+{
+Elven Wall
+}
+
+STRING 2363
+// Doodads: D002 (Elven Wall (light)), Name (Name)
+{
+Elven Wall (light)
+}
+
+STRING 2364
+// Doodads: D003 (Rock Archway), Name (Name)
+{
+Rock Archway
+}
+
+STRING 2365
+// Doodads: D004 (Elven Wall (light)), Name (Name)
+{
+Elven Wall (light)
+}
+
+STRING 2366
+// Doodads: D005 (Elven Wall (light)), Name (Name)
+{
+Elven Wall (light)
+}
+
+STRING 2367
+// Doodads: D006 (Fearies), Name (Name)
+{
+Fearies
+}
+
+STRING 2368
+// Doodads: D007 (Elven Statue), Name (Name)
+{
+精灵雕像
+}
+
+STRING 2434
+{
+|cffffcc00主要任务更新|r
+焦土政策
+  -|cff808080 摧毁蛮锤定居点 (完成)|r
+  -|cff808080 在联盟到达前完成任务 (完成)|r
+  - 做好防御联盟的准备
+}
+
+STRING 2444
+{
+|cffffcc00主要任务完成|r
+三趾多灾
+}
+
+STRING 2445
+{
+黑石囚犯
+}
+
+STRING 2503
+// Units: n006 (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Special)
+}
+
+STRING 2504
+// Units: h003 (Engineer), Name (Name)
+{
+工程师
+}
+
+STRING 2534
+{
+|cffffcc00可选任务|r
+精灵败类
+  - 摧毁奎尔丹尼小屋
+}
+
+STRING 2544
+{
+|cffffcc00可选任务完成|r
+斩草除根
+}
+
+STRING 2552
+{
+|cffffcc00可选任务|r
+多趾多福！
+  - 召集剩下的巨魔(已召集0/2)
+}
+
+STRING 2554
+{
+|cffffcc00可选任务更新|r
+多趾多福！
+  - 召集剩下的巨魔(已召集1/2)
+}
+
+STRING 2557
+{
+|cffffcc00可选任务完成|r
+多趾多福！
+}
+
+STRING 2559
+// Units: n60W (Troll Farm), Name (Name)
+{
+巨魔农场
+}
+
+STRING 2560
+// Units: n60X (Troll Farm), Name (Name)
+{
+巨魔农场
+}
+
+STRING 2612
+{
+|cffffcc00主要任务完成|r
+铁血兽人
+}
+
+STRING 2616
+{
+|cffffcc00主要任务失败|r
+三趾多灾
+}
+
+STRING 2625
+{
+|cffffcc00可选任务|r
+斩草除根
+  - 摧毁矮人隐世村落
+}
+
+STRING 2637
+{
+|cffffcc00可选任务失败|r
+多趾多福！
+}
+
+STRING 2653
+{
+|cffffcc00主要任务更新|r
+铁血兽人
+  -|cff808080 在奥格瑞姆和祖尔金返回基地前拖住联盟 (完成)|r
+  - 你的主基地不能被摧毁
+  - 在地精炸毁山隘前拖住联盟
+}
+
+STRING 2658
+{
+在地精炸毁山隘前拖住联盟
+}
+
+STRING 2659
+{
+在准备好撤退前拖住联盟！
+}
+
+STRING 2661
+// Units: h62A (Cottage), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer Small)
+}
+
+STRING 2673
+// Destructibles: B00A (Rock Chunks Rubble), Name (Name)
+{
+Rock Chunks Rubble
+}
+
+STRING 2678
+{
+|cffffcc00任务失败|r
+}
+
+STRING 2680
+{
+|cffffcc00主要任务失败|r
+你的主基地被摧毁了。
+}
+
+STRING 2681
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2682
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2683
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2684
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2685
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2687
+// Units: n007 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Doomhammer)
+}
+
+STRING 2693
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2696
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2697
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2698
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2699
+{
+|cffffff00跳舞时间到！|r
+}
+
+STRING 2709
+// Units: htow (Villa), Name (Name)
+{
+宅邸
+}
+
+STRING 2711
+// Units: hkee (Chateau), Name (Name)
+{
+城堡
+}
+
+STRING 2712
+// Units: hkee (Chateau), Tip (Tooltip - Basic)
+{
+升级到城堡
+}
+
+STRING 2713
+// Units: hcas (Palace), Name (Name)
+{
+宫殿
+}
+
+STRING 2714
+// Units: hcas (Palace), Tip (Tooltip - Basic)
+{
+升级到宫殿
+}
+
+STRING 2715
+// Units: nefm (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2716
+// Units: nef4 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2717
+// Units: nef0 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2718
+// Units: nef1 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2719
+// Units: nef2 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2720
+// Units: nef3 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2721
+// Units: nef5 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2722
+// Units: nef6 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2723
+// Units: nef7 (High Elven Manor), Name (Name)
+{
+高等精灵庄园
+}
+
+STRING 2724
+// Units: edob (Quel'Danil Lodge), Name (Name)
+{
+奎尔丹尼小屋
+}
+
+STRING 2725
+// Units: edob (Quel'Danil Lodge), Tip (Tooltip - Basic)
+{
+建造奎尔丹尼小屋
+}
+
+STRING 2726
+// Destructibles: B00B (Snowpile Flat), Name (Name)
+{
+Snowpile Flat
+}
+
+STRING 2728
+// Units: h004 (Tent), Name (Name)
+{
+帐篷
+}
+
+STRING 2729
+// Units: h004 (Tent), Tip (Tooltip - Basic)
+{
+帐篷
+}
+
+STRING 2730
+// Units: h004 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade No Pathing)
+}
+
+STRING 2731
+// Units: h005 (Tent), Name (Name)
+{
+帐篷
+}
+
+STRING 2732
+// Units: h005 (Tent), Tip (Tooltip - Basic)
+{
+帐篷
+}
+
+STRING 2733
+// Units: h005 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(No Pathing)
+}
+
+STRING 2737
+{
+摧毁蛮锤定居点
+}
+
+STRING 2740
+{
+召集巨魔营地
+}
+
+STRING 2742
+{
+召集剩下的巨魔(已召集1/2)
+}
+
+STRING 2743
+// Units: n008 (Forest Troll Trapper), EditorSuffix (Name - Editor Suffix)
+{
+(Entourage)
+}
+
+STRING 2746
+{
+巨魔战士
+}
+
+STRING 2761
+{
+|cffffcc00主要任务失败|r
+你的军队被击败了。
+}
+
+STRING 2762
+// Destructibles: B00C (Barrel with Explosives), Name (Name)
+{
+炸药桶
+}
+
+STRING 2763
+{
+邪祟
+}
+
+STRING 2787
+// Units: ntrs (Turtle), Name (Name)
+{
+乌龟
+}
+
+STRING 2788
+// Units: ntrs (Turtle), Tip (Tooltip - Basic)
+{
+海龟
+}
+
+STRING 2789
+// Units: ntrh (Turtle Hatchling), Name (Name)
+{
+乌龟幼崽
+}
+
+STRING 2790
+// Units: ntrh (Turtle Hatchling), Tip (Tooltip - Basic)
+{
+雇佣乌龟幼崽
+}
+
+STRING 2814
+{
+召集剩下的巨魔
+}
+
+STRING 2818
+// Units: h006 (Visibility Controller), Name (Name)
+{
+Visibility Controller
+}
+
+STRING 2819
+// Units: ocat (Troll Ballista), Name (Name)
+{
+巨魔弩车
+}
+
+STRING 2820
+// Units: ocat (Troll Ballista), Tip (Tooltip - Basic)
+{
+建造巨魔弩车
+}
+
+STRING 2821
+// Destructibles: B00D (Railways), Name (Name)
+{
+Railways
+}
+
+STRING 2822
+// Units: n009 (Eagle), Name (Name)
+{
+鹰
+}
+
+STRING 2930
+{
+One
+}
+
+STRING 2931
+// Units: hbot (Fishing Boat), Name (Name)
+{
+渔船
+}
+
+STRING 2932
+// Units: hbot (Fishing Boat), Tip (Tooltip - Basic)
+{
+建造渔船
+}
+
+STRING 2943
+{
+黑石氏族
+}
+
+STRING 2952
+{
+迦罗娜
+}
+
+STRING 2953
+{
+我可以做的像一场事故……
+}
+
+STRING 2954
+{
+迦罗娜
+}
+
+STRING 2955
+{
+我发现人类指挥官和念咒的看上我了，必须离这俩变态远点！
+}
+
+STRING 2956
+{
+迦罗娜
+}
+
+STRING 2957
+{
+有朝一日，我终得自由，远离兽人、远离恶魔、远离死亡。
+}
+
+STRING 2958
+{
+迦罗娜
+}
+
+STRING 2959
+{
+我的主人如流水，起码新来的不会精神控制。
+}
+
+STRING 2960
+// Doodads: D008 (Gryphon Shed (Pathless)), Name (Name)
+{
+Gryphon Shed (Pathless)
+}
+
+STRING 2961
+{
+焦土政策
+}
+
+STRING 2962
+{
+安度因·洛萨正在向此地进军，不久就将抵达。要想确保大酋长的计划成功实施，你就必须赶在联盟到来前消灭该地区的每一处矮人定居点。
+}
+
+STRING 2963
+{
+摧毁蛮锤定居点(已摧毁0/3)
+}
+
+STRING 2964
+{
+三趾多灾
+}
+
+STRING 2965
+{
+此地的巨魔战士对我们的事业大有用处。尽可能多地帮助祖尔金召集他们——进军银月城之日，就是他们的用武之时。
+}
+
+STRING 2966
+{
+召集巨魔营地(已召集0/3)
+}
+
+STRING 2967
+{
+多趾多福！
+}
+
+STRING 2968
+{
+不要给奎尔萨拉斯留一点儿机会！召集这片区域的所有巨魔，让祖尔金能以全力出击！
+}
+
+STRING 2969
+{
+召集剩下的巨魔(已召集0/2)
+}
+
+STRING 2970
+{
+精灵败类
+}
+
+STRING 2971
+{
+摧毁奎尔丹尼小屋，阻止精灵威胁你的任务。
+}
+
+STRING 2972
+{
+摧毁奎尔丹尼小屋
+}
+
+STRING 2973
+{
+|cffffcc00主要任务|r
+焦土政策
+  - 摧毁蛮锤定居点(已摧毁0/3)
+  - 在联盟到达前完成任务
+}
+
+STRING 2975
+{
+距联盟抵达
+}
+
+STRING 2976
+{
+在联盟到达前完成任务
+}
+
+STRING 2977
+{
+斩草除根
+}
+
+STRING 2978
+{
+把矮人的历史文物烧个精光！
+}
+
+STRING 2979
+{
+摧毁矮人隐世村落
+}
+
+STRING 2980
+{
+在联盟到达前完成任务
+}
+
+STRING 2981
+{
+|cffffcc00主要任务|r
+三趾多灾
+  - 召集巨魔营地(已召集0/3)
+  - 在联盟到达前完成任务
+}
+
+STRING 2982
+{
+|cffffcc00可选任务完成|r
+精灵败类
+}
+
+STRING 2983
+{
+铁血兽人
+}
+
+STRING 2984
+{
+联盟已经抵达——坚守阵线，直至大酋长和战士们安全撤离！不要心慈，不要手软，Lok'tar Ogar！
+}
+
+STRING 2985
+{
+在奥格瑞姆和祖尔金返回基地前拖住联盟
+}
+
+STRING 2986
+{
+你的主基地不能被摧毁
+}
+
+STRING 2987
+{
+|cffffcc00主要任务|r
+铁血兽人
+  - 在奥格瑞姆和祖尔金返回基地前拖住联盟
+  - 你的主基地不能被摧毁
+}
+
+STRING 2988
+{
+一座巨魔村庄被肃清了。
+}
+
+STRING 2989
+{
+一座巨魔村庄被肃清了。
+}
+
+STRING 2990
+{
+一座巨魔村庄被肃清了。
+}
+
+STRING 2991
+{
+一座巨魔村庄被肃清了。
+}
+
+STRING 2992
+{
+一座巨魔村庄被肃清了。
+}
+
+STRING 2993
+{
+扼守山隘
+}
+
+STRING 2995
+{
+|cff32cd32提示|r
+伊崔格现在由你控制，以填补毁灭之锤和祖尔金的空缺。
+}
+
+STRING 2996
+{
+|cffffcc00主要任务失败|r
+乔迁之喜
+}
+
+STRING 2999
+{
+做好防御联盟的准备
+}
+
+STRING 3000
+{
+|cffffcc00主要任务完成|r
+焦土政策
+}
+
+STRING 3004
+// Items: I0L0 (WC2Orc08SDoomhammer1), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3005
+// Items: I0L0 (WC2Orc08SDoomhammer1), Description (Description)
+{
+干得好，萨贝克。
+}
+
+STRING 3006
+// Items: I0L0 (WC2Orc08SDoomhammer1), Name (Name)
+{
+WC2Orc08SDoomhammer1
+}
+
+STRING 3007
+// Items: I0L1 (WC2Orc08SDoomhammer2), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3008
+// Items: I0L1 (WC2Orc08SDoomhammer2), Description (Description)
+{
+耐心点，雷德。现在，都听好了。
+}
+
+STRING 3009
+// Items: I0L1 (WC2Orc08SDoomhammer2), Name (Name)
+{
+WC2Orc08SDoomhammer2
+}
+
+STRING 3010
+// Items: I0L2 (WC2Orc08SDoomhammer3), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3011
+// Items: I0L2 (WC2Orc08SDoomhammer3), Description (Description)
+{
+联盟以为，我们已经撤出了它们渺小的北方诸城，来攻打这里了。但那些愚蠢的傻瓜很快就会意识到自己的错误。
+}
+
+STRING 3012
+// Items: I0L2 (WC2Orc08SDoomhammer3), Name (Name)
+{
+WC2Orc08SDoomhammer3
+}
+
+STRING 3013
+// Items: I0L3 (WC2Orc08SDoomhammer4), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3014
+// Items: I0L3 (WC2Orc08SDoomhammer4), Description (Description)
+{
+别急，雷德。我们马上就要和蛮锤氏族交手了。之前进攻卡兹莫丹的时候，瓦罗克就告诫我这些矮人“凶残”无比。
+}
+
+STRING 3015
+// Items: I0L3 (WC2Orc08SDoomhammer4), Name (Name)
+{
+WC2Orc08SDoomhammer4
+}
+
+STRING 3016
+// Items: I0L4 (WC2Orc08SDoomhammer5), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3017
+// Items: I0L4 (WC2Orc08SDoomhammer5), Description (Description)
+{
+不过这也不是你该操心的。
+}
+
+STRING 3018
+// Items: I0L4 (WC2Orc08SDoomhammer5), Name (Name)
+{
+WC2Orc08SDoomhammer5
+}
+
+STRING 3019
+// Items: I0L5 (WC2Orc08SDoomhammer6), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3020
+// Items: I0L5 (WC2Orc08SDoomhammer6), Description (Description)
+{
+不。祖尔金已经派人给你准备了一条船。带上乌托克向东前往提尔之手，协助你的兄弟摧毁那座城市。
+}
+
+STRING 3021
+// Items: I0L5 (WC2Orc08SDoomhammer6), Name (Name)
+{
+WC2Orc08SDoomhammer6
+}
+
+STRING 3022
+// Items: I0L6 (WC2Orc08SDoomhammer7), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3023
+// Items: I0L6 (WC2Orc08SDoomhammer7), Description (Description)
+{
+我永远也无法相信曾经效忠暗影议会或者古尔丹的人，她始终是个威胁。在我们进攻矮人期间守好营地，伊崔格。
+}
+
+STRING 3024
+// Items: I0L6 (WC2Orc08SDoomhammer7), Name (Name)
+{
+WC2Orc08SDoomhammer7
+}
+
+STRING 3025
+// Items: I0L8 (WC2Orc08SDoomhammer8), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3026
+// Items: I0L8 (WC2Orc08SDoomhammer8), Description (Description)
+{
+什么？！这些杂碎怎么可能出现在离家这么远的地方？ 
+}
+
+STRING 3027
+// Items: I0L8 (WC2Orc08SDoomhammer8), Name (Name)
+{
+WC2Orc08SDoomhammer8
+}
+
+STRING 3028
+// Items: I0L9 (WC2Orc08SDoomhammer10), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3029
+// Items: I0L9 (WC2Orc08SDoomhammer10), Description (Description)
+{
+你好啊，老朋友。
+}
+
+STRING 3030
+// Items: I0L9 (WC2Orc08SDoomhammer10), Name (Name)
+{
+WC2Orc08SDoomhammer10
+}
+
+STRING 3031
+// Items: I0L7 (WC2Orc08SDoomhammer11), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3032
+// Items: I0L7 (WC2Orc08SDoomhammer11), Description (Description)
+{
+你，强大的战士，将在我手中迎来荣耀的死亡！
+}
+
+STRING 3033
+// Items: I0L7 (WC2Orc08SDoomhammer11), Name (Name)
+{
+WC2Orc08SDoomhammer11
+}
+
+STRING 3034
+// Items: I0LA (WC2Orc08SDoomhammer12), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3035
+// Items: I0LA (WC2Orc08SDoomhammer12), Description (Description)
+{
+伊崔格！我们在这儿的任务已经完成了！地精会炸断我们后方的路，保护好他们！
+}
+
+STRING 3036
+// Items: I0LA (WC2Orc08SDoomhammer12), Name (Name)
+{
+WC2Orc08SDoomhammer12
+}
+
+STRING 3037
+// Items: I0LB (WC2Orc08SAmaniPriest1), Tip (Tooltip - Basic)
+{
+阿曼尼巨魔
+}
+
+STRING 3038
+// Items: I0LB (WC2Orc08SAmaniPriest1), Description (Description)
+{
+伟大的祖尔金！您的到来让我们倍感荣幸！
+}
+
+STRING 3039
+// Items: I0LB (WC2Orc08SAmaniPriest1), Name (Name)
+{
+WC2Orc08SAmaniPriest1
+}
+
+STRING 3040
+// Items: I0LC (WC2Orc08SAmaniPriest2), Tip (Tooltip - Basic)
+{
+阿曼尼巨魔
+}
+
+STRING 3041
+// Items: I0LC (WC2Orc08SAmaniPriest2), Description (Description)
+{
+是祖尔金！你是来帮我们解决那些矮人的吗？ 
+}
+
+STRING 3042
+// Items: I0LC (WC2Orc08SAmaniPriest2), Name (Name)
+{
+WC2Orc08SAmaniPriest2
+}
+
+STRING 3043
+// Items: I0LD (WC2Orc08SAmaniPriest3), Tip (Tooltip - Basic)
+{
+阿曼尼巨魔
+}
+
+STRING 3044
+// Items: I0LD (WC2Orc08SAmaniPriest3), Description (Description)
+{
+老大来了！感谢神灵！
+}
+
+STRING 3045
+// Items: I0LD (WC2Orc08SAmaniPriest3), Name (Name)
+{
+WC2Orc08SAmaniPriest3
+}
+
+STRING 3046
+// Items: I0LE (WC2Orc08SEitrigg1), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3047
+// Items: I0LE (WC2Orc08SEitrigg1), Description (Description)
+{
+抱歉打扰你，大酋长。我们为什么还要继续囚禁迦罗娜呢？她在卡兹莫丹已经证明了自己的价值。我会遵照你的命令盯着她，但我觉得她至少可以不用戴镣铐了。
+}
+
+STRING 3048
+// Items: I0LE (WC2Orc08SEitrigg1), Name (Name)
+{
+WC2Orc08SEitrigg1
+}
+
+STRING 3049
+// Items: I0LF (WC2Orc08SEitrigg2), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3050
+// Items: I0LF (WC2Orc08SEitrigg2), Description (Description)
+{
+如您所愿，大酋长。 
+}
+
+STRING 3051
+// Items: I0LF (WC2Orc08SEitrigg2), Name (Name)
+{
+WC2Orc08SEitrigg2
+}
+
+STRING 3052
+// Items: I0LG (WC2Orc08SEitrigg3), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3053
+// Items: I0LG (WC2Orc08SEitrigg3), Description (Description)
+{
+大酋长！有精灵在攻击我们！ 
+}
+
+STRING 3054
+// Items: I0LG (WC2Orc08SEitrigg3), Name (Name)
+{
+WC2Orc08SEitrigg3
+}
+
+STRING 3055
+// Items: I0LH (WC2Orc08SEitrigg4), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3056
+// Items: I0LH (WC2Orc08SEitrigg4), Description (Description)
+{
+去吧，大酋长！我会尽全力拖住它们！Lok'tar Ogar！
+}
+
+STRING 3057
+// Items: I0LH (WC2Orc08SEitrigg4), Name (Name)
+{
+WC2Orc08SEitrigg4
+}
+
+STRING 3058
+// Items: I0LI (WC2Orc08SEitrigg5), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3059
+// Items: I0LI (WC2Orc08SEitrigg5), Description (Description)
+{
+该死！放了她！就算是半兽人也配拿着刀战死！
+}
+
+STRING 3060
+// Items: I0LI (WC2Orc08SEitrigg5), Name (Name)
+{
+WC2Orc08SEitrigg5
+}
+
+STRING 3061
+// Items: I0LJ (WC2Orc08SEitrigg6), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3062
+// Items: I0LJ (WC2Orc08SEitrigg6), Description (Description)
+{
+迦罗娜！呸！该死！守住营地，战士们！
+}
+
+STRING 3063
+// Items: I0LJ (WC2Orc08SEitrigg6), Name (Name)
+{
+WC2Orc08SEitrigg6
+}
+
+STRING 3064
+// Items: I0LK (WC2Orc08SEitrigg7), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 3065
+// Items: I0LK (WC2Orc08SEitrigg7), Description (Description)
+{
+迦罗娜，你，你……
+}
+
+STRING 3066
+// Items: I0LK (WC2Orc08SEitrigg7), Name (Name)
+{
+WC2Orc08SEitrigg7
+}
+
+STRING 3067
+// Items: I0LL (WC2Orc08SElvenRanger1), Tip (Tooltip - Basic)
+{
+精灵游侠
+}
+
+STRING 3068
+// Items: I0LL (WC2Orc08SElvenRanger1), Description (Description)
+{
+这里不欢迎你们。玷污这片圣地的肮脏种族已经够多了！
+}
+
+STRING 3069
+// Items: I0LL (WC2Orc08SElvenRanger1), Name (Name)
+{
+WC2Orc08SElvenRanger1
+}
+
+STRING 3070
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Tip (Tooltip - Basic)
+{
+矮人
+}
+
+STRING 3071
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Description (Description)
+{
+弗斯塔——————德！
+}
+
+STRING 3072
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Name (Name)
+{
+WC2Orc08SFalstaaaaaaaad1
+}
+
+STRING 3073
+// Items: I0LN (WC2Orc08SGarona1), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3074
+// Items: I0LN (WC2Orc08SGarona1), Description (Description)
+{
+伊崔格！难道你忘记我们昔日并肩作战的样子了吗？我不奢求你相信我，但我能帮你！求你了，放我出来！让我协助你们战斗！
+}
+
+STRING 3075
+// Items: I0LN (WC2Orc08SGarona1), Name (Name)
+{
+WC2Orc08SGarona1
+}
+
+STRING 3076
+// Items: I0LO (WC2Orc08SGarona2), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3077
+// Items: I0LO (WC2Orc08SGarona2), Description (Description)
+{
+它们的人太多了！
+}
+
+STRING 3078
+// Items: I0LO (WC2Orc08SGarona2), Name (Name)
+{
+WC2Orc08SGarona2
+}
+
+STRING 3079
+// Items: I0LP (WC2Orc08SGarona3), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3080
+// Items: I0LP (WC2Orc08SGarona3), Description (Description)
+{
+省口气吧，你今天不会死在我的手上。帮你包扎好伤口我就得走了。现在咱们两清了。我劝你也赶紧动身。
+}
+
+STRING 3081
+// Items: I0LP (WC2Orc08SGarona3), Name (Name)
+{
+WC2Orc08SGarona3
+}
+
+STRING 3082
+// Items: I0LQ (TyrandePissed1), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3083
+// Items: I0LQ (TyrandePissed1), Description (Description)
+{
+我可以做的像一场事故……
+}
+
+STRING 3084
+// Items: I0LQ (TyrandePissed1), Name (Name)
+{
+TyrandePissed1
+}
+
+STRING 3085
+// Items: I0LR (TyrandePissed4), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3086
+// Items: I0LR (TyrandePissed4), Description (Description)
+{
+有朝一日，我终得自由，远离兽人、远离恶魔、远离死亡。
+}
+
+STRING 3087
+// Items: I0LR (TyrandePissed4), Name (Name)
+{
+TyrandePissed4
+}
+
+STRING 3088
+// Items: I0LS (TyrandePissed5), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3089
+// Items: I0LS (TyrandePissed5), Description (Description)
+{
+我的主人如流水，起码新来的不会精神控制。
+}
+
+STRING 3090
+// Items: I0LS (TyrandePissed5), Name (Name)
+{
+TyrandePissed5
+}
+
+STRING 3091
+// Items: I0LT (WC2Orc08SGoblinSappers1), Tip (Tooltip - Basic)
+{
+地精工兵
+}
+
+STRING 3092
+// Items: I0LT (WC2Orc08SGoblinSappers1), Description (Description)
+{
+老板，我们需要更多的时间来准备这些炸药！保护好我们！ 
+}
+
+STRING 3093
+// Items: I0LT (WC2Orc08SGoblinSappers1), Name (Name)
+{
+WC2Orc08SGoblinSappers1
+}
+
+STRING 3094
+// Items: I0LU (WC2Orc08SGoblinSappers2), Tip (Tooltip - Basic)
+{
+地精工兵
+}
+
+STRING 3095
+// Items: I0LU (WC2Orc08SGoblinSappers2), Description (Description)
+{
+炸药准备完毕！快跑吧！
+}
+
+STRING 3096
+// Items: I0LU (WC2Orc08SGoblinSappers2), Name (Name)
+{
+WC2Orc08SGoblinSappers2
+}
+
+STRING 3097
+// Items: I0LV (WC2Orc08SKurdran1), Tip (Tooltip - Basic)
+{
+库德兰·蛮锤
+}
+
+STRING 3098
+// Items: I0LV (WC2Orc08SKurdran1), Description (Description)
+{
+这些狗杂种，它们杀了我的同胞！
+}
+
+STRING 3099
+// Items: I0LV (WC2Orc08SKurdran1), Name (Name)
+{
+WC2Orc08SKurdran1
+}
+
+STRING 3100
+// Items: I0LW (WC2Orc08SKurdran2), Tip (Tooltip - Basic)
+{
+库德兰·蛮锤
+}
+
+STRING 3101
+// Items: I0LW (WC2Orc08SKurdran2), Description (Description)
+{
+帮我赶走它们，我就考虑加入你们的“联盟”，阿拉索之子。
+}
+
+STRING 3102
+// Items: I0LW (WC2Orc08SKurdran2), Name (Name)
+{
+WC2Orc08SKurdran2
+}
+
+STRING 3103
+// Items: I0LX (WC2Orc08SKurdran3), Tip (Tooltip - Basic)
+{
+库德兰·蛮锤
+}
+
+STRING 3104
+// Items: I0LX (WC2Orc08SKurdran3), Description (Description)
+{
+该死的兽人！它们比看上去要狡猾得多。通往北方的路已经被切断了。
+}
+
+STRING 3105
+// Items: I0LX (WC2Orc08SKurdran3), Name (Name)
+{
+WC2Orc08SKurdran3
+}
+
+STRING 3106
+// Items: I0LY (WC2Orc08SKurdran4), Tip (Tooltip - Basic)
+{
+库德兰·蛮锤
+}
+
+STRING 3107
+// Items: I0LY (WC2Orc08SKurdran4), Description (Description)
+{
+我们会加入你，安度因·洛萨。这个“部落”对所有人来说都是个威胁，不把它们消灭干净，我们誓不罢休！
+}
+
+STRING 3108
+// Items: I0LY (WC2Orc08SKurdran4), Name (Name)
+{
+WC2Orc08SKurdran4
+}
+
+STRING 3109
+// Items: I0LZ (WC2Orc08SLothar1), Tip (Tooltip - Basic)
+{
+安度因·洛萨
+}
+
+STRING 3110
+// Items: I0LZ (WC2Orc08SLothar1), Description (Description)
+{
+别担心，朋友。它们会为自己的罪行付出代价。
+}
+
+STRING 3111
+// Items: I0LZ (WC2Orc08SLothar1), Name (Name)
+{
+WC2Orc08SLothar1
+}
+
+STRING 3112
+// Items: I0La (WC2Orc08SLothar2), Tip (Tooltip - Basic)
+{
+安度因·洛萨
+}
+
+STRING 3113
+// Items: I0La (WC2Orc08SLothar2), Description (Description)
+{
+毁灭之锤！你们这些部落怪物在艾泽拉斯犯下了滔天罪行，我发誓要让你们遭受永恒的煎熬！
+}
+
+STRING 3114
+// Items: I0La (WC2Orc08SLothar2), Name (Name)
+{
+WC2Orc08SLothar2
+}
+
+STRING 3115
+// Items: I0Lb (WC2Orc08SLothar3), Tip (Tooltip - Basic)
+{
+安度因·洛萨
+}
+
+STRING 3116
+// Items: I0Lb (WC2Orc08SLothar3), Description (Description)
+{
+你的阴谋已被挫败，所谓的“氏族”马上就会被联盟大军消灭干净。
+}
+
+STRING 3117
+// Items: I0Lb (WC2Orc08SLothar3), Name (Name)
+{
+WC2Orc08SLothar3
+}
+
+STRING 3118
+// Items: I0Lc (WC2Orc08SLothar4), Tip (Tooltip - Basic)
+{
+安度因·洛萨
+}
+
+STRING 3119
+// Items: I0Lc (WC2Orc08SLothar4), Description (Description)
+{
+血溅当场的应该是你！冲锋！ 
+}
+
+STRING 3120
+// Items: I0Lc (WC2Orc08SLothar4), Name (Name)
+{
+WC2Orc08SLothar4
+}
+
+STRING 3121
+// Items: I0Ld (WC2Orc08SLothar5), Tip (Tooltip - Basic)
+{
+安度因·洛萨
+}
+
+STRING 3122
+// Items: I0Ld (WC2Orc08SLothar5), Description (Description)
+{
+它们的首领非常……务实。他总会先人一步。
+}
+
+STRING 3123
+// Items: I0Ld (WC2Orc08SLothar5), Name (Name)
+{
+WC2Orc08SLothar5
+}
+
+STRING 3124
+// Items: I0Le (WC2Orc08SRend1), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3125
+// Items: I0Le (WC2Orc08SRend1), Description (Description)
+{
+我们在这些狭窄的山道里转了很久了，大酋长。但你还是没告诉我们你的计划。
+}
+
+STRING 3126
+// Items: I0Le (WC2Orc08SRend1), Name (Name)
+{
+WC2Orc08SRend1
+}
+
+STRING 3127
+// Items: I0Lf (WC2Orc08SRend2), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3128
+// Items: I0Lf (WC2Orc08SRend2), Description (Description)
+{
+为什么不直接和它们正面交锋？这是什么地方？
+}
+
+STRING 3129
+// Items: I0Lf (WC2Orc08SRend2), Name (Name)
+{
+WC2Orc08SRend2
+}
+
+STRING 3130
+// Items: I0Lg (WC2Orc08SRend3), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3131
+// Items: I0Lg (WC2Orc08SRend3), Description (Description)
+{
+那些矮人根本构不成威胁，祖尔金。
+}
+
+STRING 3132
+// Items: I0Lg (WC2Orc08SRend3), Name (Name)
+{
+WC2Orc08SRend3
+}
+
+STRING 3133
+// Items: I0Lh (WC2Orc08SRend4), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3134
+// Items: I0Lh (WC2Orc08SRend4), Description (Description)
+{
+难道我不能留在这儿战斗吗？！
+}
+
+STRING 3135
+// Items: I0Lh (WC2Orc08SRend4), Name (Name)
+{
+WC2Orc08SRend4
+}
+
+STRING 3136
+// Items: I0Li (WC2Orc08SRend5), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3137
+// Items: I0Li (WC2Orc08SRend5), Description (Description)
+{
+哼……好吧。咱们走，乌托克。
+}
+
+STRING 3138
+// Items: I0Li (WC2Orc08SRend5), Name (Name)
+{
+WC2Orc08SRend5
+}
+
+STRING 3139
+// Items: I0Lj (WC2Orc08STharbek1), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3140
+// Items: I0Lj (WC2Orc08STharbek1), Description (Description)
+{
+快点，你们这群癞皮狗。大酋长随时会到。 
+}
+
+STRING 3141
+// Items: I0Lj (WC2Orc08STharbek1), Name (Name)
+{
+WC2Orc08STharbek1
+}
+
+STRING 3142
+// Items: I0Lk (WC2Orc08STharbek2), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3143
+// Items: I0Lk (WC2Orc08STharbek2), Description (Description)
+{
+Lok'tar，大酋长。营地已经按您的指示建起来了。 
+}
+
+STRING 3144
+// Items: I0Lk (WC2Orc08STharbek2), Name (Name)
+{
+WC2Orc08STharbek2
+}
+
+STRING 3145
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Tip (Tooltip - Basic)
+{
+蛮锤领主
+}
+
+STRING 3146
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Description (Description)
+{
+以我胡子的名义！那些蛮子朝我们进攻了！赶紧给库德兰报信儿，小伙子们！保卫我们的家园！
+}
+
+STRING 3147
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Name (Name)
+{
+WC2Orc08SWildhammerThane1
+}
+
+STRING 3148
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Tip (Tooltip - Basic)
+{
+蛮锤领主
+}
+
+STRING 3149
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Description (Description)
+{
+巨魔还带了些朋友来……呸！那就把它们全干掉！
+}
+
+STRING 3150
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Name (Name)
+{
+WC2Orc08SWildhammerThane2
+}
+
+STRING 3151
+// Items: I0Ln (WC2Orc08SZuljin1), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3152
+// Items: I0Ln (WC2Orc08SZuljin1), Description (Description)
+{
+此地曾是阿曼尼帝国的一部分，我的朋友。许多巨魔部族仍居住于此。曾经的和平被鸠占鹊巢的南方矮人打破。自从它们来到此地后冲突就接连不断。
+}
+
+STRING 3153
+// Items: I0Ln (WC2Orc08SZuljin1), Name (Name)
+{
+WC2Orc08SZuljin1
+}
+
+STRING 3154
+// Items: I0Lo (WC2Orc08SZuljin2), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3155
+// Items: I0Lo (WC2Orc08SZuljin2), Description (Description)
+{
+只要告诉我的弟兄们收复北方故土的计划，他们就会加入部落。而毁灭之锤……要处理那些矮人。
+}
+
+STRING 3156
+// Items: I0Lo (WC2Orc08SZuljin2), Name (Name)
+{
+WC2Orc08SZuljin2
+}
+
+STRING 3157
+// Items: I0Lp (WC2Orc08SZuljin3), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3158
+// Items: I0Lp (WC2Orc08SZuljin3), Description (Description)
+{
+弟兄们，我正在召集阿曼尼重夺属于祖阿曼的土地。北上奎尔萨拉斯，收复我们的故土！
+}
+
+STRING 3159
+// Items: I0Lp (WC2Orc08SZuljin3), Name (Name)
+{
+WC2Orc08SZuljin3
+}
+
+STRING 3160
+// Items: I0Lq (WC2Orc08SZuljin4), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3161
+// Items: I0Lq (WC2Orc08SZuljin4), Description (Description)
+{
+弟兄们，我正在召集阿曼尼重夺属于祖阿曼的土地。北上奎尔萨拉斯，收复我们的故土！
+}
+
+STRING 3162
+// Items: I0Lq (WC2Orc08SZuljin4), Name (Name)
+{
+WC2Orc08SZuljin4
+}
+
+STRING 3163
+// Items: I0Lr (WC2Orc08SZuljin5), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3164
+// Items: I0Lr (WC2Orc08SZuljin5), Description (Description)
+{
+弟兄们，都收拾一下，准备向北进发，加入光复祖阿曼的行列。我们紧随其后。
+}
+
+STRING 3165
+// Items: I0Lr (WC2Orc08SZuljin5), Name (Name)
+{
+WC2Orc08SZuljin5
+}
+
+STRING 3166
+// Items: I0Ls (WC2Orc08SZuljin6), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3167
+// Items: I0Ls (WC2Orc08SZuljin6), Description (Description)
+{
+我印象中……这儿有座精灵岗哨。我的弟兄们时常和它们发生冲突。如果能及时完成任务，接下来就轮到它们了。
+}
+
+STRING 3168
+// Items: I0Ls (WC2Orc08SZuljin6), Name (Name)
+{
+WC2Orc08SZuljin6
+}
+
+STRING 3169
+// Items: I0Lt (WC2Orc08SZuljin7), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3170
+// Items: I0Lt (WC2Orc08SZuljin7), Description (Description)
+{
+哈哈哈……死精灵的模样，是我见过最美好的光景！
+}
+
+STRING 3171
+// Items: I0Lt (WC2Orc08SZuljin7), Name (Name)
+{
+WC2Orc08SZuljin7
+}
+
+STRING 3172
+// Items: I0Lu (WC2Orc08SZuljin8), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 3173
+// Items: I0Lu (WC2Orc08SZuljin8), Description (Description)
+{
+弟兄们！我们的帝国将在这些精灵的尸骨上崛起！
+}
+
+STRING 3174
+// Items: I0Lu (WC2Orc08SZuljin8), Name (Name)
+{
+WC2Orc08SZuljin8
+}
+
+STRING 3175
+// Items: I1LQ (TyrandePissed3), Tip (Tooltip - Basic)
+{
+迦罗娜
+}
+
+STRING 3176
+// Items: I1LQ (TyrandePissed3), Description (Description)
+{
+我发现人类指挥官和念咒的看上我了，必须离这俩变态远点！
+}
+
+STRING 3177
+// Items: I1LQ (TyrandePissed3), Name (Name)
+{
+TyrandePissed3
+}
+
+STRING 3178
+// Units: negt (Arcane Tower), Name (Name)
+{
+奥术塔
+}
+
+STRING 3179
+// Units: h624 (Forge), Name (Name)
+{
+熔炉
+}
+
+STRING 3180
+// Units: n006 (Barracks), Name (Name)
+{
+兵营
+}
+
+STRING 3181
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3182
+{
+|cffffcc00关闭作弊码！|r
+}
+
+STRING 3183
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3184
+{
+|cffffcc00关闭作弊码！|r
+}
+
+STRING 3185
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3186
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+/3)
+}
+
+STRING 3187
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  - 摧毁蛮锤定居点(已摧毁
+}
+
+STRING 3188
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+焦土政策
+}
+
+STRING 3189
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00主要任务更新|r
+}
+
+STRING 3190
+// Items: IQL1 (  - Finish before the Alliance arrives), Tip (Tooltip - Basic)
+{
+三趾多灾
+}
+
+STRING 3191
+// Items: IQL1 (  - Finish before the Alliance arrives), Ubertip (Tooltip - Extended)
+{
+/3)
+}
+
+STRING 3192
+// Items: IQL1 (  - Finish before the Alliance arrives), Description (Description)
+{
+  - 召集巨魔营地(已召集
+}
+
+STRING 3193
+// Items: IQL1 (  - Finish before the Alliance arrives), Name (Name)
+{
+  - 在联盟到达前完成任务
+}
+
+STRING 3194
+// Items: IQL2 (Wildhammer Chronicler), Name (Name)
+{
+蛮锤编年史家
+}
+
+STRING 3195
+// Items: IQL2 (Wildhammer Chronicler), Tip (Tooltip - Basic)
+{
+召集巨魔营地(已召集
+}
+
+STRING 3196
+// Items: IQL2 (Wildhammer Chronicler), Description (Description)
+{
+摧毁蛮锤定居点(已摧毁
+}
+

@@ -1,0 +1,2619 @@
+﻿STRING 1
+{
+WC2Orc12
+}
+
+STRING 2
+{
+失落群岛
+}
+
+STRING 3
+{
+Blizzard\LoreCraftDesigns
+}
+
+STRING 283
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 291
+{
+|cffffcc00发现秘密|r
+你发现了一座上古图书馆。
+}
+
+STRING 292
+{
+寻找古尔丹
+}
+
+STRING 293
+{
+古尔丹就在这片群岛的某处。你必须找到他。
+}
+
+STRING 294
+{
+找到古尔丹
+}
+
+STRING 295
+{
+|cffffcc00主要任务|r
+寻找古尔丹
+  - 找到古尔丹
+}
+
+STRING 296
+{
+|cffffcc00主要任务完成|r
+寻找古尔丹
+  -|cffc0c0c0 找到古尔丹 (完成)|r
+}
+
+STRING 297
+{
+暗影议会余孽
+}
+
+STRING 298
+{
+如果想让达克苏尔投身效力、帮助你找到古尔丹，你就必须摧毁暗影议会术士的营地。达克苏尔害怕背叛古尔丹会遭到报复，他想借助其他术士同伴的一件神器来保护自己。
+}
+
+STRING 299
+{
+摧毁暗影议会营地
+}
+
+STRING 300
+{
+将神器带给达克苏尔
+}
+
+STRING 301
+{
+|cffffcc00可选任务|r 
+暗影议会
+  - 摧毁暗影议会营地
+  - 将神器带给达克苏尔
+}
+
+STRING 302
+{
+|cffffcc00可选任务更新|r 
+暗影议会
+  -|cffc0c0c0 摧毁暗影议会营地 (完成)|r
+  - 将神器带给达克苏尔
+}
+
+STRING 303
+{
+|cffffcc00可选任务完成|r 
+暗影议会
+  -|cffc0c0c0 摧毁暗影议会营地 (完成)|r
+  -|cffc0c0c0 将神器带给达克苏尔(完成)|r
+}
+
+STRING 304
+{
+萨格拉斯之墓
+}
+
+STRING 305
+{
+古尔丹藏进了萨格拉斯之墓。要想跟上他，你必须消灭保卫入口的古加尔和暮光之锤邪教徒。
+}
+
+STRING 306
+{
+击败墓穴入口附近的古加尔
+}
+
+STRING 307
+{
+|cffffcc00主要任务|r
+萨格拉斯之墓
+  - 击败墓穴入口附近的古加尔
+  - 麦姆必须存活
+  - 雷德必须存活
+}
+
+STRING 308
+{
+|cffffcc00主要任务完成|r
+萨格拉斯之墓
+}
+
+STRING 309
+{
+|cffffcc00主要任务失败|r
+你的基地被摧毁了。
+}
+
+STRING 353
+{
+达克苏尔
+}
+
+STRING 406
+{
+兽人部落
+}
+
+STRING 407
+{
+暮光之锤氏族
+}
+
+STRING 408
+{
+暴掠氏族
+}
+
+STRING 410
+{
+部落
+}
+
+STRING 411
+{
+叛徒
+}
+
+STRING 414
+// Units: n61Y (Drak'thul's hut), Name (Name)
+{
+达克苏尔的小屋
+}
+
+STRING 438
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 439
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 440
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 441
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 442
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 443
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 444
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 445
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 446
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 447
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 448
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 449
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 450
+{
+|cffffff00跳舞时间到！|r
+}
+
+STRING 457
+{
+Cinematic Dummy
+}
+
+STRING 458
+{
+建造更多的农场来继续生产单位。,建造更多的猪圈来继续生产单位。,召唤更多的通灵塔来继续生产单位。,创造更多的月亮井来继续生产单位。
+}
+
+STRING 459
+{
+不能使用原油钻机。
+}
+
+STRING 460
+{
+该油田已被使用。
+}
+
+STRING 461
+{
+必须先建造原油钻机。
+}
+
+STRING 462
+{
+必须以油田为目标。
+}
+
+STRING 463
+{
+必须建造在油田上。
+}
+
+STRING 464
+{
+你可以在大厅复活你的英雄。
+}
+
+STRING 465
+{
+邪祟
+}
+
+STRING 467
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 468
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+精灵游侠
+}
+
+STRING 469
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+基本远程攻击单位。能获得箭术、强弓和角鹰兽训练升级。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 470
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 471
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 472
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 473
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 474
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 475
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 476
+// Units: Hblm (Elven Mage), Name (Name)
+{
+精灵法师
+}
+
+STRING 477
+// Units: nchp (Magistrate), Name (Name)
+{
+镇长
+}
+
+STRING 478
+// Units: nwc1 (Cage), Name (Name)
+{
+牢笼
+}
+
+STRING 479
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+建造牢笼
+}
+
+STRING 480
+// Units: nwc1 (Cage), Description (Description)
+{
+一个坚固的笼子，专门用来关押囚犯。
+}
+
+STRING 481
+// Units: nbel (High Elf Captain), Name (Name)
+{
+高等精灵队长
+}
+
+STRING 482
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+训练高等精灵队长
+}
+
+STRING 483
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+银月城军队的强大队长。擅长对付施法者。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 505
+// Units: O002 (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 513
+// Units: n008 (Twilight Cultist), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 514
+// Units: n008 (Twilight Cultist), Ubertip (Tooltip - Extended)
+{
+食人魔军团的施法型战士。可施放嗜血技能。可学习“基尔罗格之眼”和“符文”技能。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 528
+// Units: O001 (Ogre Magi), Propernames (Proper Names)
+{
+古加尔
+}
+
+STRING 530
+// Units: O001 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 531
+// Units: O001 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 533
+// Units: O001 (Ogre Magi), Tip (Tooltip - Basic)
+{
+食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 551
+// Units: O007 (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 644
+// Units: n00F (Doomguard), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 801
+// Units: O002 (Shaman), Propernames (Proper Names)
+{
+疲惫的祖鲁希德
+}
+
+STRING 802
+// Units: O002 (Shaman), Name (Name)
+{
+萨满祭司
+}
+
+STRING 805
+// Units: O002 (Shaman), Revivetip (Tooltip - Revive)
+{
+复活萨满祭司(|cffffcc00S|r)
+}
+
+STRING 806
+// Units: O002 (Shaman), Tip (Tooltip - Basic)
+{
+复活萨满祭司 (|cffffcc00S|r)
+}
+
+STRING 807
+// Units: O002 (Shaman), Awakentip (Tooltip - Awaken)
+{
+萨满祭司 (|cffffcc00S|r)
+}
+
+STRING 846
+// Units: O007 (Shaman), Propernames (Proper Names)
+{
+疲惫的祖鲁希德
+}
+
+STRING 847
+// Units: O007 (Shaman), Name (Name)
+{
+萨满祭司
+}
+
+STRING 849
+// Units: O007 (Shaman), Awakentip (Tooltip - Awaken)
+{
+萨满祭司 (|cffffcc00S|r)
+}
+
+STRING 850
+// Units: O007 (Shaman), Revivetip (Tooltip - Revive)
+{
+复活萨满祭司 (|cffffcc00S|r)
+}
+
+STRING 851
+// Units: O002 (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 852
+// Units: O007 (Shaman), Tip (Tooltip - Basic)
+{
+复活萨满祭司 (|cffffcc00S|r)
+}
+
+STRING 887
+// Units: n60V (Duck), Name (Name)
+{
+鸭子
+}
+
+STRING 888
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+就是只野鸭
+}
+
+STRING 905
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+兽人石墙
+}
+
+STRING 917
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+尖刺护墙
+}
+
+STRING 971
+// Units: n62A (Shark), Name (Name)
+{
+鲨鱼
+}
+
+STRING 972
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+鲨鱼
+}
+
+STRING 973
+// Units: n62B (Purple Shark), Name (Name)
+{
+紫色鲨鱼
+}
+
+STRING 974
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+鲨鱼
+}
+
+STRING 990
+// Units: u005 (Dummy), Name (Name)
+{
+假人
+}
+
+STRING 1001
+// Units: n60Y (Raven), Name (Name)
+{
+渡鸦
+}
+
+STRING 1010
+// Units: n60Z (Spiders), Name (Name)
+{
+蜘蛛
+}
+
+STRING 1011
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+蜘蛛
+}
+
+STRING 1052
+// Units: n611 (Wolf), Name (Name)
+{
+座狼
+}
+
+STRING 1053
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1066
+// Units: O005 (Ogre Magi), Propernames (Proper Names)
+{
+古加尔
+}
+
+STRING 1068
+// Units: O005 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 1069
+// Units: O005 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 1070
+// Units: O005 (Ogre Magi), Tip (Tooltip - Basic)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 1225
+// Units: n61Y (Drak'thul's hut), EditorSuffix (Name - Editor Suffix)
+{
+(Campaign)
+}
+
+STRING 1296
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+油桶
+}
+
+STRING 1317
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1318
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1319
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+油桶
+}
+
+STRING 1320
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1336
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1355
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+古棺
+}
+
+STRING 1357
+// Destructibles: B62T (Egg), Name (Name)
+{
+蛋
+}
+
+STRING 1362
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1363
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1366
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1369
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1385
+// Destructibles: B60U (Chest), Name (Name)
+{
+木箱
+}
+
+STRING 1395
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1400
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1401
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1402
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 1432
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1433
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1434
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1435
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1476
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1477
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1478
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1488
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1490
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1525
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1599
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1621
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 1636
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1637
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1638
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1679
+// Units: ntor (Whirlwind), Name (Name)
+{
+旋风
+}
+
+STRING 2842
+{
+Cinematic Blackrock
+}
+
+STRING 2843
+{
+Cinematic Blacktooth
+}
+
+STRING 2844
+{
+Cinematic Dragonmaw
+}
+
+STRING 2845
+{
+Cinemaitc
+}
+
+STRING 2848
+{
+黑齿狞笑氏族
+}
+
+STRING 2851
+// Doodads: D000 (ToS Exterior Main Tower), Name (Name)
+{
+ToS Exterior Main Tower
+}
+
+STRING 2852
+// Doodads: D001 (ToS Exterior Tower), Name (Name)
+{
+ToS Exterior Tower
+}
+
+STRING 2853
+// Doodads: D002 (ToS Exterior Wall), Name (Name)
+{
+ToS Exterior Wall
+}
+
+STRING 2854
+// Doodads: D003 (ToS Column), Name (Name)
+{
+ToS Column
+}
+
+STRING 2855
+// Doodads: D004 (ToS Wall), Name (Name)
+{
+ToS Wall
+}
+
+STRING 2856
+// Doodads: D005 (ToS Column Broken), Name (Name)
+{
+ToS Column Broken
+}
+
+STRING 2857
+// Doodads: D006 (ToS Exterior Gate), Name (Name)
+{
+ToS Exterior Gate
+}
+
+STRING 2858
+// Doodads: D007 (ToS Archway), Name (Name)
+{
+ToS Archway
+}
+
+STRING 2859
+// Doodads: D008 (ToS Statue), Name (Name)
+{
+ToS Statue
+}
+
+STRING 2861
+// Doodads: D009 (ToS Statues), Name (Name)
+{
+ToS Statues
+}
+
+STRING 2862
+// Doodads: D00A (ToS Statues Broken), Name (Name)
+{
+ToS Statues Broken
+}
+
+STRING 2864
+// Doodads: D00C (ToS Rubble), Name (Name)
+{
+ToS Rubble
+}
+
+STRING 2866
+// Doodads: D00E (ToS Corals 2), Name (Name)
+{
+ToS Corals 2
+}
+
+STRING 2868
+// Doodads: D00G (ToS Seaweed 1), Name (Name)
+{
+ToS Seaweed 1
+}
+
+STRING 2870
+// Doodads: D00I (ToS Cattail), Name (Name)
+{
+ToS Cattail
+}
+
+STRING 2871
+// Doodads: D00J (Waterfall Mini), Name (Name)
+{
+Waterfall Mini
+}
+
+STRING 2872
+// Doodads: D00K (ToS Column Semi Circle), Name (Name)
+{
+ToS Column Semi Circle
+}
+
+STRING 2873
+// Doodads: D00L (ToS Column Semi Circle Ruined), Name (Name)
+{
+ToS Column Semi Circle Ruined
+}
+
+STRING 2874
+// Doodads: D00B (ToS Rocks 1), Name (Name)
+{
+ToS Rocks 1
+}
+
+STRING 2875
+// Doodads: D00M (ToS Rocks 2), Name (Name)
+{
+ToS Rocks 2
+}
+
+STRING 2876
+// Doodads: D00N (ToS Rocks 3), Name (Name)
+{
+ToS Rocks 3
+}
+
+STRING 2877
+// Doodads: D00O (ToS Rocks 4), Name (Name)
+{
+ToS Rocks 4
+}
+
+STRING 2878
+// Doodads: D00P (ToS Rocks 5), Name (Name)
+{
+ToS Rocks 5
+}
+
+STRING 2879
+// Doodads: D00Q (ToS Rocks 6), Name (Name)
+{
+ToS Rocks 6
+}
+
+STRING 2880
+// Doodads: D00F (ToS Barnacles), Name (Name)
+{
+ToS Barnacles
+}
+
+STRING 2882
+// Doodads: D00H (ToS Seaweed Hanging 1), Name (Name)
+{
+ToS Seaweed Hanging 1
+}
+
+STRING 2883
+// Doodads: D00R (ToS Seaweed Hanging 2), Name (Name)
+{
+ToS Seaweed Hanging 2
+}
+
+STRING 2884
+// Doodads: D00D (ToS Corals Red), Name (Name)
+{
+ToS Corals Red
+}
+
+STRING 2885
+// Doodads: D00S (ToS Seaweed 2), Name (Name)
+{
+ToS Seaweed 2
+}
+
+STRING 2886
+// Doodads: D00T (ToS Seaweed 3), Name (Name)
+{
+ToS Seaweed 3
+}
+
+STRING 2888
+// Doodads: D00U (ToS Exterior Wall (Angled)), Name (Name)
+{
+ToS Exterior Wall (Angled)
+}
+
+STRING 2889
+// Doodads: D00V (ToS Corals 3), Name (Name)
+{
+ToS Corals 3
+}
+
+STRING 2890
+// Destructibles: B000 (Ancient Tree), Name (Name)
+{
+Ancient Tree
+}
+
+STRING 2891
+// Destructibles: B000 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 1)
+}
+
+STRING 2892
+// Destructibles: B001 (Ancient Tree), Name (Name)
+{
+Ancient Tree
+}
+
+STRING 2893
+// Destructibles: B001 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 2)
+}
+
+STRING 2894
+// Doodads: D00W (ToS Bench), Name (Name)
+{
+ToS Bench
+}
+
+STRING 2895
+// Doodads: D00X (ToS Fountain), Name (Name)
+{
+ToS Fountain
+}
+
+STRING 2896
+// Doodads: D00Y (ToS Fountain Broken), Name (Name)
+{
+ToS Fountain Broken
+}
+
+STRING 2898
+// Doodads: D00Z (Hay Roof), Name (Name)
+{
+Hay Roof
+}
+
+STRING 2899
+// Doodads: D010 (ToS Statues (angle)), Name (Name)
+{
+ToS Statues (angle)
+}
+
+STRING 2900
+// Doodads: D011 (ToS Rock Archway), Name (Name)
+{
+ToS Rock Archway
+}
+
+STRING 2901
+// Doodads: D012 (Black), Name (Name)
+{
+Black
+}
+
+STRING 2902
+// Destructibles: B002 (Torch), Name (Name)
+{
+Torch
+}
+
+STRING 2903
+// Destructibles: B005 (Ritual), Name (Name)
+{
+Ritual
+}
+
+STRING 2904
+// Destructibles: B003 (Ritual Fel), Name (Name)
+{
+Ritual Fel
+}
+
+STRING 2905
+// Destructibles: B004 (Ritual Void), Name (Name)
+{
+Ritual Void
+}
+
+STRING 2906
+// Destructibles: B006 (Ritual Fire), Name (Name)
+{
+Ritual Fire
+}
+
+STRING 2907
+// Units: n004 (Ancient Dragon Turtle), Name (Name)
+{
+远古龙龟
+}
+
+STRING 2911
+// Destructibles: DEGG (Egg), Name (Name)
+{
+蛋
+}
+
+STRING 2912
+// Destructibles: DEGG (Egg), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 2915
+// Units: O006 (Ogre Magi), Propernames (Proper Names)
+{
+古加尔
+}
+
+STRING 2917
+// Units: O006 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 2918
+// Units: O006 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+复活食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 2919
+// Units: O006 (Ogre Magi), Tip (Tooltip - Basic)
+{
+食人魔法师 (|cffffcc00O|r)
+}
+
+STRING 2920
+// Units: n006 (Tentacle), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2924
+// Units: O002 (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2930
+// Destructibles: DMAG (Magical Barrier), Name (Name)
+{
+Magical Barrier
+}
+
+STRING 2931
+// Destructibles: DMAG (Magical Barrier), EditorSuffix (Editor Suffix)
+{
+(Fake)
+}
+
+STRING 2932
+// Destructibles: DIG1 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2933
+// Destructibles: DIG2 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2939
+// Units: O007 (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 2941
+// Units: n007 (Orb of Fire), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2943
+// Units: n008 (Twilight Cultist), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2948
+// Units: n007 (Orb of Fire), Name (Name)
+{
+火焰宝珠
+}
+
+STRING 2968
+// Destructibles: B00B (Old God Eye), Name (Name)
+{
+上古之神的眼球
+}
+
+STRING 2969
+// Destructibles: B00C (Old God Tentacle), Name (Name)
+{
+上古之神的触须
+}
+
+STRING 2970
+// Units: u005 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Spells)
+}
+
+STRING 3150
+// Units: O001 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 1)
+}
+
+STRING 3156
+// Units: O005 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 3)
+}
+
+STRING 3162
+// Units: O006 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 2)
+}
+
+STRING 3209
+// Units: n008 (Twilight Cultist), Name (Name)
+{
+暮光邪教徒
+}
+
+STRING 3210
+// Destructibles: B008 (ToS Tombguard Scene), Name (Name)
+{
+ToS Tombguard Scene
+}
+
+STRING 3211
+// Destructibles: B007 (ToS Guldan Scene), Name (Name)
+{
+ToS Guldan Scene
+}
+
+STRING 3212
+// Destructibles: B009 (ToS Gate), Name (Name)
+{
+ToS Gate
+}
+
+STRING 3213
+// Doodads: D013 (ToS Stairs), Name (Name)
+{
+ToS Stairs
+}
+
+STRING 3221
+// Units: O007 (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic Fly)
+}
+
+STRING 3222
+// Units: n00D (Rend's Wolf), Name (Name)
+{
+雷德的座狼
+}
+
+STRING 3223
+// Destructibles: B00A (Fake Sky Ashenvale), Name (Name)
+{
+Fake Sky Ashenvale
+}
+
+STRING 3225
+// Units: n00E (Highborne Ghost), Name (Name)
+{
+上层精灵幽灵
+}
+
+STRING 3226
+// Destructibles: B00D (Ghost), Name (Name)
+{
+幽灵
+}
+
+STRING 3227
+// Destructibles: B00E (Suspicious Dirt Pile), Name (Name)
+{
+可疑的土堆
+}
+
+STRING 3228
+// Destructibles: B00E (Suspicious Dirt Pile), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3234
+// Units: n00F (Doomguard), Name (Name)
+{
+末日守卫
+}
+
+STRING 3241
+{
+暮光兽人
+}
+
+STRING 3242
+{
+暮光之锤基地守护着墓穴附近的古尔丹部队。 摧毁它才能接近术士。
+}
+
+STRING 3243
+{
+摧毁暮光之锤基地
+}
+
+STRING 3244
+{
+|cffffcc00主要任务|r
+暮光兽人
+  - 摧毁暮光之锤基地
+}
+
+STRING 3245
+{
+|cffffcc00主要任务完成|r
+暮光兽人
+  -|cffc0c0c0 摧毁暮光之锤基地 (完成)|r
+}
+
+STRING 3301
+{
+黑手崽子们会被作弊码治疗
+}
+
+STRING 3302
+{
+黑手崽子们不会被作弊码治疗
+}
+
+STRING 3305
+{
+雷德必须存活
+}
+
+STRING 3306
+{
+麦姆必须存活
+}
+
+STRING 3307
+{
+|cffffcc00主要任务失败|r
+你的英雄阵亡。
+}
+
+STRING 3309
+// Doodads: D014 (FakeSky), Name (Name)
+{
+FakeSky
+}
+
+STRING 3322
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 3323
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 3324
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 3327
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 3328
+// Doodads: D015 (ToS Gate), Name (Name)
+{
+ToS Gate
+}
+
+STRING 3329
+{
+|cffffcc00任务失败|r
+}
+
+STRING 3334
+{
+|cffffcc00加尔：|r烧死他们！
+}
+
+STRING 3335
+{
+|cffffcc00新升级可用|r
+邪恶岗哨。这项研究能让你的哨塔和防御塔侦测到敌方隐形单位，如战龟。可在诅咒神殿中升级。
+}
+
+STRING 3336
+{
+|cffff0000这儿禁止作弊！|r
+}
+
+STRING 3337
+// Units: oUC1 (Utok Scratcher), Name (Name)
+{
+刻划者乌托克
+}
+
+STRING 3338
+// Units: oUC1 (Utok Scratcher), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 3339
+// Items: I0LA (WC2Orc12Maim1), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3340
+// Items: I0LA (WC2Orc12Maim1), Description (Description)
+{
+这地方有点不对劲……感觉……不太自然。
+}
+
+STRING 3341
+// Items: I0LA (WC2Orc12Maim1), Name (Name)
+{
+WC2Orc12Maim1
+}
+
+STRING 3342
+// Items: I0LB (WC2Orc12Maim2), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3343
+// Items: I0LB (WC2Orc12Maim2), Description (Description)
+{
+好主意。杀了他。
+}
+
+STRING 3344
+// Items: I0LB (WC2Orc12Maim2), Name (Name)
+{
+WC2Orc12Maim2
+}
+
+STRING 3345
+// Items: I0LC (WC2Orc12Maim3), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3346
+// Items: I0LC (WC2Orc12Maim3), Description (Description)
+{
+我要把你碎尸万段，你这坨双头肥猪！！！
+}
+
+STRING 3347
+// Items: I0LC (WC2Orc12Maim3), Name (Name)
+{
+WC2Orc12Maim3
+}
+
+STRING 3348
+// Items: I0LD (WC2Orc12Maim4), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3349
+// Items: I0LD (WC2Orc12Maim4), Description (Description)
+{
+他死了吗？我们得确认一下。
+}
+
+STRING 3350
+// Items: I0LD (WC2Orc12Maim4), Name (Name)
+{
+WC2Orc12Maim4
+}
+
+STRING 3351
+// Items: I0LE (WC2Orc12Maim5), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3352
+// Items: I0LE (WC2Orc12Maim5), Description (Description)
+{
+啊啊啊！该死的！我想要那颗脑袋！ 
+}
+
+STRING 3353
+// Items: I0LE (WC2Orc12Maim5), Name (Name)
+{
+WC2Orc12Maim5
+}
+
+STRING 3354
+// Items: I0LF (WC2Orc12Rend8), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3355
+// Items: I0LF (WC2Orc12Rend8), Ubertip (Tooltip - Extended)
+{
+(This line was moved to Maim)
+}
+
+STRING 3356
+// Items: I0LF (WC2Orc12Rend8), Description (Description)
+{
+什么东……
+}
+
+STRING 3357
+// Items: I0LF (WC2Orc12Rend8), Name (Name)
+{
+WC2Orc12Rend8
+}
+
+STRING 3358
+// Items: I0LG (WC2Orc12Rend1), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3359
+// Items: I0LG (WC2Orc12Rend1), Description (Description)
+{
+确实……我也有同感……而且这些废墟，像是精灵的风格，与乌托克描述的完全不同。祖鲁希德，你怎么看？
+}
+
+STRING 3360
+// Items: I0LG (WC2Orc12Rend1), Name (Name)
+{
+WC2Orc12Rend1
+}
+
+STRING 3361
+// Items: I0LH (WC2Orc12Rend2), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3362
+// Items: I0LH (WC2Orc12Rend2), Description (Description)
+{
+是古尔丹吗？你看见他了吗？
+}
+
+STRING 3363
+// Items: I0LH (WC2Orc12Rend2), Name (Name)
+{
+WC2Orc12Rend2
+}
+
+STRING 3364
+// Items: I0LJ (WC2Orc12Rend3), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3365
+// Items: I0LJ (WC2Orc12Rend3), Description (Description)
+{
+看来古尔丹就在附近，我们必须抓紧时间！
+}
+
+STRING 3366
+// Items: I0LJ (WC2Orc12Rend3), Name (Name)
+{
+WC2Orc12Rend3
+}
+
+STRING 3367
+// Items: I0LK (WC2Orc12Rend4), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3370
+// Items: I0LL (WC2Orc12Rend5), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3371
+// Items: I0LK (WC2Orc12Rend4), Description (Description)
+{
+战士们，安营扎寨，继续猎捕古尔丹。明年的今天，就是古尔丹的祭日！
+}
+
+STRING 3372
+// Items: I0LK (WC2Orc12Rend4), Name (Name)
+{
+WC2Orc12Rend4
+}
+
+STRING 3373
+// Items: I0LN (WC2Orc12Rend6), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3374
+// Items: I0LL (WC2Orc12Rend5), Description (Description)
+{
+且慢，兄弟！或许他知道古尔丹在哪儿。 
+}
+
+STRING 3375
+// Items: I0LL (WC2Orc12Rend5), Name (Name)
+{
+WC2Orc12Rend5
+}
+
+STRING 3376
+// Items: I0LO (WC2Orc12Rend7), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3379
+// Items: I0LP (WC2Orc12Rend9), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3380
+// Items: I0LN (WC2Orc12Rend6), Description (Description)
+{
+是恶魔的走狗！以部落的名义，杀光他们！
+}
+
+STRING 3381
+// Items: I0LN (WC2Orc12Rend6), Name (Name)
+{
+WC2Orc12Rend6
+}
+
+STRING 3382
+// Items: I0LQ (WC2Orc12Rend10), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3383
+// Items: I0LO (WC2Orc12Rend7), Description (Description)
+{
+这两位萨满的力量比你这头又肥又懒的食人魔杂种强多了！
+}
+
+STRING 3384
+// Items: I0LO (WC2Orc12Rend7), Name (Name)
+{
+WC2Orc12Rend7
+}
+
+STRING 3385
+// Items: I0LR (WC2Orc12Rend11), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3386
+// Items: I0LP (WC2Orc12Rend9), Description (Description)
+{
+坚持住，兄弟……让我们扫清邪异的污秽！
+}
+
+STRING 3387
+// Items: I0LP (WC2Orc12Rend9), Name (Name)
+{
+WC2Orc12Rend9
+}
+
+STRING 3389
+// Items: I0LQ (WC2Orc12Rend10), Description (Description)
+{
+同意……咱们把他们的脑袋剁下来吧！
+}
+
+STRING 3390
+// Items: I0LQ (WC2Orc12Rend10), Name (Name)
+{
+WC2Orc12Rend10
+}
+
+STRING 3392
+// Items: I0LR (WC2Orc12Rend11), Description (Description)
+{
+我们一会儿再来拿，赶紧走吧！
+}
+
+STRING 3393
+// Items: I0LR (WC2Orc12Rend11), Name (Name)
+{
+WC2Orc12Rend11
+}
+
+STRING 3394
+// Items: I0LS (WC2Orc12Utok1), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3395
+// Items: I0LS (WC2Orc12Utok1), Description (Description)
+{
+所有地图均未记载这些岛屿……但航线与我们探子的报告完全一致。
+}
+
+STRING 3396
+// Items: I0LS (WC2Orc12Utok1), Name (Name)
+{
+WC2Orc12Utok1
+}
+
+STRING 3397
+// Items: I0LT (WC2Orc12Utok2), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3398
+// Items: I0LT (WC2Orc12Utok2), Description (Description)
+{
+那些叛徒不光有一支强大的舰队。我们可能还得面对食人魔法师、术士和那些重获新生的“死亡骑士”……
+}
+
+STRING 3399
+// Items: I0LT (WC2Orc12Utok2), Name (Name)
+{
+WC2Orc12Utok2
+}
+
+STRING 3400
+// Items: I0LU (WC2Orc12Utok3), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3401
+// Items: I0LU (WC2Orc12Utok3), Description (Description)
+{
+以大酋长的名义，砍了他们的脑袋！
+}
+
+STRING 3402
+// Items: I0LU (WC2Orc12Utok3), Name (Name)
+{
+WC2Orc12Utok3
+}
+
+STRING 3403
+// Items: I0LV (WC2Orc12Utok4), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3404
+// Items: I0LV (WC2Orc12Utok4), Description (Description)
+{
+雷德！麦姆！
+
+}
+
+STRING 3405
+// Items: I0LV (WC2Orc12Utok4), Name (Name)
+{
+WC2Orc12Utok4
+}
+
+STRING 3406
+// Items: I0LW (WC2Orc12Zuluhed1), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3407
+// Items: I0LW (WC2Orc12Zuluhed1), Description (Description)
+{
+毫无疑问，它们非常古老，似乎还被附上了极其强大的魔法……这里，或许曾是精灵文明的心脏地带，地位与德拉诺食人魔的高里亚城不相上下。至于空气中的腥臭味，我感觉到了……一些古老……强大……黑暗的存在。
+}
+
+STRING 3408
+// Items: I0LW (WC2Orc12Zuluhed1), Name (Name)
+{
+WC2Orc12Zuluhed1
+}
+
+STRING 3409
+// Items: I0LX (WC2Orc12Zuluhed2), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3410
+// Items: I0LX (WC2Orc12Zuluhed2), Description (Description)
+{
+我的眼前朦胧一片，就像这片群岛周边弥漫的浓雾一样。但邪能的恶臭却刺鼻难掩。
+}
+
+STRING 3411
+// Items: I0LX (WC2Orc12Zuluhed2), Name (Name)
+{
+WC2Orc12Zuluhed2
+}
+
+STRING 3412
+// Items: I0LY (WC2Orc12Zuluhed3), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3413
+// Items: I0LY (WC2Orc12Zuluhed3), Description (Description)
+{
+别忘了我们也有相同的力量，乌托克。古尔丹树敌无数，他跑不远了。
+}
+
+STRING 3414
+// Items: I0LY (WC2Orc12Zuluhed3), Name (Name)
+{
+WC2Orc12Zuluhed3
+}
+
+STRING 3415
+// Items: I0LZ (WC2Orc12Zuluhed4), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3416
+// Items: I0LZ (WC2Orc12Zuluhed4), Description (Description)
+{
+达克苏尔……
+}
+
+STRING 3417
+// Items: I0LZ (WC2Orc12Zuluhed4), Name (Name)
+{
+WC2Orc12Zuluhed4
+}
+
+STRING 3418
+// Items: I0La (WC2Orc12Zuluhed5), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3419
+// Items: I0La (WC2Orc12Zuluhed5), Description (Description)
+{
+你曾是一位萨满，达克苏尔。为这条黑暗之路献身，真的值得吗？
+}
+
+STRING 3420
+// Items: I0La (WC2Orc12Zuluhed5), Name (Name)
+{
+WC2Orc12Zuluhed5
+}
+
+STRING 3421
+// Items: I0Lb (WC2Orc12Zuluhed6), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3422
+// Items: I0Lb (WC2Orc12Zuluhed6), Description (Description)
+{
+但如今形势逆转了，我们才是强者。告诉我们古尔丹躲在哪儿，我们就饶你一命。
+}
+
+STRING 3423
+// Items: I0Lb (WC2Orc12Zuluhed6), Name (Name)
+{
+WC2Orc12Zuluhed6
+}
+
+STRING 3424
+// Items: I0Lc (WC2Orc12Zuluhed7), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3425
+// Items: I0Lc (WC2Orc12Zuluhed7), Description (Description)
+{
+那些叛徒都死了……说好的神器也给你带来了。
+}
+
+STRING 3426
+// Items: I0Lc (WC2Orc12Zuluhed7), Name (Name)
+{
+WC2Orc12Zuluhed7
+}
+
+STRING 3427
+// Items: I0Ld (WC2Orc12Zuluhed8), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3428
+// Items: I0Ld (WC2Orc12Zuluhed8), Description (Description)
+{
+黑暗泰坦？
+}
+
+STRING 3429
+// Items: I0Ld (WC2Orc12Zuluhed8), Name (Name)
+{
+WC2Orc12Zuluhed8
+}
+
+STRING 3430
+// Items: I0Le (WC2Orc12Zuluhed9), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3431
+// Items: I0Le (WC2Orc12Zuluhed9), Description (Description)
+{
+古尔丹疯了！他对力量的痴迷会毁掉这个世界，就像他毁掉德拉诺那样。战士们，继续前进！让我们结束这一切！
+}
+
+STRING 3432
+// Items: I0Le (WC2Orc12Zuluhed9), Name (Name)
+{
+WC2Orc12Zuluhed9
+}
+
+STRING 3433
+// Items: I0Lf (WC2Orc12Zuluhed10), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3434
+// Items: I0Lf (WC2Orc12Zuluhed10), Description (Description)
+{
+是古尔丹！我就知道我们能找到他们！Lok'tar，战士们！
+}
+
+STRING 3435
+// Items: I0Lf (WC2Orc12Zuluhed10), Name (Name)
+{
+WC2Orc12Zuluhed10
+}
+
+STRING 3436
+// Items: I0Lg (WC2Orc12Zuluhed11), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3437
+// Items: I0Lg (WC2Orc12Zuluhed11), Description (Description)
+{
+黑手之子，我来助你们一臂之力！
+}
+
+STRING 3438
+// Items: I0Lg (WC2Orc12Zuluhed11), Name (Name)
+{
+WC2Orc12Zuluhed11
+}
+
+STRING 3439
+// Items: I0Lh (WC2Orc12Zuluhed12), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3440
+// Items: I0Lh (WC2Orc12Zuluhed12), Description (Description)
+{
+雷德！麦姆！古加尔掌握的力量无人可挡！在他对我们释放不可名状的恐怖前，干掉他！
+}
+
+STRING 3441
+// Items: I0Lh (WC2Orc12Zuluhed12), Name (Name)
+{
+WC2Orc12Zuluhed12
+}
+
+STRING 3442
+// Items: I0Lj (WC2Orc12Zuluhed13), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3443
+// Items: I0Lj (WC2Orc12Zuluhed13), Description (Description)
+{
+没时间干这个了！乌托克，你赶紧返回基地疗伤……在我们回来前，把舰船清点一遍。
+}
+
+STRING 3444
+// Items: I0Lj (WC2Orc12Zuluhed13), Name (Name)
+{
+WC2Orc12Zuluhed13
+}
+
+STRING 3445
+// Items: I0Lk (WC2Orc12Zuluhed14), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3446
+// Items: I0Lk (WC2Orc12Zuluhed14), Description (Description)
+{
+嗯……这些废墟里可能埋藏着一些秘密的宝藏。
+}
+
+STRING 3447
+// Items: I0Lk (WC2Orc12Zuluhed14), Name (Name)
+{
+WC2Orc12Zuluhed14
+}
+
+STRING 3448
+// Items: I0Ll (WC2Orc12Drakthul1), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3449
+// Items: I0Ll (WC2Orc12Drakthul1), Description (Description)
+{
+祖鲁希德！哈！我们最终还是站在了彼此的对立面……你准备怎么做？是割断我的喉咙，还是让我自生自灭？
+}
+
+STRING 3450
+// Items: I0Ll (WC2Orc12Drakthul1), Name (Name)
+{
+WC2Orc12Drakthul1
+}
+
+STRING 3451
+// Items: I0Lm (WC2Orc12Drakthul2), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3452
+// Items: I0Lm (WC2Orc12Drakthul2), Description (Description)
+{
+我也不想死，祖鲁希德。但我服从于古尔丹，因为……因为弱者必须服从强者。
+}
+
+STRING 3453
+// Items: I0Lm (WC2Orc12Drakthul2), Name (Name)
+{
+WC2Orc12Drakthul2
+}
+
+STRING 3454
+// Items: I0Ln (WC2Orc12Drakthul3), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3456
+// Items: I0Ln (WC2Orc12Drakthul3), Name (Name)
+{
+WC2Orc12Drakthul3
+}
+
+STRING 3457
+// Items: I0Lo (WC2Orc12Drakthul4), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3458
+// Items: I0Lo (WC2Orc12Drakthul4), Description (Description)
+{
+谢谢你……古尔丹太强大了，他把这些岛屿从海底升起来，只是为了寻找一座古老的墓穴……那里安息着一位黑暗泰坦。古尔丹现在追求的正是这位泰坦的可怕力量……
+}
+
+STRING 3459
+// Items: I0Lo (WC2Orc12Drakthul4), Name (Name)
+{
+WC2Orc12Drakthul4
+}
+
+STRING 3460
+// Items: I0Lp (WC2Orc12Drakthul5), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3462
+// Items: I0Lp (WC2Orc12Drakthul5), Name (Name)
+{
+WC2Orc12Drakthul5
+}
+
+STRING 3463
+// Items: I0Lq (WC2Orc12Drakthul6), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3464
+// Items: I0Lq (WC2Orc12Drakthul6), Description (Description)
+{
+北面有座巨塔……就是我所说的墓穴。在那里，你们或许能找到古尔丹；在那里，你们也可能会迎来自己的终结。既然你已经得到了想要的东西，就让我一个人待着吧……我愿意在孤独中度过余生。
+}
+
+STRING 3465
+// Items: I0Lq (WC2Orc12Drakthul6), Name (Name)
+{
+WC2Orc12Drakthul6
+}
+
+STRING 3466
+// Items: I0Lr (WC2Orc12Drakthul7), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3467
+// Items: I0Lr (WC2Orc12Drakthul7), Description (Description)
+{
+走开。
+}
+
+STRING 3468
+// Items: I0Lr (WC2Orc12Drakthul7), Name (Name)
+{
+WC2Orc12Drakthul7
+}
+
+STRING 3469
+// Items: I0Ls (WC2Orc12Drakthul8), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3470
+// Items: I0Ls (WC2Orc12Drakthul8), Description (Description)
+{
+呵呵。你觉得我是个愚蠢的老兽人，已经虚弱到要去喂狼了吗？你还在襁褓中的时候，我已经在和恶魔沟通了。
+}
+
+STRING 3471
+// Items: I0Ls (WC2Orc12Drakthul8), Name (Name)
+{
+WC2Orc12Drakthul8
+}
+
+STRING 3472
+// Items: I0Lt (WC2Orc12Drakthul9), Tip (Tooltip - Basic)
+{
+达克苏尔
+}
+
+STRING 3473
+// Items: I0Lt (WC2Orc12Drakthul9), Description (Description)
+{
+现在，我只想一个人待着，直到黑暗彻底吞噬我。
+}
+
+STRING 3474
+// Items: I0Lt (WC2Orc12Drakthul9), Name (Name)
+{
+WC2Orc12Drakthul9
+}
+
+STRING 3475
+// Items: I0Lu (WC2Orc12Guldan1), Tip (Tooltip - Basic)
+{
+古尔丹
+}
+
+STRING 3476
+// Items: I0Lu (WC2Orc12Guldan1), Description (Description)
+{
+终于！大门开了！
+}
+
+STRING 3477
+// Items: I0Lu (WC2Orc12Guldan1), Name (Name)
+{
+WC2Orc12Guldan1
+}
+
+STRING 3478
+// Items: I0Lv (WC2Orc12Guldan2), Tip (Tooltip - Basic)
+{
+古尔丹
+}
+
+STRING 3479
+// Items: I0Lv (WC2Orc12Guldan2), Description (Description)
+{
+古加尔，守住入口，干掉追杀我们的人。剩下的，跟我走！
+}
+
+STRING 3480
+// Items: I0Lv (WC2Orc12Guldan2), Name (Name)
+{
+WC2Orc12Guldan2
+}
+
+STRING 3481
+// Items: I0Lw (WC2Orc12ChoGall1), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3482
+// Items: I0Lw (WC2Orc12ChoGall1), Description (Description)
+{
+|cffffcc00古：|r遵照您的吩咐，主人。
+}
+
+STRING 3483
+// Items: I0Lw (WC2Orc12ChoGall1), Name (Name)
+{
+WC2Orc12ChoGall1
+}
+
+STRING 3484
+// Items: I0Lx (WC2Orc12ChoGall2), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3485
+// Items: I0Lx (WC2Orc12ChoGall2), Description (Description)
+{
+|cffffcc00古：|r别那么急嘛，小萨满们……|n|cffffcc00加尔：|r你们得先过我俩这关！
+}
+
+STRING 3486
+// Items: I0Lx (WC2Orc12ChoGall2), Name (Name)
+{
+WC2Orc12ChoGall2
+}
+
+STRING 3487
+// Items: I0Ly (WC2Orc12ChoGall3a), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3488
+// Items: I0Ly (WC2Orc12ChoGall3a), Description (Description)
+{
+|cffffcc00古：|r啊，是黑手家的小鬼……|n|cffffcc00加尔：|r原来是黑手的两个废物儿子。啊，麦姆，如果你的智商和脑袋大小成正比……说不定还能有点威胁。
+}
+
+STRING 3489
+// Items: I0Ly (WC2Orc12ChoGall3a), Name (Name)
+{
+WC2Orc12ChoGall3a
+}
+
+STRING 3490
+// Items: I0Lz (WC2Orc12ChoGall3b), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3491
+// Items: I0Lz (WC2Orc12ChoGall3b), Description (Description)
+{
+|cffffcc00加尔：|r雷德……你或许遗传了你父亲的狡猾，可惜就连你姐姐都能把你那小身板掰成两截，那点小聪明又有什么用呢？难怪你俩让术士强制增龄后，还被部落上下当成还天天尿床的小屁孩呢！
+}
+
+STRING 3492
+// Items: I0Lz (WC2Orc12ChoGall3b), Name (Name)
+{
+WC2Orc12ChoGall3b
+}
+
+STRING 3493
+// Items: I1LA (WC2Orc12ChoGall4), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3494
+// Items: I1LA (WC2Orc12ChoGall4), Description (Description)
+{
+|cffffcc00加尔：|r你死到临头了！
+}
+
+STRING 3495
+// Items: I1LA (WC2Orc12ChoGall4), Name (Name)
+{
+WC2Orc12ChoGall4
+}
+
+STRING 3496
+// Items: I1LB (WC2Orc12ChoGall5), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3497
+// Items: I1LB (WC2Orc12ChoGall5), Description (Description)
+{
+|cffffcc00加尔：|r烈焰与怒火。
+}
+
+STRING 3498
+// Items: I1LB (WC2Orc12ChoGall5), Name (Name)
+{
+WC2Orc12ChoGall5
+}
+
+STRING 3499
+// Items: I1LC (WC2Orc12ChoGall7), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3500
+// Items: I1LC (WC2Orc12ChoGall7), Description (Description)
+{
+没人能抵挡古加尔的怒火！
+}
+
+STRING 3501
+// Items: I1LC (WC2Orc12ChoGall7), Name (Name)
+{
+WC2Orc12ChoGall7
+}
+
+STRING 3502
+// Items: I1LD (WC2Orc12ChoGall8), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3503
+// Items: I1LD (WC2Orc12ChoGall8), Description (Description)
+{
+|cffffcc00古：|r断筋碎骨！
+}
+
+STRING 3504
+// Items: I1LD (WC2Orc12ChoGall8), Name (Name)
+{
+WC2Orc12ChoGall8
+}
+
+STRING 3505
+// Items: I1LE (WC2Orc12ChoGall9), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3506
+// Items: I1LE (WC2Orc12ChoGall9), Description (Description)
+{
+|cffffcc00加尔：|r啊哈哈哈哈！
+}
+
+STRING 3507
+// Items: I1LE (WC2Orc12ChoGall9), Name (Name)
+{
+WC2Orc12ChoGall9
+}
+
+STRING 3508
+// Items: I1LF (WC2Orc12ChoGall10), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3509
+// Items: I1LF (WC2Orc12ChoGall10), Description (Description)
+{
+|cffffcc00古：|r够了！黑暗之神的癫狂尖叫将撕碎你们的灵魂！|cffffcc00加尔：|r尝尝我们真正主人的力量吧！ 
+}
+
+STRING 3510
+// Items: I1LF (WC2Orc12ChoGall10), Name (Name)
+{
+WC2Orc12ChoGall10
+}
+
+STRING 3511
+// Items: I1LG (WC2Orc12ChoGall11), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 3512
+// Items: I1LG (WC2Orc12ChoGall11), Description (Description)
+{
+|cffffcc00古：|r万物臣服！|cffffcc00加尔：|r上古之神将吞噬整个世界！
+}
+
+STRING 3513
+// Items: I1LG (WC2Orc12ChoGall11), Name (Name)
+{
+WC2Orc12ChoGall11
+}
+
+STRING 3514
+// Items: I1LH (PeonPissed4), Tip (Tooltip - Basic)
+{
+苦工
+}
+
+STRING 3515
+// Items: I1LH (PeonPissed4), Description (Description)
+{
+我不是那种兽人！
+}
+
+STRING 3516
+// Items: I1LH (PeonPissed4), Name (Name)
+{
+PeonPissed4
+}
+
+STRING 3517
+// Items: I1LI (WC2Orc12Cultist1), Tip (Tooltip - Basic)
+{
+食人魔异教徒
+}
+
+STRING 3518
+// Items: I1LI (WC2Orc12Cultist1), Description (Description)
+{
+以主人之名，灭亡吧！
+}
+
+STRING 3519
+// Items: I1LI (WC2Orc12Cultist1), Name (Name)
+{
+WC2Orc12Cultist1
+}
+
+STRING 3520
+// Items: I1LJ (WC2Orc12Cultist2), Tip (Tooltip - Basic)
+{
+食人魔异教徒
+}
+
+STRING 3521
+// Items: I1LJ (WC2Orc12Cultist2), Description (Description)
+{
+屈服于恐惧吧！
+}
+
+STRING 3522
+// Items: I1LJ (WC2Orc12Cultist2), Name (Name)
+{
+WC2Orc12Cultist2
+}
+
+STRING 3523
+// Items: I1LK (WC2Orc12Cultist3), Tip (Tooltip - Basic)
+{
+食人魔异教徒
+}
+
+STRING 3524
+// Items: I1LK (WC2Orc12Cultist3), Description (Description)
+{
+你们的梦境必将破碎！
+}
+
+STRING 3525
+// Items: I1LK (WC2Orc12Cultist3), Name (Name)
+{
+WC2Orc12Cultist3
+}
+
+STRING 3527
+// Items: I1lx (WC2Orc12Grunt1), Description (Description)
+{
+奥格瑞姆的铁锤再也吓不倒我了！我要用战斧剖开你的心！
+}
+
+STRING 3528
+// Items: I1lx (WC2Orc12Grunt1), Name (Name)
+{
+WC2Orc12Grunt1
+}
+
+STRING 3529
+// Units: O001 (Ogre Magi), Name (Name)
+{
+食人魔法师
+}
+
+STRING 3530
+// Units: O005 (Ogre Magi), Name (Name)
+{
+食人魔法师
+}
+
+STRING 3531
+// Units: O006 (Ogre Magi), Name (Name)
+{
+食人魔法师
+}
+
+STRING 3532
+// Items: I0Ln (WC2Orc12Drakthul3), Description (Description)
+{
+我畏惧暗影议会的怒火，祖鲁希德。但你如果能消灭他们，我就把一切都告诉你。他们正在附近的岛上引导一个可怕的仪式……杀了他们，把他们使用的神器带给我。
+}
+
+STRING 3533
+// Items: I0Lp (WC2Orc12Drakthul5), Description (Description)
+{
+他被称为……萨格拉斯，无尽恶魔军团的主宰者。据传，这位堕落泰坦被击败后，他的墓穴也一同沉入海底。正是萨格拉斯的恶魔，让古尔丹成了现在的模样；也正是萨格拉斯的恶魔，在多年前将各族酋长推上了权力宝座。一切的一切，都和他难逃干系。
+}
+
+STRING 3534
+// Items: I1lx (WC2Orc12Grunt1), Tip (Tooltip - Basic)
+{
+黑石叛徒
+}
+
+STRING 3535
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3536
+{
+|cffffcc00关闭作弊码！|r
+}
+
+STRING 3537
+{
+|cffffcc00关闭作弊码！|r
+}
+
+STRING 3538
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3539
+// Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
+{
+黑石叛徒
+}
+
+STRING 3540
+// Items: IQL0 (Bonecrusher), Name (Name)
+{
+碾骨者
+}
+

@@ -1,0 +1,2071 @@
+﻿STRING 1
+{
+Chapter 04
+}
+
+STRING 2
+{
+LoreCraftDesigns
+}
+
+STRING 244
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+La chute d'Hillsbrad 
+  - Détruire Hillsbrad
+}
+
+STRING 254
+// Units: H62D (Captain), Propernames (Proper Names)
+{
+Meryn
+}
+
+STRING 262
+// Units: H62D (Captain), Name (Name)
+{
+Capitaine
+}
+
+STRING 317
+{
+Clan Blackrock
+}
+
+STRING 336
+{
+Un
+}
+
+STRING 337
+{
+WC2Orc04
+}
+
+STRING 340
+{
+Horde
+}
+
+STRING 341
+{
+Alliance
+}
+
+STRING 348
+{
+Réfugiés de Stormwind
+}
+
+STRING 349
+{
+Nation de Lordaeron
+}
+
+STRING 351
+{
+Construisez plus de Fermes pour produire davantage d'unités.,Construisez plus de Fermes pour produire davantage d'unités.,Invoquez plus de Ziggourat pour produire davantage d'unités.,Créez plus de Puits de lune pour produire davantage d'unités.
+}
+
+STRING 352
+{
+Impossible d'exploiter la Plate-forme pétrolière.
+}
+
+STRING 353
+{
+Puit de pétrole déjà en cours d'exploitation.
+}
+
+STRING 354
+{
+Nécessite une Plate-forme pétrolière.
+}
+
+STRING 355
+{
+Ciblez un Puit de pétrole.
+}
+
+STRING 356
+{
+Doit être construite sur un Puit de pétrole.
+}
+
+STRING 357
+{
+Vous pouvez ressuciter votre héros dans la Grande Salle.
+}
+
+STRING 597
+// Units: o61H (Orc Frigate), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 839
+// Units: u004 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 843
+// Units: n60V (Duck), Name (Name)
+{
+Canard
+}
+
+STRING 844
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Juste un colvert 
+}
+
+STRING 873
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 874
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 883
+// Units: h620 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 884
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 885
+// Units: h621 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 886
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 887
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Amélioration)
+}
+
+STRING 910
+// Units: H62D (Captain), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 911
+// Units: H62D (Captain), Awakentip (Tooltip - Awaken)
+{
+Ressuciter le Capitaine
+}
+
+STRING 912
+// Units: H62D (Captain), Revivetip (Tooltip - Revive)
+{
+Ressuciter le Capitaine
+}
+
+STRING 913
+// Units: H62D (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Stormwind)
+}
+
+STRING 928
+// Doodads: D6GR (Shark), Name (Name)
+{
+Requin
+}
+
+STRING 949
+// Units: u004 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 1030
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 1036
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Quai
+}
+
+STRING 1037
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Champignons
+}
+
+STRING 1038
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 1039
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portail
+}
+
+STRING 1065
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+No Path
+}
+
+STRING 1066
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Bouffée de feu
+}
+
+STRING 1067
+// Destructibles: B617 (Fire), Name (Name)
+{
+Feu
+}
+
+STRING 1097
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Vieille Tombe
+}
+
+STRING 1099
+// Destructibles: B62T (Egg), Name (Name)
+{
+Oeuf
+}
+
+STRING 1105
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 1106
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Rampe)
+}
+
+STRING 1109
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 1112
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1124
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Arbre à terre hivernal
+}
+
+STRING 1125
+// Destructibles: B60S (Fallen Winter Tree 2), Name (Name)
+{
+Arbre à terre hivernal 2
+}
+
+STRING 1126
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Phare
+}
+
+STRING 1127
+// Destructibles: B60U (Chest), Name (Name)
+{
+Coffre
+}
+
+STRING 1128
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Tas de bois
+}
+
+STRING 1129
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Or (Inactif)
+}
+
+STRING 1130
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Or (Actif)
+}
+
+STRING 1131
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Bannière de l'Alliance
+}
+
+STRING 1136
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 1137
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Buissons
+}
+
+STRING 1138
+// Destructibles: B61U (Hillsbrad Clock Tower), Name (Name)
+{
+Clocher de Hillsbrad
+}
+
+STRING 1139
+// Destructibles: B61V (Hillsbrad Clock Tower), Name (Name)
+{
+Clocher de Hillsbrad
+}
+
+STRING 1140
+// Destructibles: B61V (Hillsbrad Clock Tower), EditorSuffix (Editor Suffix)
+{
+(Détruit)
+}
+
+STRING 1142
+// Doodads: D601 (Kul Tiras Banner), Name (Name)
+{
+Bannière de Kul Tiras
+}
+
+STRING 1146
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Chute d'eau FX
+}
+
+STRING 1157
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bannière du clan Bleeding Hollow
+}
+
+STRING 1158
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Bannière du clan Stormreaver
+}
+
+STRING 1159
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Bannière du clan Twilight Hammer
+}
+
+STRING 1160
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Bannière du clan Black Tooth Grin
+}
+
+STRING 1162
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Herbe haute
+}
+
+STRING 1165
+// Doodads: D646 (Lava Plane), Name (Name)
+{
+Plan de lave
+}
+
+STRING 1170
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Buissons animés
+}
+
+STRING 1171
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Buisson hivernal A
+}
+
+STRING 1193
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Toile animée
+}
+
+STRING 1194
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Plan d'eau
+}
+
+STRING 1195
+// Doodads: D697 (Wisp Explode Effect), Name (Name)
+{
+Effet d'explosion de feu-follet
+}
+
+STRING 1196
+// Doodads: D698 (Green Acid Effect), Name (Name)
+{
+Effet d'acide vert
+}
+
+STRING 1197
+// Doodads: D699 (Flying Skull FX), Name (Name)
+{
+Crane volant FX
+}
+
+STRING 1198
+// Doodads: D69A (Tranquility), Name (Name)
+{
+Tranquilité
+}
+
+STRING 1199
+// Doodads: D69B (Cloud), Name (Name)
+{
+Nuage
+}
+
+STRING 1200
+// Doodads: D69C (Plague), Name (Name)
+{
+Peste
+}
+
+STRING 1201
+// Doodads: D69D (Frenzy), Name (Name)
+{
+Frénésie
+}
+
+STRING 1202
+// Doodads: D69E (Demonic Aura), Name (Name)
+{
+Aura démoniaque
+}
+
+STRING 1203
+// Doodads: D69F (Floor Magic Painting), Name (Name)
+{
+Peinture magique sol
+}
+
+STRING 1204
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Feuilles étoilées
+}
+
+STRING 1230
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+Bannière du clan Dragonmaw
+}
+
+STRING 1251
+// Doodads: D6BV (Leaves Fall Dowm), Name (Name)
+{
+Chute de feuilles
+}
+
+STRING 1253
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Cercle de puissance
+}
+
+STRING 1256
+// Doodads: D6CL (Wood Supply), Name (Name)
+{
+Réserve de bois
+}
+
+STRING 1257
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Racines
+}
+
+STRING 1258
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Chaudron sans pathing
+}
+
+STRING 1259
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brasero sans pathing
+}
+
+STRING 1261
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Porte étendard
+}
+
+STRING 1266
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Tâche de sang 01
+}
+
+STRING 1267
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Tâche de sang 02
+}
+
+STRING 1268
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Tâche de sang 03
+}
+
+STRING 1269
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Tâche de sang 04
+}
+
+STRING 1270
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Tâche de sang 05
+}
+
+STRING 1271
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Tâche de sang 06
+}
+
+STRING 1274
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+Bannière de Dalaran
+}
+
+STRING 1275
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+Bannière de Stromgarde
+}
+
+STRING 1276
+// Doodads: D6DQ (Burning Blade Banner), Name (Name)
+{
+Bannière du clan Burning Blade
+}
+
+STRING 1322
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Blé
+}
+
+STRING 1324
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Neige de caisse hivernale
+}
+
+STRING 1329
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Buisson hivernal 4
+}
+
+STRING 1330
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Débris de pierre hivernal 1
+}
+
+STRING 1352
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Pics rocheux de Lordaeron
+}
+
+STRING 1353
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Pic rocheux enneigé
+}
+
+STRING 1360
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Bannière du clan Blackrock
+}
+
+STRING 1361
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Râtelier à armure orc
+}
+
+STRING 1362
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Râtelier à arme orc
+}
+
+STRING 1363
+// Doodads: D60N (FireWoods), Name (Name)
+{
+Feu de bois
+}
+
+STRING 1364
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+Bannière des réfugiés
+}
+
+STRING 2182
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 2183
+{
+|cffffff00Triche activée.|r
+}
+
+STRING 2185
+{
+|cffffff00Triche activée.|r
+}
+
+STRING 2188
+{
+|cffffff00Triche activée.|r
+}
+
+STRING 2314
+{
+Nation de Gilneas
+}
+
+STRING 2345
+// Units: h003 (Stormwind Veteran), Name (Name)
+{
+Vétéran de Stormwind
+}
+
+STRING 2357
+// Doodads: D000 (Wanted Poster), Name (Name)
+{
+Avis de recherche
+}
+
+STRING 2358
+// Doodads: D001 (Bench Wood No Path), Name (Name)
+{
+Banc en bois sans pathing
+}
+
+STRING 2359
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2376
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2377
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2378
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2379
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2380
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2381
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2382
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2405
+{
+|cffd47832LORE|r
+Juste après l’accostage sur les rives de Lordaeron, les réfugiés azérothiens ont construit des camps périphériques répartis sur le rivage, jusqu’à ce que Lordaeron commence à déplacer les réfugiés plus loin à l’intérieur du Royaume, afin de les aider davantage à s’installer, le camp de réfugiés de Hillsbrad en fait partie.
+}
+
+STRING 2406
+{
+|cffd47832LORE|r
+Bien que Gilnéas n'ait jamais été en mesure d'égaler les vastes flottes de ses voisins, ils maintiennent néanmoins une puissante force navale qui lui est propre. Le roi Greymane a déclaré que ce qui fait défaut à sa marine en nombre, elle le compense par son courage, la détermination et les prouesses maritimes de ses marins. Le mérite de cette déclaration reste à voir.
+}
+
+STRING 2407
+{
+|cffd47832LORE|r
+Le canton d'Hillsbrad est le centre politique, commercial et militaire de toute la région d'Hillsbrad. Bien qu'autrefois comparable au donjon de Durnholde en termes de présence militaire, le canton a depuis vu sa force décliner sous la direction du magistrat actuel.
+}
+
+STRING 2411
+// Destructibles: B001 (WinterSnowCliff), Name (Name)
+{
+Falaises enneigées hivernales
+}
+
+STRING 2412
+// Destructibles: B002 (WinterSnowCliff), Name (Name)
+{
+Falaises enneigées hivernales
+}
+
+STRING 2413
+// Destructibles: B002 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Petit)
+}
+
+STRING 2414
+// Destructibles: B003 (WinterSnowCliff), Name (Name)
+{
+Falaises enneigées hivernales
+}
+
+STRING 2415
+// Destructibles: B003 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Penché)
+}
+
+STRING 2416
+// Destructibles: B0D4 (WinterSnowCliff), Name (Name)
+{
+Falaises enneigées hivernales
+}
+
+STRING 2417
+// Destructibles: B0D4 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Petit Penché)
+}
+
+STRING 2418
+// Doodads: D64K (Distant Land Wallpaper Grasslands), Name (Name)
+{
+Arrière plan terres arables lointaines
+}
+
+STRING 2419
+// Doodads: D002 (Distant Land Wallpaper Alpes), Name (Name)
+{
+Arrière plan terres lointaines des Alpes
+}
+
+STRING 2420
+// Doodads: D003 (Mountain01), Name (Name)
+{
+Montagne 01
+}
+
+STRING 2421
+// Doodads: D004 (Mountain02), Name (Name)
+{
+Montagne 02
+}
+
+STRING 2422
+// Doodads: D005 (Mountain03), Name (Name)
+{
+Montagne 03
+}
+
+STRING 2423
+// Doodads: D006 (Mountain04), Name (Name)
+{
+Montagne 04
+}
+
+STRING 2490
+// Destructibles: B004 (CliffBaseA), Name (Name)
+{
+Base de falaise A
+}
+
+STRING 2491
+// Destructibles: B005 (CliffBaseB), Name (Name)
+{
+Base de falaise B
+}
+
+STRING 2492
+// Destructibles: B006 (CliffBaseC), Name (Name)
+{
+Base de falaise C
+}
+
+STRING 2493
+// Destructibles: B007 (CliffBaseD), Name (Name)
+{
+Base de falaise D
+}
+
+STRING 2513
+{
+Impie
+}
+
+STRING 2524
+// Units: h004 (Visibility Controller), Name (Name)
+{
+Controlleur de visibilité
+}
+
+STRING 2525
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Buisson de canopée hivernale
+}
+
+STRING 2526
+// Destructibles: B000 (Snowpile Cliff), Name (Name)
+{
+Tas de neige de falaise
+}
+
+STRING 2527
+// Destructibles: B008 (Snowpile Northrend), Name (Name)
+{
+Tas de neige de Northrend
+}
+
+STRING 2528
+// Destructibles: B009 (Snowpile Flat), Name (Name)
+{
+Tas de neige plat
+}
+
+STRING 2529
+// Units: e60C (Destroyer), Name (Name)
+{
+Destructeur
+}
+
+STRING 2530
+// Units: e60C (Destroyer), Tip (Tooltip - Basic)
+{
+Destructeur
+}
+
+STRING 2531
+{
+Clan Blackrock
+}
+
+STRING 2532
+{
+Agneaux à l'abbatoir
+}
+
+STRING 2533
+{
+Les Gilnéens ont eu la folie de tester notre Armada en pleine mer, maintenant ils fuient comme les lâches qu'ils sont. Montrez-leur le vrai prix de leur arrogance et envoyez-les tous dans les abysses !
+}
+
+STRING 2534
+{
+Couler les navires Gilnéens battant en retraite
+}
+
+STRING 2535
+{
+La chute d'Hillsbrad 
+}
+
+STRING 2536
+{
+Le moment que nous attendions est enfin arrivé ! Tous ceux qui s'opposent à la Horde doivent recevoir une leçon. Brûlez Hillsbrad - ne laissez personne en vie !
+}
+
+STRING 2537
+{
+Détruire Hillsbrad
+}
+
+STRING 2538
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+La chute d'Hillsbrad 
+}
+
+STRING 2539
+{
+Vestiges de Stormwind
+}
+
+STRING 2540
+{
+Des vétérans de l'attaque de Stormwind se sont retranchés sur une île voisine, vous harcelant de leurs attaques constantes. Leur connaissance de notre art de guerre les rend dangereux, tuez-les tous !
+}
+
+STRING 2541
+{
+Détruire les forces de Stormwind
+}
+
+STRING 2542
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Vestiges de Stormwind
+  - Détruire les forces de Stormwind
+}
+
+STRING 2543
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Vestiges de Stormwind
+}
+
+STRING 2544
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Agneaux à l'abbatoir
+  - Couler les navires Gilnéens battant en retraite
+}
+
+STRING 2546
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Agneaux à l'abbatoir
+}
+
+STRING 2547
+{
+|cff32CD32ASTUCE|r 
+Vous pouvez envoyer vos héros à la fontaine, accélérant ainsi leur regain de mana.
+}
+
+STRING 2550
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Tour de garde. En construisant une tour de guet, vous pouvez la transformer en tour de garde, augmentant ainsi l'efficacité de la défense du camp.
+}
+
+STRING 2551
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Fonderie. En construisant la fonderie, vous aurez la possibilité de construire des navires de transport et d'améliorer les armes et armures de vos navires de guerre.
+}
+
+STRING 2553
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Vous pouvez maintenant construire des navires de transport. Cela vous aidera à transférer des troupes de l'autre côté du canal.
+}
+
+STRING 2555
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Vos Grunts peuvent acquérir de nouvelles compétences à la caserne grace à la recherche "Pour la Horde !".
+}
+
+STRING 2556
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Tour de guet. Vos péons peuvent désormais construire des tours de guet qui augmentent la visibilité et peuvent être transformées en tour de garde.
+}
+
+STRING 2557
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Forge. Construisez une forge pour améliorer les armes et armures de vos guerriers.
+}
+
+STRING 2559
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Raffineries.
+Le raffinage du pétrole est une partie importante de l'expansion navale. Construire des raffineries permet d'extraire plus de pétrole. Il est recommandé de construire des raffineries à proximité des plates-formes pétrolières, car cela permet à vos pétroliers de livrer la ressource plus rapidement.
+}
+
+STRING 2561
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Vous pouvez améliorer l'armure et l'armement des navires à la fonderie.
+}
+
+STRING 2564
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Vos unités et vos bâtiments ont tous été détruits.
+}
+
+STRING 2565
+{
+Défaite !
+}
+
+STRING 2566
+// Units: nhef (Lady), Name (Name)
+{
+Dame
+}
+
+STRING 2567
+// Items: I0L0 (WC2Orc04Magistrate01), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2568
+// Items: I0L0 (WC2Orc04Magistrate01), Description (Description)
+{
+Merci capitaine. Quelles affaires vous amènent ?
+}
+
+STRING 2569
+// Items: I0L0 (WC2Orc04Magistrate01), Name (Name)
+{
+WC2Orc04Magistrate01
+}
+
+STRING 2570
+// Items: I0L1 (WC2Orc04Magistrate02), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2571
+// Items: I0L1 (WC2Orc04Magistrate02), Description (Description)
+{
+Ah oui, à ce propos... Je crains que l'évacuation que vous avez demandée n'ait pas lieu.
+}
+
+STRING 2572
+// Items: I0L1 (WC2Orc04Magistrate02), Name (Name)
+{
+WC2Orc04Magistrate02
+}
+
+STRING 2573
+// Items: I0L2 (WC2Orc04Magistrate03), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2574
+// Items: I0L2 (WC2Orc04Magistrate03), Description (Description)
+{
+C'est moi, capitaine. Autant dire que je ne suis pas convaincu qu'une offensive de la Horde soit aussi imminente que vous et les vôtres semblez le penser.
+}
+
+STRING 2575
+// Items: I0L2 (WC2Orc04Magistrate03), Name (Name)
+{
+WC2Orc04Magistrate03
+}
+
+STRING 2576
+// Items: I0L3 (WC2Orc04Magistrate04), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2577
+// Items: I0L3 (WC2Orc04Magistrate04), Description (Description)
+{
+J'ai ordonné à notre peuple de rester ici et j'ai confié à mes fonctionnaires des questions de plus grande importance... comme le commerce par exemple.
+}
+
+STRING 2578
+// Items: I0L3 (WC2Orc04Magistrate04), Name (Name)
+{
+WC2Orc04Magistrate04
+}
+
+STRING 2579
+// Items: I0L4 (WC2Orc04Magistrate05), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2580
+// Items: I0L4 (WC2Orc04Magistrate05), Description (Description)
+{
+Les orcs nous testent depuis des mois capitaine, et rien de ce que vous décrivez n'indique un changement de comportement selon moi.
+}
+
+STRING 2581
+// Items: I0L4 (WC2Orc04Magistrate05), Name (Name)
+{
+WC2Orc04Magistrate05
+}
+
+STRING 2582
+// Items: I0L5 (WC2Orc04Magistrate06), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2583
+// Items: I0L5 (WC2Orc04Magistrate06), Description (Description)
+{
+Cette peur n'est que la dernière incarnation d'un modèle très ancien. Les rois et les grands seigneurs feront tout leur possible pour justifier leurs hausses d'impôts, afin qu'ils puissent nourrir leurs armées et jouer leurs jeux politiques.
+}
+
+STRING 2584
+// Items: I0L5 (WC2Orc04Magistrate06), Name (Name)
+{
+WC2Orc04Magistrate06
+}
+
+STRING 2585
+// Items: I0L6 (WC2Orc04Magistrate07), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2586
+// Items: I0L6 (WC2Orc04Magistrate07), Description (Description)
+{
+J'ai renvoyé une partie de notre garnison à Tarren Mill. Une récente augmentation de l'activité des bandits a exigé une réponse.
+}
+
+STRING 2587
+// Items: I0L6 (WC2Orc04Magistrate07), Name (Name)
+{
+WC2Orc04Magistrate07
+}
+
+STRING 2588
+// Items: I0L7 (WC2Orc04Magistrate08), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2589
+// Items: I0L7 (WC2Orc04Magistrate08), Description (Description)
+{
+Un instant capitaine. Il n'y a aucune raison d'aller si loin ! Si la Horde est vraiment sur le point d'attaquer Lordaeron, que proposez-vous que je fasse ?
+}
+
+STRING 2590
+// Items: I0L7 (WC2Orc04Magistrate08), Name (Name)
+{
+WC2Orc04Magistrate08
+}
+
+STRING 2591
+// Items: I0L8 (WC2Orc04Magistrate9), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2592
+// Items: I0L8 (WC2Orc04Magistrate9), Description (Description)
+{
+Je le ferai... Et Meryn, prenez ces chevaux, ils transportent de la nourriture pour vos hommes.
+}
+
+STRING 2593
+// Items: I0L8 (WC2Orc04Magistrate9), Name (Name)
+{
+WC2Orc04Magistrate9
+}
+
+STRING 2594
+// Items: I0L9 (WC2Orc04Magistrate10), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2595
+// Items: I0L9 (WC2Orc04Magistrate10), Description (Description)
+{
+Non ! Meryn avait raison... Qu'ai-je fait..? Par la lumière qu'ai-je fait ?! Renforcez les portes ! Battez-vous ! Défendez la ville !
+}
+
+STRING 2596
+// Items: I0L9 (WC2Orc04Magistrate10), Name (Name)
+{
+WC2Orc04Magistrate10
+}
+
+STRING 2597
+// Items: I0LA (WC2Orc04Magistrate11), Tip (Tooltip - Basic)
+{
+Magistrat
+}
+
+STRING 2598
+// Items: I0LA (WC2Orc04Magistrate11), Description (Description)
+{
+Je vous en prie... épargnez-moi... Je suis très riche, je peux vous donner tout mon or !
+}
+
+STRING 2599
+// Items: I0LA (WC2Orc04Magistrate11), Name (Name)
+{
+WC2Orc04Magistrate11
+}
+
+STRING 2600
+// Items: I0LB (WC2Orc04Meryn1), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2601
+// Items: I0LB (WC2Orc04Meryn1), Description (Description)
+{
+Salutations Magistrat. Puisse la lumière vous bénir vous et les vôtres.
+}
+
+STRING 2602
+// Items: I0LB (WC2Orc04Meryn1), Name (Name)
+{
+WC2Orc04Meryn1
+}
+
+STRING 2603
+// Items: I0LC (WC2Orc04Meryn2), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2604
+// Items: I0LC (WC2Orc04Meryn2), Description (Description)
+{
+Je voudrais être informé sur l'évacuation des civils Magistrat, car la Horde pourrait agir à tout moment.
+}
+
+STRING 2605
+// Items: I0LC (WC2Orc04Meryn2), Name (Name)
+{
+WC2Orc04Meryn2
+}
+
+STRING 2606
+// Items: I0LD (WC2Orc04Meryn3), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2607
+// Items: I0LD (WC2Orc04Meryn3), Description (Description)
+{
+Quoi ? Nous vous avons averti sur les intentions de la Horde il y a des mois ! Qui est responsable de ce scandale ?
+}
+
+STRING 2608
+// Items: I0LD (WC2Orc04Meryn3), Name (Name)
+{
+WC2Orc04Meryn3
+}
+
+STRING 2609
+// Items: I0LE (WC2Orc04Meryn4), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2610
+// Items: I0LE (WC2Orc04Meryn4), Description (Description)
+{
+Ce n'est pas sérieux ? Qu'en est-il des attaques récentes sur les côtes ? Et des assauts sur la prison de Durnholde ?
+}
+
+STRING 2611
+// Items: I0LE (WC2Orc04Meryn4), Name (Name)
+{
+WC2Orc04Meryn4
+}
+
+STRING 2612
+// Items: I0LF (WC2Orc04Meryn5), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2613
+// Items: I0LF (WC2Orc04Meryn5), Description (Description)
+{
+Nourrir leurs armées dites-vous ? Alors pourquoi n'y a-t-il que trois douzaines de soldats ici ?
+}
+
+STRING 2614
+// Items: I0LF (WC2Orc04Meryn5), Name (Name)
+{
+WC2Orc04Meryn5
+}
+
+STRING 2615
+// Items: I0LG (WC2Orc04Meryn6), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2616
+// Items: I0LG (WC2Orc04Meryn6), Description (Description)
+{
+Mon pays était dirigé par des aristocrates naïfs et dénués de perspicacité. Quand la Horde est arrivée chez nous, ces seigneurs échouèrent à évaluer l'ampleur de la menace.
+}
+
+STRING 2617
+// Items: I0LG (WC2Orc04Meryn6), Name (Name)
+{
+WC2Orc04Meryn6
+}
+
+STRING 2618
+// Items: I0LH (WC2Orc04Meryn7), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2619
+// Items: I0LH (WC2Orc04Meryn7), Description (Description)
+{
+Il furent lents à réaliser ce qu'il se passait. Trop fiers pour demander de l'aide, ils ont failli à notre nation. Vous répétez leur erreur.
+}
+
+STRING 2620
+// Items: I0LH (WC2Orc04Meryn7), Name (Name)
+{
+WC2Orc04Meryn7
+}
+
+STRING 2621
+// Items: I0LI (WC2Orc04Meryn8), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2622
+// Items: I0LI (WC2Orc04Meryn8), Description (Description)
+{
+J'en informerai Sir Lothar en personne. Vous serez tenu responsable pour votre négligence Magistrat.
+}
+
+STRING 2623
+// Items: I0LI (WC2Orc04Meryn8), Name (Name)
+{
+WC2Orc04Meryn8
+}
+
+STRING 2624
+// Items: I0LJ (WC2Orc04Meryn9), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2625
+// Items: I0LJ (WC2Orc04Meryn9), Description (Description)
+{
+Rappelez vos troupes de Tarren Mill, et consolidez vos fortifications. Envoyez les civils dans les terres, et préparez-vous à la bataille de votre vie... La Horde ne fait pas de prisonniers, elle ne fait preuve d'aucune pitié.
+}
+
+STRING 2626
+// Items: I0LJ (WC2Orc04Meryn9), Name (Name)
+{
+WC2Orc04Meryn9
+}
+
+STRING 2627
+// Items: I0LK (WC2Orc04Meryn10), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2628
+// Items: I0LK (WC2Orc04Meryn10), Description (Description)
+{
+Merci Magistrat. Mes hommes et moi en avons assez de battre en retraite. Nous vous ferons gagner autant de temps que possible. Que la lumière soit avec vous. 
+}
+
+STRING 2629
+// Items: I0LK (WC2Orc04Meryn10), Name (Name)
+{
+WC2Orc04Meryn10
+}
+
+STRING 2630
+// Items: I0LL (WC2Orc04Meryn12), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2631
+// Items: I0LL (WC2Orc04Meryn12), Description (Description)
+{
+Patrick ! Samwell !
+}
+
+STRING 2632
+// Items: I0LL (WC2Orc04Meryn12), Name (Name)
+{
+WC2Orc04Meryn12
+}
+
+STRING 2633
+// Items: I0LM (WC2Orc04Meryn13), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2634
+// Items: I0LM (WC2Orc04Meryn13), Description (Description)
+{
+Le magistrat de Hillsbrad a négligé son devoir, et mis son village et la région en grand danger.
+}
+
+STRING 2635
+// Items: I0LM (WC2Orc04Meryn13), Name (Name)
+{
+WC2Orc04Meryn13
+}
+
+STRING 2636
+// Items: I0LN (WC2Orc04Meryn14), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2637
+// Items: I0LN (WC2Orc04Meryn14), Description (Description)
+{
+La Horde arrive.... nous le savons... il est de notre devoir de les occuper suffisamment longtemps pour que Hillsbrad rallie ses défenses et mette son peuple en sécurité.
+}
+
+STRING 2638
+// Items: I0LN (WC2Orc04Meryn14), Name (Name)
+{
+WC2Orc04Meryn14
+}
+
+STRING 2639
+// Items: I0LO (WC2Orc04Meryn15), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2640
+// Items: I0LO (WC2Orc04Meryn15), Description (Description)
+{
+Ce sera tout, voilà notre affrontement final. C'est notre chance de venger les fantômes de Stormwind.
+}
+
+STRING 2641
+// Items: I0LO (WC2Orc04Meryn15), Name (Name)
+{
+WC2Orc04Meryn15
+}
+
+STRING 2642
+// Items: I0LP (WC2Orc04Meryn16), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2643
+// Items: I0LP (WC2Orc04Meryn16), Description (Description)
+{
+Samwell. Vous devrez explorer les îles voisines pour tout signe d'activité de la Horde. Si nos craintes sont justes, nous devons savoir où et quand frapper - le sort d'Hillsbrad en dépend.
+}
+
+STRING 2644
+// Items: I0LP (WC2Orc04Meryn16), Name (Name)
+{
+WC2Orc04Meryn16
+}
+
+STRING 2645
+// Items: I0LQ (WC2Orc04Meryn17), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2646
+// Items: I0LQ (WC2Orc04Meryn17), Description (Description)
+{
+Bêtes immondes ! Vous paierez pour chaque goûte de sang versé à Stormwind et pour tout le peuple d'Azeroth !
+}
+
+STRING 2647
+// Items: I0LQ (WC2Orc04Meryn17), Name (Name)
+{
+WC2Orc04Meryn17
+}
+
+STRING 2648
+// Items: I0LR (WC2Orc04Meryn18), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2649
+// Items: I0LR (WC2Orc04Meryn18), Description (Description)
+{
+Stupide créature... En nous attaquant... Vous avez laissé le temps à Hillsbrad pour se préparer... Par la lumière... Ils seront prêts... pour vous.
+}
+
+STRING 2650
+// Items: I0LR (WC2Orc04Meryn18), Name (Name)
+{
+WC2Orc04Meryn18
+}
+
+STRING 2651
+// Items: I0LS (WC2Orc04Meryn19), Tip (Tooltip - Basic)
+{
+Meryn
+}
+
+STRING 2652
+// Items: I0LS (WC2Orc04Meryn19), Description (Description)
+{
+Finissez en... stupide animal.
+}
+
+STRING 2653
+// Items: I0LS (WC2Orc04Meryn19), Name (Name)
+{
+WC2Orc04Meryn19
+}
+
+STRING 2654
+// Items: I0LT (CaptainYesAttack1), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 2655
+// Items: I0LT (CaptainYesAttack1), Description (Description)
+{
+Bête immonde !
+}
+
+STRING 2656
+// Items: I0LT (CaptainYesAttack1), Name (Name)
+{
+CaptainYesAttack1
+}
+
+STRING 2657
+// Items: I0LU (O07FootmanA1101), Tip (Tooltip - Basic)
+{
+Fantassin
+}
+
+STRING 2658
+// Items: I0LU (O07FootmanA1101), Description (Description)
+{
+Des orcs ! Aux armes !
+}
+
+STRING 2659
+// Items: I0LU (O07FootmanA1101), Name (Name)
+{
+O07FootmanA1101
+}
+
+STRING 2660
+// Items: I0LV (O03Archmage06), Tip (Tooltip - Basic)
+{
+Archer
+}
+
+STRING 2661
+// Items: I0LV (O03Archmage06), Description (Description)
+{
+Maudits orcs ! Comment osez-vous nous suivre jusqu'ici !
+}
+
+STRING 2662
+// Items: I0LV (O03Archmage06), Name (Name)
+{
+O03Archmage06
+}
+
+STRING 2663
+// Items: I0LW (WC2Orc04Utok1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2664
+// Items: I0LW (WC2Orc04Utok1), Description (Description)
+{
+Seigneur de guerre, aux vues de ces nouveaux éléments, ne devrions-nous pas retirer nos forces vers une position plus défendable ? Sans l'Armada nous...
+}
+
+STRING 2665
+// Items: I0LW (WC2Orc04Utok1), Name (Name)
+{
+WC2Orc04Utok1
+}
+
+STRING 2666
+// Items: I0LX (WC2Orc04Utok2a), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2667
+// Items: I0LX (WC2Orc04Utok2a), Description (Description)
+{
+Hmm... Avec l'appui des nouvelles fonderies, nous devrions être en mesure de construire des navires plus avancés, incluant des transporteurs.
+}
+
+STRING 2668
+// Items: I0LX (WC2Orc04Utok2a), Name (Name)
+{
+WC2Orc04Utok2a
+}
+
+STRING 2669
+// Items: I0LY (WC2Orc04Utok2b), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2670
+// Items: I0LY (WC2Orc04Utok2b), Description (Description)
+{
+Cela permettra à nos troupes de traverser le canal jusqu'à la colonie humaine, et détruire Hillsbrad, comme l'ordonne le Chef de guerre.
+}
+
+STRING 2671
+// Items: I0LY (WC2Orc04Utok2b), Name (Name)
+{
+WC2Orc04Utok2b
+}
+
+STRING 2672
+// Items: I0LZ (WC2Orc04Utok3), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2673
+// Items: I0LZ (WC2Orc04Utok3), Description (Description)
+{
+Chef ! Des navires arborant les couleurs de Gilnéas sont en approche, ils semblent en mauvais état.
+}
+
+STRING 2674
+// Items: I0LZ (WC2Orc04Utok3), Name (Name)
+{
+WC2Orc04Utok3
+}
+
+STRING 2675
+// Items: I0Lz (WC2Orc04Utok4), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2676
+// Items: I0Lz (WC2Orc04Utok4), Description (Description)
+{
+Merci Seigneur de guerre. Servir la Horde est un grand honneur.
+}
+
+STRING 2677
+// Items: I0Lz (WC2Orc04Utok4), Name (Name)
+{
+WC2Orc04Utok4
+}
+
+STRING 2678
+// Items: I0Ly (WC2Orc04Zuljin1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 2679
+// Items: I0Ly (WC2Orc04Zuljin1), Description (Description)
+{
+Mes éclaireurs ont rapporté que l'Armada était sous le feu de la flotte Gilnéenne ! Ils disent que le combat est brutal, très sanglant !
+}
+
+STRING 2680
+// Items: I0Ly (WC2Orc04Zuljin1), Name (Name)
+{
+WC2Orc04Zuljin1
+}
+
+STRING 2681
+// Items: I0Lx (WC2Orc04Zuljin2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 2682
+// Items: I0Lx (WC2Orc04Zuljin2), Description (Description)
+{
+Voilà votre chance de me prouver que vous autres orcs, savez quoi faire d'une proie en fuite, Rend Blackhand.
+}
+
+STRING 2683
+// Items: I0Lx (WC2Orc04Zuljin2), Name (Name)
+{
+WC2Orc04Zuljin2
+}
+
+STRING 2684
+// Items: I0Lw (WC2Orc04Zuljin3), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 2685
+// Items: I0Lw (WC2Orc04Zuljin3), Description (Description)
+{
+Une fois encore, vous démontrez que mon choix était le bon, Rend Blackhand.
+}
+
+STRING 2686
+// Items: I0Lw (WC2Orc04Zuljin3), Name (Name)
+{
+WC2Orc04Zuljin3
+}
+
+STRING 2687
+// Items: I0Lv (WC2Orc04Zuljin4), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 2688
+// Items: I0Lv (WC2Orc04Zuljin4), Description (Description)
+{
+Pas plus d'honneur dans sa vie que dans sa mort.
+}
+
+STRING 2689
+// Items: I0Lv (WC2Orc04Zuljin4), Name (Name)
+{
+WC2Orc04Zuljin4
+}
+
+STRING 2690
+// Items: I0Lu (WC2Orc04Rend1), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2691
+// Items: I0Lu (WC2Orc04Rend1), Description (Description)
+{
+Je ne comprends pas. L'Armada devait arriver il y a des heures ! Si Doomhammer a perdu ses nerfs, alors je dirigerai cette invasion moi-même.
+}
+
+STRING 2692
+// Items: I0Lu (WC2Orc04Rend1), Name (Name)
+{
+WC2Orc04Rend1
+}
+
+STRING 2693
+// Items: I0Lt (WC2Orc04Rend2), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2694
+// Items: I0Lt (WC2Orc04Rend2), Description (Description)
+{
+Non, Utok. L'armada arrivera une fois ces chiens de Gilnéens écrasés, en attendant, nous ferons ce que nous devons faire. Quelle est l'avancée de la construction de notre propre flotte ?
+}
+
+STRING 2695
+// Items: I0Lt (WC2Orc04Rend2), Name (Name)
+{
+WC2Orc04Rend2
+}
+
+STRING 2696
+// Items: I0Ls (WC2Orc04Rend3), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2697
+// Items: I0Ls (WC2Orc04Rend3), Description (Description)
+{
+Excellent, Utok. Aujourd'hui, tous ceux qui s'opposeront à la Horde en auront pour leur compte.. Détruisez Hillsbrad ! Ne laissez personne en vie !
+}
+
+STRING 2698
+// Items: I0Ls (WC2Orc04Rend3), Name (Name)
+{
+WC2Orc04Rend3
+}
+
+STRING 2699
+// Items: I0Lr (WC2Orc04Rend4), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2700
+// Items: I0Lr (WC2Orc04Rend4), Description (Description)
+{
+Ce sont... les survivants de Stormwind ? Tuez-les tous !
+}
+
+STRING 2701
+// Items: I0Lr (WC2Orc04Rend4), Name (Name)
+{
+WC2Orc04Rend4
+}
+
+STRING 2702
+// Items: I0Lq (WC2Orc04Rend5), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2703
+// Items: I0Lq (WC2Orc04Rend5), Description (Description)
+{
+Hahaha ! Je savais que ces couards n'auraient aucune chance face à notre glorieuse armada ! Leur défaite doit être totale... Coulez chacun d'entre eux !
+}
+
+STRING 2704
+// Items: I0Lq (WC2Orc04Rend5), Name (Name)
+{
+WC2Orc04Rend5
+}
+
+STRING 2705
+// Items: I0Lp (WC2Orc04Rend6), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2706
+// Items: I0Lp (WC2Orc04Rend6), Description (Description)
+{
+Ce n'est que le début, mon ami. La Horde écrasera le monde entier de sa puissance.
+}
+
+STRING 2707
+// Items: I0Lp (WC2Orc04Rend6), Name (Name)
+{
+WC2Orc04Rend6
+}
+
+STRING 2708
+// Items: I0Lo (WC2Orc04Rend7), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2709
+// Items: I0Lo (WC2Orc04Rend7), Description (Description)
+{
+Malgré votre fragilité, vous combattez bien... pour un humain.
+}
+
+STRING 2710
+// Items: I0Lo (WC2Orc04Rend7), Name (Name)
+{
+WC2Orc04Rend7
+}
+
+STRING 2711
+// Items: I0Ln (WC2Orc04Rend8), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2712
+// Items: I0Ln (WC2Orc04Rend8), Description (Description)
+{
+Ah... Volontiers !
+}
+
+STRING 2713
+// Items: I0Ln (WC2Orc04Rend8), Name (Name)
+{
+WC2Orc04Rend8
+}
+
+STRING 2714
+// Items: I0Lm (WC2Orc04Rend9), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2715
+// Items: I0Lm (WC2Orc04Rend9), Description (Description)
+{
+Haha !
+}
+
+STRING 2716
+// Items: I0Lm (WC2Orc04Rend9), Name (Name)
+{
+WC2Orc04Rend9
+}
+
+STRING 2717
+// Items: I0Ll (WC2Orc04Rend10), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2718
+// Items: I0Ll (WC2Orc04Rend10), Description (Description)
+{
+Quel misérable couard !
+}
+
+STRING 2719
+// Items: I0Ll (WC2Orc04Rend10), Name (Name)
+{
+WC2Orc04Rend10
+}
+
+STRING 2720
+// Items: I0Lk (WC2Orc04Rend11), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2721
+// Items: I0Lk (WC2Orc04Rend11), Description (Description)
+{
+Nous avons fait du bon travail ici. Utok, je rapporterai vos exploits tactiques à Doomhammer personnellement ! Vous serez promu !
+}
+
+STRING 2722
+// Items: I0Lk (WC2Orc04Rend11), Name (Name)
+{
+WC2Orc04Rend11
+}
+
+STRING 2723
+// Items: I0Lj (WC2Orc04Patrick1), Tip (Tooltip - Basic)
+{
+Patrick
+}
+
+STRING 2724
+// Items: I0Lj (WC2Orc04Patrick1), Description (Description)
+{
+Le lion va rugir, commandant. Je vais distribuer des armes et préparer nos hommes pour la bataille à venir.
+}
+
+STRING 2725
+// Items: I0Lj (WC2Orc04Patrick1), Name (Name)
+{
+WC2Orc04Patrick1
+}
+
+STRING 2726
+// Items: I0Li (WC2Orc04Patrick2), Tip (Tooltip - Basic)
+{
+Samwell
+}
+
+STRING 2727
+// Items: I0Li (WC2Orc04Patrick2), Description (Description)
+{
+Bien, capitaine.
+}
+
+STRING 2728
+// Items: I0Li (WC2Orc04Patrick2), Name (Name)
+{
+WC2Orc04Patrick2
+}
+
+STRING 2729
+// Doodads: D007 (Ship Destroyed(Angeled)), Name (Name)
+{
+Navire détruit (En angle)
+}
+
+STRING 2731
+// Doodads: D008 (Light Yellow), Name (Name)
+{
+Lumière jaune
+}
+
+STRING 2732
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 2733
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 2734
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 2735
+{
+|cffffcc00Triche activée|r
+}
+

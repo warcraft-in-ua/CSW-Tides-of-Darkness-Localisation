@@ -1,0 +1,2974 @@
+﻿STRING 1
+{
+WC2Orc11
+}
+
+STRING 2
+{
+LoreCraftDesigns
+}
+
+STRING 239
+{
+Pierre runique de l'eau
+}
+
+STRING 240
+{
+Pierre runique du feu
+}
+
+STRING 241
+{
+Pierre runique de la terre
+}
+
+STRING 242
+{
+Pierre runique de l'air
+}
+
+STRING 244
+{
+Pierre runique de la forêt
+}
+
+STRING 245
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 246
+{
+|cffffff00C'est l'heure de danser ! |r
+}
+
+STRING 255
+{
+Conseil des Ombres
+}
+
+STRING 256
+{
+Trolls Amani 
+}
+
+STRING 258
+{
+Pierre runique de la forêt :
+}
+
+STRING 261
+{
+Pierre runique de la terre :
+}
+
+STRING 262
+{
+Pierre runique de l'air:
+}
+
+STRING 263
+{
+Pierre runique de l'eau:
+}
+
+STRING 264
+{
+Pierre runique du feu :
+}
+
+STRING 265
+{
+Pierres runiques
+}
+
+STRING 266
+{
+Gul'dan a un plan qui le mènera à un pouvoir illimité. Pour que ce plan soit mis en œuvre, il doit d'abord absorber le pouvoir des pierres runiques elfiques de Quel'Thalas.
+}
+
+STRING 269
+{
+Résistance elfique
+}
+
+STRING 270
+{
+Les elfes de Quel'Thalas ne resteront pas les bras croisés pendant que vous profanez leurs sanctuaires. Détruisez leur forteresse avant qu'ils ne constituent une menace significative pour vos plans.
+}
+
+STRING 271
+{
+Terre
+}
+
+STRING 272
+{
+Eau
+}
+
+STRING 273
+// Destructibles: B617 (Fire), Name (Name)
+{
+Feu
+}
+
+STRING 274
+{
+Air
+}
+
+STRING 278
+{
+Détruire les forces elfes.
+}
+
+STRING 279
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+S'emparer des pierres runiques
+- Terre
+- Feu
+- Forêt
+- Eau
+- Air
+}
+
+STRING 282
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Campement troll
+- Aider Zul'jin lorsqu'il en a besoin
+- Le camp troll ne doit pas être détruit
+
+}
+
+STRING 283
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Capturer les pierres runiques
+}
+
+STRING 284
+{
+|c00FEBA0EÉCHEC DE LA QUÊTE OPTIONNELLE |r
+Campement troll
+
+
+}
+
+STRING 285
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Résistance elfique
+
+}
+
+STRING 286
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Campement troll
+}
+
+STRING 292
+{
+|c0020C000MAÎTRE DES FORÊTS|r
+Grâce au pouvoir de la Pierre runique de la forêt absorbé par Gul'dan, vous pouvez invoquer des bêtes sauvages qui attaqueront vos ennemis.
+}
+
+STRING 293
+{
+|cff00ff00PLUIE ACIDE|r
+Grâce à la puissance de la pierre runique de l'eau absorbée par Gul'dan, vous pouvez invoquer une pluie acide qui empoisonne vos ennemis.
+}
+
+STRING 294
+{
+|c00FF8040EMBRASEMENT|r
+Avec la puissance de la pierre runique du feu absorbée par Gul'dan, vous pouvez invoquer des chocs de flammes sur vos ennemis.
+}
+
+STRING 296
+{
+|c007EBFF1OURAGANS|r
+Avec la puissance de la Pierre Rune de l'Air absorbée par Gul'dan, vous pouvez invoquer le Tourbillon qui anéantira vos ennemis.
+}
+
+STRING 341
+{
+Gul'dan
+}
+
+STRING 342
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Guldan2.flac
+{
+Je peux sentir cinq de ces pierres le long des frontières de Quel'Thalas, dont chacune incarne un élément, un peu comme la pierre que j'ai rencontrée à Caer Darrow. Dès que nous trouverons et absorberons leur pouvoir, les elfes s'effondreront devant nous...
+}
+
+STRING 374
+{
+Les morts se lèvent, Quel'Thalas tombe
+}
+
+STRING 379
+{
+Horde
+}
+
+STRING 380
+{
+Alliance
+}
+
+STRING 381
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Lanceur de hache polyvalent, efficace contre les unités aériennes. Peut apprendre la régénération des trolls. Peut être amélioré en Berserker, qui a la capacité Berserk et des statistiques améliorées. |n|n|cffffcc00Attaque des unités terrestres et aériennes.|r
+}
+
+STRING 386
+// Units: negf (Tower of Fire), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 387
+// Units: negm (Tower of Air), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 391
+// Units: H006 (Elven Mage), Name (Name)
+{
+Mage Elfe
+}
+
+STRING 392
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrat
+}
+
+STRING 430
+// Units: ocat (Ballista), Name (Name)
+{
+Baliste
+}
+
+STRING 522
+// Units: n60C (Scout Post), Name (Name)
+{
+Poste d'observation
+}
+
+STRING 523
+// Units: n60C (Scout Post), Tip (Tooltip - Basic)
+{
+Poste d'observation
+}
+
+STRING 524
+// Units: n60C (Scout Post), Description (Description)
+{
+Poste d'observation orc
+}
+
+STRING 551
+// Units: H006 (Elven Mage), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 676
+// Units: nefm (High Elven Manor), Ubertip (Tooltip - Extended)
+{
+Fournit de la nourriture, ce qui augmente le nombre maximum d'unités pouvant être entraînées.
+}
+
+STRING 737
+// Units: n60R (Runestone), Name (Name)
+{
+Pierre runique
+}
+
+STRING 738
+// Units: n60R (Runestone), EditorSuffix (Name - Editor Suffix)
+{
+(SW)
+}
+
+STRING 739
+// Units: n60R (Runestone), Tip (Tooltip - Basic)
+{
+Pierre runique(|cffffcc00R|r),
+}
+
+STRING 740
+// Units: n60R (Runestone), Ubertip (Tooltip - Extended)
+{
+Artefact elfique mystique
+}
+
+STRING 769
+// Units: u60C (Forest Spirit), Name (Name)
+{
+Esprit de la forêt
+}
+
+STRING 782
+// Units: n60V (Duck), Name (Name)
+{
+Canard
+}
+
+STRING 783
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+C'est juste un colvert
+}
+
+STRING 784
+// Units: h61K (Judicator), Name (Name)
+{
+Judicateur
+}
+
+STRING 785
+// Units: h61K (Judicator), Tip (Tooltip - Basic)
+{
+Entraîner Judicateur
+}
+
+STRING 788
+// Units: h61M (Forge), EditorSuffix (Name - Editor Suffix)
+{
+(Haut Elfe)
+}
+
+STRING 793
+// Units: o61I (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 794
+// Units: o61J (Spirit Lodge), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 796
+// Units: o61L (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 813
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 823
+// Units: h620 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 824
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 825
+// Units: h621 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 826
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 827
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Amélioration)
+}
+
+STRING 840
+// Units: n628 (Magic generator), Name (Name)
+{
+Générateur de magie
+}
+
+STRING 874
+// Units: n60F (Runestone), Name (Name)
+{
+Pierre runique
+}
+
+STRING 875
+// Units: n60F (Runestone), EditorSuffix (Name - Editor Suffix)
+{
+(SE)
+}
+
+STRING 876
+// Units: n60F (Runestone), Tip (Tooltip - Basic)
+{
+Pierre runique (|cffffcc00R|r),
+}
+
+STRING 877
+// Units: n60F (Runestone), Ubertip (Tooltip - Extended)
+{
+Artefact elfique mystique
+}
+
+STRING 898
+// Units: n60Y (Raven), Name (Name)
+{
+Corbeau
+}
+
+STRING 907
+// Units: n60Z (Spiders), Name (Name)
+{
+Araignées
+}
+
+STRING 908
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Araignées
+}
+
+STRING 1079
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 1100
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Quai
+}
+
+STRING 1101
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Champignons
+}
+
+STRING 1102
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 1103
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portail
+}
+
+STRING 1110
+// Destructibles: B60G (Giant Tree), Name (Name)
+{
+Arbre géant
+}
+
+STRING 1119
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1120
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Rafale de feu
+}
+
+STRING 1138
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Ancienne tombe
+}
+
+STRING 1140
+// Destructibles: B62T (Egg), Name (Name)
+{
+Œuf
+}
+
+STRING 1145
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 1146
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1149
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 1152
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1162
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 1168
+// Destructibles: B60U (Chest), Name (Name)
+{
+Coffre
+}
+
+STRING 1169
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Réserve de bois
+}
+
+STRING 1172
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Bannière Alliance
+}
+
+STRING 1173
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Poutre de soutien
+}
+
+STRING 1174
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Cinématique orc
+}
+
+STRING 1178
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Buissons
+}
+
+STRING 1183
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Pierre tombale orc
+}
+
+STRING 1184
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Décombres
+}
+
+STRING 1185
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Toile d'araignée
+}
+
+STRING 1215
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1216
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1217
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1218
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1231
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1232
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1233
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1234
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1235
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1254
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1259
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Bannière Stormreaver
+}
+
+STRING 1260
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Bannière Twilight Hammer
+}
+
+STRING 1263
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Herbe haute
+}
+
+STRING 1270
+// Doodads: D000 (QuelThalas Bush), Name (Name)
+{
+QuelThalas Bush
+}
+
+STRING 1271
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1296
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1297
+// Doodads: D6AD (Fog), Name (Name)
+{
+Brouillard
+}
+
+STRING 1328
+// Destructibles: B006 (Fountain), Name (Name)
+{
+Fontaine
+}
+
+STRING 1333
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Racines
+}
+
+STRING 1334
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1335
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1340
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1341
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1342
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1343
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1344
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1345
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1411
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1420
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Ratelier d'armures Orc
+}
+
+STRING 1421
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Ratelier d'armes Orc
+}
+
+STRING 1456
+// Units: ntor (Whirlwind), Name (Name)
+{
+Tourbillon
+}
+
+STRING 2601
+{
+Construisez plus de fermes pour continuer la production.,Construisez plus de fermes pour continuer la production.,Invoquez plus de ziggourats pour continuer la production.,Créez plus de puits lunaires pour continuer la production.
+}
+
+STRING 2602
+{
+Impossible d'exploiter la Plate-forme pétrolière
+}
+
+STRING 2603
+{
+Puit de pétrole en cours d'exploitation
+}
+
+STRING 2604
+{
+Nécessite une Plate-forme pétrolière
+}
+
+STRING 2605
+{
+Doit cibler un puit de pétrole.
+}
+
+STRING 2606
+{
+Doit être construit sur un puit de pétrole
+}
+
+STRING 2607
+{
+Vous pouvez ranimer votre héros dans la Grande Salle.
+}
+
+STRING 2609
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2610
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2611
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2612
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2613
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2614
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2615
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2616
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2617
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2618
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2619
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2620
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2621
+// Units: emow (Mana Stone), Name (Name)
+{
+Mana Stone
+}
+
+STRING 2622
+// Units: emow (Mana Stone), Tip (Tooltip - Basic)
+{
+Construire une pierre de mana
+}
+
+STRING 2623
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2624
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2625
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2628
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2666
+// Units: nbel (High Elf Lieutenant), Name (Name)
+{
+Lieutenant haut elfe
+}
+
+STRING 2667
+// Units: nbel (High Elf Lieutenant), Tip (Tooltip - Basic)
+{
+Entraîner Lieutenant haut elfe
+}
+
+STRING 2668
+// Units: H004 (High Elven Commander), Name (Name)
+{
+Commandant haut elfe
+}
+
+STRING 2670
+// Units: e001 (Treant), EditorSuffix (Name - Editor Suffix)
+{
+(Quel Thalas)
+}
+
+STRING 2671
+// Doodads: D001 (Quelthalas Large Tree Crown), Name (Name)
+{
+Grande couronne d'arbre Quelthalas
+}
+
+STRING 2672
+// Destructibles: B000 (Quelthalas Canopy Tree), Name (Name)
+{
+Arbre à canopée de Quelthalas
+}
+
+STRING 2675
+// Units: n004 (Botanist), Name (Name)
+{
+Botaniste
+}
+
+STRING 2682
+{
+Cinematic Zuljin
+}
+
+STRING 2683
+{
+Cinematic Chogal
+}
+
+STRING 2684
+{
+Pérégrins
+}
+
+STRING 2687
+{
+Cinematic Guldan
+}
+
+STRING 2688
+{
+Cinematic Dummy
+}
+
+STRING 2689
+// Doodads: ZRrk (Rocks Yellow), Name (Name)
+{
+Rocks Yellow
+}
+
+STRING 2690
+// Doodads: ZPru (Cattail Yellow), Name (Name)
+{
+Cattail Yellow
+}
+
+STRING 2691
+{
+Elfes de Quel'Thalas
+}
+
+STRING 2692
+// Units: nefm (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2693
+// Units: nef0 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2694
+// Units: nef1 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2695
+// Units: nef2 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2696
+// Units: nef3 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2697
+// Units: nef4 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2698
+// Units: nef5 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2699
+// Units: nef6 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2700
+// Units: nef7 (High Elven Manor), Name (Name)
+{
+Manoir Haut Elfe
+}
+
+STRING 2701
+// Destructibles: B001 (Fence), Name (Name)
+{
+Clôture
+}
+
+STRING 2702
+// Destructibles: B002 (Fence), Name (Name)
+{
+Clôture
+}
+
+STRING 2703
+// Destructibles: B003 (Fence short), Name (Name)
+{
+Clôture courte
+}
+
+STRING 2704
+// Destructibles: B004 (Fence short), Name (Name)
+{
+Clôture courte
+}
+
+STRING 2705
+// Destructibles: B005 (Wooden Bench), Name (Name)
+{
+Banc en bois
+}
+
+STRING 2706
+// Units: h61N (Elven Hatchery), Name (Name)
+{
+Écloserie elfique
+}
+
+STRING 2707
+// Units: h61N (Elven Hatchery), Tip (Tooltip - Basic)
+{
+Construire Écloserie elfique
+}
+
+STRING 2708
+// Units: h61N (Elven Hatchery), Ubertip (Tooltip - Extended)
+{
+Entraîne les chevaucheurs de dragon-faucon. |nContient également la mise à niveau Nuages.
+}
+
+STRING 2709
+// Units: hatw (Arcane Tower), Tip (Tooltip - Basic)
+{
+Construire Tour Arcane
+}
+
+STRING 2710
+// Units: halt (Altar of Heroes), Name (Name)
+{
+Autel des héros
+}
+
+STRING 2711
+// Units: halt (Altar of Heroes), Tip (Tooltip - Basic)
+{
+Construire Autel des héros
+}
+
+STRING 2712
+// Units: hars (Arcane Sanctum), Ubertip (Tooltip - Extended)
+{
+Forme des prêtres et des sorcières. |nContient également des améliorations de sorts pour les prêtres, les sorcières et les sentinelles magiques.
+}
+
+STRING 2715
+// Units: nefm (High Elven Manor), Tip (Tooltip - Basic)
+{
+Construire un manoir haut elfique
+}
+
+STRING 2717
+// Units: h005 (Botanist Garden), Name (Name)
+{
+Jardin botanique
+}
+
+STRING 2718
+// Units: h005 (Botanist Garden), Tip (Tooltip - Basic)
+{
+Construire Jardin botanique
+}
+
+STRING 2719
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fontaine
+}
+
+STRING 2720
+// Units: o61K (Voodoo Temple), Name (Name)
+{
+Temple vaudou
+}
+
+STRING 2721
+// Units: n60W (Troll Hut), Name (Name)
+{
+Cabane des trolls
+}
+
+STRING 2722
+// Units: n60X (Troll Hut), Name (Name)
+{
+Cabane des trolls
+}
+
+STRING 2723
+// Units: negf (Tower of Fire), Name (Name)
+{
+Tour de feu
+}
+
+STRING 2724
+// Units: negm (Tower of Air), Name (Name)
+{
+Tour de l'Air
+}
+
+STRING 2725
+// Units: nbt2 (Tower of Earth), Name (Name)
+{
+Tour de Terre
+}
+
+STRING 2726
+// Units: ndt2 (Tower of Water), Name (Name)
+{
+Tour de l'Eau
+}
+
+STRING 2727
+// Units: n007 (Wild Unicorn), Name (Name)
+{
+Licorne sauvage
+}
+
+STRING 2728
+// Units: n007 (Wild Unicorn), Tip (Tooltip - Basic)
+{
+Invoquer une licorne sauvage
+}
+
+STRING 2729
+{
+Campement Troll
+}
+
+STRING 2730
+{
+Zul'jin et ses trolls attaquent leurs ennemis jurés : les hauts elfes de Quel'Thalas. Le nombre d'Amani étant encore limité dans cette région, votre intervention sera nécessaire pour inverser la tendance en faveur de Zul'jin.
+}
+
+STRING 2731
+{
+Aider Zul'jin quand il en a besoin
+}
+
+STRING 2732
+{
+Le campement troll ne doit pas être détruit
+}
+
+STRING 2735
+{
+Antiquité
+}
+
+STRING 2736
+{
+Les licornes sauvages de Quel'Thalas sont sacrées pour les hauts elfes. Ces créatures magiques ont une grande puissance de mana qui pourrait être utilisée à votre avantage. Tuez-les pour gagner leur pouvoir et démoraliser les elfes.
+}
+
+STRING 2737
+{
+Tuez 10 licornes.
+}
+
+STRING 2738
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Abattage d'antiquités
+- Tuez 10 licornes.
+}
+
+STRING 2739
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Abattage d'antiquités
+}
+
+STRING 2744
+{
+Zul'jin
+}
+
+STRING 2745
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin3.flac
+{
+Et quand ils le feront… Quel’thalas tombera et les fantômes de mon peuple seront enfin vengés !
+}
+
+STRING 2753
+// Units: n008 (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(Variant A)
+}
+
+STRING 2754
+// Units: n009 (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(Variant B)
+}
+
+STRING 2755
+// Units: n00A (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(Variant C)
+}
+
+STRING 2756
+// Units: n00B (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(Variant D)
+}
+
+STRING 2757
+// Units: n00C (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(Variant E)
+}
+
+STRING 2778
+{
+Impie
+}
+
+STRING 2779
+{
+Troll
+}
+
+STRING 2783
+{
+Utok
+}
+
+STRING 2810
+// Units: nwlg (Lynx), Name (Name)
+{
+Lynx
+}
+
+STRING 2811
+// Units: nwlg (Lynx), Tip (Tooltip - Basic)
+{
+Invoquer Lynx
+}
+
+STRING 2842
+{
+Plusieurs heures plus tard...
+}
+
+STRING 2848
+// Items: I0Lq (WC2Orc11Zuljin1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 2849
+// Items: I0Lv (WC2Orc11Zuljin6), Description (Description)
+{
+Nous avons besoin d'aide ! Envoyez un mot aux orcs pour des renforts !
+}
+
+STRING 2850
+// Items: I0Lr (WC2Orc11Zuljin2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 2851
+// Items: I0Lu (WC2Orc11Zuljin5), Description (Description)
+{
+Nous sommes attaqués par les elfes ! Où sont nos alliés orcs ?!
+}
+
+STRING 2852
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Résistance elfique
+- Détruire les forces elfiques
+}
+
+STRING 2873
+{
+Tuer 10 licornes
+}
+
+STRING 2874
+{
+Licornes tuées :
+}
+
+STRING 2875
+// Units: H007 (Runestone Power), Name (Name)
+{
+Pouvoir de la pierre runique
+}
+
+STRING 2876
+// Units: H007 (Runestone Power), Propernames (Proper Names)
+{
+Pouvoir de la pierre runique
+}
+
+STRING 2933
+// Destructibles: B007 (Puddle), Name (Name)
+{
+Flaque
+}
+
+STRING 2934
+// Doodads: D002 (Fearies), Name (Name)
+{
+Lucioles
+}
+
+STRING 2949
+{
+Feu
+}
+
+STRING 2950
+{
+Forêt
+}
+
+STRING 2954
+{
+|cffffcc00ÉCHEC DE LA QUÊTE OPTIONNELLE|r
+Abattage d'antiquité
+}
+
+STRING 2958
+{
+|cff32cd32ASTUCE|r
+Les forces elfiques utiliseront des portails pour se déplacer sur la carte.
+}
+
+STRING 2961
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Campement troll
+}
+
+STRING 2962
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Capturer les pierres runiques
+|c00C0C0C0- Forêt (Terminé)|r
+
+}
+
+STRING 2963
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Capturer les pierres runiques
+|c00C0C0C0- Terre (Terminé)|r
+}
+
+STRING 2964
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Capturer les pierres runiques
+|c00C0C0C0- Feu (Terminé)|r
+
+}
+
+STRING 2965
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Capturer les pierres runiques
+|c00C0C0C0- Eau (Terminé)|r
+
+}
+
+STRING 2966
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Capturer les pierres runiques
+|c00C0C0C0- Air (Terminé)|r
+
+}
+
+STRING 3078
+// Units: H006 (Elven Mage), Propernames (Proper Names)
+{
+Lireesa Windrunner
+}
+
+STRING 3079
+// Units: H008 (Ranger General), Propernames (Proper Names)
+{
+Lireesa Windrunner
+}
+
+STRING 3080
+// Units: ocat (Ballista), Tip (Tooltip - Basic)
+{
+Entraîner Baliste
+}
+
+STRING 3175
+// Items: I000 (Scroll of Runestone Protection), Name (Name)
+{
+Parchemin de protection contre les pierres runiques
+}
+
+STRING 3186
+// Units: H004 (High Elven Commander), Propernames (Proper Names)
+{
+Althorien le Brave
+}
+
+STRING 3187
+// Units: H004 (High Elven Commander), Awakentip (Tooltip - Awaken)
+{
+Ranimer Chevalier
+}
+
+STRING 3188
+// Units: H004 (High Elven Commander), Revivetip (Tooltip - Revive)
+{
+Ranimer Chevalier
+}
+
+STRING 3189
+// Units: H008 (Ranger General), Name (Name)
+{
+Ranger General
+}
+
+STRING 3191
+// Units: o002 (Troll worker), Name (Name)
+{
+Ouvrier troll
+}
+
+STRING 3241
+{
+Cinematic Zuluhed
+}
+
+STRING 3258
+{
+Clan Blacktooth grin
+}
+
+STRING 3259
+// Doodads: D003 (DivineShield), Name (Name)
+{
+Bouclier Divin
+}
+
+STRING 3260
+// Destructibles: B008 (Silvermoon Tree), EditorSuffix (Editor Suffix)
+{
+(Pathless)
+}
+
+STRING 3294
+// Units: Nfir (Fire Elemental), Name (Name)
+{
+Élémentaire de feu
+}
+
+STRING 3295
+{
+|c00808080PEAU DE PIERRE|r
+Grâce à la puissance de la pierre runique terrestre absorbée par Gul'dan, vous pouvez protéger vos troupes avec une armure magique.
+}
+
+STRING 3296
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Votre camp a été détruit.
+}
+
+STRING 3297
+{
+|cffffcc00ÉCHEC DE LA MISSION|r
+}
+
+STRING 3298
+{
+Trolls Amani
+}
+
+STRING 3305
+{
+Quelques heures plus tard, près du camp du clan Stormreaver...
+}
+
+STRING 3306
+{
+Les dragons de la Horde mirent le feu aux anciennes forêts de Quel'thalas, semant la mort et le chaos parmi ses habitants.
+}
+
+STRING 3307
+{
+Pendant ce temps, l'armée de la Horde se rapprocha de la ville de Silvermoon et commença un siège.
+}
+
+STRING 3308
+{
+Le siège de Silvermoon dura près d'un mois, mettant la patience d'Orgrim Doomhammer à l'épreuve.
+}
+
+STRING 3309
+{
+Craignant que l'Alliance n'encercle l'armée de la horde à Quel'thalas, le Chef de guerre décida de renvoyer les clans Blacktooth Grin et Dragonmaw à Lordaeron.
+}
+
+STRING 3310
+{
+Il ordonna à Gul'dan et Zul'jin de poursuivre le siège jusqu'à ce que les barrières magiques des elfes soient épuisées et que la ville tombe sous les innombrables attaques de la Horde.
+}
+
+STRING 3312
+{
+|cffffcc00SECRET DÉCOUVERT|r
+Mission secrète débloquée.
+}
+
+STRING 3316
+// Items: I0LA (WC2Orc11Dommhammer1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3317
+// Items: I0LA (WC2Orc11Dommhammer1), Description (Description)
+{
+C'est du bon travail, Gul'dan. Faites-moi votre rapport.
+}
+
+STRING 3318
+// Items: I0LA (WC2Orc11Dommhammer1), Name (Name)
+{
+WC2Orc11Dommhammer1
+}
+
+STRING 3319
+// Items: I0LB (WC2Orc11Dommhammer2), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3320
+// Items: I0LB (WC2Orc11Dommhammer2), Description (Description)
+{
+Très impressionnant, Gul'dan. Vous et vos partisans avez prouvé votre utilité à la Horde.
+}
+
+STRING 3321
+// Items: I0LB (WC2Orc11Dommhammer2), Name (Name)
+{
+WC2Orc11Dommhammer2
+}
+
+STRING 3322
+// Items: I0LC (WC2Orc11Dommhammer3), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3323
+// Items: I0LC (WC2Orc11Dommhammer3), Description (Description)
+{
+Un instant... Où est Utok ? Je lui ai donné l'ordre direct de rester à vos côtés.
+}
+
+STRING 3324
+// Items: I0LC (WC2Orc11Dommhammer3), Name (Name)
+{
+WC2Orc11Dommhammer3
+}
+
+STRING 3325
+// Items: I0LD (WC2Orc11Dommhammer4), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3326
+// Items: I0LD (WC2Orc11Dommhammer4), Description (Description)
+{
+Hm, très bien. Zuluhed, il est temps de déchaîner "l'arme" que vous m'avez promise. Réduisez cette terre en cendres.
+}
+
+STRING 3327
+// Items: I0LD (WC2Orc11Dommhammer4), Name (Name)
+{
+WC2Orc11Dommhammer4
+}
+
+STRING 3328
+// Items: I0LE (WC2Orc11Dommhammer5), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3329
+// Items: I0LE (WC2Orc11Dommhammer5), Description (Description)
+{
+Ralliez-moi, guerriers ! En avant vers Silvermoon ! 
+}
+
+STRING 3330
+// Items: I0LE (WC2Orc11Dommhammer5), Name (Name)
+{
+WC2Orc11Dommhammer5
+}
+
+STRING 3331
+// Items: I0LF (WC2Orc11Guldan1), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3332
+// Items: I0LF (WC2Orc11Guldan1), Description (Description)
+{
+Bien. Le chef des trolls devrait arriver bientôt, et quand il arrivera, nous pourrons commencer à planifier les prochaines étapes de cette petite expédition.
+}
+
+STRING 3333
+// Items: I0LF (WC2Orc11Guldan1), Name (Name)
+{
+WC2Orc11Guldan1
+}
+
+STRING 3334
+// Items: I0LG (WC2Orc11Guldan2), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3335
+// Items: I0LG (WC2Orc11Guldan2), Description (Description)
+{
+Je peux sentir cinq de ces pierres le long des frontières de Quel'Thalas, dont chacune incarne un élément, un peu comme la pierre que j'ai rencontrée à Caer Darrow. Dès que nous trouverons et absorberons leur pouvoir, les elfes s'effondreront devant nous...
+}
+
+STRING 3336
+// Items: I0LG (WC2Orc11Guldan2), Name (Name)
+{
+WC2Orc11Guldan2
+}
+
+STRING 3337
+// Items: I0LH (WC2Orc11Guldan3), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3338
+// Items: I0LH (WC2Orc11Guldan3), Description (Description)
+{
+Excellent... ces créatures feront leurs preuves dans la bataille à venir. J'ai hâte de voir la terreur dans les yeux des elfes lorsque la mort elle-même apparaîtra devant eux !
+}
+
+STRING 3339
+// Items: I0LH (WC2Orc11Guldan3), Name (Name)
+{
+WC2Orc11Guldan3
+}
+
+STRING 3340
+// Items: I0LI (WC2Orc11Guldan4), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3341
+// Items: I0LI (WC2Orc11Guldan4), Description (Description)
+{
+Ahh.. le petit shaman loyal. Comme c'est curieux, je cherchais justement un moyen de me débarrasser de vous discrètement, mais vous semblez avoir résolu le problème pour moi. Je suppose que je devrais être reconnaissant...
+}
+
+STRING 3342
+// Items: I0LI (WC2Orc11Guldan4), Name (Name)
+{
+WC2Orc11Guldan4
+}
+
+STRING 3343
+// Items: I0LJ (WC2Orc11Guldan6), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3344
+// Items: I0LJ (WC2Orc11Guldan6), Description (Description)
+{
+Le pouvoir de la pierre de la Terre est à moi ! Je sens la force de la pierre dans mes os !
+}
+
+STRING 3345
+// Items: I0LJ (WC2Orc11Guldan6), Name (Name)
+{
+WC2Orc11Guldan6
+}
+
+STRING 3346
+// Items: I0LK (WC2Orc11Guldan5), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3347
+// Items: I0LK (WC2Orc11Guldan5), Description (Description)
+{
+Ahahah… Le Chef de guerre ne fera rien, petit, car il ne saura jamais ce qu'il s'est passé ici. Tu mourras dans cette fosse… seul et en geignant… pendant que j'assure le destin que je mérite !
+}
+
+STRING 3348
+// Items: I0LK (WC2Orc11Guldan5), Name (Name)
+{
+WC2Orc11Guldan5
+}
+
+STRING 3349
+// Items: I0LL (WC2Orc11Guldan7), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3350
+// Items: I0LL (WC2Orc11Guldan7), Description (Description)
+{
+Le pouvoir de la pierre de la Forêt est à moi ! Que les étendues sauvages se dessèchent et que leurs bêtes soient frappées par la folie !
+}
+
+STRING 3351
+// Items: I0LL (WC2Orc11Guldan7), Name (Name)
+{
+WC2Orc11Guldan7
+}
+
+STRING 3352
+// Items: I0LM (WC2Orc11Guldan8), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3353
+// Items: I0LM (WC2Orc11Guldan8), Description (Description)
+{
+Oui… le pouvoir de la Pierre de l'Air ! Les brises calmes de ce royaume céderont la place aux tempêtes renversant même ses murs !
+}
+
+STRING 3354
+// Items: I0LM (WC2Orc11Guldan8), Name (Name)
+{
+WC2Orc11Guldan8
+}
+
+STRING 3355
+// Items: I0LN (WC2Orc11Guldan9), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3356
+// Items: I0LN (WC2Orc11Guldan9), Description (Description)
+{
+La pierre de l’Eau m'appartient ! Les eaux qui autrefois donnaient vie à ces terres n'apporteront désormais que la mort !
+}
+
+STRING 3357
+// Items: I0LN (WC2Orc11Guldan9), Name (Name)
+{
+WC2Orc11Guldan9
+}
+
+STRING 3358
+// Items: I0LO (WC2Orc11Guldan10), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3359
+// Items: I0LO (WC2Orc11Guldan10), Description (Description)
+{
+La pierre de Feu est à moi ! Avec elle, je réduirai cette terre en cendres !
+}
+
+STRING 3360
+// Items: I0LO (WC2Orc11Guldan10), Name (Name)
+{
+WC2Orc11Guldan10
+}
+
+STRING 3361
+// Items: I0LP (WC2Orc11Guldan11), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3362
+// Items: I0LP (WC2Orc11Guldan11), Description (Description)
+{
+Tes menaces n’ont aucune porté, frêle elfe ! Stormreavers ! Décimez-les !
+}
+
+STRING 3363
+// Items: I0LP (WC2Orc11Guldan11), Name (Name)
+{
+WC2Orc11Guldan11
+}
+
+STRING 3364
+// Items: I0LQ (WC2Orc11Guldan12), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3365
+// Items: I0LQ (WC2Orc11Guldan12), Description (Description)
+{
+Ce ne sera pas nécessaire, mon apprenti. Nous avons ce pour quoi nous sommes venus. Rassemblez nos troupes et dirigez-vous vers la côte. La flotte Stormreaver aura un long voyage devant elle.
+}
+
+STRING 3366
+// Items: I0LQ (WC2Orc11Guldan12), Name (Name)
+{
+WC2Orc11Guldan12
+}
+
+STRING 3367
+// Items: I0LR (WC2Orc11Guldan13), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3368
+// Items: I0LR (WC2Orc11Guldan13), Description (Description)
+{
+Je ne suis pas Doomhammer, petit troll... et il n'est rien pour moi ! Je ne suis pas venu ici pour vous rendre ce royaume, sauvages insignifiants... Je suis venu pour m'emparer de son pouvoir... et avec lui... Je mettrai ce monde misérable à genoux.
+}
+
+STRING 3369
+// Items: I0LR (WC2Orc11Guldan13), Name (Name)
+{
+WC2Orc11Guldan13
+}
+
+STRING 3370
+// Items: I0LS (WC2Orc11Guldan14), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3371
+// Items: I0LS (WC2Orc11Guldan14), Description (Description)
+{
+Vous n'êtes que des pions dans un jeu bien plus grand... et quand il sera terminé, vous et toute la création vous prosternerez devant moi.
+}
+
+STRING 3372
+// Items: I0LS (WC2Orc11Guldan14), Name (Name)
+{
+WC2Orc11Guldan14
+}
+
+STRING 3373
+// Items: I0LT (WC2Orc11Guldan15), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3374
+// Items: I0LT (WC2Orc11Guldan15), Description (Description)
+{
+Viens avec moi, mon apprenti, et vois de tes propres yeux ce qui nous attend.
+}
+
+STRING 3375
+// Items: I0LT (WC2Orc11Guldan15), Name (Name)
+{
+WC2Orc11Guldan15
+}
+
+STRING 3376
+// Items: I0LU (WC2Orc11Guldan16), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3377
+// Items: I0LU (WC2Orc11Guldan16), Description (Description)
+{
+Ces créatures magiques détiennent un grand pouvoir en elles, nous devons en trouver davantage pour absorber leur essence.
+}
+
+STRING 3378
+// Items: I0LU (WC2Orc11Guldan16), Name (Name)
+{
+WC2Orc11Guldan16
+}
+
+STRING 3379
+// Items: I0LV (WC2Orc11Guldan17), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3380
+// Items: I0LV (WC2Orc11Guldan17), Description (Description)
+{
+Ce carnage devrait démoraliser les elfes et augmenter mes pouvoirs.
+}
+
+STRING 3381
+// Items: I0LV (WC2Orc11Guldan17), Name (Name)
+{
+WC2Orc11Guldan17
+}
+
+STRING 3382
+// Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3383
+// Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Description (Description)
+{
+Quelle entrée fracassante ! À qui ai-je l'honneur ? 
+}
+
+STRING 3384
+// Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Name (Name)
+{
+WC2Orc11Guldan_LireesaEncounter1
+}
+
+STRING 3385
+// Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3386
+// Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Description (Description)
+{
+Quelle bravade délicieuse, petite elfe, mais nous sommes des orcs... Nous sommes la Horde ! Aucuns de ceux qui se sont opposés à nous n'ont survécu, il n'en sera pas différemment pour vous.
+}
+
+STRING 3387
+// Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Name (Name)
+{
+WC2Orc11Guldan_LireesaEncounter2
+}
+
+STRING 3388
+// Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3389
+// Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Description (Description)
+{
+Tes menaces n’ont aucune porté, frêle elfe ! Stormreavers ! Décimez-les !
+}
+
+STRING 3390
+// Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Name (Name)
+{
+WC2Orc11Guldan_LireesaEncounter3
+}
+
+STRING 3391
+// Items: I0LZ (WC2Orc11Guldan_Final1), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3392
+// Items: I0LZ (WC2Orc11Guldan_Final1), Description (Description)
+{
+Je t'ai déjà brisée, petite fille... Regardes autour de toi, contemple la mort et la souffrance... Tel est le sort qui attend ton royaume, et ta race insignifiante ! 
+}
+
+STRING 3393
+// Items: I0LZ (WC2Orc11Guldan_Final1), Name (Name)
+{
+WC2Orc11Guldan_Final1
+}
+
+STRING 3394
+// Items: I0La (WC2Orc11Guldan_Final2), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3395
+// Items: I0La (WC2Orc11Guldan_Final2), Description (Description)
+{
+Elles sont libres d'essayer, et de mourir. Elle est toute à vous, Seigneur Zul'jin. Je vous offre son âme en cadeau...
+}
+
+STRING 3396
+// Items: I0La (WC2Orc11Guldan_Final2), Name (Name)
+{
+WC2Orc11Guldan_Final2
+}
+
+STRING 3397
+// Items: I0Lb (WC2Orc11Guldan_Final3), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3398
+// Items: I0Lb (WC2Orc11Guldan_Final3), Description (Description)
+{
+Bienvenue, Chef de guerre. Vous arrivez à point nommé.
+}
+
+STRING 3399
+// Items: I0Lb (WC2Orc11Guldan_Final3), Name (Name)
+{
+WC2Orc11Guldan_Final3
+}
+
+STRING 3400
+// Items: I0Lc (WC2Orc11Guldan_Final4), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3401
+// Items: I0Lc (WC2Orc11Guldan_Final4), Description (Description)
+{
+Nous avons décimé les défenses périphériques des elfes, tué leur général et revendiqué les pouvoirs de leurs pierres runiques pour la Horde. Quel'thalas est prête pour la conquête. Les elfes seront impuissants face à nous.
+}
+
+STRING 3402
+// Items: I0Lc (WC2Orc11Guldan_Final4), Name (Name)
+{
+WC2Orc11Guldan_Final4
+}
+
+STRING 3403
+// Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3404
+// Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Description (Description)
+{
+En effet, cependant... Je lui ai dit de partir en éclaireur pour trouver le meilleur itinéraire possible vers la capitale elfique. Il devrait être de retour au camp sous peu.
+}
+
+STRING 3405
+// Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Name (Name)
+{
+WC2Orc11Guldan_Final_UtokComment
+}
+
+STRING 3406
+// Items: I0Le (O05WarsongOrc0201), Tip (Tooltip - Basic)
+{
+Grunt
+}
+
+STRING 3407
+// Items: I0Le (O05WarsongOrc0201), Description (Description)
+{
+La forêt est vivante ! Nous sommes attaqués !
+}
+
+STRING 3408
+// Items: I0Le (O05WarsongOrc0201), Name (Name)
+{
+O05WarsongOrc0201
+}
+
+STRING 3409
+// Items: I0Lf (O04WarsongOrc1001), Tip (Tooltip - Basic)
+{
+Grunt
+}
+
+STRING 3411
+// Items: I0Lf (O04WarsongOrc1001), Name (Name)
+{
+O04WarsongOrc1001
+}
+
+STRING 3412
+// Items: I0Lg (WC2Orc11Utok1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3413
+// Items: I0Lg (WC2Orc11Utok1), Description (Description)
+{
+Argh ! La douleur… Je crois que je me suis cassé le bras… À l’aide ! Quelqu'un, vite !
+}
+
+STRING 3414
+// Items: I0Lg (WC2Orc11Utok1), Name (Name)
+{
+WC2Orc11Utok1
+}
+
+STRING 3415
+// Items: I0Lh (WC2Orc11Utok2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3416
+// Items: I0Lh (WC2Orc11Utok2), Description (Description)
+{
+Quoi ? Comment oses-tu ! Au nom du Chef de guerre, je vous ordonne de me sortir d'ici ! Le Chef de guerre va...
+}
+
+STRING 3417
+// Items: I0Lh (WC2Orc11Utok2), Name (Name)
+{
+WC2Orc11Utok2
+}
+
+STRING 3418
+// Items: I0Li (WC2Orc11Utok3), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3419
+// Items: I0Li (WC2Orc11Utok3), Description (Description)
+{
+Guldan ! Allez au diable ! Vous mourrez pour cela… Ecoutez-moi bien… vous mourrez pour cela !
+}
+
+STRING 3420
+// Items: I0Li (WC2Orc11Utok3), Name (Name)
+{
+WC2Orc11Utok3
+}
+
+STRING 3421
+// Items: I0Lj (WC2Orc11Utok4), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3422
+// Items: I0Lj (WC2Orc11Utok4), Description (Description)
+{
+Quelqu'un… Aidez-moi… Je vous en supplie...
+}
+
+STRING 3423
+// Items: I0Lj (WC2Orc11Utok4), Name (Name)
+{
+WC2Orc11Utok4
+}
+
+STRING 3424
+// Items: I0Lk (WC2Orc11Utok5), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3425
+// Items: I0Lk (WC2Orc11Utok5), Description (Description)
+{
+Gul'dan nous a tous trahis, Zul'jin... il m'a laissé pour mort dans cette fosse... aide-moi à sortir d'ici, puissant Zul'jin... Gul'dan ne doit pas s'en tirer comme ça !
+}
+
+STRING 3426
+// Items: I0Lk (WC2Orc11Utok5), Name (Name)
+{
+WC2Orc11Utok5
+}
+
+STRING 3427
+// Items: I0Ll (WC2Orc11Utok6), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3428
+// Items: I0Ll (WC2Orc11Utok6), Description (Description)
+{
+Vous avez subi une grande injustice aujourd'hui Zul'jin. Tharbek et le reste de mes guerriers sont à vos ordres… Je prie pour qu'ils suffisent. Quant à moi, je ne peux pas vous rejoindre… Le Chef de guerre doit savoir ce qu'il s'est passé ici… Je dois partir tout de suite…
+}
+
+STRING 3429
+// Items: I0Ll (WC2Orc11Utok6), Name (Name)
+{
+WC2Orc11Utok6
+}
+
+STRING 3430
+// Items: I0Lm (WC2Orc11xUtok2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3431
+// Items: I0Lm (WC2Orc11xUtok2), Description (Description)
+{
+Tharbek... Tu jubileras plus tard, l'heure est très grave ! 
+}
+
+STRING 3432
+// Items: I0Lm (WC2Orc11xUtok2), Name (Name)
+{
+WC2Orc11xUtok2
+}
+
+STRING 3433
+// Items: I0Ln (WC2Orc11xTharbek2), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3434
+// Items: I0Ln (WC2Orc11xTharbek2), Description (Description)
+{
+Eh bien, eh bien... Un commandant tombé dans une fosse et incapable d'en sortir... J'avais une meilleure opinion de toi, Utok.
+}
+
+STRING 3435
+// Items: I0Ln (WC2Orc11xTharbek2), Name (Name)
+{
+WC2Orc11xTharbek2
+}
+
+STRING 3436
+// Items: I0Lo (WC2Orc11xTharbek3), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3437
+// Items: I0Lo (WC2Orc11xTharbek3), Description (Description)
+{
+J'aurais volontiers fendu le crâne de ce sale démoniste en l'honneur du Chef de guerre, mais on m'a ordonné de rester aux côtés de Zul'jin à tout prix... Que les vents vous guident, Utok. Nous départagerons nos valeurs une autre fois.
+}
+
+STRING 3438
+// Items: I0Lo (WC2Orc11xTharbek3), Name (Name)
+{
+WC2Orc11xTharbek3
+}
+
+STRING 3439
+// Items: I0Lp (WC2Orc11Zuluhed_Final1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3440
+// Items: I0Lp (WC2Orc11Zuluhed_Final1), Description (Description)
+{
+À vos ordres, Chef de guerre !
+}
+
+STRING 3441
+// Items: I0Lp (WC2Orc11Zuluhed_Final1), Name (Name)
+{
+WC2Orc11Zuluhed_Final1
+}
+
+STRING 3442
+// Items: I0Ls (WC2Orc11Zuljin3), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3443
+// Items: I0Lq (WC2Orc11Zuljin1), Description (Description)
+{
+Salutations, sorciers ! Nos forces sont prêtes pour notre attaque conjointe contre les elfes. Dès que nous aurons écrasé les forces Elfes du sud, leurs frontières seront affaiblies. Nous pourrons progresser vers Silvermoon et anéantir ce royaume ignoble une fois pour toutes !
+}
+
+STRING 3444
+// Items: I0Lq (WC2Orc11Zuljin1), Name (Name)
+{
+WC2Orc11Zuljin1
+}
+
+STRING 3445
+// Items: I0Lt (WC2Orc11Zuljin4), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3446
+// Items: I0Lr (WC2Orc11Zuljin2), Description (Description)
+{
+Une grande partie de la puissance des elfes réside dans les pierres runiques qui protègent cette terre. Ces pierres épuisent notre volonté et notre esprit avec leur magie infâme, tout en renforçant les pouvoirs immortels des Elfes. Nous ne pouvons pas briser ce royaume tant qu'elles sont debout.
+}
+
+STRING 3447
+// Items: I0Lr (WC2Orc11Zuljin2), Name (Name)
+{
+WC2Orc11Zuljin2
+}
+
+STRING 3448
+// Items: I0Lu (WC2Orc11Zuljin5), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3449
+// Items: I0Ls (WC2Orc11Zuljin3), Description (Description)
+{
+Et quand ils le feront… Quel’thalas tombera et les fantômes de mon peuple seront enfin vengés !
+}
+
+STRING 3450
+// Items: I0Ls (WC2Orc11Zuljin3), Name (Name)
+{
+WC2Orc11Zuljin3
+}
+
+STRING 3451
+// Items: I0Lv (WC2Orc11Zuljin6), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3452
+// Items: I0Lt (WC2Orc11Zuljin4), Description (Description)
+{
+Les elfes essayent de ravager notre camp - nous n'avons aucune chance si nous ne combattons pas ensemble !
+}
+
+STRING 3453
+// Items: I0Lt (WC2Orc11Zuljin4), Name (Name)
+{
+WC2Orc11Zuljin4
+}
+
+STRING 3454
+// Items: I0Lw (WC2Orc11Zuljin7), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3456
+// Items: I0Lu (WC2Orc11Zuljin5), Name (Name)
+{
+WC2Orc11Zuljin5
+}
+
+STRING 3457
+// Items: I0Lx (WC2Orc11Zuljin8), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3459
+// Items: I0Lv (WC2Orc11Zuljin6), Name (Name)
+{
+WC2Orc11Zuljin6
+}
+
+STRING 3460
+// Items: I0Ly (WC2Orc11Zuljin9), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3461
+// Items: I0Lw (WC2Orc11Zuljin7), Description (Description)
+{
+Gul'dan ! Où étaient vos forces lorsque nous avons été attaqués ?! Pendant que mes guerriers étaient massacrés, vous ne vous souciez que du pouvoir des elfes ! Où est votre loyauté envers la Horde ?!
+}
+
+STRING 3462
+// Items: I0Lw (WC2Orc11Zuljin7), Name (Name)
+{
+WC2Orc11Zuljin7
+}
+
+STRING 3463
+// Items: I0Lz (WC2Orc11Zuljin10), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3464
+// Items: I0Lx (WC2Orc11Zuljin8), Description (Description)
+{
+Quoi ?! Vous partez maintenant ?! Il ne reste qu'un pas vers la victoire complète sur les elfes ! Lorsque j'ai conclu mon pacte avec la Horde, Doomhammer lui-même m'a donné sa parole que la Horde rendrait ces terres aux Amani !
+}
+
+STRING 3465
+// Items: I0Lx (WC2Orc11Zuljin8), Name (Name)
+{
+WC2Orc11Zuljin8
+}
+
+STRING 3466
+// Items: I1LA (WC2Orc11Zuljin11), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3467
+// Items: I0Ly (WC2Orc11Zuljin9), Description (Description)
+{
+Traître ! Parjure ! Votre trahison égoïste envers la Horde vous mènera à la mort ! J'ai déjà vu vos semblables, aveuglés par la cupidité et l'arrogance, et leurs destins ont tous été les mêmes. Votre fin sera lente, cruelle et angoissante… et lorsque vous réaliserez l'erreur de la voie que vous avez choisie… il sera trop tard. Que mes mots te maudissent, sorcier !
+}
+
+STRING 3468
+// Items: I0Ly (WC2Orc11Zuljin9), Name (Name)
+{
+WC2Orc11Zuljin9
+}
+
+STRING 3469
+// Items: I1LB (WC2Orc11Zuljin12), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3470
+// Items: I0Lz (WC2Orc11Zuljin10), Description (Description)
+{
+Scratcher…. Votre sorcier nous a trahis ! Toute l'armée s'est retirée, à l'exception de quelques grunts, laissant mon peuple et moi nous débrouiller seuls ! C'est une grande honte pour tous vos semblables !
+}
+
+STRING 3471
+// Items: I0Lz (WC2Orc11Zuljin10), Name (Name)
+{
+WC2Orc11Zuljin10
+}
+
+STRING 3472
+// Items: I1LC (KeeperOfTheGroveYesAttack1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3473
+// Items: I1LA (WC2Orc11Zuljin11), Description (Description)
+{
+Vous êtes mon débiteur maintenant, Scratcher. Je vous ai sauvé la vie... Vous et vos frères restants devez donc m'aider à défendre Zul'Aman. Bientôt, les elfes se regrouperont et riposteront. Honore le pacte, Utok ! Sans la Horde derrière nous, mon peuple sera anéanti !
+}
+
+STRING 3474
+// Items: I1LA (WC2Orc11Zuljin11), Name (Name)
+{
+WC2Orc11Zuljin11
+}
+
+STRING 3476
+// Items: I1LB (WC2Orc11Zuljin12), Description (Description)
+{
+Ce maudit sorcier sera la perte de la Horde…. Faites ce que vous devez faire… Je retournerai dans ma patrie pour la défendre. Apportez mes salutations à Rend et Orgrim, faites-leur savoir que mon combat continue...
+}
+
+STRING 3477
+// Items: I1LB (WC2Orc11Zuljin12), Name (Name)
+{
+WC2Orc11Zuljin12
+}
+
+STRING 3479
+// Items: I1LC (KeeperOfTheGroveYesAttack1), Description (Description)
+{
+Quand vous verrez les Loa, dites leur que Zul'jin vous envoie !
+}
+
+STRING 3480
+// Items: I1LC (KeeperOfTheGroveYesAttack1), Name (Name)
+{
+KeeperOfTheGroveYesAttack1
+}
+
+STRING 3481
+// Items: I1LD (WC2Orc11ElvenKnight1), Tip (Tooltip - Basic)
+{
+Elfe
+}
+
+STRING 3482
+// Items: I1LD (WC2Orc11ElvenKnight1), Description (Description)
+{
+Frères ! Les vils trolls ont amené ces monstres pour profaner nos terres ! Ne leur montrez aucune pitié, car ils n'en méritent aucune !
+}
+
+STRING 3483
+// Items: I1LD (WC2Orc11ElvenKnight1), Name (Name)
+{
+WC2Orc11ElvenKnight1
+}
+
+STRING 3484
+// Items: I1LE (WC2Orc11ElvenMage1), Tip (Tooltip - Basic)
+{
+Elfe
+}
+
+STRING 3485
+// Items: I1LE (WC2Orc11ElvenMage1), Description (Description)
+{
+Ce royaume existe depuis des milliers d'années, vil orc... le pouvoir de Quel'thalas vous décimera, vous et vos pathétiques alliés trolls !
+}
+
+STRING 3486
+// Items: I1LE (WC2Orc11ElvenMage1), Name (Name)
+{
+WC2Orc11ElvenMage1
+}
+
+STRING 3487
+// Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3489
+// Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Name (Name)
+{
+WC2Orc11Lireesa_ZuljinBase
+}
+
+STRING 3490
+// Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3491
+// Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Description (Description)
+{
+Anar'alah belore... Les orcs ont détruit nos pierres runiques sacrées ! Rangers ! Repliez-vous sur Tranquilien et envoyez immédiatement un message à Silvermoon ! Ils vont le payer très cher.
+}
+
+STRING 3492
+// Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Name (Name)
+{
+WC2Orc11Lireesa_RunestonesGone1
+}
+
+STRING 3493
+// Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3494
+// Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Description (Description)
+{
+Vous n'avez rien à faire ici, bêtes sauvages ! Retirez-vous immédiatement de ces forêts... Ou subissez-en les conséquences !
+}
+
+STRING 3495
+// Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Name (Name)
+{
+WC2Orc11Lireesa_FirstEncounter1
+}
+
+STRING 3496
+// Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3497
+// Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Description (Description)
+{
+Je suis Lireesa Windrunner, Ranger-général de Silvermoon. De nombreuses races inférieures se sont mesurées à la colère de Quel'thalas au fil des siècles... Toutes ont été humilliées. Ecoutez mon conseil, car votre prochain choix pourrait sceller votre sort, brute.
+}
+
+STRING 3498
+// Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Name (Name)
+{
+WC2Orc11Lireesa_FirstEncounter2
+}
+
+STRING 3499
+// Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3500
+// Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Description (Description)
+{
+Ce royaume existe depuis plus longtemps que votre faible esprit ne peut l'imaginer, petit orc. Poursuivez votre assaut, et vous et vos pathétiques alliés trolls serez éradiqués...
+}
+
+STRING 3501
+// Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Name (Name)
+{
+WC2Orc11Lireesa_FirstEncounter3
+}
+
+STRING 3502
+// Items: I1LK (WC2Orc11Lireesa_Final1), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3504
+// Items: I1LK (WC2Orc11Lireesa_Final1), Name (Name)
+{
+WC2Orc11Lireesa_Final1
+}
+
+STRING 3505
+// Items: I1LL (WC2Orc11Lireesa_Final2), Tip (Tooltip - Basic)
+{
+Lireesa Windrunner
+}
+
+STRING 3506
+// Items: I1LL (WC2Orc11Lireesa_Final2), Description (Description)
+{
+Mes filles... Me vengeront...
+}
+
+STRING 3507
+// Items: I1LL (WC2Orc11Lireesa_Final2), Name (Name)
+{
+WC2Orc11Lireesa_Final2
+}
+
+STRING 3508
+// Items: I1LM (WC2Orc11ChoGall1), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3509
+// Items: I1LM (WC2Orc11ChoGall1), Description (Description)
+{
+|cffffdd00Cho:|r Maître, notre camp est établi. |n|cffffdd00Gall:|r Nous sommes prêts pour de nouveaux ordres.
+}
+
+STRING 3510
+// Items: I1LM (WC2Orc11ChoGall1), Name (Name)
+{
+WC2Orc11ChoGall1
+}
+
+STRING 3511
+// Items: I1LN (WC2Orc11ChoGall2), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3512
+// Items: I1LN (WC2Orc11ChoGall2), Description (Description)
+{
+|cffffdd00Gall:|r Avec la destruction de la main de Tyr et de Stratholme, l'Alliance sera incapable d'envoyer des renforts. Les elfes nous feront face seuls. |n|cffffdd00Cho:|r Il ne faut cependant pas sous-estimer cette terre de magie. Ce ne sera pas facile pour nous de briser leurs défenses. La nature même de cette terre est de leur côté.
+}
+
+STRING 3513
+// Items: I1LN (WC2Orc11ChoGall2), Name (Name)
+{
+WC2Orc11ChoGall2
+}
+
+STRING 3514
+// Items: I1LO (WC2Orc11ChoGall3), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3515
+// Items: I1LO (WC2Orc11ChoGall3), Description (Description)
+{
+|cffffdd00Cho|r: Maître, nos forces sont prêtes à commencer la construction d'un Temple des Damnés. |n|cffffdd00Gall:|r Quand ce sera fini, nos chevaliers de la mort pourront rejoindre le combat.
+}
+
+STRING 3516
+// Items: I1LO (WC2Orc11ChoGall3), Name (Name)
+{
+WC2Orc11ChoGall3
+}
+
+STRING 3517
+// Items: I1LP (WC2Orc11ChoGall4), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3518
+// Items: I1LP (WC2Orc11ChoGall4), Description (Description)
+{
+|cffffdd00Cho:|r Quelle insolence ! |n|cffffdd00Gall:|r Qui es-tu pour parler au maître d'une telle manière !
+}
+
+STRING 3519
+// Items: I1LP (WC2Orc11ChoGall4), Name (Name)
+{
+WC2Orc11ChoGall4
+}
+
+STRING 3520
+// Items: I1LQ (WC2Orc11ChoGall5), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3521
+// Items: I1LQ (WC2Orc11ChoGall5), Description (Description)
+{
+|cffffdd00Cho:|r Maître, les défenses elfiques sont brisées. Nous sommes prêts à écraser Quel'Thalas et à effacer les elfes de la face de ce monde !
+}
+
+STRING 3522
+// Items: I1LQ (WC2Orc11ChoGall5), Name (Name)
+{
+WC2Orc11ChoGall5
+}
+
+STRING 3523
+// Items: I1LR (WC2Orc11ChoGall6), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3524
+// Items: I1LR (WC2Orc11ChoGall6), Description (Description)
+{
+|cffffdd00Cho:|r Nous ne comprenons pas, Maître, qu'est-ce qui pourrait être plus important que la victoire dans la guerre ? |n|cffffdd00Gall:|r De quel pouvoir parlez-vous ?
+}
+
+STRING 3525
+// Items: I1LR (WC2Orc11ChoGall6), Name (Name)
+{
+WC2Orc11ChoGall6
+}
+
+STRING 3534
+{
+Zul'jin
+}
+
+STRING 3535
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin6.flac
+{
+Nous avons besoin d'aide ! Envoyez un mot aux orcs pour des renforts ! 
+}
+
+STRING 3536
+{
+Zul'jin
+}
+
+STRING 3537
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin5.flac
+{
+Nous sommes attaqués par les elfes ! Où sont nos alliés orcs ?!
+}
+
+STRING 3538
+// Doodads: D004 (Light Red), Name (Name)
+{
+Light Red
+}
+
+STRING 3539
+// Units: n006 (Amani Warrior), Name (Name)
+{
+Guerrier Amani
+}
+
+STRING 3540
+// Units: n006 (Amani Warrior), Tip (Tooltip - Basic)
+{
+Engager Guerrier Amani
+}
+
+STRING 3541
+// Items: I0Lf (O04WarsongOrc1001), Description (Description)
+{
+Chef ! Nous sommes attaqués !
+}
+
+STRING 3542
+// Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Description (Description)
+{
+Rangers ! Zul'jin a amené des envahisseurs meurtriers sur nos terres... Détruisez sa base et rapportez-moi sa tête ! 
+}
+
+STRING 3543
+// Items: I1LK (WC2Orc11Lireesa_Final1), Description (Description)
+{
+Tu crois vraiment... Que tout ceci va finir avec moi, monstre ? Nous sommes les hauts elfes de Quel'Thalas... Et vous ne pouvez pas nous briser !
+}
+
+STRING 3544
+// Doodads: DLs0 (Light Yellow Weak), Name (Name)
+{
+Light Yellow Weak
+}
+
+STRING 3545
+// Destructibles: BQt0 (Tree Crown), Name (Name)
+{
+Tree Crown
+}
+
+STRING 3546
+{
+Magistères de Quel'Thalas
+}
+
+STRING 3547
+// Units: htow (Villa), Name (Name)
+{
+Villa
+}
+
+STRING 3548
+// Units: htow (Villa), Tip (Tooltip - Basic)
+{
+Construire Villa
+}
+
+STRING 3549
+// Units: hkee (Chateau), Tip (Tooltip - Basic)
+{
+Améliorer en Châtelet
+}
+
+STRING 3550
+// Units: hkee (Chateau), Name (Name)
+{
+Châtelet
+}
+
+STRING 3551
+// Units: hcas (Palace), Tip (Tooltip - Basic)
+{
+Améliorer en Palais
+}
+
+STRING 3552
+// Units: hcas (Palace), Name (Name)
+{
+Palais
+}
+
+STRING 3553
+// Units: nheb (Barracks), Name (Name)
+{
+Caserne
+}
+
+STRING 3554
+// Units: eshy (Shipyard), Name (Name)
+{
+Chantier Naval
+}
+
+STRING 3555
+// Units: h61M (Forge), Name (Name)
+{
+Forge
+}
+
+STRING 3556
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3557
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 3558
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 3559
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3560
+// Items: IQL0 (Fanatic), Tip (Tooltip - Basic)
+{
+Gangrel
+}
+
+STRING 3561
+// Items: IQL0 (Fanatic), Name (Name)
+{
+Fanatique
+}
+
+STRING 3562
+// Items: IQL0 (Fanatic), Description (Description)
+{
+L'unité amie doit être un Infernal
+}
+

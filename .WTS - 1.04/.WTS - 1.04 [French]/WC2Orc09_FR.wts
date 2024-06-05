@@ -1,0 +1,4273 @@
+﻿STRING 1
+{
+Chapitre neuf
+}
+
+STRING 2
+{
+L'effondrement de la Main de Tyr
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 20
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 72
+// Units: o006 (Utok Scratcher), Name (Name)
+{
+Utok Scratcher
+}
+
+STRING 78
+// Units: o007 (Troll Berserker), Name (Name)
+{
+Berserker Troll
+}
+
+STRING 145
+// Units: H00F (Paladin), Propernames (Proper Names)
+{
+Saidan Dathrohan
+}
+
+STRING 159
+{
+AttackGroundSize
+}
+
+STRING 160
+{
+AttackGroundGroup
+}
+
+STRING 161
+{
+DefendGroundSize
+}
+
+STRING 162
+{
+DefendGroundGroup
+}
+
+STRING 163
+{
+AttackNavalSize
+}
+
+STRING 164
+{
+AttackNavalGroup
+}
+
+STRING 165
+{
+DefendNavalGroup
+}
+
+STRING 166
+{
+DefendNavalSize
+}
+
+STRING 167
+{
+AttackGroundTyr
+}
+
+STRING 170
+// Units: N00B (Warlord), Propernames (Proper Names)
+{
+Maim Blackhand
+}
+
+STRING 196
+{
+Horde
+}
+
+STRING 197
+{
+Alliance
+}
+
+STRING 205
+// Units: o00A (Cinematic Turtle), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 235
+// Units: n009 (Ogre), Name (Name)
+{
+Ogre
+}
+
+STRING 237
+// Units: n009 (Ogre), Hotkey (Hotkey)
+{
+O
+}
+
+STRING 238
+// Units: n00A (Ogre Magi), Casterupgradename (Caster Upgrade Names)
+{
+Apprenti, Adepte, Maître
+}
+
+STRING 239
+// Units: n00A (Ogre Magi), Casterupgradetip (Caster Upgrade Tips)
+{
+- Furie sanguinaire,- Furie sanguinaire|n- Oeil de Kilrogg,- Furie sanguinaire|n- Oeil de Kilrogg|n- Runes
+}
+
+STRING 240
+// Units: n00A (Ogre Magi), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 248
+// Units: e002 (Ballista), Name (Name)
+{
+Baliste
+}
+
+STRING 250
+// Units: h009 (Paladin), Name (Name)
+{
+Paladin
+}
+
+STRING 253
+// Units: h009 (Paladin), Tip (Tooltip - Basic)
+{
+Entraîner Paladin
+}
+
+STRING 254
+// Units: h009 (Paladin), Ubertip (Tooltip - Extended)
+{
+Puissant guerrier monté. Peut soigner les unités. Peut apprendre Sainte vision et Exorcisme |n|n|cffffcc00Attaque des unités terrestres.|r
+}
+
+STRING 256
+// Items: I1LC (TaurenReady1), Tip (Tooltip - Basic)
+{
+Ogre-Magi
+}
+
+STRING 283
+// Units: h627 (Cleric), EditorSuffix (Name - Editor Suffix)
+{
+(Humain)
+}
+
+STRING 296
+// Units: o00A (Cinematic Turtle), Tip (Tooltip - Basic)
+{
+Entraîner tortue géante
+}
+
+STRING 315
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Construire canon
+}
+
+STRING 316
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Puissant canon à longue portée, mais lent et vulnérable.|n|n|cffffcc00Attaque des cibles au sol (y compris des arbres).|r
+}
+
+STRING 333
+// Units: oTA0 (Catapult), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 364
+// Units: h00C (Ranger), Name (Name)
+{
+Ranger
+}
+
+STRING 365
+// Units: O008 (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 371
+// Units: e003 (Destroyer), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 389
+// Units: O008 (Warlord), Name (Name)
+{
+Seigneur de guerre
+}
+
+STRING 390
+// Units: N00B (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 391
+// Units: O008 (Warlord), Awakentip (Tooltip - Awaken)
+{
+Ranimer Seigneur de guerre (|cffffcc00R|r)
+}
+
+STRING 392
+// Units: O008 (Warlord), Revivetip (Tooltip - Revive)
+{
+Ranimer Seigneur de guerre (|cffffcc00R|r)
+}
+
+STRING 393
+// Units: O008 (Warlord), Tip (Tooltip - Basic)
+{
+Seigneur de guerre (|cffffcc00R|r)
+}
+
+STRING 422
+// Units: e003 (Destroyer), Tip (Tooltip - Basic)
+{
+Construire Destructeur
+}
+
+STRING 427
+// Units: h00C (Ranger), Tip (Tooltip - Basic)
+{
+Entraîner Ranger
+}
+
+STRING 464
+// Units: o002 (Toiler), Ubertip (Tooltip - Extended)
+{
+Unité ouvrière de base. Peut récolter de l'or et du bois, construire des structures et les réparer. |n|n|cffffcc00Attaque les unités terrestres et les arbres.|r
+}
+
+STRING 466
+// Units: oTA1 (Troll Axethrower), Name (Name)
+{
+Lanceur de haches troll
+}
+
+STRING 467
+// Units: oTA1 (Troll Axethrower), Tip (Tooltip - Basic)
+{
+Entraîner Lanceur de haches troll
+}
+
+STRING 468
+// Units: oTA1 (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+
+Lanceur de hache polyvalent, efficace contre les unités aériennes. Peut apprendre la régénération des trolls. Peut être amélioré en Berserker, qui possède la capacité Rage et des statistiques accrues. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r}
+
+STRING 470
+// Units: oTA0 (Catapult), Name (Name)
+{
+Catapulte
+}
+
+STRING 471
+// Units: oTA0 (Catapult), Tip (Tooltip - Basic)
+{
+Construire Catapulte
+}
+
+STRING 520
+// Units: O008 (Warlord), Propernames (Proper Names)
+{
+Dal'Rend Blackhand
+}
+
+STRING 521
+// Units: N00B (Warlord), Name (Name)
+{
+Seigneur de guerre
+}
+
+STRING 522
+// Units: N00B (Warlord), Awakentip (Tooltip - Awaken)
+{
+Ranimer Seigneur de guerre (|cffffcc00R|r)
+}
+
+STRING 523
+// Units: N00B (Warlord), Tip (Tooltip - Basic)
+{
+Seigneur de guerre (|cffffcc00R|r)
+}
+
+STRING 561
+// Units: h00A (Archer), Name (Name)
+{
+Archer
+}
+
+STRING 602
+// Units: n60V (Duck), Name (Name)
+{
+Canard
+}
+
+STRING 603
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+C'est juste un colvert
+}
+
+STRING 621
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Mur de pierre orc
+}
+
+STRING 633
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 634
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 643
+// Units: h620 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 644
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 645
+// Units: h621 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 646
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 647
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Amélioration)
+}
+
+STRING 704
+// Units: h60F (Human Cannon), Name (Name)
+{
+Canon humain
+}
+
+STRING 719
+// Units: n60Y (Raven), Name (Name)
+{
+Corbeau
+}
+
+STRING 728
+// Units: n60Z (Spiders), Name (Name)
+{
+Araignées
+}
+
+STRING 729
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Araignées
+}
+
+STRING 763
+// Units: n611 (Wolf), Name (Name)
+{
+Loup
+}
+
+STRING 764
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 838
+// Units: h00E (Regional Defender), Tip (Tooltip - Basic)
+{
+Entraîner Défenseur
+}
+
+STRING 909
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 930
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Quai
+}
+
+STRING 931
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Champignons
+}
+
+STRING 932
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 933
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portail
+}
+
+STRING 939
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 943
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Tour du château
+}
+
+STRING 945
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Mur de pierre
+}
+
+STRING 949
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 950
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 951
+// Destructibles: B617 (Fire), Name (Name)
+{
+Feu
+}
+
+STRING 954
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Coin de mur de château
+}
+
+STRING 955
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Mur de château droit
+}
+
+STRING 956
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Petite porte de château
+}
+
+STRING 957
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Long mur de château
+}
+
+STRING 958
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Porte de château
+}
+
+STRING 960
+// Destructibles: B61L (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 961
+// Destructibles: B61L (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 965
+// Destructibles: B61S (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 968
+// Destructibles: B62N (Big Door), Name (Name)
+{
+Grosse porte
+}
+
+STRING 969
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Ancienne tombe
+}
+
+STRING 971
+// Destructibles: B62T (Egg), Name (Name)
+{
+Oeuf
+}
+
+STRING 974
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Court mur de château
+}
+
+STRING 976
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 977
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 980
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 983
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 993
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 994
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 995
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 996
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 998
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Phare
+}
+
+STRING 999
+// Destructibles: B60U (Chest), Name (Name)
+{
+Coffre
+}
+
+STRING 1000
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Réserve de bois
+}
+
+STRING 1001
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Or (Inactive)
+}
+
+STRING 1002
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Or (Active)
+}
+
+STRING 1003
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Bannière de l'Alliance
+}
+
+STRING 1004
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Poutre de soutien
+}
+
+STRING 1005
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Cinématique orc
+}
+
+STRING 1008
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 1009
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Buissons
+}
+
+STRING 1013
+// Destructibles: B61W (City Windows), Name (Name)
+{
+
+Fenêtres de ville
+}
+
+STRING 1014
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Pierre tombale orc
+}
+
+STRING 1015
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Décombres
+}
+
+STRING 1018
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 1019
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variations)
+}
+
+STRING 1020
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1021
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1022
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1023
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1024
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1025
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1026
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1027
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1028
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1029
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1030
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1031
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1032
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1033
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1034
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1035
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1036
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1037
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1038
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1039
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1040
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1041
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1042
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1044
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Castle Wall Stairs
+}
+
+STRING 1045
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Statue de chevalier
+}
+
+STRING 1046
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1047
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1048
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1049
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1066
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1067
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 1068
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 1069
+// Destructibles: B62M (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1070
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 1071
+// Destructibles: B62M (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 1085
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Cercle de puissance WC2
+}
+
+STRING 1091
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Bannière Stormreaver
+}
+
+STRING 1093
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Bannière Black Tooth Grin 
+}
+
+STRING 1095
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Herbe haute
+}
+
+STRING 1103
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Buissons animés
+}
+
+STRING 1104
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1111
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1112
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1135
+// Doodads: D6AD (Fog), Name (Name)
+{
+Brouillard
+}
+
+STRING 1140
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Wasteland Bush
+}
+
+STRING 1166
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fontaine
+}
+
+STRING 1168
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Cercle de puissance
+}
+
+STRING 1173
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1174
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1179
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1180
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1181
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1182
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1183
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1184
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1221
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Blé
+}
+
+STRING 1223
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Winter Crate snow
+}
+
+STRING 1227
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1228
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1250
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1251
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1252
+// Doodads: D617 (Archway Stone Winter Pathless), Name (Name)
+{
+Archway Stone Winter Pathless
+}
+
+STRING 1259
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Ratelier d'armures orc
+}
+
+STRING 1260
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Ratelier d'armes orc
+}
+
+STRING 1261
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1263
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Ratelier d'armures de la main d'argent
+}
+
+STRING 1264
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Ratelier d'armes de la main d'argent
+}
+
+STRING 1274
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 1275
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 1276
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 1277
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 1410
+// Buffs/Effects: B60V (), Bufftip (Tooltip)
+{
+Aura de rétribution
+}
+
+STRING 1493
+// Abilities: A624 (Frozen), EditorSuffix (Editor Suffix)
+{
+(Campaign mission)
+}
+
+STRING 1494
+// Abilities: A624 (Frozen), Name (Name)
+{
+Gelée
+}
+
+STRING 1495
+// Abilities: A624 (Frozen), Tip (Tooltip - Normal)
+{
+Cette unité est gelée
+}
+
+STRING 2440
+// Units: n004 (Villager), EditorSuffix (Name - Editor Suffix)
+{
+ (Female Blond)
+}
+
+STRING 2442
+{
+Nation de Stromgarde
+}
+
+STRING 2443
+// Units: e003 (Destroyer), Name (Name)
+{
+Destructeur
+}
+
+STRING 2444
+// Units: h627 (Cleric), Name (Name)
+{
+Cleric
+}
+
+STRING 2446
+// Units: h003 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde)
+}
+
+STRING 2447
+// Units: h004 (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde)
+}
+
+STRING 2448
+// Units: h005 (Knight), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde)
+}
+
+STRING 2449
+// Destructibles: B000 (Castle Gate), Name (Name)
+{
+Porte de château
+}
+
+STRING 2451
+// Units: h623 (Defender), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2453
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2454
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2455
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2456
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2457
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2458
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2459
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2460
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2461
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2462
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2463
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2464
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2465
+{
+Construisez plus de fermes pour continuer la production.,Construisez plus de fermes pour continuer la production.,Invoquez plus de ziggourats pour continuer la production.,Créez plus de puits lunaires pour continuer la production.}
+
+STRING 2466
+{
+Impossible d'exploiter la Plate-forme pétrolière
+}
+
+STRING 2467
+{
+Puit de pétrole en cours d'exploitation
+}
+
+STRING 2468
+{
+Nécessite une Plate-forme pétrolière
+}
+
+STRING 2469
+{
+Doit cibler un puit de pétrole
+}
+
+STRING 2470
+// Units: nmg1 (Murloc Hut), Name (Name)
+{
+Hutte de murloc
+}
+
+STRING 2471
+// Units: nmg1 (Murloc Hut), Tip (Tooltip - Basic)
+{
+Construire Hutte de murloc
+}
+
+STRING 2501
+// Units: e001 (FireballThrower), Name (Name)
+{
+FireballThrower
+}
+
+STRING 2502
+// Units: e001 (FireballThrower), EditorSuffix (Name - Editor Suffix)
+{
+(CinematicDummy)
+}
+
+STRING 2512
+// Units: o006 (Utok Scratcher), Ubertip (Tooltip - Extended)
+{
+Apprenti chaman et chroniqueur. |n|n|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 2528
+// Units: nth0 (Troll Hut), Name (Name)
+{
+Hutte des trolls
+}
+
+STRING 2529
+// Units: nth0 (Troll Hut), Tip (Tooltip - Basic)
+{
+Construire Hutte des trolls
+}
+
+STRING 2530
+// Units: nth1 (Troll Hut), Name (Name)
+{
+Hutte des trolls
+}
+
+STRING 2531
+// Units: nth1 (Troll Hut), Tip (Tooltip - Basic)
+{
+Construire Hutte des trolls
+}
+
+STRING 2532
+// Doodads: D000 (Troll Tower), Name (Name)
+{
+Hutte des trolls
+}
+
+STRING 2533
+// Doodads: D001 (Troll Burrow), Name (Name)
+{
+Terrier des Trolls
+}
+
+STRING 2534
+// Doodads: D002 (Troll Farm), Name (Name)
+{
+Ferme des Trolls
+}
+
+STRING 2535
+// Destructibles: B001 (Snowpile), Name (Name)
+{
+Tas de neige
+}
+
+STRING 2537
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Camp :
+- Trouver le camp Blacktooth Grin.
+|cffff0000- Rend doit survivre (Échec).|r
+}
+
+STRING 2539
+// Doodads: D003 (Arrows), Name (Name)
+{
+Flèches
+}
+
+STRING 2542
+// Units: h00E (Regional Defender), Name (Name)
+{
+Défenseur Régional
+}
+
+STRING 2576
+// Doodads: D004 (Banner Silverhand Wall), Name (Name)
+{
+Bannière de la main d'argent sur mur
+}
+
+STRING 2577
+// Doodads: D005 (Banner Silver Hand), Name (Name)
+{
+Bannière de la main d'argent
+}
+
+STRING 2578
+// Destructibles: B002 (Spike Trap), Name (Name)
+{
+Piège à pointes
+}
+
+STRING 2579
+// Destructibles: B003 (Weapon Rack New), Name (Name)
+{
+Nouveau ratelier d'armes
+}
+
+STRING 2582
+// Abilities: A004 (Blacktooth Grin Banner), Name (Name)
+{
+Bannière Blacktooth Grin 
+}
+
+STRING 2584
+// Units: o00A (Cinematic Turtle), Ubertip (Tooltip - Extended)
+{
+Ces tortues de mer géantes sont originaires des mers du sud et ont été capturées par le clan Stormreaver. Les gobelins audacieux qui les contrôlent se consacrent à la destruction des navires ennemis en lançant de dangereux bidons à vapeur contenant des liquides hautement volatils qui peuvent détruire même les armures les plus solides. |n|n|cffffcc00Nécessite|r 800 |cffffcc00Pétrole|r.
+}
+
+STRING 2597
+// Destructibles: B004 (Snowy Rock), Name (Name)
+{
+Rocher enneigé
+}
+
+STRING 2598
+// Destructibles: B004 (Snowy Rock), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 2605
+// Units: nfsp (Forest Troll Witch Doctor), Name (Name)
+{
+Sorcier-docteur troll des forêts
+}
+
+STRING 2606
+// Units: nfsp (Forest Troll Witch Doctor), Tip (Tooltip - Basic)
+{
+Engager Sorcier-docteur troll des forêts
+}
+
+STRING 2607
+// Units: nfsp (Forest Troll Witch Doctor), Ubertip (Tooltip - Extended)
+{
+Lance des missiles enflammés. Peut soigner les unités. Peut lancer Abolir la magie. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r
+}
+
+STRING 2608
+// Units: nfsh (Forest Troll Dark Shaman), Name (Name)
+{
+Troll des Forêts Chaman Sombre
+}
+
+STRING 2609
+// Units: nfsh (Forest Troll Dark Shaman), Tip (Tooltip - Basic)
+{
+Engager Troll des Forêts Chaman Sombre
+}
+
+STRING 2610
+// Units: nfsh (Forest Troll Dark Shaman), Ubertip (Tooltip - Extended)
+{
+Lance des missiles enflammés. Peut lancer Abolition de la magie et Feu intérieur. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r
+}
+
+STRING 2611
+// Destructibles: B61S (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(Lake)
+}
+
+STRING 2615
+// Units: n006 (Gnoll Warlord), Name (Name)
+{
+Seigneur de guerre gnoll
+}
+
+STRING 2623
+// Doodads: D006 (Wall End Lantern Pathless), Name (Name)
+{
+Wall End Lantern Pathless
+}
+
+STRING 2628
+{
+Cinematic_Dummy_1
+}
+
+STRING 2630
+{
+Cinematic_Dummy_Remove
+}
+
+STRING 2654
+// Units: h006 (Guard), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2655
+// Units: o002 (Toiler), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2657
+// Units: n009 (Ogre), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2660
+// Units: n008 (Toiler), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie Advanced)
+}
+
+STRING 2664
+// Units: n00A (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2667
+// Units: o006 (Utok Scratcher), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2670
+// Units: O008 (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2674
+// Units: N00B (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2677
+// Units: e002 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2679
+// Units: h009 (Paladin), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2693
+// Units: h00C (Ranger), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2703
+// Units: n00C (Seal), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2704
+// Units: h007 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde Amphibie)
+}
+
+STRING 2705
+// Units: h008 (Knight), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde Amphibie)
+}
+
+STRING 2710
+// Units: oTA0 (Catapult), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2712
+// Units: h00A (Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Human Amphibie)
+}
+
+STRING 2713
+// Units: h00B (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Stromgarde Amphibie)
+}
+
+STRING 2717
+// Units: oTA1 (Troll Axethrower), EditorSuffix (Name - Editor Suffix)
+{
+(Amphibie)
+}
+
+STRING 2726
+// Abilities: S008 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2727
+// Abilities: S009 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2728
+// Abilities: STA1 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Catapulte)
+}
+
+STRING 2729
+// Abilities: S00A (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2730
+// Abilities: STU0 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Utok)
+}
+
+STRING 2731
+// Abilities: S00B (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2732
+// Abilities: STA3 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Rend)
+}
+
+STRING 2733
+// Abilities: S00C (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2735
+// Abilities: S00D (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2737
+// Abilities: S00G (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2738
+// Abilities: S008 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Troll)
+}
+
+STRING 2739
+// Abilities: S00H (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2740
+// Abilities: S009 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Berserker)
+}
+
+STRING 2741
+// Abilities: S00I (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2742
+// Abilities: S00A (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Ogre)
+}
+
+STRING 2743
+// Abilities: S00J (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2744
+// Abilities: S00B (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (OgreMagi)
+}
+
+STRING 2745
+// Abilities: S00K (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2746
+// Abilities: S00C (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Peon)
+}
+
+STRING 2747
+// Abilities: S00L (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2748
+// Abilities: S00D (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (PeonAdvanced)
+}
+
+STRING 2750
+// Abilities: S00E (Ogre Magi), EditorSuffix (Editor Suffix)
+{
+(MorphForAmphibiouis)
+}
+
+STRING 2751
+// Abilities: S00F (Berserker Upgrade), EditorSuffix (Editor Suffix)
+{
+(Amphibious)
+}
+
+STRING 2752
+// Abilities: S00M (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2766
+// Abilities: S00G (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Footman)
+}
+
+STRING 2767
+// Abilities: S00N (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2768
+// Abilities: S00H (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Knight)
+}
+
+STRING 2769
+// Abilities: STU0 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2770
+// Abilities: S00I (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Paladin)
+}
+
+STRING 2771
+// Abilities: STA1 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2772
+// Abilities: S00J (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Human Archer)
+}
+
+STRING 2773
+// Abilities: STA2 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2774
+// Abilities: S00K (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Elven Ranger)
+}
+
+STRING 2775
+// Abilities: STA3 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2776
+// Abilities: S00L (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Ballistae)
+}
+
+STRING 2777
+// Abilities: STA4 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 2778
+// Abilities: S00M (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Captain)
+}
+
+STRING 2780
+// Doodads: IWie (Ice Floating Angled), Name (Name)
+{
+Glace flottante coudée
+}
+
+STRING 2781
+// Doodads: D007 (Ice Floating Straight), Name (Name)
+{
+Glace flottante droite
+}
+
+STRING 2782
+// Doodads: D008 (Wanted Scroll), Name (Name)
+{
+Parchemin recherché
+}
+
+STRING 2785
+// Destructibles: B005 (Fence), Name (Name)
+{
+Clôture
+}
+
+STRING 2786
+// Destructibles: B006 (Fence), Name (Name)
+{
+Clôture
+}
+
+STRING 2789
+// Units: H00D (Dalaran Mage), Name (Name)
+{
+Mage de Dalaran
+}
+
+STRING 2790
+// Units: H00D (Dalaran Mage), Propernames (Proper Names)
+{
+Aran Spellweaver
+}
+
+STRING 2799
+// Units: o00A (Cinematic Turtle), Name (Name)
+{
+Tortue cinématographique
+}
+
+STRING 2800
+{
+|cff808080Triche activée|r
+}
+
+STRING 2801
+{
+|cff808080Triche activée|r
+}
+
+STRING 2802
+{
+|cff808080Triche activée|r
+}
+
+STRING 2803
+{
+|cff808080Triche activée|r
+}
+
+STRING 2806
+{
+|cff808080Triche activée|r
+}
+
+STRING 2807
+{
+Prochaine caravane :
+}
+
+STRING 2809
+// Units: nmg1 (Murloc Hut), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 2811
+// Abilities: S00N (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Seal)
+}
+
+STRING 2814
+{
+|cffff0000La caravane a quitté la baie !|r
+}
+
+STRING 2821
+// Units: h00E (Regional Defender), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic Flying)
+}
+
+STRING 2845
+{
+|cffffcc00QUÊTE OPTIONELLE MISE QUÊTE OPTIONELLE JOUR|r
+Potion du Berserker
+  -|cff808080 Trouver l'herbe spirituelle. (Terminé)|r
+  -|cff808080 Apporter la à l'alchimiste gobelin. (Terminé)|r
+  - Transformer vos trolls en Berserkers.
+}
+
+STRING 2850
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Démolir la Main de Tyr
+}
+
+STRING 2851
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Tenir la position
+}
+
+STRING 2853
+{
+|cffffcc00QUÊTE OPTIONELLE TERMINÉE|r
+Potion du Berserker
+}
+
+STRING 2883
+{
+|cff00ff00ASTUCE|r
+The Goblin Alchemist lab should be build by your own peons.
+}
+
+STRING 2887
+// Doodads: D009 (- Bubbles), Name (Name)
+{
+- Bulles
+}
+
+STRING 2888
+// Doodads: D00A (- Plankton), Name (Name)
+{
+- Plancton
+}
+
+STRING 2949
+// Destructibles: BD07 (Pathing Blocker (BuildingX)), Name (Name)
+{
+Pathing Blocker (BuildingX)
+}
+
+STRING 2964
+{
+Ordre de la Main d'Argent
+}
+
+STRING 2974
+// Units: o001 (Brute), Name (Name)
+{
+Brute
+}
+
+STRING 2975
+// Units: o001 (Brute), Tip (Tooltip - Basic)
+{
+Train Brute
+}
+
+STRING 2979
+{
+Tribue Witherbark
+}
+
+STRING 2980
+// Units: H00G (Lord), Name (Name)
+{
+Seigneur
+}
+
+STRING 2981
+// Units: H00G (Lord), Propernames (Proper Names)
+{
+Mathias Valdemar
+}
+
+STRING 2982
+// Units: H00G (Lord), Awakentip (Tooltip - Awaken)
+{
+Ranimer Seigneur
+}
+
+STRING 2983
+// Units: H00G (Lord), Tip (Tooltip - Basic)
+{
+Invoquer Seigneur
+}
+
+STRING 2984
+// Units: H00G (Lord), Revivetip (Tooltip - Revive)
+{
+Ranimer Seigneur
+}
+
+STRING 2985
+// Units: h006 (Guard), Name (Name)
+{
+Garde
+}
+
+STRING 2986
+// Units: h006 (Guard), Tip (Tooltip - Basic)
+{
+Invoquer Garde
+}
+
+STRING 2987
+// Units: h006 (Guard), Ubertip (Tooltip - Extended)
+{
+Soldat d'élite stromgardien. Peut apprendre la capacité Défendre. |n|n|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 2993
+// Buffs/Effects: B60V (), Buffubertip (Tooltip - Extended)
+{
+Cette unité est sous les effets de Aura de Rétribution ; les unités de mêlée qui l'attaquent subiront des dégâts.
+}
+
+STRING 3013
+// Units: H00H (Lord), Name (Name)
+{
+Seigneur
+}
+
+STRING 3014
+// Units: H00H (Lord), Propernames (Proper Names)
+{
+Mathias Valdemar
+}
+
+STRING 3015
+// Units: H00H (Lord), Awakentip (Tooltip - Awaken)
+{
+Ranimer Seigneur
+}
+
+STRING 3016
+// Units: H00H (Lord), Tip (Tooltip - Basic)
+{
+Invoquer Seigneur
+}
+
+STRING 3017
+// Units: H00H (Lord), Revivetip (Tooltip - Revive)
+{
+Ranimer Seigneur
+}
+
+STRING 3018
+// Units: H00H (Lord), EditorSuffix (Name - Editor Suffix)
+{
+(Defense Stance)
+}
+
+STRING 3046
+{
+Quelques heures plus tard...
+}
+
+STRING 3049
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+Vous pouvez désormais effectuer des améliorations pour Ogre-Magi dans l'Autel des Tempêtes.
+}
+
+STRING 3059
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Trop de caravanes ont quitté la baie.
+}
+
+STRING 3108
+{
+|cffffcc00ÉCHEC DE LA MISSION|r
+}
+
+STRING 3112
+// Destructibles: B001 (Snowpile), EditorSuffix (Editor Suffix)
+{
+(Cliff)
+}
+
+STRING 3113
+// Destructibles: B007 (Snowpile), Name (Name)
+{
+Snowpile
+}
+
+STRING 3114
+// Destructibles: B007 (Snowpile), EditorSuffix (Editor Suffix)
+{
+(Flat)
+}
+
+STRING 3115
+// Units: o002 (Toiler), Name (Name)
+{
+Travailleur
+}
+
+STRING 3116
+// Units: n008 (Toiler), Name (Name)
+{
+Travailleur
+}
+
+STRING 3118
+// Units: o001 (Brute), Ubertip (Tooltip - Extended)
+{
+Guerrier Orc brutal. 
+Compétences : Pour la Horde ! - Pillage
+
+cffffcc00Attaque des unités terrestres.|r
+}
+
+STRING 3119
+// Units: o001 (Brute), EditorSuffix (Name - Editor Suffix)
+{
+(WC2 - Amphibious)
+}
+
+STRING 3120
+// Units: o002 (Toiler), Tip (Tooltip - Basic)
+{
+Entraîner Travailleur
+}
+
+STRING 3121
+// Units: n008 (Toiler), Tip (Tooltip - Basic)
+{
+Entraîner Travailleur
+}
+
+STRING 3122
+// Units: n009 (Ogre), Tip (Tooltip - Basic)
+{
+Entraîner Ogre
+}
+
+STRING 3123
+// Units: n009 (Ogre), Ubertip (Tooltip - Extended)
+{
+Les ogres sont les monstrueux alliés à deux têtes des orcs qui furent amenés par le portail par le démoniste Gul'dan après la première guerre.
+Compétences : Pillage
+Amélioration en : Ogre-Magi
+
+cffffcc00Peut attaquer les unités terrestres.|r
+}
+
+STRING 3124
+// Units: n00A (Ogre Magi), Ubertip (Tooltip - Extended)
+{
+Les Ogres-magi étaient à l'origine un groupuscule d'ogres etrêmement loyal transformé par Gul'dan en sorciers malveillants. Peut lancer Soif de Sang. Peut apprendre Oeil de Kilrogg et Runes. 
+Compétences : Furie sanguinaire - Oeil de Kilrogg - Runes - Pillage
+
+cffffcc00Attaque des unités terrestres.|r
+}
+
+STRING 3125
+// Units: n00A (Ogre Magi), Tip (Tooltip - Basic)
+{
+Entraîner Ogre-Magi
+}
+
+STRING 3126
+// Units: o007 (Troll Berserker), Ubertip (Tooltip - Extended)
+{
+Lanceur de hache polyvalent, efficace contre les unités aériennes. 
+Compétences : Rage - Embuscade - Régénération du Berserker - Vision du Berserker - Haches légères - Piège
+
+|cffffcc00Attaque des unités terrestres et aériennes.|r
+}
+
+STRING 3127
+// Units: o007 (Troll Berserker), EditorSuffix (Name - Editor Suffix)
+{
+(WC2 - Amphibious)
+}
+
+STRING 3128
+// Units: o007 (Troll Berserker), Tip (Tooltip - Basic)
+{
+Entraîner Berserker troll
+}
+
+STRING 3130
+// Units: oTA0 (Catapult), Ubertip (Tooltip - Extended)
+{
+Arme de siège à longue portée. Efficace contre les bâtiments, mais lente et vulnérable.
+Compétences : Huile enflammée
+
+|cffffcc00Attaque les unités terrestres et les arbres.|r 
+}
+
+STRING 3131
+// Units: o006 (Utok Scratcher), Casterupgradename (Caster Upgrade Names)
+{
+Grunt,Initié,Novice,Élève,Apprenti,Tueur,Chaman,Capitaine,Superviseur,Champion,Commandant,Grand Maître,Général,Seigneur de Guerre
+}
+
+STRING 3132
+// Units: o006 (Utok Scratcher), Casterupgradetip (Caster Upgrade Tips)
+{
+- Peau résistante,- Peau résistante|n- Chaîne d'éclairs,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Lighning Bolt|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Lighning Bolt|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Lighning Bolt|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel,- Peau résistante|n- Chaîne d'éclairs|n- Panser les blessures|n- Purge|n- Réveil spirituel
+}
+
+STRING 3133
+// Units: O008 (Warlord), Ubertip (Tooltip - Extended)
+{
+Fils de l'ancien Chef de guerre de la Horde, Blackhand le Destructeur, Dal'rend Blackhand est un guerrier puissant et rusé, connu pour son esprit stratégique et son admiration pour le leadership.
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3134
+// Units: N00B (Warlord), Revivetip (Tooltip - Revive)
+{
+Ranimer Maim Blackhand
+}
+
+STRING 3135
+// Units: N00B (Warlord), Ubertip (Tooltip - Extended)
+{
+Fils de l'ancien Chef de guerre de la Horde, Blackhand le destructeur, Maim Blackhand est un guerrier brutal, mais qui manque souvent de patience et de stratégie.
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3136
+// Units: h004 (Captain), Ubertip (Tooltip - Extended)
+{
+Fantassin polyvalent. Peut apprendre la capacité Défense. |n|n|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3137
+// Units: h004 (Captain), Tip (Tooltip - Basic)
+{
+Entraîner Capitaine
+}
+
+STRING 3138
+// Units: h009 (Paladin), Casterupgradename (Caster Upgrade Names)
+{
+Initié, Adepte, Saint homme
+}
+
+STRING 3139
+// Units: h009 (Paladin), Casterupgradetip (Caster Upgrade Tips)
+{
+- Soin,- Soin|n- Sainte vision,- Soin|n- Sainte vision|n- Exorcisme
+}
+
+STRING 3140
+// Units: h00A (Archer), Ubertip (Tooltip - Extended)
+{
+Unité à distance polyvalente. Peut apprendre la capacité Piège. |n|n|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3141
+// Units: h00A (Archer), Tip (Tooltip - Basic)
+{
+Entraîner Archer
+}
+
+STRING 3142
+// Units: h00B (Captain), Ubertip (Tooltip - Extended)
+{
+Fantassin polyvalent. Peut apprendre la capacité Défense. |n|n|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3143
+// Units: h00B (Captain), Tip (Tooltip - Basic)
+{
+Entraîner Capitaine
+}
+
+STRING 3144
+// Units: h00C (Ranger), Ubertip (Tooltip - Extended)
+{
+Unité à distance polyvalente, efficace contre les unités aériennes.
+Compétences : Flèches empoisonnées - Embuscade - Adresse au tir - Éclairage - Arcs longs - Piège
+
+|cffffcc00Attaque les unités terrestres et aériennes.|r
+}
+
+STRING 3145
+// Units: h003 (Footman), Ubertip (Tooltip - Extended)
+{
+Fantassin polyvalent.
+Compétences : Defense - Pour l'Alliance !
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3146
+// Units: h005 (Knight), Ubertip (Tooltip - Extended)
+{
+Puissante cavalerie de l'Alliance. Equilibrés entre attaque et défense, les chevaliers peuvent rapidement abattre les unités à distance ennemies et l'artillerie non protégée.
+Amélioration : Paladin
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3147
+// Units: e002 (Ballista), Tip (Tooltip - Basic)
+{
+Construire Baliste
+}
+
+STRING 3148
+// Units: e002 (Ballista), Ubertip (Tooltip - Extended)
+{
+ Arme de siège à longue portée. Dévastatrice contre les bâtiments et efficace contre les groupes d'uinités terrestres, mais lente et vulnérable.
+Compétence : Carreaux pénétrants
+
+|cffffcc00Attaque les unités terrestres et les arbres.|r 
+}
+
+STRING 3149
+// Units: h007 (Footman), Ubertip (Tooltip - Extended)
+{
+Versitile foot soldier.
+Abilities: Defend - For the Alliance!
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3150
+// Units: h008 (Knight), Ubertip (Tooltip - Extended)
+{
+Puissante cavalerie de l'Alliance. Equilibrés entre attaque et défense, les chevaliers peuvent rapidement abattre les unités à distance ennemies et l'artillerie non protégée.
+Amélioration : Paladin
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 3151
+// Units: nSW2 (Tunnel Exit), EditorSuffix (Name - Editor Suffix)
+{
+(Cave)
+}
+
+STRING 3152
+{
+Clan Blacktooth Grin
+}
+
+STRING 3153
+{
+Tribue Witherbark
+}
+
+STRING 3154
+{
+Camp
+}
+
+STRING 3155
+{
+Trouver Maim et le camp Blacktooth Grin, et débuter le siège de la forteresse de la baie de Tyr.
+}
+
+STRING 3156
+{
+Trouver le camp Blacktooth Grin
+}
+
+STRING 3157
+{
+Rend doit survivre.
+}
+
+STRING 3159
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Camp
+  - Trouver le camp Blacktooth Grin
+  - Rend doit survivre.
+}
+
+STRING 3161
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Camp
+}
+
+STRING 3163
+{
+Marine de l'Alliance
+}
+
+STRING 3164
+{
+Dégagez la baie des navires de l'Alliance et détruisez leurs chantiers navals, raffineries et fonderies.
+}
+
+STRING 3165
+{
+Détruire les Chantiers navals de l'Alliance
+}
+
+STRING 3166
+{
+Détruire les Fonderies de l'Alliance
+}
+
+STRING 3167
+{
+Détruire les Raffineries de l'Alliance
+}
+
+STRING 3168
+{
+Détruire les caravanes de ravitaillement
+}
+
+STRING 3170
+{
+Caravanes ayant fui :
+}
+
+STRING 3177
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Marine de l'Alliance
+}
+
+STRING 3190
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Marine de l'Alliance
+|c00959697 - Détruire les Chantiers navals de l'Alliance. (Terminé)|r
+ - Détruire les Fonderies de l'Alliance.
+ - Détruire les Raffineries de l'Alliance.
+}
+
+STRING 3191
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+|c00959697 - Détruire les Fonderies de l'Alliance (Terminé)|r
+ - Détruire les Raffineries de l'Alliance.
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3192
+{
+|cffffcc0QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+|c00959697 - Détruire les Fonderies de l'Alliance. (Terminé)|r
+ - Détruire les Raffineries de l'Alliance.
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3193
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+|c00959697 - Détruire les Fonderies de l'Alliance. (Terminé)|r
+ - Détruire les Raffineries de l'Alliance.
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3194
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+ - Détruire les Fonderies de l'Alliance.
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3195
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+ - Détruire les Fonderies de l'Alliance.
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas. 
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3196
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+ - Détruire les Fonderies de l'Alliance.
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3197
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+|c00959697 - Détruire les Chantiers navals de l'Alliance. (Terminé)|r
+|c00959697 - Détruire les Fonderies de l'Alliance. (Terminé)|r
+ - Détruire les Raffineries de l'Alliance.
+}
+
+STRING 3198
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+|c00959697 - Détruire les Chantiers navals de l'Alliance. (Terminé)|r
+ - Détruire les Fonderies de l'Alliance.
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+}
+
+STRING 3199
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+|c00959697 - Détruire les Fonderies de l'Alliance. (Terminé)|r
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3200
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+|c00959697 - Détruire les Fonderies de l'Alliance. (Terminé)|r
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3201
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Alliance Navy
+ - Détruire les Chantiers navals de l'Alliance.
+|c00959697 - Détruire les Fonderies de l'Alliance. (Terminé)|r
+|c00959697 - Détruire les Raffineries de l'Alliance. (Terminé)|r
+ - Détruire les caravanes de ravitaillement humaines envoyées à Quel'Thalas.
+ - Pas plus de quatre caravanes ne doivent quitter la baie
+}
+
+STRING 3205
+{
+L'effondrement de la Main de Tyr
+}
+
+STRING 3206
+{
+La citadelle de Stromgarde surplombant la baie de Tyr constitue une menace directe pour notre présence maritime dans cette région. Rasez la citadelle et massacrez ses défenseurs !
+}
+
+STRING 3207
+{
+Détruire la citadelle de Stromgarde
+}
+
+STRING 3208
+{
+Tuer le mage
+}
+
+STRING 3218
+{
+Utok Scratcher
+}
+
+STRING 3219
+// _HD.w3mod/Sound/Dialogue/WC2Orc09/WC2Orc09Utok9.flac
+{
+Chefs ! Une sorte de magie a immobilisé notre flotte ! La baie est complètement gelée !
+}
+
+STRING 3220
+{
+Dal'Rend Blackhand
+}
+
+STRING 3221
+// _HD.w3mod/Sound/Dialogue/WC2Orc09/WC2Orc09Rend9.flac
+{
+Au diable les bateaux ! Nous marcherons sur le donjon à pied... à travers la glace !
+}
+
+STRING 3222
+{
+Maim Blackhand
+}
+
+STRING 3223
+// _HD.w3mod/Sound/Dialogue/WC2Orc09/WC2Orc09Maim6.flac
+{
+Écrasons les humains et leurs pathétiques alliés !
+}
+
+STRING 3224
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Démolir la Main de Tyr 
+  - Détruire la citadelle de Stromgarde
+  - Tuer le mage
+}
+
+STRING 3225
+{
+|c0000FF00ASTUCE:|r Vos troupes peuvent désormais se déplacer sur la glace. Les navires et les structures côtières ne sont plus disponibles.
+}
+
+STRING 3226
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Démolir la Main de Tyr 
+  -|cff808080 Détruire la citadelle de Stromgarde (Terminé)|r
+  - Tuer le mage
+}
+
+STRING 3227
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Démolir la Main de Tyr 
+  - Détruire la citadelle de Stromgarde
+  -|cff808080 Tuer le mage (Terminé)|r
+}
+
+STRING 3228
+{
+Tenir la position
+}
+
+STRING 3229
+{
+L'Alliance envoie ses forces reprendre le Donjon de Tyr sur l'île. Tenez votre position jusqu'à ce que les péons aient terminé de construire votre Forteresse.
+}
+
+STRING 3230
+{
+Tenir jusqu'à la construction du Chantier naval.
+
+}
+
+STRING 3231
+{
+Tenir jusqu'à la construction de la Forteresse.
+}
+
+STRING 3236
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Tenir la position
+  - Tenir jusqu'à la construction de la Forteresse.
+}
+
+STRING 3240
+{
+Progression de la construction :
+}
+
+STRING 3241
+{
+Chantier naval (en cours)
+}
+
+STRING 3242
+{
+Forteresse (en cours)
+}
+
+STRING 3243
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Tenir la position
+  -|cff808080 Tenir jusqu'à la construction du Chantier naval (Terminé)|r
+  - Tenir jusqu'à la construction de la Forteresse
+}
+
+STRING 3244
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Tenir la position
+  - Tenir jusqu'à la construction du Chantier naval
+  -|cff808080 Tenir jusqu'à la construction de la Forteresse (Terminé)|r
+}
+
+STRING 3247
+{
+Forteresse (Terminé)
+}
+
+STRING 3250
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Tenir la position
+ - Votre armée est vaincue !
+
+}
+
+STRING 3251
+{
+Shipyard (Completed)
+}
+
+STRING 3258
+{
+Ogre-Magi
+}
+
+STRING 3259
+{
+Un envoyé Ogre-magi de Cho'gall a apporté un fragment de la pierre runique de Caer Darrow dans cette région. Trouvez-le et vous pourrez construire un Autel des Tempêtes et transformer vos ogres en puissants Ogres-magi
+}
+
+STRING 3260
+{
+Trouver le fragment de pierre runique
+}
+
+STRING 3261
+{
+Bâtir un Autel des Tempêtes
+}
+
+STRING 3262
+{
+Transformer vos Ogres en Ogres-Magi
+}
+
+STRING 3263
+{
+|cffffcc00QUÊTE OPTIONELLE|r
+Ogre Magi
+  - Trouver le fragment de pierre runique
+  - Bâtir un Autel des Tempêtes 
+  - Transformer vos Ogres en Ogres-magi
+}
+
+STRING 3264
+{
+|cffffcc00QUÊTE OPTIONELLE MISE À JOUR|r
+Ogre Magi
+  -|cff808080 Trouver le fragment de pierre runique (Terminé)|r
+  - Bâtir un Autel des Tempêtes 
+  - Transformer vos Ogres en Ogres-magi
+}
+
+STRING 3265
+{
+|cffffcc00QUÊTE OPTIONELLE MISE À JOUR|r
+Ogre Magi
+  -|cff808080 Trouver le fragment de pierre runique (Terminé)|r
+  -|cff808080 Bâtir un Autel des Tempêtes (Terminé)|r
+  - Transformer vos Ogres en Ogres-magi (Terminé)
+}
+
+STRING 3267
+{
+|cffffcc00QUÊTE OPTIONELLE TERMINÉE|r
+Ogre-Magi
+}
+
+STRING 3268
+{
+Potion du Berserker
+}
+
+STRING 3269
+{
+Nos alliés Amani ont révélé un moyen de rendre leurs guerriers encore plus puissants. Trouvez l'herbe spirituelle, apportez-la à l'alchimiste gobelin et compter des puissants berserkers dans vos rangs.
+}
+
+STRING 3270
+{
+Trouver l'herbe spirituelle
+}
+
+STRING 3271
+{
+Apporter la à l'alchimiste gobelin
+}
+
+STRING 3272
+{
+Transformer vos trolls en Berserkers
+}
+
+STRING 3274
+{
+|cffffcc00QUÊTE OPTIONELLE|r
+Berserker Potion
+  - Trouver l'herbe spirituelle
+  - Apporter la à l'alchimiste gobelin
+  - Transformer vos trolls en Berserkers
+}
+
+STRING 3275
+{
+|cffffcc00QUÊTE OPTIONELLE TERMINÉE|r
+Berserker Potion
+  -|cff808080 Trouver l'herbe spirituelle (Completed)|r
+  - Apporter la à l'alchimiste gobelin
+  - Transformer vos trolls en Berserkers
+}
+
+STRING 3276
+{
+|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r
+L'amélioration en Berserker Troll est maintenant disponible.
+}
+
+STRING 3277
+{
+|cff32cd32ASTUCE|r
+Utilisez des catapultes pour détruire la porte de la forteresse.
+}
+
+STRING 3280
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Votre base a été détruite.
+}
+
+STRING 3282
+{
+Une caravane est en approche 
+}
+
+STRING 3283
+{
+Une caravane est en approche 
+}
+
+STRING 3284
+{
+Une caravane est en approche 
+}
+
+STRING 3285
+{
+Clan Blacktooth Grin
+}
+
+STRING 3286
+{
+Gelé
+}
+
+STRING 3287
+{
+Clan Blacktooth Grin
+}
+
+STRING 3288
+// Abilities: ASat (Construction Set), Unubertip (Tooltip - Turn Off - Extended)
+{
+Les péons construisent les bâtiments de base de la Horde.
+}
+
+STRING 3289
+// Abilities: ASat (Construction Set), Untip (Tooltip - Turn Off)
+{
+Bâtiments basiques
+}
+
+STRING 3290
+// Abilities: ASat (Construction Set), Name (Name)
+{
+Palette de construction
+}
+
+STRING 3291
+// Abilities: ASat (Construction Set), Tip (Tooltip - Normal)
+{
+Bâtiments avancés
+}
+
+STRING 3292
+// Abilities: ASat (Construction Set), Ubertip (Tooltip - Normal - Extended)
+{
+Les péons construisent les bâtiments avancés de la Horde.
+}
+
+STRING 3293
+// Abilities: ASat (Construction Set), EditorSuffix (Editor Suffix)
+{
+(WC2 - Orc) Amphibie
+}
+
+STRING 3297
+// Items: I0L0 (WC2Orc09Saidan1), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3298
+// Items: I0L0 (WC2Orc09Saidan1), Description (Description)
+{
+Salutations, Messire ! Je suis heureux que la Magocratie de Dalaran ait envoyé des renforts à la Main de Tyr.
+}
+
+STRING 3299
+// Items: I0L0 (WC2Orc09Saidan1), Name (Name)
+{
+WC2Orc09Saidan1
+}
+
+STRING 3300
+// Items: I0L1 (WC2Orc09Saidan2), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3301
+// Items: I0L1 (WC2Orc09Saidan2), Description (Description)
+{
+En effet, nous avons déjà envoyé un escadron de nos meilleurs hommes pour détruire le camp orc.
+}
+
+STRING 3302
+// Items: I0L1 (WC2Orc09Saidan2), Name (Name)
+{
+WC2Orc09Saidan2
+}
+
+STRING 3303
+// Items: I0L2 (WC2Orc09Saidan3), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3304
+// Items: I0L2 (WC2Orc09Saidan3), Description (Description)
+{
+Bien. Assurez-vous que tous les navires soient chargés de céréales et de fournitures à leur capacité maximale.
+}
+
+STRING 3305
+// Items: I0L2 (WC2Orc09Saidan3), Name (Name)
+{
+WC2Orc09Saidan3
+}
+
+STRING 3306
+// Items: I0L3 (WC2Orc09Saidan4), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3307
+// Items: I0L3 (WC2Orc09Saidan4), Description (Description)
+{
+Je le sais, mais quand Stromgarde est tombée, nous avons également perdu la majeure partie de notre flotte. Sans ces ressources, nous ne pourrons pas enrôler les archers et les destructeurs de nos alliés elfes. Nous serons sans défense.
+}
+
+STRING 3308
+// Items: I0L3 (WC2Orc09Saidan4), Name (Name)
+{
+WC2Orc09Saidan4
+}
+
+STRING 3309
+// Items: I0L5 (WC2Orc09Saidan5), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3310
+// Items: I0L5 (WC2Orc09Saidan5), Description (Description)
+{
+Nous les approvisionnerons plus tard. À présent, concentrez-vous sur l'installation des caravanes.
+}
+
+STRING 3311
+// Items: I0L5 (WC2Orc09Saidan5), Name (Name)
+{
+WC2Orc09Saidan5
+}
+
+STRING 3312
+// Items: I0L6 (WC2Orc09Saidan6), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3313
+// Items: I0L6 (WC2Orc09Saidan6), Description (Description)
+{
+Par la lumière ! Les orcs ont détruit les chantiers navals !
+}
+
+STRING 3314
+// Items: I0L6 (WC2Orc09Saidan6), Name (Name)
+{
+WC2Orc09Saidan6
+}
+
+STRING 3315
+// Items: I0L7 (WC2Orc09Saidan7), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3316
+// Items: I0L7 (WC2Orc09Saidan7), Description (Description)
+{
+Mais, monseigneur... comment traverserons-nous la baie ?
+}
+
+STRING 3317
+// Items: I0L7 (WC2Orc09Saidan7), Name (Name)
+{
+WC2Orc09Saidan7
+}
+
+STRING 3318
+// Items: I0L8 (WC2Orc09Saidan8), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3319
+// Items: I0L8 (WC2Orc09Saidan8), Description (Description)
+{
+Seigneur Valdemar, je... J'ai tenu la baie du mieux que j'ai pu, mais ces sauvages impies sont impitoyables.
+}
+
+STRING 3320
+// Items: I0L8 (WC2Orc09Saidan8), Name (Name)
+{
+WC2Orc09Saidan8
+}
+
+STRING 3321
+// Items: I0L9 (WC2Orc09Saidan9), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3322
+// Items: I0L9 (WC2Orc09Saidan9), Description (Description)
+{
+Je suis avec vous, je ne me cacherai pas ici alors que des hommes meurent pour moi.
+}
+
+STRING 3323
+// Items: I0L9 (WC2Orc09Saidan9), Name (Name)
+{
+WC2Orc09Saidan9
+}
+
+STRING 3324
+// Items: I0L4 (WC2Orc09Saidan10), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3325
+// Items: I0L4 (WC2Orc09Saidan10), Description (Description)
+{
+Lumière, sauve-nous...
+}
+
+STRING 3326
+// Items: I0L4 (WC2Orc09Saidan10), Name (Name)
+{
+WC2Orc09Saidan10
+}
+
+STRING 3327
+// Items: I0LA (WC2Orc09Saidan11), Tip (Tooltip - Basic)
+{
+Saidan Dathrohan
+}
+
+STRING 3328
+// Items: I0LA (WC2Orc09Saidan11), Description (Description)
+{
+Seigneur Valdemar... Que votre auguste épée, bénie par la Lumière fasse pleuvoir sa Justice. 
+}
+
+STRING 3329
+// Items: I0LA (WC2Orc09Saidan11), Name (Name)
+{
+WC2Orc09Saidan11
+}
+
+STRING 3330
+// Items: I0LB (WC2Orc09Mage1), Tip (Tooltip - Basic)
+{
+Archimage
+}
+
+STRING 3331
+// Items: I0LB (WC2Orc09Mage1), Description (Description)
+{
+Salutations, capitaine. J'ai des informations selon lesquelles la Horde rassemble des forces navales dans la région et pourrait essayer de couper nos lignes de ravitaillement vers Quel'thalas. Cela ne doit pas arriver.
+}
+
+STRING 3332
+// Items: I0LB (WC2Orc09Mage1), Name (Name)
+{
+WC2Orc09Mage1
+}
+
+STRING 3333
+// Items: I0LC (WC2Orc09Mage2), Tip (Tooltip - Basic)
+{
+Archimage
+}
+
+STRING 3334
+// Items: I0LC (WC2Orc09Mage2), Description (Description)
+{
+Bien. Je resterai dans la tour et apporterai un soutien arcanique à vos troupes si nécessaire.
+}
+
+STRING 3335
+// Items: I0LC (WC2Orc09Mage2), Name (Name)
+{
+WC2Orc09Mage2
+}
+
+STRING 3336
+// Items: I0LD (WC2Orc09Mage3), Tip (Tooltip - Basic)
+{
+Archimage
+}
+
+STRING 3337
+// Items: I0LD (WC2Orc09Mage3), Description (Description)
+{
+Ces viles créatures paieront pour leur arrogance ! Rassemblez vos hommes, nous passons à l'offensive !
+}
+
+STRING 3338
+// Items: I0LD (WC2Orc09Mage3), Name (Name)
+{
+WC2Orc09Mage3
+}
+
+STRING 3339
+// Items: I0LE (WC2Orc09Mage4), Tip (Tooltip - Basic)
+{
+Archimage
+}
+
+STRING 3340
+// Items: I0LE (WC2Orc09Mage4), Description (Description)
+{
+Vous n'aurez pas besoin de vos navires, capitaine. Je vais geler à la fois la baie et le sang même de ces sauvages !
+}
+
+STRING 3341
+// Items: I0LE (WC2Orc09Mage4), Name (Name)
+{
+WC2Orc09Mage4
+}
+
+STRING 3342
+// Items: I0LF (WC2Orc09Footman1), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 3343
+// Items: I0LF (WC2Orc09Footman1), Description (Description)
+{
+Bien le bonjour, Sire. Nous avons commencé à rassembler les récoltes d'hiver de la population locale, comme demandé. Elles sont chargées sur les navires au moment où nous parlons.
+}
+
+STRING 3344
+// Items: I0LF (WC2Orc09Footman1), Name (Name)
+{
+WC2Orc09Footman1
+}
+
+STRING 3345
+// Items: I0LG (WC2Orc09Footman2), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 3346
+// Items: I0LG (WC2Orc09Footman2), Description (Description)
+{
+Monsieur, si vous me permettez de m'exprimer librement, cet ordre suscite mon inquiétude. Nous prélevons les paysans jusqu'à la dernière graine en leur possession. Si nous poursuivons ainsi, ils mourront de faim dans quelques mois.
+}
+
+STRING 3347
+// Items: I0LG (WC2Orc09Footman2), Name (Name)
+{
+WC2Orc09Footman2
+}
+
+STRING 3348
+// Items: I0LH (WC2Orc09Footman3), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 3349
+// Items: I0LH (WC2Orc09Footman3), Description (Description)
+{
+Mais… Les paysans…
+}
+
+STRING 3350
+// Items: I0LH (WC2Orc09Footman3), Name (Name)
+{
+WC2Orc09Footman3
+}
+
+STRING 3351
+// Items: I0LI (O07FootmanA1101), Tip (Tooltip - Basic)
+{
+Fantassin
+}
+
+STRING 3352
+// Items: I0LI (O07FootmanA1101), Description (Description)
+{
+Des Orcs! Aux armes !
+}
+
+STRING 3353
+// Items: I0LI (O07FootmanA1101), Name (Name)
+{
+O07FootmanA1101
+}
+
+STRING 3354
+// Items: I0LJ (WC2Orc09RegionalDefender1), Tip (Tooltip - Basic)
+{
+Défenseur régional
+}
+
+STRING 3355
+// Items: I0LJ (WC2Orc09RegionalDefender1), Description (Description)
+{
+Votre Sainteté, la Horde a capturé le donjon de Stromgarde dans la baie...
+}
+
+STRING 3356
+// Items: I0LJ (WC2Orc09RegionalDefender1), Name (Name)
+{
+WC2Orc09RegionalDefender1
+}
+
+STRING 3357
+// Items: I0LK (WC2Orc09Cleric1), Tip (Tooltip - Basic)
+{
+Archevêque Jonas
+}
+
+STRING 3358
+// Items: I0LK (WC2Orc09Cleric1), Description (Description)
+{
+Nous devons informer Seigneur Valdemar immédiatement ! 
+}
+
+STRING 3359
+// Items: I0LK (WC2Orc09Cleric1), Name (Name)
+{
+WC2Orc09Cleric1
+}
+
+STRING 3360
+// Items: I0LL (WC2Orc09ElvenRanger1), Tip (Tooltip - Basic)
+{
+Ranger elfe
+}
+
+STRING 3361
+// Items: I0LL (WC2Orc09ElvenRanger1), Description (Description)
+{
+Plutôt malin pour un orc...
+}
+
+STRING 3362
+// Items: I0LL (WC2Orc09ElvenRanger1), Name (Name)
+{
+WC2Orc09ElvenRanger1
+}
+
+STRING 3363
+// Items: I0LM (WC2Orc09TrollTaunt01), Tip (Tooltip - Basic)
+{
+Berserker
+}
+
+STRING 3365
+// Items: I0LM (WC2Orc09TrollTaunt01), Name (Name)
+{
+WC2Orc09TrollTaunt01
+}
+
+STRING 3366
+// Items: I0LN (WC2Orc09TrollTaunt02), Tip (Tooltip - Basic)
+{
+Troll des forêts
+}
+
+STRING 3367
+// Items: I0LN (WC2Orc09TrollTaunt02), Description (Description)
+{
+Taz'Dingo !
+}
+
+STRING 3368
+// Items: I0LN (WC2Orc09TrollTaunt02), Name (Name)
+{
+WC2Orc09TrollTaunt02
+}
+
+STRING 3369
+// Items: I0LO (WC2Orc09Berserker1), Tip (Tooltip - Basic)
+{
+Berserker
+}
+
+STRING 3370
+// Items: I0LO (WC2Orc09Berserker1), Description (Description)
+{
+Salut mec ! Zul'jin envoie ses salutations. Il dit que toi avoir peut-être besoin d'aide ici.
+}
+
+STRING 3371
+// Items: I0LO (WC2Orc09Berserker1), Name (Name)
+{
+WC2Orc09Berserker1
+}
+
+STRING 3372
+// Items: I0LP (WC2Orc09Rend1), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3373
+// Items: I0LP (WC2Orc09Rend1), Description (Description)
+{
+Enfin, nous sommes arrivés. Je crois que le camp Black Tooth Grin est de l'autre côté de l'île.
+}
+
+STRING 3374
+// Items: I0LP (WC2Orc09Rend1), Name (Name)
+{
+WC2Orc09Rend1
+}
+
+STRING 3375
+// Items: I0LQ (WC2Orc09Rend2), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3376
+// Items: I0LQ (WC2Orc09Rend2), Description (Description)
+{
+C'est vrai, c'est pourquoi il faut se dépêcher. J'ai perdu confiance en la capacité de mon frère, faible d'esprit, à commander nos forces ici. Il a évité de justesse la punition après son échec à Dun Modr.
+}
+
+STRING 3377
+// Items: I0LQ (WC2Orc09Rend2), Name (Name)
+{
+WC2Orc09Rend2
+}
+
+STRING 3378
+// Items: I0LR (WC2Orc09Rend3), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3379
+// Items: I0LR (WC2Orc09Rend3), Description (Description)
+{
+Défendez-vous ! Tuez les archers !
+}
+
+STRING 3380
+// Items: I0LR (WC2Orc09Rend3), Name (Name)
+{
+WC2Orc09Rend3
+}
+
+STRING 3381
+// Items: I0LS (WC2Orc09Rend4), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3382
+// Items: I0LS (WC2Orc09Rend4), Description (Description)
+{
+Votre arrivée nous a sauvé la vie, puissant Amani. Votre valeur pour la Horde et vos compétences au combat ne font aucun doute. Comment avez-vous acquis une telle force et férocité ?
+}
+
+STRING 3383
+// Items: I0LS (WC2Orc09Rend4), Name (Name)
+{
+WC2Orc09Rend4
+}
+
+STRING 3384
+// Items: I0LT (WC2Orc09Rend6), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3385
+// Items: I0LT (WC2Orc09Rend6), Description (Description)
+{
+Oh mon frère... chaque fois que tu es chargé d'une mission spéciale, tu échoues systématiquement !
+}
+
+STRING 3386
+// Items: I0LT (WC2Orc09Rend6), Name (Name)
+{
+WC2Orc09Rend6
+}
+
+STRING 3387
+// Items: I0LU (WC2Orc09Rend5), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3388
+// Items: I0LU (WC2Orc09Rend5), Description (Description)
+{
+Dans ce cas, nous devons trouver cette plante immédiatement. Merci, puissant berserker.
+}
+
+STRING 3389
+// Items: I0LU (WC2Orc09Rend5), Name (Name)
+{
+WC2Orc09Rend5
+}
+
+STRING 3390
+// Items: I0LV (WC2Orc09Rend7), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3391
+// Items: I0LV (WC2Orc09Rend7), Description (Description)
+{
+Le Chef de guerre surveille chacun de nos mouvements, espèce d'échec ambulant ! Ta témérité constante nous met tous les deux en danger !
+}
+
+STRING 3392
+// Items: I0LV (WC2Orc09Rend7), Name (Name)
+{
+WC2Orc09Rend7
+}
+
+STRING 3393
+// Items: I0LW (WC2Orc09Rend9), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3394
+// Items: I0LW (WC2Orc09Rend9), Description (Description)
+{
+To hell with the ships! We will march on the keep on foot... straight across the ice!
+}
+
+STRING 3395
+// Items: I0LW (WC2Orc09Rend9), Name (Name)
+{
+WC2Orc09Rend9
+}
+
+STRING 3396
+// Items: I0LX (WC2Orc09Rend10), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3397
+// Items: I0LX (WC2Orc09Rend10), Description (Description)
+{
+Tenez la ligne, vermines ! Nous avons capturé ce donjon et ne le perdrons pas aux mains des humains !
+}
+
+STRING 3398
+// Items: I0LX (WC2Orc09Rend10), Name (Name)
+{
+WC2Orc09Rend10
+}
+
+STRING 3399
+// Items: I0LY (WC2Orc09Rend11), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3400
+// Items: I0LY (WC2Orc09Rend11), Description (Description)
+{
+Utok s'est bâti une solide réputation dans cette guerre... il est peut-être complètement fidèle à Doomhammer, mais je ne doute pas une seconde de son service à la Horde. C'est un brave guerrier, malgré nos différences.
+}
+
+STRING 3401
+// Items: I0LY (WC2Orc09Rend11), Name (Name)
+{
+WC2Orc09Rend11
+}
+
+STRING 3402
+// Items: I0LZ (WC2Orc09Rend12), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3403
+// Items: I0LZ (WC2Orc09Rend12), Description (Description)
+{
+Pareil pour moi, Maim. Toi et moi partageons le sang et l'héritage de notre père. Un jour, nous régnerons sur la horde et ni Doomhammer ni aucun de ses animaux de compagnie ne se dressera sur notre chemin. Maintenant, apprécions notre festin bien mérité !
+}
+
+STRING 3404
+// Items: I0LZ (WC2Orc09Rend12), Name (Name)
+{
+WC2Orc09Rend12
+}
+
+STRING 3405
+// Items: I0La (WC2Orc09Maim1), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3406
+// Items: I0La (WC2Orc09Maim1), Description (Description)
+{
+Ah, la racaille de l'Alliance nous a envoyé plus de moutons à découper. Massacrez-les, les gars ! 
+}
+
+STRING 3407
+// Items: I0La (WC2Orc09Maim1), Name (Name)
+{
+WC2Orc09Maim1
+}
+
+STRING 3408
+// Items: I0Lb (WC2Orc09Maim2), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3409
+// Items: I0Lb (WC2Orc09Maim2), Description (Description)
+{
+J'aurais pu résoudre ce problème tout seul, Rend ! Cesse de me blâmer !
+}
+
+STRING 3410
+// Items: I0Lb (WC2Orc09Maim2), Name (Name)
+{
+WC2Orc09Maim2
+}
+
+STRING 3411
+// Items: I0Lc (WC2Orc09Maim4), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3412
+// Items: I0Lc (WC2Orc09Maim4), Description (Description)
+{
+Scratcher… le clan Stormreaver a envoyé un ogre-magi pour renforcer le camp Black Tooth Grin. L'as-tu vu ?
+}
+
+STRING 3413
+// Items: I0Lc (WC2Orc09Maim4), Name (Name)
+{
+WC2Orc09Maim4
+}
+
+STRING 3414
+// Items: I0Ld (WC2Orc09Maim5), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3415
+// Items: I0Ld (WC2Orc09Maim5), Description (Description)
+{
+Dans ce cas, sécurisez l'île et trouvez cette bête ! Nous avons besoin de son soutien arcanique ici.
+}
+
+STRING 3416
+// Items: I0Ld (WC2Orc09Maim5), Name (Name)
+{
+WC2Orc09Maim5
+}
+
+STRING 3417
+// Items: I0Le (WC2Orc09Maim6), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3418
+// Items: I0Le (WC2Orc09Maim6), Description (Description)
+{
+Écrasons les humains et leurs pathétiques alliés !
+}
+
+STRING 3419
+// Items: I0Le (WC2Orc09Maim6), Name (Name)
+{
+WC2Orc09Maim6
+}
+
+STRING 3420
+// Items: I0Lf (WC2Orc09Maim7), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3421
+// Items: I0Lf (WC2Orc09Maim7), Description (Description)
+{
+Ils regretteront d'avoir mis les pieds sur cette île !
+}
+
+STRING 3422
+// Items: I0Lf (WC2Orc09Maim7), Name (Name)
+{
+WC2Orc09Maim7
+}
+
+STRING 3423
+// Items: I0Lg (WC2Orc09Maim8), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3424
+// Items: I0Lg (WC2Orc09Maim8), Description (Description)
+{
+Ce chaman est devenu trop arrogant, mon frère.
+}
+
+STRING 3425
+// Items: I0Lg (WC2Orc09Maim8), Name (Name)
+{
+WC2Orc09Maim8
+}
+
+STRING 3426
+// Items: I0Lh (WC2Orc09Maim9), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3427
+// Items: I0Lh (WC2Orc09Maim9), Description (Description)
+{
+C'est peut-être le cas, mais... Rend, merci de m'avoir aidé dans cette bataille. Parfois, je ne peux pas te supporter, mais combattre à tes côtés remplit mon cœur de passion.
+}
+
+STRING 3428
+// Items: I0Lh (WC2Orc09Maim9), Name (Name)
+{
+WC2Orc09Maim9
+}
+
+STRING 3429
+// Items: I0Li (WC2Orc09Maim10), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 3430
+// Items: I0Li (WC2Orc09Maim10), Description (Description)
+{
+Oui, un festin est ce dont nous avons besoin après une bonne bataille !
+}
+
+STRING 3431
+// Items: I0Li (WC2Orc09Maim10), Name (Name)
+{
+WC2Orc09Maim10
+}
+
+STRING 3432
+// Items: I0Lk (WC2Orc09Utok1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3433
+// Items: I0Lk (WC2Orc09Utok1), Description (Description)
+{
+Nos éclaireurs rapportent que la Baie de Tyr est pleine de troupes de l'Alliance, à la fois terrestres et navales. Heureusement, nous avons réussi à toucher terre sans nous faire remarquer.
+}
+
+STRING 3434
+// Items: I0Lk (WC2Orc09Utok1), Name (Name)
+{
+WC2Orc09Utok1
+}
+
+STRING 3435
+// Items: I0Lm (WC2Orc09Utok2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3436
+// Items: I0Lm (WC2Orc09Utok2), Description (Description)
+{
+Alors nous ferions mieux de partir.
+}
+
+STRING 3437
+// Items: I0Lm (WC2Orc09Utok2), Name (Name)
+{
+WC2Orc09Utok2
+}
+
+STRING 3438
+// Items: I0Ln (WC2Orc09Utok3), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3439
+// Items: I0Ln (WC2Orc09Utok3), Description (Description)
+{
+Chef, cette gorge est un endroit parfait pour une embuscade.
+}
+
+STRING 3440
+// Items: I0Ln (WC2Orc09Utok3), Name (Name)
+{
+WC2Orc09Utok3
+}
+
+STRING 3441
+// Items: I0Lo (WC2Orc09Utok4), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3442
+// Items: I0Lo (WC2Orc09Utok4), Description (Description)
+{
+Hé, toi là-bas ! Prends ces deux péons et assure-toi qu'ils réparent tous les bâtiments.
+}
+
+STRING 3443
+// Items: I0Lo (WC2Orc09Utok4), Name (Name)
+{
+WC2Orc09Utok4
+}
+
+STRING 3444
+// Items: I0Lp (WC2Orc09Utok5), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3445
+// Items: I0Lp (WC2Orc09Utok5), Description (Description)
+{
+Qu’est-ce que tu regardes ? Nous avons besoin d'une plate-forme pétrolière en état de marche ! Assez de relâchement !
+}
+
+STRING 3446
+// Items: I0Lp (WC2Orc09Utok5), Name (Name)
+{
+WC2Orc09Utok5
+}
+
+STRING 3447
+// Items: I0Lq (WC2Orc09Utok6), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3448
+// Items: I0Lq (WC2Orc09Utok6), Description (Description)
+{
+Hm... Il semble que les humains vont envoyer des navires avec des fournitures à Quel'Thalas. Nous devrions mettre un terme à cela.
+}
+
+STRING 3449
+// Items: I0Lq (WC2Orc09Utok6), Name (Name)
+{
+WC2Orc09Utok6
+}
+
+STRING 3450
+// Items: I0Lr (WC2Orc09Utok7), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3451
+// Items: I0Lr (WC2Orc09Utok7), Description (Description)
+{
+Non... il devait être sur l'autre navire.
+}
+
+STRING 3452
+// Items: I0Lr (WC2Orc09Utok7), Name (Name)
+{
+WC2Orc09Utok7
+}
+
+STRING 3453
+// Items: I0Ls (WC2Orc09Utok8), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3454
+// Items: I0Ls (WC2Orc09Utok8), Description (Description)
+{
+Ce sera fait.
+}
+
+STRING 3455
+// Items: I0Ls (WC2Orc09Utok8), Name (Name)
+{
+WC2Orc09Utok8
+}
+
+STRING 3456
+// Items: I0Lt (WC2Orc09Utok9), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3457
+// Items: I0Lt (WC2Orc09Utok9), Description (Description)
+{
+Chefs ! Une sorte de magie a immobilisé notre flotte ! La baie est complètement gelée !
+}
+
+STRING 3458
+// Items: I0Lt (WC2Orc09Utok9), Name (Name)
+{
+WC2Orc09Utok9
+}
+
+STRING 3459
+// Items: I0Lu (WC2Orc09Utok10), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3460
+// Items: I0Lu (WC2Orc09Utok10), Description (Description)
+{
+Lok'tar Ogar!
+}
+
+STRING 3461
+// Items: I0Lu (WC2Orc09Utok10), Name (Name)
+{
+WC2Orc09Utok10
+}
+
+STRING 3462
+// Items: I0Lv (WC2Orc09Utok11), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3463
+// Items: I0Lv (WC2Orc09Utok11), Description (Description)
+{
+J'informerai le Chef de guerre de notre victoire contre les restes de Stromgarde. Il vaut mieux que vous restiez ici et que vous attendiez ses ordres... essayez de ne pas vous entretuer. Vous êtes l'un et l'autre précieux pour la Horde et notre Chef de guerre.
+}
+
+STRING 3464
+// Items: I0Lv (WC2Orc09Utok11), Name (Name)
+{
+WC2Orc09Utok11
+}
+
+STRING 3465
+// Items: I0Lw (WC2Orc09Valdelmar1), Tip (Tooltip - Basic)
+{
+Mathias Valdemar
+}
+
+STRING 3466
+// Items: I0Lw (WC2Orc09Valdelmar1), Description (Description)
+{
+Vous vous êtes battu vaillamment, monseigneur Saidan, je vais rassembler mes hommes et tenir le front aussi longtemps que nécessaire
+}
+
+STRING 3467
+// Items: I0Lw (WC2Orc09Valdelmar1), Name (Name)
+{
+WC2Orc09Valdelmar1
+}
+
+STRING 3468
+// Items: I0Lx (WC2Orc09Valdelmar2), Tip (Tooltip - Basic)
+{
+Mathias Valdemar
+}
+
+STRING 3469
+// Items: I0Lx (WC2Orc09Valdelmar2), Description (Description)
+{
+Non, sir Saidan ! Vous êtes bien trop important pour vous retrouver à l'avant-garde. Vous êtes blessé et trop affaibli pour combattre. Restez en vie afin de poursuivre le combat.
+}
+
+STRING 3470
+// Items: I0Lx (WC2Orc09Valdelmar2), Name (Name)
+{
+WC2Orc09Valdelmar2
+}
+
+STRING 3471
+// Items: I0Ly (WC2Orc09Valdelmar3), Tip (Tooltip - Basic)
+{
+Mathias Valdemar
+}
+
+STRING 3472
+// Items: I0Ly (WC2Orc09Valdelmar3), Description (Description)
+{
+Une fois vos forces rassemblées, partez devant et informez le seigneur Uther de ce qu'il s'est passé ici. L'Alliance doit envoyer des renforts !
+}
+
+STRING 3473
+// Items: I0Ly (WC2Orc09Valdelmar3), Name (Name)
+{
+WC2Orc09Valdelmar3
+}
+
+STRING 3474
+// Items: I0Lz (GruntTownAttack1), Tip (Tooltip - Basic)
+{
+Brute
+}
+
+STRING 3475
+// Items: I0Lz (GruntTownAttack1), Description (Description)
+{
+Ils détruisent notre ville ! 
+}
+
+STRING 3476
+// Items: I0Lz (GruntTownAttack1), Name (Name)
+{
+GruntTownAttack1
+}
+
+STRING 3477
+// Items: I1LA (WC2Orc09Grunt1), Tip (Tooltip - Basic)
+{
+Brute
+}
+
+STRING 3478
+// Items: I1LA (WC2Orc09Grunt1), Description (Description)
+{
+Oui, maître...
+}
+
+STRING 3479
+// Items: I1LA (WC2Orc09Grunt1), Name (Name)
+{
+WC2Orc09Grunt1
+}
+
+STRING 3480
+// Items: I1LB (PeonReady101), Tip (Tooltip - Basic)
+{
+Travailleur
+}
+
+STRING 3481
+// Items: I1LB (PeonReady101), Description (Description)
+{
+Prêt à travailler.
+}
+
+STRING 3482
+// Items: I1LB (PeonReady101), Name (Name)
+{
+PeonReady101
+}
+
+STRING 3484
+// Items: I1LC (TaurenReady1), Name (Name)
+{
+TaurenReady1
+}
+
+STRING 3485
+// Abilities: S00E (Ogre Magi), Name (Name)
+{
+Ogre-Magi
+}
+
+STRING 3486
+// Abilities: STA2 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Maimt)
+}
+
+STRING 3487
+// Abilities: Sta3 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 3488
+// Abilities: Sta3 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Reverse Rend)
+}
+
+STRING 3489
+// Abilities: Sta2 (Amphibious), Name (Name)
+{
+Amphibie
+}
+
+STRING 3490
+// Abilities: Sta2 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Reverse Maim)
+}
+
+STRING 3491
+// Abilities: Stu0 (Amphibious), Name (Name)
+{
+Amphibious
+}
+
+STRING 3492
+// Abilities: Stu0 (Amphibious), EditorSuffix (Editor Suffix)
+{
+ (Reverse Utok)
+}
+
+STRING 3493
+// Upgrades: RtI0 (Chaos), Name (Name)
+{
+Reverse Amphibious
+}
+
+STRING 3494
+// Upgrades: RtI0 (Chaos), EditorSuffix (Editor Suffix)
+{
+(To walk on Ice)
+}
+
+STRING 3495
+// Items: I1LC (TaurenReady1), Description (Description)
+{
+Nous sommes prêts, maître !
+}
+
+STRING 3496
+// Items: I1L0 (WC2Orc09Berserker2), Tip (Tooltip - Basic)
+{
+Berserker
+}
+
+STRING 3497
+// Items: I1L0 (WC2Orc09Berserker2), Description (Description)
+{
+Moi être passé par rituel sacré d'initiation. Si vous pouvoir trouver et donner vignesang à alchimiste gobelin, notre sorcier partager autres ingrédients pour préparer potion. Elle transformer tous les lanceurs de haches en berserkers.
+}
+
+STRING 3498
+// Items: I1L0 (WC2Orc09Berserker2), Name (Name)
+{
+WC2Orc09Berserker2
+}
+
+STRING 3499
+// Destructibles: B008 (WinterSnowCliff (Angled)), Name (Name)
+{
+WinterSnowCliff (Angled)
+}
+
+STRING 3500
+// Doodads: D00B (Snow_vt), Name (Name)
+{
+Snow_vt
+}
+
+STRING 3502
+// Units: ngz3 (Giant Bear), Name (Name)
+{
+Giant Bear
+}
+
+STRING 3503
+// Items: I0LM (WC2Orc09TrollTaunt01), Description (Description)
+{
+Vengeance pour Zul'jin !
+}
+
+STRING 3504
+{
+La forteresse sera prête dans :
+}
+
+STRING 3505
+// Doodads: D00C (Light Yellow), Name (Name)
+{
+Light Yellow
+}
+
+STRING 3506
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3507
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3508
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 3509
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 3510
+// Items: IQL0 (Alliance Navy), Tip (Tooltip - Basic)
+{
+  - Détruire les Chantiers navals de l'Alliance
+}
+
+STRING 3511
+// Items: IQL0 (Alliance Navy), Ubertip (Tooltip - Extended)
+{
+  - Détruire les Fonderies de l'Alliance
+}
+
+STRING 3512
+// Items: IQL0 (Alliance Navy), Description (Description)
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+}
+
+STRING 3513
+// Items: IQL0 (Alliance Navy), Name (Name)
+{
+Marine de l'Alliance
+}
+
+STRING 3514
+// Items: IQL1 (  - Destroy the Supply Caravans), Tip (Tooltip - Basic)
+{
+Pas plus de 
+}
+
+STRING 3515
+// Items: IQL1 (  - Destroy the Supply Caravans), Ubertip (Tooltip - Extended)
+{
+  - Détruire les Raffineres de l'Alliance
+}
+
+STRING 3516
+// Items: IQL1 (  - Destroy the Supply Caravans), Description (Description)
+{
+ caravanes ne doivent fuir
+}
+
+STRING 3517
+// Items: IQL1 (  - Destroy the Supply Caravans), Name (Name)
+{
+  - Détruire les caravanes
+}
+
+STRING 3518
+// Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Tip (Tooltip - Basic)
+{
+  -|cff808080 Détruire les Fonderies de l'Alliance (Terminé)|r
+}
+
+STRING 3519
+// Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Détruire les Raffineres de l'Alliance (Terminé)|r
+}
+
+STRING 3520
+// Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Terminé)|r), Description (Description)
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+}
+
+STRING 3521
+// Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Name (Name)
+{
+  -|cff808080 Détruire les Chantiers navals de l'Alliance (Terminé)|r
+}
+
+STRING 3522
+// Items: IQL3 (Drunkard), Name (Name)
+{
+Ivrogne
+}
+
+STRING 3523
+// Items: IQL3 (Drunkard), Description (Description)
+{
+Pas plus de 
+}
+

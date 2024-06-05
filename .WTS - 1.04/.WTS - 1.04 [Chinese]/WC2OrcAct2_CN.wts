@@ -1,0 +1,2068 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 2
+{
+Force 1
+}
+
+STRING 3
+{
+WC2OrcAct2
+}
+
+STRING 6
+// Doodads: DRst (- Stalagmite), Name (Name)
+{
+- Stalagmite
+}
+
+STRING 7
+// Doodads: D000 (- Rocks 1), Name (Name)
+{
+- Rocks 1
+}
+
+STRING 8
+// Doodads: D001 (- Rocks 5), Name (Name)
+{
+- Rocks 5
+}
+
+STRING 9
+// Doodads: D003 (- Rocks 2), Name (Name)
+{
+- Rocks 2
+}
+
+STRING 10
+// Doodads: D004 (- Rocks 3), Name (Name)
+{
+- Rocks 3
+}
+
+STRING 11
+// Doodads: D005 (- Rocks 4), Name (Name)
+{
+- Rocks 4
+}
+
+STRING 12
+// Destructibles: B002 (- Volcano), Name (Name)
+{
+- Volcano
+}
+
+STRING 18
+// Units: o000 (Blackrock Grunt), Name (Name)
+{
+黑石兽人步兵
+}
+
+STRING 19
+// Units: O001 (Orgrim), Name (Name)
+{
+奥格瑞姆
+}
+
+STRING 20
+// Units: n000 (Ogre), Name (Name)
+{
+食人魔
+}
+
+STRING 22
+// Doodads: DRrk (- Rocks), Name (Name)
+{
+- Rocks
+}
+
+STRING 23
+// Doodads: D006 (- Banner Orc), Name (Name)
+{
+- Banner Orc
+}
+
+STRING 24
+// Units: o002 (Catapult), Name (Name)
+{
+投石车
+}
+
+STRING 25
+// Units: O001 (Orgrim), Propernames (Proper Names)
+{
+奥格瑞姆
+}
+
+STRING 29
+// Units: n001 (Axe Thrower), Name (Name)
+{
+掷斧者
+}
+
+STRING 39
+// Units: u000 (Dummy), Name (Name)
+{
+假人
+}
+
+STRING 42
+// Destructibles: LTrc (- Black_rock), Name (Name)
+{
+- Black_rock
+}
+
+STRING 43
+// Destructibles: Ytsc (-Scorched Tree Wall), Name (Name)
+{
+-Scorched Tree Wall
+}
+
+STRING 44
+// Doodads: D007 (- Support Collum), Name (Name)
+{
+- Support Collum
+}
+
+STRING 45
+// Doodads: D008 (- IRON ALTAR (building)), Name (Name)
+{
+- IRON ALTAR (building)
+}
+
+STRING 46
+// Doodads: D009 (- Rock Archway), Name (Name)
+{
+- Rock Archway
+}
+
+STRING 47
+// Doodads: D00A (- Stone Archway), Name (Name)
+{
+- Stone Archway
+}
+
+STRING 48
+// Doodads: D00B (- Hanging Cage), Name (Name)
+{
+- Hanging Cage
+}
+
+STRING 49
+// Doodads: D00C (- STONE WALL DOOR (building)), Name (Name)
+{
+- STONE WALL DOOR (building)
+}
+
+STRING 50
+// Doodads: D00D (- STONE WALL Lantern (building)), Name (Name)
+{
+- STONE WALL Lantern (building)
+}
+
+STRING 51
+// Doodads: D00E (- STONE WALL cube (building)), Name (Name)
+{
+- STONE WALL cube (building)
+}
+
+STRING 52
+// Doodads: D00F (- STONE WALL short (building)), Name (Name)
+{
+- STONE WALL short (building)
+}
+
+STRING 53
+// Doodads: D00G (- STONE WALL Rubble (building)), Name (Name)
+{
+- STONE WALL Rubble (building)
+}
+
+STRING 54
+// Doodads: D00H (- STONE WALL (building)), Name (Name)
+{
+- STONE WALL (building)
+}
+
+STRING 55
+// Doodads: D00J (- CLEAN WALL (building)), Name (Name)
+{
+- CLEAN WALL (building)
+}
+
+STRING 56
+// Doodads: D00K (- Bones), Name (Name)
+{
+- Bones
+}
+
+STRING 57
+// Doodads: D00L (-Flame Grate), Name (Name)
+{
+-Flame Grate
+}
+
+STRING 59
+// Doodads: D00N (- Grave (building)), Name (Name)
+{
+- Grave (building)
+}
+
+STRING 60
+// Doodads: D00I (- GLOW), Name (Name)
+{
+- GLOW
+}
+
+STRING 61
+// Doodads: D00O (- STONE  HOUSE block (building)), Name (Name)
+{
+- STONE  HOUSE block (building)
+}
+
+STRING 62
+// Doodads: D00P (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 63
+// Doodads: D00Q (-Flame Grate), Name (Name)
+{
+-Flame Grate
+}
+
+STRING 64
+// Doodads: D00R (- STONE WALL cube (building)), Name (Name)
+{
+- STONE WALL cube (building)
+}
+
+STRING 66
+// Doodads: D00T (- Stalagmite UPSIDE), Name (Name)
+{
+- Stalagmite UPSIDE
+}
+
+STRING 67
+// Doodads: D00U (-Flame Magma), Name (Name)
+{
+-Flame Magma
+}
+
+STRING 68
+// Doodads: D00V (- Bookshelf), Name (Name)
+{
+- Bookshelf
+}
+
+STRING 69
+// Doodads: D00W (- Throne), Name (Name)
+{
+- Throne
+}
+
+STRING 70
+// Doodads: D00X (- Firepit), Name (Name)
+{
+- Firepit
+}
+
+STRING 71
+// Doodads: D00Y (- Tent (building)), Name (Name)
+{
+- Tent (building)
+}
+
+STRING 72
+// Doodads: D00Z (- Tent (building)), Name (Name)
+{
+- Tent (building)
+}
+
+STRING 73
+// Doodads: D010 (- Rocks VALLEY 5), Name (Name)
+{
+- Rocks VALLEY 5
+}
+
+STRING 74
+// Doodads: D011 (- Rock Spires CLIFFS), Name (Name)
+{
+- Rock Spires CLIFFS
+}
+
+STRING 75
+// Doodads: D012 (- Rocks VALLEY 5), Name (Name)
+{
+- Rocks VALLEY 5
+}
+
+STRING 76
+// Doodads: D013 (- Rocks VALLEY 5), Name (Name)
+{
+- Rocks VALLEY 5
+}
+
+STRING 77
+// Doodads: D014 (-Cliff doodad), Name (Name)
+{
+-Cliff doodad
+}
+
+STRING 78
+// Doodads: D015 (- Cliff_01), Name (Name)
+{
+- Cliff_01
+}
+
+STRING 79
+// Doodads: D016 (- Cliff_02), Name (Name)
+{
+- Cliff_02
+}
+
+STRING 80
+// Doodads: D017 (- Cliff_03), Name (Name)
+{
+- Cliff_03
+}
+
+STRING 81
+// Doodads: D018 (- Cliff_04), Name (Name)
+{
+- Cliff_04
+}
+
+STRING 82
+// Doodads: D019 (- Cliff_06), Name (Name)
+{
+- Cliff_06
+}
+
+STRING 83
+// Doodads: D01A (- Cliff_05), Name (Name)
+{
+- Cliff_05
+}
+
+STRING 85
+// Doodads: D01B (- Cliff_Small_01), Name (Name)
+{
+- Cliff_Small_01
+}
+
+STRING 86
+// Doodads: D01C (- Cliff_Small_03), Name (Name)
+{
+- Cliff_Small_03
+}
+
+STRING 87
+// Doodads: D01D (- Cliff_Small_02), Name (Name)
+{
+- Cliff_Small_02
+}
+
+STRING 88
+// Doodads: D01E (- Cliff_Small_03), Name (Name)
+{
+- Cliff_Small_03
+}
+
+STRING 89
+// Units: o000 (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(tiny)
+}
+
+STRING 90
+// Units: o004 (Blackrock Grunt), Name (Name)
+{
+黑石兽人步兵
+}
+
+STRING 91
+// Units: o004 (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(regular)
+}
+
+STRING 92
+// Doodads: D01F (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 97
+// Units: o005 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(regular)
+}
+
+STRING 99
+// Units: o006 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(Tiny)
+}
+
+STRING 100
+// Units: o007 (WatchTowers), Name (Name)
+{
+了望塔
+}
+
+STRING 101
+// Doodads: D01J (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 102
+// Doodads: D01K (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 103
+// Doodads: D01L (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 104
+// Doodads: D01M (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 105
+// Doodads: D01N (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 106
+// Doodads: D01O (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 107
+// Doodads: D01P (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 108
+// Doodads: D01Q (- ROCKS), Name (Name)
+{
+- ROCKS
+}
+
+STRING 109
+// Doodads: D01R (-Flame Magma), Name (Name)
+{
+-Flame Magma
+}
+
+STRING 110
+// Destructibles: B000 (-Scorched Tree Wall), Name (Name)
+{
+-Scorched Tree Wall
+}
+
+STRING 111
+// Doodads: D01S (- SMUDGE), Name (Name)
+{
+- SMUDGE
+}
+
+STRING 112
+{
+第二幕：卡兹莫丹
+}
+
+STRING 115
+// Units: o003 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(Large)
+}
+
+STRING 118
+// Doodads: D01T (- Ogre Shape), Name (Name)
+{
+- Ogre Shape
+}
+
+STRING 119
+// Doodads: D00S (- Giant Chains 1), Name (Name)
+{
+- Giant Chains 1
+}
+
+STRING 120
+// Doodads: D01U (- Giant Chains 2), Name (Name)
+{
+- Giant Chains 2
+}
+
+STRING 121
+// Destructibles: B005 (- Drummer), Name (Name)
+{
+- Drummer
+}
+
+STRING 123
+// Units: o008 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(Tiny - slow)
+}
+
+STRING 125
+// Doodads: D01W (- Windows 1), Name (Name)
+{
+- Windows 1
+}
+
+STRING 126
+// Units: o009 (Kor'kron Guard), Name (Name)
+{
+库卡隆卫士
+}
+
+STRING 127
+// Units: o009 (Kor'kron Guard), EditorSuffix (Name - Editor Suffix)
+{
+(regular)
+}
+
+STRING 128
+// Units: ogrk (Saurfang), Name (Name)
+{
+萨鲁法尔
+}
+
+STRING 129
+// Units: o005 (Saurfang), Name (Name)
+{
+萨鲁法尔
+}
+
+STRING 130
+// Units: o006 (Saurfang), Name (Name)
+{
+萨鲁法尔
+}
+
+STRING 131
+// Units: o003 (Saurfang), Name (Name)
+{
+萨鲁法尔
+}
+
+STRING 132
+// Units: o008 (Saurfang), Name (Name)
+{
+萨鲁法尔
+}
+
+STRING 133
+// Units: o00A (Axe), Name (Name)
+{
+战斧
+}
+
+STRING 136
+// Doodads: D00M (- Iron Spikes), Name (Name)
+{
+- Iron Spikes
+}
+
+STRING 137
+// Doodads: D01X (- Map of Khaz Modan), Name (Name)
+{
+- Map of Khaz Modan
+}
+
+STRING 138
+// Doodads: D01Y (- Metal Picture Dwarf), Name (Name)
+{
+- Metal Picture Dwarf
+}
+
+STRING 139
+// Doodads: D01Z (- Metal Picture Elemental), Name (Name)
+{
+- Metal Picture Elemental
+}
+
+STRING 140
+// Units: o00C (Doomhammer), Name (Name)
+{
+毁灭之锤
+}
+
+STRING 155
+// Units: h000 (Head Orientation Helper), Name (Name)
+{
+头部定向助手
+}
+
+STRING 159
+// Doodads: D01G (Snowy Mountains), Name (Name)
+{
+Snowy Mountains
+}
+
+STRING 160
+// Doodads: D01H (Grassy Mountains), Name (Name)
+{
+Grassy Mountains
+}
+
+STRING 161
+// Doodads: D01I (Far Mountains), Name (Name)
+{
+Far Mountains
+}
+
+STRING 162
+// Doodads: D020 (Lava Plane), Name (Name)
+{
+Lava Plane
+}
+
+STRING 163
+// Doodads: D021 (Distant Land Wallpaper Alpes), Name (Name)
+{
+Distant Land Wallpaper Alpes
+}
+
+STRING 164
+{
+LoreCraftDesigns
+}
+
+STRING 165
+// Doodads: D022 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 166
+// Doodads: D023 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 167
+// Doodads: D024 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 168
+// Units: O00B (Troll Chieftain), Name (Name)
+{
+巨魔酋长
+}
+
+STRING 169
+// Units: O00B (Troll Chieftain), Propernames (Proper Names)
+{
+祖尔金
+}
+
+STRING 170
+// Units: O00B (Troll Chieftain), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 171
+// Units: O00B (Troll Chieftain), Tip (Tooltip - Basic)
+{
+巨魔酋长
+}
+
+STRING 172
+// Units: O00B (Troll Chieftain), Revivetip (Tooltip - Revive)
+{
+复活巨魔酋长
+}
+
+STRING 173
+// Units: O00B (Troll Chieftain), Awakentip (Tooltip - Awaken)
+{
+复活巨魔酋长
+}
+
+STRING 174
+// Units: O00B (Troll Chieftain), Ubertip (Tooltip - Extended)
+{
+作为阿曼尼森林巨魔督军，凶猛强大的祖尔金与奎尔萨拉斯的高等精灵不共戴天，这股血仇促使他与外域的兽人入侵者结为了貌合神离的盟友。
+|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 175
+// Doodads: D025 (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 176
+// Units: O00D (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 177
+// Units: O00D (Warlord), Propernames (Proper Names)
+{
+达尔雷德·黑手
+}
+
+STRING 178
+// Units: O00D (Warlord), Name (Name)
+{
+督军
+}
+
+STRING 179
+// Units: O00D (Warlord), Awakentip (Tooltip - Awaken)
+{
+复活督军
+}
+
+STRING 180
+// Units: O00D (Warlord), Tip (Tooltip - Basic)
+{
+督军
+}
+
+STRING 181
+// Units: O00D (Warlord), Revivetip (Tooltip - Revive)
+{
+复活督军
+}
+
+STRING 182
+// Units: O00D (Warlord), Ubertip (Tooltip - Extended)
+{
+雷德·黑手是部落前任大酋长毁灭者黑手的长子。其父被奥格瑞姆·毁灭之锤击败后，他便同自己的兄弟率领着黑齿狞笑氏族及其前线精英战士。
+|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 183
+// Units: O00E (Warlord), Name (Name)
+{
+督军
+}
+
+STRING 184
+// Units: O00E (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(Mountless)
+}
+
+STRING 185
+// Units: O00E (Warlord), Propernames (Proper Names)
+{
+雷德·黑手
+}
+
+STRING 186
+// Units: U001 (Warlock), Propernames (Proper Names)
+{
+古尔丹
+}
+
+STRING 187
+// Units: U001 (Warlock), Awakentip (Tooltip - Awaken)
+{
+复活术士（|cffffcc00W|r）
+}
+
+STRING 188
+// Units: U001 (Warlock), Tip (Tooltip - Basic)
+{
+术士（|cffffcc00W|r）
+}
+
+STRING 189
+// Units: U001 (Warlock), Revivetip (Tooltip - Revive)
+{
+复活术士（|cffffcc00W|r）
+}
+
+STRING 190
+// Units: U001 (Warlock), Name (Name)
+{
+术士
+}
+
+STRING 191
+// Units: U001 (Warlock), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 192
+// Units: O00F (Ogre Magi), Propernames (Proper Names)
+{
+古加尔
+}
+
+STRING 193
+// Units: O00F (Ogre Magi), Name (Name)
+{
+食人魔法师
+}
+
+STRING 194
+// Units: O00F (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+复活食人魔法师（|cffffcc00O|r）
+}
+
+STRING 195
+// Units: O00F (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+复活食人魔法师（|cffffcc00O|r）
+}
+
+STRING 196
+// Units: O00F (Ogre Magi), Ubertip (Tooltip - Extended)
+{
+Герой Орды, обладающий несокрушимым здоровьем и не знающий себе равных в рукопашном бою. Способен выучить заклинания ''Волна Силы'', ''Громовая поступь'', ''Выносливо_
+}
+
+STRING 197
+// Units: O00F (Ogre Magi), Tip (Tooltip - Basic)
+{
+食人魔法师 （|cffffcc00O|r）
+}
+
+STRING 198
+// Units: N003 (Varok), Name (Name)
+{
+瓦罗克
+}
+
+STRING 199
+// Units: N003 (Varok), Propernames (Proper Names)
+{
+瓦罗克
+}
+
+STRING 200
+// Units: o00G (Teron'Gor), Name (Name)
+{
+塔隆戈尔
+}
+
+STRING 201
+// Units: O00H (Chieftan), Propernames (Proper Names)
+{
+基尔罗格·死眼
+}
+
+STRING 202
+// Units: O00H (Chieftan), Name (Name)
+{
+酋长
+}
+
+STRING 203
+// Units: O00H (Chieftan), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 204
+// Units: O00H (Chieftan), Awakentip (Tooltip - Awaken)
+{
+复活酋长（|cffffcc00C|r）
+}
+
+STRING 205
+// Units: O00H (Chieftan), Revivetip (Tooltip - Revive)
+{
+复活酋长（|cffffcc00C|r）
+}
+
+STRING 206
+// Units: O00H (Chieftan), Tip (Tooltip - Basic)
+{
+酋长（|cffffcc00C|r）
+}
+
+STRING 207
+// Units: o00I (Eitrigg), Name (Name)
+{
+伊崔格
+}
+
+STRING 208
+// Units: o00J (Tharbek), Name (Name)
+{
+萨贝克
+}
+
+STRING 209
+// Units: o00K (Utok Scratcher), Name (Name)
+{
+刻划者乌托克
+}
+
+STRING 210
+// Units: o00K (Utok Scratcher), Ubertip (Tooltip - Extended)
+{
+|cffffcc001级学徒|r |n|n乌托克是一名萨满学徒，也是黑石氏族凶悍指挥官——奥格瑞姆·毁灭之锤的酋长顾问。此外，他还是《统御洛丹伦》一书的作者，其中记载了第二次大战期间部落的各项行动。
+|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 211
+// Units: o00K (Utok Scratcher), Tip (Tooltip - Basic)
+{
+学徒
+}
+
+STRING 212
+// Units: O00L (Shaman), Propernames (Proper Names)
+{
+疲惫的祖鲁希德
+}
+
+STRING 213
+// Units: O00L (Shaman), Name (Name)
+{
+萨满祭司
+}
+
+STRING 214
+// Units: O00L (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 215
+// Units: O00L (Shaman), Awakentip (Tooltip - Awaken)
+{
+萨满祭司（|cffffcc00S|r）
+}
+
+STRING 216
+// Units: O00L (Shaman), Revivetip (Tooltip - Revive)
+{
+复活萨满祭司（|cffffcc00S|r）
+}
+
+STRING 217
+// Units: O00L (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 218
+// Units: O00L (Shaman), Tip (Tooltip - Basic)
+{
+复活萨满祭司（|cffffcc00S|r）
+}
+
+STRING 219
+// Units: O00M (Warlock), Propernames (Proper Names)
+{
+碎颅者耐克鲁斯
+}
+
+STRING 220
+// Units: O00M (Warlock), Tip (Tooltip - Basic)
+{
+术士（|cffffcc00W|r）
+}
+
+STRING 221
+// Units: O00M (Warlock), Awakentip (Tooltip - Awaken)
+{
+复活术士（|cffffcc00W|r）
+}
+
+STRING 222
+// Units: O00M (Warlock), Revivetip (Tooltip - Revive)
+{
+复活术士（|cffffcc00W|r）
+}
+
+STRING 223
+// Units: o00N (Kor'kron Guard), Name (Name)
+{
+库卡隆卫士
+}
+
+STRING 224
+// Units: o00N (Kor'kron Guard), EditorSuffix (Name - Editor Suffix)
+{
+(Ogre)
+}
+
+STRING 313
+// Units: O00P (Samuro), Name (Name)
+{
+萨穆罗
+}
+
+STRING 325
+// Units: N004 (Goblin Trade Prince), Name (Name)
+{
+地精贸易亲王
+}
+
+STRING 326
+// Destructibles: B001 (- Blackrock Gate), Name (Name)
+{
+- Blackrock Gate
+}
+
+STRING 327
+// Doodads: D002 (- Volcano), Name (Name)
+{
+- Volcano
+}
+
+STRING 328
+// Units: n005 (Hobgoblin), Name (Name)
+{
+大地精
+}
+
+STRING 330
+// Units: n006 (Hobgoblin), Name (Name)
+{
+大地精
+}
+
+STRING 332
+// Doodads: D026 (- Orange Glow), Name (Name)
+{
+- Orange Glow
+}
+
+STRING 333
+// Units: n007 (Zeppelin 2), Name (Name)
+{
+地精飞艇 2
+}
+
+STRING 334
+// Units: n008 (Zeppelin 1), Name (Name)
+{
+地精飞艇 1
+}
+
+STRING 335
+// Units: n009 (Zeppelin 1 b), Name (Name)
+{
+地精飞艇 1 b
+}
+
+STRING 336
+// Doodads: D027 (- Fake Sky), Name (Name)
+{
+- Fake Sky
+}
+
+STRING 337
+// Destructibles: B003 (Chest of Gold), Name (Name)
+{
+Chest of Gold
+}
+
+STRING 338
+// Doodads: D028 (- Metal Picture Elemental (angle)), Name (Name)
+{
+- Metal Picture Elemental (angle)
+}
+
+STRING 339
+// Doodads: D029 (- Metal Picture Dwarf (angle)), Name (Name)
+{
+- Metal Picture Dwarf (angle)
+}
+
+STRING 340
+// Units: n005 (Hobgoblin), EditorSuffix (Name - Editor Suffix)
+{
+(Hobbert)
+}
+
+STRING 341
+// Units: n006 (Hobgoblin), EditorSuffix (Name - Editor Suffix)
+{
+(Gobbert)
+}
+
+STRING 342
+// Destructibles: B004 (- Light Yellow), Name (Name)
+{
+- Light Yellow
+}
+
+STRING 343
+// Doodads: D02A (- Tower), Name (Name)
+{
+- Tower
+}
+
+STRING 344
+// Units: n00A (Anami Berserker), Name (Name)
+{
+阿曼尼狂战士
+}
+
+STRING 345
+// Units: n00B (Amanishi Guardian), Name (Name)
+{
+阿曼尼守护者
+}
+
+STRING 346
+// Units: o00O (Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Blacktooth Grin)
+}
+
+STRING 347
+// Units: n00C (Anami Troll), Name (Name)
+{
+阿曼尼巨魔
+}
+
+STRING 349
+// Units: O00P (Samuro), EditorSuffix (Name - Editor Suffix)
+{
+(CSW)
+}
+
+STRING 350
+// Destructibles: B006 (- Table), Name (Name)
+{
+- Table
+}
+
+STRING 351
+// Destructibles: B007 (- Map), Name (Name)
+{
+- Map
+}
+
+STRING 352
+// Doodads: D01V (- Smoke), Name (Name)
+{
+- Smoke
+}
+
+STRING 353
+// Items: I0L0 (WC2ORCACT02Chogall1), Tip (Tooltip - Basic)
+{
+古加尔
+}
+
+STRING 354
+// Items: I0L0 (WC2ORCACT02Chogall1), Description (Description)
+{
+|cffffcc00古：|r穿越湿地沼泽的时候，我们需要有人护送。
+}
+
+STRING 355
+// Items: I0L0 (WC2ORCACT02Chogall1), Name (Name)
+{
+WC2ORCACT02Chogall1
+}
+
+STRING 356
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 357
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Description (Description)
+{
+我们已经把暴风城一半的财宝给你了！你的要价太疯狂了！
+}
+
+STRING 358
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Name (Name)
+{
+WC2ORCACT02Doomhammer1
+}
+
+STRING 359
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 360
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Description (Description)
+{
+这话你说过无数遍了……最好物有所值，小地精，否则后果很严重……
+}
+
+STRING 361
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Name (Name)
+{
+WC2ORCACT02Doomhammer2
+}
+
+STRING 362
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 363
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Description (Description)
+{
+看着我的眼睛……我就给你两万枚暴风皇家金币，不会再多了。
+}
+
+STRING 364
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Name (Name)
+{
+WC2ORCACT02Doomhammer3
+}
+
+STRING 365
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 366
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Description (Description)
+{
+两万……
+}
+
+STRING 367
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Name (Name)
+{
+WC2ORCACT02Doomhammer4
+}
+
+STRING 368
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 369
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Description (Description)
+{
+就两万……
+}
+
+STRING 370
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Name (Name)
+{
+WC2ORCACT02Doomhammer5
+}
+
+STRING 371
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 372
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Description (Description)
+{
+或许我该敲碎你的脑袋，奴役你的人民，再把你的财产送给锈水财阀……你说呢？
+}
+
+STRING 373
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Name (Name)
+{
+WC2ORCACT02Doomhammer6
+}
+
+STRING 374
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 375
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Description (Description)
+{
+瓦罗克，金子。
+}
+
+STRING 376
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Name (Name)
+{
+WC2ORCACT02Doomhammer6b
+}
+
+STRING 377
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 378
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Description (Description)
+{
+太好了，我们要以最大的敬意迎接他们。
+}
+
+STRING 379
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Name (Name)
+{
+WC2ORCACT02Doomhammer7
+}
+
+STRING 380
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 381
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Description (Description)
+{
+Lok'tar，黑手之子……也向你致敬，强大的祖尔金。汇报情况，雷德。
+}
+
+STRING 382
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Name (Name)
+{
+WC2ORCACT02Doomhammer8
+}
+
+STRING 383
+// Items: I0LA (WC2ORCACT02Doomhammer9), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 384
+// Items: I0LA (WC2ORCACT02Doomhammer9), Description (Description)
+{
+很高兴能帮助一位战友。听说你被俘后，我就立刻派雷德·黑手前去搭救。
+}
+
+STRING 385
+// Items: I0LA (WC2ORCACT02Doomhammer9), Name (Name)
+{
+WC2ORCACT02Doomhammer9
+}
+
+STRING 386
+// Items: I0LB (WC2ORCACT02Doomhammer11), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 387
+// Items: I0LB (WC2ORCACT02Doomhammer11), Description (Description)
+{
+起来吧，德拉诺之子！让我们欢迎强大的阿曼尼加入伟大的部落！
+}
+
+STRING 388
+// Items: I0LB (WC2ORCACT02Doomhammer11), Name (Name)
+{
+WC2ORCACT02Doomhammer11
+}
+
+STRING 389
+// Items: I0LC (WC2ORCACT02Doomhammer12), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 390
+// Items: I0LC (WC2ORCACT02Doomhammer12), Description (Description)
+{
+干得漂亮，雷德，还有乌托克队长。多亏你们的努力，我们才能摸清洛丹伦的底细。现在，是时候增援我们在卡兹莫丹的部队了。
+}
+
+STRING 391
+// Items: I0LC (WC2ORCACT02Doomhammer12), Name (Name)
+{
+WC2ORCACT02Doomhammer12
+}
+
+STRING 392
+// Items: I0LD (WC2ORCACT02Doomhammer13), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 393
+// Items: I0LD (WC2ORCACT02Doomhammer13), Description (Description)
+{
+很好。基尔罗格·死眼和他的氏族将开始侵吞矮人剩下的东部领土……就从废弃的矮人要塞——格瑞姆巴托开始吧。
+}
+
+STRING 394
+// Items: I0LD (WC2ORCACT02Doomhammer13), Name (Name)
+{
+WC2ORCACT02Doomhammer13
+}
+
+STRING 395
+// Items: I0LE (WC2ORCACT02Doomhammer14), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 396
+// Items: I0LE (WC2ORCACT02Doomhammer14), Description (Description)
+{
+瓦罗克，攻城武器、地精炸药和黑石氏族最优秀的战士就交给你了……向铁炉堡进军，让它跪倒在部落的铁蹄下。那座城市必须陷落，不惜一切代价！
+}
+
+STRING 397
+// Items: I0LE (WC2ORCACT02Doomhammer14), Name (Name)
+{
+WC2ORCACT02Doomhammer14
+}
+
+STRING 398
+// Items: I0LF (WC2ORCACT02Doomhammer15), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 399
+// Items: I0LF (WC2ORCACT02Doomhammer15), Description (Description)
+{
+萨穆罗，我希望你能协助黑石军团围攻铁炉堡。
+}
+
+STRING 400
+// Items: I0LF (WC2ORCACT02Doomhammer15), Name (Name)
+{
+WC2ORCACT02Doomhammer15
+}
+
+STRING 401
+// Items: I0LG (WC2ORCACT02Doomhammer16), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 402
+// Items: I0LG (WC2ORCACT02Doomhammer16), Description (Description)
+{
+据说矮人都是顽强不屈的战士，所以做好长期围攻的准备吧。
+}
+
+STRING 403
+// Items: I0LG (WC2ORCACT02Doomhammer16), Name (Name)
+{
+WC2ORCACT02Doomhammer16
+}
+
+STRING 404
+// Items: I0LH (WC2ORCACT02Doomhammer17), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 405
+// Items: I0LH (WC2ORCACT02Doomhammer17), Description (Description)
+{
+我们还要确保大陆东岸的安全。暮光之锤氏族必须前往那里……用我们地精‘盟友’提供的设备，建造原油生产设施。
+}
+
+STRING 406
+// Items: I0LH (WC2ORCACT02Doomhammer17), Name (Name)
+{
+WC2ORCACT02Doomhammer17
+}
+
+STRING 407
+// Items: I0LI (WC2ORCACT02Doomhammer18), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 408
+// Items: I0LI (WC2ORCACT02Doomhammer18), Description (Description)
+{
+与此同时，黑齿狞笑氏族必须征服托尔巴拉德岛。一旦控制全岛，他们就会向巴洛岛的暴掠氏族舰队发送信号，命其开赴人类王国斯托姆加德。
+}
+
+STRING 409
+// Items: I0LI (WC2ORCACT02Doomhammer18), Name (Name)
+{
+WC2ORCACT02Doomhammer18
+}
+
+STRING 410
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 411
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Description (Description)
+{
+祖鲁希德，我希望你带领剩下的龙喉氏族支援西卡兹莫丹的麦姆·黑手 ，以防生变。
+}
+
+STRING 412
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Name (Name)
+{
+WC2ORCACT02Doomhammer19
+}
+
+STRING 413
+// Items: I0LK (WC2ORCACT02Doomhammer20), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 414
+// Items: I0LK (WC2ORCACT02Doomhammer20), Description (Description)
+{
+各位将军、督军，解散！术士们，留下。
+}
+
+STRING 415
+// Items: I0LK (WC2ORCACT02Doomhammer20), Name (Name)
+{
+WC2ORCACT02Doomhammer20
+}
+
+STRING 416
+// Items: I0LL (WC2ORCACT02Doomhammer21), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 417
+// Items: I0LL (WC2ORCACT02Doomhammer21), Description (Description)
+{
+古尔丹许诺给我的战士有进展了吗？
+}
+
+STRING 418
+// Items: I0LL (WC2ORCACT02Doomhammer21), Name (Name)
+{
+WC2ORCACT02Doomhammer21
+}
+
+STRING 419
+// Items: I0LM (WC2ORCACT02Doomhammer22), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 420
+// Items: I0LM (WC2ORCACT02Doomhammer22), Description (Description)
+{
+告诉你的主人……我的耐心有限，术士……
+}
+
+STRING 421
+// Items: I0LM (WC2ORCACT02Doomhammer22), Name (Name)
+{
+WC2ORCACT02Doomhammer22
+}
+
+STRING 422
+// Items: I0LN (WC2ORCACT02Doomhammer23), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 423
+// Items: I0LN (WC2ORCACT02Doomhammer23), Description (Description)
+{
+耐克鲁斯，你要听从祖鲁希德的指挥。要是敢联系古尔丹……我就把你煮成肉汤……听明白了吗？
+}
+
+STRING 424
+// Items: I0LN (WC2ORCACT02Doomhammer23), Name (Name)
+{
+WC2ORCACT02Doomhammer23
+}
+
+STRING 425
+// Items: I0LO (WC2ORCACT02Doomhammer24), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 426
+// Items: I0LO (WC2ORCACT02Doomhammer24), Description (Description)
+{
+古加尔，我要你们亲自监督东岸原油设施的建设。基尔罗格控制格瑞姆巴托后，你们就立刻赶过去。
+}
+
+STRING 427
+// Items: I0LO (WC2ORCACT02Doomhammer24), Name (Name)
+{
+WC2ORCACT02Doomhammer24
+}
+
+STRING 428
+// Items: I0LP (WC2ORCACT02Doomhammer25), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 429
+// Items: I0LP (WC2ORCACT02Doomhammer25), Description (Description)
+{
+我会处理的。现在，滚吧。
+}
+
+STRING 430
+// Items: I0LP (WC2ORCACT02Doomhammer25), Name (Name)
+{
+WC2ORCACT02Doomhammer25
+}
+
+STRING 431
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 432
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Description (Description)
+{
+可是大酋长……高端技术是很昂贵的。你知道飞艇填充气的生产工艺有多复杂吗？更不用说精炼过滤器、泵机和炸药的成本了。战争不是个便宜活儿……况且我们已经给你很大的优惠了！
+}
+
+STRING 433
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Name (Name)
+{
+WC2ORCACT02Steamwheedle1
+}
+
+STRING 434
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 435
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Description (Description)
+{
+这是供求法则，大酋长，仅此而已。我们没资格左右价格——就连你也不例外！
+}
+
+STRING 436
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Name (Name)
+{
+WC2ORCACT02Steamwheedle2
+}
+
+STRING 437
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 438
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Description (Description)
+{
+三万怎么样？
+}
+
+STRING 439
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Name (Name)
+{
+WC2ORCACT02Steamwheedle3
+}
+
+STRING 440
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 441
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Description (Description)
+{
+两万八？
+}
+
+STRING 442
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Name (Name)
+{
+WC2ORCACT02Steamwheedle4
+}
+
+STRING 443
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 444
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Description (Description)
+{
+要不两万七……
+}
+
+STRING 445
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Name (Name)
+{
+WC2ORCACT02Steamwheedle5
+}
+
+STRING 446
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 447
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Description (Description)
+{
+好吧好吧！老天……我再给你打个折，就两万，成交！
+}
+
+STRING 448
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Name (Name)
+{
+WC2ORCACT02Steamwheedle6
+}
+
+STRING 449
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Tip (Tooltip - Basic)
+{
+贸易亲王热砂
+}
+
+STRING 450
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Description (Description)
+{
+又一位满意的客户！我会把我最好的工程师派给你，大酋长！
+}
+
+STRING 451
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Name (Name)
+{
+WC2ORCACT02Steamwheedle7
+}
+
+STRING 452
+// Items: I0LX (WC2ORCACT02Tharbek1), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 453
+// Items: I0LX (WC2ORCACT02Tharbek1), Description (Description)
+{
+大酋长，雷德·黑手带着巨魔酋长回来了。
+}
+
+STRING 454
+// Items: I0LX (WC2ORCACT02Tharbek1), Name (Name)
+{
+WC2ORCACT02Tharbek1
+}
+
+STRING 455
+// Items: I0LY (WC2ORCACT02Rend1), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 456
+// Items: I0LY (WC2ORCACT02Rend1), Description (Description)
+{
+Lok'tar，大酋长，这位就是阿曼尼的首领——督军祖尔金。
+}
+
+STRING 457
+// Items: I0LY (WC2ORCACT02Rend1), Name (Name)
+{
+WC2ORCACT02Rend1
+}
+
+STRING 458
+// Items: I0LZ (WC2ORCACT02Rend2), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 459
+// Items: I0LZ (WC2ORCACT02Rend2), Description (Description)
+{
+巨魔们被牢牢锁在笼子里。人类太天真了……以为森林里唯一的威胁已经全数落网。更重要的是，没有一个目击者能活着离开敦霍尔德。
+}
+
+STRING 460
+// Items: I0LZ (WC2ORCACT02Rend2), Name (Name)
+{
+WC2ORCACT02Rend2
+}
+
+STRING 461
+// Items: I0Lz (WC2ORCACT02Rend3), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 462
+// Items: I0Lz (WC2ORCACT02Rend3), Description (Description)
+{
+希尔斯布莱德镇区已被摧毁，末日将至的传言将如野火般在人类诸国间蔓延开来。
+}
+
+STRING 463
+// Items: I0Lz (WC2ORCACT02Rend3), Name (Name)
+{
+WC2ORCACT02Rend3
+}
+
+STRING 464
+// Items: I0Ly (WC2ORCACT02Zuljin1), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 465
+// Items: I0Ly (WC2ORCACT02Zuljin1), Description (Description)
+{
+你的战士救了我们。之后我们又在南海镇和希尔斯布莱德并肩作战。能加入你的部落，是巨魔的荣幸。
+}
+
+STRING 466
+// Items: I0Ly (WC2ORCACT02Zuljin1), Name (Name)
+{
+WC2ORCACT02Zuljin1
+}
+
+STRING 467
+// Items: I0Lx (WC2ORCACT02Zuljin2), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 468
+// Items: I0Lx (WC2ORCACT02Zuljin2), Description (Description)
+{
+你的部落还想征服世界吗？
+}
+
+STRING 469
+// Items: I0Lx (WC2ORCACT02Zuljin2), Name (Name)
+{
+WC2ORCACT02Zuljin2
+}
+
+STRING 470
+// Items: I0Lw (WC2ORCACT02Zuljin3), Tip (Tooltip - Basic)
+{
+祖尔金
+}
+
+STRING 471
+// Items: I0Lw (WC2ORCACT02Zuljin3), Description (Description)
+{
+我们会帮助你，就像你帮助过我们一样。命运给了我们一个机会：一个击退粉皮、重夺家园，为同胞开疆拓土的机会。巨魔和兽人现在是盟友了——血脉相融，永不分离！
+}
+
+STRING 472
+// Items: I0Lw (WC2ORCACT02Zuljin3), Name (Name)
+{
+WC2ORCACT02Zuljin3
+}
+
+STRING 473
+// Items: I0Lv (WC2ORCACT02Varok1), Tip (Tooltip - Basic)
+{
+瓦罗克·萨鲁法尔
+}
+
+STRING 474
+// Items: I0Lv (WC2ORCACT02Varok1), Description (Description)
+{
+那边，小地精……
+}
+
+STRING 475
+// Items: I0Lv (WC2ORCACT02Varok1), Name (Name)
+{
+WC2ORCACT02Varok1
+}
+
+STRING 476
+// Items: I0Lu (WC2ORCACT02Varok2), Tip (Tooltip - Basic)
+{
+瓦罗克·萨鲁法尔
+}
+
+STRING 477
+// Items: I0Lu (WC2ORCACT02Varok2), Description (Description)
+{
+就在去年，我们的大军几乎成功征服了整座卡兹莫丹次大陆。但仍有两个地区负隅顽抗——卡兹莫丹东海岸和铁炉堡。
+}
+
+STRING 478
+// Items: I0Lu (WC2ORCACT02Varok2), Name (Name)
+{
+WC2ORCACT02Varok2
+}
+
+STRING 479
+// Items: I0Lt (WC2ORCACT02Varok3), Tip (Tooltip - Basic)
+{
+瓦罗克·萨鲁法尔
+}
+
+STRING 480
+// Items: I0Lt (WC2ORCACT02Varok3), Description (Description)
+{
+誓必完成，大酋长！
+}
+
+STRING 481
+// Items: I0Lt (WC2ORCACT02Varok3), Name (Name)
+{
+WC2ORCACT02Varok3
+}
+
+STRING 482
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Tip (Tooltip - Basic)
+{
+基尔罗格·死眼
+}
+
+STRING 483
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Description (Description)
+{
+没问题，大酋长。我的部队枕戈待旦。
+}
+
+STRING 484
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Name (Name)
+{
+WC2ORCACT02Kilrogg1
+}
+
+STRING 485
+// Items: I0Lr (WC2ORCACT02Samuro1), Tip (Tooltip - Basic)
+{
+萨穆罗
+}
+
+STRING 486
+// Items: I0Lr (WC2ORCACT02Samuro1), Description (Description)
+{
+火氏刃族不会让你失望的，大酋长。
+}
+
+STRING 487
+// Items: I0Lr (WC2ORCACT02Samuro1), Name (Name)
+{
+WC2ORCACT02Samuro1
+}
+
+STRING 488
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Tip (Tooltip - Basic)
+{
+疲惫的祖鲁希德
+}
+
+STRING 489
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Description (Description)
+{
+是，大酋长。
+}
+
+STRING 490
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Name (Name)
+{
+WC2ORCACT02Zuluhed1
+}
+
+STRING 491
+// Items: I0Lp (WC2ORCACT02TeronGor1), Tip (Tooltip - Basic)
+{
+塔隆戈尔
+}
+
+STRING 492
+// Items: I0Lp (WC2ORCACT02TeronGor1), Description (Description)
+{
+大酋长，求你了，我无意冒犯，但你必须耐心等待。古尔丹正在巴洛岛的实验室里努力完成你的任务。
+}
+
+STRING 493
+// Items: I0Lp (WC2ORCACT02TeronGor1), Name (Name)
+{
+WC2ORCACT02TeronGor1
+}
+
+STRING 494
+// Items: I0Lo (WC2ORCACT02TeronGor2), Tip (Tooltip - Basic)
+{
+塔隆戈尔
+}
+
+STRING 495
+// Items: I0Lo (WC2ORCACT02TeronGor2), Description (Description)
+{
+是，大酋长。
+}
+
+STRING 496
+// Items: I0Lo (WC2ORCACT02TeronGor2), Name (Name)
+{
+WC2ORCACT02TeronGor2
+}
+
+STRING 498
+// Items: I0Ln (WC2ORCACT02Nekros), Description (Description)
+{
+如你所愿，大酋长。
+}
+
+STRING 499
+// Items: I0Ln (WC2ORCACT02Nekros), Name (Name)
+{
+WC2ORCACT02Nekros
+}
+
+STRING 500
+// Items: I1La (WC2ORCACT02Etrigg1), Tip (Tooltip - Basic)
+{
+伊崔格
+}
+
+STRING 501
+// Items: I1La (WC2ORCACT02Etrigg1), Description (Description)
+{
+潮落岛一战的巨大胜利，奠定了我们对卡兹莫丹西海岸的控制权。丹厄加斯的部队将确保人类无法从海路支援矮人。通往洛丹伦的北方通道也被丹莫德的驻军截断。矮人已成瓮中之鳖。
+}
+
+STRING 502
+// Items: I1La (WC2ORCACT02Etrigg1), Name (Name)
+{
+WC2ORCACT02Etrigg1
+}
+
+STRING 503
+// Items: I0Ln (WC2ORCACT02Nekros), Tip (Tooltip - Basic)
+{
+碎颅者耐克鲁斯
+}
+

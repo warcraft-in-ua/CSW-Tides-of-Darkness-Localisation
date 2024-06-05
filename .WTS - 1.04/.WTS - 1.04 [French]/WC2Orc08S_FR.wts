@@ -1,0 +1,3346 @@
+﻿STRING 1
+{
+WC2Orc08S
+}
+
+STRING 2
+{
+Chapitre oublié II : Le stratagème des Hinterlands
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 8
+{
+Nation de Lordaeron
+}
+
+STRING 9
+{
+Tribue Witherbark
+}
+
+STRING 10
+{
+Villageois Wildhammer
+}
+
+STRING 11
+{
+Hauts-Elfes
+}
+
+STRING 12
+{
+Tribue Witherbark
+}
+
+STRING 13
+{
+Horde
+}
+
+STRING 14
+{
+Alliance
+}
+
+STRING 20
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 21
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 24
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 25
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Mage Elfe
+}
+
+STRING 26
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrat
+}
+
+STRING 27
+// Destructibles: B004 (Cage), Name (Name)
+{
+Cage
+}
+
+STRING 67
+// Units: e601 (Ballista), Name (Name)
+{
+Balliste
+}
+
+STRING 102
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Humain)
+}
+
+STRING 123
+// Units: n604 (Axe Thrower), Name (Name)
+{
+Lanceur de haches
+}
+
+STRING 124
+// Units: n604 (Axe Thrower), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 125
+// Units: n604 (Axe Thrower), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 126
+// Units: n604 (Axe Thrower), Tip (Tooltip - Basic)
+{
+Entraîner Lanceur de haches
+}
+
+STRING 127
+// Units: n604 (Axe Thrower), Ubertip (Tooltip - Extended)
+{
+Unité légère à distance. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r
+}
+
+STRING 136
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Construire canon
+}
+
+STRING 137
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Puissant canon à longue portée, mais lent et vulnérable.|n|n|cffffcc00Attaque des cibles au sol (y compris des arbres).|r
+}
+
+STRING 162
+// Units: n60C (Scout Post), Name (Name)
+{
+Poste d'observation
+}
+
+STRING 163
+// Units: n60C (Scout Post), Tip (Tooltip - Basic)
+{
+Poste d'observation
+}
+
+STRING 164
+// Units: n60C (Scout Post), Description (Description)
+{
+Poste d'observation orc
+}
+
+STRING 221
+// Units: o60A (Wildhammer Catapult), Name (Name)
+{
+Catapulte Wildhammer
+}
+
+STRING 222
+// Units: o60A (Wildhammer Catapult), Tip (Tooltip - Basic)
+{
+Entraîne une Catapulte
+}
+
+STRING 261
+// Units: h626 (Watch Tower), Ubertip (Tooltip - Extended)
+{
+Structure défensive principale. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r
+}
+
+STRING 431
+// Units: n60V (Duck), Name (Name)
+{
+Canard
+}
+
+STRING 432
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+C'est juste un colvert
+}
+
+STRING 433
+// Units: h61K (Judicator), Name (Name)
+{
+Judicateur
+}
+
+STRING 434
+// Units: h61K (Judicator), Tip (Tooltip - Basic)
+{
+Entraîner Judicateur
+}
+
+STRING 435
+// Units: h61N (Aviary), EditorSuffix (Name - Editor Suffix)
+{
+(Haut Elfe)
+}
+
+STRING 436
+// Units: h003 (Engineer), EditorSuffix (Name - Editor Suffix)
+{
+(Haut Elfe)
+}
+
+STRING 437
+// Units: h61N (Aviary), Name (Name)
+{
+Volière
+}
+
+STRING 441
+// Units: o61I (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 442
+// Units: o61J (Spirit Lodge), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 443
+// Units: o61K (Voodoo Altar), Name (Name)
+{
+Autel vaudoo
+}
+
+STRING 444
+// Units: o61L (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 449
+// Units: h61R (Orcish Stone Wall), Name (Name)
+{
+Mur de pierre orc
+}
+
+STRING 461
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 462
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 471
+// Units: h620 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 472
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 473
+// Units: h621 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 474
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 475
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Amélioration)
+}
+
+STRING 524
+// Units: n60Q (Beastlair), Name (Name)
+{
+Antre de bêtes
+}
+
+STRING 525
+// Units: n60Q (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Barrens SE)
+}
+
+STRING 526
+// Units: n610 (Beastlair), Name (Name)
+{
+Antre de bêtes
+}
+
+STRING 527
+// Units: n610 (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Barrens SW)
+}
+
+STRING 529
+// Units: h60F (Human Cannon), Name (Name)
+{
+Canon Humain
+}
+
+STRING 544
+// Units: n60Y (Raven), Name (Name)
+{
+Corbeau
+}
+
+STRING 553
+// Units: n60Z (Spiders), Name (Name)
+{
+Araignées
+}
+
+STRING 554
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Araignées
+}
+
+STRING 555
+// Units: h60T (Clansman), Name (Name)
+{
+Homme de clan
+}
+
+STRING 556
+// Units: h60T (Clansman), EditorSuffix (Name - Editor Suffix)
+{
+(Wild Hammer)
+}
+
+STRING 557
+// Units: h60T (Clansman), Tip (Tooltip - Basic)
+{
+Entraîner Homme de clan
+}
+
+STRING 558
+// Units: h60T (Clansman), Ubertip (Tooltip - Extended)
+{
+Fantassin polyvalent. |n|n|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 566
+// Units: h61I (Stonemason), Name (Name)
+{
+Tailleur de pierres
+}
+
+STRING 567
+// Units: h61I (Stonemason), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 568
+// Units: h61I (Stonemason), Tip (Tooltip - Basic)
+{
+Entraîner Tailleur de pierres
+}
+
+STRING 569
+// Units: h61I (Stonemason), Ubertip (Tooltip - Extended)
+{
+Unité ouvrière de base. Peut récolter de l'or et du bois, construire et réparer les structures. |n|n|cffffcc00Attaque les unités terrestres et les arbres.|r
+}
+
+STRING 574
+// Units: e60G (Hermit), Name (Name)
+{
+Ermite
+}
+
+STRING 575
+// Units: e60G (Hermit), EditorSuffix (Name - Editor Suffix)
+{
+ (Forme naine)
+}
+
+STRING 576
+// Units: e60G (Hermit), Tip (Tooltip - Basic)
+{
+Entraîner Ermite
+}
+
+STRING 577
+// Units: e60H (Wildhammer Druid), Name (Name)
+{
+Druide Wildhammer
+}
+
+STRING 578
+// Units: e60H (Wildhammer Druid), EditorSuffix (Name - Editor Suffix)
+{
+ (Forme de Hibours)
+}
+
+STRING 579
+// Units: e60K (Stormcaller), Name (Name)
+{
+Tempête 
+}
+
+STRING 580
+// Units: e60K (Stormcaller), Tip (Tooltip - Basic)
+{
+Entraîner Tempête 
+}
+
+STRING 581
+// Units: e60K (Stormcaller), Ubertip (Tooltip - Extended)
+{
+Lanceur de sorts. Peut initialement lancer Lucioles, qui réduit l'armure et donne la vision d'une unité ennemie. Peut également apprendre Mousson et Cyclone. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r
+}
+
+STRING 582
+// Units: e60K (Stormcaller), Casterupgradetip (Caster Upgrade Tips)
+{
+- Lucioles,- Lucioles|n- Mousson,- Lucioles|n- Mousson|n- Cyclone
+}
+
+STRING 595
+// Units: n007 (Wolf), Name (Name)
+{
+Loup
+}
+
+STRING 623
+// Units: h61V (Thane), Name (Name)
+{
+Thane
+}
+
+STRING 624
+// Units: h61V (Thane), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 649
+// Units: h618 (Pack Ram), Name (Name)
+{
+Bélier
+}
+
+STRING 650
+// Units: n61O (Wild Ram), Name (Name)
+{
+Bélier sauvage
+}
+
+STRING 651
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gris)
+}
+
+STRING 652
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoquer bélier
+}
+
+STRING 653
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Bélier sauvage. Ça peut être dangereux !
+}
+
+STRING 654
+// Units: n61P (Wild Ram), Name (Name)
+{
+Bélier sauvage
+}
+
+STRING 655
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Noir)
+}
+
+STRING 656
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoquer bélier
+}
+
+STRING 657
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Bélier sauvage. Ça peut être dangereux !
+}
+
+STRING 658
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Bélier sauvage
+}
+
+STRING 659
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Marron)
+}
+
+STRING 660
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Bélier sauvage
+}
+
+STRING 661
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Bélier sauvage. Ça peut être dangereux !
+}
+
+STRING 676
+// Units: h60A (Longhouse), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 677
+// Units: h60A (Longhouse), Name (Name)
+{
+Longère
+}
+
+STRING 678
+// Units: h60A (Longhouse), Tip (Tooltip - Basic)
+{
+Construire Longère
+}
+
+STRING 679
+// Units: h60A (Longhouse), Ubertip (Tooltip - Extended)
+{
+Bâtiment de production des troupes principales. Entraîne les Hommes de clan, les Lanceurs de haches et les Catapultes.
+}
+
+STRING 680
+// Units: h61L (Lumber Mill), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 681
+// Units: h61M (Forge), Name (Name)
+{
+Forge
+}
+
+STRING 682
+// Units: h624 (Forge), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 683
+// Units: h626 (Watch Tower), Name (Name)
+{
+Tour de Garde
+}
+
+STRING 685
+// Units: h626 (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 686
+// Units: h626 (Watch Tower), Tip (Tooltip - Basic)
+{
+Construire Tour de Garde
+}
+
+STRING 687
+// Units: h629 (Hinterlands Den), Name (Name)
+{
+Repaire des Hinterlands
+}
+
+STRING 688
+// Units: h629 (Hinterlands Den), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 689
+// Units: h629 (Hinterlands Den), Tip (Tooltip - Basic)
+{
+Construire Repaire des Hinterlands
+}
+
+STRING 690
+// Units: h62B (Mead Hall), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 691
+// Units: h62A (Cottage), Name (Name)
+{
+Chalet
+}
+
+STRING 692
+// Units: h62A (Cottage), Tip (Tooltip - Basic)
+{
+Construire Chalet
+}
+
+STRING 693
+// Units: h62C (Highland Manor), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 694
+// Units: h62B (Mead Hall), Name (Name)
+{
+Hydromellerie
+}
+
+STRING 695
+// Units: h62B (Mead Hall), Tip (Tooltip - Basic)
+{
+Construire Hydromellerie
+}
+
+STRING 696
+// Units: h62G (Aerie Keep), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 697
+// Units: h62C (Highland Manor), Name (Name)
+{
+Manoir des collines 
+}
+
+STRING 698
+// Units: h62C (Highland Manor), Tip (Tooltip - Basic)
+{
+Améliorer en Manoir des collines 
+}
+
+STRING 699
+// Units: h62C (Highland Manor), Ubertip (Tooltip - Extended)
+{
+Améliorer en Manoir des collines afin de permettre la production de types de structures et d'unités supplémentaires.
+}
+
+STRING 700
+// Units: n61N (Cottage), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 701
+// Units: h62G (Aerie Keep), Name (Name)
+{
+Donjon d'Aerie
+}
+
+STRING 702
+// Units: h62G (Aerie Keep), Tip (Tooltip - Basic)
+{
+Améliorer en Donjon d'Aerie
+}
+
+STRING 703
+// Units: h62G (Aerie Keep), Ubertip (Tooltip - Extended)
+{
+Améliorer en Donjon d'Aerie afin de permettre la production de types de structures et d'unités supplémentaires.
+}
+
+STRING 704
+// Units: n61N (Cottage), Name (Name)
+{
+Chalet
+}
+
+STRING 705
+// Units: n61R (Tavern), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer)
+}
+
+STRING 706
+// Units: n61R (Tavern), Name (Name)
+{
+Taverne
+}
+
+STRING 708
+// Units: n61S (Amanishi Guardian), Name (Name)
+{
+Gardien Amani'shi
+}
+
+STRING 709
+// Units: n61S (Amanishi Guardian), Tip (Tooltip - Basic)
+{
+Engager Gardien Amani'shi
+}
+
+STRING 722
+// Units: n61T (Gryphon), Name (Name)
+{
+Griffon
+}
+
+STRING 723
+// Units: n61T (Gryphon), Tip (Tooltip - Basic)
+{
+Invoquer griffon
+}
+
+STRING 724
+// Units: n61T (Gryphon), EditorSuffix (Name - Editor Suffix)
+{
+(no rider)
+}
+
+STRING 795
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 816
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 817
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Champignons
+}
+
+STRING 818
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 819
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portail
+}
+
+STRING 825
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 827
+// Destructibles: B60J (Vines), Name (Name)
+{
+Vignes
+}
+
+STRING 830
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Caverne
+}
+
+STRING 831
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Mur de pierre
+}
+
+STRING 835
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 836
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 837
+// Destructibles: B617 (Fire), Name (Name)
+{
+Feu
+}
+
+STRING 854
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Ancienne tombe
+}
+
+STRING 856
+// Destructibles: B62T (Egg), Name (Name)
+{
+Oeuf
+}
+
+STRING 861
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 862
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 865
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 868
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 878
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+Planteur d'arbres
+}
+
+STRING 879
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Buisson de la canopée d'hiver
+}
+
+STRING 880
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Arbre d'hiver tombé
+}
+
+STRING 881
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Arbre d'hiver tombé
+}
+
+STRING 884
+// Destructibles: B60U (Chest), Name (Name)
+{
+Coffre
+}
+
+STRING 885
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Réserve de bois
+}
+
+STRING 886
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 887
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 888
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Bannière de l'Alliance
+}
+
+STRING 889
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Poutre de soutien
+}
+
+STRING 890
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Cinématique orc
+}
+
+STRING 894
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Buissons
+}
+
+STRING 899
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Pierre tombale orc
+}
+
+STRING 900
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Décombres
+}
+
+STRING 901
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Toile d'araignée
+}
+
+STRING 903
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Buisson de la canopée d'hiver
+}
+
+STRING 904
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variations)
+}
+
+STRING 931
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 932
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 933
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 934
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 935
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+DarkCliff
+}
+
+STRING 936
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 937
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+DarkCliffSmall
+}
+
+STRING 938
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 947
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 948
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 949
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 950
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 951
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 952
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 953
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 954
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 955
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 970
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 971
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Tour carrée
+}
+
+STRING 979
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Herbe haute
+}
+
+STRING 983
+// Doodads: D647 (Vines Poisoned), Name (Name)
+{
+Vignes empoisonnées
+}
+
+STRING 987
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 988
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 989
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 995
+// Doodads: D69B (Cloud), Name (Name)
+{
+Nuage
+}
+
+STRING 1000
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Feuilles d'étoiles
+}
+
+STRING 1012
+// Doodads: D6AC (Glow), Name (Name)
+{
+Éclat
+}
+
+STRING 1013
+// Doodads: D6AD (Fog), Name (Name)
+{
+Brouillard
+}
+
+STRING 1018
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Buisson des Terres Désolées
+}
+
+STRING 1036
+// Doodads: D6BL (Gold), Name (Name)
+{
+Or
+}
+
+STRING 1042
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Petite lueur
+}
+
+STRING 1046
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Cercle de puissance
+}
+
+STRING 1049
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Racines
+}
+
+STRING 1050
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1051
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1056
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1057
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1058
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1059
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1060
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1061
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1096
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1098
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Blé
+}
+
+STRING 1100
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Caisse enneigée
+}
+
+STRING 1104
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1105
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1126
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1127
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1134
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Bannière du clan Blackrock
+}
+
+STRING 1135
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Ratelier d'armures orc
+}
+
+STRING 1136
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Ratelier d'armes orc
+}
+
+STRING 1137
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1150
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 1151
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 1152
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 1153
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 1154
+// Doodads: D60M (Wildhammer Well), Name (Name)
+{
+Puit Wildhammer
+}
+
+STRING 1155
+// Doodads: D61B (Wildhammer Post), Name (Name)
+{
+Poste Wildhammer
+}
+
+STRING 1156
+// Doodads: D61C (Gryphon Shed), Name (Name)
+{
+Abri à griffons
+}
+
+STRING 1158
+// Doodads: D61G (Wildhammer Banner), Name (Name)
+{
+Bannière Wildhammer
+}
+
+STRING 1908
+// Abilities: A600 (Beast Form), Name (Name)
+{
+Forme de bête
+}
+
+STRING 1909
+// Abilities: A600 (Beast Form), Tip (Tooltip - Normal)
+{
+Forme de bête
+}
+
+STRING 1910
+// Abilities: A600 (Beast Form), Ubertip (Tooltip - Normal - Extended)
+{
+Transforme le Druide en Hibours, ralentissant la régénération du mana, mais faisant de lui un excellent guerrier.
+}
+
+STRING 1911
+// Abilities: A600 (Beast Form), Unubertip (Tooltip - Turn Off - Extended)
+{
+Rend au druide sa forme de nain.
+}
+
+STRING 2341
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 2342
+{
+Impossible d'utiliser la plate-forme pétrolière.
+}
+
+STRING 2343
+{
+Ce puit de pétrole a déjà été utilisé.
+}
+
+STRING 2344
+{
+Il faut d'abord construire une plate-forme pétrolière.
+}
+
+STRING 2345
+{
+Doit cibler un puit de pétrole.
+}
+
+STRING 2346
+{
+Doit être construit sur un puit de pétrole.
+}
+
+STRING 2347
+{
+Vous pouvez faire ranimer votre héros dans la Grande Salle.
+}
+
+STRING 2348
+// Destructibles: B000 (Fence short), Name (Name)
+{
+Clôture courte
+}
+
+STRING 2349
+// Destructibles: B001 (Fence short), Name (Name)
+{
+Clôture courte
+}
+
+STRING 2350
+// Destructibles: B002 (Fence), Name (Name)
+{
+Clôture
+}
+
+STRING 2351
+// Destructibles: B003 (Fence), Name (Name)
+{
+Clôture
+}
+
+STRING 2353
+// Destructibles: B005 (Huge PB (both)), Name (Name)
+{
+Huge PB (both)
+}
+
+STRING 2354
+// Destructibles: B006 (Huge PB (Ground)), Name (Name)
+{
+Huge PB (Ground)
+}
+
+STRING 2355
+// Destructibles: B007 (medium PB (ground)), Name (Name)
+{
+medium PB (ground)
+}
+
+STRING 2356
+{
+Clan Blackrock
+}
+
+STRING 2357
+{
+Clan Wildhammer
+}
+
+STRING 2358
+{
+Colons Wildhammer
+}
+
+STRING 2359
+// Destructibles: B008 (Huge PB (Ground)), Name (Name)
+{
+Huge PB (Ground)
+}
+
+STRING 2360
+// Destructibles: B009 (Huge PB (Ground)), Name (Name)
+{
+Huge PB (Ground)
+}
+
+STRING 2361
+// Doodads: D000 (Elven Wall), Name (Name)
+{
+Mur elfique
+}
+
+STRING 2362
+// Doodads: D001 (Elven Wall), Name (Name)
+{
+Mur elfique
+}
+
+STRING 2363
+// Doodads: D002 (Elven Wall (light)), Name (Name)
+{
+Mur elfique (light)
+}
+
+STRING 2364
+// Doodads: D003 (Rock Archway), Name (Name)
+{
+Arche rocheuse
+}
+
+STRING 2365
+// Doodads: D004 (Elven Wall (light)), Name (Name)
+{
+Mur elfique (light)
+}
+
+STRING 2366
+// Doodads: D005 (Elven Wall (light)), Name (Name)
+{
+Mur elfique (light)
+}
+
+STRING 2367
+// Doodads: D006 (Fearies), Name (Name)
+{
+Lucioles
+}
+
+STRING 2368
+// Doodads: D007 (Elven Statue), Name (Name)
+{
+Statue Elfe
+}
+
+STRING 2434
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Terre brûlée
+  -|cff808080 Détruire les colonies Wildhammer  (Terminé)|r
+  -|cff808080 En finir avant l'arrivée de l'Alliance (Terminé)|r
+  - Préparer les défenses contre l'Alliance
+}
+
+STRING 2444
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Ragoût d'orteil velu
+}
+
+STRING 2445
+{
+Prisonnier Blackrock
+}
+
+STRING 2503
+// Units: n006 (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Special)
+}
+
+STRING 2504
+// Units: h003 (Engineer), Name (Name)
+{
+Ingénieur
+}
+
+STRING 2534
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Saletés d'elfes
+  - Détruire la Loge Quel’Danil
+}
+
+STRING 2544
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Éradication
+}
+
+STRING 2552
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Plus d'orteils dans la marmite !
+  - Ralliez les Trolls restants (0 sur 2 Ralliés)
+}
+
+STRING 2554
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Plus d'orteils dans la marmite !
+  - Ralliez les Trolls restants (1 sur 2 Ralliés)
+}
+
+STRING 2557
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Plus d'orteils dans la marmite !
+}
+
+STRING 2559
+// Units: n60W (Troll Farm), Name (Name)
+{
+Ferme trolle
+}
+
+STRING 2560
+// Units: n60X (Troll Farm), Name (Name)
+{
+Ferme trolle
+}
+
+STRING 2612
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Orcs de fer
+}
+
+STRING 2616
+{
+|cffffcc00QUÊTE PRINCIPALE ÉCHOUÉE|r
+Ragoût d'orteil velu
+}
+
+STRING 2625
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Éradication
+  - Détruisez l'avant-poste nain de la connaissance
+}
+
+STRING 2637
+{
+|cffffcc00ÉCHEC DE LA QUÊTE OPTIONNELLE|r
+Plus d'orteils dans la marmite !
+}
+
+STRING 2653
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Orcs de fer
+  -|cff808080 Arrêtez l'Alliance jusqu'à ce qu'Orgrim et Zul'jin reviennent à la base (Terminé)|r
+  - Votre base principale ne doit pas être détruite
+  - Arrêtez l'Alliance jusqu'à ce que les gobelins détruisent le col
+}
+
+STRING 2658
+{
+Arrêtez l'Alliance jusqu'à ce que les gobelins détruisent le col
+}
+
+STRING 2659
+{
+Tenez la ligne jusqu'à ce que votre évasion soit assurée !
+}
+
+STRING 2661
+// Units: h62A (Cottage), EditorSuffix (Name - Editor Suffix)
+{
+(Wildhammer Small)
+}
+
+STRING 2673
+// Destructibles: B00A (Rock Chunks Rubble), Name (Name)
+{
+Décombres
+}
+
+STRING 2678
+{
+|cffffcc00MISSION ÉCHOUÉE|r
+}
+
+STRING 2680
+{
+|cffffcc00QUÊTE PRINCIPALE ÉCHOUÉE|r
+Votre base principale a été détruite !
+}
+
+STRING 2681
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2682
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2683
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2684
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2685
+{
+|cffffcc00Extraire plus de pétrole.|r
+}
+
+STRING 2687
+// Units: n007 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Doomhammer)
+}
+
+STRING 2693
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2696
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2697
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2698
+{
+|cffffff00Triche activée|r
+}
+
+STRING 2699
+{
+|cffffff00C'est l'heure de danser !|r
+}
+
+STRING 2709
+// Units: htow (Villa), Name (Name)
+{
+Villa
+}
+
+STRING 2711
+// Units: hkee (Chateau), Name (Name)
+{
+Châtelet
+}
+
+STRING 2712
+// Units: hkee (Chateau), Tip (Tooltip - Basic)
+{
+Améliorer en Châtelet
+}
+
+STRING 2713
+// Units: hcas (Palace), Name (Name)
+{
+Palais
+}
+
+STRING 2714
+// Units: hcas (Palace), Tip (Tooltip - Basic)
+{
+Améliorer en Palais
+}
+
+STRING 2715
+// Units: nefm (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2716
+// Units: nef4 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2717
+// Units: nef0 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2718
+// Units: nef1 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2719
+// Units: nef2 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2720
+// Units: nef3 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2721
+// Units: nef5 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2722
+// Units: nef6 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2723
+// Units: nef7 (High Elven Manor), Name (Name)
+{
+Manoir Haut-Elfe
+}
+
+STRING 2724
+// Units: edob (Quel'Danil Lodge), Name (Name)
+{
+Loge Quel'Danil
+}
+
+STRING 2725
+// Units: edob (Quel'Danil Lodge), Tip (Tooltip - Basic)
+{
+Construire Loge Quel'Danil
+}
+
+STRING 2726
+// Destructibles: B00B (Snowpile Flat), Name (Name)
+{
+Snowpile Flat
+}
+
+STRING 2728
+// Units: h004 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 2729
+// Units: h004 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 2730
+// Units: h004 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade No Pathing)
+}
+
+STRING 2731
+// Units: h005 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 2732
+// Units: h005 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 2733
+// Units: h005 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(No Pathing)
+}
+
+STRING 2737
+{
+Détruire les colonies Wildhammer
+}
+
+STRING 2740
+{
+Rallier les camps trolls
+}
+
+STRING 2742
+{
+Rallier les camps trolls (1 sur 2 ralliés)
+}
+
+STRING 2743
+// Units: n008 (Forest Troll Trapper), EditorSuffix (Name - Editor Suffix)
+{
+(Entourage)
+}
+
+STRING 2746
+{
+Guerriers Troll
+}
+
+STRING 2761
+{
+|cffffcc00QUÊTE PRINCIPALE ÉCHOUÉE|r
+Votre armée a été vaincue !
+}
+
+STRING 2762
+// Destructibles: B00C (Barrel with Explosives), Name (Name)
+{
+Barils d'explosives
+}
+
+STRING 2763
+{
+Impie
+}
+
+STRING 2787
+// Units: ntrs (Turtle), Name (Name)
+{
+Tortue
+}
+
+STRING 2788
+// Units: ntrs (Turtle), Tip (Tooltip - Basic)
+{
+Tortue de mer
+}
+
+STRING 2789
+// Units: ntrh (Turtle Hatchling), Name (Name)
+{
+Jeune tortue
+}
+
+STRING 2790
+// Units: ntrh (Turtle Hatchling), Tip (Tooltip - Basic)
+{
+Engager Jeune tortue
+}
+
+STRING 2814
+{
+Rallier les trolls restants
+}
+
+STRING 2818
+// Units: h006 (Visibility Controller), Name (Name)
+{
+Contrôleur de visibilité
+}
+
+STRING 2819
+// Units: ocat (Troll Ballista), Name (Name)
+{
+Baliste troll
+}
+
+STRING 2820
+// Units: ocat (Troll Ballista), Tip (Tooltip - Basic)
+{
+Construire Baliste troll
+}
+
+STRING 2821
+// Destructibles: B00D (Railways), Name (Name)
+{
+Chemins de fer
+}
+
+STRING 2822
+// Units: n009 (Eagle), Name (Name)
+{
+Aigle
+}
+
+STRING 2930
+{
+Un
+}
+
+STRING 2931
+// Units: hbot (Fishing Boat), Name (Name)
+{
+Bateau de pêche
+}
+
+STRING 2932
+// Units: hbot (Fishing Boat), Tip (Tooltip - Basic)
+{
+Construire Bateau de pêche
+}
+
+STRING 2943
+{
+Clan Blackrock
+}
+
+STRING 2952
+{
+Garona
+}
+
+STRING 2953
+{
+Je peux faire en sorte que ça ressemble à un accident...
+}
+
+STRING 2954
+{
+Garona
+}
+
+STRING 2955
+{
+Je suis convoitée à la fois par les commandants humains et les sorciers. Il faut vraiment que je reste loin de ces pervers dégoûtants
+}
+
+STRING 2956
+{
+Garona
+}
+
+STRING 2957
+{
+Un jour je serai vraiment libre. Loin des orcs, des démons et de la mort…
+}
+
+STRING 2958
+{
+Garona
+}
+
+STRING 2959
+{
+J’ai échangé un maître contre un autre. Au moins, celui-là n’est pas capable de contrôle mental.
+}
+
+STRING 2960
+// Doodads: D008 (Gryphon Shed (Pathless)), Name (Name)
+{
+Gryphon Shed (Pathless)
+}
+
+STRING 2961
+{
+Terre brûlée
+}
+
+STRING 2962
+{
+Anduin Lothar approche et arrivera bientôt. Pour garantir le succès du plan du Chef de guerre, vous devez anéantir toutes les colonies naines de la région avant que l'Alliance ne puisse les renforcer.
+}
+
+STRING 2963
+{
+Détruire les colonies Wildhammer (0 sur 3 détruites)
+}
+
+STRING 2964
+{
+Ragoût d'orteils velu
+}
+
+STRING 2965
+{
+Les guerriers trolls de cette région seront utiles. Aidez Zul'jin à en rallier autant que possible : ils seront nécessaires pour notre marche sur Silvermoon.
+}
+
+STRING 2966
+{
+Rallier les camps trolls (0 sur 3 ralliés)
+}
+
+STRING 2967
+{
+Plus de pots pour la marmite ! 
+}
+
+STRING 2968
+{
+Il ne faut pas laisser la moindre chance à Quel'Thalas ! Rassemblez tous les trolls de la région pour que Zul'jin puisse lancer son assaut dans les meilleures conditions !
+}
+
+STRING 2969
+{
+Rallier les trolls restants (0 sur 2 ralliés)
+}
+
+STRING 2970
+{
+Saletés d'elfes
+}
+
+STRING 2971
+{
+Détruire la Loge Quel’Danil pour empêcher les forces elfes de menacer votre mission.
+}
+
+STRING 2972
+{
+Détruire la Loge Quel’Danil
+}
+
+STRING 2973
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Terre brûlée
+  - Détruire les colonies Wildhammer (0 sur 3 détruits)
+  - En finir avant l'arrivée de l'Alliance
+}
+
+STRING 2975
+{
+Arrivée de l’Alliance
+}
+
+STRING 2976
+{
+En finir avant l'arrivée de l'Alliance
+}
+
+STRING 2977
+{
+Éradication
+}
+
+STRING 2978
+{
+Brûler tous les documents culturels nains !
+}
+
+STRING 2979
+{
+Détruire l'avant-poste du savoir
+}
+
+STRING 2980
+{
+En finir avant l'arrivée de l'Alliance
+}
+
+STRING 2981
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Ragoût d'orteils velus
+  - Rallier les camps trolls (0 sur 3 ralliés)
+  - En finir avant l'arrivée de l'Alliance
+}
+
+STRING 2982
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Saletés d'elfes
+}
+
+STRING 2983
+{
+Orcs de fer
+}
+
+STRING 2984
+{
+L'Alliance est arrivée : tenez la position jusqu'à ce que le Chef de guerre et ses guerriers se soient échappés ! Pas de quartier, pas de pitié ! Lok'tar Ogar !
+}
+
+STRING 2985
+{
+Arrêtez l'Alliance jusqu'à ce qu'Orgrim et Zul'jin reviennent à la base.
+}
+
+STRING 2986
+{
+Votre base principale ne doit pas être détruite
+}
+
+STRING 2987
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Orcs de fer
+  - Arrêtez l'Alliance jusqu'à ce qu'Orgrim et Zul'jin reviennent à la base.
+  - Votre base principale ne doit pas être détruite.
+}
+
+STRING 2988
+{
+Un village Troll a été nettoyé.
+}
+
+STRING 2989
+{
+Un village Troll a été nettoyé.
+}
+
+STRING 2990
+{
+Un village Troll a été nettoyé.
+}
+
+STRING 2991
+{
+Un village Troll a été nettoyé.
+}
+
+STRING 2992
+{
+Un village Troll a été nettoyé.
+}
+
+STRING 2993
+{
+Tenez le col
+}
+
+STRING 2995
+{
+|cff32cd32ASTUCE|r
+Vous contrôlez désormais Eitrigg à la place de Doomhammer et Zul'jin.
+}
+
+STRING 2996
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Colonie surprise
+}
+
+STRING 2999
+{
+Préparer les défenses contre l'Alliance
+}
+
+STRING 3000
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Terre brûlée
+}
+
+STRING 3004
+// Items: I0L0 (WC2Orc08SDoomhammer1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3005
+// Items: I0L0 (WC2Orc08SDoomhammer1), Description (Description)
+{
+Beau travail, Tharbek.
+}
+
+STRING 3006
+// Items: I0L0 (WC2Orc08SDoomhammer1), Name (Name)
+{
+WC2Orc08SDoomhammer1
+}
+
+STRING 3007
+// Items: I0L1 (WC2Orc08SDoomhammer2), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3008
+// Items: I0L1 (WC2Orc08SDoomhammer2), Description (Description)
+{
+Je suis sur le point de le faire, Rend. Maintenant, écoutez tous !
+}
+
+STRING 3009
+// Items: I0L1 (WC2Orc08SDoomhammer2), Name (Name)
+{
+WC2Orc08SDoomhammer2
+}
+
+STRING 3010
+// Items: I0L2 (WC2Orc08SDoomhammer3), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3011
+// Items: I0L2 (WC2Orc08SDoomhammer3), Description (Description)
+{
+L'Alliance pense que nous nous sommes retirés de leurs misérables villes du nord pour attaquer ici. Mais ce sont des imbéciles qui verront bientôt les conséquences de leurs décisions.
+}
+
+STRING 3012
+// Items: I0L2 (WC2Orc08SDoomhammer3), Name (Name)
+{
+WC2Orc08SDoomhammer3
+}
+
+STRING 3013
+// Items: I0L3 (WC2Orc08SDoomhammer4), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3014
+// Items: I0L3 (WC2Orc08SDoomhammer4), Description (Description)
+{
+Ne sois pas téméraire, Rend, nous combattons le Clan Wildhammer ici. Varok m'a parlé de leur « férocité » à l'époque où nous envahissions encore Khaz Modan.
+}
+
+STRING 3015
+// Items: I0L3 (WC2Orc08SDoomhammer4), Name (Name)
+{
+WC2Orc08SDoomhammer4
+}
+
+STRING 3016
+// Items: I0L4 (WC2Orc08SDoomhammer5), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3017
+// Items: I0L4 (WC2Orc08SDoomhammer5), Description (Description)
+{
+Cependant, cette question ne vous concerne pas.
+}
+
+STRING 3018
+// Items: I0L4 (WC2Orc08SDoomhammer5), Name (Name)
+{
+WC2Orc08SDoomhammer5
+}
+
+STRING 3019
+// Items: I0L5 (WC2Orc08SDoomhammer6), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3020
+// Items: I0L5 (WC2Orc08SDoomhammer6), Description (Description)
+{
+Non. Zul'jin vous a fait préparer un bateau à l'est d'ici. Emmenez Utok avec vous, et dirigez-vous vers la Main de Tyr. Aidez votre frère à détruire cette ville.
+}
+
+STRING 3021
+// Items: I0L5 (WC2Orc08SDoomhammer6), Name (Name)
+{
+WC2Orc08SDoomhammer6
+}
+
+STRING 3022
+// Items: I0L6 (WC2Orc08SDoomhammer7), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3023
+// Items: I0L6 (WC2Orc08SDoomhammer7), Description (Description)
+{
+Je ne ferai jamais confiance aux lames qui ont servi le Conseil des Ombres, ou Gul'dan. Elle sera toujours une menace. Gardez le camp, Eitrigg, pendant que nous nous concentrons sur les colonies naines.
+}
+
+STRING 3024
+// Items: I0L6 (WC2Orc08SDoomhammer7), Name (Name)
+{
+WC2Orc08SDoomhammer7
+}
+
+STRING 3025
+// Items: I0L8 (WC2Orc08SDoomhammer8), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3026
+// Items: I0L8 (WC2Orc08SDoomhammer8), Description (Description)
+{
+Quoi ? Que font ces racailles si loin de chez elles ?!
+}
+
+STRING 3027
+// Items: I0L8 (WC2Orc08SDoomhammer8), Name (Name)
+{
+WC2Orc08SDoomhammer8
+}
+
+STRING 3028
+// Items: I0L9 (WC2Orc08SDoomhammer10), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3029
+// Items: I0L9 (WC2Orc08SDoomhammer10), Description (Description)
+{
+Bonjour... vieil ami.
+}
+
+STRING 3030
+// Items: I0L9 (WC2Orc08SDoomhammer10), Name (Name)
+{
+WC2Orc08SDoomhammer10
+}
+
+STRING 3031
+// Items: I0L7 (WC2Orc08SDoomhammer11), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3032
+// Items: I0L7 (WC2Orc08SDoomhammer11), Description (Description)
+{
+Vous, guerrier de renom, avez mérité une mort honorable de mes mains.
+}
+
+STRING 3033
+// Items: I0L7 (WC2Orc08SDoomhammer11), Name (Name)
+{
+WC2Orc08SDoomhammer11
+}
+
+STRING 3034
+// Items: I0LA (WC2Orc08SDoomhammer12), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3035
+// Items: I0LA (WC2Orc08SDoomhammer12), Description (Description)
+{
+Eitrigg ! Notre travail ici est terminé ! Les gobelins vont détruire le col derrière nous. D'ici là, protégez-les !
+}
+
+STRING 3036
+// Items: I0LA (WC2Orc08SDoomhammer12), Name (Name)
+{
+WC2Orc08SDoomhammer12
+}
+
+STRING 3037
+// Items: I0LB (WC2Orc08SAmaniPriest1), Tip (Tooltip - Basic)
+{
+Troll Amani
+}
+
+STRING 3038
+// Items: I0LB (WC2Orc08SAmaniPriest1), Description (Description)
+{
+Grand Zul’jin ! Votre présence nous honore !
+}
+
+STRING 3039
+// Items: I0LB (WC2Orc08SAmaniPriest1), Name (Name)
+{
+WC2Orc08SAmaniPriest1
+}
+
+STRING 3040
+// Items: I0LC (WC2Orc08SAmaniPriest2), Tip (Tooltip - Basic)
+{
+Troll Amani
+}
+
+STRING 3041
+// Items: I0LC (WC2Orc08SAmaniPriest2), Description (Description)
+{
+C'est Zul'jin ! Vous être venu nous aider contre les nains ?
+}
+
+STRING 3042
+// Items: I0LC (WC2Orc08SAmaniPriest2), Name (Name)
+{
+WC2Orc08SAmaniPriest2
+}
+
+STRING 3043
+// Items: I0LD (WC2Orc08SAmaniPriest3), Tip (Tooltip - Basic)
+{
+Troll Amani
+}
+
+STRING 3044
+// Items: I0LD (WC2Orc08SAmaniPriest3), Description (Description)
+{
+Le chef est là ! La bénédiction est sur nous !
+}
+
+STRING 3045
+// Items: I0LD (WC2Orc08SAmaniPriest3), Name (Name)
+{
+WC2Orc08SAmaniPriest3
+}
+
+STRING 3046
+// Items: I0LE (WC2Orc08SEitrigg1), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3047
+// Items: I0LE (WC2Orc08SEitrigg1), Description (Description)
+{
+Mes excuses pour mon interruption Chef de guerre ; pourquoi mettons-nous encore Garona en cage alors qu'elle s'est montrée docile à Khaz Modan ? Je la surveillerai aussi longtemps que vous le demanderez, mais je crois qu'elle a au moins mérité d'être libérée.
+}
+
+STRING 3048
+// Items: I0LE (WC2Orc08SEitrigg1), Name (Name)
+{
+WC2Orc08SEitrigg1
+}
+
+STRING 3049
+// Items: I0LF (WC2Orc08SEitrigg2), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3050
+// Items: I0LF (WC2Orc08SEitrigg2), Description (Description)
+{
+Selon votre volonté, Chef de guerre.
+}
+
+STRING 3051
+// Items: I0LF (WC2Orc08SEitrigg2), Name (Name)
+{
+WC2Orc08SEitrigg2
+}
+
+STRING 3052
+// Items: I0LG (WC2Orc08SEitrigg3), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3053
+// Items: I0LG (WC2Orc08SEitrigg3), Description (Description)
+{
+Chef de guerre ! Les elfes nous attaquent !
+}
+
+STRING 3054
+// Items: I0LG (WC2Orc08SEitrigg3), Name (Name)
+{
+WC2Orc08SEitrigg3
+}
+
+STRING 3055
+// Items: I0LH (WC2Orc08SEitrigg4), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3056
+// Items: I0LH (WC2Orc08SEitrigg4), Description (Description)
+{
+Allez-y, Chef de guerre, je les arrêterai de toutes mes forces ! Lok'tar ogar !
+}
+
+STRING 3057
+// Items: I0LH (WC2Orc08SEitrigg4), Name (Name)
+{
+WC2Orc08SEitrigg4
+}
+
+STRING 3058
+// Items: I0LI (WC2Orc08SEitrigg5), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3059
+// Items: I0LI (WC2Orc08SEitrigg5), Description (Description)
+{
+Bon sang. Libère-la ! Même un demi-orc devrait mourir une lame à la main !
+}
+
+STRING 3060
+// Items: I0LI (WC2Orc08SEitrigg5), Name (Name)
+{
+WC2Orc08SEitrigg5
+}
+
+STRING 3061
+// Items: I0LJ (WC2Orc08SEitrigg6), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3062
+// Items: I0LJ (WC2Orc08SEitrigg6), Description (Description)
+{
+Garona ! Malédiction ! Défendez le camp, guerriers !
+}
+
+STRING 3063
+// Items: I0LJ (WC2Orc08SEitrigg6), Name (Name)
+{
+WC2Orc08SEitrigg6
+}
+
+STRING 3064
+// Items: I0LK (WC2Orc08SEitrigg7), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3065
+// Items: I0LK (WC2Orc08SEitrigg7), Description (Description)
+{
+Garona… Tu… Tu…
+}
+
+STRING 3066
+// Items: I0LK (WC2Orc08SEitrigg7), Name (Name)
+{
+WC2Orc08SEitrigg7
+}
+
+STRING 3067
+// Items: I0LL (WC2Orc08SElvenRanger1), Tip (Tooltip - Basic)
+{
+Ranger elfe
+}
+
+STRING 3068
+// Items: I0LL (WC2Orc08SElvenRanger1), Description (Description)
+{
+Vous n'êtes pas le bienvenu ici. Une race immonde souillant cette terre est plus que suffisante.
+}
+
+STRING 3069
+// Items: I0LL (WC2Orc08SElvenRanger1), Name (Name)
+{
+WC2Orc08SElvenRanger1
+}
+
+STRING 3070
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Tip (Tooltip - Basic)
+{
+Nain
+}
+
+STRING 3071
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Description (Description)
+{
+Falstaaaaaaaaad !
+}
+
+STRING 3072
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Name (Name)
+{
+WC2Orc08SFalstaaaaaaaad1
+}
+
+STRING 3073
+// Items: I0LN (WC2Orc08SGarona1), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3074
+// Items: I0LN (WC2Orc08SGarona1), Description (Description)
+{
+Eitrigg ! Nous avons combattu ensemble sur de nombreux fronts ! Je ne te demande pas de me faire confiance, mais je peux t'aider ! Je t'en prie, sors moi de là ! Je peux me battre !
+}
+
+STRING 3075
+// Items: I0LN (WC2Orc08SGarona1), Name (Name)
+{
+WC2Orc08SGarona1
+}
+
+STRING 3076
+// Items: I0LO (WC2Orc08SGarona2), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3077
+// Items: I0LO (WC2Orc08SGarona2), Description (Description)
+{
+Ils sont trop nombreux !
+}
+
+STRING 3078
+// Items: I0LO (WC2Orc08SGarona2), Name (Name)
+{
+WC2Orc08SGarona2
+}
+
+STRING 3079
+// Items: I0LP (WC2Orc08SGarona3), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3080
+// Items: I0LP (WC2Orc08SGarona3), Description (Description)
+{
+Ne gaspille pas ton souffle, tu ne mourras pas dans mes bras aujourd’hui. Je vais te soigner et partir, ma dette sera payée. Je te conseille d’en faire de même.
+}
+
+STRING 3081
+// Items: I0LP (WC2Orc08SGarona3), Name (Name)
+{
+WC2Orc08SGarona3
+}
+
+STRING 3082
+// Items: I0LQ (TyrandePissed1), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3083
+// Items: I0LQ (TyrandePissed1), Description (Description)
+{
+Je peux faire en sorte que ça ait l’air d’un accident
+}
+
+STRING 3084
+// Items: I0LQ (TyrandePissed1), Name (Name)
+{
+TyrandePissed1
+}
+
+STRING 3085
+// Items: I0LR (TyrandePissed4), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3086
+// Items: I0LR (TyrandePissed4), Description (Description)
+{
+Un jour je serai vraiment libre. Loin des orcs, des démons et de la mort…
+}
+
+STRING 3087
+// Items: I0LR (TyrandePissed4), Name (Name)
+{
+TyrandePissed4
+}
+
+STRING 3088
+// Items: I0LS (TyrandePissed5), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3089
+// Items: I0LS (TyrandePissed5), Description (Description)
+{
+J’ai échangé un maître contre un autre. Au moins, celui-là n’est pas capable de contrôle mental.
+}
+
+STRING 3090
+// Items: I0LS (TyrandePissed5), Name (Name)
+{
+TyrandePissed5
+}
+
+STRING 3091
+// Items: I0LT (WC2Orc08SGoblinSappers1), Tip (Tooltip - Basic)
+{
+Sapeurs gobelins
+}
+
+STRING 3092
+// Items: I0LT (WC2Orc08SGoblinSappers1), Description (Description)
+{
+Nous aurons besoin de plus de temps pour préparer les explosifs boss, protégez-nous pendant que nous faisons ça !
+}
+
+STRING 3093
+// Items: I0LT (WC2Orc08SGoblinSappers1), Name (Name)
+{
+WC2Orc08SGoblinSappers1
+}
+
+STRING 3094
+// Items: I0LU (WC2Orc08SGoblinSappers2), Tip (Tooltip - Basic)
+{
+Sapeurs gobelins
+}
+
+STRING 3095
+// Items: I0LU (WC2Orc08SGoblinSappers2), Description (Description)
+{
+Les explosifs sont prêts ! Évacuez la zone !
+}
+
+STRING 3096
+// Items: I0LU (WC2Orc08SGoblinSappers2), Name (Name)
+{
+WC2Orc08SGoblinSappers2
+}
+
+STRING 3097
+// Items: I0LV (WC2Orc08SKurdran1), Tip (Tooltip - Basic)
+{
+Kurdran Wildhammer
+}
+
+STRING 3098
+// Items: I0LV (WC2Orc08SKurdran1), Description (Description)
+{
+Maudits bâtards, ils ont décimé mes camarades !
+}
+
+STRING 3099
+// Items: I0LV (WC2Orc08SKurdran1), Name (Name)
+{
+WC2Orc08SKurdran1
+}
+
+STRING 3100
+// Items: I0LW (WC2Orc08SKurdran2), Tip (Tooltip - Basic)
+{
+Kurdran Wildhammer
+}
+
+STRING 3101
+// Items: I0LW (WC2Orc08SKurdran2), Description (Description)
+{
+Aidez-moi à les chasser, et j'envisagerai de rejoindre votre "Alliance", fils d'Arathi.
+}
+
+STRING 3102
+// Items: I0LW (WC2Orc08SKurdran2), Name (Name)
+{
+WC2Orc08SKurdran2
+}
+
+STRING 3103
+// Items: I0LX (WC2Orc08SKurdran3), Tip (Tooltip - Basic)
+{
+Kurdran Wildhammer
+}
+
+STRING 3104
+// Items: I0LX (WC2Orc08SKurdran3), Description (Description)
+{
+Maudits orcs ! Ils sont plus intelligents qu'ils n'en ont l'air ! Le chemin vers le nord a été coupé !
+}
+
+STRING 3105
+// Items: I0LX (WC2Orc08SKurdran3), Name (Name)
+{
+WC2Orc08SKurdran3
+}
+
+STRING 3106
+// Items: I0LY (WC2Orc08SKurdran4), Tip (Tooltip - Basic)
+{
+Kurdran Wildhammer
+}
+
+STRING 3107
+// Items: I0LY (WC2Orc08SKurdran4), Description (Description)
+{
+Nous sommes avec toi, Anduin Lothar. Cette “Horde” est une menace pour tout le monde, et nous ne nous arrêterons pas tant qu'elle n'aura pas été détruite.
+}
+
+STRING 3108
+// Items: I0LY (WC2Orc08SKurdran4), Name (Name)
+{
+WC2Orc08SKurdran4
+}
+
+STRING 3109
+// Items: I0LZ (WC2Orc08SLothar1), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3110
+// Items: I0LZ (WC2Orc08SLothar1), Description (Description)
+{
+N'ayez crainte mon ami, ils paieront pour toutes leurs atrocités.
+}
+
+STRING 3111
+// Items: I0LZ (WC2Orc08SLothar1), Name (Name)
+{
+WC2Orc08SLothar1
+}
+
+STRING 3112
+// Items: I0La (WC2Orc08SLothar2), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3113
+// Items: I0La (WC2Orc08SLothar2), Description (Description)
+{
+Doomhammer... je vous suis redevable d'une douleur éternelle pour cette transgression et toute la misère que vous, monstres de la Horde, avez causée en Azeroth.
+}
+
+STRING 3114
+// Items: I0La (WC2Orc08SLothar2), Name (Name)
+{
+WC2Orc08SLothar2
+}
+
+STRING 3115
+// Items: I0Lb (WC2Orc08SLothar3), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3116
+// Items: I0Lb (WC2Orc08SLothar3), Description (Description)
+{
+Et votre stratagème a été déjoué, le reste de nos armées a été envoyé pour s'occuper de vos soi-disant "clans".
+}
+
+STRING 3117
+// Items: I0Lb (WC2Orc08SLothar3), Name (Name)
+{
+WC2Orc08SLothar3
+}
+
+STRING 3118
+// Items: I0Lc (WC2Orc08SLothar4), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3119
+// Items: I0Lc (WC2Orc08SLothar4), Description (Description)
+{
+Ce sol ne sera pas souillé de mon sang ! Chargez !
+}
+
+STRING 3120
+// Items: I0Lc (WC2Orc08SLothar4), Name (Name)
+{
+WC2Orc08SLothar4
+}
+
+STRING 3121
+// Items: I0Ld (WC2Orc08SLothar5), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3122
+// Items: I0Ld (WC2Orc08SLothar5), Description (Description)
+{
+Leur chef est... pragmatique. Il a toujours une longueur d'avance.
+}
+
+STRING 3123
+// Items: I0Ld (WC2Orc08SLothar5), Name (Name)
+{
+WC2Orc08SLothar5
+}
+
+STRING 3124
+// Items: I0Le (WC2Orc08SRend1), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3125
+// Items: I0Le (WC2Orc08SRend1), Description (Description)
+{
+Nous parcourons cet étroit col de montagne depuis un certain temps, Chef de guerre, et vous ne nous avez toujours pas dit ce que nous faisons ici.
+}
+
+STRING 3126
+// Items: I0Le (WC2Orc08SRend1), Name (Name)
+{
+WC2Orc08SRend1
+}
+
+STRING 3127
+// Items: I0Lf (WC2Orc08SRend2), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3128
+// Items: I0Lf (WC2Orc08SRend2), Description (Description)
+{
+Pourquoi ne pas les provoquer au combat ? De front ! Quel est cet endroit ?
+}
+
+STRING 3129
+// Items: I0Lf (WC2Orc08SRend2), Name (Name)
+{
+WC2Orc08SRend2
+}
+
+STRING 3130
+// Items: I0Lg (WC2Orc08SRend3), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3131
+// Items: I0Lg (WC2Orc08SRend3), Description (Description)
+{
+Les nains ne représentent aucune menace, Zul'jin.
+}
+
+STRING 3132
+// Items: I0Lg (WC2Orc08SRend3), Name (Name)
+{
+WC2Orc08SRend3
+}
+
+STRING 3133
+// Items: I0Lh (WC2Orc08SRend4), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3134
+// Items: I0Lh (WC2Orc08SRend4), Description (Description)
+{
+Je ne participe pas au combat ?!
+}
+
+STRING 3135
+// Items: I0Lh (WC2Orc08SRend4), Name (Name)
+{
+WC2Orc08SRend4
+}
+
+STRING 3136
+// Items: I0Li (WC2Orc08SRend5), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 3137
+// Items: I0Li (WC2Orc08SRend5), Description (Description)
+{
+Hm… Très bien, allons-y Utok.
+}
+
+STRING 3138
+// Items: I0Li (WC2Orc08SRend5), Name (Name)
+{
+WC2Orc08SRend5
+}
+
+STRING 3139
+// Items: I0Lj (WC2Orc08STharbek1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3140
+// Items: I0Lj (WC2Orc08STharbek1), Description (Description)
+{
+Dépêchez-vous, chiens galeux, le Chef de guerre pourrait arriver à tout moment.
+}
+
+STRING 3141
+// Items: I0Lj (WC2Orc08STharbek1), Name (Name)
+{
+WC2Orc08STharbek1
+}
+
+STRING 3142
+// Items: I0Lk (WC2Orc08STharbek2), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3143
+// Items: I0Lk (WC2Orc08STharbek2), Description (Description)
+{
+Lok'tar, Chef de guerre, votre camp est opérationnel comme vous l'avez ordonné.
+}
+
+STRING 3144
+// Items: I0Lk (WC2Orc08STharbek2), Name (Name)
+{
+WC2Orc08STharbek2
+}
+
+STRING 3145
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Tip (Tooltip - Basic)
+{
+Thane
+}
+
+STRING 3146
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Description (Description)
+{
+Par ma barbe ! Nous sommes attaqués par les sauvages, faites passer le mot aux gars de Kurdran et défendez vos foyers !
+}
+
+STRING 3147
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Name (Name)
+{
+WC2Orc08SWildhammerThane1
+}
+
+STRING 3148
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Tip (Tooltip - Basic)
+{
+Thane
+}
+
+STRING 3149
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Description (Description)
+{
+Les trolls ont amené des amis… Nous allons en finir avec vous tous !
+}
+
+STRING 3150
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Name (Name)
+{
+WC2Orc08SWildhammerThane2
+}
+
+STRING 3151
+// Items: I0Ln (WC2Orc08SZuljin1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3152
+// Items: I0Ln (WC2Orc08SZuljin1), Description (Description)
+{
+Cet endroit faisait autrefois partie de l’empire Amani, mon ami. De nombreuses tribus troll y vivent encore. C’était autrefois paisible jusqu’à ce que les nains venant du sud s’y installent. Nous les affrontons depuis lors.
+}
+
+STRING 3153
+// Items: I0Ln (WC2Orc08SZuljin1), Name (Name)
+{
+WC2Orc08SZuljin1
+}
+
+STRING 3154
+// Items: I0Lo (WC2Orc08SZuljin2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3155
+// Items: I0Lo (WC2Orc08SZuljin2), Description (Description)
+{
+Mes frères se rallieront à moi une fois que je leur aurai parlé du plan pour reprendre nos terres ancestrales du nord, tandis que Doomhammer s'occupera des nains.
+}
+
+STRING 3156
+// Items: I0Lo (WC2Orc08SZuljin2), Name (Name)
+{
+WC2Orc08SZuljin2
+}
+
+STRING 3157
+// Items: I0Lp (WC2Orc08SZuljin3), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3158
+// Items: I0Lp (WC2Orc08SZuljin3), Description (Description)
+{
+Frères ! Je vais rallier les Amani pour reprendre nos terres de Zul’Aman. Dirigez-vous vers le nord jusqu'à Quel'thalas. Nous récupérons nos terres.
+}
+
+STRING 3159
+// Items: I0Lp (WC2Orc08SZuljin3), Name (Name)
+{
+WC2Orc08SZuljin3
+}
+
+STRING 3160
+// Items: I0Lq (WC2Orc08SZuljin4), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3161
+// Items: I0Lq (WC2Orc08SZuljin4), Description (Description)
+{
+Mes frères, rassemblez votre attirail et marchez vers le nord pour rejoindre nos frères dans la récupération de Zul’Aman, nous suivrons votre chemin.
+}
+
+STRING 3162
+// Items: I0Lq (WC2Orc08SZuljin4), Name (Name)
+{
+WC2Orc08SZuljin4
+}
+
+STRING 3163
+// Items: I0Lr (WC2Orc08SZuljin5), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3164
+// Items: I0Lr (WC2Orc08SZuljin5), Description (Description)
+{
+Mes frères, rassemblez votre attirail et marchez vers le nord pour rejoindre nos frères dans la récupération de Zul’Aman, nous suivrons votre chemin.
+}
+
+STRING 3165
+// Items: I0Lr (WC2Orc08SZuljin5), Name (Name)
+{
+WC2Orc08SZuljin5
+}
+
+STRING 3166
+// Items: I0Ls (WC2Orc08SZuljin6), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3167
+// Items: I0Ls (WC2Orc08SZuljin6), Description (Description)
+{
+J’avais oublié… Les elfes ont un avant-poste ici, mes frères les ont affrontés une fois, mais si nous voulons terminer notre travail sans tarder, il faut s'occuper d'eux.
+}
+
+STRING 3168
+// Items: I0Ls (WC2Orc08SZuljin6), Name (Name)
+{
+WC2Orc08SZuljin6
+}
+
+STRING 3169
+// Items: I0Lt (WC2Orc08SZuljin7), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3170
+// Items: I0Lt (WC2Orc08SZuljin7), Description (Description)
+{
+La vue des elfes morts est particulièrement savoureuse.
+}
+
+STRING 3171
+// Items: I0Lt (WC2Orc08SZuljin7), Name (Name)
+{
+WC2Orc08SZuljin7
+}
+
+STRING 3172
+// Items: I0Lu (WC2Orc08SZuljin8), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3173
+// Items: I0Lu (WC2Orc08SZuljin8), Description (Description)
+{
+Mes frères ! Notre Empire se relèvera des os et du sang des elfes !
+}
+
+STRING 3174
+// Items: I0Lu (WC2Orc08SZuljin8), Name (Name)
+{
+WC2Orc08SZuljin8
+}
+
+STRING 3175
+// Items: I1LQ (TyrandePissed3), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3176
+// Items: I1LQ (TyrandePissed3), Description (Description)
+{
+Je suis convoitée à la fois par les commandants humains et les sorciers. Il faut vraiment que je reste loin de ces pervers dégoûtants
+}
+
+STRING 3177
+// Items: I1LQ (TyrandePissed3), Name (Name)
+{
+TyrandePissed3
+}
+
+STRING 3178
+// Units: negt (Arcane Tower), Name (Name)
+{
+Tour des arcanes
+}
+
+STRING 3179
+// Units: h624 (Forge), Name (Name)
+{
+Forge
+}
+
+STRING 3180
+// Units: n006 (Barracks), Name (Name)
+{
+Caserne
+}
+
+STRING 3181
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3182
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 3183
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3184
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 3185
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 3186
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+ sur 3 détruits)
+}
+
+STRING 3187
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  - Détruire les colonies Wildhammer (
+}
+
+STRING 3188
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+Terre brûlée
+}
+
+STRING 3189
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+}
+
+STRING 3190
+// Items: IQL1 (  - Finish before the Alliance arrives), Tip (Tooltip - Basic)
+{
+Ragoût du troisième orteil
+}
+
+STRING 3191
+// Items: IQL1 (  - Finish before the Alliance arrives), Ubertip (Tooltip - Extended)
+{
+ sur 3 ralliés)
+}
+
+STRING 3192
+// Items: IQL1 (  - Finish before the Alliance arrives), Description (Description)
+{
+  - Rallier les camps trolls (
+}
+
+STRING 3193
+// Items: IQL1 (  - Finish before the Alliance arrives), Name (Name)
+{
+  - Finir avant que l'Alliance n'arrive
+}
+
+STRING 3194
+// Items: IQL2 (Wildhammer Chronicler), Name (Name)
+{
+Chroniqueur Wildhammer
+}
+
+STRING 3195
+// Items: IQL2 (Wildhammer Chronicler), Tip (Tooltip - Basic)
+{
+Rallier les camps trolls (
+}
+
+STRING 3196
+// Items: IQL2 (Wildhammer Chronicler), Description (Description)
+{
+Détruire les colonies Wildhammer (
+}
+

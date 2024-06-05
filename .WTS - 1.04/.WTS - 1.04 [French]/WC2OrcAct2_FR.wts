@@ -1,0 +1,2068 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 2
+{
+Force 1
+}
+
+STRING 3
+{
+WC2OrcAct2
+}
+
+STRING 6
+// Doodads: DRst (- Stalagmite), Name (Name)
+{
+- Stalagmite
+}
+
+STRING 7
+// Doodads: D000 (- Rocks 1), Name (Name)
+{
+- Rocks 1
+}
+
+STRING 8
+// Doodads: D001 (- Rocks 5), Name (Name)
+{
+- Rocks 5
+}
+
+STRING 9
+// Doodads: D003 (- Rocks 2), Name (Name)
+{
+- Rocks 2
+}
+
+STRING 10
+// Doodads: D004 (- Rocks 3), Name (Name)
+{
+- Rocks 3
+}
+
+STRING 11
+// Doodads: D005 (- Rocks 4), Name (Name)
+{
+- Rocks 4
+}
+
+STRING 12
+// Destructibles: B002 (- Volcano), Name (Name)
+{
+- Volcano
+}
+
+STRING 18
+// Units: o000 (Blackrock Grunt), Name (Name)
+{
+Blackrock Grunt
+}
+
+STRING 19
+// Units: O001 (Orgrim), Name (Name)
+{
+Orgrim
+}
+
+STRING 20
+// Units: n000 (Ogre), Name (Name)
+{
+Ogre
+}
+
+STRING 22
+// Doodads: DRrk (- Rocks), Name (Name)
+{
+- Rocks
+}
+
+STRING 23
+// Doodads: D006 (- Banner Orc), Name (Name)
+{
+- Banner Orc
+}
+
+STRING 24
+// Units: o002 (Catapult), Name (Name)
+{
+Catapulte
+}
+
+STRING 25
+// Units: O001 (Orgrim), Propernames (Proper Names)
+{
+Orgrim
+}
+
+STRING 29
+// Units: n001 (Axe Thrower), Name (Name)
+{
+Axe Thrower
+}
+
+STRING 39
+// Units: u000 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 42
+// Destructibles: LTrc (- Black_rock), Name (Name)
+{
+- Black_rock
+}
+
+STRING 43
+// Destructibles: Ytsc (-Scorched Tree Wall), Name (Name)
+{
+-Scorched Tree Wall
+}
+
+STRING 44
+// Doodads: D007 (- Support Collum), Name (Name)
+{
+- Support Collum
+}
+
+STRING 45
+// Doodads: D008 (- IRON ALTAR (building)), Name (Name)
+{
+- IRON ALTAR (building)
+}
+
+STRING 46
+// Doodads: D009 (- Rock Archway), Name (Name)
+{
+- Rock Archway
+}
+
+STRING 47
+// Doodads: D00A (- Stone Archway), Name (Name)
+{
+- Stone Archway
+}
+
+STRING 48
+// Doodads: D00B (- Hanging Cage), Name (Name)
+{
+- Hanging Cage
+}
+
+STRING 49
+// Doodads: D00C (- STONE WALL DOOR (building)), Name (Name)
+{
+- STONE WALL DOOR (building)
+}
+
+STRING 50
+// Doodads: D00D (- STONE WALL Lantern (building)), Name (Name)
+{
+- STONE WALL Lantern (building)
+}
+
+STRING 51
+// Doodads: D00E (- STONE WALL cube (building)), Name (Name)
+{
+- STONE WALL cube (building)
+}
+
+STRING 52
+// Doodads: D00F (- STONE WALL short (building)), Name (Name)
+{
+- STONE WALL short (building)
+}
+
+STRING 53
+// Doodads: D00G (- STONE WALL Rubble (building)), Name (Name)
+{
+- STONE WALL Rubble (building)
+}
+
+STRING 54
+// Doodads: D00H (- STONE WALL (building)), Name (Name)
+{
+- STONE WALL (building)
+}
+
+STRING 55
+// Doodads: D00J (- CLEAN WALL (building)), Name (Name)
+{
+- CLEAN WALL (building)
+}
+
+STRING 56
+// Doodads: D00K (- Bones), Name (Name)
+{
+- Bones
+}
+
+STRING 57
+// Doodads: D00L (-Flame Grate), Name (Name)
+{
+-Flame Grate
+}
+
+STRING 59
+// Doodads: D00N (- Grave (building)), Name (Name)
+{
+- Grave (building)
+}
+
+STRING 60
+// Doodads: D00I (- GLOW), Name (Name)
+{
+- GLOW
+}
+
+STRING 61
+// Doodads: D00O (- STONE  HOUSE block (building)), Name (Name)
+{
+- STONE  HOUSE block (building)
+}
+
+STRING 62
+// Doodads: D00P (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 63
+// Doodads: D00Q (-Flame Grate), Name (Name)
+{
+-Flame Grate
+}
+
+STRING 64
+// Doodads: D00R (- STONE WALL cube (building)), Name (Name)
+{
+- STONE WALL cube (building)
+}
+
+STRING 66
+// Doodads: D00T (- Stalagmite UPSIDE), Name (Name)
+{
+- Stalagmite UPSIDE
+}
+
+STRING 67
+// Doodads: D00U (-Flame Magma), Name (Name)
+{
+-Flame Magma
+}
+
+STRING 68
+// Doodads: D00V (- Bookshelf), Name (Name)
+{
+- Bookshelf
+}
+
+STRING 69
+// Doodads: D00W (- Throne), Name (Name)
+{
+- Throne
+}
+
+STRING 70
+// Doodads: D00X (- Firepit), Name (Name)
+{
+- Firepit
+}
+
+STRING 71
+// Doodads: D00Y (- Tent (building)), Name (Name)
+{
+- Tent (building)
+}
+
+STRING 72
+// Doodads: D00Z (- Tent (building)), Name (Name)
+{
+- Tent (building)
+}
+
+STRING 73
+// Doodads: D010 (- Rocks VALLEY 5), Name (Name)
+{
+- Rocks VALLEY 5
+}
+
+STRING 74
+// Doodads: D011 (- Rock Spires CLIFFS), Name (Name)
+{
+- Rock Spires CLIFFS
+}
+
+STRING 75
+// Doodads: D012 (- Rocks VALLEY 5), Name (Name)
+{
+- Rocks VALLEY 5
+}
+
+STRING 76
+// Doodads: D013 (- Rocks VALLEY 5), Name (Name)
+{
+- Rocks VALLEY 5
+}
+
+STRING 77
+// Doodads: D014 (-Cliff doodad), Name (Name)
+{
+-Cliff doodad
+}
+
+STRING 78
+// Doodads: D015 (- Cliff_01), Name (Name)
+{
+- Cliff_01
+}
+
+STRING 79
+// Doodads: D016 (- Cliff_02), Name (Name)
+{
+- Cliff_02
+}
+
+STRING 80
+// Doodads: D017 (- Cliff_03), Name (Name)
+{
+- Cliff_03
+}
+
+STRING 81
+// Doodads: D018 (- Cliff_04), Name (Name)
+{
+- Cliff_04
+}
+
+STRING 82
+// Doodads: D019 (- Cliff_06), Name (Name)
+{
+- Cliff_06
+}
+
+STRING 83
+// Doodads: D01A (- Cliff_05), Name (Name)
+{
+- Cliff_05
+}
+
+STRING 85
+// Doodads: D01B (- Cliff_Small_01), Name (Name)
+{
+- Cliff_Small_01
+}
+
+STRING 86
+// Doodads: D01C (- Cliff_Small_03), Name (Name)
+{
+- Cliff_Small_03
+}
+
+STRING 87
+// Doodads: D01D (- Cliff_Small_02), Name (Name)
+{
+- Cliff_Small_02
+}
+
+STRING 88
+// Doodads: D01E (- Cliff_Small_03), Name (Name)
+{
+- Cliff_Small_03
+}
+
+STRING 89
+// Units: o000 (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(tiny)
+}
+
+STRING 90
+// Units: o004 (Blackrock Grunt), Name (Name)
+{
+Blackrock Grunt
+}
+
+STRING 91
+// Units: o004 (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(regular)
+}
+
+STRING 92
+// Doodads: D01F (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 97
+// Units: o005 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(regular)
+}
+
+STRING 99
+// Units: o006 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(Tiny)
+}
+
+STRING 100
+// Units: o007 (WatchTowers), Name (Name)
+{
+WatchTowers
+}
+
+STRING 101
+// Doodads: D01J (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 102
+// Doodads: D01K (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 103
+// Doodads: D01L (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 104
+// Doodads: D01M (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 105
+// Doodads: D01N (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 106
+// Doodads: D01O (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 107
+// Doodads: D01P (- BUILDING (building)), Name (Name)
+{
+- BUILDING (building)
+}
+
+STRING 108
+// Doodads: D01Q (- ROCKS), Name (Name)
+{
+- ROCKS
+}
+
+STRING 109
+// Doodads: D01R (-Flame Magma), Name (Name)
+{
+-Flame Magma
+}
+
+STRING 110
+// Destructibles: B000 (-Scorched Tree Wall), Name (Name)
+{
+-Scorched Tree Wall
+}
+
+STRING 111
+// Doodads: D01S (- SMUDGE), Name (Name)
+{
+- SMUDGE
+}
+
+STRING 112
+{
+Acte II: Khaz Modan
+}
+
+STRING 115
+// Units: o003 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(Large)
+}
+
+STRING 118
+// Doodads: D01T (- Ogre Shape), Name (Name)
+{
+- Ogre Shape
+}
+
+STRING 119
+// Doodads: D00S (- Giant Chains 1), Name (Name)
+{
+- Giant Chains 1
+}
+
+STRING 120
+// Doodads: D01U (- Giant Chains 2), Name (Name)
+{
+- Giant Chains 2
+}
+
+STRING 121
+// Destructibles: B005 (- Drummer), Name (Name)
+{
+- Drummer
+}
+
+STRING 123
+// Units: o008 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(Tiny - slow)
+}
+
+STRING 125
+// Doodads: D01W (- Windows 1), Name (Name)
+{
+- Windows 1
+}
+
+STRING 126
+// Units: o009 (Kor'kron Guard), Name (Name)
+{
+Kor'kron Guard
+}
+
+STRING 127
+// Units: o009 (Kor'kron Guard), EditorSuffix (Name - Editor Suffix)
+{
+(regular)
+}
+
+STRING 128
+// Units: ogrk (Saurfang), Name (Name)
+{
+Saurfang
+}
+
+STRING 129
+// Units: o005 (Saurfang), Name (Name)
+{
+Saurfang
+}
+
+STRING 130
+// Units: o006 (Saurfang), Name (Name)
+{
+Saurfang
+}
+
+STRING 131
+// Units: o003 (Saurfang), Name (Name)
+{
+Saurfang
+}
+
+STRING 132
+// Units: o008 (Saurfang), Name (Name)
+{
+Saurfang
+}
+
+STRING 133
+// Units: o00A (Axe), Name (Name)
+{
+Axe
+}
+
+STRING 136
+// Doodads: D00M (- Iron Spikes), Name (Name)
+{
+- Iron Spikes
+}
+
+STRING 137
+// Doodads: D01X (- Map of Khaz Modan), Name (Name)
+{
+- Map of Khaz Modan
+}
+
+STRING 138
+// Doodads: D01Y (- Metal Picture Dwarf), Name (Name)
+{
+- Metal Picture Dwarf
+}
+
+STRING 139
+// Doodads: D01Z (- Metal Picture Elemental), Name (Name)
+{
+- Metal Picture Elemental
+}
+
+STRING 140
+// Units: o00C (Doomhammer), Name (Name)
+{
+Doomhammer
+}
+
+STRING 155
+// Units: h000 (Head Orientation Helper), Name (Name)
+{
+Head Orientation Helper
+}
+
+STRING 159
+// Doodads: D01G (Snowy Mountains), Name (Name)
+{
+Snowy Mountains
+}
+
+STRING 160
+// Doodads: D01H (Grassy Mountains), Name (Name)
+{
+Grassy Mountains
+}
+
+STRING 161
+// Doodads: D01I (Far Mountains), Name (Name)
+{
+Far Mountains
+}
+
+STRING 162
+// Doodads: D020 (Lava Plane), Name (Name)
+{
+Lava Plane
+}
+
+STRING 163
+// Doodads: D021 (Distant Land Wallpaper Alpes), Name (Name)
+{
+Distant Land Wallpaper Alpes
+}
+
+STRING 164
+{
+LoreCraftDesigns
+}
+
+STRING 165
+// Doodads: D022 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 166
+// Doodads: D023 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 167
+// Doodads: D024 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 168
+// Units: O00B (Troll Chieftain), Name (Name)
+{
+Troll Chieftain
+}
+
+STRING 169
+// Units: O00B (Troll Chieftain), Propernames (Proper Names)
+{
+Zul'jin
+}
+
+STRING 170
+// Units: O00B (Troll Chieftain), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 171
+// Units: O00B (Troll Chieftain), Tip (Tooltip - Basic)
+{
+Troll Chieftan
+}
+
+STRING 172
+// Units: O00B (Troll Chieftain), Revivetip (Tooltip - Revive)
+{
+Revive Troll Chieftan
+}
+
+STRING 173
+// Units: O00B (Troll Chieftain), Awakentip (Tooltip - Awaken)
+{
+Revive Troll Chieftan
+}
+
+STRING 174
+// Units: O00B (Troll Chieftain), Ubertip (Tooltip - Extended)
+{
+Zuljin is the Warlord of the Amani forest Trolls. A powerful and fierce troll, Zul'jin has an immense hatred towards the High Elves of Quel'thalas, and this hatred led him into seeking unlikely allies in the form of outlandish invading Orcs.
+|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 175
+// Doodads: D025 (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 176
+// Units: O00D (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 177
+// Units: O00D (Warlord), Propernames (Proper Names)
+{
+Dal'Rend Blackhand
+}
+
+STRING 178
+// Units: O00D (Warlord), Name (Name)
+{
+Warlord
+}
+
+STRING 179
+// Units: O00D (Warlord), Awakentip (Tooltip - Awaken)
+{
+Revieve Warlord
+}
+
+STRING 180
+// Units: O00D (Warlord), Tip (Tooltip - Basic)
+{
+Warlord
+}
+
+STRING 181
+// Units: O00D (Warlord), Revivetip (Tooltip - Revive)
+{
+Revive Warlord
+}
+
+STRING 182
+// Units: O00D (Warlord), Ubertip (Tooltip - Extended)
+{
+Dal'Rend Blackhand is the oldest son of Blackhand the Destroyer, former Warchief of the Orcish Horde. Following his father’s removal at the hands of Orgrim Doomhammer, Rend and his brother Maim have led the Blacktooth Grin Clan and its elite frontline warriors. 
+|n|cffffcc00Attacks land units.|r
+}
+
+STRING 183
+// Units: O00E (Warlord), Name (Name)
+{
+Warlord
+}
+
+STRING 184
+// Units: O00E (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(Mountless)
+}
+
+STRING 185
+// Units: O00E (Warlord), Propernames (Proper Names)
+{
+Rend Blackhand
+}
+
+STRING 186
+// Units: U001 (Warlock), Propernames (Proper Names)
+{
+Gul'Dan
+}
+
+STRING 187
+// Units: U001 (Warlock), Awakentip (Tooltip - Awaken)
+{
+Revive Warlock (|cffffcc00W|r)
+}
+
+STRING 188
+// Units: U001 (Warlock), Tip (Tooltip - Basic)
+{
+Warlock (|cffffcc00W|r)
+}
+
+STRING 189
+// Units: U001 (Warlock), Revivetip (Tooltip - Revive)
+{
+Revive Warlock (|cffffcc00W|r)
+}
+
+STRING 190
+// Units: U001 (Warlock), Name (Name)
+{
+Warlock
+}
+
+STRING 191
+// Units: U001 (Warlock), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 192
+// Units: O00F (Ogre Magi), Propernames (Proper Names)
+{
+Cho'gall
+}
+
+STRING 193
+// Units: O00F (Ogre Magi), Name (Name)
+{
+Ogre Magi
+}
+
+STRING 194
+// Units: O00F (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 195
+// Units: O00F (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Revive Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 196
+// Units: O00F (Ogre Magi), Ubertip (Tooltip - Extended)
+{
+Герой Орды, обладающий несокрушимым здоровьем и не знающий себе равных в рукопашном бою. Способен выучить заклинания ''Волна Силы'', ''Громовая поступь'', ''Выносливо_
+}
+
+STRING 197
+// Units: O00F (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogre Magi (|cffffcc00O|r)
+}
+
+STRING 198
+// Units: N003 (Varok), Name (Name)
+{
+Varok
+}
+
+STRING 199
+// Units: N003 (Varok), Propernames (Proper Names)
+{
+Varok
+}
+
+STRING 200
+// Units: o00G (Teron'Gor), Name (Name)
+{
+Teron'Gor
+}
+
+STRING 201
+// Units: O00H (Chieftan), Propernames (Proper Names)
+{
+Kilrog Deadeye
+}
+
+STRING 202
+// Units: O00H (Chieftan), Name (Name)
+{
+Chieftan
+}
+
+STRING 203
+// Units: O00H (Chieftan), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 204
+// Units: O00H (Chieftan), Awakentip (Tooltip - Awaken)
+{
+Revive Chieftan (|cffffcc00C|r)
+}
+
+STRING 205
+// Units: O00H (Chieftan), Revivetip (Tooltip - Revive)
+{
+Revive Chieftan (|cffffcc00C|r)
+}
+
+STRING 206
+// Units: O00H (Chieftan), Tip (Tooltip - Basic)
+{
+Chieftan (|cffffcc00C|r)
+}
+
+STRING 207
+// Units: o00I (Eitrigg), Name (Name)
+{
+Eitrigg
+}
+
+STRING 208
+// Units: o00J (Tharbek), Name (Name)
+{
+Tharbek
+}
+
+STRING 209
+// Units: o00K (Utok Scratcher), Name (Name)
+{
+Utok Scratcher
+}
+
+STRING 210
+// Units: o00K (Utok Scratcher), Ubertip (Tooltip - Extended)
+{
+|cffffcc00Level 1 Apprentice|r |n|nUtok Scratcher is an apprentice shaman and chief advisor to the ruthless commander of the Blackrock clan, Orgrim Doomhammer. He is the author of The Dominion of Lordaeron, which recorded the Horde's actions during the Second War.
+|n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 211
+// Units: o00K (Utok Scratcher), Tip (Tooltip - Basic)
+{
+Apprentice
+}
+
+STRING 212
+// Units: O00L (Shaman), Propernames (Proper Names)
+{
+Zuluhed
+}
+
+STRING 213
+// Units: O00L (Shaman), Name (Name)
+{
+Shaman
+}
+
+STRING 214
+// Units: O00L (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 215
+// Units: O00L (Shaman), Awakentip (Tooltip - Awaken)
+{
+Shaman (|cffffcc00S|r)
+}
+
+STRING 216
+// Units: O00L (Shaman), Revivetip (Tooltip - Revive)
+{
+Revive Shaman (|cffffcc00S|r)
+}
+
+STRING 217
+// Units: O00L (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 218
+// Units: O00L (Shaman), Tip (Tooltip - Basic)
+{
+Revive Shaman (|cffffcc00S|r)
+}
+
+STRING 219
+// Units: O00M (Warlock), Propernames (Proper Names)
+{
+Necros Skullcrasher
+}
+
+STRING 220
+// Units: O00M (Warlock), Tip (Tooltip - Basic)
+{
+Warlock (|cffffcc00W|r)
+}
+
+STRING 221
+// Units: O00M (Warlock), Awakentip (Tooltip - Awaken)
+{
+Revive Warlock (|cffffcc00W|r)
+}
+
+STRING 222
+// Units: O00M (Warlock), Revivetip (Tooltip - Revive)
+{
+Revive Warlock (|cffffcc00W|r)
+}
+
+STRING 223
+// Units: o00N (Kor'kron Guard), Name (Name)
+{
+Kor'kron Guard
+}
+
+STRING 224
+// Units: o00N (Kor'kron Guard), EditorSuffix (Name - Editor Suffix)
+{
+(Ogre)
+}
+
+STRING 313
+// Units: O00P (Samuro), Name (Name)
+{
+Samuro
+}
+
+STRING 325
+// Units: N004 (Goblin Trade Prince), Name (Name)
+{
+Goblin Trade Prince
+}
+
+STRING 326
+// Destructibles: B001 (- Blackrock Gate), Name (Name)
+{
+- Blackrock Gate
+}
+
+STRING 327
+// Doodads: D002 (- Volcano), Name (Name)
+{
+- Volcano
+}
+
+STRING 328
+// Units: n005 (Hobgoblin), Name (Name)
+{
+Hobgoblin
+}
+
+STRING 330
+// Units: n006 (Hobgoblin), Name (Name)
+{
+Hobgoblin
+}
+
+STRING 332
+// Doodads: D026 (- Orange Glow), Name (Name)
+{
+- Orange Glow
+}
+
+STRING 333
+// Units: n007 (Zeppelin 2), Name (Name)
+{
+Zeppelin 2
+}
+
+STRING 334
+// Units: n008 (Zeppelin 1), Name (Name)
+{
+Zeppelin 1
+}
+
+STRING 335
+// Units: n009 (Zeppelin 1 b), Name (Name)
+{
+Zeppelin 1 b
+}
+
+STRING 336
+// Doodads: D027 (- Fake Sky), Name (Name)
+{
+- Fake Sky
+}
+
+STRING 337
+// Destructibles: B003 (Chest of Gold), Name (Name)
+{
+Chest of Gold
+}
+
+STRING 338
+// Doodads: D028 (- Metal Picture Elemental (angle)), Name (Name)
+{
+- Metal Picture Elemental (angle)
+}
+
+STRING 339
+// Doodads: D029 (- Metal Picture Dwarf (angle)), Name (Name)
+{
+- Metal Picture Dwarf (angle)
+}
+
+STRING 340
+// Units: n005 (Hobgoblin), EditorSuffix (Name - Editor Suffix)
+{
+(Hobbert)
+}
+
+STRING 341
+// Units: n006 (Hobgoblin), EditorSuffix (Name - Editor Suffix)
+{
+(Gobbert)
+}
+
+STRING 342
+// Destructibles: B004 (- Light Yellow), Name (Name)
+{
+- Light Yellow
+}
+
+STRING 343
+// Doodads: D02A (- Tower), Name (Name)
+{
+- Tower
+}
+
+STRING 344
+// Units: n00A (Anami Berserker), Name (Name)
+{
+Anami Berserker
+}
+
+STRING 345
+// Units: n00B (Amanishi Guardian), Name (Name)
+{
+Amanishi Guardian
+}
+
+STRING 346
+// Units: o00O (Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Blacktooth Grin)
+}
+
+STRING 347
+// Units: n00C (Anami Troll), Name (Name)
+{
+Anami Troll
+}
+
+STRING 349
+// Units: O00P (Samuro), EditorSuffix (Name - Editor Suffix)
+{
+(CSW)
+}
+
+STRING 350
+// Destructibles: B006 (- Table), Name (Name)
+{
+- Table
+}
+
+STRING 351
+// Destructibles: B007 (- Map), Name (Name)
+{
+- Map
+}
+
+STRING 352
+// Doodads: D01V (- Smoke), Name (Name)
+{
+- Smoke
+}
+
+STRING 353
+// Items: I0L0 (WC2ORCACT02Chogall1), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 354
+// Items: I0L0 (WC2ORCACT02Chogall1), Description (Description)
+{
+|cffffcc00Cho:|r Nous aurons besoin d'une escorte pour traverser les marécages.
+}
+
+STRING 355
+// Items: I0L0 (WC2ORCACT02Chogall1), Name (Name)
+{
+WC2ORCACT02Chogall1
+}
+
+STRING 356
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 357
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Description (Description)
+{
+Nous vous avons déjà donné la moitié du trésor de Stormwind ! Les prix que vous suggérez sont déraisonnables.
+}
+
+STRING 358
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Name (Name)
+{
+WC2ORCACT02Doomhammer1
+}
+
+STRING 359
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 360
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Description (Description)
+{
+Ce que vous ne cessez de me rappeler à tout bout de champ... Les résultats feraient mieux d'être à la hauteur des dépenses, petit gobelin, ou il y aura des conséquences...
+}
+
+STRING 361
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Name (Name)
+{
+WC2ORCACT02Doomhammer2
+}
+
+STRING 362
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 363
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Description (Description)
+{
+Je vais me gêner... Je vous donne 20000 couronnes de Stormwind, pas plus...
+}
+
+STRING 364
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Name (Name)
+{
+WC2ORCACT02Doomhammer3
+}
+
+STRING 365
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 366
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Description (Description)
+{
+20000...
+}
+
+STRING 367
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Name (Name)
+{
+WC2ORCACT02Doomhammer4
+}
+
+STRING 368
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 369
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Description (Description)
+{
+Le tarif sera de 20000...
+}
+
+STRING 370
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Name (Name)
+{
+WC2ORCACT02Doomhammer5
+}
+
+STRING 371
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 372
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Description (Description)
+{
+Je pourrais peut-être aplatir votre crâne, réduire votre peuple en esclavage et donner vos possessions au cartel Bilgewater... Qu'en dites-vous ?
+}
+
+STRING 373
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Name (Name)
+{
+WC2ORCACT02Doomhammer6
+}
+
+STRING 374
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 375
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Description (Description)
+{
+Varok, l'or.
+}
+
+STRING 376
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Name (Name)
+{
+WC2ORCACT02Doomhammer6b
+}
+
+STRING 377
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 378
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Description (Description)
+{
+Excellent, allons les accueillir avec le respect qui leur est dû.
+}
+
+STRING 379
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Name (Name)
+{
+WC2ORCACT02Doomhammer7
+}
+
+STRING 380
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 381
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Description (Description)
+{
+Lok'tar, fils de Blackhand... Mes salutations, puissant Zul'jin. Au rapport, Rend.
+}
+
+STRING 382
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Name (Name)
+{
+WC2ORCACT02Doomhammer8
+}
+
+STRING 383
+// Items: I0LA (WC2ORCACT02Doomhammer9), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 384
+// Items: I0LA (WC2ORCACT02Doomhammer9), Description (Description)
+{
+Je suis ravi d'avoir pu aider un camarade guerrier. Lorsque j'ai eu vent de votre capture, j'ai envoyé Rend Blackhand sur le champ.
+}
+
+STRING 385
+// Items: I0LA (WC2ORCACT02Doomhammer9), Name (Name)
+{
+WC2ORCACT02Doomhammer9
+}
+
+STRING 386
+// Items: I0LB (WC2ORCACT02Doomhammer11), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 387
+// Items: I0LB (WC2ORCACT02Doomhammer11), Description (Description)
+{
+Levez-vous, fils de Draenor ! Accueillons les puissants Amani dans notre glorieuse Horde ! 
+}
+
+STRING 388
+// Items: I0LB (WC2ORCACT02Doomhammer11), Name (Name)
+{
+WC2ORCACT02Doomhammer11
+}
+
+STRING 389
+// Items: I0LC (WC2ORCACT02Doomhammer12), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 390
+// Items: I0LC (WC2ORCACT02Doomhammer12), Description (Description)
+{
+Bravo Rend, et à vous aussi, capitaine Utok. Grâce à vos efforts, nous savons ce qui nous attend à Lordaeron. Il est temps de renforcer notre présence à Khaz Modan.
+}
+
+STRING 391
+// Items: I0LC (WC2ORCACT02Doomhammer12), Name (Name)
+{
+WC2ORCACT02Doomhammer12
+}
+
+STRING 392
+// Items: I0LD (WC2ORCACT02Doomhammer13), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 393
+// Items: I0LD (WC2ORCACT02Doomhammer13), Description (Description)
+{
+Bien. Kilrogg Deadeye et son clan débuteront l'assaut sur le reste des terres naines orientales. En commençant par la forteresse abandonnée de Grim Batol.
+}
+
+STRING 394
+// Items: I0LD (WC2ORCACT02Doomhammer13), Name (Name)
+{
+WC2ORCACT02Doomhammer13
+}
+
+STRING 395
+// Items: I0LE (WC2ORCACT02Doomhammer14), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 396
+// Items: I0LE (WC2ORCACT02Doomhammer14), Description (Description)
+{
+Varok, vous recevrez des armes de siège, des explosifs gobelins et serez accompagné des meilleurs guerriers du clan Blackrock. Marchez sur Ironforge et soumettez ses habitants. Cette cité doit tomber, quoi qu'il en coûte !
+}
+
+STRING 397
+// Items: I0LE (WC2ORCACT02Doomhammer14), Name (Name)
+{
+WC2ORCACT02Doomhammer14
+}
+
+STRING 398
+// Items: I0LF (WC2ORCACT02Doomhammer15), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 399
+// Items: I0LF (WC2ORCACT02Doomhammer15), Description (Description)
+{
+Samuro, je veux que vous assistiez les forces Blackrock dans le siège d'Ironforge.
+}
+
+STRING 400
+// Items: I0LF (WC2ORCACT02Doomhammer15), Name (Name)
+{
+WC2ORCACT02Doomhammer15
+}
+
+STRING 401
+// Items: I0LG (WC2ORCACT02Doomhammer16), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 402
+// Items: I0LG (WC2ORCACT02Doomhammer16), Description (Description)
+{
+On dit que les nains sont des guerriers endurants et têtus, alors préparez-vous à une longue campagne.
+}
+
+STRING 403
+// Items: I0LG (WC2ORCACT02Doomhammer16), Name (Name)
+{
+WC2ORCACT02Doomhammer16
+}
+
+STRING 404
+// Items: I0LH (WC2ORCACT02Doomhammer17), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 405
+// Items: I0LH (WC2ORCACT02Doomhammer17), Description (Description)
+{
+Nous devons également sécuriser les côtes orientales du continent. Le clan Twilight's Hammer doit s'y rendre et préparer l'infrastructure de production de pétrole, en utilisant l'équipement fourni par nos "alliés" gobelins.
+}
+
+STRING 406
+// Items: I0LH (WC2ORCACT02Doomhammer17), Name (Name)
+{
+WC2ORCACT02Doomhammer17
+}
+
+STRING 407
+// Items: I0LI (WC2ORCACT02Doomhammer18), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 408
+// Items: I0LI (WC2ORCACT02Doomhammer18), Description (Description)
+{
+Entre temps, le clan Blacktooth Grin doit conquérir l'île de Tol Barad. Une fois l'île sécurisée, ils enverront le signal à la flotte Stormreaver. Ils navigueront en direction de Stromgarde depuis l'île de Balor.
+}
+
+STRING 409
+// Items: I0LI (WC2ORCACT02Doomhammer18), Name (Name)
+{
+WC2ORCACT02Doomhammer18
+}
+
+STRING 410
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 411
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Description (Description)
+{
+Zuluhed, je veux que vous et le reste du clan Dragonmaw souteniez Maim Blackhand à l'ouest de Khaz Modan, au cas où quelque chose se passerait mal.
+}
+
+STRING 412
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Name (Name)
+{
+WC2ORCACT02Doomhammer19
+}
+
+STRING 413
+// Items: I0LK (WC2ORCACT02Doomhammer20), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 414
+// Items: I0LK (WC2ORCACT02Doomhammer20), Description (Description)
+{
+Généraux et chefs de clans, vous pouvez disposer. Les démonistes restent.
+}
+
+STRING 415
+// Items: I0LK (WC2ORCACT02Doomhammer20), Name (Name)
+{
+WC2ORCACT02Doomhammer20
+}
+
+STRING 416
+// Items: I0LL (WC2ORCACT02Doomhammer21), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 417
+// Items: I0LL (WC2ORCACT02Doomhammer21), Description (Description)
+{
+Gul'dan a-t-il fait des progrès sur les guerriers qu'il m'a promis ?
+}
+
+STRING 418
+// Items: I0LL (WC2ORCACT02Doomhammer21), Name (Name)
+{
+WC2ORCACT02Doomhammer21
+}
+
+STRING 419
+// Items: I0LM (WC2ORCACT02Doomhammer22), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 420
+// Items: I0LM (WC2ORCACT02Doomhammer22), Description (Description)
+{
+Ma patience a des limites, démoniste... Passe le message à ton maître.
+}
+
+STRING 421
+// Items: I0LM (WC2ORCACT02Doomhammer22), Name (Name)
+{
+WC2ORCACT02Doomhammer22
+}
+
+STRING 422
+// Items: I0LN (WC2ORCACT02Doomhammer23), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 423
+// Items: I0LN (WC2ORCACT02Doomhammer23), Description (Description)
+{
+Nekros, vous resterez sous le commandement de Zuluhed. Essayez de contacter Gul'dan, et vous serez équarri... Suis-je assez clair ?
+}
+
+STRING 424
+// Items: I0LN (WC2ORCACT02Doomhammer23), Name (Name)
+{
+WC2ORCACT02Doomhammer23
+}
+
+STRING 425
+// Items: I0LO (WC2ORCACT02Doomhammer24), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 426
+// Items: I0LO (WC2ORCACT02Doomhammer24), Description (Description)
+{
+Cho'gall, je veux que vous supervisiez personnellement la construction des installations pétrolières sur la rive est. Vous vous y rendrez dès que Kilrogg aura sécurisé Grim Batol.
+}
+
+STRING 427
+// Items: I0LO (WC2ORCACT02Doomhammer24), Name (Name)
+{
+WC2ORCACT02Doomhammer24
+}
+
+STRING 428
+// Items: I0LP (WC2ORCACT02Doomhammer25), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 429
+// Items: I0LP (WC2ORCACT02Doomhammer25), Description (Description)
+{
+Je me charge de ça. À présent, hors de ma vue.
+}
+
+STRING 430
+// Items: I0LP (WC2ORCACT02Doomhammer25), Name (Name)
+{
+WC2ORCACT02Doomhammer25
+}
+
+STRING 431
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 432
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Description (Description)
+{
+Enfin, Chef de guerre... la technologie de pointe coûte cher ! Vous réalisez à quel point la production de gaz pour zeppelin est un processus complexe ? Sans parler du prix des filtres de raffinement, des pompes, de la machinerie, et des explosifs ! La guerre, c'est pas donné... et on vous fait déjà une sacrée remise !
+}
+
+STRING 433
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Name (Name)
+{
+WC2ORCACT02Steamwheedle1
+}
+
+STRING 434
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 435
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Description (Description)
+{
+C'est la loi de l'offre et de la demande, Chef de guerre, rien de plus. On est pas en position de dicter les prix du marché - et vous non plus d'ailleurs !
+}
+
+STRING 436
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Name (Name)
+{
+WC2ORCACT02Steamwheedle2
+}
+
+STRING 437
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 438
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Description (Description)
+{
+30000...
+}
+
+STRING 439
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Name (Name)
+{
+WC2ORCACT02Steamwheedle3
+}
+
+STRING 440
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 441
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Description (Description)
+{
+28000...
+}
+
+STRING 442
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Name (Name)
+{
+WC2ORCACT02Steamwheedle4
+}
+
+STRING 443
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 444
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Description (Description)
+{
+27000...
+}
+
+STRING 445
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Name (Name)
+{
+WC2ORCACT02Steamwheedle5
+}
+
+STRING 446
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 447
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Description (Description)
+{
+Ok, ok ! La vache... J'vais vous faire une AUTRE remise. 20.000 couronnes de Stormwind, adjugé vendu !
+}
+
+STRING 448
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Name (Name)
+{
+WC2ORCACT02Steamwheedle6
+}
+
+STRING 449
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Tip (Tooltip - Basic)
+{
+Prince marchand Steamwheedle
+}
+
+STRING 450
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Description (Description)
+{
+Et encore un client satisfait ! J'vous enverrai mes meilleurs ingénieurs, Chef de guerre !
+}
+
+STRING 451
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Name (Name)
+{
+WC2ORCACT02Steamwheedle7
+}
+
+STRING 452
+// Items: I0LX (WC2ORCACT02Tharbek1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 453
+// Items: I0LX (WC2ORCACT02Tharbek1), Description (Description)
+{
+Chef de guerre, Rend Blackhand est de retour avec le chef troll.
+}
+
+STRING 454
+// Items: I0LX (WC2ORCACT02Tharbek1), Name (Name)
+{
+WC2ORCACT02Tharbek1
+}
+
+STRING 455
+// Items: I0LY (WC2ORCACT02Rend1), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 456
+// Items: I0LY (WC2ORCACT02Rend1), Description (Description)
+{
+Lok'tar, Chef de guerre, je vous présente le meneur des Amani, le Seigneur de guerre Zul'jin.
+}
+
+STRING 457
+// Items: I0LY (WC2ORCACT02Rend1), Name (Name)
+{
+WC2ORCACT02Rend1
+}
+
+STRING 458
+// Items: I0LZ (WC2ORCACT02Rend2), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 459
+// Items: I0LZ (WC2ORCACT02Rend2), Description (Description)
+{
+Les trolls étaient enchaînés et parqués dans des cages. Les humains de Durnholde pensaient qu'ils représentaient leur seule menace. Cette négligeance a causé leur perte. Aucun témoin de notre présence n'a survécu.
+}
+
+STRING 460
+// Items: I0LZ (WC2ORCACT02Rend2), Name (Name)
+{
+WC2ORCACT02Rend2
+}
+
+STRING 461
+// Items: I0Lz (WC2ORCACT02Rend3), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 462
+// Items: I0Lz (WC2ORCACT02Rend3), Description (Description)
+{
+Le canton d'Hillsbrad a été décimé. Dans tous les royaumes humains, la rumeur d'une fin funeste imminente se répand.
+}
+
+STRING 463
+// Items: I0Lz (WC2ORCACT02Rend3), Name (Name)
+{
+WC2ORCACT02Rend3
+}
+
+STRING 464
+// Items: I0Ly (WC2ORCACT02Zuljin1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 465
+// Items: I0Ly (WC2ORCACT02Zuljin1), Description (Description)
+{
+Vos guerriers nous ont sauvés. Nous nous sommes battus côte à côte à Southshore et Hillsbrad. C'est un honneur pour les Trolls de faire partie de la Horde.
+}
+
+STRING 466
+// Items: I0Ly (WC2ORCACT02Zuljin1), Name (Name)
+{
+WC2ORCACT02Zuljin1
+}
+
+STRING 467
+// Items: I0Lx (WC2ORCACT02Zuljin2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 468
+// Items: I0Lx (WC2ORCACT02Zuljin2), Description (Description)
+{
+Votre Horde compte toujours conquérir le monde, pas vrai ?
+}
+
+STRING 469
+// Items: I0Lx (WC2ORCACT02Zuljin2), Name (Name)
+{
+WC2ORCACT02Zuljin2
+}
+
+STRING 470
+// Items: I0Lw (WC2ORCACT02Zuljin3), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 471
+// Items: I0Lw (WC2ORCACT02Zuljin3), Description (Description)
+{
+Nous vous aiderons, tout comme vous nous avez aidés. Le destin nous a donné une chance de repousser les peaux roses, de reprendre nos terres et de conquérir de nouveaux endroits pour notre peuple. Les Trolls et les Orcs sont maintenant des alliés - liés par le sang ! 
+}
+
+STRING 472
+// Items: I0Lw (WC2ORCACT02Zuljin3), Name (Name)
+{
+WC2ORCACT02Zuljin3
+}
+
+STRING 473
+// Items: I0Lv (WC2ORCACT02Varok1), Tip (Tooltip - Basic)
+{
+Varok Saurfang
+}
+
+STRING 474
+// Items: I0Lv (WC2ORCACT02Varok1), Description (Description)
+{
+Par ici... Petit gobelin.
+}
+
+STRING 475
+// Items: I0Lv (WC2ORCACT02Varok1), Name (Name)
+{
+WC2ORCACT02Varok1
+}
+
+STRING 476
+// Items: I0Lu (WC2ORCACT02Varok2), Tip (Tooltip - Basic)
+{
+Varok Saurfang
+}
+
+STRING 477
+// Items: I0Lu (WC2ORCACT02Varok2), Description (Description)
+{
+Au cours de l'année précédente, nos forces ont conquis avec succès la quasi-totalité du sous-continent de Khaz Modan. Les deux seules régions qui s'opposent encore à nous sont la côte est et Ironforge elle-même.
+}
+
+STRING 478
+// Items: I0Lu (WC2ORCACT02Varok2), Name (Name)
+{
+WC2ORCACT02Varok2
+}
+
+STRING 479
+// Items: I0Lt (WC2ORCACT02Varok3), Tip (Tooltip - Basic)
+{
+Varok Saurfang
+}
+
+STRING 480
+// Items: I0Lt (WC2ORCACT02Varok3), Description (Description)
+{
+Ce sera fait, Chef de guerre !
+}
+
+STRING 481
+// Items: I0Lt (WC2ORCACT02Varok3), Name (Name)
+{
+WC2ORCACT02Varok3
+}
+
+STRING 482
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Tip (Tooltip - Basic)
+{
+Kilrogg Deadeye
+}
+
+STRING 483
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Description (Description)
+{
+Oui, Chef de guerre. Nos troupes sont prêtes pour la bataille.
+}
+
+STRING 484
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Name (Name)
+{
+WC2ORCACT02Kilrogg1
+}
+
+STRING 485
+// Items: I0Lr (WC2ORCACT02Samuro1), Tip (Tooltip - Basic)
+{
+Samuro
+}
+
+STRING 486
+// Items: I0Lr (WC2ORCACT02Samuro1), Description (Description)
+{
+Le clan Burning Blade ne vous décevra pas, Chef de guerre.
+}
+
+STRING 487
+// Items: I0Lr (WC2ORCACT02Samuro1), Name (Name)
+{
+WC2ORCACT02Samuro1
+}
+
+STRING 488
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 489
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Description (Description)
+{
+Entendu, Chef de guerre.
+}
+
+STRING 490
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Name (Name)
+{
+WC2ORCACT02Zuluhed1
+}
+
+STRING 491
+// Items: I0Lp (WC2ORCACT02TeronGor1), Tip (Tooltip - Basic)
+{
+Teron'gor
+}
+
+STRING 492
+// Items: I0Lp (WC2ORCACT02TeronGor1), Description (Description)
+{
+Je vous en prie, Chef de guerre. Je ne souhaite nullement vous manquer de respect, mais vous devez faire preuve de patience. Gul'dan travaille avec acharnement sur la tâche que vous lui avez confiée, dans son laboratoire sur l'île de Balor. 
+}
+
+STRING 493
+// Items: I0Lp (WC2ORCACT02TeronGor1), Name (Name)
+{
+WC2ORCACT02TeronGor1
+}
+
+STRING 494
+// Items: I0Lo (WC2ORCACT02TeronGor2), Tip (Tooltip - Basic)
+{
+Teron'gor
+}
+
+STRING 495
+// Items: I0Lo (WC2ORCACT02TeronGor2), Description (Description)
+{
+Très bien, Chef de guerre.
+}
+
+STRING 496
+// Items: I0Lo (WC2ORCACT02TeronGor2), Name (Name)
+{
+WC2ORCACT02TeronGor2
+}
+
+STRING 498
+// Items: I0Ln (WC2ORCACT02Nekros), Description (Description)
+{
+Selon vos désirs, Chef de guerre.
+}
+
+STRING 499
+// Items: I0Ln (WC2ORCACT02Nekros), Name (Name)
+{
+WC2ORCACT02Nekros
+}
+
+STRING 500
+// Items: I1La (WC2ORCACT02Etrigg1), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 501
+// Items: I1La (WC2ORCACT02Etrigg1), Description (Description)
+{
+Notre grand succès à Crestfall a garanti notre domination sur les rives occidentales de Khaz Modan. Nos forces à Dun Argath veilleront à ce qu'aucun soutien humain n'atteigne jamais les nains par voie maritime. Le passage Nord vers Lordaeron est coupé par notre garnison de Dun Modr. Les nains sont piégés.
+}
+
+STRING 502
+// Items: I1La (WC2ORCACT02Etrigg1), Name (Name)
+{
+WC2ORCACT02Etrigg1
+}
+
+STRING 503
+// Items: I0Ln (WC2ORCACT02Nekros), Tip (Tooltip - Basic)
+{
+Nekros Skullcrusher
+}
+

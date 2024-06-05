@@ -1,0 +1,4523 @@
+﻿STRING 1
+{
+WC2Orc14
+}
+
+STRING 3
+{
+洛丹伦的陷落
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 267
+{
+部落
+}
+
+STRING 269
+{
+联盟
+}
+
+STRING 270
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+面面俱到的掷斧战士，擅长对付空中单位。具有狂暴技能，能够提高所造成的伤害，但在被攻击时会承受更多伤害。可学习巨魔再生、狂战士视觉和轻巧战斧技能。|n|n|cffffcc00能攻击地面和空中单位。|r 
+}
+
+STRING 271
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 272
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+精灵游侠
+}
+
+STRING 273
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+基本远程攻击单位。能获得箭术、强弓和角鹰兽训练升级。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 274
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 275
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 276
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 277
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 278
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 279
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 280
+// Units: Hblm (Elven Mage), Name (Name)
+{
+精灵法师
+}
+
+STRING 281
+// Units: nchp (Magistrate), Name (Name)
+{
+镇长
+}
+
+STRING 282
+// Units: nwc1 (Cage), Name (Name)
+{
+牢笼
+}
+
+STRING 283
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+建造牢笼
+}
+
+STRING 284
+// Units: nwc1 (Cage), Description (Description)
+{
+一个坚固的笼子，专门用来关押囚犯。
+}
+
+STRING 285
+// Units: nbel (High Elf Captain), Name (Name)
+{
+高等精灵队长
+}
+
+STRING 286
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+训练高等精灵队长
+}
+
+STRING 287
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+银月城军队的强大队长。擅长对付施法者。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 317
+// Units: h612 (Mage Tower), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 325
+// Units: e601 (Ballista), Name (Name)
+{
+弩车
+}
+
+STRING 360
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 366
+// Units: h603 (Guardsman), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 368
+// Units: h603 (Guardsman), Name (Name)
+{
+卫士
+}
+
+STRING 369
+// Units: h61O (Mountain Cavalier), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 370
+// Units: h603 (Guardsman), Tip (Tooltip - Basic)
+{
+训练卫士
+}
+
+STRING 373
+// Units: h61T (Anvilguard), EditorSuffix (Name - Editor Suffix)
+{
+(Ironforge)
+}
+
+STRING 394
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+建造火炮
+}
+
+STRING 395
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+强大的远程火炮，但移动缓慢且易被摧毁。|n|n|cffffcc00能攻击地面单位和树木。|r
+}
+
+STRING 400
+// Units: n608 (Monk), Name (Name)
+{
+修士
+}
+
+STRING 401
+// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+{
+仁慈的牧师。
+}
+
+STRING 402
+// Units: n608 (Monk), Tip (Tooltip - Basic)
+{
+神圣的教士。
+}
+
+STRING 448
+// Units: h61P (Violet Citadel), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 479
+// Units: h60I (Stables), Name (Name)
+{
+马厩
+}
+
+STRING 480
+// Units: h60I (Stables), Ubertip (Tooltip - Extended)
+{
+二级部队生产建筑。能训练骑士和圣骑士。|n还包括了坐骑作战训练的升级。
+}
+
+STRING 505
+// Units: H60W (Paladin), Propernames (Proper Names)
+{
+乌瑟尔
+}
+
+STRING 516
+// Units: h006 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+警戒塔 (|cffffcc00G|r)
+}
+
+STRING 517
+// Units: h006 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+主要防御建筑。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 521
+// Units: h611 (Gryphon Aviary), Name (Name)
+{
+狮鹫巢
+}
+
+STRING 522
+// Units: h611 (Gryphon Aviary), Tip (Tooltip - Basic)
+{
+狮鹫巢 (|cffffcc00G|r)
+}
+
+STRING 523
+// Units: h611 (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+能训练狮鹫骑士和龙鹰骑士。|n还包括了风暴战锤的升级。
+}
+
+STRING 524
+// Units: h612 (Mage Tower), Name (Name)
+{
+法师塔
+}
+
+STRING 525
+// Units: h612 (Mage Tower), Tip (Tooltip - Basic)
+{
+法师塔 (|cffffcc00М|r)
+}
+
+STRING 527
+// Units: h612 (Mage Tower), Ubertip (Tooltip - Extended)
+{
+能训练达拉然大师。|n还包括了他们的法术升级。
+}
+
+STRING 528
+// Units: h613 (Gnomish Inventor), Name (Name)
+{
+侏儒发明屋
+}
+
+STRING 529
+// Units: h613 (Gnomish Inventor), Tip (Tooltip - Basic)
+{
+侏儒发明屋 (|cffffcc00W|r)
+}
+
+STRING 530
+// Units: h613 (Gnomish Inventor), Ubertip (Tooltip - Extended)
+{
+能生产飞行器和矮人爆破组。|n还包括了飞行器炸弹的升级。
+}
+
+STRING 537
+// Units: h617 (Church), Name (Name)
+{
+教堂
+}
+
+STRING 538
+// Units: h617 (Church), Ubertip (Tooltip - Extended)
+{
+教堂是洛丹伦公民寻求精神启迪的礼拜场所。
+}
+
+STRING 539
+// Units: h617 (Church), Tip (Tooltip - Basic)
+{
+建造教堂
+}
+
+STRING 540
+// Units: h61B (Keep), Name (Name)
+{
+要塞
+}
+
+STRING 561
+// Units: n00T (Dragon), Name (Name)
+{
+巨龙
+}
+
+STRING 562
+// Units: n00T (Dragon), Tip (Tooltip - Basic)
+{
+训练巨龙
+}
+
+STRING 563
+// Units: n00T (Dragon), Ubertip (Tooltip - Extended)
+{
+巨龙将惊人的破坏力与敏锐的智慧相结合，代表着部落中最强大的力量。从这些古老巨蛇口中喷出的毁灭性烈焰可以横扫万千敌军，而强大的翅膀则支撑着它们不知疲倦地翱翔于天。
+}
+
+STRING 686
+// Units: h61Q (Scout Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 690
+// Units: n00T (Dragon), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 691
+// Units: n60V (Duck), Name (Name)
+{
+鸭子
+}
+
+STRING 692
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+就是只野鸭
+}
+
+STRING 698
+// Units: h61O (Mountain Cavalier), Name (Name)
+{
+山地骑兵
+}
+
+STRING 700
+// Units: h61O (Mountain Cavalier), Tip (Tooltip - Basic)
+{
+训练山地骑兵
+}
+
+STRING 701
+// Units: n00K (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 707
+// Units: H008 (Paladin), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 708
+// Units: n02G (Zuluhed), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 731
+// Units: h620 (Tent), Name (Name)
+{
+帐篷
+}
+
+STRING 732
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+帐篷
+}
+
+STRING 733
+// Units: h621 (Tent), Name (Name)
+{
+帐篷
+}
+
+STRING 734
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+帐篷
+}
+
+STRING 735
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 750
+// Units: h627 (Cleric), Name (Name)
+{
+教士
+}
+
+STRING 757
+// Units: H62F (Captain), Name (Name)
+{
+队长
+}
+
+STRING 758
+// Units: H62F (Captain), Revivetip (Tooltip - Revive)
+{
+复活队长
+}
+
+STRING 759
+// Units: H62F (Captain), Awakentip (Tooltip - Awaken)
+{
+复活队长
+}
+
+STRING 760
+// Units: h005 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(Stormwind)
+}
+
+STRING 761
+// Units: H62F (Captain), Tip (Tooltip - Basic)
+{
+队长
+}
+
+STRING 771
+// Units: H62F (Captain), Propernames (Proper Names)
+{
+卢里克
+}
+
+STRING 774
+// Units: H62F (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Lordaeron)
+}
+
+STRING 775
+// Units: n62A (Shark), Name (Name)
+{
+鲨鱼
+}
+
+STRING 776
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+鲨鱼
+}
+
+STRING 777
+// Units: n62B (Purple Shark), Name (Name)
+{
+紫色鲨鱼
+}
+
+STRING 778
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+鲨鱼
+}
+
+STRING 790
+// Units: h60F (Human Cannon), Name (Name)
+{
+人类火炮
+}
+
+STRING 793
+// Units: n02K (Orc Pirate), Name (Name)
+{
+兽人海盗
+}
+
+STRING 805
+// Units: n60Y (Raven), Name (Name)
+{
+渡鸦
+}
+
+STRING 814
+// Units: n60Z (Spiders), Name (Name)
+{
+蜘蛛
+}
+
+STRING 815
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+蜘蛛
+}
+
+STRING 831
+// Units: h61T (Anvilguard), Name (Name)
+{
+铁砧卫士
+}
+
+STRING 856
+// Units: n611 (Wolf), Name (Name)
+{
+狼
+}
+
+STRING 857
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 947
+// Units: h007 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+主要防御建筑。|n|n|cffffcc00能攻击地面和空中单位。|r
+}
+
+STRING 969
+// Units: n00C (Tavern), Name (Name)
+{
+酒馆
+}
+
+STRING 1101
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+油桶
+}
+
+STRING 1126
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1127
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1128
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+油桶
+}
+
+STRING 1129
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1135
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1139
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+城堡塔楼
+}
+
+STRING 1143
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 1145
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1149
+// Units: n02H (Maim), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 1164
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+古棺
+}
+
+STRING 1165
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+书典祭坛
+}
+
+STRING 1168
+// Units: n02I (Rend), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 1171
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1172
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1175
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1178
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1188
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 1192
+// Destructibles: B00S (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1193
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+灯塔
+}
+
+STRING 1194
+// Destructibles: B60U (Chest), Name (Name)
+{
+木箱
+}
+
+STRING 1195
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 1199
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 1200
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1204
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1208
+// Destructibles: B61W (City Windows), Name (Name)
+{
+City Windows
+}
+
+STRING 1209
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1210
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1211
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 1238
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Castle Archway
+}
+
+STRING 1240
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Knight Statue
+}
+
+STRING 1241
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1242
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1243
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1244
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1257
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1258
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1259
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1260
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1261
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1276
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1282
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 1288
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1290
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1291
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+Square Tower Tall
+}
+
+STRING 1296
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+Fountain 2
+}
+
+STRING 1298
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1312
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+Dalaran Building Pathless
+}
+
+STRING 1313
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1314
+// Doodads: D69S (Door), Name (Name)
+{
+Door
+}
+
+STRING 1316
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+Single Column Pathless
+}
+
+STRING 1318
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+House Doodad
+}
+
+STRING 1330
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+Capital City Tower 2
+}
+
+STRING 1331
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+Capital City Dome
+}
+
+STRING 1332
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+Capital City Spire
+}
+
+STRING 1333
+// Doodads: D6AP (City Archway), Name (Name)
+{
+City Archway
+}
+
+STRING 1334
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+都城塔楼
+}
+
+STRING 1355
+// Destructibles: B00M (Fountain), Name (Name)
+{
+喷泉
+}
+
+STRING 1360
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1362
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1363
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1368
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1369
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1370
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1371
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1372
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1373
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+Dalaran Banner
+}
+
+STRING 1392
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+Capital City Structure Block
+}
+
+STRING 1396
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1397
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1398
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1399
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+Books Pile C
+}
+
+STRING 1400
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+Books Pile B
+}
+
+STRING 1401
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1402
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1409
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1430
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Orc Long Banner
+}
+
+STRING 1437
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1445
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1446
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1447
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1448
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1449
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+Refugee Banner
+}
+
+STRING 1450
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1451
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1468
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1489
+// Units: ntor (Whirlwind), Name (Name)
+{
+旋风
+}
+
+STRING 1645
+// Units: n02J (Utok), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 1955
+// Units: n02I (Rend), Name (Name)
+{
+雷德
+}
+
+STRING 2674
+// Destructibles: B000 (Lordaeron Wall Short), Name (Name)
+{
+Lordaeron Wall Short
+}
+
+STRING 2675
+// Destructibles: B001 (Lordaeron Wall T), Name (Name)
+{
+Lordaeron Wall T
+}
+
+STRING 2676
+// Destructibles: B002 (Lordaeron Wall Long), Name (Name)
+{
+Lordaeron Wall Long
+}
+
+STRING 2677
+// Destructibles: B003 (Lordaeron Wall Corner), Name (Name)
+{
+Lordaeron Wall Corner
+}
+
+STRING 2678
+// Destructibles: B004 (Lordaeron Wall Straight), Name (Name)
+{
+Lordaeron Wall Straight
+}
+
+STRING 2679
+// Destructibles: B005 (Lordaeron Spire), Name (Name)
+{
+Lordaeron Spire
+}
+
+STRING 2680
+// Destructibles: B006 (Lordaeron Palace), Name (Name)
+{
+Lordaeron Palace
+}
+
+STRING 2681
+// Destructibles: B007 (Lordaeron Dome), Name (Name)
+{
+Lordaeron Dome
+}
+
+STRING 2682
+// Destructibles: B008 (Lordaeron Wall Endcap), Name (Name)
+{
+Lordaeron Wall Endcap
+}
+
+STRING 2683
+// Destructibles: B009 (Lordaeron City Gate), Name (Name)
+{
+洛丹伦城市大门
+}
+
+STRING 2684
+// Destructibles: B00A (Lordaeron Roof Tiles), Name (Name)
+{
+Lordaeron Roof Tiles
+}
+
+STRING 2685
+{
+艾泽拉斯王国
+}
+
+STRING 2686
+{
+洛丹伦王国
+}
+
+STRING 2687
+// Doodads: D000 (DoorArch), Name (Name)
+{
+DoorArch
+}
+
+STRING 2688
+// Doodads: D001 (Balcony), Name (Name)
+{
+Balcony
+}
+
+STRING 2689
+// Destructibles: B00B (Lordaeron Wall Stairs), Name (Name)
+{
+Lordaeron Wall Stairs
+}
+
+STRING 2690
+// Destructibles: B00C (Lordaeron Small Gate), Name (Name)
+{
+Lordaeron Small Gate
+}
+
+STRING 2750
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 2751
+{
+|cffffff00跳舞时间到！|r
+}
+
+STRING 2778
+{
+|c003366FF增援单位|r
+从失落群岛归来的兽人步兵和战舰现在都任你差遣。
+}
+
+STRING 2788
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2789
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2790
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2791
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2792
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2793
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2794
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2795
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2796
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2797
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2798
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2799
+{
+|cffffcc00运送更多原油。|r
+}
+
+STRING 2803
+{
+建造更多的农场来继续生产单位。,建造更多的猪圈来继续生产单位。,召唤更多的通灵塔来继续生产单位。,创造更多的月亮井来继续生产单位。
+}
+
+STRING 2804
+{
+不能使用原油钻机。
+}
+
+STRING 2805
+{
+该油田已被使用。
+}
+
+STRING 2806
+{
+必须先建造原油钻机。
+}
+
+STRING 2807
+{
+必须以油田为目标。
+}
+
+STRING 2808
+{
+必须建造在油田上。
+}
+
+STRING 2809
+{
+你可以在大厅复活你的英雄。
+}
+
+STRING 2810
+{
+邪祟
+}
+
+STRING 2839
+{
+芬里斯岛
+}
+
+STRING 2840
+{
+芬里斯岛是挡在你和最终奖赏间的一道阻碍。消灭我们的敌人，占领岛屿并建立牢固的据点。 只有这样，我们才能开始围攻都城。
+}
+
+STRING 2843
+{
+占领芬里斯岛
+}
+
+STRING 2844
+{
+洛丹伦港
+}
+
+STRING 2845
+{
+洛丹伦的残存海军威胁着我们对首都的入侵。不能让它们得逞——灭了它们！
+}
+
+STRING 2846
+{
+摧毁船坞
+}
+
+STRING 2847
+{
+洗劫都城
+}
+
+STRING 2848
+{
+洛丹伦都城就在你的面前。你所做的一切就是为了这一刻。把握你的命运，在部落的编年史上赢得一席之地。烧杀抢掠！屠戮所有挡在你面前的人！
+}
+
+STRING 2849
+{
+摧毁兵营
+}
+
+STRING 2850
+{
+摧毁法师塔
+}
+
+STRING 2851
+{
+摧毁狮鹫巢
+}
+
+STRING 2852
+{
+摧毁马厩
+}
+
+STRING 2853
+{
+摧毁议政厅
+}
+
+STRING 2854
+{
+摧毁要塞
+}
+
+STRING 2855
+{
+摧毁城堡
+}
+
+STRING 2856
+{
+|cffffcc00主要任务|r
+芬里斯岛
+  - 占领芬里斯岛
+  - 奥格瑞姆必须存活
+
+}
+
+STRING 2857
+{
+|cffffcc00主要任务完成|r
+芬里斯岛
+
+}
+
+STRING 2858
+{
+黄金万两
+}
+
+STRING 2859
+{
+掠夺都城的金库。
+}
+
+STRING 2860
+{
+掠夺金库
+}
+
+STRING 2861
+{
+|cffffcc00主要任务|r
+洛丹伦港
+  - 摧毁船坞
+  - 摧毁精炼厂
+  - 摧毁铸造厂
+
+}
+
+STRING 2862
+{
+|cffffcc00主要任务|r
+洗劫都城
+  - 摧毁兵营
+  - 摧毁法师塔
+  - 摧毁狮鹫巢
+  - 摧毁马厩
+  - 摧毁议政厅
+  - 摧毁要塞
+  - 摧毁城堡
+  - 摧毁教堂
+}
+
+STRING 2863
+{
+|cffffcc00可选任务|r
+黄金万两
+  - 掠夺金库
+
+}
+
+STRING 2864
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Stone Bench
+}
+
+STRING 2865
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Wooden Bench
+}
+
+STRING 2866
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Weapon Rack New
+}
+
+STRING 2867
+// Destructibles: B00G (Wooden Floor), Name (Name)
+{
+Wooden Floor
+}
+
+STRING 2868
+// Destructibles: B00H (Fence), Name (Name)
+{
+栅栏
+}
+
+STRING 2869
+// Destructibles: B00I (Fence), Name (Name)
+{
+栅栏
+}
+
+STRING 2870
+// Destructibles: B00J (Fence short), Name (Name)
+{
+短栅栏
+}
+
+STRING 2871
+// Destructibles: B00K (Fence short), Name (Name)
+{
+短栅栏
+}
+
+STRING 2872
+// Units: n004 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2873
+// Units: n006 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2874
+// Units: n007 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2875
+// Units: n008 (City clock tower), Name (Name)
+{
+城市钟楼
+}
+
+STRING 2876
+// Units: n008 (City clock tower), Tip (Tooltip - Basic)
+{
+建造城市钟楼
+}
+
+STRING 2877
+// Units: n009 (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Brill)
+}
+
+STRING 2878
+// Units: n009 (City clock tower), Name (Name)
+{
+城市钟楼
+}
+
+STRING 2879
+// Units: n009 (City clock tower), Tip (Tooltip - Basic)
+{
+建造城市钟楼
+}
+
+STRING 2880
+// Units: n00A (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Andorhal)
+}
+
+STRING 2881
+// Units: n00A (City clock tower), Name (Name)
+{
+城市钟楼
+}
+
+STRING 2882
+// Units: n00A (City clock tower), Tip (Tooltip - Basic)
+{
+建造城市钟楼
+}
+
+STRING 2883
+// Units: n00B (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Stranbrad)
+}
+
+STRING 2884
+// Units: n00B (City clock tower), Name (Name)
+{
+城市钟楼
+}
+
+STRING 2885
+// Units: n00B (City clock tower), Tip (Tooltip - Basic)
+{
+建造城市钟楼
+}
+
+STRING 2887
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+建造酒馆
+}
+
+STRING 2888
+// Units: n00D (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2889
+// Units: n00E (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2890
+// Units: n00F (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2891
+// Units: n00G (Inn), Name (Name)
+{
+旅店
+}
+
+STRING 2892
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+建造旅店
+}
+
+STRING 2893
+// Units: h003 (Granary), Name (Name)
+{
+谷仓
+}
+
+STRING 2894
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+建造谷仓
+}
+
+STRING 2895
+// Units: h004 (Windmill), Name (Name)
+{
+风车
+}
+
+STRING 2896
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+建造风车
+}
+
+STRING 2897
+// Units: n00H (Barn), Name (Name)
+{
+畜棚
+}
+
+STRING 2898
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+建造畜棚
+}
+
+STRING 2899
+// Destructibles: B00L (Chapel), Name (Name)
+{
+教堂
+}
+
+STRING 2901
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+粮食补给
+}
+
+STRING 2902
+// Units: n00I (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2903
+// Units: n00J (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2904
+{
+黑石氏族
+}
+
+STRING 2909
+// Destructibles: B00O (Pillows), Name (Name)
+{
+Pillows
+}
+
+STRING 2910
+// Destructibles: B00P (Carpets), Name (Name)
+{
+Carpets
+}
+
+STRING 2911
+// Doodads: D002 (Sign Shadis Lounge), Name (Name)
+{
+Sign Shadis Lounge
+}
+
+STRING 2912
+// Doodads: D003 (Guitar), Name (Name)
+{
+Guitar
+}
+
+STRING 2913
+// Doodads: D004 (Hookah), Name (Name)
+{
+Hookah
+}
+
+STRING 2918
+{
+黑齿狞笑氏族
+}
+
+STRING 2919
+{
+龙喉氏族
+}
+
+STRING 2928
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Cinematic Head Pointer
+}
+
+STRING 2954
+{
+摧毁铸造厂
+}
+
+STRING 2955
+{
+摧毁精炼厂
+}
+
+STRING 2957
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+索拉丁雕像
+}
+
+STRING 2958
+// Units: n00M (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 2959
+// Units: n00M (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2960
+// Units: n00N (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 2961
+// Units: n00N (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2962
+// Units: n00O (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 2963
+// Units: n00O (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2964
+// Units: n00P (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 2965
+// Units: n00P (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2966
+// Units: n00Q (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2967
+// Units: n00R (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 2968
+// Units: n00R (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2969
+// Units: n00S (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 2970
+// Units: n00S (Lordaeron City Building), Name (Name)
+{
+洛丹伦城市建筑
+}
+
+STRING 2971
+{
+|cffffcc00可选任务完成|r
+黄金万两
+
+}
+
+STRING 2972
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+Sewer Hatch
+}
+
+STRING 2973
+// Doodads: D006 (Cargo), Name (Name)
+{
+Cargo
+}
+
+STRING 2974
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Gunny Bag
+}
+
+STRING 2983
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2984
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2985
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 2988
+{
+|cffffff00启用作弊码！|r
+}
+
+STRING 3016
+{
+部落
+}
+
+STRING 3027
+// Units: h006 (Lordaeron Guard Tower), Name (Name)
+{
+洛丹伦警戒塔
+}
+
+STRING 3028
+// Units: h007 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+警戒塔 (|cffffcc00G|r)
+}
+
+STRING 3030
+// Units: h007 (Lordaeron Guard Tower), Name (Name)
+{
+洛丹伦警戒塔
+}
+
+STRING 3033
+// Units: h007 (Lordaeron Guard Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Fat)
+}
+
+STRING 3058
+{
+|cffffcc00主要任务更新|r
+洛丹伦港
+  -|cffc0c0c0 摧毁船坞 (完成)|r
+
+}
+
+STRING 3059
+{
+|cffffcc00主要任务更新|r
+洛丹伦港
+  -|cffc0c0c0 摧毁船坞 (完成)|r
+
+}
+
+STRING 3060
+{
+|cffffcc00主要任务更新|r
+洛丹伦港
+  -|cffc0c0c0 摧毁精炼厂 (完成)|r
+
+}
+
+STRING 3061
+{
+|cffffcc00主要任务更新|r
+洛丹伦港
+  -|cffc0c0c0 摧毁铸造厂 (完成)|r
+
+}
+
+STRING 3064
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁兵营 (完成)|r
+}
+
+STRING 3065
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁法师塔 (完成)|r
+}
+
+STRING 3068
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁马厩 (完成)|r
+}
+
+STRING 3069
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁议政厅 (完成)|r
+}
+
+STRING 3070
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁要塞 (完成)|r
+}
+
+STRING 3071
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁城堡 (完成)|r
+}
+
+STRING 3073
+// Units: n00U (Lordaeron Woman), Name (Name)
+{
+洛丹伦妇女
+}
+
+STRING 3074
+// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 3075
+// Units: n00V (Lordaeron Woman), Name (Name)
+{
+洛丹伦妇女
+}
+
+STRING 3076
+// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 3077
+// Units: n00W (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 3078
+// Units: n00X (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 3079
+// Units: n02K (Orc Pirate), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 3080
+// Units: n00Y (Eagle), Name (Name)
+{
+鹰
+}
+
+STRING 3081
+// Units: n00Z (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3082
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3083
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3084
+// Units: n010 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3085
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3086
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3087
+// Units: n011 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3088
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3089
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3090
+// Units: n012 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3091
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3092
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3093
+// Units: n013 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3094
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3095
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3096
+// Units: n014 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3097
+// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3098
+// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 3099
+// Units: n015 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3100
+// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3101
+// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 3102
+// Units: n016 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3103
+// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3104
+// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 3105
+// Units: n017 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3106
+// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3107
+// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 3108
+// Units: n018 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3109
+// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3110
+// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 3111
+// Units: n019 (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3112
+// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3113
+// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 3114
+// Units: n01A (Lordaeron Woman), Name (Name)
+{
+洛丹伦女性
+}
+
+STRING 3115
+// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 3116
+// Units: n01B (Lordaeron Woman), Name (Name)
+{
+洛丹伦女性
+}
+
+STRING 3117
+// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 3118
+// Units: n01C (Lordaeron Woman), Name (Name)
+{
+洛丹伦女性
+}
+
+STRING 3119
+// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 5)
+}
+
+STRING 3120
+// Units: n01D (Lordaeron Woman), Name (Name)
+{
+洛丹伦女性
+}
+
+STRING 3121
+// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 6)
+}
+
+STRING 3122
+// Units: n01E (Lordaeron Woman), Name (Name)
+{
+洛丹伦女性
+}
+
+STRING 3123
+// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 7)
+}
+
+STRING 3124
+// Units: n01F (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 3125
+// Units: n01G (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 3126
+// Units: n01H (Old Citizen), Name (Name)
+{
+老市民
+}
+
+STRING 3127
+// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3128
+// Units: n01I (Old Citizen), Name (Name)
+{
+老市民
+}
+
+STRING 3129
+// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3130
+// Units: n01J (Old Citizen), Name (Name)
+{
+老市民
+}
+
+STRING 3131
+// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3132
+// Units: n01K (Old Citizen), Name (Name)
+{
+老市民
+}
+
+STRING 3133
+// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3134
+// Units: n01L (Old Citizen), Name (Name)
+{
+老市民
+}
+
+STRING 3135
+// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3136
+// Units: n01M (Citizen), Name (Name)
+{
+市民
+}
+
+STRING 3137
+// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+{
+就是个普通市民。|n|n|cffffcc00能攻击地面单位。|r
+}
+
+STRING 3138
+// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 3141
+{
+民兵
+}
+
+STRING 3142
+{
+我们要为洛丹伦而战！拿起武器！
+}
+
+STRING 3183
+{
+铁炉堡特使
+}
+
+STRING 3200
+// Units: n01O (Cinematic Raven), Name (Name)
+{
+Cinematic Raven
+}
+
+STRING 3201
+// Doodads: D008 (Guldans Head), Name (Name)
+{
+Guldans Head
+}
+
+STRING 3202
+{
+奥格瑞姆必须存活
+}
+
+STRING 3203
+{
+|cffffcc00主要任务失败|r
+芬里斯岛
+  - 占领芬里斯岛
+  -|cffff0000 奥格瑞姆必须存活 (失败)|r
+
+}
+
+STRING 3204
+{
+|cffffcc00任务失败|r
+}
+
+STRING 3211
+{
+肯瑞托
+}
+
+STRING 3214
+// Destructibles: XTbd (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3215
+// Destructibles: B00S (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3217
+// Destructibles: B00T (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3218
+// Destructibles: B00T (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 3219
+// Destructibles: B00U (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3220
+// Destructibles: B00U (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(4)
+}
+
+STRING 3221
+// Destructibles: B00V (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3222
+// Destructibles: B00V (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(5)
+}
+
+STRING 3223
+// Destructibles: B00W (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3224
+// Destructibles: B00W (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(6)
+}
+
+STRING 3225
+// Destructibles: B00X (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3226
+// Destructibles: B00X (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(7)
+}
+
+STRING 3227
+// Destructibles: B00Y (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3228
+// Destructibles: B00Y (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(8)
+}
+
+STRING 3229
+// Destructibles: B010 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3231
+// Destructibles: B011 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3232
+// Destructibles: B010 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(10)
+}
+
+STRING 3233
+// Destructibles: B012 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3234
+// Destructibles: B011 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(11)
+}
+
+STRING 3235
+// Destructibles: B013 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3236
+// Destructibles: B012 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(12)
+}
+
+STRING 3237
+// Destructibles: B014 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3238
+// Destructibles: B013 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(13)
+}
+
+STRING 3239
+// Destructibles: B015 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3240
+// Destructibles: B014 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(14)
+}
+
+STRING 3241
+// Destructibles: B016 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3242
+// Destructibles: B015 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(15)
+}
+
+STRING 3243
+// Destructibles: B017 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3244
+// Destructibles: B016 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(16)
+}
+
+STRING 3245
+// Destructibles: B018 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3246
+// Destructibles: B017 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(17)
+}
+
+STRING 3247
+// Destructibles: B019 (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3248
+// Destructibles: B018 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(18)
+}
+
+STRING 3249
+// Destructibles: B01A (Dalaran Building), Name (Name)
+{
+达拉然建筑
+}
+
+STRING 3250
+// Destructibles: B019 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(19)
+}
+
+STRING 3251
+{
+达拉然国
+}
+
+STRING 3253
+// Destructibles: B01A (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(20)
+}
+
+STRING 3254
+// Doodads: D009 (DivineShield), Name (Name)
+{
+DivineShield
+}
+
+STRING 3255
+// Units: h61P (Violet Citadel), Name (Name)
+{
+紫罗兰城堡
+}
+
+STRING 3256
+// Units: h61P (Violet Citadel), Tip (Tooltip - Basic)
+{
+建造紫罗兰城堡
+}
+
+STRING 3257
+// Units: n01P (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3258
+// Units: n01Q (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 3259
+// Units: n01Q (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3260
+// Units: n01R (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 3261
+// Units: n01R (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3262
+// Units: n01S (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 3263
+// Units: n01S (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3264
+// Units: n01T (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 3265
+// Units: n01T (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3266
+// Units: n01U (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 3267
+// Units: n01U (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3268
+// Units: n01V (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 3269
+// Units: n01V (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3270
+// Units: n01W (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+7
+}
+
+STRING 3271
+// Units: n01W (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3272
+// Units: n01X (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+8
+}
+
+STRING 3273
+// Units: n01X (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3274
+// Units: n01Y (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+9
+}
+
+STRING 3275
+// Units: n01Y (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3276
+// Units: n01Z (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+10
+}
+
+STRING 3277
+// Units: n01Z (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3278
+// Units: n020 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+11
+}
+
+STRING 3279
+// Units: n020 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3280
+// Units: n021 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+12
+}
+
+STRING 3281
+// Units: n021 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3282
+// Units: n022 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+13
+}
+
+STRING 3283
+// Units: n022 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3284
+// Units: n023 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+14
+}
+
+STRING 3285
+// Units: n023 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3286
+// Units: n024 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+15
+}
+
+STRING 3287
+// Units: n024 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3288
+// Units: n025 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+16
+}
+
+STRING 3289
+// Units: n025 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3290
+// Units: n026 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+17
+}
+
+STRING 3291
+// Units: n026 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3292
+// Units: n027 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+18
+}
+
+STRING 3293
+// Units: n027 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3294
+// Units: n028 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+19
+}
+
+STRING 3295
+// Units: n028 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3296
+// Units: n029 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+20
+}
+
+STRING 3297
+// Units: n029 (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3298
+// Units: n02A (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+21
+}
+
+STRING 3299
+// Units: n02A (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3300
+// Units: n02B (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+22
+}
+
+STRING 3301
+// Units: n02B (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3302
+// Units: n02C (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+23
+}
+
+STRING 3303
+// Units: n02C (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3304
+// Units: n02D (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+24
+}
+
+STRING 3305
+// Units: n02D (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3306
+// Units: n02E (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+25
+}
+
+STRING 3307
+// Units: n02E (Dalaran City Building), Name (Name)
+{
+达拉然城市建筑
+}
+
+STRING 3308
+{
+死亡骑士团
+}
+
+STRING 3309
+// Units: h009 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(Dalaran)
+}
+
+STRING 3310
+// Units: h00A (Dalaran Guard), Name (Name)
+{
+达拉然守卫
+}
+
+STRING 3312
+// Doodads: D00A (Log Doodad), Name (Name)
+{
+Log Doodad
+}
+
+STRING 3313
+// Units: H00B (The Wholoomancer), Name (Name)
+{
+牧羊人
+}
+
+STRING 3314
+// Doodads: D00B (Antonidas Statue), Name (Name)
+{
+安东尼达斯雕像
+}
+
+STRING 3319
+// Units: e001 (Mana Stone), Name (Name)
+{
+法力石
+}
+
+STRING 3320
+// Units: e001 (Mana Stone), Tip (Tooltip - Basic)
+{
+建造法力石
+}
+
+STRING 3325
+// Units: n02G (Zuluhed), Name (Name)
+{
+祖鲁希德
+}
+
+STRING 3394
+{
+十字岛
+}
+
+STRING 3395
+{
+十字岛上的紫罗兰城堡是达拉然国的港口，守护着魔法之城的大门。杀死镇守此地的大法师并洗劫城堡，以此开辟出通往达拉然的道路！
+}
+
+STRING 3396
+{
+摧毁奥术了望台(0/3)
+}
+
+STRING 3397
+{
+杀死大法师
+}
+
+STRING 3398
+{
+摧毁紫罗兰城堡
+}
+
+STRING 3399
+{
+雷德必须存活
+}
+
+STRING 3400
+{
+麦姆必须存活
+}
+
+STRING 3401
+{
+祖鲁希德必须存活
+}
+
+STRING 3402
+{
+|cffffcc00主要任务|r
+十字岛
+  - 摧毁奥术了望台
+  - 杀死大法师
+  - 摧毁紫罗兰城堡
+  - 雷德必须存活
+  - 麦姆必须存活
+  - 祖鲁希德必须存活
+
+}
+
+STRING 3403
+{
+|cffffcc00主要任务完成|r
+十字岛
+}
+
+STRING 3404
+{
+|cffffcc00主要任务更新|r
+十字岛
+  -|cffc0c0c0 摧毁奥术了望台 (完成)|r
+  - 杀死大法师
+  - 摧毁紫罗兰城堡
+  - 雷德必须存活
+  - 麦姆必须存活
+  - 祖鲁希德必须存活
+
+}
+
+STRING 3405
+{
+|cffffcc00主要任务更新|r
+十字岛
+  -|cffc0c0c0 摧毁奥术了望台 (完成)|r
+  -|cffc0c0c0 杀死大法师 (完成)|r
+  - 摧毁紫罗兰城堡
+  - 雷德必须存活
+  - 麦姆必须存活
+  - 祖鲁希德必须存活
+
+}
+
+STRING 3407
+{
+摧毁奥术了望台(1/3)
+}
+
+STRING 3408
+{
+摧毁奥术了望台(2/3)
+}
+
+STRING 3409
+{
+摧毁奥术了望台(3/3)
+}
+
+STRING 3410
+{
+摧毁奥术了望台(3/3)
+}
+
+STRING 3411
+{
+摧毁奥术了望台(2/3)
+}
+
+STRING 3412
+{
+摧毁奥术了望台(1/3)
+}
+
+STRING 3413
+{
+摧毁奥术了望台(3/3)
+}
+
+STRING 3414
+{
+摧毁奥术了望台(2/3)
+}
+
+STRING 3415
+{
+摧毁奥术了望台(1/3)
+}
+
+STRING 3416
+{
+奥术了望台
+}
+
+STRING 3417
+{
+已摧毁
+}
+
+STRING 3420
+// Doodads: D00D (Bone Bridge), Name (Name)
+{
+Bone Bridge
+}
+
+STRING 3421
+// Destructibles: B01D (Dalaran Stairs), Name (Name)
+{
+Dalaran Stairs
+}
+
+STRING 3426
+// Units: Hamg (Archmage), Propernames (Proper Names)
+{
+诺兰
+}
+
+STRING 3448
+// Units: H00B (The Wholoomancer), Propernames (Proper Names)
+{
+肖尔卡
+}
+
+STRING 3449
+// Units: o001 (Juggernaught), Name (Name)
+{
+主宰舰
+}
+
+STRING 3450
+// Units: o001 (Juggernaught), EditorSuffix (Name - Editor Suffix)
+{
+(CInematic)
+}
+
+STRING 3452
+// Units: n02H (Maim), Name (Name)
+{
+麦姆
+}
+
+STRING 3453
+// Units: n02J (Utok), Name (Name)
+{
+乌托克
+}
+
+STRING 3454
+// Units: n02L (Blacktoothgrin Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 3455
+// Units: n02M (Korkron Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 3456
+// Units: n02N (Dragonmaw Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 3457
+// Units: n02O (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 3460
+// Units: n02L (Blacktoothgrin Grunt), Name (Name)
+{
+黑齿狞笑步兵
+}
+
+STRING 3461
+// Units: n02M (Korkron Grunt), Name (Name)
+{
+库卡隆步兵
+}
+
+STRING 3462
+// Units: n02N (Dragonmaw Grunt), Name (Name)
+{
+龙喉步兵
+}
+
+STRING 3463
+// Units: n02P (Doomhammer), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 3464
+// Units: n02O (Blackrock Grunt), Name (Name)
+{
+黑石步兵
+}
+
+STRING 3506
+{
+|cffffcc00主要任务失败|r
+十字岛
+  -|cffff0000 雷德必须存活 (失败)|r
+
+}
+
+STRING 3507
+{
+|cffffcc00主要任务失败|r
+十字岛
+  -|cffff0000 麦姆必须存活 (失败)|r
+}
+
+STRING 3508
+{
+|cffffcc00主要任务失败|r
+十字岛
+  -|cffff0000 祖鲁希德必须存活 (失败)|r
+
+}
+
+STRING 3658
+// Units: n02P (Doomhammer), Name (Name)
+{
+毁灭之锤
+}
+
+STRING 3720
+{
+|cff00ff00提示|r
+祖鲁希德无法在十字岛上使用“野性纵跃”。
+}
+
+STRING 3751
+// Doodads: D64K (Wallpaper), Name (Name)
+{
+Wallpaper
+}
+
+STRING 3752
+{
+|cffffcc00新单位可用|r
+巨龙 - 是龙喉氏族提供的终极武器。 你可以在巨龙栖地中训练红龙并为它们研究升级。
+}
+
+STRING 3753
+{
+摧毁教堂
+}
+
+STRING 3754
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁教堂 (完成)|r
+}
+
+STRING 3755
+{
+|cffffcc00主要任务更新|r
+洗劫都城
+  -|cffc0c0c0 摧毁狮鹫巢 (完成)|r
+}
+
+STRING 3756
+{
+|cffffcc00主要任务完成|r
+洗劫都城
+}
+
+STRING 3757
+{
+|cffffcc00主要任务完成|r
+洛丹伦港
+
+}
+
+STRING 3758
+// Units: uCDX (Dummy), Name (Name)
+{
+假人
+}
+
+STRING 3759
+// Units: uCDX (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Projectile shooter)
+}
+
+STRING 3760
+{
+洛丹伦市民
+}
+
+STRING 3761
+// Items: I0LA (WC2Orc14Orgrim1), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3762
+// Items: I0LA (WC2Orc14Orgrim1), Description (Description)
+{
+好。我们得占领芬里斯岛，在金矿附近建立基地。完成后，就可以对都城展开进攻了。
+}
+
+STRING 3763
+// Items: I0LA (WC2Orc14Orgrim1), Name (Name)
+{
+WC2Orc14Orgrim1
+}
+
+STRING 3764
+// Items: I0LB (WC2Orc14Orgrim2), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3765
+// Items: I0LB (WC2Orc14Orgrim2), Description (Description)
+{
+龙喉和黑齿狞笑的船……我的复仇者们终于回来了。
+}
+
+STRING 3766
+// Items: I0LB (WC2Orc14Orgrim2), Name (Name)
+{
+WC2Orc14Orgrim2
+}
+
+STRING 3767
+// Items: I0LC (WC2Orc14Orgrim3), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3768
+// Items: I0LC (WC2Orc14Orgrim3), Description (Description)
+{
+立刻汇报……
+}
+
+STRING 3769
+// Items: I0LC (WC2Orc14Orgrim3), Name (Name)
+{
+WC2Orc14Orgrim3
+}
+
+STRING 3770
+// Items: I0LD (WC2Orc14Orgrim4), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3771
+// Items: I0LD (WC2Orc14Orgrim4), Description (Description)
+{
+很好……我愚蠢的仁慈终于得到了纠正。任何胆敢反对我统治的人，都会是这个下场！
+}
+
+STRING 3772
+// Items: I0LD (WC2Orc14Orgrim4), Name (Name)
+{
+WC2Orc14Orgrim4
+}
+
+STRING 3773
+// Items: I0LE (WC2Orc14Orgrim5), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3774
+// Items: I0LE (WC2Orc14Orgrim5), Description (Description)
+{
+他们都是些靠不住的叛徒……但你说得对，雷德。虽然我不想承认，但大军的力量正在急速衰落。无论如何，部落的未来在此一举。让那些食人魔充当前锋……他们要用鲜血偿还自己的罪孽。至于其他人——先交给死亡骑士看管，我随后再做决断。
+}
+
+STRING 3775
+// Items: I0LE (WC2Orc14Orgrim5), Name (Name)
+{
+WC2Orc14Orgrim5
+}
+
+STRING 3776
+// Items: I0LF (WC2Orc14Orgrim6), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3777
+// Items: I0LF (WC2Orc14Orgrim6), Description (Description)
+{
+塔隆·血魔被南方的达拉然围城战缠住了。我想让你率军前去支援。雷德和麦姆也会协助你。
+}
+
+STRING 3778
+// Items: I0LF (WC2Orc14Orgrim6), Name (Name)
+{
+WC2Orc14Orgrim6
+}
+
+STRING 3779
+// Items: I0LG (WC2Orc14Orgrim7), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3781
+// Items: I0LG (WC2Orc14Orgrim7), Name (Name)
+{
+WC2Orc14Orgrim7
+}
+
+STRING 3782
+// Items: I0LH (WC2Orc14Orgrim8), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3783
+// Items: I0LH (WC2Orc14Orgrim8), Description (Description)
+{
+是啊！人类最后的堡垒就要在今日葬身龙焰。出发吧！
+}
+
+STRING 3784
+// Items: I0LH (WC2Orc14Orgrim8), Name (Name)
+{
+WC2Orc14Orgrim8
+}
+
+STRING 3785
+// Items: I0LI (WC2Orc14Orgrim9), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3786
+// Items: I0LI (WC2Orc14Orgrim9), Description (Description)
+{
+乌托克！你留在我身边。我要你记下洛丹伦城墙被部落勇士攻陷的光荣时刻！我们要在今天……了结一切！上吧，部落的儿女们！鲜血与荣耀等待着我们！
+}
+
+STRING 3787
+// Items: I0LI (WC2Orc14Orgrim9), Name (Name)
+{
+WC2Orc14Orgrim9
+}
+
+STRING 3788
+// Items: I0LJ (WC2Orc14Orgrim10), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3789
+// Items: I0LJ (WC2Orc14Orgrim10), Description (Description)
+{
+我们得消灭洛丹伦舰队的可悲残余。摧毁港口，把我们的攻城武器和地面部队部署过去，准备进攻。
+}
+
+STRING 3790
+// Items: I0LJ (WC2Orc14Orgrim10), Name (Name)
+{
+WC2Orc14Orgrim10
+}
+
+STRING 3791
+// Items: I0LK (WC2Orc14Orgrim11), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3792
+// Items: I0LK (WC2Orc14Orgrim11), Description (Description)
+{
+已经离得够远了，弩箭和城防奈何不了我们了……上吧，强大的部落！荣耀和财富在城里等待着你们！把它们撕成碎片，我的勇士们，夺回属于你们的东西吧！
+}
+
+STRING 3793
+// Items: I0LK (WC2Orc14Orgrim11), Name (Name)
+{
+WC2Orc14Orgrim11
+}
+
+STRING 3794
+// Items: I0LL (WC2Orc14Orgrim12), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3795
+// Items: I0LL (WC2Orc14Orgrim12), Description (Description)
+{
+远方，洛丹伦都城雪白的城墙清晰可辨。狂妄自大的联盟军队妄图在弥留之际拼死一搏。嘹亮的军号将提振我们的士气，冲垮它们的意志。我们必将实现自己的天命！黑暗之潮降临了！
+}
+
+STRING 3796
+// Items: I0LL (WC2Orc14Orgrim12), Name (Name)
+{
+WC2Orc14Orgrim12
+}
+
+STRING 3797
+// Items: I0LM (WC2Orc14Orgrim13), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3798
+// Items: I0LM (WC2Orc14Orgrim13), Description (Description)
+{
+太棒了，我们现在就出发！
+}
+
+STRING 3799
+// Items: I0LM (WC2Orc14Orgrim13), Name (Name)
+{
+WC2Orc14Orgrim13
+}
+
+STRING 3800
+// Items: I0LN (WC2Orc14Orgrim14), Tip (Tooltip - Basic)
+{
+奥格瑞姆·毁灭之锤
+}
+
+STRING 3801
+// Items: I0LN (WC2Orc14Orgrim14), Description (Description)
+{
+不出我所料！
+}
+
+STRING 3802
+// Items: I0LN (WC2Orc14Orgrim14), Name (Name)
+{
+WC2Orc14Orgrim14
+}
+
+STRING 3803
+// Items: I0LO (WC2Orc14Rend1), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3805
+// Items: I0LO (WC2Orc14Rend1), Name (Name)
+{
+WC2Orc14Rend1
+}
+
+STRING 3806
+// Items: I0LP (WC2Orc14Rend2), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3807
+// Items: I0LP (WC2Orc14Rend2), Description (Description)
+{
+古尔丹的背叛令部落损失巨大……考虑到这一点，我们决定把他们交给您处置，而不是当场处死。
+}
+
+STRING 3808
+// Items: I0LP (WC2Orc14Rend2), Name (Name)
+{
+WC2Orc14Rend2
+}
+
+STRING 3809
+// Items: I0LQ (WC2Orc14Rend3), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3810
+// Items: I0LQ (WC2Orc14Rend3), Description (Description)
+{
+难道我们不能在进攻都城时大展身手吗？
+}
+
+STRING 3811
+// Items: I0LQ (WC2Orc14Rend3), Name (Name)
+{
+WC2Orc14Rend3
+}
+
+STRING 3812
+// Items: I0LR (WC2Orc14Rend4), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3813
+// Items: I0LR (WC2Orc14Rend4), Description (Description)
+{
+然后，我们就能直取城堡了！ 
+}
+
+STRING 3814
+// Items: I0LR (WC2Orc14Rend4), Name (Name)
+{
+WC2Orc14Rend4
+}
+
+STRING 3815
+// Items: I0LS (WC2Orc14Rend5), Tip (Tooltip - Basic)
+{
+雷德·黑手
+}
+
+STRING 3816
+// Items: I0LS (WC2Orc14Rend5), Description (Description)
+{
+那是什么？
+}
+
+STRING 3817
+// Items: I0LS (WC2Orc14Rend5), Name (Name)
+{
+WC2Orc14Rend5
+}
+
+STRING 3818
+// Items: I0LT (WC2Orc14Maim1), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3819
+// Items: I0LT (WC2Orc14Maim1), Description (Description)
+{
+没错，大酋长。我们摧毁了他们的舰队，干掉他们的领袖后，这群懦夫立马就投降了。
+}
+
+STRING 3820
+// Items: I0LT (WC2Orc14Maim1), Name (Name)
+{
+WC2Orc14Maim1
+}
+
+STRING 3821
+// Items: I0LU (WC2Orc14Maim2), Tip (Tooltip - Basic)
+{
+麦姆·黑手
+}
+
+STRING 3822
+// Items: I0LU (WC2Orc14Maim2), Description (Description)
+{
+我很乐意亲手把他剁成肉酱！
+}
+
+STRING 3823
+// Items: I0LU (WC2Orc14Maim2), Name (Name)
+{
+WC2Orc14Maim2
+}
+
+STRING 3824
+// Items: I0LV (WC2Orc14Utok1), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3825
+// Items: I0LV (WC2Orc14Utok1), Description (Description)
+{
+进攻都城的路子不止一条，先用飞艇侦察海岸吧。
+}
+
+STRING 3826
+// Items: I0LV (WC2Orc14Utok1), Name (Name)
+{
+WC2Orc14Utok1
+}
+
+STRING 3827
+// Items: I0LW (WC2Orc14Utok2), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3828
+// Items: I0LW (WC2Orc14Utok2), Description (Description)
+{
+大酋长，城墙上有重兵把守，精灵弓箭手和弩炮干掉了我们许多战士！
+}
+
+STRING 3829
+// Items: I0LW (WC2Orc14Utok2), Name (Name)
+{
+WC2Orc14Utok2
+}
+
+STRING 3830
+// Items: I0LX (WC2Orc14Utok3), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3831
+// Items: I0LX (WC2Orc14Utok3), Description (Description)
+{
+有什么绝佳的策略能支援他吗？
+}
+
+STRING 3832
+// Items: I0LX (WC2Orc14Utok3), Name (Name)
+{
+WC2Orc14Utok3
+}
+
+STRING 3833
+// Items: I0LY (WC2Orc14Utok4), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3834
+// Items: I0LY (WC2Orc14Utok4), Description (Description)
+{
+我们得善用兵力。还有数不尽的战舰和防御塔保卫着这座小岛。
+}
+
+STRING 3835
+// Items: I0LY (WC2Orc14Utok4), Name (Name)
+{
+WC2Orc14Utok4
+}
+
+STRING 3836
+// Items: I0LZ (WC2Orc14Utok5), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3837
+// Items: I0LZ (WC2Orc14Utok5), Description (Description)
+{
+我会向大酋长汇报这里取得的大捷。
+}
+
+STRING 3838
+// Items: I0LZ (WC2Orc14Utok5), Name (Name)
+{
+WC2Orc14Utok5
+}
+
+STRING 3839
+// Items: I0La (WC2Orc14Utok6), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3840
+// Items: I0La (WC2Orc14Utok6), Description (Description)
+{
+别太狂了，“萨贝克队长”，大酋长不会容忍违抗上级的士兵，你现在得听我指挥！
+}
+
+STRING 3841
+// Items: I0La (WC2Orc14Utok6), Name (Name)
+{
+WC2Orc14Utok6
+}
+
+STRING 3842
+// Items: I0Lb (WC2Orc14Utok7), Tip (Tooltip - Basic)
+{
+刻划者乌托克
+}
+
+STRING 3843
+// Items: I0Lb (WC2Orc14Utok7), Description (Description)
+{
+大酋长！十字岛已经在部落的铁蹄下沦陷了！
+}
+
+STRING 3844
+// Items: I0Lb (WC2Orc14Utok7), Name (Name)
+{
+WC2Orc14Utok7
+}
+
+STRING 3845
+// Items: I0Lc (WC2Orc14Tharbek1), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3846
+// Items: I0Lc (WC2Orc14Tharbek1), Description (Description)
+{
+大酋长，突击队听候差遣。
+}
+
+STRING 3847
+// Items: I0Lc (WC2Orc14Tharbek1), Name (Name)
+{
+WC2Orc14Tharbek1
+}
+
+STRING 3848
+// Items: I0Ld (WC2Orc14Tharbek2), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3849
+// Items: I0Ld (WC2Orc14Tharbek2), Description (Description)
+{
+动作快，你们这些懒惰的蛀虫！围城战黎明时分就会打响……如果到时候还没准备好，大酋长就会扒了你们的皮！
+}
+
+STRING 3850
+// Items: I0Ld (WC2Orc14Tharbek2), Name (Name)
+{
+WC2Orc14Tharbek2
+}
+
+STRING 3851
+// Items: I0Le (WC2Orc14Tharbek3), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3852
+// Items: I0Le (WC2Orc14Tharbek3), Description (Description)
+{
+大酋长，营帐粮草均已完备，随时可以进攻！
+}
+
+STRING 3853
+// Items: I0Le (WC2Orc14Tharbek3), Name (Name)
+{
+WC2Orc14Tharbek3
+}
+
+STRING 3854
+// Items: I0Lf (WC2Orc14Tharbek4), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3855
+// Items: I0Lf (WC2Orc14Tharbek4), Description (Description)
+{
+今天，我们要一决胜负，让大酋长看看谁更强……刻划者。
+}
+
+STRING 3856
+// Items: I0Lf (WC2Orc14Tharbek4), Name (Name)
+{
+WC2Orc14Tharbek4
+}
+
+STRING 3857
+// Items: I0Lg (WC2Orc14Tharbek5), Tip (Tooltip - Basic)
+{
+萨贝克
+}
+
+STRING 3858
+// Items: I0Lg (WC2Orc14Tharbek5), Description (Description)
+{
+走着瞧吧，“指挥官乌托克”，走着瞧……
+}
+
+STRING 3859
+// Items: I0Lg (WC2Orc14Tharbek5), Name (Name)
+{
+WC2Orc14Tharbek5
+}
+
+STRING 3860
+// Items: I0Lh (WC2Orc14Zuluhed1), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3861
+// Items: I0Lh (WC2Orc14Zuluhed1), Description (Description)
+{
+向你致敬，大酋长。我们虽然折损了许多优秀的战士，但您的意志已经得到执行。
+}
+
+STRING 3862
+// Items: I0Lh (WC2Orc14Zuluhed1), Name (Name)
+{
+WC2Orc14Zuluhed1
+}
+
+STRING 3863
+// Items: I0Li (WC2Orc14Zuluhed2), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3864
+// Items: I0Li (WC2Orc14Zuluhed2), Description (Description)
+{
+我们的下一个目标是什么，大酋长？
+}
+
+STRING 3865
+// Items: I0Li (WC2Orc14Zuluhed2), Name (Name)
+{
+WC2Orc14Zuluhed2
+}
+
+STRING 3866
+// Items: I0Lj (WC2Orc14Zuluhed3), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3867
+// Items: I0Lj (WC2Orc14Zuluhed3), Description (Description)
+{
+幸好我们保留了最强大的武器——巨龙，为的就是这一刻！龙喉的孵化室刚刚产下了新的一批！
+}
+
+STRING 3868
+// Items: I0Lj (WC2Orc14Zuluhed3), Name (Name)
+{
+WC2Orc14Zuluhed3
+}
+
+STRING 3869
+// Items: I0Lk (WC2Orc14Zuluhed4), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3870
+// Items: I0Lk (WC2Orc14Zuluhed4), Description (Description)
+{
+我望见十字岛了——达拉然的防御中心。塔隆·血魔已展开进攻，但推进的很慢。
+}
+
+STRING 3871
+// Items: I0Lk (WC2Orc14Zuluhed4), Name (Name)
+{
+WC2Orc14Zuluhed4
+}
+
+STRING 3872
+// Items: I0Ll (WC2Orc14Zuluhed5), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3873
+// Items: I0Ll (WC2Orc14Zuluhed5), Description (Description)
+{
+岛屿的心脏——紫罗兰城堡，被三座奥术了望塔生成的魔法屏障保护着。如果能摧毁它们，肯瑞托的守卫就会失去防护。
+}
+
+STRING 3874
+// Items: I0Ll (WC2Orc14Zuluhed5), Name (Name)
+{
+WC2Orc14Zuluhed5
+}
+
+STRING 3875
+// Items: I0Lm (WC2Orc14Zuluhed6), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3876
+// Items: I0Lm (WC2Orc14Zuluhed6), Description (Description)
+{
+城堡被大法师施加了防护咒语，我们首先要干掉他。
+}
+
+STRING 3877
+// Items: I0Lm (WC2Orc14Zuluhed6), Name (Name)
+{
+WC2Orc14Zuluhed6
+}
+
+STRING 3878
+// Items: I0Ln (WC2Orc14Zuluhed7), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3879
+// Items: I0Ln (WC2Orc14Zuluhed7), Description (Description)
+{
+巨龙能烧光它们的防御力量，并为我们清理出一片登陆点。
+}
+
+STRING 3880
+// Items: I0Ln (WC2Orc14Zuluhed7), Name (Name)
+{
+WC2Orc14Zuluhed7
+}
+
+STRING 3881
+// Items: I0Lo (WC2Orc14Zuluhed8), Tip (Tooltip - Basic)
+{
+祖鲁希德
+}
+
+STRING 3882
+// Items: I0Lo (WC2Orc14Zuluhed8), Description (Description)
+{
+人类……
+}
+
+STRING 3883
+// Items: I0Lo (WC2Orc14Zuluhed8), Name (Name)
+{
+WC2Orc14Zuluhed8
+}
+
+STRING 3884
+// Items: I0Lp (WC2Orc14Gorefiend1), Tip (Tooltip - Basic)
+{
+塔隆·血魔
+}
+
+STRING 3885
+// Items: I0Lp (WC2Orc14Gorefiend1), Description (Description)
+{
+你可爱的魔法把戏阻止不了我们，法师。
+}
+
+STRING 3886
+// Items: I0Lp (WC2Orc14Gorefiend1), Name (Name)
+{
+WC2Orc14Gorefiend1
+}
+
+STRING 3887
+// Items: I0Lq (WC2Orc14Gorefiend2), Tip (Tooltip - Basic)
+{
+塔隆·血魔
+}
+
+STRING 3888
+// Items: I0Lq (WC2Orc14Gorefiend2), Description (Description)
+{
+好。龙喉和黑齿狞笑的增援来得正是时候。我们会向南进发，准备围攻这座城市。
+}
+
+STRING 3889
+// Items: I0Lq (WC2Orc14Gorefiend2), Name (Name)
+{
+WC2Orc14Gorefiend2
+}
+
+STRING 3890
+// Items: I0Lr (WC2Orc14Archmage01), Tip (Tooltip - Basic)
+{
+大法师
+}
+
+STRING 3891
+// Items: I0Lr (WC2Orc14Archmage01), Description (Description)
+{
+你不得通过，扭曲的亡灵怪物！
+}
+
+STRING 3892
+// Items: I0Lr (WC2Orc14Archmage01), Name (Name)
+{
+WC2Orc14Archmage01
+}
+
+STRING 3893
+// Items: I0Ls (WC2Orc14Retera1), Tip (Tooltip - Basic)
+{
+牧羊人雷特拉
+}
+
+STRING 3894
+// Items: I0Ls (WC2Orc14Retera1), Description (Description)
+{
+谢谢你把我从这座监狱里救了出来，陌生人。肯瑞托一点也不尊重像我这样才华横溢的巫师。
+}
+
+STRING 3895
+// Items: I0Ls (WC2Orc14Retera1), Name (Name)
+{
+WC2Orc14Retera1
+}
+
+STRING 3896
+// Items: I0Lt (WC2Orc14Retera2), Tip (Tooltip - Basic)
+{
+牧羊人雷特拉
+}
+
+STRING 3897
+// Items: I0Lt (WC2Orc14Retera2), Description (Description)
+{
+他们觉得我的实验太过大胆，才对我施以惩罚。不管了，我对这儿已经厌烦了，你们都给我见鬼去吧！
+}
+
+STRING 3898
+// Items: I0Lt (WC2Orc14Retera2), Name (Name)
+{
+WC2Orc14Retera2
+}
+
+STRING 3899
+// Items: I0Lu (WC2Orc14Uther1), Tip (Tooltip - Basic)
+{
+乌瑟尔
+}
+
+STRING 3900
+// Items: I0Lu (WC2Orc14Uther1), Description (Description)
+{
+你在那里会很安全的，孩子，别怕……圣光会保护你，你的母亲和兄弟姐妹也都在下面。你的职责就是照顾好她们。现在去吧！
+}
+
+STRING 3901
+// Items: I0Lu (WC2Orc14Uther1), Name (Name)
+{
+WC2Orc14Uther1
+}
+
+STRING 3902
+// Items: I0Lv (WC2Orc14Uther2), Tip (Tooltip - Basic)
+{
+乌瑟尔
+}
+
+STRING 3903
+// Items: I0Lv (WC2Orc14Uther2), Description (Description)
+{
+很好，命令弓箭手在城墙上布防，洛丹伦绝不会在今天沦陷！
+}
+
+STRING 3904
+// Items: I0Lv (WC2Orc14Uther2), Name (Name)
+{
+WC2Orc14Uther2
+}
+
+STRING 3905
+// Items: I0Lw (WC2Orc14Uther3), Tip (Tooltip - Basic)
+{
+乌瑟尔
+}
+
+STRING 3906
+// Items: I0Lw (WC2Orc14Uther3), Description (Description)
+{
+恶魔的狂信徒，圣光会净化你们！
+}
+
+STRING 3907
+// Items: I0Lw (WC2Orc14Uther3), Name (Name)
+{
+WC2Orc14Uther3
+}
+
+STRING 3908
+// Items: I0Lx (WC2Orc14Uther4), Tip (Tooltip - Basic)
+{
+乌瑟尔
+}
+
+STRING 3909
+// Items: I0Lx (WC2Orc14Uther4), Description (Description)
+{
+男人们！不惜一切保卫城市！
+}
+
+STRING 3910
+// Items: I0Lx (WC2Orc14Uther4), Name (Name)
+{
+WC2Orc14Uther4
+}
+
+STRING 3911
+// Items: I0Lz (WC2Orc14Uther5), Tip (Tooltip - Basic)
+{
+乌瑟尔
+}
+
+STRING 3912
+// Items: I0Lz (WC2Orc14Uther5), Description (Description)
+{
+你们不得踏入这座城市半步！
+}
+
+STRING 3913
+// Items: I0Lz (WC2Orc14Uther5), Name (Name)
+{
+WC2Orc14Uther5
+}
+
+STRING 3914
+// Items: I1LA (MuradinTaunt2), Tip (Tooltip - Basic)
+{
+穆拉丁·铜须
+}
+
+STRING 3915
+// Items: I1LA (MuradinTaunt2), Description (Description)
+{
+我见过的侏儒都比你厉害！
+}
+
+STRING 3916
+// Items: I1LA (MuradinTaunt2), Name (Name)
+{
+MuradinTaunt2
+}
+
+STRING 3917
+// Items: I1LB (MuradinTaunt1), Tip (Tooltip - Basic)
+{
+穆拉丁·铜须
+}
+
+STRING 3918
+// Items: I1LB (MuradinTaunt1), Description (Description)
+{
+你不会就这点儿能耐吧？！
+}
+
+STRING 3919
+// Items: I1LB (MuradinTaunt1), Name (Name)
+{
+MuradinTaunt1
+}
+
+STRING 3920
+// Items: I1LC (MuradinWarcry1), Tip (Tooltip - Basic)
+{
+穆拉丁·铜须
+}
+
+STRING 3922
+// Items: I1LC (MuradinWarcry1), Name (Name)
+{
+MuradinWarcry1
+}
+
+STRING 3923
+// Items: I1LD (MuradinYesAttack1), Tip (Tooltip - Basic)
+{
+穆拉丁·铜须
+}
+
+STRING 3924
+// Items: I1LD (MuradinYesAttack1), Description (Description)
+{
+为了卡兹莫丹！
+}
+
+STRING 3925
+// Items: I1LD (MuradinYesAttack1), Name (Name)
+{
+MuradinYesAttack1
+}
+
+STRING 3926
+// Items: ITLE (MuradinYesAttack2), Tip (Tooltip - Basic)
+{
+穆拉丁·铜须
+}
+
+STRING 3927
+// Items: ITLE (MuradinYesAttack2), Description (Description)
+{
+为了铜须！
+}
+
+STRING 3928
+// Items: ITLE (MuradinYesAttack2), Name (Name)
+{
+MuradinYesAttack2
+}
+
+STRING 3929
+// Items: I1LF (MuradinYesAttack3), Tip (Tooltip - Basic)
+{
+穆拉丁·铜须
+}
+
+STRING 3930
+// Items: I1LF (MuradinYesAttack3), Description (Description)
+{
+尝尝这招，你这混蛋！
+}
+
+STRING 3931
+// Items: I1LF (MuradinYesAttack3), Name (Name)
+{
+MuradinYesAttack3
+}
+
+STRING 3932
+// Items: I1LG (WC2Orc14Captain1), Tip (Tooltip - Basic)
+{
+队长
+}
+
+STRING 3933
+// Items: I1LG (WC2Orc14Captain1), Description (Description)
+{
+乌瑟尔大人！我们堵住了所有大门，弩炮也已上弦。
+}
+
+STRING 3934
+// Items: I1LG (WC2Orc14Captain1), Name (Name)
+{
+WC2Orc14Captain1
+}
+
+STRING 3935
+// Items: I1LH (WC2Orc14ChildTimmy1), Tip (Tooltip - Basic)
+{
+提米
+}
+
+STRING 3936
+// Items: I1LH (WC2Orc14ChildTimmy1), Description (Description)
+{
+我不想去地下墓穴，那里好可怕……
+}
+
+STRING 3937
+// Items: I1LH (WC2Orc14ChildTimmy1), Name (Name)
+{
+WC2Orc14ChildTimmy1
+}
+
+STRING 3938
+// Items: I1LI (GoblinSapperYes3), Tip (Tooltip - Basic)
+{
+地精工兵
+}
+
+STRING 3939
+// Items: I1LI (GoblinSapperYes3), Description (Description)
+{
+我简直帅到爆炸！
+}
+
+STRING 3940
+// Items: I1LI (GoblinSapperYes3), Name (Name)
+{
+GoblinSapperYes3
+}
+
+STRING 3941
+// Upgrades: R00O (Burning Oil), EditorSuffix (Editor Suffix)
+{
+(WC2) (Broken)
+}
+
+STRING 3942
+// Units: nwzr (Wizard), Name (Name)
+{
+巫师
+}
+
+STRING 3943
+// Units: nwzg (Senior Wizard), Name (Name)
+{
+高阶巫师
+}
+
+STRING 3944
+// Units: nwzd (Dalaran Wizard), Name (Name)
+{
+达拉然巫师
+}
+
+STRING 3945
+// Items: I0LG (WC2Orc14Orgrim7), Description (Description)
+{
+不，雷德。达拉然的紫罗兰城堡是肯瑞托的圣地。一旦洛丹伦沦陷，达拉然就将成为部落征服人类的最后一道壁垒，极其危险。
+}
+
+STRING 3946
+// Items: I1LC (MuradinWarcry1), Description (Description)
+{
+啤酒和胡子，鲜血与雷鸣！
+}
+
+STRING 3947
+// Items: I0LO (WC2Orc14Rend1), Description (Description)
+{
+大酋长，我们还抓住了一些暮光之锤和暴掠的幸存者。他们正哭着求您原谅呢。
+}
+
+STRING 3948
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3949
+{
+|cffffcc00关闭作弊码！|r
+}
+
+STRING 3950
+{
+|cffffcc00启用作弊码！|r
+}
+
+STRING 3951
+{
+|cffffcc00关闭作弊码！|r
+}
+
+STRING 3952
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), EditorSuffix (Editor Suffix)
+{
+(Cross Island)
+}
+
+STRING 3953
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+已摧毁了望台
+}
+
+STRING 3954
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+已摧毁了望台
+}
+
+STRING 3955
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+由于达拉然巫师施放的防护法术，祖鲁希德无法使用他的野性纵跃技能。
+}
+
+STRING 3956
+// Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
+{
+可疑的渡鸦
+}
+
+STRING 3957
+// Items: IQL0 (Bonecrusher), Description (Description)
+{
+蛮兵
+}
+
+STRING 3958
+// Items: IQL0 (Bonecrusher), Name (Name)
+{
+碾骨者
+}
+
+STRING 3959
+// Items: IQL0 (Bonecrusher), Ubertip (Tooltip - Extended)
+{
+多莉
+}
+

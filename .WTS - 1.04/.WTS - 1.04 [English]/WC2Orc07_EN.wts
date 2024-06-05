@@ -1,0 +1,4070 @@
+﻿STRING 1
+{
+WC2Orc07
+}
+
+STRING 3
+{
+The Fall of Stromgarde
+}
+
+STRING 23
+{
+Transport
+}
+
+STRING 58
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 135
+{
+LoreCraftDesigns
+}
+
+STRING 138
+{
+Citizens of Stromgarde
+}
+
+STRING 139
+{
+Alliance
+}
+
+STRING 140
+{
+Horde
+}
+
+STRING 200
+// Units: e601 (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 221
+// Units: n600 (Snake), Name (Name)
+{
+Snake
+}
+
+STRING 222
+// Units: n600 (Snake), Tip (Tooltip - Basic)
+{
+Snake
+}
+
+STRING 235
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 269
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 270
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 309
+// Units: e002 (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 319
+// Units: o006 (Destroyer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 324
+// Units: h605 (Kings Guard), Name (Name)
+{
+Kings Guard
+}
+
+STRING 325
+// Units: h61Q (Scout Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 334
+// Units: h00F (Cannon Worker), EditorSuffix (Name - Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 376
+// Units: o006 (Destroyer), Tip (Tooltip - Basic)
+{
+Build Destroyer
+}
+
+STRING 557
+// Units: H62E (King of Stromgarde), Revivetip (Tooltip - Revive)
+{
+Revive King
+}
+
+STRING 558
+// Units: H62E (King of Stromgarde), Awakentip (Tooltip - Awaken)
+{
+Revive King
+}
+
+STRING 567
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 568
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 585
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 597
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 598
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 607
+// Units: h620 (Tent), Name (Name)
+{
+Tent
+}
+
+STRING 608
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tent
+}
+
+STRING 609
+// Units: h621 (Tent), Name (Name)
+{
+Tent
+}
+
+STRING 610
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tent
+}
+
+STRING 611
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 621
+// Units: n627 (Wild horse), Name (Name)
+{
+Wild horse
+}
+
+STRING 626
+// Units: h627 (Cleric), Name (Name)
+{
+Cleric
+}
+
+STRING 639
+// Units: H62E (King of Stromgarde), Name (Name)
+{
+King of Stromgarde
+}
+
+STRING 651
+// Units: n62A (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 652
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+Shark
+}
+
+STRING 653
+// Units: n62B (Purple Shark), Name (Name)
+{
+Purple Shark
+}
+
+STRING 654
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+Shark
+}
+
+STRING 666
+// Units: h60F (Human Cannon), Name (Name)
+{
+Human Cannon
+}
+
+STRING 681
+// Units: n60Y (Raven), Name (Name)
+{
+Raven
+}
+
+STRING 690
+// Units: n60Z (Spiders), Name (Name)
+{
+Spiders
+}
+
+STRING 691
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Spiders
+}
+
+STRING 696
+// Units: e60F (Hay Cart), Name (Name)
+{
+Hay Cart
+}
+
+STRING 788
+// Units: h618 (Pack Ram), Name (Name)
+{
+Pack Ram
+}
+
+STRING 789
+// Units: n61O (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 790
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gray)
+}
+
+STRING 791
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 792
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 793
+// Units: n61P (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 794
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Black)
+}
+
+STRING 795
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 796
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 797
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 798
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Brown)
+}
+
+STRING 799
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 800
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 845
+// Units: n00C (Tavern), Name (Name)
+{
+Tavern
+}
+
+STRING 977
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1002
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1003
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1005
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1007
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Garrison Gate
+}
+
+STRING 1008
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(no Path)
+}
+
+STRING 1011
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1013
+// Destructibles: B60J (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 1015
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Castle Tower
+}
+
+STRING 1017
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Stone Wall
+}
+
+STRING 1019
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 1021
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1026
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1027
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1028
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1029
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1030
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1040
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Old Tomb
+}
+
+STRING 1042
+// Destructibles: B62T (Egg), Name (Name)
+{
+Egg
+}
+
+STRING 1045
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1046
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Marble Floor
+}
+
+STRING 1047
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1048
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1051
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1053
+// Destructibles: B01W (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1054
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1064
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 1070
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1071
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 1072
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 1073
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 1075
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 1076
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1080
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1085
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1086
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1091
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1092
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1093
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1094
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1095
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1096
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1097
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1098
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1099
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1100
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1101
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1102
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1103
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1104
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1105
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1106
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1107
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1108
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1109
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1110
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1111
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1112
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1113
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1114
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Castle Archway
+}
+
+STRING 1115
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Castle Wall Stairs
+}
+
+STRING 1116
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Knight Statue
+}
+
+STRING 1117
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1118
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1119
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1120
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1133
+// Destructibles: B004 (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1134
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1135
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1136
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1137
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1152
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1156
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1161
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1164
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1166
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1174
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1177
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1190
+// Doodads: D69S (Door), Name (Name)
+{
+Door
+}
+
+STRING 1201
+// Doodads: D6AE (Light), Name (Name)
+{
+Light
+}
+
+STRING 1202
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1203
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1231
+// Destructibles: B00M (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1236
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1238
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1239
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1243
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1244
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1245
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1246
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1247
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1248
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1250
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+StromGarde Banner
+}
+
+STRING 1285
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1286
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1291
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1306
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Orc Long Banner
+}
+
+STRING 1307
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 1313
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1321
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1322
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1323
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1324
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1326
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1327
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1335
+// Doodads: D60G (Strategy Map), Name (Name)
+{
+Strategy Map
+}
+
+STRING 1344
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1536
+// Abilities: A61Y (Warrior Rage), EditorSuffix (Editor Suffix)
+{
+(Warrior)
+}
+
+STRING 1537
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 1|r]
+}
+
+STRING 1538
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 2|r]
+}
+
+STRING 1539
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 3|r]
+}
+
+STRING 1540
+// Abilities: A61Y (Warrior Rage), Researchtip (Tooltip - Learn)
+{
+Learn «Warrior Rage» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 1541
+// Abilities: A61Y (Warrior Rage), Name (Name)
+{
+Warrior Rage
+}
+
+STRING 2555
+// Units: nvlw (Citizen), Ubertip (Tooltip - Extended)
+{
+Local girl.
+}
+
+STRING 2585
+// Units: n004 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2586
+// Units: n006 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2587
+// Units: n007 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2588
+// Units: n008 (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2589
+// Units: n008 (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2590
+// Units: n009 (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Brill)
+}
+
+STRING 2591
+// Units: n009 (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2592
+// Units: n009 (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2593
+// Units: n00A (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Andorhal)
+}
+
+STRING 2594
+// Units: n00A (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2595
+// Units: n00A (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2596
+// Units: n00B (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Stranbrad)
+}
+
+STRING 2597
+// Units: n00B (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2598
+// Units: n00B (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2600
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+Build Tavern
+}
+
+STRING 2601
+// Units: n00D (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2602
+// Units: n00E (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2603
+// Units: n00F (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2604
+// Units: n00G (Inn), Name (Name)
+{
+Inn
+}
+
+STRING 2605
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+Build Inn
+}
+
+STRING 2606
+// Units: h003 (Granary), Name (Name)
+{
+Granary
+}
+
+STRING 2607
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+Build Granary
+}
+
+STRING 2608
+// Units: h004 (Windmill), Name (Name)
+{
+Windmill
+}
+
+STRING 2609
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+Build Wimdmill
+}
+
+STRING 2610
+// Units: n00H (Barn), Name (Name)
+{
+Barn
+}
+
+STRING 2611
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+Build Barn
+}
+
+STRING 2612
+// Units: n00I (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2613
+// Units: n00J (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2615
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Cinematic Head Pointer
+}
+
+STRING 2640
+// Units: n00U (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2641
+// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 2642
+// Units: n00V (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2643
+// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 2644
+// Units: n00W (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 2645
+// Units: n00X (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 2646
+// Units: n00Y (Eagle), Name (Name)
+{
+Eagle
+}
+
+STRING 2647
+// Units: nvlw (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2648
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2649
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 2650
+// Units: nvil (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2651
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2652
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 2653
+// Units: nvl2 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2654
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2655
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 2656
+// Units: n00Z (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2657
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2658
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 2659
+// Units: n010 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2660
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2661
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 2662
+// Units: n011 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2663
+// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2664
+// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 2665
+// Units: n012 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2666
+// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2667
+// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 2668
+// Units: n013 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2669
+// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2670
+// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 2671
+// Units: n014 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2672
+// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2673
+// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 2674
+// Units: n015 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2675
+// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2676
+// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 2677
+// Units: n016 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2678
+// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2679
+// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 2680
+// Units: n01A (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2681
+// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 2682
+// Units: n01B (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2683
+// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 2684
+// Units: n01C (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2685
+// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 5)
+}
+
+STRING 2686
+// Units: n01D (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2687
+// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 6)
+}
+
+STRING 2688
+// Units: n01E (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 2689
+// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 7)
+}
+
+STRING 2690
+// Units: n01F (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 2691
+// Units: n01G (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 2692
+// Units: n01H (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 2693
+// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 2694
+// Units: n01I (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 2695
+// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 2696
+// Units: n01J (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 2697
+// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 2698
+// Units: n01K (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 2699
+// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 2700
+// Units: n01L (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 2701
+// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 2702
+// Units: n017 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 2703
+// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2704
+// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 2826
+// Units: h00C (Visibility Controller), Name (Name)
+{
+Visibility Controller
+}
+
+STRING 2836
+// Destructibles: BTtw (Swamp Tree Wall), Name (Name)
+{
+Swamp Tree Wall
+}
+
+STRING 2837
+// Destructibles: BTtc (Swamp Canopy Tree), Name (Name)
+{
+Swamp Canopy Tree
+}
+
+STRING 2838
+// Destructibles: NTiw (Wetlands Tree Wall), Name (Name)
+{
+Wetlands Tree Wall
+}
+
+STRING 2839
+// Destructibles: B60J (Vines), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 2842
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+Thoradin Statue
+}
+
+STRING 2857
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Stone Bench
+}
+
+STRING 2858
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Wooden Bench
+}
+
+STRING 2859
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Weapon Rack New
+}
+
+STRING 2861
+// Destructibles: B00H (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 2862
+// Destructibles: B00I (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 2863
+// Destructibles: B00J (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 2864
+// Destructibles: B00K (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 2865
+// Destructibles: B00L (Chapel), Name (Name)
+{
+Chapel
+}
+
+STRING 2866
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+Food Supplies
+}
+
+STRING 2869
+// Destructibles: B00R (Vine Trap), Name (Name)
+{
+Vine Trap
+}
+
+STRING 2876
+// Destructibles: B00X (SummerCliffSmall Angled), Name (Name)
+{
+SummerCliffSmall Angled
+}
+
+STRING 2877
+// Destructibles: B00Y (SummerCliff Angled), Name (Name)
+{
+SummerCliff Angled
+}
+
+STRING 2878
+// Destructibles: B00Z (Orc Fences), Name (Name)
+{
+Orc Fences
+}
+
+STRING 2879
+// Destructibles: B011 (Orc Spikes), Name (Name)
+{
+Orc Spikes
+}
+
+STRING 2880
+// Destructibles: B012 (Dwarven Stairs), Name (Name)
+{
+Dwarven Stairs
+}
+
+STRING 2884
+// Destructibles: B016 (Stump Hollow Big), Name (Name)
+{
+Stump Hollow Big
+}
+
+STRING 2885
+// Destructibles: B017 (Scarab Crator), Name (Name)
+{
+Scarab Crator
+}
+
+STRING 2886
+// Destructibles: B019 (Spike Trap), Name (Name)
+{
+Spike Trap
+}
+
+STRING 2905
+// Destructibles: B01J (Concrete Floor), Name (Name)
+{
+Concrete Floor
+}
+
+STRING 2910
+// Destructibles: B01N (CliffBaseDarkA), Name (Name)
+{
+CliffBaseDarkA
+}
+
+STRING 2911
+// Destructibles: B01O (CliffBaseDarkB), Name (Name)
+{
+CliffBaseDarkB
+}
+
+STRING 2912
+// Destructibles: B01P (CliffBaseDarkC), Name (Name)
+{
+CliffBaseDarkC
+}
+
+STRING 2913
+// Destructibles: B01Q (CliffBaseDarkD), Name (Name)
+{
+CliffBaseDarkD
+}
+
+STRING 2922
+// Destructibles: B01V (Cannon bed), Name (Name)
+{
+Cannon bed
+}
+
+STRING 2924
+// Destructibles: B01W (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Yellow)
+}
+
+STRING 2925
+// Destructibles: B01X (Wooden Floor Tol Barad), Name (Name)
+{
+Wooden Floor Tol Barad
+}
+
+STRING 2926
+// Destructibles: B01Y (Pier Tol Barad), Name (Name)
+{
+Pier Tol Barad
+}
+
+STRING 2927
+// Destructibles: B01Z (Cannon Shells), Name (Name)
+{
+Cannon Shells
+}
+
+STRING 2928
+// Doodads: ZCv2 (Vines Cliffside (2)), Name (Name)
+{
+Vines Cliffside (2)
+}
+
+STRING 2938
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+Sewer Hatch
+}
+
+STRING 2939
+// Doodads: D006 (Cargo), Name (Name)
+{
+Cargo
+}
+
+STRING 2940
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Gunny Bag
+}
+
+STRING 2949
+// Doodads: D00G (Dragonfly swarm), Name (Name)
+{
+Dragonfly swarm
+}
+
+STRING 2980
+// Doodads: D01B (Mine Cart Destroyed), Name (Name)
+{
+Mine Cart Destroyed
+}
+
+STRING 2981
+// Doodads: D01C (Mine Cart Angled), Name (Name)
+{
+Mine Cart Angled
+}
+
+STRING 2982
+// Doodads: D01D (- Waterfall Mini), Name (Name)
+{
+- Waterfall Mini
+}
+
+STRING 2983
+// Doodads: D01F (Wetlands Grass 01), Name (Name)
+{
+Wetlands Grass 01
+}
+
+STRING 2984
+// Doodads: D01G (Wetlands Grass 02), Name (Name)
+{
+Wetlands Grass 02
+}
+
+STRING 2985
+// Doodads: D01H (Log Pathless), Name (Name)
+{
+Log Pathless
+}
+
+STRING 2986
+// Doodads: D01I (Black Glow), Name (Name)
+{
+Black Glow
+}
+
+STRING 2990
+// Doodads: D01M (Brick Doodad), Name (Name)
+{
+Brick Doodad
+}
+
+STRING 2992
+// Doodads: D01O (Shadow), Name (Name)
+{
+Shadow
+}
+
+STRING 2995
+// Doodads: D01R (Shadow Angled), Name (Name)
+{
+Shadow Angled
+}
+
+STRING 2996
+// Doodads: D01S (Dripping Water 2), Name (Name)
+{
+Dripping Water 2
+}
+
+STRING 2999
+// Doodads: D01U (Banner Long Baradin), Name (Name)
+{
+Banner Long Baradin
+}
+
+STRING 3000
+// Doodads: D01V (Lordaeron Rock Spires Yellow), Name (Name)
+{
+Lordaeron Rock Spires Yellow
+}
+
+STRING 3001
+// Doodads: D01W (Rock Archway No Path Yellow), Name (Name)
+{
+Rock Archway No Path Yellow
+}
+
+STRING 3003
+// Doodads: D01Y (-ZL-Pier), Name (Name)
+{
+-ZL-Pier
+}
+
+STRING 3272
+// Units: H00E (Liam Trollbane), Awakentip (Tooltip - Awaken)
+{
+Revive Duke
+}
+
+STRING 3273
+// Units: H00E (Liam Trollbane), Revivetip (Tooltip - Revive)
+{
+Revive Duke
+}
+
+STRING 3300
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 3301
+{
+Unable to use Oil Rig.
+}
+
+STRING 3302
+{
+That Oil Patch has already being used.
+}
+
+STRING 3303
+{
+Must build Oil Rig first.
+}
+
+STRING 3304
+{
+Must target an Oil Patch.
+}
+
+STRING 3305
+{
+Must build upon Oil Patch.
+}
+
+STRING 3306
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 3307
+{
+Unholy
+}
+
+STRING 3308
+{
+Blackrock Clan
+}
+
+STRING 3309
+{
+Nation of Stromgarde
+}
+
+STRING 3310
+{
+Blacktoothgrin Clan
+}
+
+STRING 3311
+{
+Cinematic Dummy
+}
+
+STRING 3312
+{
+Neutral
+}
+
+STRING 3313
+// Destructibles: B61C (Stromgarde Banner), Name (Name)
+{
+Stromgarde Banner
+}
+
+STRING 3314
+// Destructibles: B61C (Stromgarde Banner), EditorSuffix (Editor Suffix)
+{
+(Destructable)
+}
+
+STRING 3315
+// Doodads: D647 (Vines Doodad), Name (Name)
+{
+Vines Doodad
+}
+
+STRING 3316
+// Doodads: D64K (Distant Land), Name (Name)
+{
+Distant Land
+}
+
+STRING 3317
+// Destructibles: B000 (Castle Wall Cannon), Name (Name)
+{
+Castle Wall Cannon
+}
+
+STRING 3318
+// Destructibles: B001 (Castle Wall Pillar), Name (Name)
+{
+Castle Wall Pillar
+}
+
+STRING 3319
+// Doodads: D001 (Waterfall Of Piss), Name (Name)
+{
+Waterfall Of Piss
+}
+
+STRING 3320
+// Units: n032 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 1
+}
+
+STRING 3321
+// Units: n032 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3322
+// Units: n033 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 2
+}
+
+STRING 3323
+// Units: n033 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3324
+// Units: n034 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 3
+}
+
+STRING 3325
+// Units: n034 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3326
+// Units: n035 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 4
+}
+
+STRING 3328
+// Units: n036 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 5
+}
+
+STRING 3330
+// Doodads: D008 (Wall Fountain Yellow), Name (Name)
+{
+Wall Fountain Yellow
+}
+
+STRING 3331
+// Units: n037 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 6
+}
+
+STRING 3333
+// Units: n038 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 7
+}
+
+STRING 3335
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3336
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3337
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3338
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3339
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3340
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3341
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3342
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3343
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3344
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3345
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3346
+{
+|cffffcc00Haul more Oil.|r
+}
+
+STRING 3347
+// Doodads: D009 (Banner Long Stromgarde), Name (Name)
+{
+Banner Long Stromgarde
+}
+
+STRING 3348
+// Destructibles: B002 (Castle Wall Pillar Small), Name (Name)
+{
+Castle Wall Pillar Small
+}
+
+STRING 3349
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3350
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3351
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3352
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3353
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3354
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3355
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3358
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3359
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 3504
+// Units: H00E (Liam Trollbane), Name (Name)
+{
+Liam Trollbane
+}
+
+STRING 3508
+// Units: H00E (Liam Trollbane), Propernames (Proper Names)
+{
+Liam Trollbane
+}
+
+STRING 3542
+// Units: H62E (King of Stromgarde), Propernames (Proper Names)
+{
+Thoras Trollbane
+}
+
+STRING 3590
+{
+|cff8080ffNEW HEROES|r
+You control Orgrim Doomhammer, the mighty Warcheif of the Horde and the strongest Orcish warrior there is.
+}
+
+STRING 3607
+{
+|cffffcc00MAIN QUEST FAILED|r
+Foothold
+- |cffff0000Prepare foothold before warchief arrives (Failed)|r
+
+}
+
+STRING 3610
+{
+|cffffcc00MISSION FAILED|r
+}
+
+STRING 3628
+// Units: h00G (Cannon Wall), Name (Name)
+{
+Cannon Wall
+}
+
+STRING 3630
+// Units: h00H (Cannon Wall), Name (Name)
+{
+Cannon Wall
+}
+
+STRING 3632
+// Units: h00G (Cannon Wall), EditorSuffix (Name - Editor Suffix)
+{
+(height 20)
+}
+
+STRING 3634
+// Units: h00H (Cannon Wall), EditorSuffix (Name - Editor Suffix)
+{
+(height 100, attack Z -300)
+}
+
+STRING 3635
+{
+Stromgarde Defenders
+}
+
+STRING 3661
+// Units: o006 (Destroyer), Name (Name)
+{
+Destroyer
+}
+
+STRING 3663
+// Units: o006 (Destroyer), Ubertip (Tooltip - Extended)
+{
+The Destroyers are swift, ill-visaged longboats designed to cut through enemy armadas and deal damage to enemy vessels and their flying support. |n|n|cffffcc00Attacks land and air units.|r |n|n|cffffcc00Requires|r 700 |cffffcc00Oil|r.
+}
+
+STRING 3693
+// Units: o007 (Cinematic ship), Name (Name)
+{
+Cinematic ship
+}
+
+STRING 3704
+// Units: h00F (Cannon Worker), Name (Name)
+{
+Cannon Worker
+}
+
+STRING 3786
+// Destructibles: B003 (Pathing UnBlocker (Ground Large)), Name (Name)
+{
+Pathing UnBlocker (Ground Large)
+}
+
+STRING 3791
+// Units: n018 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3792
+// Units: n019 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3793
+// Units: n01M (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3794
+// Units: e002 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(WallPositioned)
+}
+
+STRING 3797
+// Doodads: DRWS (Rack Weapon Spear), Name (Name)
+{
+Rack Weapon Spear
+}
+
+STRING 3798
+{
+Preparations
+}
+
+STRING 3799
+{
+Your transport ships have been captured by Stromgarde troops. Free them, so that we may secure a gold mine and begin our assault on Stromgarde itself.
+}
+
+STRING 3800
+{
+Recapture the Orc Transports
+}
+
+STRING 3801
+{
+Maim must survive
+}
+
+STRING 3802
+{
+At least one Toiler must survive
+}
+
+STRING 3803
+{
+|cffffcc00MAIN QUEST|r
+Preparations
+  - Recapture the Orc Transports
+  - Capture the Gold Mine
+  - Maim must survive
+  - At least one Toiler must survive
+}
+
+STRING 3804
+{
+|cffffcc00MAIN QUEST UPDATE|r
+Preparations
+  -|cff808080 Recapture the Transport Ships (Completed)|r
+  - Capture the Gold Mine
+  - Maim must survive
+  - At least one Toiler must survive
+}
+
+STRING 3812
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Preparations
+}
+
+STRING 3813
+{
+Naval Superiority
+}
+
+STRING 3814
+{
+In order to suppress the Stromgardian navy, you will need to destroy their oil production facilities.
+}
+
+STRING 3815
+{
+Destroy the Oil Rigs
+}
+
+STRING 3816
+{
+Destroy the Shipyards
+}
+
+STRING 3817
+{
+Destroy the Refineries
+}
+
+STRING 3818
+{
+Destroy the Foundries
+}
+
+STRING 3832
+{
+Stromgarde
+}
+
+STRING 3833
+{
+Only Stromgarde stands between us and the northlands. This foolish kingdom has been a thorn in our side for far too long… grind its wall into dust and flood the streets with the blood of its slaughtered people…
+}
+
+STRING 3834
+{
+Destroy the Barracks
+}
+
+STRING 3835
+{
+Destroy the Stables
+}
+
+STRING 3836
+{
+Destroy the Port Tower
+}
+
+STRING 3837
+{
+Destroy the Town Hall
+}
+
+STRING 3838
+{
+Destroy Stromgarde Keep
+}
+
+STRING 3840
+{
+|cffffcc00MAIN QUEST|r
+Stromgarde
+  - Destroy the Barracks
+  - Destroy the Stables
+  - Destroy the Port Tower
+  - Destroy the Town Hall
+  - Destroy Stromgarde Keep
+}
+
+STRING 3846
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Stromgarde
+}
+
+STRING 3848
+{
+|cffffcc00TECHTREE UNLOCKED|r
+Ogres. These mighty two-headed giants were trained by Cho'gall himself. Can be trained in the |cffffcc00Ogre Mound|r. 
+}
+
+STRING 3849
+{
+Trollbane
+}
+
+STRING 3850
+{
+You must kill the leader of Stromgarde Nation to break their morale.
+}
+
+STRING 3851
+{
+Kill Liam Trollbane
+}
+
+STRING 3853
+{
+|cffffcc00MAIN QUEST|r
+Trollbane
+  - Kill Liam Trollbane
+}
+
+STRING 3854
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Trollbane
+}
+
+STRING 3855
+{
+Foothold
+}
+
+STRING 3856
+{
+To prepare your camp for the Warchief’s arrival, you must first establish a foothold on the nearby island.
+}
+
+STRING 3857
+{
+Prepare base before the Warchief arrives
+}
+
+STRING 3859
+{
+Build a Barracks
+}
+
+STRING 3860
+{
+Build a War Mill
+}
+
+STRING 3861
+{
+Build a Blacksmith
+}
+
+STRING 3862
+{
+Build a Goblin Alchemist
+}
+
+STRING 3863
+{
+Build a Shipyard
+}
+
+STRING 3864
+{
+Build a Refinery
+}
+
+STRING 3865
+{
+Build a Foundry
+}
+
+STRING 3867
+{
+Prepare base:
+}
+
+STRING 3877
+{
+|cffffcc00MAIN QUEST|r
+Foothold
+  - Prepare base before the Warchief arrives
+  - Build a Barracks
+  - Build a War Mill
+  - Build a Blacksmith
+  - Build a Goblin Lab
+  - Build a Shipyard
+  - Build a Refinery
+  - Build a Foundry
+}
+
+STRING 3878
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Foothold
+}
+
+STRING 3880
+{
+Warchief arrives in:
+}
+
+STRING 3882
+{
+Barracks
+}
+
+STRING 3886
+{
+Blacksmith
+}
+
+STRING 3887
+{
+War Mill
+}
+
+STRING 3889
+{
+Goblin Alchemist
+}
+
+STRING 3891
+{
+Shipyard
+}
+
+STRING 3893
+{
+Refinery
+}
+
+STRING 3895
+{
+Foundry
+}
+
+STRING 3897
+{
+|cffffcc00OPTIONAL QUEST COMPLETED|r
+Naval Superiority
+}
+
+STRING 3898
+{
+|cffff0000WARNING|r
+You must build your base before Warchief arrives. Check the timer in the top right corner of the screen.
+}
+
+STRING 3899
+{
+|cffff0000WARNING|r
+One minute left before Warchief's arrival.
+}
+
+STRING 3904
+{
+|cff32cd32HINT|r
+Castle Walls with grates are |cffd47832destructible|r.
+Your catapults can target walls of the castle with right mouse click.
+}
+
+STRING 3905
+{
+|cffffcc00TECH-TREE ALTERATION|r
+Orc Ranged Armory. In the Warmill you can find new upgrades for orcish spearthrowers. 
+}
+
+STRING 3907
+{
+|cffffcc00MAIN QUEST FAILED|r
+Stromgarde
+- |cffff0000Your base is destroyed, your peons are dead.|r
+}
+
+STRING 3908
+{
+Capture the Gold Mine
+}
+
+STRING 3910
+{
+|cffffcc00MAIN QUEST FAILED|r
+Preparations
+- |cffff0000At least one Toiler Must survive. (Failed)|r
+}
+
+STRING 3911
+{
+|cffffcc00MAIN QUEST FAILED|r
+Preparations
+- |cffff0000Maim must survive. (Failed)|r
+}
+
+STRING 3912
+{
+|cffffcc00OPTIONAL QUEST|r
+Naval Superiority
+  - Destroy the Oil Rigs
+  - Destroy the Shipyards
+  - Destroy the Refineries
+  - Destroy the Foundries
+}
+
+STRING 3913
+{
+Twilight's Hammer clan
+}
+
+STRING 3914
+// Units: n035 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3915
+// Units: n036 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3916
+// Units: n037 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3917
+// Units: n038 (Stromgarde City Building), Name (Name)
+{
+Stromgarde City Building
+}
+
+STRING 3921
+// Items: I0La (WC2Orc07Doomhammer1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3922
+// Items: I0La (WC2Orc07Doomhammer1), Description (Description)
+{
+Throm'ka, Warriors.
+}
+
+STRING 3923
+// Items: I0La (WC2Orc07Doomhammer1), Name (Name)
+{
+WC2Orc07Doomhammer1
+}
+
+STRING 3924
+// Items: I0Lb (WC2Orc07Doomhammer2), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3925
+// Items: I0Lb (WC2Orc07Doomhammer2), Description (Description)
+{
+Good job… Maim. Zuluhed reports that you are not as useless as I thought after your failure at Dun Modr. You are passionate and brave, but you should remember that fortune is not infinite.
+}
+
+STRING 3926
+// Items: I0Lb (WC2Orc07Doomhammer2), Name (Name)
+{
+WC2Orc07Doomhammer2
+}
+
+STRING 3927
+// Items: I0Lc (WC2Orc07Doomhammer3), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3928
+// Items: I0Lc (WC2Orc07Doomhammer3), Description (Description)
+{
+And you, Utok. Accurate and thoughtful, rare qualities for an orc. You are in good company with the Blackhands. The war goes well when every soldier knows their place.
+}
+
+STRING 3929
+// Items: I0Lc (WC2Orc07Doomhammer3), Name (Name)
+{
+WC2Orc07Doomhammer3
+}
+
+STRING 3930
+// Items: I0Ld (WC2Orc07Doomhammer4), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3931
+// Items: I0Ld (WC2Orc07Doomhammer4), Description (Description)
+{
+Cho'gall reports that the Khaz Modan Refineries are well maintained and fulfilling their quotas. The Horde will now have more than enough oil to mount a fierce campaign in the lands far to the north.
+}
+
+STRING 3932
+// Items: I0Ld (WC2Orc07Doomhammer4), Name (Name)
+{
+WC2Orc07Doomhammer4
+}
+
+STRING 3933
+// Items: I0Le (WC2Orc07Doomhammer5), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3934
+// Items: I0Le (WC2Orc07Doomhammer5), Description (Description)
+{
+As a gesture of his gratitude for keeping him safe in the wetlands, Cho’gall has sent his ogres to aid us here.
+}
+
+STRING 3935
+// Items: I0Le (WC2Orc07Doomhammer5), Name (Name)
+{
+WC2Orc07Doomhammer5
+}
+
+STRING 3936
+// Items: I0Lf (WC2Orc07Doomhammer6), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3937
+// Items: I0Lf (WC2Orc07Doomhammer6), Description (Description)
+{
+Only the troublesome humans of Stromgarde remain to be dealt with before sending the Horde on its next sojourn.
+}
+
+STRING 3938
+// Items: I0Lf (WC2Orc07Doomhammer6), Name (Name)
+{
+WC2Orc07Doomhammer6
+}
+
+STRING 3939
+// Items: I0Lg (WC2Orc07Doomhammer7), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3940
+// Items: I0Lg (WC2Orc07Doomhammer7), Description (Description)
+{
+Then it’s time to lay waste to their capital. Stromgarde sought to halt our advance… and now they shall reap the rewards… blood and death!
+}
+
+STRING 3941
+// Items: I0Lg (WC2Orc07Doomhammer7), Name (Name)
+{
+WC2Orc07Doomhammer7
+}
+
+STRING 3942
+// Items: I0Lh (WC2Orc07Doomhammer8), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3943
+// Items: I0Lh (WC2Orc07Doomhammer8), Description (Description)
+{
+You honor me with your flattery, young Utok. One day you will rise to be one my most trusted warriors.
+}
+
+STRING 3944
+// Items: I0Lh (WC2Orc07Doomhammer8), Name (Name)
+{
+WC2Orc07Doomhammer8
+}
+
+STRING 3945
+// Items: I0Li (WC2Orc07Doomhammer9), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3946
+// Items: I0Li (WC2Orc07Doomhammer9), Description (Description)
+{
+That they do! But we must not linger here too long. That coward king will surely warn his allies about what happened here. We must move north soon.
+}
+
+STRING 3947
+// Items: I0Li (WC2Orc07Doomhammer9), Name (Name)
+{
+WC2Orc07Doomhammer9
+}
+
+STRING 3948
+// Items: I0Lj (WC2Orc07Doomhammer10), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3949
+// Items: I0Lj (WC2Orc07Doomhammer10), Description (Description)
+{
+Celebrations degenerate discipline, Maim. I want our warriors to be prepared at all times. Give them a day’s rest, then prepare to move out!
+}
+
+STRING 3950
+// Items: I0Lj (WC2Orc07Doomhammer10), Name (Name)
+{
+WC2Orc07Doomhammer10
+}
+
+STRING 3951
+// Items: I0Lk (WC2Orc07Doomhammer_Bossfight1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3952
+// Items: I0Lk (WC2Orc07Doomhammer_Bossfight1), Description (Description)
+{
+You. Not king. King is coward. Ran away.
+}
+
+STRING 3953
+// Items: I0Lk (WC2Orc07Doomhammer_Bossfight1), Name (Name)
+{
+WC2Orc07Doomhammer_Bossfight1
+}
+
+STRING 3954
+// Items: I0Ll (WC2Orc07Doomhammer_Bossfight2), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3955
+// Items: I0Ll (WC2Orc07Doomhammer_Bossfight2), Description (Description)
+{
+Brave warrior you are. But futile attempt!
+}
+
+STRING 3956
+// Items: I0Ll (WC2Orc07Doomhammer_Bossfight2), Name (Name)
+{
+WC2Orc07Doomhammer_Bossfight2
+}
+
+STRING 3957
+// Items: I0Lm (WC2Orc07Doomhammer_BuildCatapults1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3958
+// Items: I0Lm (WC2Orc07Doomhammer_BuildCatapults1), Description (Description)
+{
+Build more catapults! We must destroy the inner walls to get into the city!
+}
+
+STRING 3959
+// Items: I0Lm (WC2Orc07Doomhammer_BuildCatapults1), Name (Name)
+{
+WC2Orc07Doomhammer_BuildCatapults1
+}
+
+STRING 3960
+// Items: I0Ln (WC2Orc07Doomhammer_FirstGate1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3961
+// Items: I0Ln (WC2Orc07Doomhammer_FirstGate1), Description (Description)
+{
+Utok! Maim! At my side at once! The city is on the brink of falling! Push forward!
+}
+
+STRING 3962
+// Items: I0Ln (WC2Orc07Doomhammer_FirstGate1), Name (Name)
+{
+WC2Orc07Doomhammer_FirstGate1
+}
+
+STRING 3963
+// Items: I0Lo (WC2Orc07Doomhammer_OilRigComplete1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3964
+// Items: I0Lo (WC2Orc07Doomhammer_OilRigComplete1), Description (Description)
+{
+The Horde’s supremacy over the seas is assured!
+}
+
+STRING 3965
+// Items: I0Lo (WC2Orc07Doomhammer_OilRigComplete1), Name (Name)
+{
+WC2Orc07Doomhammer_OilRigComplete1
+}
+
+STRING 3966
+// Items: I0Lp (WC2Orc07Doomhammer_OilRigTrigger1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3967
+// Items: I0Lp (WC2Orc07Doomhammer_OilRigTrigger1), Description (Description)
+{
+Then we destroy their rigs and claim them as our own!
+}
+
+STRING 3968
+// Items: I0Lp (WC2Orc07Doomhammer_OilRigTrigger1), Name (Name)
+{
+WC2Orc07Doomhammer_OilRigTrigger1
+}
+
+STRING 3969
+// Items: I0Lq (WC2Orc07Doomhammer_OilRigTrigger1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3970
+// Items: I0Lq (WC2Orc07Doomhammer_OilRigTrigger1), Description (Description)
+{
+Then we destroy their rigs and claim them as our own!
+}
+
+STRING 3971
+// Items: I0Lq (WC2Orc07Doomhammer_OilRigTrigger1), Name (Name)
+{
+WC2Orc07Doomhammer_OilRigTrigger1
+}
+
+STRING 3972
+// Items: I0Lr (WC2Orc07Doomhammer_Rally1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3973
+// Items: I0Lr (WC2Orc07Doomhammer_Rally1), Description (Description)
+{
+Warriors! Not since Stormwind have we faced such formidable defenses. The walls of Stromgarde are strong and its people seasoned fighters… hardened by centuries of war against our Amani allies.
+}
+
+STRING 3974
+// Items: I0Lr (WC2Orc07Doomhammer_Rally1), Name (Name)
+{
+WC2Orc07Doomhammer_Rally1
+}
+
+STRING 3975
+// Items: I0Ls (WC2Orc07Doomhammer_Rally2), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3976
+// Items: I0Ls (WC2Orc07Doomhammer_Rally2), Description (Description)
+{
+But nothing, neither walls or experience, will save them from our war machine today! Decimate their walls! Slaughter their people! Lok'tar ogar! For the Horde!
+}
+
+STRING 3977
+// Items: I0Ls (WC2Orc07Doomhammer_Rally2), Name (Name)
+{
+WC2Orc07Doomhammer_Rally2
+}
+
+STRING 3978
+// Items: I0Lt (WC2Orc07Doomhammer_StromgardeLanding1), Tip (Tooltip - Basic)
+{
+Orgrim Doomhammer
+}
+
+STRING 3979
+// Items: I0Lt (WC2Orc07Doomhammer_StromgardeLanding1), Description (Description)
+{
+You are the leader of this fortress. Killing you will bring me great honor, human.
+}
+
+STRING 3980
+// Items: I0Lt (WC2Orc07Doomhammer_StromgardeLanding1), Name (Name)
+{
+WC2Orc07Doomhammer_StromgardeLanding1
+}
+
+STRING 3981
+// Items: I0Lu (WC2Orc07Utok1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3982
+// Items: I0Lu (WC2Orc07Utok1), Description (Description)
+{
+Quiet! I see something moving at the landing site.
+}
+
+STRING 3983
+// Items: I0Lu (WC2Orc07Utok1), Name (Name)
+{
+WC2Orc07Utok1
+}
+
+STRING 3984
+// Items: I0Lv (WC2Orc07Utok2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3985
+// Items: I0Lv (WC2Orc07Utok2), Description (Description)
+{
+Dammit! Our position has been compromised! There goes our element of surprise…
+}
+
+STRING 3986
+// Items: I0Lv (WC2Orc07Utok2), Name (Name)
+{
+WC2Orc07Utok2
+}
+
+STRING 3987
+// Items: I0Lw (WC2Orc07Utok3), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3988
+// Items: I0Lw (WC2Orc07Utok3), Description (Description)
+{
+Send a signal to our ships! We will prepare a counter-surprise for these humans.
+}
+
+STRING 3989
+// Items: I0Lw (WC2Orc07Utok3), Name (Name)
+{
+WC2Orc07Utok3
+}
+
+STRING 3990
+// Items: I0Lx (WC2Orc07Utok4), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3991
+// Items: I0Lx (WC2Orc07Utok4), Description (Description)
+{
+The city is taken, Warchief. Utterly destroyed by your might. It is a great honor to fight beside you.
+}
+
+STRING 3992
+// Items: I0Lx (WC2Orc07Utok4), Name (Name)
+{
+WC2Orc07Utok4
+}
+
+STRING 3993
+// Items: I0Ly (WC2Orc07Utok5), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3994
+// Items: I0Ly (WC2Orc07Utok5), Description (Description)
+{
+I will not fail you, Warchief. This was a long siege. By your leave, our warriors deserve rest and a feast.
+}
+
+STRING 3995
+// Items: I0Ly (WC2Orc07Utok5), Name (Name)
+{
+WC2Orc07Utok5
+}
+
+STRING 3996
+// Items: I0Lz (WC2Orc07Utok_Goldmine1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 3997
+// Items: I0Lz (WC2Orc07Utok_Goldmine1), Description (Description)
+{
+There, a goldmine! This will be a perfect spot for our forward camp. Those pesky humans have fortified their position around it, however…
+}
+
+STRING 3998
+// Items: I0Lz (WC2Orc07Utok_Goldmine1), Name (Name)
+{
+WC2Orc07Utok_Goldmine1
+}
+
+STRING 3999
+// Items: I0LA (WC2Orc07Utok_Goldmine2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 4000
+// Items: I0LA (WC2Orc07Utok_Goldmine2), Description (Description)
+{
+I really miss working with Rend… this brother of his is more skull than brain…
+}
+
+STRING 4001
+// Items: I0LA (WC2Orc07Utok_Goldmine2), Name (Name)
+{
+WC2Orc07Utok_Goldmine2
+}
+
+STRING 4002
+// Items: I0LB (WC2Orc07Utok_OilRig1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 4003
+// Items: I0LB (WC2Orc07Utok_OilRig1), Description (Description)
+{
+Warchief! Stromgarde has a strong fleet and our siege will be hindered if we do not destroy their oil production and supply lines!
+}
+
+STRING 4004
+// Items: I0LB (WC2Orc07Utok_OilRig1), Name (Name)
+{
+WC2Orc07Utok_OilRig1
+}
+
+STRING 4005
+// Items: I0LC (WC2Orc07Utok_OrgrimWelcome1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 4006
+// Items: I0LC (WC2Orc07Utok_OrgrimWelcome1), Description (Description)
+{
+Thank you, Warchief, it’s a great honor for me to serve you and the Horde.
+}
+
+STRING 4007
+// Items: I0LC (WC2Orc07Utok_OrgrimWelcome1), Name (Name)
+{
+WC2Orc07Utok_OrgrimWelcome1
+}
+
+STRING 4008
+// Items: I0LD (WC2Orc07Maim1), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4009
+// Items: I0LD (WC2Orc07Maim1), Description (Description)
+{
+Watch your mouth youngblood… the Warchief has honored us with this mission that will lead our clan to glory… and you’re complaining about mosquitos!?
+}
+
+STRING 4010
+// Items: I0LD (WC2Orc07Maim1), Name (Name)
+{
+WC2Orc07Maim1
+}
+
+STRING 4011
+// Items: I0LE (WC2Orc07Maim2), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4012
+// Items: I0LE (WC2Orc07Maim2), Description (Description)
+{
+Huh? What do you see?
+}
+
+STRING 4013
+// Items: I0LE (WC2Orc07Maim2), Name (Name)
+{
+WC2Orc07Maim2
+}
+
+STRING 4014
+// Items: I0LF (WC2Orc07Maim3), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4015
+// Items: I0LF (WC2Orc07Maim3), Description (Description)
+{
+We must recapture those vessels and use them to set up a foothold on the island. When the Warchief arrives, we  will need to provide everything that he needs to begin the siege.
+}
+
+STRING 4016
+// Items: I0LF (WC2Orc07Maim3), Name (Name)
+{
+WC2Orc07Maim3
+}
+
+STRING 4017
+// Items: I0LG (WC2Orc07Maim4), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4018
+// Items: I0LG (WC2Orc07Maim4), Description (Description)
+{
+Throm'ka, Warchief! The foothold you requested is ready. The pathetic humans didn’t stand a chance against us!
+}
+
+STRING 4019
+// Items: I0LG (WC2Orc07Maim4), Name (Name)
+{
+WC2Orc07Maim4
+}
+
+STRING 4020
+// Items: I0LH (WC2Orc07Maim5), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4021
+// Items: I0LH (WC2Orc07Maim5), Description (Description)
+{
+Our forces are ready to crush them, Warchief.
+}
+
+STRING 4022
+// Items: I0LH (WC2Orc07Maim5), Name (Name)
+{
+WC2Orc07Maim5
+}
+
+STRING 4023
+// Items: I0LI (WC2Orc07Maim6), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4024
+// Items: I0LI (WC2Orc07Maim6), Description (Description)
+{
+But we must celebrate to raise our warrior’s morale, Warchief.
+}
+
+STRING 4025
+// Items: I0LI (WC2Orc07Maim6), Name (Name)
+{
+WC2Orc07Maim6
+}
+
+STRING 4026
+// Items: I0LJ (WC2Orc07Maim7), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4027
+// Items: I0LJ (WC2Orc07Maim7), Description (Description)
+{
+As you command. Mighty Orgrim.
+}
+
+STRING 4028
+// Items: I0LJ (WC2Orc07Maim7), Name (Name)
+{
+WC2Orc07Maim7
+}
+
+STRING 4029
+// Items: I0LK (WC2Orc07Maim_FirstGate1), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4030
+// Items: I0LK (WC2Orc07Maim_FirstGate1), Description (Description)
+{
+For the Horde!
+}
+
+STRING 4031
+// Items: I0LK (WC2Orc07Maim_FirstGate1), Name (Name)
+{
+WC2Orc07Maim_FirstGate1
+}
+
+STRING 4032
+// Items: I0LL (WC2Orc07Maim_FootmanEncounter1), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4033
+// Items: I0LL (WC2Orc07Maim_FootmanEncounter1), Description (Description)
+{
+Ha! I heard that you wanted to slaughter us, human weaklings! Come then! Show me your strength! Ha-ha-ha!
+}
+
+STRING 4034
+// Items: I0LL (WC2Orc07Maim_FootmanEncounter1), Name (Name)
+{
+WC2Orc07Maim_FootmanEncounter1
+}
+
+STRING 4035
+// Items: I0LM (WC2Orc07Maim_Goldmine1), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4036
+// Items: I0LM (WC2Orc07Maim_Goldmine1), Description (Description)
+{
+Where’s the problem. Utok? More bodies for me!
+}
+
+STRING 4037
+// Items: I0LM (WC2Orc07Maim_Goldmine1), Name (Name)
+{
+WC2Orc07Maim_Goldmine1
+}
+
+STRING 4038
+// Items: I0LN (WC2Orc07Maim_Siege1a01), Tip (Tooltip - Basic)
+{
+Maim Blackhand
+}
+
+STRING 4039
+// Items: I0LN (WC2Orc07Maim_Siege1a01), Description (Description)
+{
+Pillage the city! Burn it to the ground!
+}
+
+STRING 4040
+// Items: I0LN (WC2Orc07Maim_Siege1a01), Name (Name)
+{
+WC2Orc07Maim_Siege1a01
+}
+
+STRING 4041
+// Items: I0LO (WC2Orc07Grunt1), Tip (Tooltip - Basic)
+{
+Brute
+}
+
+STRING 4042
+// Items: I0LO (WC2Orc07Grunt1), Description (Description)
+{
+Chieftain, we’ve been standing waist-deep in this mire for hours!
+}
+
+STRING 4043
+// Items: I0LO (WC2Orc07Grunt1), Name (Name)
+{
+WC2Orc07Grunt1
+}
+
+STRING 4044
+// Items: I0LP (WC2Orc07Footman1), Tip (Tooltip - Basic)
+{
+Captain
+}
+
+STRING 4045
+// Items: I0LP (WC2Orc07Footman1), Description (Description)
+{
+Horde marauders have landed near our shores! Send word to the capital. They’re here.
+}
+
+STRING 4046
+// Items: I0LP (WC2Orc07Footman1), Name (Name)
+{
+WC2Orc07Footman1
+}
+
+STRING 4047
+// Items: I0LQ (WC2Orc07Footman2), Tip (Tooltip - Basic)
+{
+Footman
+}
+
+STRING 4048
+// Items: I0LQ (WC2Orc07Footman2), Description (Description)
+{
+It seems to be a scouting force. They’re probably hiding in the mire… no more than a dozen strong, we must slaughter them.
+}
+
+STRING 4049
+// Items: I0LQ (WC2Orc07Footman2), Name (Name)
+{
+WC2Orc07Footman2
+}
+
+STRING 4050
+// Items: I0LR (D06AFootman0601), Tip (Tooltip - Basic)
+{
+Footman
+}
+
+STRING 4051
+// Items: I0LR (D06AFootman0601), Description (Description)
+{
+Look! More orcs. Our intelligence was right...
+}
+
+STRING 4052
+// Items: I0LR (D06AFootman0601), Name (Name)
+{
+D06AFootman0601
+}
+
+STRING 4053
+// Items: I0LS (WC2Orc07Liam1), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4054
+// Items: I0LS (WC2Orc07Liam1), Description (Description)
+{
+Have you ever beheld such a sight, my brother? Never in the history of our kingdom have we witnessed such tides of doom approaching our shores..
+}
+
+STRING 4055
+// Items: I0LS (WC2Orc07Liam1), Name (Name)
+{
+WC2Orc07Liam1
+}
+
+STRING 4056
+// Items: I0LT (WC2Orc07Liam2), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4057
+// Items: I0LT (WC2Orc07Liam2), Description (Description)
+{
+He was recalled by Anduin Lothar to help quell the Horde’s forward war-parties after Hillsbrad was destroyed. I wish he was here…
+}
+
+STRING 4058
+// Items: I0LT (WC2Orc07Liam2), Name (Name)
+{
+WC2Orc07Liam2
+}
+
+STRING 4059
+// Items: I0LU (WC2Orc07Liam_LowerCity1), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4060
+// Items: I0LU (WC2Orc07Liam_LowerCity1), Description (Description)
+{
+They’ve destroyed the lower city and broken through! Men! Defend your homes at all costs!
+}
+
+STRING 4061
+// Items: I0LU (WC2Orc07Liam_LowerCity1), Name (Name)
+{
+WC2Orc07Liam_LowerCity1
+}
+
+STRING 4062
+// Items: I0LV (WC2Orc07Liam_BossFight1), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4063
+// Items: I0LV (WC2Orc07Liam_BossFight1), Description (Description)
+{
+No! He did not run. His actions have saved a bloodline… and robbed you of the price you sought! Now face me!
+}
+
+STRING 4064
+// Items: I0LV (WC2Orc07Liam_BossFight1), Name (Name)
+{
+WC2Orc07Liam_BossFight1
+}
+
+STRING 4065
+// Items: I0LW (WC2Orc07Liam_Retreat1), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4066
+// Items: I0LW (WC2Orc07Liam_Retreat1), Description (Description)
+{
+Brother! The city has fallen. The Horde are at the gates of our keep!
+}
+
+STRING 4067
+// Items: I0LW (WC2Orc07Liam_Retreat1), Name (Name)
+{
+WC2Orc07Liam_Retreat1
+}
+
+STRING 4068
+// Items: I0LX (WC2Orc07Liam_Retreat2), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4069
+// Items: I0LX (WC2Orc07Liam_Retreat2), Description (Description)
+{
+You are our King. Your life is far more important than mine. House Trollbane survives through you, my brother. You must retreat to Lordaeron.
+}
+
+STRING 4070
+// Items: I0LX (WC2Orc07Liam_Retreat2), Name (Name)
+{
+WC2Orc07Liam_Retreat2
+}
+
+STRING 4071
+// Items: I0LY (WC2Orc07Liam_Retreat3), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4072
+// Items: I0LY (WC2Orc07Liam_Retreat3), Description (Description)
+{
+No. Terenas is your friend. He will aid you. And Anduin Lothar will stand by your side when the time to avenge me comes. Live today and fight tomorrow… live, so that Stromgarde may live. The city can be rebuilt. And our family will endure.
+}
+
+STRING 4073
+// Items: I0LY (WC2Orc07Liam_Retreat3), Name (Name)
+{
+WC2Orc07Liam_Retreat3
+}
+
+STRING 4074
+// Items: I0LZ (WC2Orc07Liam_Retreat4), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4075
+// Items: I0LZ (WC2Orc07Liam_Retreat4), Description (Description)
+{
+Tell Danath that I love him… and to remember me. Tell him that I have always been proud that he is my son. Now go! I will cover your retreat!
+}
+
+STRING 4076
+// Items: I0LZ (WC2Orc07Liam_Retreat4), Name (Name)
+{
+WC2Orc07Liam_Retreat4
+}
+
+STRING 4077
+// Items: I1LA (WC2Orc07Liam_Siege1), Tip (Tooltip - Basic)
+{
+Liam Trollbane
+}
+
+STRING 4078
+// Items: I1LA (WC2Orc07Liam_Siege1), Description (Description)
+{
+Fight to the last man! Stromgarde must not fall!
+}
+
+STRING 4079
+// Items: I1LA (WC2Orc07Liam_Siege1), Name (Name)
+{
+WC2Orc07Liam_Siege1
+}
+
+STRING 4080
+// Items: I1LB (WC2Orc07Thoras1), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4081
+// Items: I1LB (WC2Orc07Thoras1), Description (Description)
+{
+Come what may, Liam, we are the sons of Arathor… war is in our blood, it is what we do best. Where’s your son, Danath?
+}
+
+STRING 4082
+// Items: I1LB (WC2Orc07Thoras1), Name (Name)
+{
+WC2Orc07Thoras1
+}
+
+STRING 4083
+// Items: I1LC (WC2Orc07Thoras2), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4084
+// Items: I1LC (WC2Orc07Thoras2), Description (Description)
+{
+Steel your heart, my brother, Stromgarde has never fallen to any enemy. The trolls tried their luck and failed, their warbands crushed into dust beneath these very walls… this ‘Horde’ will be no different…
+}
+
+STRING 4085
+// Items: I1LC (WC2Orc07Thoras2), Name (Name)
+{
+WC2Orc07Thoras2
+}
+
+STRING 4086
+// Items: I1LD (WC2Orc07Thoras_Retreat1), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4087
+// Items: I1LD (WC2Orc07Thoras_Retreat1), Description (Description)
+{
+We will not falter. This is our home. We cannot abandon it!
+}
+
+STRING 4088
+// Items: I1LD (WC2Orc07Thoras_Retreat1), Name (Name)
+{
+WC2Orc07Thoras_Retreat1
+}
+
+STRING 4089
+// Items: I1LE (WC2Orc07Thoras_Retreat2), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4090
+// Items: I1LE (WC2Orc07Thoras_Retreat2), Description (Description)
+{
+I will not be known as the king who ran, Liam! Besides… you are my brother. I will not allow you to perish like this!
+}
+
+STRING 4091
+// Items: I1LE (WC2Orc07Thoras_Retreat2), Name (Name)
+{
+WC2Orc07Thoras_Retreat2
+}
+
+STRING 4092
+// Items: I1LF (WC2Orc07Thoras_Retreat3), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4093
+// Items: I1LF (WC2Orc07Thoras_Retreat3), Description (Description)
+{
+I will avenge you brother. I swear it!
+}
+
+STRING 4094
+// Items: I1LF (WC2Orc07Thoras_Retreat3), Name (Name)
+{
+WC2Orc07Thoras_Retreat3
+}
+
+STRING 4095
+// Items: I1LT (WC2Orc07Thoras_Siege1), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4096
+// Items: I1LT (WC2Orc07Thoras_Siege1), Description (Description)
+{
+Children of Stromgarde! This is your home, your lands! The Horde has come to destroy everything that is dear to you! Defend your honor! Defend your home!
+}
+
+STRING 4097
+// Items: I1LT (WC2Orc07Thoras_Siege1), Name (Name)
+{
+WC2Orc07Thoras_Siege1
+}
+
+STRING 4098
+// Items: I1LG (WC2Orc07Thoras_StromgardeLanding1), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4099
+// Items: I1LG (WC2Orc07Thoras_StromgardeLanding1), Description (Description)
+{
+This city was once the very heart of human civilization, orc… you will not desecrate it!
+}
+
+STRING 4100
+// Items: I1LG (WC2Orc07Thoras_StromgardeLanding1), Name (Name)
+{
+WC2Orc07Thoras_StromgardeLanding1
+}
+
+STRING 4101
+// Items: I1LH (WC2Orc07Thoras_StromgardeLanding2), Tip (Tooltip - Basic)
+{
+Thoras Trollbane
+}
+
+STRING 4102
+// Items: I1LH (WC2Orc07Thoras_StromgardeLanding2), Description (Description)
+{
+We will see about that, greenskin. My blade has slain countless brutes like you, and I have yet to meet one that would pose a challenge.
+}
+
+STRING 4103
+// Items: I1LH (WC2Orc07Thoras_StromgardeLanding2), Name (Name)
+{
+WC2Orc07Thoras_StromgardeLanding2
+}
+
+STRING 4104
+// Doodads: D020 (Light Yellow), Name (Name)
+{
+Light Yellow
+}
+
+STRING 4105
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 4106
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 4107
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 4108
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 4109
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+  - Destroy the Oil Rigs
+}
+
+STRING 4110
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Destroy the Oil Rigs (Completed)|r
+}
+
+STRING 4111
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Description (Description)
+{
+Naval Superiority
+}
+
+STRING 4112
+// Items: IQL0 (|cffffcc00OPTIONAL QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00OPTIONAL QUEST UPDATE|r
+}
+
+STRING 4113
+// Items: IQL1 (  - Destroy the Refineries), Tip (Tooltip - Basic)
+{
+  - Destroy the Shipyards
+}
+
+STRING 4114
+// Items: IQL1 (  - Destroy the Refineries), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Destroy the Shipyards (Completed)|r
+}
+
+STRING 4115
+// Items: IQL1 (  - Destroy the Refineries), Description (Description)
+{
+  -|cff808080 Destroy the Refineries (Completed)|r
+}
+
+STRING 4116
+// Items: IQL1 (  - Destroy the Refineries), Name (Name)
+{
+  - Destroy the Refineries
+}
+
+STRING 4117
+// Items: IQL2 (  - Destroy the Foundries), Tip (Tooltip - Basic)
+{
+  - Build a Foundry
+}
+
+STRING 4118
+// Items: IQL2 (  - Destroy the Foundries), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Build a Foundry (Completed)|r
+}
+
+STRING 4119
+// Items: IQL2 (  - Destroy the Foundries), Description (Description)
+{
+  -|cff808080 Destroy the Foundries (Completed)|r
+}
+
+STRING 4120
+// Items: IQL2 (  - Destroy the Foundries), Name (Name)
+{
+  - Destroy the Foundries
+}
+
+STRING 4121
+// Items: IQL3 (  - Build a Refinery), Tip (Tooltip - Basic)
+{
+  - Build a Shipyard
+}
+
+STRING 4122
+// Items: IQL3 (  - Build a Refinery), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Build a Shipyard (Completed)|r
+}
+
+STRING 4123
+// Items: IQL3 (  - Build a Refinery), Description (Description)
+{
+  -|cff808080 Build a Refinery (Completed)|r
+}
+
+STRING 4124
+// Items: IQL3 (  - Build a Refinery), Name (Name)
+{
+  - Build a Refinery
+}
+
+STRING 4125
+// Items: IQL4 (  - Build a Goblin Alchemist), Tip (Tooltip - Basic)
+{
+  - Build a Blacksmith
+}
+
+STRING 4126
+// Items: IQL4 (  - Build a Goblin Alchemist), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Build a Blacksmith (Completed)|r
+}
+
+STRING 4127
+// Items: IQL4 (  - Build a Goblin Alchemist), Description (Description)
+{
+  -|cff808080 Build a Goblin Alchemist (Completed)|r
+}
+
+STRING 4128
+// Items: IQL4 (  - Build a Goblin Alchemist), Name (Name)
+{
+  - Build a Goblin Alchemist
+}
+
+STRING 4129
+// Items: IQL5 (  - Build a Barracks), Tip (Tooltip - Basic)
+{
+  - Prepare base before the Warchief arrives
+}
+
+STRING 4130
+// Items: IQL5 (  - Build a Barracks), Ubertip (Tooltip - Extended)
+{
+Foothold
+}
+
+STRING 4131
+// Items: IQL5 (  - Build a Barracks), Description (Description)
+{
+  -|cff808080 Build a Barracks (Completed)|r
+}
+
+STRING 4132
+// Items: IQL5 (  - Build a Barracks), Name (Name)
+{
+  - Build a Barracks
+}
+
+STRING 4133
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+  - Build a War Mill
+}
+
+STRING 4134
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Build a War Mill (Completed)|r
+}
+
+STRING 4135
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+Stromgarde
+}
+
+STRING 4136
+// Items: IQL6 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00MAIN QUEST UPDATE|r
+}
+
+STRING 4137
+// Items: IQL7 (  - Destroy the Barracks), Tip (Tooltip - Basic)
+{
+  - Destroy the Stables
+}
+
+STRING 4138
+// Items: IQL7 (  - Destroy the Barracks), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Destroy the Stables (Completed)|r
+}
+
+STRING 4139
+// Items: IQL7 (  - Destroy the Barracks), Description (Description)
+{
+  -|cff808080 Destroy the Barracks (Completed)|r
+}
+
+STRING 4140
+// Items: IQL7 (  - Destroy the Barracks), Name (Name)
+{
+  - Destroy the Barracks
+}
+
+STRING 4141
+// Items: IQL8 (  - Destroy the Port Tower), Tip (Tooltip - Basic)
+{
+  - Destroy the Town Hall
+}
+
+STRING 4142
+// Items: IQL8 (  - Destroy the Port Tower), Ubertip (Tooltip - Extended)
+{
+  -|cff808080 Destroy the Town Hall (Completed)|r
+}
+
+STRING 4143
+// Items: IQL8 (  - Destroy the Port Tower), Description (Description)
+{
+  -|cff808080 Destroy the Port Tower (Completed)|r
+}
+
+STRING 4144
+// Items: IQL8 (  - Destroy the Port Tower), Name (Name)
+{
+  - Destroy the Port Tower
+}
+
+STRING 4145
+// Items: IQL9 (  - Destroy the Keep), Description (Description)
+{
+  -|cff808080 Destroy the Keep (Completed)|r
+}
+
+STRING 4146
+// Items: IQL9 (  - Destroy the Keep), Name (Name)
+{
+  - Destroy the Keep
+}
+

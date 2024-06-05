@@ -1,0 +1,4917 @@
+﻿STRING 1
+{
+WC2Orc14
+}
+
+STRING 3
+{
+La chute de Lordaeron
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 45
+// Units: o60P (Catapult), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 267
+{
+Horde
+}
+
+STRING 269
+{
+Alliance
+}
+
+STRING 270
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration, Berserker Sight, Lighter Axes. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 271
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 272
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+Elven Ranger
+}
+
+STRING 273
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 274
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 275
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 276
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 277
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 278
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 279
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 280
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Elven Mage
+}
+
+STRING 281
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrate
+}
+
+STRING 282
+// Units: nwc1 (Cage), Name (Name)
+{
+Cage
+}
+
+STRING 283
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+Build  Cage
+}
+
+STRING 284
+// Units: nwc1 (Cage), Description (Description)
+{
+A sturdy cage designed to hold Prisoners captive.
+}
+
+STRING 285
+// Units: nbel (High Elf Captain), Name (Name)
+{
+High Elf Captain
+}
+
+STRING 286
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+Train High Elf Captain
+}
+
+STRING 287
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+Powerful captain from Silvermoon army. Experts at destroying spellcasters. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 325
+// Units: e601 (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 360
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 394
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 395
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 400
+// Units: n608 (Monk), Name (Name)
+{
+Monk
+}
+
+STRING 401
+// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+{
+Kind priest.
+}
+
+STRING 402
+// Units: n608 (Monk), Tip (Tooltip - Basic)
+{
+Holy cleric.
+}
+
+STRING 448
+// Units: n00T (Dragon), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 516
+// Units: h006 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+Guard Tower (|cffffcc00G|r)
+}
+
+STRING 517
+// Units: h006 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 549
+// Units: o60P (Catapult), Name (Name)
+{
+Catapult
+}
+
+STRING 550
+// Units: o60P (Catapult), Tip (Tooltip - Basic)
+{
+Build Catapult
+}
+
+STRING 561
+// Units: n00T (Dragon), Name (Name)
+{
+Dragon
+}
+
+STRING 562
+// Units: n00T (Dragon), Tip (Tooltip - Basic)
+{
+Train Dragon
+}
+
+STRING 563
+// Units: n00T (Dragon), Ubertip (Tooltip - Extended)
+{
+By combining their incredible destructive powers with a keen intellect, the Dragons represent the single most powerful force within the Horde. The devastating flame that issues forth from the mouths of older serpents can level any number of enemy troops, while their powerful wings allow them to tirelessly soar through the skies.
+}
+
+STRING 686
+// Units: H008 (Paladin), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 690
+// Destructibles: B61B (Long Cliff Bridge), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 691
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 692
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 701
+// Units: n00K (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 707
+// Destructibles: B60O (Ironforge Gate), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 709
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 721
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 722
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 738
+// Units: n621 (Tumbleweed), Name (Name)
+{
+Tumbleweed
+}
+
+STRING 745
+// Units: n627 (Wild horse), Name (Name)
+{
+Wild horse
+}
+
+STRING 750
+// Units: h627 (Cleric), Name (Name)
+{
+Cleric
+}
+
+STRING 775
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 790
+// Units: h60F (Human Cannon), Name (Name)
+{
+Human Cannon
+}
+
+STRING 805
+// Units: n60Y (Raven), Name (Name)
+{
+Raven
+}
+
+STRING 814
+// Units: n60Z (Spiders), Name (Name)
+{
+Spiders
+}
+
+STRING 815
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Spiders
+}
+
+STRING 912
+// Units: h618 (Pack Ram), Name (Name)
+{
+Pack Ram
+}
+
+STRING 913
+// Units: n61O (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 914
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gray)
+}
+
+STRING 915
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 916
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 917
+// Units: n61P (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 918
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Black)
+}
+
+STRING 919
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 920
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 921
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Wild Ram
+}
+
+STRING 922
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Brown)
+}
+
+STRING 923
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Invoke Ram
+}
+
+STRING 924
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Wild Ram. It can be dangerous!
+}
+
+STRING 947
+// Units: h007 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 969
+// Units: n00C (Tavern), Name (Name)
+{
+Tavern
+}
+
+STRING 1101
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1126
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1127
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1128
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1129
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1130
+// Destructibles: B605 (Platform), Name (Name)
+{
+Platform
+}
+
+STRING 1131
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Garrison Gate
+}
+
+STRING 1132
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(no Path)
+}
+
+STRING 1133
+// Destructibles: B607 (Orc Wall), Name (Name)
+{
+Orc Wall
+}
+
+STRING 1134
+// Destructibles: B60C (Orc Wall), Name (Name)
+{
+Orc Wall
+}
+
+STRING 1135
+// Destructibles: B60C (Orc Wall), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1136
+// Destructibles: B60G (Giant Tree), Name (Name)
+{
+Giant Tree
+}
+
+STRING 1137
+// Destructibles: B60J (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 1138
+// Destructibles: B60K (Cinematic Gate), Name (Name)
+{
+Cinematic Gate
+}
+
+STRING 1139
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Castle Tower
+}
+
+STRING 1140
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Cavern
+}
+
+STRING 1141
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Stone Wall
+}
+
+STRING 1143
+// Destructibles: B610 (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 1145
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1146
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 1147
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 1148
+// Destructibles: B61B (Long Cliff Bridge), Name (Name)
+{
+Long Cliff Bridge
+}
+
+STRING 1150
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1151
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1152
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1153
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1154
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1155
+// Destructibles: B61K (Ice trap), Name (Name)
+{
+Ice trap
+}
+
+STRING 1156
+// Destructibles: B61L (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 1157
+// Destructibles: B61L (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1158
+// Destructibles: B61P (Iron Gate ), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1159
+// Destructibles: B61P (Iron Gate ), Name (Name)
+{
+Iron Gate 
+}
+
+STRING 1160
+// Destructibles: B61S (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 1161
+// Destructibles: B61S (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(Path)
+}
+
+STRING 1163
+// Destructibles: B62N (Big Door), Name (Name)
+{
+Big Door
+}
+
+STRING 1164
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Old Tomb
+}
+
+STRING 1165
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+Altar With the Book
+}
+
+STRING 1166
+// Destructibles: B62T (Egg), Name (Name)
+{
+Egg
+}
+
+STRING 1167
+// Destructibles: B60O (Ironforge Gate), Name (Name)
+{
+Ironforge Gate
+}
+
+STRING 1169
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1170
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Marble Floor
+}
+
+STRING 1171
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1172
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1173
+// Destructibles: B601 (Cliffs Red Barrens), Name (Name)
+{
+Cliffs Red Barrens
+}
+
+STRING 1174
+// Destructibles: B601 (Cliffs Red Barrens), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1175
+// Destructibles: B602 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1176
+// Destructibles: B602 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Red)
+}
+
+STRING 1177
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1178
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1179
+// Destructibles: B604 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1180
+// Destructibles: B604 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad BlackRed)
+}
+
+STRING 1181
+// Destructibles: B608 (Cliffs Red Dungeon ), Name (Name)
+{
+Cliffs Red Dungeon 
+}
+
+STRING 1182
+// Destructibles: B608 (Cliffs Red Dungeon ), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1183
+// Destructibles: B60D (Dungeon Platform), Name (Name)
+{
+Dungeon Platform
+}
+
+STRING 1184
+// Destructibles: B609 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1185
+// Destructibles: B609 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Black)
+}
+
+STRING 1186
+// Destructibles: B60E (Cliffs Dark Dungeon), Name (Name)
+{
+Cliffs Dark Dungeon
+}
+
+STRING 1187
+// Destructibles: B60E (Cliffs Dark Dungeon), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1188
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 1189
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 1190
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 1191
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 1192
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1193
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Lighthouse
+}
+
+STRING 1194
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1195
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 1196
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 1197
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 1198
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+AllianceBanner
+}
+
+STRING 1199
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 1200
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1201
+// Destructibles: B61N (Big Cage Wall), Name (Name)
+{
+Big Cage Wall
+}
+
+STRING 1202
+// Destructibles: B61O (Big Cage Wall), Name (Name)
+{
+Big Cage Wall
+}
+
+STRING 1203
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 1204
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1205
+// Destructibles: B61U (Hillsbrad Clock Tower), Name (Name)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 1206
+// Destructibles: B61V (Hillsbrad Clock Tower), Name (Name)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 1207
+// Destructibles: B61V (Hillsbrad Clock Tower), EditorSuffix (Editor Suffix)
+{
+(Destroyed)
+}
+
+STRING 1208
+// Destructibles: B61W (City Windows), Name (Name)
+{
+City Windows
+}
+
+STRING 1209
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1210
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Rubble
+}
+
+STRING 1211
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Spider Web
+}
+
+STRING 1213
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Winter Canopy Bush
+}
+
+STRING 1214
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variations)
+}
+
+STRING 1215
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1216
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1217
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1218
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1219
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1220
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1221
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1222
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Castle Wall T
+}
+
+STRING 1223
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1224
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1225
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1226
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Castle Wall Corner
+}
+
+STRING 1227
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1228
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Castle Wall Long
+}
+
+STRING 1229
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1230
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Castle Wall Short
+}
+
+STRING 1231
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1232
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Castle Wall Straight
+}
+
+STRING 1233
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1234
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Castle Wall Straight Door
+}
+
+STRING 1235
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1236
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Castle Wall Short Door
+}
+
+STRING 1237
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1238
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Castle Archway
+}
+
+STRING 1239
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Castle Wall Stairs
+}
+
+STRING 1240
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Knight Statue
+}
+
+STRING 1241
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 1242
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 1243
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 1244
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 1245
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+DarkCliff
+}
+
+STRING 1246
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1247
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+DarkCliffSmall
+}
+
+STRING 1248
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1249
+// Destructibles: B62B (DesertCliff), Name (Name)
+{
+DesertCliff
+}
+
+STRING 1250
+// Destructibles: B62B (DesertCliff), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1251
+// Destructibles: B62C (DesertCliffSmall), Name (Name)
+{
+DesertCliffSmall
+}
+
+STRING 1252
+// Destructibles: B62C (DesertCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1253
+// Destructibles: B62D (DesertCliffLight), Name (Name)
+{
+DesertCliffLight
+}
+
+STRING 1254
+// Destructibles: B62D (DesertCliffLight), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1255
+// Destructibles: B62E (DesertCliffLightSmall), Name (Name)
+{
+DesertCliffLightSmall
+}
+
+STRING 1256
+// Destructibles: B62E (DesertCliffLightSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1257
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+SummerCliff
+}
+
+STRING 1258
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+SummerCliffSmall
+}
+
+STRING 1259
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1260
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+WetlandsCliff
+}
+
+STRING 1261
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1262
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 1263
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+WinterCliff
+}
+
+STRING 1264
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1265
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 1266
+// Destructibles: B62M (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 1267
+// Destructibles: B62M (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1268
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 1269
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1270
+// Destructibles: B61R (Dwarven Statue), Name (Name)
+{
+Dwarven Statue
+}
+
+STRING 1271
+// Destructibles: B62P (AltarCinematic), Name (Name)
+{
+AltarCinematic
+}
+
+STRING 1272
+// Doodads: D600 (Wasteland Tree Cinematic), Name (Name)
+{
+Wasteland Tree Cinematic
+}
+
+STRING 1273
+// Doodads: D601 (Kul Tiras Banner), Name (Name)
+{
+Kul Tiras Banner
+}
+
+STRING 1274
+// Doodads: D602 (Alterac Banner), Name (Name)
+{
+Alterac Banner
+}
+
+STRING 1275
+// Doodads: D603 (Stormwind Banner), Name (Name)
+{
+Stormwind Banner
+}
+
+STRING 1276
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1277
+// Doodads: D606 (War Tent), Name (Name)
+{
+War Tent
+}
+
+STRING 1278
+// Doodads: D607 (Shaman Tent), Name (Name)
+{
+Shaman Tent
+}
+
+STRING 1279
+// Doodads: D608 (Nulcear Strike), Name (Name)
+{
+Nulcear Strike
+}
+
+STRING 1280
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1281
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1282
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 1283
+// Doodads: D60K (Dungeon Pillar), Name (Name)
+{
+Dungeon Pillar
+}
+
+STRING 1284
+// Doodads: D60W (Warsong Banner), Name (Name)
+{
+Warsong Banner
+}
+
+STRING 1285
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1286
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1287
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1288
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1290
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1291
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+Square Tower Tall
+}
+
+STRING 1292
+// Doodads: D623 (Dwarven Banner), Name (Name)
+{
+Dwarven Banner
+}
+
+STRING 1293
+// Doodads: D646 (Lava Plane), Name (Name)
+{
+Lava Plane
+}
+
+STRING 1295
+// Doodads: D64C (Cavern Big), Name (Name)
+{
+Cavern Big
+}
+
+STRING 1296
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+Fountain 2
+}
+
+STRING 1297
+// Doodads: D66P (QuelThalas Bush), Name (Name)
+{
+QuelThalas Bush
+}
+
+STRING 1298
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1299
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1300
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1301
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1302
+// Doodads: D697 (Wisp Explode Effect), Name (Name)
+{
+Wisp Explode Effect
+}
+
+STRING 1303
+// Doodads: D698 (Green Acid Effect), Name (Name)
+{
+Green Acid Effect
+}
+
+STRING 1304
+// Doodads: D699 (Flying Skull FX), Name (Name)
+{
+Flying Skull FX
+}
+
+STRING 1305
+// Doodads: D69A (Tranquility), Name (Name)
+{
+Tranquility
+}
+
+STRING 1306
+// Doodads: D69B (Cloud), Name (Name)
+{
+Cloud
+}
+
+STRING 1307
+// Doodads: D69C (Plague), Name (Name)
+{
+Plague
+}
+
+STRING 1308
+// Doodads: D69D (Frenzy), Name (Name)
+{
+Frenzy
+}
+
+STRING 1309
+// Doodads: D69E (Demonic Aura), Name (Name)
+{
+Demonic Aura
+}
+
+STRING 1310
+// Doodads: D69F (Floor Magic Painting), Name (Name)
+{
+Floor Magic Painting
+}
+
+STRING 1311
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Star leaves
+}
+
+STRING 1312
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+Dalaran Building Pathless
+}
+
+STRING 1313
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1314
+// Doodads: D69S (Door), Name (Name)
+{
+Door
+}
+
+STRING 1315
+// Doodads: D6A4 (Altar Doodad), Name (Name)
+{
+Altar Doodad
+}
+
+STRING 1316
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+Single Column Pathless
+}
+
+STRING 1317
+// Doodads: D6A6 (Archway Pathless), Name (Name)
+{
+Archway Pathless
+}
+
+STRING 1318
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+House Doodad
+}
+
+STRING 1319
+// Doodads: D6A8 (Sky Storm), Name (Name)
+{
+Sky Storm
+}
+
+STRING 1320
+// Doodads: D6A9 (Sky Cloud 2), Name (Name)
+{
+Sky Cloud 2
+}
+
+STRING 1321
+// Doodads: D6AA (Sky Cloud 3), Name (Name)
+{
+Sky Cloud 3
+}
+
+STRING 1322
+// Doodads: D6AB (Sky Cloud), Name (Name)
+{
+Sky Cloud
+}
+
+STRING 1323
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1324
+// Doodads: D6AD (Fog), Name (Name)
+{
+Fog
+}
+
+STRING 1325
+// Doodads: D6AE (Light), Name (Name)
+{
+Light
+}
+
+STRING 1326
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1327
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1329
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Wasteland Bush
+}
+
+STRING 1330
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+Capital City Tower 2
+}
+
+STRING 1331
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+Capital City Dome
+}
+
+STRING 1332
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+Capital City Spire
+}
+
+STRING 1333
+// Doodads: D6AP (City Archway), Name (Name)
+{
+City Archway
+}
+
+STRING 1334
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+Capital City Tower
+}
+
+STRING 1335
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1336
+// Doodads: D6B2 (Dwarven Archway), Name (Name)
+{
+Dwarven Archway
+}
+
+STRING 1337
+// Doodads: D6B3 (Moria Archway), Name (Name)
+{
+Moria Archway
+}
+
+STRING 1338
+// Doodads: D6B9 (Underground Rock 01), Name (Name)
+{
+Underground Rock 01
+}
+
+STRING 1339
+// Doodads: D6BA (Underground Rock 02), Name (Name)
+{
+Underground Rock 02
+}
+
+STRING 1340
+// Doodads: D6BB (Underground Rock 03), Name (Name)
+{
+Underground Rock 03
+}
+
+STRING 1341
+// Doodads: D6BC (Underground Rock 04), Name (Name)
+{
+Underground Rock 04
+}
+
+STRING 1342
+// Doodads: D6BD (Underground Rock 05), Name (Name)
+{
+Underground Rock 05
+}
+
+STRING 1343
+// Doodads: D6BE (Underground Rock 06), Name (Name)
+{
+Underground Rock 06
+}
+
+STRING 1344
+// Doodads: D6BF (Underground Rock 07), Name (Name)
+{
+Underground Rock 07
+}
+
+STRING 1345
+// Doodads: D6BG (Underground Rock 08), Name (Name)
+{
+Underground Rock 08
+}
+
+STRING 1346
+// Doodads: D6BH (Underground Rock 09), Name (Name)
+{
+Underground Rock 09
+}
+
+STRING 1347
+// Doodads: D6BL (Gold), Name (Name)
+{
+Gold
+}
+
+STRING 1348
+// Destructibles: B00Q (Railroad), Name (Name)
+{
+Railroad
+}
+
+STRING 1349
+// Doodads: D6BN (Railroad Curve), Name (Name)
+{
+Railroad Curve
+}
+
+STRING 1350
+// Doodads: D6BO (Railroad End), Name (Name)
+{
+Railroad End
+}
+
+STRING 1351
+// Doodads: D6BP (Railroad Branch 02), Name (Name)
+{
+Railroad Branch 02
+}
+
+STRING 1352
+// Doodads: D6BQ (Railroad Branch), Name (Name)
+{
+Railroad Branch
+}
+
+STRING 1353
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Glow Small
+}
+
+STRING 1354
+// Doodads: D6BS (Dirt Explosion), Name (Name)
+{
+Dirt Explosion
+}
+
+STRING 1355
+// Destructibles: B00M (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1356
+// Doodads: D6BV (Leaves Fall Dowm), Name (Name)
+{
+Leaves Fall Dowm
+}
+
+STRING 1357
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Circle of Power
+}
+
+STRING 1358
+// Doodads: D6CG (Volcano Ashes), Name (Name)
+{
+Volcano Ashes
+}
+
+STRING 1359
+// Doodads: D6CI (City Portal Doodad), Name (Name)
+{
+City Portal Doodad
+}
+
+STRING 1360
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1361
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1362
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1363
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1364
+// Doodads: D6CW (Column Semi Circle Pathless), Name (Name)
+{
+Column Semi Circle Pathless
+}
+
+STRING 1365
+// Doodads: D6CZ (Night Elves Banner), Name (Name)
+{
+Night Elves Banner
+}
+
+STRING 1366
+// Doodads: D6D6 (Torture Cage), Name (Name)
+{
+Torture Cage
+}
+
+STRING 1367
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1368
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1369
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1370
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1371
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1372
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1373
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+Dalaran Banner
+}
+
+STRING 1374
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+StromGarde Banner
+}
+
+STRING 1375
+// Doodads: D6DQ (Burning Blade Banner), Name (Name)
+{
+Burning Blade Banner
+}
+
+STRING 1376
+// Doodads: D6DS (LavaFall), Name (Name)
+{
+LavaFall
+}
+
+STRING 1377
+// Doodads: D6DT (Big Castle Doodad), Name (Name)
+{
+Big Castle Doodad
+}
+
+STRING 1378
+// Doodads: D6DW (Wall Long Doodad), Name (Name)
+{
+Wall Long Doodad
+}
+
+STRING 1379
+// Doodads: D6DX (Wall castle short), Name (Name)
+{
+Wall castle short
+}
+
+STRING 1380
+// Doodads: D6E0 (Wall Pillar), Name (Name)
+{
+Wall Pillar
+}
+
+STRING 1381
+// Doodads: D6E1 (Wall Door Big), Name (Name)
+{
+Wall Door Big
+}
+
+STRING 1382
+// Doodads: D6E2 (Wall Door Grate), Name (Name)
+{
+Wall Door Grate
+}
+
+STRING 1383
+// Doodads: D6E3 (Wall Door Small), Name (Name)
+{
+Wall Door Small
+}
+
+STRING 1384
+// Doodads: D6E4 (Wall Door Tall Passage), Name (Name)
+{
+Wall Door Tall Passage
+}
+
+STRING 1385
+// Doodads: D6E5 (Wall Niche), Name (Name)
+{
+Wall Niche
+}
+
+STRING 1386
+// Doodads: D6E6 (Wall Pillar), Name (Name)
+{
+Wall Pillar
+}
+
+STRING 1387
+// Doodads: D6E7 (Wall Torch), Name (Name)
+{
+Wall Torch
+}
+
+STRING 1388
+// Doodads: D6E8 (Wall with Window), Name (Name)
+{
+Wall with Window
+}
+
+STRING 1389
+// Doodads: D6E9 (Wall with Grate), Name (Name)
+{
+Wall with Grate
+}
+
+STRING 1390
+// Doodads: D6EA (Window Royal Glass), Name (Name)
+{
+Window Royal Glass
+}
+
+STRING 1391
+// Doodads: D6EB (Door Doodad), Name (Name)
+{
+Door Doodad
+}
+
+STRING 1392
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+Capital City Structure Block
+}
+
+STRING 1393
+// Doodads: D6EE (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1394
+// Doodads: D6EF (Horde Chest), Name (Name)
+{
+Horde Chest
+}
+
+STRING 1395
+// Doodads: D6EG (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 1396
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1397
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1398
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1399
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+Books Pile C
+}
+
+STRING 1400
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+Books Pile B
+}
+
+STRING 1401
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1402
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1403
+// Doodads: D6EZ (Cloth 01), Name (Name)
+{
+Cloth 01
+}
+
+STRING 1404
+// Doodads: D6F1 (Cloth Red), Name (Name)
+{
+Cloth Red
+}
+
+STRING 1405
+// Doodads: D6F2 (Cloth Blue), Name (Name)
+{
+Cloth Blue
+}
+
+STRING 1406
+// Doodads: D6F3 (Cloth 02), Name (Name)
+{
+Cloth 02
+}
+
+STRING 1407
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1408
+// Doodads: D6F8 (Lightning Branched), Name (Name)
+{
+Lightning Branched
+}
+
+STRING 1409
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1410
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1411
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Winter Crate snow
+}
+
+STRING 1412
+// Doodads: D6FQ (Winter Snow Roadplank 3), Name (Name)
+{
+Winter Snow Roadplank 3
+}
+
+STRING 1413
+// Doodads: D6FR (Winter Snow Roadplank 4), Name (Name)
+{
+Winter Snow Roadplank 4
+}
+
+STRING 1414
+// Doodads: D6FS (Winter Snow Roadplank 2), Name (Name)
+{
+Winter Snow Roadplank 2
+}
+
+STRING 1415
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1416
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1417
+// Doodads: D6G6 (Wasteland Rock 1), Name (Name)
+{
+Wasteland Rock 1
+}
+
+STRING 1418
+// Doodads: D6G7 (Wasteland Rock Small D), Name (Name)
+{
+Wasteland Rock Small D
+}
+
+STRING 1419
+// Doodads: D6G8 (Wasteland Rock Small A), Name (Name)
+{
+Wasteland Rock Small A
+}
+
+STRING 1420
+// Doodads: D6G9 (Wasteland Rock Small B), Name (Name)
+{
+Wasteland Rock Small B
+}
+
+STRING 1421
+// Doodads: D6GA (Wasteland Rock Small C), Name (Name)
+{
+Wasteland Rock Small C
+}
+
+STRING 1422
+// Doodads: D6GB (Ancient Stone 1), Name (Name)
+{
+Ancient Stone 1
+}
+
+STRING 1423
+// Doodads: D6GC (Ancient Stone 2), Name (Name)
+{
+Ancient Stone 2
+}
+
+STRING 1424
+// Doodads: D6GD (Ancient Stone 3), Name (Name)
+{
+Ancient Stone 3
+}
+
+STRING 1425
+// Doodads: D6GE (Ancient Stone 4), Name (Name)
+{
+Ancient Stone 4
+}
+
+STRING 1426
+// Doodads: D6GF (Ancient Stone 5), Name (Name)
+{
+Ancient Stone 5
+}
+
+STRING 1427
+// Doodads: D6GG (Ancient Stone 6), Name (Name)
+{
+Ancient Stone 6
+}
+
+STRING 1428
+// Doodads: D6GH (Aurora Borealis 1), Name (Name)
+{
+Aurora Borealis 1
+}
+
+STRING 1429
+// Doodads: D6GI (Aurora Borealis 2), Name (Name)
+{
+Aurora Borealis 2
+}
+
+STRING 1430
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Orc Long Banner
+}
+
+STRING 1432
+// Doodads: D64B (Iron Forge Ext 01), Name (Name)
+{
+Iron Forge Ext 01
+}
+
+STRING 1433
+// Doodads: D64F (Iron Forge Ext 02), Name (Name)
+{
+Iron Forge Ext 02
+}
+
+STRING 1434
+// Doodads: D64G (Iron Forge Ext 03), Name (Name)
+{
+Iron Forge Ext 03
+}
+
+STRING 1435
+// Doodads: D64I (Iron Forge Ext 04), Name (Name)
+{
+Iron Forge Ext 04
+}
+
+STRING 1436
+// Doodads: D64K (LOD), Name (Name)
+{
+LOD
+}
+
+STRING 1437
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1438
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1439
+// Doodads: D617 (Archway Stone Winter Pathless), Name (Name)
+{
+Archway Stone Winter Pathless
+}
+
+STRING 1440
+// Doodads: D60C (Wasteland Cliff Bottom), Name (Name)
+{
+Wasteland Cliff Bottom
+}
+
+STRING 1441
+// Doodads: D60F (Dungeon Cliff Bottom), Name (Name)
+{
+Dungeon Cliff Bottom
+}
+
+STRING 1442
+// Doodads: D60I (Dungeon Stone Basement), Name (Name)
+{
+Dungeon Stone Basement
+}
+
+STRING 1443
+// Doodads: D60B (Dungeon Wall Straight), Name (Name)
+{
+Dungeon Wall Straight
+}
+
+STRING 1444
+// Doodads: D60E (Dungeon Column Massive Round), Name (Name)
+{
+Dungeon Column Massive Round
+}
+
+STRING 1445
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1446
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1447
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1448
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1449
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+Refugee Banner
+}
+
+STRING 1450
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1451
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1452
+// Doodads: D60R (Steam Cloud), Name (Name)
+{
+Steam Cloud
+}
+
+STRING 1453
+// Doodads: D60S (Digging Dust), Name (Name)
+{
+Digging Dust
+}
+
+STRING 1454
+// Doodads: D60T (Sparks), Name (Name)
+{
+Sparks
+}
+
+STRING 1455
+// Doodads: D60U (SharedFX Test), Name (Name)
+{
+SharedFX Test
+}
+
+STRING 1456
+// Doodads: D60V (Wall Barred Small Endcap), Name (Name)
+{
+Wall Barred Small Endcap
+}
+
+STRING 1457
+// Doodads: D60Y (Wall Barred Endcap Dark), Name (Name)
+{
+Wall Barred Endcap Dark
+}
+
+STRING 1458
+// Doodads: D610 (Wall Barred Small Endcap Dark), Name (Name)
+{
+Wall Barred Small Endcap Dark
+}
+
+STRING 1459
+// Doodads: D60G (Strategy Map), Name (Name)
+{
+Strategy Map
+}
+
+STRING 1460
+// Doodads: D611 (Thandol Bridge), Name (Name)
+{
+Thandol Bridge
+}
+
+STRING 1461
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 1462
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 1463
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 1464
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 1465
+// Doodads: D60M (Wildhammer Well), Name (Name)
+{
+Wildhammer Well
+}
+
+STRING 1466
+// Doodads: D61B (Wildhammer Post), Name (Name)
+{
+Wildhammer Post
+}
+
+STRING 1467
+// Doodads: D61C (Gryphon Shed), Name (Name)
+{
+Gryphon Shed
+}
+
+STRING 1468
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1469
+// Doodads: D61G (Wildhammer Banner), Name (Name)
+{
+Wildhammer Banner
+}
+
+STRING 1489
+// Units: ntor (Whirlwind), Name (Name)
+{
+Whirlwind
+}
+
+STRING 2674
+// Destructibles: B000 (Lordaeron Wall Short), Name (Name)
+{
+Lordaeron Wall Short
+}
+
+STRING 2675
+// Destructibles: B001 (Lordaeron Wall T), Name (Name)
+{
+Lordaeron Wall T
+}
+
+STRING 2676
+// Destructibles: B002 (Lordaeron Wall Long), Name (Name)
+{
+Lordaeron Wall Long
+}
+
+STRING 2677
+// Destructibles: B003 (Lordaeron Wall Corner), Name (Name)
+{
+Lordaeron Wall Corner
+}
+
+STRING 2678
+// Destructibles: B004 (Lordaeron Wall Straight), Name (Name)
+{
+Lordaeron Wall Straight
+}
+
+STRING 2679
+// Destructibles: B005 (Lordaeron Spire), Name (Name)
+{
+Lordaeron Spire
+}
+
+STRING 2680
+// Destructibles: B006 (Lordaeron Palace), Name (Name)
+{
+Lordaeron Palace
+}
+
+STRING 2681
+// Destructibles: B007 (Lordaeron Dome), Name (Name)
+{
+Lordaeron Dome
+}
+
+STRING 2682
+// Destructibles: B008 (Lordaeron Wall Endcap), Name (Name)
+{
+Lordaeron Wall Endcap
+}
+
+STRING 2683
+// Destructibles: B009 (Lordaeron City Gate), Name (Name)
+{
+Lordaeron City Gate
+}
+
+STRING 2684
+// Destructibles: B00A (Lordaeron Roof Tiles), Name (Name)
+{
+Lordaeron Roof Tiles
+}
+
+STRING 2685
+{
+Nation of Azeroth
+}
+
+STRING 2686
+{
+Nation of Lordaeron
+}
+
+STRING 2687
+// Doodads: D000 (DoorArch), Name (Name)
+{
+DoorArch
+}
+
+STRING 2688
+// Doodads: D001 (Balcony), Name (Name)
+{
+Balcony
+}
+
+STRING 2689
+// Destructibles: B00B (Lordaeron Wall Stairs), Name (Name)
+{
+Lordaeron Wall Stairs
+}
+
+STRING 2690
+// Destructibles: B00C (Lordaeron Small Gate), Name (Name)
+{
+Lordaeron Small Gate
+}
+
+STRING 2803
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 2804
+{
+Unable to use Oil Rig.
+}
+
+STRING 2805
+{
+That Oil Patch has already being used.
+}
+
+STRING 2806
+{
+Must build Oil Rig first.
+}
+
+STRING 2807
+{
+Must target an Oil Patch.
+}
+
+STRING 2808
+{
+Must build upon Oil Patch.
+}
+
+STRING 2809
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 2810
+{
+Unholy
+}
+
+STRING 2864
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Stone Bench
+}
+
+STRING 2865
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Wooden Bench
+}
+
+STRING 2866
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Weapon Rack New
+}
+
+STRING 2867
+// Destructibles: B00G (Wooden Floor), Name (Name)
+{
+Wooden Floor
+}
+
+STRING 2868
+// Destructibles: B00H (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 2869
+// Destructibles: B00I (Fence), Name (Name)
+{
+Fence
+}
+
+STRING 2870
+// Destructibles: B00J (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 2871
+// Destructibles: B00K (Fence short), Name (Name)
+{
+Fence short
+}
+
+STRING 2872
+// Units: n004 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2873
+// Units: n006 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2874
+// Units: n007 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2875
+// Units: n008 (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2876
+// Units: n008 (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2877
+// Units: n009 (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Brill)
+}
+
+STRING 2878
+// Units: n009 (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2879
+// Units: n009 (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2880
+// Units: n00A (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Andorhal)
+}
+
+STRING 2881
+// Units: n00A (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2882
+// Units: n00A (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2883
+// Units: n00B (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Stranbrad)
+}
+
+STRING 2884
+// Units: n00B (City clock tower), Name (Name)
+{
+City clock tower
+}
+
+STRING 2885
+// Units: n00B (City clock tower), Tip (Tooltip - Basic)
+{
+Build City clock tower
+}
+
+STRING 2887
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+Build Tavern
+}
+
+STRING 2888
+// Units: n00D (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2889
+// Units: n00E (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2890
+// Units: n00F (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2891
+// Units: n00G (Inn), Name (Name)
+{
+Inn
+}
+
+STRING 2892
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+Build Inn
+}
+
+STRING 2893
+// Units: h003 (Granary), Name (Name)
+{
+Granary
+}
+
+STRING 2894
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+Build Granary
+}
+
+STRING 2895
+// Units: h004 (Windmill), Name (Name)
+{
+Windmill
+}
+
+STRING 2896
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+Build Wimdmill
+}
+
+STRING 2897
+// Units: n00H (Barn), Name (Name)
+{
+Barn
+}
+
+STRING 2898
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+Build Barn
+}
+
+STRING 2899
+// Destructibles: B00L (Chapel), Name (Name)
+{
+Chapel
+}
+
+STRING 2900
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 2901
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+Food Supplies
+}
+
+STRING 2902
+// Units: n00I (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2903
+// Units: n00J (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2904
+{
+Blackrock clan
+}
+
+STRING 2909
+// Destructibles: B00O (Pillows), Name (Name)
+{
+Pillows
+}
+
+STRING 2910
+// Destructibles: B00P (Carpets), Name (Name)
+{
+Carpets
+}
+
+STRING 2911
+// Doodads: D002 (Sign Shadis Lounge), Name (Name)
+{
+Sign Shadis Lounge
+}
+
+STRING 2912
+// Doodads: D003 (Guitar), Name (Name)
+{
+Guitar
+}
+
+STRING 2913
+// Doodads: D004 (Hookah), Name (Name)
+{
+Hookah
+}
+
+STRING 2915
+// Doodads: D6BM (Railroad), Name (Name)
+{
+Railroad
+}
+
+STRING 2918
+{
+Blacktoothgrin clan
+}
+
+STRING 2919
+{
+Dragonmaw clan
+}
+
+STRING 2928
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Cinematic Head Pointer
+}
+
+STRING 2957
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+Thoradin Statue
+}
+
+STRING 2958
+// Units: n00M (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 2959
+// Units: n00M (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2960
+// Units: n00N (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 2961
+// Units: n00N (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2962
+// Units: n00O (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 2963
+// Units: n00O (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2964
+// Units: n00P (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 2965
+// Units: n00P (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2966
+// Units: n00Q (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2967
+// Units: n00R (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 2968
+// Units: n00R (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2969
+// Units: n00S (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 2970
+// Units: n00S (Lordaeron City Building), Name (Name)
+{
+Lordaeron City Building
+}
+
+STRING 2972
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+Sewer Hatch
+}
+
+STRING 2973
+// Doodads: D006 (Cargo), Name (Name)
+{
+Cargo
+}
+
+STRING 2974
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Gunny Bag
+}
+
+STRING 2997
+// Doodads: D647 (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 2998
+// Destructibles: B00R (Vine Trap), Name (Name)
+{
+Vine Trap
+}
+
+STRING 3027
+// Units: h006 (Lordaeron Guard Tower), Name (Name)
+{
+Lordaeron Guard Tower
+}
+
+STRING 3028
+// Units: h007 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+Guard Tower (|cffffcc00G|r)
+}
+
+STRING 3030
+// Units: h007 (Lordaeron Guard Tower), Name (Name)
+{
+Lordaeron Guard Tower
+}
+
+STRING 3033
+// Units: h007 (Lordaeron Guard Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Fat)
+}
+
+STRING 3072
+{
+Lordaeron Cityzens
+}
+
+STRING 3073
+// Units: n00U (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3074
+// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 3075
+// Units: n00V (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3076
+// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 3077
+// Units: n00W (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 3078
+// Units: n00X (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 3080
+// Units: n00Y (Eagle), Name (Name)
+{
+Eagle
+}
+
+STRING 3081
+// Units: n00Z (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3082
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3083
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3084
+// Units: n010 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3085
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3086
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3087
+// Units: n011 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3088
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3089
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3090
+// Units: n012 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3091
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3092
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3093
+// Units: n013 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3094
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3095
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3096
+// Units: n014 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3097
+// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3098
+// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 3099
+// Units: n015 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3100
+// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3101
+// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 3102
+// Units: n016 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3103
+// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3104
+// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 3105
+// Units: n017 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3106
+// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3107
+// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 3108
+// Units: n018 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3109
+// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3110
+// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 3111
+// Units: n019 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3112
+// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3113
+// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 3114
+// Units: n01A (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3115
+// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 3116
+// Units: n01B (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3117
+// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 3118
+// Units: n01C (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3119
+// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 5)
+}
+
+STRING 3120
+// Units: n01D (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3121
+// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 6)
+}
+
+STRING 3122
+// Units: n01E (Lordaeron Woman), Name (Name)
+{
+Lordaeron Woman
+}
+
+STRING 3123
+// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 7)
+}
+
+STRING 3124
+// Units: n01F (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 3125
+// Units: n01G (Child), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 3126
+// Units: n01H (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 3127
+// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3128
+// Units: n01I (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 3129
+// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3130
+// Units: n01J (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 3131
+// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3132
+// Units: n01K (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 3133
+// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3134
+// Units: n01L (Old Citizen), Name (Name)
+{
+Old Citizen
+}
+
+STRING 3135
+// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3136
+// Units: n01M (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 3137
+// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+{
+Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 3138
+// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 3183
+{
+Ironforge Envoy
+}
+
+STRING 3200
+// Units: n01O (Cinematic Raven), Name (Name)
+{
+Cinematic Raven
+}
+
+STRING 3201
+// Doodads: D008 (Guldans Head), Name (Name)
+{
+Guldans Head
+}
+
+STRING 3211
+{
+Kirin Tor
+}
+
+STRING 3214
+// Destructibles: XTbd (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3215
+// Destructibles: B00S (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3216
+// Destructibles: B00S (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 3217
+// Destructibles: B00T (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3218
+// Destructibles: B00T (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 3219
+// Destructibles: B00U (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3220
+// Destructibles: B00U (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(4)
+}
+
+STRING 3221
+// Destructibles: B00V (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3222
+// Destructibles: B00V (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(5)
+}
+
+STRING 3223
+// Destructibles: B00W (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3224
+// Destructibles: B00W (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(6)
+}
+
+STRING 3225
+// Destructibles: B00X (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3226
+// Destructibles: B00X (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(7)
+}
+
+STRING 3227
+// Destructibles: B00Y (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3228
+// Destructibles: B00Y (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(8)
+}
+
+STRING 3229
+// Destructibles: B00Z (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3230
+// Destructibles: B00Z (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(9)
+}
+
+STRING 3231
+// Destructibles: B010 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3232
+// Destructibles: B010 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(10)
+}
+
+STRING 3233
+// Destructibles: B011 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3234
+// Destructibles: B011 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(11)
+}
+
+STRING 3235
+// Destructibles: B012 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3236
+// Destructibles: B012 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(12)
+}
+
+STRING 3237
+// Destructibles: B013 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3238
+// Destructibles: B013 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(13)
+}
+
+STRING 3239
+// Destructibles: B014 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3240
+// Destructibles: B014 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(14)
+}
+
+STRING 3241
+// Destructibles: B015 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3242
+// Destructibles: B015 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(15)
+}
+
+STRING 3243
+// Destructibles: B016 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3244
+// Destructibles: B016 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(16)
+}
+
+STRING 3245
+// Destructibles: B017 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3246
+// Destructibles: B017 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(17)
+}
+
+STRING 3247
+// Destructibles: B018 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3248
+// Destructibles: B018 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(18)
+}
+
+STRING 3249
+// Destructibles: B019 (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3250
+// Destructibles: B019 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(19)
+}
+
+STRING 3251
+{
+Nation of Dalaran
+}
+
+STRING 3252
+// Destructibles: B01A (Dalaran Building), Name (Name)
+{
+Dalaran Building
+}
+
+STRING 3253
+// Destructibles: B01A (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(20)
+}
+
+STRING 3254
+// Doodads: D009 (DivineShield), Name (Name)
+{
+DivineShield
+}
+
+STRING 3308
+{
+Order of Death Knights
+}
+
+STRING 3311
+// Destructibles: B01B (Snowpile Flat), Name (Name)
+{
+Snowpile Flat
+}
+
+STRING 3312
+// Doodads: D00A (Log Doodad), Name (Name)
+{
+Log Doodad
+}
+
+STRING 3314
+// Doodads: D00B (Antonidas Statue), Name (Name)
+{
+Antonidas Statue
+}
+
+STRING 3418
+// Destructibles: B01C (Dead Winter Bush), Name (Name)
+{
+Dead Winter Bush
+}
+
+STRING 3420
+// Doodads: D00D (Bone Bridge), Name (Name)
+{
+Bone Bridge
+}
+
+STRING 3421
+// Destructibles: B01D (Dalaran Stairs), Name (Name)
+{
+Dalaran Stairs
+}
+
+STRING 3426
+// Units: Hamg (Archmage), Propernames (Proper Names)
+{
+Norlan
+}
+
+STRING 3751
+// Doodads: D00C (Banner Long Alterac), Name (Name)
+{
+Banner Long Alterac
+}
+
+STRING 3752
+// Doodads: D00E (Banner Long Dalaran), Name (Name)
+{
+Banner Long Dalaran
+}
+
+STRING 3753
+// Doodads: D00F (Banner Long KulTiras), Name (Name)
+{
+Banner Long KulTiras
+}
+
+STRING 3754
+// Doodads: D00G (Banner Long Stromgarde), Name (Name)
+{
+Banner Long Stromgarde
+}
+
+STRING 3755
+// Doodads: D00H (Terenas Throne), Name (Name)
+{
+Terenas Throne
+}
+
+STRING 3756
+// Doodads: D00I (ThroneRoom Roof), Name (Name)
+{
+ThroneRoom Roof
+}
+
+STRING 3757
+// Doodads: D00J (DoorArch Throne Room), Name (Name)
+{
+DoorArch Throne Room
+}
+
+STRING 3758
+// Destructibles: B01E (Curtains), Name (Name)
+{
+Curtains
+}
+
+STRING 3759
+// Destructibles: B01E (Curtains), EditorSuffix (Editor Suffix)
+{
+(Throne Room)
+}
+
+STRING 3760
+// Destructibles: B01F (FloorCircle), Name (Name)
+{
+FloorCircle
+}
+
+STRING 3761
+// Destructibles: B01F (FloorCircle), EditorSuffix (Editor Suffix)
+{
+(Throne Room)
+}
+
+STRING 3762
+// Destructibles: B01G (Throne Pedestal), Name (Name)
+{
+Throne Pedestal
+}
+
+STRING 3763
+// Destructibles: B01G (Throne Pedestal), EditorSuffix (Editor Suffix)
+{
+(Throne Room)
+}
+
+STRING 3764
+// Doodads: D00K (ThroneFountain), Name (Name)
+{
+ThroneFountain
+}
+
+STRING 3765
+// Destructibles: B01H (Castle Gate), Name (Name)
+{
+Castle Gate
+}
+
+STRING 3766
+// Units: H00C (King), Name (Name)
+{
+King
+}
+
+STRING 3767
+// Units: H00C (King), Propernames (Proper Names)
+{
+Terenas Menethil
+}
+
+STRING 3768
+// Destructibles: B60H (TreePlanter), EditorSuffix (Editor Suffix)
+{
+(X)
+}
+
+STRING 3769
+// Destructibles: B01I (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3770
+// Destructibles: B01I (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Captain Lordaeron)
+}
+
+STRING 3771
+// Destructibles: B01J (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3772
+// Destructibles: B01J (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Militia)
+}
+
+STRING 3773
+// Destructibles: B01K (Dead Body), Name (Name)
+{
+Dead Body
+}
+
+STRING 3774
+// Destructibles: B01K (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Edmundson)
+}
+
+STRING 3775
+// Doodads: YOcp (Light Fire), Name (Name)
+{
+Light Fire
+}
+
+STRING 3776
+// Doodads: D00L (Light Omni), Name (Name)
+{
+Light Omni
+}
+
+STRING 3777
+// Units: oFCD (DragonRoot), Name (Name)
+{
+DragonRoot
+}
+
+STRING 3780
+// Units: oCM1 (Ogre Drummer), Name (Name)
+{
+Ogre Drummer
+}
+
+STRING 3781
+// Units: oCM2 (Undead Guitarist), Name (Name)
+{
+Undead Guitarist
+}
+
+STRING 3782
+// Units: oCM3 (Troll Guitarist), Name (Name)
+{
+Troll Guitarist
+}
+
+STRING 3783
+// Units: oCM4 (Maim Guitarist), Name (Name)
+{
+Maim Guitarist
+}
+
+STRING 3784
+// Units: oCM5 (Doomhammer Guitarist), Name (Name)
+{
+Doomhammer Guitarist
+}
+
+STRING 3785
+// Units: oCM6 (Orc Singer), Name (Name)
+{
+Orc Singer
+}
+
+STRING 3786
+// Doodads: D00M (Wall Endcap Orcish), Name (Name)
+{
+Wall Endcap Orcish
+}
+
+STRING 3787
+// Doodads: D00N (Wall Orcish Straight (Short)), Name (Name)
+{
+Wall Orcish Straight (Short)
+}
+
+STRING 3788
+// Units: oCM7 (Utok Barorque), Name (Name)
+{
+Utok Barorque
+}
+
+STRING 3789
+// Doodads: D00O (Camera), Name (Name)
+{
+Camera
+}
+
+STRING 3790
+{
+LoreCraft Designs team:
+}
+
+STRING 3791
+{
+|cffffcc00Tamplier (Eugene Ivaniushchenko)|r - Ecriture, création des terrains, codage, modélisation, animation.
+}
+
+STRING 3792
+{
+LoreCraft Designs team:
+}
+
+STRING 3793
+{
+|cffffcc00Shadi Al-Abadi|r - Ecriture des dialogues, création des terrains, modélisation, texturage, conception sonore.
+}
+
+STRING 3794
+{
+LoreCraft Designs team:
+}
+
+STRING 3795
+{
+|cffffcc00Bagysta (Goulven Labat)|r - modèles et textures pour les unités de la Horde.
+}
+
+STRING 3796
+{
+LoreCraft Designs team:
+}
+
+STRING 3797
+{
+|cffffcc00Barorque (Maksims Simaitis)|r - Modèles et textures pour les unités de l'Alliance. Création des terrains, codage et animations.
+}
+
+STRING 3798
+{
+LoreCraft Designs team:
+}
+
+STRING 3799
+{
+|cffffcc00Kam (Ryan Kinports)|r - Codage, Script IA, création des terrains.
+}
+
+STRING 3800
+{
+LoreCraft Designs team:
+}
+
+STRING 3801
+{
+|cffffcc00Marthen Andeval (Martin H. J.)|r - Map-monde, écrans de chargement, relecture, gardien du Lore.
+}
+
+STRING 3806
+{
+LoreCraft Designs team:
+}
+
+STRING 3807
+{
+|cffffcc00MrGoblin (Vincent Turcot)|r - Icônes, textures, écrans de chargement, création des terrains.
+}
+
+STRING 3808
+{
+Merci aux Contributeurs:
+}
+
+STRING 3809
+{
+|cffffcc00Retera|r pour son studio de modélisation. Sans lui, ce projet aurait été impossible
+}
+
+STRING 3810
+{
+Merci aux Contributeurs:
+}
+
+STRING 3811
+{
+|cffffcc00InsaneMonster|r pour ses recherches sur la synchronisation labiale et les scripts IA, pour ses conseils techniques et ses modèles incroyables.
+}
+
+STRING 3814
+{
+Merci aux Contributeurs:
+}
+
+STRING 3815
+{
+|cffffcc00Twilac|r for help with blender mdx plugin and extending RMS tool.
+}
+
+STRING 3816
+{
+Merci aux Contributeurs:
+}
+
+STRING 3817
+{
+|cffffcc00Zorrot|r and |cffffcc00QuenchingTeam|r for asset installer and technical help.
+}
+
+STRING 3818
+{
+Merci aux Contributeurs:
+}
+
+STRING 3819
+{
+|cffffcc00Handclaw|r for amazing posters and concept art. As well as texturing and modeling help.
+}
+
+STRING 3820
+{
+Merci aux Contributeurs:
+}
+
+STRING 3821
+{
+|cffffcc00Trolldaeron|r for icons, concept art. As well as texturing and modeling help.
+}
+
+STRING 3822
+{
+Merci aux Contributeurs:
+}
+
+STRING 3823
+{
+|cffffcc00Spellbound|r for amazing jass Oil harvest script.
+}
+
+STRING 3824
+{
+Merci aux Contributeurs:
+}
+
+STRING 3825
+{
+|cffffcc00Mythic(Vinz)|r for models of various special effects and especially, Oil Patch.
+}
+
+STRING 3826
+{
+Merci aux Contributeurs:
+}
+
+STRING 3827
+{
+|cffffcc00Mr Ogre Man|r for models and animation support.
+}
+
+STRING 3828
+{
+Merci aux Contributeurs:
+}
+
+STRING 3829
+{
+|cffffcc00Antontama|r for icons and support in early alpha.
+}
+
+STRING 3830
+{
+Merci aux Contributeurs:
+}
+
+STRING 3831
+{
+|cffffcc00FugrimTheOne|r for tweaking models and animations. And for human Guard models.
+}
+
+STRING 3832
+{
+Merci aux Contributeurs:
+}
+
+STRING 3833
+{
+|cffffcc00Dekogon Studios|r for ancient treasures model pack.
+}
+
+STRING 3834
+{
+Merci aux Contributeurs:
+}
+
+STRING 3835
+{
+|cffffcc00Herrdave|r for his help with English grammar and text/dialogues reivew in early alpha.
+}
+
+STRING 3836
+{
+Merci aux Contributeurs:
+}
+
+STRING 3837
+{
+|cffffcc00Abfal|r for help with triggers.
+}
+
+STRING 3838
+{
+Merci aux Contributeurs:
+}
+
+STRING 3839
+{
+|cffffcc00Vulfar|r for knowledge sharing in modeling and WoW model rips. Also for Alexandros Mograine model.
+}
+
+STRING 3840
+{
+Merci aux Contributeurs:
+}
+
+STRING 3841
+{
+|cffffcc00Sunchips|r for animated grass model.
+}
+
+STRING 3842
+{
+Merci aux Contributeurs:
+}
+
+STRING 3843
+{
+|cffffcc00HL_Vortex|r for his CityScape Doodad Pack.
+}
+
+STRING 3844
+{
+Merci aux Contributeurs:
+}
+
+STRING 3845
+{
+|cffffcc00Darious|r for contribution to Elven Building models.
+}
+
+STRING 3846
+{
+Merci aux Contributeurs:
+}
+
+STRING 3847
+{
+|cffffcc00Zenmaster|r for art and lore support.
+}
+
+STRING 3848
+{
+Merci aux Contributeurs:
+}
+
+STRING 3849
+{
+|cffffcc00Fingolfin|r for wheat field model.
+}
+
+STRING 3850
+{
+Merci aux Contributeurs:
+}
+
+STRING 3851
+{
+|cffffcc00Wildone|r for elven botanist model and for Retera Whoolomancer model.
+}
+
+STRING 3852
+{
+Merci aux Contributeurs:
+}
+
+STRING 3853
+{
+|cffffcc00Superfrycook|r for contribution to Elven Building models.
+}
+
+STRING 3854
+{
+Merci aux Contributeurs:
+}
+
+STRING 3855
+{
+|cffffcc00Mayday|r for help with Abilities implementation.
+}
+
+STRING 3856
+{
+Merci aux Contributeurs:
+}
+
+STRING 3857
+{
+|cffffcc00Symphoneum|r for help with models and animations.
+}
+
+STRING 3858
+{
+Merci aux Contributeurs:
+}
+
+STRING 3859
+{
+|cffffcc00Symphoneum|r for help with models and animations.
+}
+
+STRING 3860
+{
+Merci aux Contributeurs:
+}
+
+STRING 3861
+{
+|cffffcc00BurnedSmackDown|r for help with models and animations.
+}
+
+STRING 3862
+{
+Merci aux Contributeurs:
+}
+
+STRING 3863
+{
+|cffffcc00Mr. Smite|r for the RPG doodads pack.
+}
+
+STRING 3864
+{
+Merci aux Contributeurs:
+}
+
+STRING 3865
+{
+|cffffcc00MWM|r for RPG items models.
+}
+
+STRING 3866
+{
+Merci aux Contributeurs:
+}
+
+STRING 3867
+{
+|cffffcc00ZoomMan|r for worker troll model.
+}
+
+STRING 3870
+{
+Merci aux Contributeurs:
+}
+
+STRING 3871
+{
+|cffffcc00VictorZ|r for dragon animations pack.
+}
+
+STRING 3872
+{
+Merci aux Contributeurs:
+}
+
+STRING 3873
+{
+|cffffcc00Vindorei|r for his amazing models.
+}
+
+STRING 3874
+{
+Usage of external music:
+}
+
+STRING 3875
+{
+|cffffcc00Ramin Djawadi|r - "The Horde" (Warcraft movie OST).
+}
+
+STRING 3876
+{
+Usage of external music:
+}
+
+STRING 3877
+{
+|cffffcc00Aostino Pasqualini|r - remaster "The Marsh" from Warcraft 2 OST (Original Blizzard midi).
+}
+
+STRING 3878
+{
+Usage of external music:
+}
+
+STRING 3879
+{
+|cffffcc00Shadi Al-Abadi|r - remaster of Warcraft 2 OST (Original Blizzard midi).
+}
+
+STRING 3880
+{
+Usage of external music:
+}
+
+STRING 3881
+{
+|cffffcc00The Second Narrator|r - remaster of Warcraft 2 Menu theme.
+}
+
+STRING 3882
+{
+Usage of external music:
+}
+
+STRING 3883
+{
+|cffffcc00Paleowolf|r - original tracks "Shaman", "Reign of the Ork", "Hymn to Gor", "Kronn the Conqueror" from Orkforge album.
+}
+
+STRING 3884
+{
+Usage of external sounds:
+}
+
+STRING 3885
+{
+|cffffcc00Michae Ghelfi|r - RPG Audio loop for city battlefield.
+}
+
+STRING 3886
+{
+Beta Testers:
+}
+
+STRING 3887
+{
+| |cffffcc00BaronBlackthorn|r | |cffffcc00Ehlesgens|r  | |cffffcc00Flinn|r | |cffffcc00Handclaw|r | |cffffcc00Jmv_cyber|r |  |cffffcc00Mr Ogre Man (Smegmastico)|r | |cffffcc00Nagax|r | |cffffcc00Nsyw|r | |cffffcc00Symphoneum|r | |cffffcc00Whirlwind|r |
+}
+
+STRING 3888
+{
+Usage of external music:
+}
+
+STRING 3889
+{
+|cffffcc00Vincent Moretto|r - Metal Remixes of Orc Themes from Warcraft 2.
+}
+
+STRING 3890
+{
+Voice Actors Cast (English):
+}
+
+STRING 3891
+{
+|cffffcc00Shadi|r: | Orgrim Doomhammer | Rend Blackhand | Maim Blackhand  | Ogre Juggernaut  | Troll Destroyer | Ogre Magi | Orc Spear Thrower | Orc Archer | Twilght’s Hammer Grunt | Twilght’s Hammer Peon | Twilght’s Hammer Archer | Gnomish Submarine | Fire Elemental |
+}
+
+STRING 3892
+{
+Voice Actors Cast (English):
+}
+
+STRING 3893
+{
+|cffffcc00Nyte|r: | Troll Axe-thrower | Elven Archer | Milan the Scribe | Elven Destroyer | Elven Archmage | Captain Meryn | Samwell | Kobold | Aman’ishi Captain | Black Tomahawk | Loa |
+}
+
+STRING 3894
+{
+Voice Actors Cast (English):
+}
+
+STRING 3895
+{
+|cffffcc00BaronBlackthorn|r: | Grunt | Utok Scratcher | Peasant | Knight | Paladin | Human Destroyer | Tharbek | Kil’rogg Deadeye | Ner’zhul | Sargeras | Mage | Human Oil Tanker | Uther The Lightbringer |
+}
+
+STRING 3896
+{
+Voice Actors Cast (English):
+}
+
+STRING 3897
+{
+|cffffcc00Jmv_cyber|r: | Zuluhed the Whacked | Gul’dan | Thoras Trollbane | Drak’thul | Bleeding Hollow Grunt |
+}
+
+STRING 3898
+{
+Voice Actors Cast (English):
+}
+
+STRING 3899
+{
+|cffffcc00Zuelah|r: | Cho |
+}
+
+STRING 3900
+{
+Voice Actors Cast (English):
+}
+
+STRING 3901
+{
+|cffffcc00Phantasmagoria|r: | Gall |
+}
+
+STRING 3902
+{
+Voice Actors Cast (English):
+}
+
+STRING 3903
+{
+|cffffcc00Eaok|r: | Captain | Footman | Luric |
+}
+
+STRING 3904
+{
+Voice Actors Cast (English):
+}
+
+STRING 3905
+{
+|cffffcc00Avekatten|r: | Teron’Gor | Varok Saurfang |
+}
+
+STRING 3906
+{
+Voice Actors Cast (English):
+}
+
+STRING 3907
+{
+|cffffcc00CreativeJp|r: | Zul'jin |
+}
+
+STRING 3908
+{
+Voice Actors Cast (English):
+}
+
+STRING 3909
+{
+|cffffcc00Christina Sherman|r: | Garona Halforcen | Ula’tek | Timmy |
+}
+
+STRING 3910
+{
+Voice Actors Cast (English):
+}
+
+STRING 3911
+{
+|cffffcc00MoxySpunt|r: | Goblin Zeppelin | Orc Oil Tanker | Peon | Eitirgg | Death Knight | Wildhammer Axe Thrower | Samuro | Demolition Squad | Orc Transport | Human Transport |
+}
+
+STRING 3912
+{
+Voice Actors Cast (English):
+}
+
+STRING 3913
+{
+|cffffcc00Richard (Wtiiwarcraft)|r: | Hillsbrad Magistrate |
+}
+
+STRING 3914
+{
+Voice Actors Cast (English):
+}
+
+STRING 3915
+{
+|cffffcc00WolfGangHemingway |r: | Nekros Skullcrusher  |
+}
+
+STRING 3916
+{
+Voice Actors Cast (English):
+}
+
+STRING 3917
+{
+|cffffcc00Vox Tenebrae|r: | Gryphon Rider  | Demolition Squad – Dwarf A | Kurdran Wildhammer | Reginald Baradin II |
+}
+
+STRING 3918
+{
+Voice Actors Cast (English):
+}
+
+STRING 3919
+{
+|cffffcc00Zytel|r: | Gnomish Flying Machine  | Liam Trollbane | Alonsus Faol | Dalaran Archmage |
+}
+
+STRING 3920
+{
+Voice Actors Cast (English):
+}
+
+STRING 3921
+{
+|cffffcc00Yoti Coyote|r: | Amani Priests  | Rommath | Alexandros Mograine | Human Archer |
+}
+
+STRING 3922
+{
+Voice Actors Cast (English):
+}
+
+STRING 3923
+{
+|cffffcc00Frozen Death Knight|r: | Rakmar Sharpfang  | Deathwing | King Terenas Menethil |
+}
+
+STRING 3924
+{
+Voice Actors Cast (English):
+}
+
+STRING 3925
+{
+|cffffcc00Aleksandrs Vlasenko|r: | Vincent the Turncoat  | Prince Steamwheedle | Anduin Lothar | Saidan Dathrohan | Medivh | Goblin Sappers |
+}
+
+STRING 3926
+{
+Voice Actors Cast (English):
+}
+
+STRING 3927
+{
+|cffffcc00Veronnis|r: | High Elf Swordman | Halduron Brightwing |
+}
+
+STRING 3928
+{
+Voice Actors Cast (English):
+}
+
+STRING 3929
+{
+|cffffcc00Retera+AI|r: | Retera the Woolomancer |
+}
+
+STRING 3930
+{
+Voice Actors Cast (English):
+}
+
+STRING 3931
+{
+|cffffcc00Jeremiah|r: | Lord Robyr Veldelmar | Additional Orc voices (cutscenes) |
+}
+
+STRING 3932
+{
+Voice Actors Cast (English):
+}
+
+STRING 3933
+{
+|cffffcc00AliceCry|r: | Alexstrasza | Liadrin |
+}
+
+STRING 3934
+{
+Voice Actors Cast (English):
+}
+
+STRING 3935
+{
+|cffffcc00Jodi Penner|r: | Lireesa Windrunner | Mara Fordragon | Aegywnn | 
+}
+
+STRING 3936
+{
+Voice Actors Cast (English):
+}
+
+STRING 3937
+{
+|cffffcc00Symphoneum|r: | General Iselglof |
+}
+
+STRING 3938
+{
+Supporters:
+}
+
+STRING 3939
+{
+| |cffffcc00Kaigar|r | |cffffcc00InsaneMonster|r  | |cffffcc00Elliot Yun|r | |cffffcc00KickKing|r | |cffffcc00Moonfury|r |  |cffffcc00Nsyw|r | |cffffcc00Nxnja|r | |cffffcc00Outcastt|r | |cffffcc00ThralltheOG|r | |cffffcc00Vvolfen|r | |cffffcc00ZoomMan|r |
+}
+
+STRING 3940
+{
+Thanks to Contributors:
+}
+
+STRING 3941
+{
+|cffffcc00Demetres|r for his help with animations.
+}
+
+STRING 3942
+{
+Supporters:
+}
+
+STRING 3943
+{
+| |cffffcc00Jakob Isebäck|r | |cffffcc00Damaso Rodriguez|r  | |cffffcc00Andrew Allen|r | |cffffcc00Alexandre Aubert|r | |cffffcc00Timurmalik Shomatov|r |  |cffffcc00Travis Tolsma|r | |cffffcc00Vjaceslavs Sorokoletovs|r | |cffffcc00Leszek Lichowski|r | |cffffcc00Tony Pettersen|r | |cffffcc00Sönke Kalt|r | |cffffcc00Rod Bullock|r |
+}
+
+STRING 3944
+{
+Supporters:
+}
+
+STRING 3945
+{
+| |cffffcc00Ha Thanh|r | |cffffcc00Angela Malcolm|r  | |cffffcc00Olivier Handelsman|r | |cffffcc00Timothy Cannon|r | |cffffcc00Daniel Gehrke|r |  |cffffcc00Leah Green|r | |cffffcc00Antonio Hermann|r | |cffffcc00Matthew Ebelt|r | |cffffcc00Simone Iannilli|r | |cffffcc00Michael English|r | |cffffcc00Christopher Overington|r |
+}
+
+STRING 3946
+{
+Supporters:
+}
+
+STRING 3947
+{
+| |cffffcc00Ralf Bleymehl|r | |cffffcc00Jesse Williams|r | |cffffcc00Dominic Jurkiewicz|r | |cffffcc00Alex Hansen|r | |cffffcc00Santiago Cereceda Oliver|r |  |cffffcc00Tim Pollok|r | |cffffcc00Joshua Meredith|r | |cffffcc00Kyle Sears|r | |cffffcc00Filip Basiak|r | |cffffcc00Steven Neusse|r | |cffffcc00Kyle Delestowicz|r |
+}
+
+STRING 3950
+{
+Supporters:
+}
+
+STRING 3951
+{
+| |cffffcc00Illarionov Romanl|r | |cffffcc00Michael Melnik|r  | |cffffcc00David Zelenka|r | |cffffcc00James Hutchinson|r | |cffffcc00Olivier Grosseuvres|r |  |cffffcc00Anton Naumenko|r | |cffffcc00Dmytro Stukalskyi|r | |cffffcc00Alessandro Rossi|r | |cffffcc00Victor Bozhok|r | |cffffcc00Andrew Allen|r | |cffffcc00Fernanto Saimkoou|r |
+}
+
+STRING 3952
+{
+Supporters:
+}
+
+STRING 3953
+{
+| |cffffcc00Daniel Soto Moncada|r | |cffffcc00Jan-Nick Eul|r  | |cffffcc00Robert Cassidy|r | |cffffcc00Adrián Irache Prades|r | |cffffcc00Joseph Bomberger|r |  |cffffcc00Mark Wright|r | |cffffcc00Rich Langley|r | |cffffcc00Alexey Dmiterko|r | |cffffcc00Daniel Atanasov|r | |cffffcc00Iván García Núñez|r | |cffffcc00Cees de Wit|r |
+}
+
+STRING 3954
+{
+Supporters:
+}
+
+STRING 3955
+{
+| |cffffcc00Andrew Becker|r | |cffffcc00Stephen Beare|r  | |cffffcc00Rongzhi Wang|r | |cffffcc00Alexandru-Gabriel Rait|r | |cffffcc00Dmitriy Lukianinov|r |  |cffffcc00Arthur Lorenz|r | |cffffcc00Daan de Wit|r | |cffffcc00Benyamin Yehudi|r | |cffffcc00Justin Wells|r | |cffffcc00Alexandre Lesage|r | |cffffcc00John Evenwel|r |
+}
+
+STRING 3956
+{
+Supporters:
+}
+
+STRING 3957
+{
+| |cffffcc00Viktor Malmgren|r | |cffffcc00Romain Leaument|r  | |cffffcc00Andrew Allen|r | |cffffcc00Eric Theller|r | |cffffcc00Daniel Arday|r |  |cffffcc00Aleksandrs Vlasenko|r | |cffffcc00Kamil Ginatulin|r | |cffffcc00Eric Castro|r | |cffffcc00Zhongxian Chen|r | |cffffcc00Joshua Meredith|r | |cffffcc00Vadim Breslavets|r |
+}
+
+STRING 3958
+{
+Supporters:
+}
+
+STRING 3959
+{
+| |cffffcc00Joel Carlberg Torsell|r | |cffffcc00Josef Johansson|r  | |cffffcc00Miroslav Sapara|r | |cffffcc00Jesse Maire|r | |cffffcc00Christopher Markis|r | |cffffcc00Diogo António Toste Fortuna|r | |cffffcc00Marco Weller|r | |cffffcc00Edward Char|r | |cffffcc00Mark3Films|r | |cffffcc00Sebastian Hedenborg|r |
+}
+
+STRING 3960
+{
+Supporters:
+}
+
+STRING 3961
+{
+| |cffffcc00Jens Norell|r | |cffffcc00Victor Porubin|r  | |cffffcc00Tomáš Straňák|r | |cffffcc00Bryk Fiodar|r | |cffffcc00Kevin Perreaut|r |  |cffffcc00Sam Driver|r | |cffffcc00Alecc Costanzi|r | |cffffcc00Rene Ernst|r | |cffffcc00Junxiang Zhao|r | |cffffcc00Arni Solari Potilla|r | |cffffcc00Lex Honecker|r |
+}
+
+STRING 3962
+{
+Supporters:
+}
+
+STRING 3963
+{
+| |cffffcc00Skylar Ross|r | |cffffcc00Anton Proskurin|r  | |cffffcc00ziziman|r | |cffffcc00Tipou Wc3|r |
+}
+
+STRING 3964
+{
+Usage of external music:
+}
+
+STRING 3965
+{
+|cffffcc00Ramin Djawadi|r - "Gul'dan" (Warcraft movie OST).
+}
+
+STRING 3966
+{
+Usage of external music:
+}
+
+STRING 3967
+{
+|cffffcc00Jason Hayes, Tracy W. Bush, Derek Duke, Russell Brower, Matt Uelmen, Neal Acree, David Arkenstone, Glenn Stafford, Clint Bajakian, Sam Cardon, Craig Stuart Garfinkle, Edo Guidotti and Eimear Noone|r - various music themes from World of Warcraft.
+}
+
+STRING 3968
+{
+From LoreCraft with love:
+}
+
+STRING 3969
+{
+Huge |cffffcc00thank you|r to everyone who supported us, helped us, believed in us. We hope this campaign was fun to play.
+
+Stay tuned for upcoming sequel |cffffcc00"Chronicles of the Second War - Rise of the Alliance".|r
+}
+
+STRING 3970
+// Doodads: D00P (Spotlight), Name (Name)
+{
+Spotlight
+}
+
+STRING 3973
+{
+Thanks to Contributors:
+}
+
+STRING 3974
+{
+|cffffcc00Mwas|r for modeling high elven characters.
+}
+
+STRING 3975
+{
+Thanks to Contributors:
+}
+
+STRING 3976
+{
+|cffffcc00Spooky (Jimmy Haumann)|r - texts proofreading, dialogue writing, alpha testing.
+}
+
+STRING 3977
+{
+Thanks to Contributors:
+}
+
+STRING 3978
+{
+|cffffcc00Outsider Xandros Editor|r - trigger polishing, beta testing, debugging.
+}
+
+STRING 3979
+// Doodads: DJ1Q (DJ Table 01), Name (Name)
+{
+DJ Table 01
+}
+
+STRING 3980
+// Doodads: DJ2Q (DJ Table 02), Name (Name)
+{
+DJ Table 02
+}
+
+STRING 3981
+// Doodads: DJ3Q (DJ Table 03), Name (Name)
+{
+DJ Table 03
+}
+
+STRING 3984
+{
+Thanks to Contributors
+}
+
+STRING 3985
+{
+|cffffcc00SavingTheWow|r - Tweaking the Campaign loading screen render.
+}
+
+STRING 3986
+// Items: I0L0 (WC2Orc14Terenas01), Tip (Tooltip - Basic)
+{
+Terenas Menethil II
+}
+
+STRING 3987
+// Items: I0L0 (WC2Orc14Terenas01), Description (Description)
+{
+Gardes ! À moi !
+}
+
+STRING 3988
+// Items: I0L0 (WC2Orc14Terenas01), Name (Name)
+{
+WC2Orc14Terenas01
+}
+
+STRING 3989
+// Items: I0L1 (WC2Orc14Utok_Epilogue01), Description (Description)
+{
+Les brasiers de la victoire s'élèvent haut vers les cieux crépusculaires recouvrant les ruines de la capitale de Lordaeron. Leur pleutre de roi, terré dans son château, est encerclé, et sa fin est inéluctable. .
+}
+
+STRING 3990
+// Items: I0L1 (WC2Orc14Utok_Epilogue01), Name (Name)
+{
+WC2Orc14Utok_Epilogue01
+}
+
+STRING 3991
+// Items: I0L2 (WC2Orc14Utok_Epilogue02), Description (Description)
+{
+Notre succès conduisit Orgrim Doomhammer - Chef de guerre de la Horde des Orcs - à m'élever au rang de Seigneur de guerre. Me conférant ainsi l'autorité de commander mon propre clan..
+}
+
+STRING 3992
+// Items: I0L2 (WC2Orc14Utok_Epilogue02), Name (Name)
+{
+WC2Orc14Utok_Epilogue02
+}
+
+STRING 3993
+// Items: I0L3 (WC2Orc14Utok_Epilogue03), Description (Description)
+{
+Une fois l'Alliance écrasée, tous ses survivants seront massacrés et incinérés tel que le dictent les rituels. Alors, Azeroth et toutes ses terres appartiendront enfin à la puissance tonitruante connue de ceux suffisament stupide pour se dresser contre elle comme... La Horde.
+}
+
+STRING 3994
+// Items: I0L3 (WC2Orc14Utok_Epilogue03), Name (Name)
+{
+WC2Orc14Utok_Epilogue03
+}
+
+STRING 3995
+{
+Thanks to Contributors:
+}
+
+STRING 3996
+{
+|cffffcc00Will of the Almighty|r for explosion effect models.
+}
+

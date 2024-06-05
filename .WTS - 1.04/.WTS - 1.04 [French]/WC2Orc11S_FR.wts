@@ -1,0 +1,3013 @@
+﻿STRING 6
+{
+Zul'Aman
+}
+
+STRING 8
+{
+Chapitre oublié III : Zul'Aman
+}
+
+STRING 9
+{
+LoreCraftDesigns
+}
+
+STRING 11
+// Destructibles: ZTr3 (- Ramp Naga Small (Bottom)), Name (Name)
+{
+- Petite Rampe Naga (Bottom)
+}
+
+STRING 12
+// Destructibles: ZTr0 (- Ramp Naga Small (Left)), Name (Name)
+{
+- Petite Rampe Naga (Left)
+}
+
+STRING 13
+// Destructibles: ZTr2 (- Ramp Naga Small (Right)), Name (Name)
+{
+- Petite Rampe Naga (Right)
+}
+
+STRING 14
+// Destructibles: ZTr1 (- Ramp Naga Small (Top)), Name (Name)
+{
+- Petite Rampe Naga (Top)
+}
+
+STRING 65
+// Doodads: ZRbs (- Rubble Small), Name (Name)
+{
+- Petits débris
+}
+
+STRING 66
+// Doodads: ZRbd (- Rubble Large), Name (Name)
+{
+- Débris larges
+}
+
+STRING 86
+// Destructibles: LTlt (-ZL-Pine ), Name (Name)
+{
+-ZL-Pin 
+}
+
+STRING 87
+// Destructibles: ZTnc (-ZL-Ruins Naga Circle), Name (Name)
+{
+-ZL-Ruines du Cercle Naga
+}
+
+STRING 88
+// Destructibles: CTtr (-ZUL-Felwood), Name (Name)
+{
+-ZUL-Felwood
+}
+
+STRING 89
+// Destructibles: B000 (-ZL-Zul'Aman Bridge), Name (Name)
+{
+-ZL-Pont de Zul'Aman
+}
+
+STRING 90
+// Destructibles: B001 (-ZL-Pine ), Name (Name)
+{
+-ZL-Pin
+}
+
+STRING 91
+// Destructibles: B001 (-ZL-Pine ), EditorSuffix (Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 92
+// Destructibles: B002 (-ZUL-Felwood), Name (Name)
+{
+-ZUL-Felwood
+}
+
+STRING 93
+// Destructibles: B002 (-ZUL-Felwood), EditorSuffix (Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 95
+// Doodads: D001 (-ZL-Fence 1), Name (Name)
+{
+-ZL-Clôture 1
+}
+
+STRING 96
+// Doodads: D002 (-ZL-Wall End Lantern), Name (Name)
+{
+-ZL-Lanterne murale
+}
+
+STRING 97
+// Doodads: D003 (-ZL-Wall Long), Name (Name)
+{
+-ZL-Mur long
+}
+
+STRING 98
+// Doodads: D004 (-ZL-Wall End Tall), Name (Name)
+{
+-ZL-Extrémité du mur haut
+}
+
+STRING 99
+// Doodads: D005 (-ZL-Waterfall), Name (Name)
+{
+-ZL-Cascade
+}
+
+STRING 100
+// Doodads: D007 (-ZL-River Rushes), Name (Name)
+{
+-ZL-Ruées fluviales
+}
+
+STRING 101
+// Doodads: D006 (-ZL-Cattail), Name (Name)
+{
+-ZL-Quenouilles
+}
+
+STRING 102
+// Doodads: D008 (-ZL-Lily Pad), Name (Name)
+{
+-ZL-Nénuphar
+}
+
+STRING 103
+// Doodads: D00A (-ZL-Wall Short), Name (Name)
+{
+-ZL-Mur court
+}
+
+STRING 104
+// Doodads: D00C (-ZL-Wall Long (Pitch 2)), Name (Name)
+{
+-ZL-Mur long (Pitch 2)
+}
+
+STRING 105
+// Doodads: D00D (-ZL-Wall Long (Pitch 1)), Name (Name)
+{
+-ZL-Mur long (Pitch 1)
+}
+
+STRING 106
+// Doodads: D009 (-ZL-Wall Low), Name (Name)
+{
+-ZL-Mur bas
+}
+
+STRING 107
+// Doodads: D00B (-ZL-Eggs), Name (Name)
+{
+-ZL-Oeufs
+}
+
+STRING 108
+// Doodads: D00F (-ZL-Wall T), Name (Name)
+{
+-ZL-Mur T
+}
+
+STRING 109
+// Doodads: D00G (-ZL-Wall Corner), Name (Name)
+{
+-ZL-Coin de mur
+}
+
+STRING 110
+// Doodads: D00H (-ZL-Stone Strash), Name (Name)
+{
+-ZL-Déchets de pierre
+}
+
+STRING 111
+// Doodads: D00I (-ZL-Pillar), Name (Name)
+{
+-ZL-Pilliers
+}
+
+STRING 112
+// Doodads: D00J (-ZL-Altar), Name (Name)
+{
+-ZL-Autel
+}
+
+STRING 113
+// Doodads: D00K (-ZL-Obelisk), Name (Name)
+{
+-ZL-Obélisque
+}
+
+STRING 114
+// Doodads: D00L (-ZL-Archway), Name (Name)
+{
+-ZL-Voûte
+}
+
+STRING 115
+// Doodads: D00M (-ZL-Wall End), Name (Name)
+{
+-ZL-Extrémité du mur
+}
+
+STRING 116
+// Doodads: D00N (-ZL-Wooden Stairs), Name (Name)
+{
+-ZL-Escaliers en bois
+}
+
+STRING 117
+// Doodads: D00O (-ZL-Vase 1), Name (Name)
+{
+-ZL-Vase 1
+}
+
+STRING 118
+// Doodads: D00P (-ZL-Vase 2), Name (Name)
+{
+-ZL-Vase 2
+}
+
+STRING 119
+// Doodads: D00Q (-ZL-Sacks), Name (Name)
+{
+-ZL-Sacs
+}
+
+STRING 120
+// Doodads: D00R (-ZL-Vase 3), Name (Name)
+{
+-ZL-Vase 3
+}
+
+STRING 121
+// Doodads: D00S (-ZL-Barrel laying), Name (Name)
+{
+-ZL-Pose de fûts
+}
+
+STRING 122
+// Doodads: D00T (-ZL-Log Wall), Name (Name)
+{
+-ZL-Mur en rondins
+}
+
+STRING 123
+// Doodads: D00E (-ZL-Wall Ornate 1), Name (Name)
+{
+-ZL-Mur orné 1
+}
+
+STRING 124
+// Doodads: D00U (-ZL-Wall Ornate 3), Name (Name)
+{
+-ZL-Mur orné 3
+}
+
+STRING 125
+// Doodads: D00V (-ZL-Wall Ornate 2), Name (Name)
+{
+-ZL-Mur orné 2
+}
+
+STRING 126
+// Doodads: D00W (-ZL-Wall Ornate 4), Name (Name)
+{
+-ZL-Mur orné 4
+}
+
+STRING 127
+// Doodads: D00X (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Hutte Amani
+}
+
+STRING 128
+// Doodads: D00Y (-ZL-Conifer Roof 1), Name (Name)
+{
+-ZL-Toit de conifères 1
+}
+
+STRING 129
+// Doodads: D00Z (-ZL-Nest), Name (Name)
+{
+-ZL-Nid
+}
+
+STRING 130
+// Doodads: D010 (-ZL-Amani Cage), Name (Name)
+{
+-ZL-Cage Amani
+}
+
+STRING 131
+// Doodads: D011 (-ZL-Amani Hut Large), Name (Name)
+{
+-ZL-Grande hutte Amani
+}
+
+STRING 132
+// Doodads: D012 (-ZL-Water Still), Name (Name)
+{
+-ZL-Water Still
+}
+
+STRING 133
+// Doodads: D013 (-ZL-Conifer Roof 2), Name (Name)
+{
+-ZL-Conifer Roof 2
+}
+
+STRING 134
+// Doodads: D014 (-ZL-Fence 2), Name (Name)
+{
+-ZL-Clôture 2
+}
+
+STRING 135
+// Doodads: D015 (-ZL-Fence 3), Name (Name)
+{
+-ZL-Clôture 3
+}
+
+STRING 136
+// Doodads: D016 (-ZL-Wall Ceiling), Name (Name)
+{
+-ZL-Mur Plafond
+}
+
+STRING 137
+// Doodads: D017 (-ZL-Wall Low Teal), Name (Name)
+{
+-ZL-Wall Low Teal
+}
+
+STRING 138
+// Doodads: D018 (-ZL-Pier), Name (Name)
+{
+-ZL-Jetée
+}
+
+STRING 139
+// Doodads: D019 (-ZL-Giant Tree), Name (Name)
+{
+-ZL-Arbre géant
+}
+
+STRING 140
+// Doodads: D01A (-ZL-Log), Name (Name)
+{
+-ZL-Bûche
+}
+
+STRING 141
+// Doodads: D01B (-ZL- Viny Plant), Name (Name)
+{
+-ZL-Plante vigne
+}
+
+STRING 142
+// Doodads: D01C (-ZL-Bush), Name (Name)
+{
+-ZL-Buisson
+}
+
+STRING 143
+// Doodads: D01D (-ZL-River Rushes), Name (Name)
+{
+-ZL-Ruées fluviales
+}
+
+STRING 144
+// Doodads: D01E (-ZL-Vines01), Name (Name)
+{
+-ZL-Vignes01
+}
+
+STRING 145
+// Doodads: D01F (-ZL-Vines02), Name (Name)
+{
+-ZL-Vignes02
+}
+
+STRING 146
+// Doodads: LOss (-ZL-Skulls on Sticks), Name (Name)
+{
+-ZL-Crânes sur bâtons
+}
+
+STRING 147
+// Doodads: LOsk (-ZL-Skull Pile), Name (Name)
+{
+-ZL-Pile de crâne
+}
+
+STRING 148
+// Doodads: OOsk (-ZL-Skull), Name (Name)
+{
+-ZL-Crâne
+}
+
+STRING 149
+// Doodads: LRrk (-ZL-Rocks), Name (Name)
+{
+-ZL-Rochers
+}
+
+STRING 150
+// Doodads: D01G (-ZL-Skull(Big)), Name (Name)
+{
+-ZL-Skull(Big)
+}
+
+STRING 151
+// Doodads: D01H (-ZL-Skull(Big)), Name (Name)
+{
+-ZL-Skull(Big)
+}
+
+STRING 152
+// Doodads: D01I (-ZL-Pillar_runes), Name (Name)
+{
+-ZL-Pillar_runes
+}
+
+STRING 153
+// Doodads: D01J (-ZL-FOG), Name (Name)
+{
+-ZL-FOG
+}
+
+STRING 154
+// Doodads: D01K (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 155
+// Doodads: D01L (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 156
+// Doodads: D01M (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 157
+// Doodads: D01N (-ZL-Stairs), Name (Name)
+{
+-ZL-Stairs
+}
+
+STRING 158
+// Doodads: D01O (-ZUL-hayinfected), Name (Name)
+{
+-ZUL-hayinfected
+}
+
+STRING 159
+// Doodads: D01P (-ZL-Totem1), Name (Name)
+{
+-ZL-Totem1
+}
+
+STRING 160
+// Doodads: D01Q (-ZL-Vines_angled), Name (Name)
+{
+-ZL-Vines_angled
+}
+
+STRING 161
+// Doodads: D01R (-ZL-Archway), Name (Name)
+{
+-ZL-Archway
+}
+
+STRING 162
+// Doodads: D01S (-ZL-Wall Corner(upside)), Name (Name)
+{
+-ZL-Wall Corner(upside)
+}
+
+STRING 163
+// Doodads: D01T (-ZL-Archway(upside)), Name (Name)
+{
+-ZL-Archway(upside)
+}
+
+STRING 242
+// Doodads: D01U (-ZL-Mask-Jungle), Name (Name)
+{
+-ZL-Mask-Jungle
+}
+
+STRING 243
+// Doodads: D01V (-ZL-Gong), Name (Name)
+{
+-ZL-Gong
+}
+
+STRING 244
+// Doodads: D01W (-ZL-Mask-Amani), Name (Name)
+{
+-ZL-Mask-Amani
+}
+
+STRING 246
+// Doodads: D01X (-ZL-Arch-1), Name (Name)
+{
+-ZL-Arch-1
+}
+
+STRING 247
+// Doodads: D01Y (-ZL-Arch-2), Name (Name)
+{
+-ZL-Arch-2
+}
+
+STRING 248
+// Doodads: D01Z (-ZL-Mask-Red), Name (Name)
+{
+-ZL-Mask-Red
+}
+
+STRING 250
+// Doodads: D020 (-ZL-TREE), Name (Name)
+{
+-ZL-TREE
+}
+
+STRING 251
+// Doodads: D021 (-ZL-Merc_camp), Name (Name)
+{
+-ZL-Merc_camp
+}
+
+STRING 252
+// Doodads: D022 (-ZL-Murloc_camp), Name (Name)
+{
+-ZL-Murloc_camp
+}
+
+STRING 253
+// Doodads: D023 (-ZL-IronGate), Name (Name)
+{
+-ZL-IronGate
+}
+
+STRING 254
+// Doodads: D024 (-ZL-Vines01), Name (Name)
+{
+-ZL-Vines01
+}
+
+STRING 255
+// Doodads: D025 (-ZL-CLOUD_fog), Name (Name)
+{
+-ZL-CLOUD_fog
+}
+
+STRING 256
+// Doodads: D026 (-ZL-Water), Name (Name)
+{
+-ZL-Water
+}
+
+STRING 257
+// Doodads: D027 (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 258
+// Doodads: NPth (-ZL-Vines Thorny), Name (Name)
+{
+-ZL-Vines Thorny
+}
+
+STRING 259
+// Destructibles: B003 (Pathing Blocker (Ground) (BIG_horizontal)), Name (Name)
+{
+Pathing Blocker (Ground) (BIG_horizontal)
+}
+
+STRING 260
+// Destructibles: B004 (Pathing Blocker (Ground) (BIGl)), Name (Name)
+{
+Pathing Blocker (Ground) (BIGl)
+}
+
+STRING 261
+// Destructibles: B005 (Pathing Blocker (Ground) (BIG2)), Name (Name)
+{
+Pathing Blocker (Ground) (BIG2)
+}
+
+STRING 262
+// Doodads: D028 (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 263
+// Doodads: D029 (-ZL-Totem1), Name (Name)
+{
+-ZL-Totem1
+}
+
+STRING 264
+// Doodads: D02A (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 265
+// Doodads: D02B (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 266
+// Doodads: D02C (-ZL-Conifer Roof 3), Name (Name)
+{
+-ZL-Conifer Roof 3
+}
+
+STRING 267
+// Doodads: D02D (-ZL-Queltalas), Name (Name)
+{
+-ZL-Queltalas
+}
+
+STRING 269
+{
+Construisez plus de fermes pour continuer la production.,Construisez plus de fermes pour continuer la production.,Invoquez plus de ziggourats pour continuer la production.,Créez plus de puits lunaires pour continuer la production.
+}
+
+STRING 270
+{
+Impossible d'exploiter la Plate-forme pétrolière
+}
+
+STRING 271
+{
+Puit de pétrole en cours d'exploitation
+}
+
+STRING 272
+{
+Nécessite une Plate-forme pétrolière
+}
+
+STRING 273
+{
+Doit cibler un puit de pétrole.
+}
+
+STRING 274
+{
+Doit être construit sur un puit de pétrole
+}
+
+STRING 275
+{
+Vous pouvez ranimer votre héros à la Grande Salle
+}
+
+STRING 276
+{
+Impie
+}
+
+STRING 278
+{
+Cinematic Zul'jin
+}
+
+STRING 283
+// Units: ZAtA (Avatar of the Eagle), Name (Name)
+{
+Avatar de l'Aigle
+}
+
+STRING 284
+// Units: ZAtA (Avatar of the Eagle), Propernames (Proper Names)
+{
+Akil'zon
+}
+
+STRING 285
+// Units: ZAtN (Avatar of the Bear), Name (Name)
+{
+Avatar de l'ours
+}
+
+STRING 286
+// Units: ZAtN (Avatar of the Bear), Propernames (Proper Names)
+{
+Nalorakk
+}
+
+STRING 287
+// Units: ZAtJ (Avatar of the Dragonhawk), Name (Name)
+{
+Avatar du Dragon-Faucon
+}
+
+STRING 288
+// Units: ZAtJ (Avatar of the Dragonhawk), Propernames (Proper Names)
+{
+Jan'alai
+}
+
+STRING 289
+// Units: ZAtH (Avatar of the Lynx), Name (Name)
+{
+Avatar du Lynx
+}
+
+STRING 290
+// Units: ZAtH (Avatar of the Lynx), Propernames (Proper Names)
+{
+Halazzi
+}
+
+STRING 313
+{
+|cffffcc00ÉCHEC DE LA MISSION|r
+}
+
+STRING 320
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Zul'Aman
+- Défendre la porte intérieure de la cité.
+}
+
+STRING 321
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Zul'Aman
+- |cffff0000Zul’jin doit survivre. (Échec)|r
+}
+
+STRING 322
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Zul'Aman
+}
+
+STRING 323
+{
+Chef des Amani
+}
+
+STRING 324
+{
+Alliance de Lordaeron
+}
+
+STRING 325
+{
+Les Amani
+}
+
+STRING 326
+{
+Forces de Tharbek
+}
+
+STRING 327
+{
+Royaume de Quel’thalas
+}
+
+STRING 328
+{
+Cinematic Dummy
+}
+
+STRING 329
+{
+Alliance
+}
+
+STRING 330
+{
+Cinematic
+}
+
+STRING 341
+{
+|cff32cd32ASTUCE|r
+Zul’jin peut utiliser un réseau de tunnels secrets sous la ville pour traverser rapidement Zul’aman. Utilisez les grottes à bon escient pour coordonner vos défenses.
+}
+
+STRING 342
+{
+|cffff0000AVERTISSEMENT|r
+Protégez le Loa d'Anasterian pendant 60 secondes.
+
+}
+
+STRING 345
+// Units: ZARH (Elven Mage), Name (Name)
+{
+Mage elfe
+}
+
+STRING 346
+// Units: ZARH (Elven Mage), Propernames (Proper Names)
+{
+Rommath
+}
+
+STRING 347
+// Units: ZARH (Elven Mage), Awakentip (Tooltip - Awaken)
+{
+Ranimer Mage elfe
+}
+
+STRING 348
+// Units: ZARH (Elven Mage), Tip (Tooltip - Basic)
+{
+Invoquer Mage elfe
+}
+
+STRING 349
+// Units: ZARH (Elven Mage), Ranimertip (Tooltip - Ranimer)
+{
+Ranimer Mage elfe
+}
+
+STRING 350
+// Units: ZALH (High Priest), Name (Name)
+{
+Grande prêtresse
+}
+
+STRING 351
+// Units: ZALC (High Priestess), Propernames (Proper Names)
+{
+Liadrin
+}
+
+STRING 352
+// Units: ZALH (High Priest), Awakentip (Tooltip - Awaken)
+{
+Ranimer Grande prêtresse
+}
+
+STRING 353
+// Units: ZALH (High Priest), Ranimertip (Tooltip - Ranimer)
+{
+Ranimer Grande prêtresse
+}
+
+STRING 354
+// Units: ZAHC (Ranger), Propernames (Proper Names)
+{
+Halduron Brightwing
+}
+
+STRING 355
+// Units: ZATH (General), Name (Name)
+{
+Général
+}
+
+STRING 356
+// Units: ZATH (General), Propernames (Proper Names)
+{
+Lor’themar Theron
+}
+
+STRING 357
+// Units: ZALC (High Priestess), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 359
+{
+Zul'jin
+}
+
+STRING 360
+// Doodads: D99E (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 361
+// Doodads: D03E (-ZL-TREE - Green), Name (Name)
+{
+-ZL-TREE - Green
+}
+
+STRING 362
+// Destructibles: BZ16 (Long Wooden Zulaman Bridge), Name (Name)
+{
+Long Wooden Zulaman Bridge
+}
+
+STRING 364
+// Destructibles: BZ96 (-ZL-Zul'Aman Bridge), Name (Name)
+{
+-ZL-Zul'Aman Bridge
+}
+
+STRING 365
+// Destructibles: BZ96 (-ZL-Zul'Aman Bridge), EditorSuffix (Editor Suffix)
+{
+(Pathless)
+}
+
+STRING 366
+// Doodads: DZ2E (-ZL- Construction Stick Column), Name (Name)
+{
+-ZL- Construction Stick Column
+}
+
+STRING 367
+// Destructibles: BZ86 (Short Wooden Zulaman Bridge), Name (Name)
+{
+Short Wooden Zulaman Bridge
+}
+
+STRING 368
+// Doodads: DZ3E (-ZL-Small Bridge), Name (Name)
+{
+-ZL-Small Bridge
+}
+
+STRING 373
+// Units: ZAtU (Ula'Tek), Name (Name)
+{
+Ula'Tek
+}
+
+STRING 374
+// Units: ZAtU (Ula'Tek), Propernames (Proper Names)
+{
+Ula'Tek
+}
+
+STRING 375
+// Doodads: D02E (-ZL-Circle), Name (Name)
+{
+-ZL-Circle
+}
+
+STRING 376
+// Units: ZATZ (Troll Warlord), Name (Name)
+{
+Seigneur de guerre troll
+}
+
+STRING 377
+// Units: ZATZ (Troll Warlord), Propernames (Proper Names)
+{
+Zul'jin
+}
+
+STRING 378
+// Units: ZATZ (Troll Warlord), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 379
+// Units: ZATZ (Troll Warlord), Ranimertip (Tooltip - Ranimer)
+{
+Ranimer Zul'jin
+}
+
+STRING 380
+// Units: ZATZ (Troll Warlord), Awakentip (Tooltip - Awaken)
+{
+Ranimer Zul'jin
+}
+
+STRING 381
+// Units: ZATZ (Troll Warlord), Ubertip (Tooltip - Extended)
+{
+Seigneur de guerre des trolls des forêts, Zul'jin cherche à reconquérir les terres que les Hauts-Elfes ont volé aux Amani. Sa régénération exceptionnelle, ses compétences en combat et son utilisation des artefacts Loa font de lui un formidable guerrier et un stratège rusé.
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 382
+// Units: ZATC (General), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 383
+// Units: nmrc (Tharbek), Name (Name)
+{
+Tharbek
+}
+
+STRING 384
+// Units: ZARC (Elven Mage), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 385
+// Units: zAoT (Tharbek), Casterupgradename (Caster Upgrade Names)
+{
+Grunt,Maître des esclaves,Lieutenant,Capitaine,Commandant
+}
+
+STRING 386
+// Units: zAoT (Tharbek), Casterupgradetip (Caster Upgrade Tips)
+{
+- Peau résistante,- Peau résistante|n- Coup de fouet,- Peau résistante|n- Coup de fouet|n- Lancer de lance,- Peau résistante|n- Coup de fouet|n- Lancer de lance|n- Fendoir,- Peau résistante|n- Coup de fouet|n- Lancer de lance|n- Fendoir|n- Cri intimidant
+}
+
+STRING 387
+// Units: zAtP (Amani Priestess), Name (Name)
+{
+Prêtresse Amani
+}
+
+STRING 388
+// Units: zAtG (Amani'shi Guardian), Ubertip (Tooltip - Extended)
+{
+Guerrier d'élite troll brutal.
+Compétences : Pour la Horde ! - Pillage
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 389
+// Units: zAtG (Amani'shi Guardian), Name (Name)
+{
+Gardien Amani'shi
+}
+
+STRING 390
+// Units: zAtG (Amani'shi Guardian), Tip (Tooltip - Basic)
+{
+Entraîner Gardien Amani'shi
+}
+
+STRING 391
+// Units: zAtW (Amani Warrior), Ubertip (Tooltip - Extended)
+{
+Guerrier troll brutal.
+Compétences : Pour la Horde ! - Pillage
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 393
+// Units: zAtW (Amani Warrior), Name (Name)
+{
+Guerrier Amani
+}
+
+STRING 394
+// Units: zAtW (Amani Warrior), Tip (Tooltip - Basic)
+{
+Entraîner Guerrier Amani
+}
+
+STRING 395
+// Units: zAtB (Amani War Bear), Name (Name)
+{
+Ours de guerre Amani
+}
+
+STRING 397
+// Units: zAcs (Snake), Name (Name)
+{
+Serpent
+}
+
+STRING 398
+// Units: zAtd (Amani Destroyer), Name (Name)
+{
+Destructeur Amani
+}
+
+STRING 399
+// Doodads: D02F (- Zul'Aman Gate), Name (Name)
+{
+- Zul'Aman Gate
+}
+
+STRING 400
+// Doodads: D02G (- Zul'Aman Wall), Name (Name)
+{
+- Zul'Aman Wall
+}
+
+STRING 401
+// Doodads: D02H (- Zul'Aman Tower), Name (Name)
+{
+- Zul'Aman Tower
+}
+
+STRING 402
+// Doodads: D02I (- Zul'Aman Tower Small), Name (Name)
+{
+- Zul'Aman Tower Small
+}
+
+STRING 403
+// Doodads: D02J (-ZL-Wall Low Green (Pitch)), Name (Name)
+{
+-ZL-Wall Low Green (Pitch)
+}
+
+STRING 404
+// Doodads: D02K (-ZL-Wall Low Green), Name (Name)
+{
+-ZL-Wall Low Green
+}
+
+STRING 405
+// Destructibles: B006 (Zul'Aman Gate), Name (Name)
+{
+Zul'Aman Gate
+}
+
+STRING 406
+// Doodads: D02L (Zul'Aman Gate Door), Name (Name)
+{
+Zul'Aman Gate Door
+}
+
+STRING 407
+// Doodads: D02M (Glow Orange), Name (Name)
+{
+Glow Orange
+}
+
+STRING 408
+// Doodads: D02N (- Zul'Aman Tower Fireplace), Name (Name)
+{
+- Zul'Aman Tower Fireplace
+}
+
+STRING 409
+// Doodads: D02O (-ZL-Firewood), Name (Name)
+{
+-ZL-Firewood
+}
+
+STRING 410
+// Units: zAeK (Judicator), Ubertip (Tooltip - Extended)
+{
+Puissante cavalerie de l'Alliance. Equilibrés entre attaque et défense, les chevaliers peuvent rapidement abattre les unités à distance ennemies et l'artillerie non protégée.
+Amélioration : Paladin
+
+|cffffcc00Attaque les unités terrestres.|r
+}
+
+STRING 412
+// Units: zAeK (Judicator), Name (Name)
+{
+Judicateur
+}
+
+STRING 413
+// Units: ZAAH (High King of Quel'Thalas), Name (Name)
+{
+Haut-Roi de Quel'Thalas
+}
+
+STRING 416
+// Doodads: D02P (Distant Land), Name (Name)
+{
+Terre lointaine
+}
+
+STRING 417
+// Units: zAeF (Elven Swordsman), EditorSuffix (Name - Editor Suffix)
+{
+(ZA)
+}
+
+STRING 418
+// Units: zAeB (Botanist), Name (Name)
+{
+Botaniste
+}
+
+STRING 419
+// Doodads: D02Q (-Zul Aman Banner), Name (Name)
+{
+-Zul Aman Banner
+}
+
+STRING 420
+// Units: zAtE (Amani Eagle), Name (Name)
+{
+Aigle Amani
+}
+
+STRING 421
+// Units: zAtD (Amani Dragonhawk), Name (Name)
+{
+Dragon-faucon Amani
+}
+
+STRING 423
+// Units: ZATC (General), Name (Name)
+{
+Général
+}
+
+STRING 424
+// Units: ZATC (General), Propernames (Proper Names)
+{
+Lor’themar Theron
+}
+
+STRING 425
+// Units: ZALC (High Priestess), Name (Name)
+{
+Grande prêtresse
+}
+
+STRING 426
+// Units: ZALH (High Priest), Propernames (Proper Names)
+{
+Liadrin
+}
+
+STRING 427
+// Units: ZALC (High Priestess), Awakentip (Tooltip - Awaken)
+{
+Ranimer Grande prêtresse
+}
+
+STRING 428
+// Units: ZALC (High Priestess), Ranimertip (Tooltip - Ranimer)
+{
+Ranimer Grande prêtresse
+}
+
+STRING 429
+// Units: ZAHC (Ranger), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 430
+// Units: ZAHH (Ranger), Propernames (Proper Names)
+{
+Halduron Brightwing
+}
+
+STRING 431
+// Units: ZAAC (High King of Quel'Thalas), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 432
+// Units: ZARC (Elven Mage), Name (Name)
+{
+Mage elfe
+}
+
+STRING 433
+// Units: ZARC (Elven Mage), Propernames (Proper Names)
+{
+Rommath
+}
+
+STRING 434
+// Units: ZARC (Elven Mage), Awakentip (Tooltip - Awaken)
+{
+Ranimer Mage elfe
+}
+
+STRING 435
+// Units: ZARC (Elven Mage), Tip (Tooltip - Basic)
+{
+Invoquer Mage elfe
+}
+
+STRING 436
+// Units: ZARC (Elven Mage), Ranimertip (Tooltip - Ranimer)
+{
+Ranimer Mage elfe
+}
+
+STRING 437
+// Units: zAoT (Tharbek), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 438
+// Units: ZAAC (High King of Quel'Thalas), Name (Name)
+{
+Haut-Roi de Quel'Thalas
+}
+
+STRING 439
+// Units: ZATZ (Troll Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 440
+// Abilities: A000 (Sphere), EditorSuffix (Editor Suffix)
+{
+(Rommath)
+}
+
+STRING 441
+// Units: zAeC (Elven Lieutenant), Name (Name)
+{
+Lieutenant elfe
+}
+
+STRING 442
+// Units: zAeF (Elven Swordsman), Name (Name)
+{
+Épéiste elfe
+}
+
+STRING 443
+// Units: zAtL (Amani Lynx), Name (Name)
+{
+Lynx Amani
+}
+
+STRING 444
+{
+Zul'Aman
+}
+
+STRING 445
+{
+Les elfes et leurs alliés sont venus pour vous anéantir ! Défendez Zul’jin et Zul’aman à tout prix !
+}
+
+STRING 446
+{
+Défendre la porte intérieure de la cité.
+}
+
+STRING 448
+{
+Avatars Loas
+}
+
+STRING 449
+{
+Les avatars des Loas sont des entités puissantes qui peuvent vous aider à défendre Zul'Aman. Ne les laissez pas périr. Au moins un avatar doit survivre.
+}
+
+STRING 450
+{
+Protéger Loa Akil’zon
+}
+
+STRING 451
+// Items: I0L1 (WC2Orc11SAnasterian1), Name (Name)
+{
+WC2Orc11SAnasterian1
+}
+
+STRING 452
+// Items: I0L1 (WC2Orc11SAnasterian1), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 453
+// Items: I0L1 (WC2Orc11SAnasterian1), Description (Description)
+{
+Zul'jin ! Prétendant déchu d'un trône depuis longtemps brisé ! Vous avez cherché à faire la guerre à mon peuple, mais vous n'avez fait qu'apporter la ruine à votre espèce bâtarde ! Avancez, créature infâme, et répondez de vos crimes contre le royaume de Quel'Thalas ! 
+}
+
+STRING 454
+// Items: I0L2 (WC2Orc11SAnasterian2), Name (Name)
+{
+WC2Orc11SAnasterian2
+}
+
+STRING 455
+// Items: I0L2 (WC2Orc11SAnasterian2), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 456
+// Items: I0L2 (WC2Orc11SAnasterian2), Description (Description)
+{
+Vous avez osé vous mêler à d'abjects monstres étrangers, déchaînant leur sauvagerie sur nos forêts et Silvermoon elle-même. Mais à présent, comme c'est toujours le cas avec les bêtes, elles se dispersent aux vents et vous laissent seul face à notre colère... Et pour ce que vous avez fait, il ne peut y avoir qu'une seule issue...
+}
+
+STRING 457
+// Items: I0L3 (WC2Orc11SAnasterian3), Name (Name)
+{
+WC2Orc11SAnasterian3
+}
+
+STRING 458
+// Items: I0L3 (WC2Orc11SAnasterian3), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 459
+// Items: I0L3 (WC2Orc11SAnasterian3), Description (Description)
+{
+Nos compagnons de l'Alliance s'occuperont des brutes qui restent encore à vos côtés, pourceau, tandis que la fureur des elfes sera dirigée contre vous seul. Nous ne cherchons pas seulement votre tête, ou la destruction de cette pathétique bauge... Nous voulons la fin de toute votre race, une bonne fois pour toutes !
+}
+
+STRING 460
+// Items: I0L4 (WC2Orc11SAnasterian4), Name (Name)
+{
+WC2Orc11SAnasterian4
+}
+
+STRING 461
+// Items: I0L4 (WC2Orc11SAnasterian4), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 462
+// Items: I0L4 (WC2Orc11SAnasterian4), Description (Description)
+{
+Très bien, Vengeurs de Quel'Thalas ! Commencez le siège ! 
+}
+
+STRING 463
+// Items: I0L5 (WC2Orc11SAnasterian_EagleTemple1), Name (Name)
+{
+WC2Orc11SAnasterian_EagleTemple1
+}
+
+STRING 464
+// Items: I0L5 (WC2Orc11SAnasterian_EagleTemple1), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 465
+// Items: I0L5 (WC2Orc11SAnasterian_EagleTemple1), Description (Description)
+{
+Felo'melorn ! Fais pleuvoir le feu et la mort sur ces sauvages !
+}
+
+STRING 466
+// Items: I0L6 (WC2Orc11SAnasterian_BearTemple1), Name (Name)
+{
+WC2Orc11SAnasterian_BearTemple1
+}
+
+STRING 467
+// Items: I0L6 (WC2Orc11SAnasterian_BearTemple1), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 468
+// Items: I0L6 (WC2Orc11SAnasterian_BearTemple1), Description (Description)
+{
+Tal anu'men no Quel'dorei!
+}
+
+STRING 469
+// Items: I0L7 (WC2Orc11SAnasterian_LynxTemple1), Name (Name)
+{
+WC2Orc11SAnasterian_LynxTemple1
+}
+
+STRING 470
+// Items: I0L7 (WC2Orc11SAnasterian_LynxTemple1), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 471
+// Items: I0L7 (WC2Orc11SAnasterian_LynxTemple1), Description (Description)
+{
+Toute résistance est vaine ! La toute-puissance des Hauts-Elfes déferle sur vous !
+}
+
+STRING 472
+// Items: I0L8 (WC2Orc11SAnasterian_DragonhawkTemple1), Name (Name)
+{
+WC2Orc11SAnasterian_DragonhawkTemple1
+}
+
+STRING 473
+// Items: I0L8 (WC2Orc11SAnasterian_DragonhawkTemple1), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 474
+// Items: I0L8 (WC2Orc11SAnasterian_DragonhawkTemple1), Description (Description)
+{
+Soyez témoins de la puissance de Quel'thalas ! Brûlez, païens, brûlez ! 
+}
+
+STRING 475
+// Items: I0L9 (WC2Orc11SAnasterian_final1), Name (Name)
+{
+WC2Orc11SAnasterian_final1
+}
+
+STRING 476
+// Items: I0L9 (WC2Orc11SAnasterian_final1), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 478
+// Items: I0L0 (WC2Orc11SAnasterian_final2), Name (Name)
+{
+WC2Orc11SAnasterian_final2
+}
+
+STRING 479
+// Items: I0L0 (WC2Orc11SAnasterian_final2), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 480
+// Items: I0L0 (WC2Orc11SAnasterian_final2), Description (Description)
+{
+Il suffit, tous les deux ! Le général et ses hommes en on assez fait ! Rentrez en Lordaeron, avec notre gratitude, général. J'enverrai les forces dont je peux me passer vous assister dans la défense de votre capitale.
+}
+
+STRING 481
+// Items: I0LA (WC2Orc11SAnasterian_final3), Name (Name)
+{
+WC2Orc11SAnasterian_final3
+}
+
+STRING 482
+// Items: I0LA (WC2Orc11SAnasterian_final3), Tip (Tooltip - Basic)
+{
+Anasterian Sunstrider
+}
+
+STRING 483
+// Items: I0LA (WC2Orc11SAnasterian_final3), Description (Description)
+{
+Quant aux Amani... cette bataille les laisse affaiblis et meurtris, peut-être ne recouvreront-ils jamais leur force d'antan. Je laisse aux Pérégrins le soin de prendre en chasse les survivants à leur convenance. Ce sujet est clos. Nous partons pour Silvermoon dans l'heure.
+}
+
+STRING 484
+// Items: I0LB (WC2Orc11SGoblinMerchant_Hint1), Name (Name)
+{
+WC2Orc11SGoblinMerchant_Hint1
+}
+
+STRING 485
+// Items: I0LB (WC2Orc11SGoblinMerchant_Hint1), Tip (Tooltip - Basic)
+{
+Marchand Gakle Goldsniffer
+}
+
+STRING 486
+// Items: I0LB (WC2Orc11SGoblinMerchant_Hint1), Description (Description)
+{
+Hey, troll-en-chef ! Je suis pas venu ici pour mourir aux mains des elfes ! J'ai plein de joujoux que vous pouvez utiliser pour ralentir leur progression !
+}
+
+STRING 487
+// Items: I0LC (WC2Orc11STharbek1), Name (Name)
+{
+WC2Orc11STharbek1
+}
+
+STRING 488
+// Units: zAoT (Tharbek), Name (Name)
+{
+Tharbek
+}
+
+STRING 489
+// Items: I0LC (WC2Orc11STharbek1), Description (Description)
+{
+Seigneur de guerre Zul'jin... C'est un adversaire puissant. Je crains que mes humbles forces ne suffisent pas à les arrêter. 
+}
+
+STRING 490
+// Items: I0LD (WC2Orc11STharbek_Hint1), Name (Name)
+{
+WC2Orc11STharbek_Hint1
+}
+
+STRING 491
+// Items: I0LC (WC2Orc11STharbek1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 492
+// Items: I0LD (WC2Orc11STharbek_Hint1), Description (Description)
+{
+Zul'jin, mes forces sont à vos ordres. Utilisez-les judicieusement, ou nous serons décimés ! 
+}
+
+STRING 493
+// Items: I0LE (WC2Orc11STharbek_Forces1), Name (Name)
+{
+WC2Orc11STharbek_Forces1
+}
+
+STRING 494
+// Items: I0LD (WC2Orc11STharbek_Hint1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 495
+// Items: I0LE (WC2Orc11STharbek_Forces1), Description (Description)
+{
+Allez, chiens galeux ! Nos alliés trolls ont besoin d'aide ! 
+}
+
+STRING 496
+// Items: I0LF (WC2Orc11STharbek_Forces2), Name (Name)
+{
+WC2Orc11STharbek_Forces2
+}
+
+STRING 497
+// Items: I0LE (WC2Orc11STharbek_Forces1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 498
+// Items: I0LF (WC2Orc11STharbek_Forces2), Description (Description)
+{
+Lok'tar ogar ! Que l'Alliance goûte notre acier une fois de plus !
+}
+
+STRING 499
+// Items: I0LG (WC2Orc11STharbek_Forces3), Name (Name)
+{
+WC2Orc11STharbek_Forces3
+}
+
+STRING 500
+// Items: I0LF (WC2Orc11STharbek_Forces2), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 501
+// Items: I0LG (WC2Orc11STharbek_Forces3), Description (Description)
+{
+À l'avant-garde, bande de traînards ! À l'avant-garde ! 
+}
+
+STRING 502
+// Items: I0LH (WC2Orc11SZuljin1), Name (Name)
+{
+WC2Orc11SZuljin1
+}
+
+STRING 503
+// Items: I0LH (WC2Orc11SZuljin1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 504
+// Items: I0LH (WC2Orc11SZuljin1), Description (Description)
+{
+Ah. Le "Haut-roi" des elfes en personne nous honore de sa présence à Zul'Aman. Il était temps que vous descendiez de votre trône... Roi Sunstrider.
+}
+
+STRING 505
+// Items: I0LI (WC2Orc11SZuljin2), Name (Name)
+{
+WC2Orc11SZuljin2
+}
+
+STRING 506
+// Items: I0LI (WC2Orc11SZuljin2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 507
+// Items: I0LI (WC2Orc11SZuljin2), Description (Description)
+{
+Je crache sur votre héritage et votre soi-disant fureur, sale elfe ! Vous avez volé nos terres et vous osez les appeler vôtres ?! Vous pensez avoir ce qu'il faut pour nous exterminer ? Alors, approchez, faux roi, Zul'Aman sera votre tombeau ! 
+}
+
+STRING 508
+// Items: I0LJ (WC2Orc11SZuljin3), Name (Name)
+{
+WC2Orc11SZuljin3
+}
+
+STRING 509
+// Items: I0LJ (WC2Orc11SZuljin3), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 510
+// Items: I0LJ (WC2Orc11SZuljin3), Description (Description)
+{
+Pas d'inquiétude, capitaine Tharbek. Vous êtes sur nos terres maintenant. Nous vous montrerons comment nous traitons les faibles elfes et leurs alliés. Repliez-vous en ville. Je ferai appel à vous à chaque fois que j'en aurai besoin.
+}
+
+STRING 511
+// Items: I0LK (WC2Orc11SZuljin_Announcement1), Name (Name)
+{
+WC2Orc11SZuljin_Announcement1
+}
+
+STRING 512
+// Items: I0LK (WC2Orc11SZuljin_Announcement1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 513
+// Items: I0LK (WC2Orc11SZuljin_Announcement1), Description (Description)
+{
+Aman'ishi ! Les elfes et leurs alliés humains ont envahi notre patrie sacrée ! Que leurs corps soient profanés ! Pour Zul'Aman !
+}
+
+STRING 514
+// Items: I0LL (WC2Orc11SZuljin_HireTrolls1), Name (Name)
+{
+WC2Orc11SZuljin_HireTrolls1
+}
+
+STRING 515
+// Items: I0LL (WC2Orc11SZuljin_HireTrolls1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 516
+// Items: I0LL (WC2Orc11SZuljin_HireTrolls1), Description (Description)
+{
+Bien ! Il était temps que les trolls s'unissent contre leur ennemi commun !
+}
+
+STRING 517
+// Items: I0LM (WC2Orc11SZuljin_GoblinMerchant1), Name (Name)
+{
+WC2Orc11SZuljin_GoblinMerchant1
+}
+
+STRING 518
+// Items: I0LM (WC2Orc11SZuljin_GoblinMerchant1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 519
+// Items: I0LM (WC2Orc11SZuljin_GoblinMerchant1), Description (Description)
+{
+Très bien, petit gobelin ! Voyons ce que vous avez !
+}
+
+STRING 520
+// Items: I0LN (WC2Orc11SZuljin_WaveTen1), Name (Name)
+{
+WC2Orc11SZuljin_WaveTen1
+}
+
+STRING 521
+// Items: I0LN (WC2Orc11SZuljin_WaveTen1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 522
+// Items: I0LN (WC2Orc11SZuljin_WaveTen1), Description (Description)
+{
+Bien ... D'autres elfes à massacrer !
+}
+
+STRING 523
+// Items: I0LO (WC2Orc11SZuljin_RemainingTemples1), Name (Name)
+{
+WC2Orc11SZuljin_RemainingTemples1
+}
+
+STRING 524
+// Items: I0LO (WC2Orc11SZuljin_RemainingTemples1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 525
+// Items: I0LO (WC2Orc11SZuljin_RemainingTemples1), Description (Description)
+{
+Aman'ishi ! Les elfes commenceront bientôt leur assaut sur les temples. Soyez sur vos gardes ! 
+}
+
+STRING 526
+// Items: I0LP (WC2Orc11SZuljin_ElvenUpperHand1), Name (Name)
+{
+WC2Orc11SZuljin_ElvenUpperHand1
+}
+
+STRING 527
+// Items: I0LP (WC2Orc11SZuljin_ElvenUpperHand1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 528
+// Items: I0LP (WC2Orc11SZuljin_ElvenUpperHand1), Description (Description)
+{
+Aman'ishi ! Les elfes prennent le dessus ! Montrez-leur la puissance de notre peuple et repoussez-les ! 
+}
+
+STRING 529
+// Items: I0LQ (WC2Orc11SZuljin_FallBack1), Name (Name)
+{
+WC2Orc11SZuljin_FallBack1
+}
+
+STRING 530
+// Items: I0LQ (WC2Orc11SZuljin_FallBack1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 531
+// Items: I0LQ (WC2Orc11SZuljin_FallBack1), Description (Description)
+{
+Maudits soient les elfes et leurs humains serviles ! Retirez-vous ! J'ai une dernière chose à faire !
+}
+
+STRING 532
+// Items: I0LR (WC2Orc11SZuljin_TharbekFarewell1), Name (Name)
+{
+WC2Orc11SZuljin_TharbekFarewell1
+}
+
+STRING 533
+// Items: I0LR (WC2Orc11SZuljin_TharbekFarewell1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 534
+// Items: I0LR (WC2Orc11SZuljin_TharbekFarewell1), Description (Description)
+{
+Vos guerriers se sont battus avec bravoure, Tharbek, et vous avez tenu parole... Et pour cela je vous libère de votre serment. Retournez auprès de votre Chef de guerre et mourrez pour votre "Horde"... Je prie pour que la trahison de votre sorcier n'ait pas condamné votre cause...
+}
+
+STRING 535
+// Items: I0LS (WC2Orc11SZuljin_CallingUlatek), Name (Name)
+{
+WC2Orc11SZuljin_CallingUlatek
+}
+
+STRING 536
+// Items: I0LS (WC2Orc11SZuljin_CallingUlatek), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 537
+// Items: I0LS (WC2Orc11SZuljin_CallingUlatek), Description (Description)
+{
+Puissante Ula'tek ! Je vous invoque pour protéger votre temple ! Votre ville ! Votre peuple ! Les elfes nous détruiront tous si vous ne nous aidez pas ! Accordez-moi votre pouvoir ! 
+}
+
+STRING 538
+// Items: I0LT (WC2Orc11SZuljin_CallingUlatek2), Name (Name)
+{
+WC2Orc11SZuljin_CallingUlatek2
+}
+
+STRING 539
+// Items: I0LT (WC2Orc11SZuljin_CallingUlatek2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 540
+// Items: I0LT (WC2Orc11SZuljin_CallingUlatek2), Description (Description)
+{
+J'accepte le prix, puissante Ula'tek ! Que vos pouvoirs apportent la mort et la terreur à nos ennemis ! 
+}
+
+STRING 541
+// Items: I0LU (WC2Orc11SZuljin_Empowered1), Name (Name)
+{
+WC2Orc11SZuljin_Empowered1
+}
+
+STRING 542
+// Items: I0LU (WC2Orc11SZuljin_Empowered1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 543
+// Items: I0LU (WC2Orc11SZuljin_Empowered1), Description (Description)
+{
+Venez goûter à la fureur de nos dieux ! Soyez consumés en leur nom ! 
+}
+
+STRING 544
+// Items: I0LV (WC2Orc11SZuljin_Outro1), Name (Name)
+{
+WC2Orc11SZuljin_Outro1
+}
+
+STRING 545
+// Items: I0LV (WC2Orc11SZuljin_Outro1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 546
+// Items: I0LV (WC2Orc11SZuljin_Outro1), Description (Description)
+{
+Les Amani ne se rendent jamais ! Les Amani n'abandonnent jamais ! Les Amani ne meurent jamais ! 
+}
+
+STRING 547
+// Items: I0LW (WC2Orc11STrollCaptain_3rdTemple1), Name (Name)
+{
+WC2Orc11STrollCaptain_3rdTemple1
+}
+
+STRING 548
+// Items: I0LW (WC2Orc11STrollCaptain_3rdTemple1), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 549
+// Items: I1LW (WC2Orc11STrollCaptain_ProtectAvatars1), Description (Description)
+{
+Seigneur de guerre Zul'jin ! Elfes se diriger vers les temples, faut protéger les avatars ! 
+}
+
+STRING 550
+// Items: I0LX (WC2Orc11STrollCaptain_AllTemples), Name (Name)
+{
+WC2Orc11STrollCaptain_AllTemples
+}
+
+STRING 551
+// Items: I0LX (WC2Orc11STrollCaptain_AllTemples), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 552
+// Items: I0LX (WC2Orc11STrollCaptain_AllTemples), Description (Description)
+{
+Puissant Zul'jin ! Nous avoir perdu tous les temples ! Devoir reculer ! 
+}
+
+STRING 553
+// Items: I0LY (WC2Orc11STrollCaptain_UpgradeUnits1), Name (Name)
+{
+WC2Orc11STrollCaptain_UpgradeUnits1
+}
+
+STRING 554
+// Items: I0LY (WC2Orc11STrollCaptain_UpgradeUnits1), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 555
+// Items: I0LY (WC2Orc11STrollCaptain_UpgradeUnits1), Description (Description)
+{
+Seigneur ! Nous pouvoir utiliser ressources pour améliorer encore notre armement et renforcer nos défenses contre les elfes !
+}
+
+STRING 556
+// Items: I0LZ (WC2Orc11STrollCaptain_HireTrolls1), Name (Name)
+{
+WC2Orc11STrollCaptain_HireTrolls1
+}
+
+STRING 557
+// Items: I0LZ (WC2Orc11STrollCaptain_HireTrolls1), Tip (Tooltip - Basic)
+{
+Troll Aman’ishi
+}
+
+STRING 558
+// Items: I0LZ (WC2Orc11STrollCaptain_HireTrolls1), Description (Description)
+{
+Seigneur ! Autres tribus trolles offrir de l'aide contre elfes ! Vous pouvoir les engager au marché !
+}
+
+STRING 559
+// Items: I0La (WC2Orc11STrollCaptain_WarningTemples1), Name (Name)
+{
+WC2Orc11STrollCaptain_WarningTemples1
+}
+
+STRING 560
+// Items: I0La (WC2Orc11STrollCaptain_WarningTemples1), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 561
+// Items: I0La (WC2Orc11STrollCaptain_WarningTemples1), Description (Description)
+{
+Seigneur de guerre Zul'jin ! Elfes se diriger vers temples restants ! Avatars devoir être protégés ! 
+}
+
+STRING 563
+// Items: I0Lc (WC2Orc11STrollCaptain_NoTrollsLeft1), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 565
+// Items: I0Lc (WC2Orc11STrollCaptain_NoTrollsLeft1), Name (Name)
+{
+WC2Orc11STrollCaptain_NoTrollsLeft1
+}
+
+STRING 566
+// Items: I1LW (WC2Orc11STrollCaptain_ProtectAvatars1), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 567
+// Items: I0Lc (WC2Orc11STrollCaptain_NoTrollsLeft1), Description (Description)
+{
+Zul'jin ! Nos forces être presque épuisées ! Nous pas pouvoir défendre cet endroit ! Nous devoir nous replier vers ville intérieure et évacuer nos frères et soeurs ! 
+}
+
+STRING 568
+// Items: I0Ld (WC2Orc11SRommath_Attack1), Name (Name)
+{
+WC2Orc11SRommath_Attack1
+}
+
+STRING 569
+// Items: I0Ld (WC2Orc11SRommath_Attack1), Tip (Tooltip - Basic)
+{
+Rommath
+}
+
+STRING 570
+// Items: I0Ld (WC2Orc11SRommath_Attack1), Description (Description)
+{
+Bêtes meurtrières ! Je prendrai un immense plaisir à vous faire payer vos méfaits !
+}
+
+STRING 571
+// Items: I0Le (WC2Orc11SLiadrin_Attack1), Name (Name)
+{
+WC2Orc11SLiadrin_Attack1
+}
+
+STRING 572
+// Items: I0Le (WC2Orc11SLiadrin_Attack1), Tip (Tooltip - Basic)
+{
+Liadrin
+}
+
+STRING 573
+// Items: I0Le (WC2Orc11SLiadrin_Attack1), Description (Description)
+{
+La Lumière prévaut toujours contre les infidèles ! Nous purgerons la surface du monde de ces sauvages !
+}
+
+STRING 574
+// Items: I0Lf (WC2Orc11SHalduron_Attack1), Name (Name)
+{
+WC2Orc11SHalduron_Attack1
+}
+
+STRING 575
+// Items: I0Lf (WC2Orc11SHalduron_Attack1), Tip (Tooltip - Basic)
+{
+Halduron Brightwing
+}
+
+STRING 576
+// Items: I0Lf (WC2Orc11SHalduron_Attack1), Description (Description)
+{
+Vos crimes contre la noble famille Windrunner ne resteront pas impunis, vauriens de trolls ! J'apporterai votre tête à Sylvanas et à ses soeurs moi-même ! 
+}
+
+STRING 577
+// Items: I0Lg (WC2Orc11SLorthemar_Attack1), Name (Name)
+{
+WC2Orc11SLorthemar_Attack1
+}
+
+STRING 578
+// Items: I0Lg (WC2Orc11SLorthemar_Attack1), Tip (Tooltip - Basic)
+{
+Lor’themar Theron
+}
+
+STRING 579
+// Items: I0Lg (WC2Orc11SLorthemar_Attack1), Description (Description)
+{
+Longtemps nos terres furent en paix, mais une fois de plus votre race misérable a semé le chaos et la ruine... Ce sera la dernière fois ! 
+}
+
+STRING 580
+// Items: I0Lh (WC2Orc11SLorthemar_End1), Name (Name)
+{
+WC2Orc11SLorthemar_End1
+}
+
+STRING 581
+// Items: I0Lh (WC2Orc11SLorthemar_End1), Tip (Tooltip - Basic)
+{
+Lor’themar Theron
+}
+
+STRING 582
+// Items: I0Lh (WC2Orc11SLorthemar_End1), Description (Description)
+{
+Mais, mon roi ! Nous les avons mis en déroute ! Si nous trouvions seulement Zul'jin et mettions fin à sa vie, son peuple en serait brisé, et d'autant plus simple à annihiler. L'extermination de nos ennemis ancestraux est à portée de main !
+}
+
+STRING 583
+// Items: I0Li (WC2Orc11SLorthemar_End2), Name (Name)
+{
+WC2Orc11SLorthemar_End2
+}
+
+STRING 584
+// Items: I0Li (WC2Orc11SLorthemar_End2), Tip (Tooltip - Basic)
+{
+Lor’themar Theron
+}
+
+STRING 586
+// Items: I0Lj (WC2Orc11SLorthemar_ifDefeat1), Name (Name)
+{
+WC2Orc11SLorthemar_ifDefeat1
+}
+
+STRING 587
+// Items: I0Lj (WC2Orc11SLorthemar_ifDefeat1), Tip (Tooltip - Basic)
+{
+Lor’themar Theron
+}
+
+STRING 588
+// Items: I0Lj (WC2Orc11SLorthemar_ifDefeat1), Description (Description)
+{
+Les défenses de Zul'Aman sont presque brisées, mon roi, mais le chef des trolls nous attend de l'autre côté. Nous avons payé cette victoire au prix fort, mais je vais préparer le reste de nos forces pour le second siège. Il est temps d'en finir !
+}
+
+STRING 589
+// Items: I0Lk (WC2Orc11SLorthemar_ifVictory1), Name (Name)
+{
+WC2Orc11SLorthemar_ifVictory1
+}
+
+STRING 590
+// Items: I0Lk (WC2Orc11SLorthemar_ifVictory1), Tip (Tooltip - Basic)
+{
+Lor’themar Theron
+}
+
+STRING 592
+// Items: I0Ll (WC2Orc11SIsenglof1), Name (Name)
+{
+WC2Orc11SIsenglof1
+}
+
+STRING 593
+// Items: I0Ll (WC2Orc11SIsenglof1), Tip (Tooltip - Basic)
+{
+General Gerard Isenglof
+}
+
+STRING 594
+// Items: I0Ll (WC2Orc11SIsenglof1), Description (Description)
+{
+Sauf votre respect, maître elfe, votre roi à raison. Nous avons déjà subi de lourdes pertes ici, et l'Alliance ne peut pas se permettre de perdre bien davantage. Comme votre roi l'a sagement souligné, nous...
+}
+
+STRING 595
+// Items: I0Lm (WC2Orc11SIsenglof2), Name (Name)
+{
+WC2Orc11SIsenglof2
+}
+
+STRING 596
+// Items: I0Lm (WC2Orc11SIsenglof2), Tip (Tooltip - Basic)
+{
+General Gerard Isenglof
+}
+
+STRING 597
+// Items: I0Lm (WC2Orc11SIsenglof2), Description (Description)
+{
+Notre devoir était de défendre Quel'thalas, et nous l'avons fait ! Vos terres sont sécurisées, et le devoir nous appelle désormais ailleurs. 
+}
+
+STRING 598
+// Items: I0Ln (WC2Orc11SIsenglof3), Name (Name)
+{
+WC2Orc11SIsenglof3
+}
+
+STRING 599
+// Items: I0Ln (WC2Orc11SIsenglof3), Tip (Tooltip - Basic)
+{
+General Gerard Isenglof
+}
+
+STRING 600
+// Items: I0Ln (WC2Orc11SIsenglof3), Description (Description)
+{
+J'ai tout juste reçu l'ordre du Seigneur Turalyon de retirer nos forces et de rentrer à Lordaeron sur l'heure. La Horde marche sur la capitale ! Nous servons avant tout le Seigneur Lothar et l'Alliance de Lordaeron, pas un nobliau qui défie son propre roi !
+}
+
+STRING 601
+// Items: I0Lo (WC2Orc11SIsenglof_Announcement1), Name (Name)
+{
+WC2Orc11SIsenglof_Announcement1
+}
+
+STRING 602
+// Items: I0Lo (WC2Orc11SIsenglof_Announcement1), Tip (Tooltip - Basic)
+{
+General Gerard Isenglof
+}
+
+STRING 603
+// Items: I0Lo (WC2Orc11SIsenglof_Announcement1), Description (Description)
+{
+Bravez les soldats de l'Alliance ! Montrez à ces sauvages la puissance de notre force unie !
+}
+
+STRING 604
+// Items: I0Lp (WC2Orc11SUlaTek1), Name (Name)
+{
+WC2Orc11SUlaTek1
+}
+
+STRING 605
+// Items: I0Lp (WC2Orc11SUlaTek1), Tip (Tooltip - Basic)
+{
+Ula’Tek
+}
+
+STRING 606
+// Items: I0Lp (WC2Orc11SUlaTek1), Description (Description)
+{
+Ah, jeune Zul'jin... J'ai été témoin de votre bravoure. Je vous accorde ma bénédiction. Mais elle a un prix... Votre âme ne trouvera jamais le repos, vous vous vengerez de tous ceux qui ont causé du tort aux Amani.
+}
+
+STRING 607
+// Items: I0Lq (WC2Orc11SLoaAkilzon_Warning1), Name (Name)
+{
+WC2Orc11SLoaAkilzon_Warning1
+}
+
+STRING 608
+// Items: I0Lq (WC2Orc11SLoaAkilzon_Warning1), Tip (Tooltip - Basic)
+{
+Avatar of Akil'zon
+}
+
+STRING 609
+// Items: I0Lq (WC2Orc11SLoaAkilzon_Warning1), Description (Description)
+{
+Grand Zul'jin ! Les elfes vandalisent mon temple ! Protégez-moi, et mes pouvoirs seront vôtres !
+}
+
+STRING 610
+// Items: I0Lr (WC2Orc11SLoaHalazzi_Warning1), Name (Name)
+{
+WC2Orc11SLoaHalazzi_Warning1
+}
+
+STRING 611
+// Items: I0Lr (WC2Orc11SLoaHalazzi_Warning1), Tip (Tooltip - Basic)
+{
+Avatar of Halazzi
+}
+
+STRING 612
+// Items: I0Lr (WC2Orc11SLoaHalazzi_Warning1), Description (Description)
+{
+Seigneur de guerre Zul'jin ! Les elfes souillent mon temple sacré ! Aidez-moi.
+}
+
+STRING 613
+// Items: I0Ls (WC2Orc11SLoaJanala_Warning1), Name (Name)
+{
+WC2Orc11SLoaJanala_Warning1
+}
+
+STRING 614
+// Items: I0Ls (WC2Orc11SLoaJanala_Warning1), Tip (Tooltip - Basic)
+{
+Avatar of Jan'ala
+}
+
+STRING 615
+// Items: I0Ls (WC2Orc11SLoaJanala_Warning1), Description (Description)
+{
+Protégez mon temple, ou vous perdrez mes bénédictions !
+}
+
+STRING 616
+// Items: I0Lt (WC2Orc11SLoaNalorakk_Warning1), Name (Name)
+{
+WC2Orc11SLoaNalorakk_Warning1
+}
+
+STRING 617
+// Items: I0Lt (WC2Orc11SLoaNalorakk_Warning1), Tip (Tooltip - Basic)
+{
+Avatar of Nalorakk
+}
+
+STRING 618
+// Items: I0Lt (WC2Orc11SLoaNalorakk_Warning1), Description (Description)
+{
+Zul'jin ! Vous devez défendre mon temple ! Échouez, et je serai incapable de bénir vos forces ! 
+}
+
+STRING 619
+// Items: I1LW (WC2Orc11STrollCaptain_ProtectAvatars1), Name (Name)
+{
+WC2Orc11STrollCaptain_ProtectAvatars1
+}
+
+STRING 621
+// Units: nmrc (Tharbek), EditorSuffix (Name - Editor Suffix)
+{
+ (Zulaman)
+}
+
+STRING 622
+// Items: I0LG (WC2Orc11STharbek_Forces3), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 623
+// Destructibles: Bz08 (Circle Of Power), Name (Name)
+{
+Cercle de puissance
+}
+
+STRING 626
+// Units: nmrk (Voodoo Lounge), Name (Name)
+{
+Salon vaudou
+}
+
+STRING 627
+// Units: nmrk (Voodoo Lounge), Tip (Tooltip - Basic)
+{
+Construire Salon vaudou
+}
+
+STRING 628
+// Units: osld (Marketplace), Name (Name)
+{
+Marché
+}
+
+STRING 629
+// Units: osld (Marketplace), Tip (Tooltip - Basic)
+{
+Construire Marché
+}
+
+STRING 630
+{
+|cffffcc00QUÊTE OPTIONNELLE|r
+Avatars Loa 
+- Protéger Loa Akil’zon
+- Protéger Loa Nalorakk
+- Protéger Loa Halazzi
+- Protéger Loa Jan’alai
+- Au moins un avatar doit survivre
+}
+
+STRING 631
+// Units: ohun (Jungle Troll Headhunter), Name (Name)
+{
+Chasseur de têtes troll de la jungle
+}
+
+STRING 632
+// Units: ohun (Jungle Troll Headhunter), Tip (Tooltip - Basic)
+{
+Engager Chasseur de têtes troll de la jungle
+}
+
+STRING 634
+{
+Arrivée des troupes elfes dans :
+}
+
+STRING 635
+{
+|cffff0000Attention ! Les troupes elfes attaquent Zul'Aman.|r
+}
+
+STRING 636
+{
+Protéger Loa Nalorakk
+}
+
+STRING 637
+{
+Protéger Loa Halazzi
+}
+
+STRING 638
+{
+Protéger Loa Jan’alai
+}
+
+STRING 639
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+- |cffff0000Protéger Loa Akil’zon (Échec)|r
+}
+
+STRING 640
+{
+|cffff0000Protéger Loa Akil’zon (Échec)|r
+}
+
+STRING 641
+{
+|cffff0000Protéger Loa Nalorakk (Échec)|r
+}
+
+STRING 642
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+- |cffff0000Protéger Loa Nalorakk (Échec)|r
+}
+
+STRING 643
+{
+|cffff0000Protéger Loa Jan’alai (Échec)|r
+}
+
+STRING 644
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+- |cffff0000Protéger Loa Jan’alai (Échec)|r
+}
+
+STRING 645
+{
+|cffff0000Protéger Loa Halazzi (Échec)|r
+}
+
+STRING 646
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+- |cffff0000Protéger Loa Halazzi (Échec)|r
+}
+
+STRING 648
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+ - |cff808080Protéger Loa Halazzi (Terminé)|r
+}
+
+STRING 650
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+ - |cff808080Protéger Loa Nalorakk (Terminé)|r
+}
+
+STRING 651
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+ - |cff808080Protéger Loa Jan’alai (Terminé)|r
+}
+
+STRING 652
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa 
+ - |cff808080Protéger Loa Akil’zon (Terminé)|r
+}
+
+STRING 654
+{
+|cffffcc00ÉCHEC DE LA QUÊTE OPTIONNELLE|r
+Avatars Loa 
+}
+
+STRING 667
+// Destructibles: XTmp (Cage), Name (Name)
+{
+Cage
+}
+
+STRING 668
+// Units: ebZ1 (Elven Ballista), Name (Name)
+{
+Baliste elfe
+}
+
+STRING 669
+// Units: ebZ1 (Elven Ballista), Tip (Tooltip - Basic)
+{
+Construire Baliste
+}
+
+STRING 670
+// Units: ebZ1 (Elven Ballista), Ubertip (Tooltip - Extended)
+{
+Long-range siege weaponry. Devastating against buildings and effective against gatherings of land units, but is slow and vulnerable.
+Abilities: Penetrating Bolts
+
+|cffffcc00Attacks land units and trees.|r 
+}
+
+STRING 671
+{
+|cff32cd32ASTUCE|r
+Vous pouvez libérer les ours Amani de leurs cages et les utiliser au combat.
+}
+
+STRING 673
+// Units: emow (Power Generator), Name (Name)
+{
+Générateur de puissance
+}
+
+STRING 674
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Zul'Aman
+- Zul’jin doit survivre.
+}
+
+STRING 675
+{
+Zul’jin doit survivre.
+}
+
+STRING 676
+{
+|cff32cd32ASTUCE|r
+Vous pouvez ranimer Zul'jin à l'autel d'Ula'Tek.
+}
+
+STRING 677
+// Units: nhcn (Ula'Tek Altar), Name (Name)
+{
+Autel d'Ula'Tek
+}
+
+STRING 678
+// Destructibles: BSP7 (Shimmering Portal), EditorSuffix (Editor Suffix)
+{
+(Vertical)
+}
+
+STRING 680
+{
+|cffffcc00QUÊTE OPTIONNELLE MISE À JOUR|r
+Avatars Loa
+}
+
+STRING 681
+{
+|cffff0000AVERTISSEMENT|r
+Zul'jin ne peut plus être ranimé.
+Zul'jin a également perdu sa capacité de régénération.
+}
+
+STRING 682
+// Units: H61J (General), Name (Name)
+{
+Général
+}
+
+STRING 683
+// Units: H61J (General), Propernames (Proper Names)
+{
+Isenglof
+}
+
+STRING 684
+{
+|cff32cd32ASTUCE|r
+Tuer des unités ennemies donne une prime qui peut être dépensée sur les marchés.
+}
+
+STRING 686
+{
+Protéger les Loas
+}
+
+STRING 687
+// Items: I0LW (WC2Orc11STrollCaptain_3rdTemple1), Description (Description)
+{
+Seigneur Zul'jin ! Le roi des elfes avoir détruit le troisième temple ! Rester un seul temple ! 
+}
+
+STRING 688
+{
+Tenez la ligne !
+}
+
+STRING 689
+{
+Vagues d'attaque restantes :
+}
+
+STRING 690
+// Items: I1LA (WC2Orc11STrollCaptain_PhaseTwo1), Name (Name)
+{
+WC2Orc11STrollCaptain_PhaseTwo1
+}
+
+STRING 691
+// Items: I1LA (WC2Orc11STrollCaptain_PhaseTwo1), Tip (Tooltip - Basic)
+{
+Capitaine Aman’ishi
+}
+
+STRING 692
+// Items: I1LA (WC2Orc11STrollCaptain_PhaseTwo1), Description (Description)
+{
+Envahisseurs envoyer combattants plus forts maintenant ! 
+}
+
+STRING 693
+// Items: I1LC (WC2Orc11STharbek_Final1), Name (Name)
+{
+WC2Orc11STharbek_Final1
+}
+
+STRING 694
+// Items: I1LC (WC2Orc11STharbek_Final1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 695
+// Items: I1LC (WC2Orc11STharbek_Final1), Description (Description)
+{
+Je suis le dernier orc debout. Jamais je n'aurais pensé mourir en défendant une terre qui n'est pas mienne.
+}
+
+STRING 696
+// Items: I2LC (WC2Orc11STharbek_Final2), Name (Name)
+{
+WC2Orc11STharbek_Final2
+}
+
+STRING 697
+// Items: I2LC (WC2Orc11STharbek_Final2), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 698
+// Items: I2LC (WC2Orc11STharbek_Final2), Description (Description)
+{
+Merci, Seigneur de guerre Zul'jin. J'espère que vous avez un plan pour détruire cette racaille. Aka'magosh ! Que les esprits soient avec vous ! 
+}
+
+STRING 699
+// Units: zAtS (Spawn of Ula'Tek), Name (Name)
+{
+Rejetons d'Ula'Tek
+}
+
+STRING 700
+// Units: ngme (Trader Goldsniffer), Name (Name)
+{
+Marchand Goldsniffer
+}
+
+STRING 701
+{
+|cffffff00Triche activée|r
+}
+
+STRING 702
+{
+|cffffff00Triche activée|r
+}
+
+STRING 703
+{
+|cffffff00Triche activée|r
+}
+
+STRING 704
+{
+|cffffff00Triche activée|r
+}
+
+STRING 705
+{
+|cffffff00Time to Dance!|r
+}
+
+STRING 706
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 707
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 708
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 709
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 710
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 711
+// Doodads: DZBL (-ZL-Bridge), Name (Name)
+{
+-ZL-Bridge
+}
+
+STRING 712
+// Doodads: Dzb1 (Bloodsplat01), Name (Name)
+{
+Bloodsplat01
+}
+
+STRING 713
+// Doodads: Dzb2 (Bloodsplat02), Name (Name)
+{
+Bloodsplat02
+}
+
+STRING 714
+// Doodads: Dzb3 (Bloodsplat03), Name (Name)
+{
+Bloodsplat03
+}
+
+STRING 715
+// Doodads: Dzb4 (Bloodsplat04), Name (Name)
+{
+Bloodsplat04
+}
+
+STRING 716
+// Doodads: Dzb5 (Bloodsplat05), Name (Name)
+{
+Bloodsplat05
+}
+
+STRING 717
+// Doodads: Dzb6 (Bloodsplat06), Name (Name)
+{
+Bloodsplat06
+}
+
+STRING 718
+// Items: I0L9 (WC2Orc11SAnasterian_final1), Description (Description)
+{
+Cette avancée nous a coûté, il est vrai, Lor'themar. Je brûle d'éradiquer cette purulence de nos terres... Mais le prix de cette victoire m'emplit de doutes. Je ne désire pas débarrasser le monde des Amani simplement pour voir notre royaume sans défense contre un deuxième assaut de la Horde... Plus aucune vie elfe ne sera gaspillée ce jour.
+}
+
+STRING 719
+// Items: I0Li (WC2Orc11SLorthemar_End2), Description (Description)
+{
+Surveillez votre langue, humain ! Vous vous adressez au commandant de l'ost du Roi Soleil ! Vous êtes lié par serment à défendre Quel'thalas, et de ce fait suivrez nos ordres !
+}
+
+STRING 720
+// Items: I0Lk (WC2Orc11SLorthemar_ifVictory1), Description (Description)
+{
+Notre principale force de frappe a été décimée, mais celles de Zul'Aman sont presque brisées. Je vais préparer ce qu'il reste de nos forces pour le second siège. Il est temps d'en finir ! 
+}
+
+STRING 721
+// Units: nz01 (Troll kid), Name (Name)
+{
+Enfant troll
+}
+
+STRING 722
+// Units: nz02 (Villager), EditorSuffix (Name - Editor Suffix)
+{
+ (Troll Female)
+}
+
+STRING 723
+// Units: nz03 (Elder Troll), Name (Name)
+{
+Troll ancien
+}
+
+STRING 724
+// Doodads: Dzl0 (Light Red), Name (Name)
+{
+Light Red
+}
+
+STRING 725
+// Destructibles: Bzu1 (Vase), Name (Name)
+{
+Vase
+}
+
+STRING 726
+// Destructibles: Bzu1 (Vase), EditorSuffix (Editor Suffix)
+{
+(1)
+}
+
+STRING 727
+// Destructibles: Bzu2 (Vase), Name (Name)
+{
+Vase
+}
+
+STRING 728
+// Destructibles: Bzu2 (Vase), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 729
+// Destructibles: Bzu3 (Vase), Name (Name)
+{
+Vase
+}
+
+STRING 730
+// Destructibles: Bzu3 (Vase), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 731
+// Abilities: AUts (Fury or the Loa), Tip (Tooltip - Normal)
+{
+Furie des loas - [|cffffcc00Niveau 1|r]
+}
+
+STRING 732
+// Abilities: AUts (Fury or the Loa), Tip (Tooltip - Normal)
+{
+Furie des loas - [|cffffcc00Niveau 2|r]
+}
+
+STRING 733
+// Abilities: AUts (Fury or the Loa), Tip (Tooltip - Normal)
+{
+Furie des loas - [|cffffcc00Niveau 3|r]
+}
+
+STRING 734
+// Abilities: AUts (Fury or the Loa), Researchtip (Tooltip - Learn)
+{
+Apprendre Furie des loas - [|cffffcc00Niveau %d|r]
+}
+
+STRING 735
+// Abilities: AUts (Fury or the Loa), Name (Name)
+{
+Furie des loas
+}
+
+STRING 736
+// Abilities: AUts (Fury or the Loa), Researchubertip (Tooltip - Learn - Extended)
+{
+Ula'tek a doté Zul'jin de pouvoirs d'ombre qui augmentent sa défense et renvoient des dégâts aux attaquants ennemis au corps à corps. |n|n|cffffcc00Niveau 1|r - <AUts,DataA1,%>% de dégâts renvoyés, <AUts,DataC1> armure bonus. |n|cffffcc00Niveau 2|r - <AUts,DataA2,%>% de dégâts renvoyés, <AUts,DataC2> armure bonus. |n|cffffcc00Niveau 3|r - <AUts,DataA3,%>% de dégâts renvoyés, <AUts,DataC3> armure bonus.
+}
+
+STRING 737
+// Abilities: AUts (Fury or the Loa), Ubertip (Tooltip - Normal - Extended)
+{
+Améliore l'armure du Zul'jin avec des pouvoirs d'ombre, lui conférant <AUts,DataC1> armure bonus et renvoyant <AUts,DataA1,%>% des dégâts des attaques de mêlée aux ennemis.
+}
+
+STRING 738
+// Abilities: AUts (Fury or the Loa), Ubertip (Tooltip - Normal - Extended)
+{
+Améliore l'armure du Zul'jin avec des pouvoirs d'ombre, lui conférant <AUts,DataC2> armure bonus et renvoyant <AUts,DataA2,%>% des dégâts des attaques de mêlée aux ennemis.
+}
+
+STRING 739
+// Abilities: AUts (Fury or the Loa), Ubertip (Tooltip - Normal - Extended)
+{
+Améliore l'armure du Zul'jin avec des pouvoirs d'ombre, lui conférant <AUts,DataC3> armure bonus et renvoyant <AUts,DataA3,%>% des dégâts des attaques de mêlée aux ennemis.
+}
+
+STRING 740
+// Buffs/Effects: BUts (Fury or the Loa), EditorName (Name (Editor Only))
+{
+Furie des loas
+}
+
+STRING 743
+{
+|cff32cd32ASTUCE|r
+Ula'Tek a amélioré l'armure de Zul'jin avec des pouvoirs d'ombre.
+Elle invoquera également ses rejetons pour contrer les attaques elfiques.
+
+}
+
+STRING 744
+// Units: Ulic (Lich Dummy), Name (Name)
+{
+Lich Dummy
+}
+
+STRING 745
+// Items: IQL0 (Closed Door), Name (Name)
+{
+Porte close
+}
+
+STRING 746
+// Items: IQL0 (Closed Door), Tip (Tooltip - Basic)
+{
+Vers le temple de Nalorakk
+}
+
+STRING 747
+// Items: IQL0 (Closed Door), Ubertip (Tooltip - Extended)
+{
+Vers le temple d'Akil’zon
+}
+
+STRING 748
+// Items: IQL0 (Closed Door), Description (Description)
+{
+Vers le temple d'Ula'Tek
+}
+
+STRING 749
+// Items: IQL1 (To Halazzi  Temple), Name (Name)
+{
+Vers le temple de Halazzi
+}
+
+STRING 750
+// Items: IQL1 (To Halazzi  Temple), Description (Description)
+{
+Vers le temple de Jan’alai
+}
+

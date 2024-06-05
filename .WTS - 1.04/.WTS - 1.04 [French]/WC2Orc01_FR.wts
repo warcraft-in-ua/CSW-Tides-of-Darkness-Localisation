@@ -1,0 +1,1321 @@
+﻿STRING 1
+{
+Chapitre 01
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 104
+{
+|cffffcc00QUÊTE OPTIONELLE|r
+Loups
+ - Trouver et détruire toutes les tanières de loups
+}
+
+STRING 112
+{
+|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r
+Loups
+}
+
+STRING 187
+{
+Clan Blackrock
+}
+
+STRING 230
+{
+Horde des Orcs
+}
+
+STRING 233
+{
+Un
+}
+
+STRING 234
+{
+WC2Orc01
+}
+
+STRING 236
+{
+Nation de Lordaeron
+}
+
+STRING 249
+{
+Impossible d'exploiter la Plate-forme pétrolière.
+}
+
+STRING 250
+{
+Puit de pétrole déjà en cours d'exploitation.
+}
+
+STRING 251
+{
+Vous pouvez ressuciter votre héros dans la Grande Salle.
+}
+
+STRING 252
+{
+Construisez plus de Fermes pour produire davantage d'unités.,Construisez plus de Fermes pour produire davantage d'unités.,Invoquez plus de Ziggourat pour produire davantage d'unités.,Créez plus de Puits de lune pour produire davantage d'unités.
+}
+
+STRING 253
+{
+Nécessite une Plate-forme pétrolière.
+}
+
+STRING 254
+{
+Ciblez une Plate-forme pétrolière.
+}
+
+STRING 255
+{
+Doit être construite sur un Puit de pétrole.
+}
+
+STRING 258
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Lanceur de hache polyvalent, efficace contre les unités aériennes. Peut apprendre la régénération des trolls. Peut être amélioré en Berserker, qui a la capacité Berserk et des statistiques améliorées. |n|n|cffffcc00Attaque des unités terrestres et aériennes.|r
+}
+
+STRING 264
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 268
+// Units: ndfl (Железные метательные топоры), Description (Description)
+{
+Грозный корабль людей, эффективный как в морских сражениях, так и при штурме береговых построек. |n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 269
+// Units: ndfl (Железные метательные топоры), Name (Name)
+{
+Железные метательные топоры
+}
+
+STRING 270
+// Units: ndfl (Железные метательные топоры), EditorSuffix (Name - Editor Suffix)
+{
+Осколочные ядра катапульт (|cffffcc00G|r)
+}
+
+STRING 272
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrat
+}
+
+STRING 378
+// Units: n606 (Orc Tent), Name (Name)
+{
+Tente orque
+}
+
+STRING 678
+// Units: n60V (Duck), Name (Name)
+{
+Canard
+}
+
+STRING 679
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Juste un colvert 
+}
+
+STRING 708
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 709
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Barricade
+}
+
+STRING 718
+// Units: h620 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 719
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 720
+// Units: h621 (Tent), Name (Name)
+{
+Tente
+}
+
+STRING 721
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tente
+}
+
+STRING 722
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Amélioration)
+}
+
+STRING 763
+// Doodads: D6GR (Shark), Name (Name)
+{
+Requin
+}
+
+STRING 865
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 871
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Quai
+}
+
+STRING 872
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Champignons
+}
+
+STRING 873
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Baril de pétrole
+}
+
+STRING 874
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portail
+}
+
+STRING 900
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+No Path
+}
+
+STRING 902
+// Destructibles: B617 (Fire), Name (Name)
+{
+Feu
+}
+
+STRING 940
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 941
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Rampe)
+}
+
+STRING 944
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Falaises
+}
+
+STRING 947
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 958
+// Destructibles: B60L (WInter Canopy Bush), Name (Name)
+{
+Buisson de canopée hivernale
+}
+
+STRING 959
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Arbre hivernal à terre
+}
+
+STRING 960
+// Destructibles: B60S (Fallen Winter Tree 2), Name (Name)
+{
+Arbre hivernal à terre 2
+}
+
+STRING 962
+// Destructibles: B60U (Chest), Name (Name)
+{
+Coffre
+}
+
+STRING 963
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Tas de bois
+}
+
+STRING 964
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Or (Inactif)
+}
+
+STRING 965
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Or (Actif)
+}
+
+STRING 966
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Bannière de l'Alliance
+}
+
+STRING 981
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Chute d'eau FX
+}
+
+STRING 986
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Cercle de puissance WC2
+}
+
+STRING 1006
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Buisson hivernal A
+}
+
+STRING 1029
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Plan d'eau
+}
+
+STRING 1085
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fontaine
+}
+
+STRING 1157
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Blé
+}
+
+STRING 1164
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Buisson hivernal 4
+}
+
+STRING 1165
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Débris de pierre hivernal 1
+}
+
+STRING 1187
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Pics rocheux de Lordaeron
+}
+
+STRING 1188
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Pic rocheux enneigé
+}
+
+STRING 1195
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Bannière du clan Blackrock
+}
+
+STRING 1198
+// Doodads: D60N (FireWoods), Name (Name)
+{
+Feu de bois
+}
+
+STRING 1976
+// Units: n004 (Wolf Den), EditorSuffix (Name - Editor Suffix)
+{
+ (Quête)
+}
+
+STRING 1978
+{
+|cffffff00Triche activée.|r
+}
+
+STRING 1979
+{
+|cffffff00Triche activée.|r
+}
+
+STRING 1980
+{
+|cffffff00Triche activée.|r
+}
+
+STRING 2059
+{
+|cff00ff00ASTUCE|r
+Utok est un semi-héros capable de porter et d'utiliser des objets. S'il tombe au combat, vous ne pourrez pas le ressuciter pour le restant de la mission.
+Utok gagne des niveaux lorsque vous complétez des quêtes optionnelles.
+}
+
+STRING 2060
+// Destructibles: B000 (Rock Chunks Snow), Name (Name)
+{
+Neige de morceaux de roche
+}
+
+STRING 2075
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Vous avez épuisé toutes les mines d'or et n'avez pas rassemblé suffisamment de ressources pour la Horde.
+}
+
+STRING 2081
+// Destructibles: B001 (CliffBaseA), Name (Name)
+{
+Base de Falaise A
+}
+
+STRING 2082
+// Destructibles: B002 (CliffBaseB), Name (Name)
+{
+Base de Falaise B
+}
+
+STRING 2083
+// Destructibles: B003 (CliffBaseC), Name (Name)
+{
+Base de Falaise C
+}
+
+STRING 2084
+// Destructibles: B004 (CliffBaseD), Name (Name)
+{
+Base de Falaise D
+}
+
+STRING 2085
+// Units: n004 (Wolf Den), Name (Name)
+{
+Tanière de loups
+}
+
+STRING 2091
+// Destructibles: B005 (BoatPlatform), Name (Name)
+{
+Bâteau Platforme
+}
+
+STRING 2095
+{
+Alliance
+}
+
+STRING 2110
+// Destructibles: B006 (WinterSnowCliff), Name (Name)
+{
+Falaise enneigée hivernale
+}
+
+STRING 2111
+// Destructibles: B007 (WinterSnowCliff), Name (Name)
+{
+Falaise enneigée hivernale
+}
+
+STRING 2112
+// Destructibles: B007 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Petit)
+}
+
+STRING 2113
+// Destructibles: B008 (WinterSnowCliff), Name (Name)
+{
+Falaise enneigée hivernale
+}
+
+STRING 2114
+// Destructibles: B008 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Penché)
+}
+
+STRING 2115
+// Destructibles: B009 (WinterSnowCliff), Name (Name)
+{
+Falaise enneigée hivernale
+}
+
+STRING 2116
+// Destructibles: B009 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Petit Penché)
+}
+
+STRING 2144
+// Destructibles: B60P (Den), Name (Name)
+{
+Tanière
+}
+
+STRING 2146
+// Destructibles: B00B (Crates), EditorSuffix (Editor Suffix)
+{
+(No Pitch)
+}
+
+STRING 2160
+// Destructibles: B00C (Den), Name (Name)
+{
+Tanière
+}
+
+STRING 2161
+// Destructibles: B00C (Den), EditorSuffix (Editor Suffix)
+{
+(Unselectable)
+}
+
+STRING 2186
+// Destructibles: B00A (Snowpile Cliff), Name (Name)
+{
+Tas de neige Falaise
+}
+
+STRING 2187
+// Destructibles: B00D (Snowpile Flat), Name (Name)
+{
+Tas de neige plat
+}
+
+STRING 2188
+// Destructibles: B00E (Snowpile Northrend), Name (Name)
+{
+Tas de neige Northrend
+}
+
+STRING 2190
+{
+Clan Blackrock
+}
+
+STRING 2220
+{
+Accostage
+}
+
+STRING 2221
+{
+Orgrim Doomhammer vous a confié la construction d'un avant-poste sur l'île de Zul'dare.
+Construisez plusieurs fermes pour nourrir les troupes et une caserne pour protéger le camp.
+}
+
+STRING 2222
+{
+Construire une caserne
+}
+
+STRING 2223
+{
+Construire des fermes (0 sur 4 terminées)
+}
+
+STRING 2224
+{
+Alimenter les feux
+}
+
+STRING 2225
+{
+En préparation de la campagne du nord, vous devez rassembler de grandes quantités d'or et de bois.
+}
+
+STRING 2230
+{
+Loups
+}
+
+STRING 2231
+{
+Vos efforts ont provoqué une meute locale de loups. Explorez la zone, trouvez leurs tanières et éradiquez-les.
+}
+
+STRING 2232
+{
+Trouvez et détruisez toutes les Tanières de loups.
+}
+
+STRING 2237
+{
+Premier sang
+}
+
+STRING 2238
+{
+Un groupe d'éclaireurs humains a débarqué sur l'île de Zul'dare. Ils ne doivent pas avertir le continent. Abattez-les tous !
+}
+
+STRING 2239
+{
+Éteindre le feu d'alarme
+}
+
+STRING 2240
+{
+Tuer les éclaireurs
+}
+
+STRING 2248
+{
+|cff00ff00ASTUCE|r
+|cffffcc003,000 unités d'Or|r ont été envoyé vers l'objectif de quête. 
+}
+
+STRING 2250
+{
+|cff00ff00ASTUCE|r
+|cff0080003,000 unités de Bois|r ont été envoyé vers l'objectif de quête. 
+}
+
+STRING 2254
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Alimenter les feux
+}
+
+STRING 2256
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Accostage
+}
+
+STRING 2259
+{
+|cff00ff00ASTUCE|r
+Chaque chapitre contient des quêtes secondaires octroyant à Utok des niveaux supplémentaires, lui accordant ainsi de nouvelles compétences, et améliorant ses caractéristiques. 
+}
+
+STRING 2261
+{
+|c0000FF00ASTUCE|r
+Les héros tombés peuvent être réanimés dans la Grande Salle.
+}
+
+STRING 2264
+{
+|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r
+Premier sang
+}
+
+STRING 2265
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Premier sang
+  -|cff808080 Éteindre le feu d'alarme (Terminé)|r
+  - Tuer les éclaireurs
+}
+
+STRING 2266
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Premier sang
+  - Éteindre le feu d'alarme
+  -|cff808080 Tuer les éclaireurs (Terminé)|r
+}
+
+STRING 2286
+{
+Éteindre le feu d'alarme
+}
+
+STRING 2287
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Premier sang
+ - Éteindre le feu d'alarme
+ - Tuer les éclaireurs
+}
+
+STRING 2288
+{
+|cff00ff00ASTUCE|r
+Sélectionnez n'importe quelle unité et ordonnez-lui de rejoindre le cercle de puissance près du feu d'alarme pour l'éteindre. 
+}
+
+STRING 2289
+{
+Or de la Horde:
+}
+
+STRING 2290
+{
+Bois de la Horde:
+}
+
+STRING 2291
+{
+|cff00ff00ASTUCE|r
+Chaque fois que vos péons rassemblent 3 000 pièces d'or ou de bois, ce montant est transféré vers l'objectif de quête.
+}
+
+STRING 2292
+{
+Objectifs de la mission
+}
+
+STRING 2293
+{
+Fermes construites:
+}
+
+STRING 2294
+{
+Casernes construites:
+}
+
+STRING 2295
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+Accostage
+ - Construire des fermes (0 sur 4 terminées)
+ - Construire une caserne
+}
+
+STRING 2296
+{
+Construire des fermes
+}
+
+STRING 2298
+{
+Construire des fermes
+}
+
+STRING 2300
+{
+Défaite !
+}
+
+STRING 2305
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+Premier sang
+  -|cffff0000 Éteindre le feu d'alarme (Échec)|r
+  - Tuer les éclaireurs
+}
+
+STRING 2307
+{
+|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r
+Vos unités et vos bâtiments ont tous été détruits.
+}
+
+STRING 2308
+{
+Défaite !
+}
+
+STRING 2309
+// Items: I0L0 (WC2Orc01Utok1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2310
+// Items: I0L0 (WC2Orc01Utok1), Description (Description)
+{
+Throm'ka, Seigneur de guerre !
+}
+
+STRING 2311
+// Items: I0L0 (WC2Orc01Utok1), Name (Name)
+{
+WC2Orc01Utok1
+}
+
+STRING 2312
+// Items: I1L0 (WC2Orc01Utok2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2313
+// Items: I1L0 (WC2Orc01Utok2), Description (Description)
+{
+Chef, il y a des navires humains sur la rive nord !
+}
+
+STRING 2314
+// Items: I1L0 (WC2Orc01Utok2), Name (Name)
+{
+WC2Orc01Utok2
+}
+
+STRING 2315
+// Items: I1L1 (WC2Orc01Rend1), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2316
+// Items: I1L1 (WC2Orc01Rend1), Description (Description)
+{
+Throm'ka, guerrier.
+}
+
+STRING 2317
+// Items: I1L1 (WC2Orc01Rend1), Name (Name)
+{
+WC2Orc01Rend1
+}
+
+STRING 2318
+// Items: I1L2 (WC2Orc01Rend2), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2319
+// Items: I1L2 (WC2Orc01Rend2), Description (Description)
+{
+La Horde se prépare à lancer un assaut sur le continent de Lordaeron.
+}
+
+STRING 2320
+// Items: I1L2 (WC2Orc01Rend2), Name (Name)
+{
+WC2Orc01Rend2
+}
+
+STRING 2321
+// Items: I1L3 (WC2Orc01Rend3), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2322
+// Items: I1L3 (WC2Orc01Rend3), Description (Description)
+{
+Orgrim Doomhammer – Chef de guerre de la Horde des orcs et dirigeant du clan Blackrock – vous ordonne d'établir un avant-poste sur la rive sud de Lordaeron. 
+}
+
+STRING 2323
+// Items: I1L3 (WC2Orc01Rend3), Name (Name)
+{
+WC2Orc01Rend3
+}
+
+STRING 2324
+// Items: I1L4 (WC2Orc01Rend4), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2325
+// Items: I1L4 (WC2Orc01Rend4), Description (Description)
+{
+Pour sécuriser la région de Zul'dare comme le souhaite Doomhammer, vous devez construire une caserne et plusieurs fermes, pour nourrir les troupes.
+}
+
+STRING 2326
+// Items: I1L4 (WC2Orc01Rend4), Name (Name)
+{
+WC2Orc01Rend4
+}
+
+STRING 2327
+// Items: I1L5 (WC2Orc01Rend5), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2328
+// Items: I1L5 (WC2Orc01Rend5), Description (Description)
+{
+Notre succès nous aidera à déterminer l'étendue réelle des pathétiques défenses humaines, et quelle résistance il pourraient opposer à nos troupes.
+}
+
+STRING 2329
+// Items: I1L5 (WC2Orc01Rend5), Name (Name)
+{
+WC2Orc01Rend5
+}
+
+STRING 2330
+// Items: I1L6 (WC2Orc01Rend6), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2331
+// Items: I1L6 (WC2Orc01Rend6), Description (Description)
+{
+Nous aurons besoin d'une grande quantité de ressources pour ravitailler la campagne au nord. Amassez l'or et abattez la forêt.
+}
+
+STRING 2332
+// Items: I1L6 (WC2Orc01Rend6), Name (Name)
+{
+WC2Orc01Rend6
+}
+
+STRING 2333
+// Items: I1L7 (WC2Orc01Rend7), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2334
+// Items: I1L7 (WC2Orc01Rend7), Description (Description)
+{
+Trouvez leur tanière, et mettez fin à ces attaques ! 
+}
+
+STRING 2335
+// Items: I1L7 (WC2Orc01Rend7), Name (Name)
+{
+WC2Orc01Rend7
+}
+
+STRING 2336
+// Items: I1L9 (WC2Orc01Rend8), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2337
+// Items: I1L9 (WC2Orc01Rend8), Description (Description)
+{
+C'était le dernier.
+}
+
+STRING 2338
+// Items: I1L9 (WC2Orc01Rend8), Name (Name)
+{
+WC2Orc01Rend8
+}
+
+STRING 2339
+// Items: I1LA (WC2Orc01Rend9), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2340
+// Items: I1LA (WC2Orc01Rend9), Description (Description)
+{
+Malédiction ! Nous ne sommes pas préparés pour ça. Nous devons détruire le feu d'alarme immédiatement, ou ils nous repéreront depuis leurs navires. Explorez l'île, tuez les humains, et ne les laissez pas prévenir le continent. 
+}
+
+STRING 2342
+// Items: I1lA (WC2Orc01Rend10), Tip (Tooltip - Basic)
+{
+Dal'Rend Blackhand
+}
+
+STRING 2343
+// Items: I1lA (WC2Orc01Rend10), Description (Description)
+{
+Excellent, nous les avons vaincus et exploré la zone. Doomhammer sera satisfait. 
+}
+
+STRING 2344
+// Items: I1LA (WC2Orc01Rend9), Name (Name)
+{
+WC2Orc01Rend9
+}
+
+STRING 2345
+// Items: I1LB (T02Grunt04901), Tip (Tooltip - Basic)
+{
+Grunt
+}
+
+STRING 2346
+// Items: I1LB (T02Grunt04901), Description (Description)
+{
+Nous avons éliminé ces maudits humains.
+
+}
+
+STRING 2347
+// Items: I1LB (T02Grunt04901), Name (Name)
+{
+T02Grunt04901
+}
+
+STRING 2348
+// Items: I1LC (WC2Orc01Peon1), Tip (Tooltip - Basic)
+{
+Péon
+}
+
+STRING 2349
+// Items: I1LC (WC2Orc01Peon1), Description (Description)
+{
+Des loups, nous sommes attaqués ! 
+}
+
+STRING 2350
+// Items: I1LC (WC2Orc01Peon1), Name (Name)
+{
+WC2Orc01Peon1
+}
+
+STRING 2351
+// Items: I1LD (WC2Orc01footman1), Tip (Tooltip - Basic)
+{
+Fantassin
+}
+
+STRING 2352
+// Items: I1LD (WC2Orc01footman1), Description (Description)
+{
+Est-ce vrai messire ? Les orcs sont-ils vraiment parvenus si loin au nord ?
+}
+
+STRING 2353
+// Items: I1LD (WC2Orc01footman1), Name (Name)
+{
+WC2Orc01footman1
+}
+
+STRING 2354
+// Items: I1LE (WC2Orc01footman2), Tip (Tooltip - Basic)
+{
+Fantassin
+}
+
+STRING 2355
+// Items: I1LE (WC2Orc01footman2), Description (Description)
+{
+Qu'en est-il des rumeurs ? Si la moitié d'entre elles sont vraies, comment pourrions-nous les vaincre ?
+}
+
+STRING 2356
+// Items: I1LE (WC2Orc01footman2), Name (Name)
+{
+WC2Orc01footman2
+}
+
+STRING 2357
+// Items: I1LF (WC2Orc01footman3), Tip (Tooltip - Basic)
+{
+Fantassin
+}
+
+STRING 2358
+// Items: I1LF (WC2Orc01footman3), Description (Description)
+{
+Que la lumière nous protège…
+}
+
+STRING 2359
+// Items: I1LF (WC2Orc01footman3), Name (Name)
+{
+WC2Orc01footman3
+}
+
+STRING 2360
+// Items: I1LG (O07FootmanA1101), Tip (Tooltip - Basic)
+{
+Fantassin
+}
+
+STRING 2361
+// Items: I1LG (O07FootmanA1101), Description (Description)
+{
+Des orcs ! Aux armes !
+}
+
+STRING 2362
+// Items: I1LG (O07FootmanA1101), Name (Name)
+{
+O07FootmanA1101
+}
+
+STRING 2363
+// Items: I1LH (WC2Orc01Captain1), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 2364
+// Items: I1LH (WC2Orc01Captain1), Description (Description)
+{
+Bien. Établissez un camp et préparez-vous à partir.
+}
+
+STRING 2365
+// Items: I1LH (WC2Orc01Captain1), Name (Name)
+{
+WC2Orc01Captain1
+}
+
+STRING 2366
+// Items: I1LI (WC2Orc01Captain2), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 2367
+// Items: I1LI (WC2Orc01Captain2), Description (Description)
+{
+Restez calmes et concentrés sur notre tâche. Nous sommes ici pour enquêter sur les rumeurs d'une présence orc dans la région de Zul'dare.
+}
+
+STRING 2368
+// Items: I1LI (WC2Orc01Captain2), Name (Name)
+{
+WC2Orc01Captain2
+}
+
+STRING 2369
+// Items: I1LJ (WC2Orc01Captain3), Tip (Tooltip - Basic)
+{
+Capitaine
+}
+
+STRING 2370
+// Items: I1LJ (WC2Orc01Captain3), Description (Description)
+{
+À présent, voyez si vous pouvez allumer un feu.
+}
+
+STRING 2371
+// Items: I1LJ (WC2Orc01Captain3), Name (Name)
+{
+WC2Orc01Captain3
+}
+
+STRING 2374
+// Items: I1lA (WC2Orc01Rend10), Name (Name)
+{
+WC2Orc01Rend10
+}
+
+STRING 2375
+// Doodads: D000 (Snow(vt)), Name (Name)
+{
+Neige(vt)
+}
+
+STRING 2377
+// Units: ngz3 (Wild Bear), Name (Name)
+{
+Ours sauvage
+}
+
+STRING 2379
+// Doodads: D001 (Light Yellow), Name (Name)
+{
+Lumière jaune
+}
+
+STRING 2380
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 2381
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 2382
+{
+|cffffcc00Triche activée.|r
+}
+
+STRING 2383
+{
+|cffffcc00Triche désactivée|r
+}
+
+STRING 2384
+{
+|cffffcc00Triche activée|r
+}
+
+STRING 2385
+{
+|cffff0000Éteindre le feu d'alarme (Échec)|r
+}
+
+STRING 2386
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+Accostage
+}
+
+STRING 2387
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  - Construire une caserne 
+}
+
+STRING 2388
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+  -|cff808080 Construire une caserne (Terminé)|r
+}
+
+STRING 2389
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r
+}
+
+STRING 2390
+// Items: IQL2 (Quest Landing Localization), Tip (Tooltip - Basic)
+{
+ sur 4 construites)
+}
+
+STRING 2391
+// Items: IQL2 (Quest Landing Localization), Ubertip (Tooltip - Extended)
+{
+  - Construire des fermes (
+}
+
+STRING 2392
+// Items: IQL2 (Quest Landing Localization), Description (Description)
+{
+  -|cff808080 Construire des fermes (Terminé)|r
+}
+
+STRING 2393
+// Items: IQL2 (Quest Landing Localization), Name (Name)
+{
+Quest Landing Localization
+}
+
+STRING 2394
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Tip (Tooltip - Basic)
+{
+Alimenter les feux
+}
+
+STRING 2395
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Ubertip (Tooltip - Extended)
+{
+  - Rassemblez 
+}
+
+STRING 2396
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Description (Description)
+{
+ Or
+}
+
+STRING 2397
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Name (Name)
+{
+|cffffcc00QUÊTE PRINCIPALE|r
+}
+
+STRING 2398
+// Items: IQL4 ( Lumber (Completed)|r), Ubertip (Tooltip - Extended)
+{
+  - Récoltez
+}
+
+STRING 2399
+// Items: IQL4 ( Lumber (Completed)|r), Description (Description)
+{
+ Bois
+}
+
+STRING 2401
+// Items: IQL4 ( Lumber (Completed)|r), Tip (Tooltip - Basic)
+{
+  -|cff808080 Récoltez 
+}
+
+STRING 2402
+// Items: IQL4 ( Lumber (Completed)|r), Name (Name)
+{
+ Bois (Terminé)|r
+}
+
+STRING 2403
+// Items: IQL5 (Gold Localiztion Quest Completed), Tip (Tooltip - Basic)
+{
+ Or (Terminé)|r
+}
+
+STRING 2404
+// Items: IQL5 (Gold Localiztion Quest Completed), Description (Description)
+{
+  -|cff808080 Rassemblez 
+}
+
+STRING 2405
+// Items: IQL5 (Gold Localiztion Quest Completed), Name (Name)
+{
+Gold Localiztion Quest Completed
+}
+
+STRING 2406
+{
+Construire des fermes 
+}
+
+STRING 2407
+// Items: IQL5 (Gold Localiztion Quest Completed), Ubertip (Tooltip - Extended)
+{
+Construire de fermes (
+}
+
+STRING 2408
+// Items: IQL6 (Harvest ), Description (Description)
+{
+Rassembler 
+}
+
+STRING 2409
+// Items: IQL6 (Harvest ), Name (Name)
+{
+Récolter 
+}
+
