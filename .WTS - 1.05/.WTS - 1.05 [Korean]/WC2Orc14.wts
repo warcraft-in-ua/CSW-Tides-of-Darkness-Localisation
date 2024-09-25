@@ -1,0 +1,4521 @@
+﻿STRING 1
+{
+WC2Orc14
+}
+
+STRING 3
+{
+로데론의 몰락
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 267
+{
+호드
+}
+
+STRING 269
+{
+얼라이언스
+}
+
+STRING 270
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+다재다능한 도끼 투척 유닛으로, 공중 유닛에게 특히 효과적입니다. 광폭화 능력을 사용해 공격력을 증가시킬 수 있으나, 받는 피해도 그만큼 증가합니다. 트롤의 재생력, 광전사의 시야, 가벼운 도끼를 배울 수 있습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 271
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 272
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+엘프 순찰자
+}
+
+STRING 273
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+기본 원거리 공격 유닛입니다. 사격술과 활 개량 히포그리프 길들이기를 배울 수 있습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 274
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 275
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 276
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 277
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 278
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 279
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 280
+// Units: Hblm (Elven Mage), Name (Name)
+{
+엘프 마법사
+}
+
+STRING 281
+// Units: nchp (Magistrate), Name (Name)
+{
+행정관
+}
+
+STRING 282
+// Units: nwc1 (Cage), Name (Name)
+{
+우리
+}
+
+STRING 283
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+우리 건설
+}
+
+STRING 284
+// Units: nwc1 (Cage), Description (Description)
+{
+포로들을 가두기 위해 설계된 견고한 철창입니다.
+}
+
+STRING 285
+// Units: nbel (High Elf Captain), Name (Name)
+{
+하이 엘프 부관
+}
+
+STRING 286
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+하이 엘프 부관 훈련
+}
+
+STRING 287
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+실버문 군대의 강력한 부관입니다. 마법사를 처치하는 데 능숙합니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 317
+// Units: h612 (Mage Tower), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 325
+// Units: e601 (Ballista), Name (Name)
+{
+쇠뇌
+}
+
+STRING 360
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(인간)
+}
+
+STRING 366
+// Units: h603 (Guardsman), EditorSuffix (Name - Editor Suffix)
+{
+(아이언포지)
+}
+
+STRING 368
+// Units: h603 (Guardsman), Name (Name)
+{
+보초병
+}
+
+STRING 369
+// Units: h61O (Mountain Cavalier), EditorSuffix (Name - Editor Suffix)
+{
+(아이언포지)
+}
+
+STRING 370
+// Units: h603 (Guardsman), Tip (Tooltip - Basic)
+{
+보초병 훈련
+}
+
+STRING 373
+// Units: h61T (Anvilguard), EditorSuffix (Name - Editor Suffix)
+{
+(아이언포지)
+}
+
+STRING 394
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+대포 훈련
+}
+
+STRING 395
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+강력한 장거리 대포입니다. 이동 속도가 느리고 공격에 취약합니다.
+
+|cffffcc00지상 유닛 및 나무 공격 가능|r
+}
+
+STRING 400
+// Units: n608 (Monk), Name (Name)
+{
+수도사
+}
+
+STRING 401
+// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+{
+성실한 사제입니다.
+}
+
+STRING 402
+// Units: n608 (Monk), Tip (Tooltip - Basic)
+{
+신성한 성직자입니다.
+}
+
+STRING 448
+// Units: h61P (Violet Citadel), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 479
+// Units: h60I (Stables), Name (Name)
+{
+마구간
+}
+
+STRING 480
+// Units: h60I (Stables), Ubertip (Tooltip - Extended)
+{
+보조 병력 생산 건물입니다. 기사와 성기사를 훈련합니다.
+동물 전쟁 훈련 업그레이드를 할 수 있습니다.
+}
+
+STRING 505
+// Units: H60W (Paladin), Propernames (Proper Names)
+{
+우서
+}
+
+STRING 516
+// Units: h006 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+경비탑 (|cffffcc00G|r)
+}
+
+STRING 517
+// Units: h006 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+기본적인 방어 구조물입니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 521
+// Units: h611 (Gryphon Aviary), Name (Name)
+{
+그리핀 사육장
+}
+
+STRING 522
+// Units: h611 (Gryphon Aviary), Tip (Tooltip - Basic)
+{
+그리핀 사육장 (|cffffcc00G|r)
+}
+
+STRING 523
+// Units: h611 (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+그리핀 기수를 훈련합니다.
+폭풍 망치 업그레이드를 할 수 있습니다.
+}
+
+STRING 524
+// Units: h612 (Mage Tower), Name (Name)
+{
+마법사 탑
+}
+
+STRING 525
+// Units: h612 (Mage Tower), Tip (Tooltip - Basic)
+{
+마법사 탑 (|cffffcc00М|r)
+}
+
+STRING 527
+// Units: h612 (Mage Tower), Ubertip (Tooltip - Extended)
+{
+달라란의 마법사를 훈련합니다.
+마법사의 주문 업그레이드를 할 수 있습니다.
+}
+
+STRING 528
+// Units: h613 (Gnomish Inventor), Name (Name)
+{
+노움 발명소
+}
+
+STRING 529
+// Units: h613 (Gnomish Inventor), Tip (Tooltip - Basic)
+{
+노움 발명소 (|cffffcc00W|r)
+}
+
+STRING 530
+// Units: h613 (Gnomish Inventor), Ubertip (Tooltip - Extended)
+{
+비행기, 폭파 분대를 생산합니다. 
+비행기 폭탄 업그레이드를 할 수 있습니다.
+}
+
+STRING 537
+// Units: h617 (Church), Name (Name)
+{
+교회
+}
+
+STRING 538
+// Units: h617 (Church), Ubertip (Tooltip - Extended)
+{
+교회는 로데론 시민들이 신성한 깨달음을 얻기 위해 방문하는 예배 장소입니다.
+}
+
+STRING 539
+// Units: h617 (Church), Tip (Tooltip - Basic)
+{
+교회 건설
+}
+
+STRING 540
+// Units: h61B (Keep), Name (Name)
+{
+성채
+}
+
+STRING 561
+// Units: n00T (Dragon), Name (Name)
+{
+용
+}
+
+STRING 562
+// Units: n00T (Dragon), Tip (Tooltip - Basic)
+{
+용 훈련
+}
+
+STRING 563
+// Units: n00T (Dragon), Ubertip (Tooltip - Extended)
+{
+용은 엄청난 파괴력과 예리한 지성을 겸비하여 호드 내에서 단일 병력 중 가장 강력한 존재라고 할 수 있습니다. 거대한 용의 입에서 뿜어져 나오는 파괴적인 불길은 적 군대를 순식간에 쓸어버릴 수 있고, 강인한 날개로 지칠 틈 없이 하늘을 날아오를 수 있습니다.
+}
+
+STRING 686
+// Units: h61Q (Scout Tower), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 690
+// Units: n00T (Dragon), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 691
+// Units: n60V (Duck), Name (Name)
+{
+오리
+}
+
+STRING 692
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+청둥오리입니다.
+}
+
+STRING 698
+// Units: h61O (Mountain Cavalier), Name (Name)
+{
+산악 기병
+}
+
+STRING 700
+// Units: h61O (Mountain Cavalier), Tip (Tooltip - Basic)
+{
+산악 기병 훈련
+}
+
+STRING 701
+// Units: n00K (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(트롤)
+}
+
+STRING 707
+// Units: H008 (Paladin), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 708
+// Units: n02G (Zuluhed), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 731
+// Units: h620 (Tent), Name (Name)
+{
+천막
+}
+
+STRING 732
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+천막
+}
+
+STRING 733
+// Units: h621 (Tent), Name (Name)
+{
+천막
+}
+
+STRING 734
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+천막
+}
+
+STRING 735
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(업그레이드)
+}
+
+STRING 750
+// Units: h627 (Cleric), Name (Name)
+{
+성직자
+}
+
+STRING 757
+// Units: H62F (Captain), Name (Name)
+{
+대장
+}
+
+STRING 758
+// Units: H62F (Captain), Revivetip (Tooltip - Revive)
+{
+대장 부활
+}
+
+STRING 759
+// Units: H62F (Captain), Awakentip (Tooltip - Awaken)
+{
+대장 부활
+}
+
+STRING 760
+// Units: h005 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(스톰윈드)
+}
+
+STRING 761
+// Units: H62F (Captain), Tip (Tooltip - Basic)
+{
+대장
+}
+
+STRING 771
+// Units: H62F (Captain), Propernames (Proper Names)
+{
+루릭
+}
+
+STRING 774
+// Units: H62F (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(로데론)
+}
+
+STRING 775
+// Units: n62A (Shark), Name (Name)
+{
+고래상어
+}
+
+STRING 776
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+고래상어
+}
+
+STRING 777
+// Units: n62B (Purple Shark), Name (Name)
+{
+보라색 고래상어
+}
+
+STRING 778
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+고래상어
+}
+
+STRING 790
+// Units: h60F (Human Cannon), Name (Name)
+{
+인간 대포
+}
+
+STRING 793
+// Units: n02K (Orc Pirate), Name (Name)
+{
+오크 해적
+}
+
+STRING 805
+// Units: n60Y (Raven), Name (Name)
+{
+까마귀
+}
+
+STRING 814
+// Units: n60Z (Spiders), Name (Name)
+{
+거미
+}
+
+STRING 815
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+거미
+}
+
+STRING 831
+// Units: h61T (Anvilguard), Name (Name)
+{
+모루수호병
+}
+
+STRING 856
+// Units: n611 (Wolf), Name (Name)
+{
+늑대
+}
+
+STRING 857
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(렌드)
+}
+
+STRING 947
+// Units: h007 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+기본적인 방어 구조물입니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 969
+// Units: n00C (Tavern), Name (Name)
+{
+선술집
+}
+
+STRING 1101
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+석유가 담긴 통
+}
+
+STRING 1126
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+부두
+}
+
+STRING 1127
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+버섯
+}
+
+STRING 1128
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+석유가 담긴 통
+}
+
+STRING 1129
+// Destructibles: OTsp (Portal), Name (Name)
+{
+차원문
+}
+
+STRING 1135
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1139
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+성 탑
+}
+
+STRING 1143
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+도시 계단
+}
+
+STRING 1145
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(경로 없음)
+}
+
+STRING 1149
+// Units: n02H (Maim), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 1164
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+오래된 무덤
+}
+
+STRING 1165
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+책이 있는 제단
+}
+
+STRING 1168
+// Units: n02I (Rend), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 1171
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+절벽
+}
+
+STRING 1172
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(경사로)
+}
+
+STRING 1175
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+절벽
+}
+
+STRING 1178
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(장식품)
+}
+
+STRING 1188
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+나무화분
+}
+
+STRING 1192
+// Destructibles: B00S (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1193
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+등대
+}
+
+STRING 1194
+// Destructibles: B60U (Chest), Name (Name)
+{
+상자
+}
+
+STRING 1195
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+목재 보관함
+}
+
+STRING 1199
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+지지대
+}
+
+STRING 1200
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+오크 시네마틱
+}
+
+STRING 1204
+// Destructibles: B60V (Bushes), Name (Name)
+{
+덤불
+}
+
+STRING 1208
+// Destructibles: B61W (City Windows), Name (Name)
+{
+도시 창문
+}
+
+STRING 1209
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+오크 무덤 돌
+}
+
+STRING 1210
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+돌무더기
+}
+
+STRING 1211
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+거미줄
+}
+
+STRING 1238
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+성 아치길
+}
+
+STRING 1240
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+기사 석상
+}
+
+STRING 1241
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+절벽 기본 A
+}
+
+STRING 1242
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+절벽 기본 B
+}
+
+STRING 1243
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+절벽 기본 C
+}
+
+STRING 1244
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+절벽 기본 D
+}
+
+STRING 1257
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+여름 절벽
+}
+
+STRING 1258
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+여름 절벽 소형
+}
+
+STRING 1259
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+저습지 절벽
+}
+
+STRING 1260
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+저습지 절벽
+}
+
+STRING 1261
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(소형)
+}
+
+STRING 1276
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+폭포 FX
+}
+
+STRING 1282
+// Doodads: D60H (Square Tower), Name (Name)
+{
+사각 탑
+}
+
+STRING 1288
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+검은이빨 깃발
+}
+
+STRING 1290
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+긴 풀
+}
+
+STRING 1291
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+사각 탑 고층
+}
+
+STRING 1296
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+샘 2
+}
+
+STRING 1298
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+움직이는 덤불
+}
+
+STRING 1312
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+달라란 건물 경로 없음
+}
+
+STRING 1313
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+달라란 탑 경로 없음
+}
+
+STRING 1314
+// Doodads: D69S (Door), Name (Name)
+{
+문
+}
+
+STRING 1316
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+단일 기둥 경로 없음
+}
+
+STRING 1318
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+장식물 집
+}
+
+STRING 1330
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+수도 도시 탑 2
+}
+
+STRING 1331
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+수도 도시 돔
+}
+
+STRING 1332
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+수도 도시 첨탑
+}
+
+STRING 1333
+// Doodads: D6AP (City Archway), Name (Name)
+{
+도시 아치길
+}
+
+STRING 1334
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+수도 도시 탑
+}
+
+STRING 1355
+// Destructibles: B00M (Fountain), Name (Name)
+{
+샘
+}
+
+STRING 1360
+// Doodads: D6CQ (Roots), Name (Name)
+{
+뿌리
+}
+
+STRING 1362
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+화로 경로 없음
+}
+
+STRING 1363
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+깃대
+}
+
+STRING 1368
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+핏 자국 02
+}
+
+STRING 1369
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+핏 자국 03
+}
+
+STRING 1370
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+핏 자국 04
+}
+
+STRING 1371
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+핏 자국 05
+}
+
+STRING 1372
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+핏 자국 06
+}
+
+STRING 1373
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+달라란 깃발
+}
+
+STRING 1392
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+수도 도시 구조물 경로 제한자
+}
+
+STRING 1396
+// Doodads: D6EH (Book Green), Name (Name)
+{
+책 녹색
+}
+
+STRING 1397
+// Doodads: D6EI (Book Red), Name (Name)
+{
+책 붉은색
+}
+
+STRING 1398
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+책 파란색
+}
+
+STRING 1399
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+책 더미 C
+}
+
+STRING 1400
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+책 더미 B
+}
+
+STRING 1401
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+책 더미 A
+}
+
+STRING 1402
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+문서
+}
+
+STRING 1409
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+밀
+}
+
+STRING 1430
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+오크 긴 깃발
+}
+
+STRING 1437
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+로데론 바위 첨탑
+}
+
+STRING 1445
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+검은바위 부족 깃발
+}
+
+STRING 1446
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+방어구 선반 오크
+}
+
+STRING 1447
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+무기 선반 오크
+}
+
+STRING 1448
+// Doodads: D60N (FireWoods), Name (Name)
+{
+땔감
+}
+
+STRING 1449
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+피난민 깃발
+}
+
+STRING 1450
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+방어구 선반 은빛성기사단
+}
+
+STRING 1451
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+무기 선반 은빛성기사단
+}
+
+STRING 1468
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+로데론 벽 깃발
+}
+
+STRING 1489
+// Units: ntor (Whirlwind), Name (Name)
+{
+회오리바람
+}
+
+STRING 1645
+// Units: n02J (Utok), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 1955
+// Units: n02I (Rend), Name (Name)
+{
+분쇄
+}
+
+STRING 2674
+// Destructibles: B000 (Lordaeron Wall Short), Name (Name)
+{
+로데론 벽 짧음
+}
+
+STRING 2675
+// Destructibles: B001 (Lordaeron Wall T), Name (Name)
+{
+로데론 벽 T 자
+}
+
+STRING 2676
+// Destructibles: B002 (Lordaeron Wall Long), Name (Name)
+{
+로데론 벽 긺
+}
+
+STRING 2677
+// Destructibles: B003 (Lordaeron Wall Corner), Name (Name)
+{
+로데론 벽 모퉁이
+}
+
+STRING 2678
+// Destructibles: B004 (Lordaeron Wall Straight), Name (Name)
+{
+로데론 벽 직선
+}
+
+STRING 2679
+// Destructibles: B005 (Lordaeron Spire), Name (Name)
+{
+로데론 첨탑
+}
+
+STRING 2680
+// Destructibles: B006 (Lordaeron Palace), Name (Name)
+{
+로데론 궁전
+}
+
+STRING 2681
+// Destructibles: B007 (Lordaeron Dome), Name (Name)
+{
+로데론 돔
+}
+
+STRING 2682
+// Destructibles: B008 (Lordaeron Wall Endcap), Name (Name)
+{
+로데론 벽 끝
+}
+
+STRING 2683
+// Destructibles: B009 (Lordaeron City Gate), Name (Name)
+{
+로데론 도시 관문
+}
+
+STRING 2684
+// Destructibles: B00A (Lordaeron Roof Tiles), Name (Name)
+{
+로데론 지붕 타일
+}
+
+STRING 2685
+{
+아제로스
+}
+
+STRING 2686
+{
+로데론
+}
+
+STRING 2687
+// Doodads: D000 (DoorArch), Name (Name)
+{
+아치문
+}
+
+STRING 2688
+// Doodads: D001 (Balcony), Name (Name)
+{
+발코니
+}
+
+STRING 2689
+// Destructibles: B00B (Lordaeron Wall Stairs), Name (Name)
+{
+로데론 벽 계단
+}
+
+STRING 2690
+// Destructibles: B00C (Lordaeron Small Gate), Name (Name)
+{
+로데론 소형 관문
+}
+
+STRING 2750
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 2778
+{
+|c003366FF병력 증원|r
+잊혀진 섬에서 돌아온 그런트와 전함 부대가 합류했습니다.
+}
+
+STRING 2788
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2789
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2790
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2791
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2792
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2793
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2794
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2795
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2796
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2797
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2798
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2799
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2803
+{
+유닛을 계속 훈련하려면 농장을 추가로 건설해야 합니다.,유닛을 계속 생산하려면 돼지 농장을 추가로 건설해야 합니다.,유닛 생산을 계속하려면 지구라트를 더 소환해야 합니다.,유닛 훈련을 계속하려면 달샘을 추가로 건설해야 합니다.
+}
+
+STRING 2804
+{
+사용할 수 없는 석유 굴착대입니다.
+}
+
+STRING 2805
+{
+해당 유전은 이미 사용 중입니다.
+}
+
+STRING 2806
+{
+석유 굴착대를 먼저 건설해야 합니다.
+}
+
+STRING 2807
+{
+유전을 대상으로 지정해야 합니다.
+}
+
+STRING 2808
+{
+유전 위에만 건설할 수 있습니다.
+}
+
+STRING 2809
+{
+전당에서 영웅을 부활시킬 수 있습니다.
+}
+
+STRING 2810
+{
+부정
+}
+
+STRING 2839
+{
+펜리스 섬
+}
+
+STRING 2840
+{
+호드의 궁극적인 목표 앞에는 펜리스 섬이 남아있습니다. 적을 제거하고 섬을 점령하여 거점을 마련해야 합니다. 그래야만 수도 공성전을 시작할 수 있습니다.
+}
+
+STRING 2843
+{
+펜리스 섬을 점령해야 합니다.
+}
+
+STRING 2844
+{
+로데론 항구
+}
+
+STRING 2845
+{
+로데론 해군의 잔당이 수도 침공군에게 위협이 되고 있습니다. 이를 용납할 수 없습니다. 이들을 제거하십시오!
+}
+
+STRING 2846
+{
+조선소를 파괴해야 합니다.
+}
+
+STRING 2847
+{
+수도 공략
+}
+
+STRING 2848
+{
+로데론의 수도가 눈앞에 서 있습니다. 지금까지 해온 모든 일들은 이 순간을 위해서였습니다. 운명을 장악하고 호드의 연대기에 마침표를 찍으십시오. 모든 것을 불태우고 앞길을 가로막는 모든 이들을 학살하십시오!
+}
+
+STRING 2849
+{
+병영을 파괴해야 합니다.
+}
+
+STRING 2850
+{
+마법사 탑을 파괴해야 합니다.
+}
+
+STRING 2851
+{
+그리핀 사육장을 파괴해야 합니다.
+}
+
+STRING 2852
+{
+마구간을 파괴해야 합니다.
+}
+
+STRING 2853
+{
+마을 회관을 파괴해야 합니다.
+}
+
+STRING 2854
+{
+성채를 파괴해야 합니다.
+}
+
+STRING 2855
+{
+성을 파괴해야 합니다.
+}
+
+STRING 2856
+{
+|cffffcc00주 퀘스트|r
+펜리스 섬
+  - 펜리스 섬을 점령해야 합니다.
+  - 오그림이 생존해야 합니다.
+}
+
+STRING 2857
+{
+|cffffcc00주 퀘스트 완료|r
+펜리스 섬
+}
+
+STRING 2858
+{
+넘치는 금
+}
+
+STRING 2859
+{
+수도의 국고를 약탈하십시오.
+}
+
+STRING 2860
+{
+국고를 약탈해야 합니다.
+}
+
+STRING 2861
+{
+|cffffcc00주 퀘스트|r
+로데론 항구
+  - 조선소를 파괴해야 합니다.
+  - 정제소를 파괴해야 합니다.
+  - 주조소를 파괴해야 합니다.
+}
+
+STRING 2862
+{
+|cffffcc00주 퀘스트|r
+수도 공략
+  - 병영을 파괴해야 합니다.
+  - 마법사 탑을 파괴해야 합니다.
+  - 그리핀 사육장을 파괴해야 합니다.
+  - 마구간을 파괴해야 합니다.
+  - 마을 회관을 파괴해야 합니다.
+  - 성채를 파괴해야 합니다.
+  - 성을 파괴해야 합니다.
+  - 교회를 파괴해야 합니다.
+}
+
+STRING 2863
+{
+|cffffcc00선택 퀘스트|r
+넘치는 금
+  - 국고를 약탈해야 합니다.
+}
+
+STRING 2864
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+돌 벤치
+}
+
+STRING 2865
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+나무 벤치
+}
+
+STRING 2866
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+무기 선반 신규
+}
+
+STRING 2867
+// Destructibles: B00G (Wooden Floor), Name (Name)
+{
+나무 바닥
+}
+
+STRING 2868
+// Destructibles: B00H (Fence), Name (Name)
+{
+울타리
+}
+
+STRING 2869
+// Destructibles: B00I (Fence), Name (Name)
+{
+울타리
+}
+
+STRING 2870
+// Destructibles: B00J (Fence short), Name (Name)
+{
+짧은 울타리
+}
+
+STRING 2871
+// Destructibles: B00K (Fence short), Name (Name)
+{
+짧은 울타리
+}
+
+STRING 2872
+// Units: n004 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2873
+// Units: n006 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2874
+// Units: n007 (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2875
+// Units: n008 (City clock tower), Name (Name)
+{
+도시 시계탑
+}
+
+STRING 2876
+// Units: n008 (City clock tower), Tip (Tooltip - Basic)
+{
+도시 시계탑 건설
+}
+
+STRING 2877
+// Units: n009 (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(브릴)
+}
+
+STRING 2878
+// Units: n009 (City clock tower), Name (Name)
+{
+도시 시계탑
+}
+
+STRING 2879
+// Units: n009 (City clock tower), Tip (Tooltip - Basic)
+{
+도시 시계탑 건설
+}
+
+STRING 2880
+// Units: n00A (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(안돌할)
+}
+
+STRING 2881
+// Units: n00A (City clock tower), Name (Name)
+{
+도시 시계탑
+}
+
+STRING 2882
+// Units: n00A (City clock tower), Tip (Tooltip - Basic)
+{
+도시 시계탑 건설
+}
+
+STRING 2883
+// Units: n00B (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(스트란브레드)
+}
+
+STRING 2884
+// Units: n00B (City clock tower), Name (Name)
+{
+도시 시계탑
+}
+
+STRING 2885
+// Units: n00B (City clock tower), Tip (Tooltip - Basic)
+{
+도시 시계탑 건설
+}
+
+STRING 2887
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+선술집 건설
+}
+
+STRING 2888
+// Units: n00D (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2889
+// Units: n00E (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2890
+// Units: n00F (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2891
+// Units: n00G (Inn), Name (Name)
+{
+여관
+}
+
+STRING 2892
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+여관 건설
+}
+
+STRING 2893
+// Units: h003 (Granary), Name (Name)
+{
+곡물 창고
+}
+
+STRING 2894
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+곡물 창고 건설
+}
+
+STRING 2895
+// Units: h004 (Windmill), Name (Name)
+{
+풍차
+}
+
+STRING 2896
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+풍차 건설
+}
+
+STRING 2897
+// Units: n00H (Barn), Name (Name)
+{
+헛간
+}
+
+STRING 2898
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+헛간 건설
+}
+
+STRING 2899
+// Destructibles: B00L (Chapel), Name (Name)
+{
+예배당
+}
+
+STRING 2901
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+보급 식량
+}
+
+STRING 2902
+// Units: n00I (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2903
+// Units: n00J (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2904
+{
+검은바위 부족
+}
+
+STRING 2909
+// Destructibles: B00O (Pillows), Name (Name)
+{
+베개
+}
+
+STRING 2910
+// Destructibles: B00P (Carpets), Name (Name)
+{
+카펫
+}
+
+STRING 2911
+// Doodads: D002 (Sign Shadis Lounge), Name (Name)
+{
+샤디의 휴게실 간판
+}
+
+STRING 2912
+// Doodads: D003 (Guitar), Name (Name)
+{
+기타
+}
+
+STRING 2913
+// Doodads: D004 (Hookah), Name (Name)
+{
+물담배
+}
+
+STRING 2918
+{
+검은이빨 부족
+}
+
+STRING 2919
+{
+용아귀 부족
+}
+
+STRING 2928
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+시네마틱 목적지
+}
+
+STRING 2954
+{
+주조소를 파괴해야 합니다.
+}
+
+STRING 2955
+{
+정제소를 파괴해야 합니다.
+}
+
+STRING 2957
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+소라딘 석상
+}
+
+STRING 2958
+// Units: n00M (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 2959
+// Units: n00M (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2960
+// Units: n00N (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 2961
+// Units: n00N (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2962
+// Units: n00O (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 2963
+// Units: n00O (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2964
+// Units: n00P (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 2965
+// Units: n00P (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2966
+// Units: n00Q (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2967
+// Units: n00R (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 2968
+// Units: n00R (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2969
+// Units: n00S (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 2970
+// Units: n00S (Lordaeron City Building), Name (Name)
+{
+로데론 도시 건물
+}
+
+STRING 2971
+{
+|cffffcc00선택 퀘스트 완료|r
+넘치는 금
+}
+
+STRING 2972
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+하수구 출입구
+}
+
+STRING 2973
+// Doodads: D006 (Cargo), Name (Name)
+{
+창고
+}
+
+STRING 2974
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+황마포 자루
+}
+
+STRING 3016
+{
+호드
+}
+
+STRING 3027
+// Units: h006 (Lordaeron Guard Tower), Name (Name)
+{
+로데론 경비탑
+}
+
+STRING 3028
+// Units: h007 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+경비탑 (|cffffcc00G|r)
+}
+
+STRING 3030
+// Units: h007 (Lordaeron Guard Tower), Name (Name)
+{
+로데론 경비탑
+}
+
+STRING 3033
+// Units: h007 (Lordaeron Guard Tower), EditorSuffix (Name - Editor Suffix)
+{
+(넓은)
+}
+
+STRING 3058
+{
+|cffffcc00주 퀘스트 업데이트|r
+로데론 항구
+  - |cffc0c0c0조선소를 파괴해야 합니다. (완료)|r
+}
+
+STRING 3059
+{
+|cffffcc00주 퀘스트 업데이트|r
+로데론 항구
+  - |cffc0c0c0조선소를 파괴해야 합니다. (완료)|r
+}
+
+STRING 3060
+{
+|cffffcc00주 퀘스트 업데이트|r
+로데론 항구
+  - |cffc0c0c0정제소를 파괴해야 합니다. (완료)|r
+}
+
+STRING 3061
+{
+|cffffcc00주 퀘스트 업데이트|r
+로데론 항구
+  - |cffc0c0c0주조소를 파괴해야 합니다. (완료)|r
+}
+
+STRING 3064
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0병영을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3065
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0마법사 탑을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3068
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0마구간을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3069
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0마을 회관을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3070
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0성채를 파괴해야 합니다. (완료)|r
+}
+
+STRING 3071
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0성을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3073
+// Units: n00U (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3074
+// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 1)
+}
+
+STRING 3075
+// Units: n00V (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3076
+// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 2)
+}
+
+STRING 3077
+// Units: n00W (Child), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 1)
+}
+
+STRING 3078
+// Units: n00X (Child), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 2)
+}
+
+STRING 3079
+// Units: n02K (Orc Pirate), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3080
+// Units: n00Y (Eagle), Name (Name)
+{
+독수리
+}
+
+STRING 3081
+// Units: n00Z (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3082
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3083
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3084
+// Units: n010 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3085
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3086
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3087
+// Units: n011 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3088
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3089
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3090
+// Units: n012 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3091
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3092
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3093
+// Units: n013 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3094
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3095
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3096
+// Units: n014 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3097
+// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3098
+// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 3099
+// Units: n015 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3100
+// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3101
+// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 3102
+// Units: n016 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3103
+// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3104
+// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 3105
+// Units: n017 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3106
+// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3107
+// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 3108
+// Units: n018 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3109
+// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3110
+// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 3111
+// Units: n019 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3112
+// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3113
+// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 3114
+// Units: n01A (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3115
+// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 3)
+}
+
+STRING 3116
+// Units: n01B (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3117
+// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 4)
+}
+
+STRING 3118
+// Units: n01C (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3119
+// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 5)
+}
+
+STRING 3120
+// Units: n01D (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3121
+// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 6)
+}
+
+STRING 3122
+// Units: n01E (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3123
+// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 7)
+}
+
+STRING 3124
+// Units: n01F (Child), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 3)
+}
+
+STRING 3125
+// Units: n01G (Child), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 4)
+}
+
+STRING 3126
+// Units: n01H (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3127
+// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3128
+// Units: n01I (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3129
+// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3130
+// Units: n01J (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3131
+// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3132
+// Units: n01K (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3133
+// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3134
+// Units: n01L (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3135
+// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3136
+// Units: n01M (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3137
+// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3138
+// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 3141
+{
+민병대
+}
+
+STRING 3142
+{
+저희도 로데론을 위해서 싸우겠습니다! 다들 무기를 들라고!
+}
+
+STRING 3183
+{
+아이언포지 사절
+}
+
+STRING 3200
+// Units: n01O (Cinematic Raven), Name (Name)
+{
+시네마틱 까마귀
+}
+
+STRING 3201
+// Doodads: D008 (Guldans Head), Name (Name)
+{
+굴단의 머리
+}
+
+STRING 3202
+{
+오그림이 생존해야 합니다.
+}
+
+STRING 3203
+{
+|cffffcc00주 퀘스트 실패|r
+펜리스 섬
+  - 펜리스 섬을 점령해야 합니다.
+  -|cffff0000 오그림이 생존해야 합니다. (실패)|r
+}
+
+STRING 3204
+{
+|cffffcc00임무 실패|r
+}
+
+STRING 3211
+{
+키린 토
+}
+
+STRING 3214
+// Destructibles: XTbd (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3215
+// Destructibles: B00S (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3217
+// Destructibles: B00T (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3218
+// Destructibles: B00T (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 3219
+// Destructibles: B00U (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3220
+// Destructibles: B00U (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(4)
+}
+
+STRING 3221
+// Destructibles: B00V (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3222
+// Destructibles: B00V (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(5)
+}
+
+STRING 3223
+// Destructibles: B00W (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3224
+// Destructibles: B00W (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(6)
+}
+
+STRING 3225
+// Destructibles: B00X (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3226
+// Destructibles: B00X (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(7)
+}
+
+STRING 3227
+// Destructibles: B00Y (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3228
+// Destructibles: B00Y (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(8)
+}
+
+STRING 3229
+// Destructibles: B010 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3231
+// Destructibles: B011 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3232
+// Destructibles: B010 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(10)
+}
+
+STRING 3233
+// Destructibles: B012 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3234
+// Destructibles: B011 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(11)
+}
+
+STRING 3235
+// Destructibles: B013 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3236
+// Destructibles: B012 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(12)
+}
+
+STRING 3237
+// Destructibles: B014 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3238
+// Destructibles: B013 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(13)
+}
+
+STRING 3239
+// Destructibles: B015 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3240
+// Destructibles: B014 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(14)
+}
+
+STRING 3241
+// Destructibles: B016 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3242
+// Destructibles: B015 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(15)
+}
+
+STRING 3243
+// Destructibles: B017 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3244
+// Destructibles: B016 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(16)
+}
+
+STRING 3245
+// Destructibles: B018 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3246
+// Destructibles: B017 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(17)
+}
+
+STRING 3247
+// Destructibles: B019 (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3248
+// Destructibles: B018 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(18)
+}
+
+STRING 3249
+// Destructibles: B01A (Dalaran Building), Name (Name)
+{
+달라란 건물
+}
+
+STRING 3250
+// Destructibles: B019 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(19)
+}
+
+STRING 3251
+{
+달라란
+}
+
+STRING 3253
+// Destructibles: B01A (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(20)
+}
+
+STRING 3254
+// Doodads: D009 (DivineShield), Name (Name)
+{
+천상의 보호막
+}
+
+STRING 3255
+// Units: h61P (Violet Citadel), Name (Name)
+{
+보랏빛 성채
+}
+
+STRING 3256
+// Units: h61P (Violet Citadel), Tip (Tooltip - Basic)
+{
+보랏빛 성채 건설
+}
+
+STRING 3257
+// Units: n01P (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3258
+// Units: n01Q (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 3259
+// Units: n01Q (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3260
+// Units: n01R (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 3261
+// Units: n01R (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3262
+// Units: n01S (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 3263
+// Units: n01S (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3264
+// Units: n01T (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 3265
+// Units: n01T (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3266
+// Units: n01U (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 3267
+// Units: n01U (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3268
+// Units: n01V (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 3269
+// Units: n01V (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3270
+// Units: n01W (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+7
+}
+
+STRING 3271
+// Units: n01W (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3272
+// Units: n01X (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+8
+}
+
+STRING 3273
+// Units: n01X (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3274
+// Units: n01Y (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+9
+}
+
+STRING 3275
+// Units: n01Y (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3276
+// Units: n01Z (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+10
+}
+
+STRING 3277
+// Units: n01Z (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3278
+// Units: n020 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+11
+}
+
+STRING 3279
+// Units: n020 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3280
+// Units: n021 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+12
+}
+
+STRING 3281
+// Units: n021 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3282
+// Units: n022 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+13
+}
+
+STRING 3283
+// Units: n022 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3284
+// Units: n023 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+14
+}
+
+STRING 3285
+// Units: n023 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3286
+// Units: n024 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+15
+}
+
+STRING 3287
+// Units: n024 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3288
+// Units: n025 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+16
+}
+
+STRING 3289
+// Units: n025 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3290
+// Units: n026 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+17
+}
+
+STRING 3291
+// Units: n026 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3292
+// Units: n027 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+18
+}
+
+STRING 3293
+// Units: n027 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3294
+// Units: n028 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+19
+}
+
+STRING 3295
+// Units: n028 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3296
+// Units: n029 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+20
+}
+
+STRING 3297
+// Units: n029 (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3298
+// Units: n02A (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+21
+}
+
+STRING 3299
+// Units: n02A (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3300
+// Units: n02B (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+22
+}
+
+STRING 3301
+// Units: n02B (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3302
+// Units: n02C (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+23
+}
+
+STRING 3303
+// Units: n02C (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3304
+// Units: n02D (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+24
+}
+
+STRING 3305
+// Units: n02D (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3306
+// Units: n02E (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+25
+}
+
+STRING 3307
+// Units: n02E (Dalaran City Building), Name (Name)
+{
+달라란 도시 건물
+}
+
+STRING 3308
+{
+죽음의 기사단
+}
+
+STRING 3309
+// Units: h009 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(달라란)
+}
+
+STRING 3310
+// Units: h00A (Dalaran Guard), Name (Name)
+{
+달라란 수호병
+}
+
+STRING 3312
+// Doodads: D00A (Log Doodad), Name (Name)
+{
+통나무 장식물
+}
+
+STRING 3313
+// Units: H00B (The Wholoomancer), Name (Name)
+{
+양모술사
+}
+
+STRING 3314
+// Doodads: D00B (Antonidas Statue), Name (Name)
+{
+안토니다스 석상
+}
+
+STRING 3319
+// Units: e001 (Mana Stone), Name (Name)
+{
+마나석
+}
+
+STRING 3320
+// Units: e001 (Mana Stone), Tip (Tooltip - Basic)
+{
+마나석 건설
+}
+
+STRING 3325
+// Units: n02G (Zuluhed), Name (Name)
+{
+줄루헤드
+}
+
+STRING 3394
+{
+십자섬
+}
+
+STRING 3395
+{
+십자섬의 보랏빛 성채는 달라란의 항구이자 수비 관문입니다. 대마법사 수호자를 처치하고 성채를 무너뜨리고 달라란으로 가는 길을 열어야 합니다.
+}
+
+STRING 3396
+{
+비전 관측소를 파괴해야 합니다. (3개 중 0개 파괴)
+}
+
+STRING 3397
+{
+대마법사를 처치해야 합니다.
+}
+
+STRING 3398
+{
+보랏빛 성채를 파괴해야 합니다.
+}
+
+STRING 3399
+{
+렌드가 생존해야 합니다.
+}
+
+STRING 3400
+{
+마임이 생존해야 합니다.
+}
+
+STRING 3401
+{
+줄루헤드가 생존해야 합니다.
+}
+
+STRING 3402
+{
+|cffffcc00주 퀘스트|r
+십자섬
+  - 비전 관측소를 파괴해야 합니다.
+  - 대마법사를 처치해야 합니다.
+  - 보랏빛 성채를 파괴해야 합니다.
+  - 렌드가 생존해야 합니다.
+  - 마임이 생존해야 합니다.
+  - 줄루헤드가 생존해야 합니다.
+}
+
+STRING 3403
+{
+|cffffcc00주 퀘스트 완료|r
+십자섬
+}
+
+STRING 3404
+{
+|cffffcc00주 퀘스트 업데이트|r
+십자섬
+  - |cffc0c0c0비전 관측소를 파괴해야 합니다. (완료)|r
+  - 대마법사를 처치해야 합니다.
+  - 보랏빛 성채를 파괴해야 합니다.
+  - 렌드가 생존해야 합니다.
+  - 마임이 생존해야 합니다.
+  - 줄루헤드가 생존해야 합니다.
+}
+
+STRING 3405
+{
+|cffffcc00주 퀘스트 업데이트|r
+십자섬
+  - |cffc0c0c0비전 관측소를 파괴해야 합니다. (완료)|r
+  - |cffc0c0c0대마법사를 처치해야 합니다. (완료)|r
+  - 보랏빛 성채를 파괴해야 합니다.
+  - 렌드가 생존해야 합니다.
+  - 마임이 생존해야 합니다.
+  - 줄루헤드가 생존해야 합니다.
+}
+
+STRING 3407
+{
+비전 관측소를 파괴해야 합니다. (3개 중 1개 파괴)
+}
+
+STRING 3408
+{
+비전 관측소를 파괴해야 합니다. (3개 중 2개 파괴)
+}
+
+STRING 3409
+{
+비전 관측소를 파괴해야 합니다. (3개 중 3개 파괴)
+}
+
+STRING 3410
+{
+비전 관측소를 파괴해야 합니다. (3개 중 3개 파괴)
+}
+
+STRING 3411
+{
+비전 관측소를 파괴해야 합니다. (3개 중 2개 파괴)
+}
+
+STRING 3412
+{
+비전 관측소를 파괴해야 합니다. (3개 중 1개 파괴)
+}
+
+STRING 3413
+{
+비전 관측소를 파괴해야 합니다. (3개 중 3개 파괴)
+}
+
+STRING 3414
+{
+비전 관측소를 파괴해야 합니다. (3개 중 2개 파괴)
+}
+
+STRING 3415
+{
+비전 관측소를 파괴해야 합니다. (3개 중 1개 파괴)
+}
+
+STRING 3416
+{
+비전 관측소
+}
+
+STRING 3417
+{
+파괴함:
+}
+
+STRING 3420
+// Doodads: D00D (Bone Bridge), Name (Name)
+{
+뼈 다리
+}
+
+STRING 3421
+// Destructibles: B01D (Dalaran Stairs), Name (Name)
+{
+달라란 계단
+}
+
+STRING 3426
+// Units: Hamg (Archmage), Propernames (Proper Names)
+{
+놀란
+}
+
+STRING 3448
+// Units: H00B (The Wholoomancer), Propernames (Proper Names)
+{
+쇼르카
+}
+
+STRING 3449
+// Units: o001 (Juggernaught), Name (Name)
+{
+돌격전함
+}
+
+STRING 3450
+// Units: o001 (Juggernaught), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3452
+// Units: n02H (Maim), Name (Name)
+{
+마임
+}
+
+STRING 3453
+// Units: n02J (Utok), Name (Name)
+{
+우톡
+}
+
+STRING 3454
+// Units: n02L (Blacktoothgrin Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3455
+// Units: n02M (Korkron Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3456
+// Units: n02N (Dragonmaw Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3457
+// Units: n02O (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3460
+// Units: n02L (Blacktoothgrin Grunt), Name (Name)
+{
+검은이빨 부족
+}
+
+STRING 3461
+// Units: n02M (Korkron Grunt), Name (Name)
+{
+코르크론 그런트
+}
+
+STRING 3462
+// Units: n02N (Dragonmaw Grunt), Name (Name)
+{
+용아귀 그런트
+}
+
+STRING 3463
+// Units: n02P (Doomhammer), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 3464
+// Units: n02O (Blackrock Grunt), Name (Name)
+{
+검은바위 그런트
+}
+
+STRING 3506
+{
+|cffffcc00주 퀘스트 실패|r
+십자섬
+  - |cffff0000렌드가 생존해야 합니다. (실패)|r
+}
+
+STRING 3507
+{
+|cffffcc00주 퀘스트 실패|r
+십자섬
+  - |cffff0000마임이 생존해야 합니다. (실패)|r
+}
+
+STRING 3508
+{
+|cffffcc00주 퀘스트 실패|r
+십자섬
+  - |cffff0000줄루헤드가 생존해야 합니다. (실패)|r
+}
+
+STRING 3658
+// Units: n02P (Doomhammer), Name (Name)
+{
+둠해머
+}
+
+STRING 3720
+{
+|cff00ff00힌트|r
+줄루헤드의 "야성의 도약" 능력은 십자섬에서 사용할 수 없습니다.
+}
+
+STRING 3751
+// Doodads: D64K (Wallpaper), Name (Name)
+{
+배경
+}
+
+STRING 3752
+{
+|cffffcc00새로운 유닛 사용 가능|r
+용 - 용아귀 부족이 제공하는 궁극의 병기입니다. 용의 둥지에서 붉은용을 훈련하고 업그레이드를 할 수 있습니다.
+}
+
+STRING 3753
+{
+교회를 파괴해야 합니다.
+}
+
+STRING 3754
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0교회를 파괴해야 합니다. (완료)|r
+}
+
+STRING 3755
+{
+|cffffcc00주 퀘스트 업데이트|r
+수도 공략
+  - |cffc0c0c0그리핀 사육장을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3756
+{
+|cffffcc00주 퀘스트 완료|r
+수도 공략
+}
+
+STRING 3757
+{
+|cffffcc00주 퀘스트 완료|r
+로데론 항구
+}
+
+STRING 3758
+// Units: uCDX (Dummy), Name (Name)
+{
+더미
+}
+
+STRING 3759
+// Units: uCDX (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(발사체 사수)
+}
+
+STRING 3760
+{
+로데론 시민
+}
+
+STRING 3761
+// Items: I0LA (WC2Orc14Orgrim1), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3762
+// Items: I0LA (WC2Orc14Orgrim1), Description (Description)
+{
+좋아. 우린 펜리스 섬을 점령하고 금광 근처에 기지를 건설해야 한다. 모든 준비가 끝나면 마침내 수도 공격을 시작할 수 있게 된다.
+}
+
+STRING 3763
+// Items: I0LA (WC2Orc14Orgrim1), Name (Name)
+{
+WC2Orc14Orgrim1
+}
+
+STRING 3764
+// Items: I0LB (WC2Orc14Orgrim2), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3765
+// Items: I0LB (WC2Orc14Orgrim2), Description (Description)
+{
+용아귀 부족과 검은이빨 부족의 배들이군... 내 복수의 운반자들이 마침내 돌아왔구나.
+}
+
+STRING 3766
+// Items: I0LB (WC2Orc14Orgrim2), Name (Name)
+{
+WC2Orc14Orgrim2
+}
+
+STRING 3767
+// Items: I0LC (WC2Orc14Orgrim3), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3768
+// Items: I0LC (WC2Orc14Orgrim3), Description (Description)
+{
+보고해라, 당장...
+}
+
+STRING 3769
+// Items: I0LC (WC2Orc14Orgrim3), Name (Name)
+{
+WC2Orc14Orgrim3
+}
+
+STRING 3770
+// Items: I0LD (WC2Orc14Orgrim4), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3771
+// Items: I0LD (WC2Orc14Orgrim4), Description (Description)
+{
+좋아... 나의 잘못된 자비가 드디어 바로잡혔군. 이게 내 통치에 반대하는 자들에게 경각심을 일깨워줄 것이다.
+}
+
+STRING 3772
+// Items: I0LD (WC2Orc14Orgrim4), Name (Name)
+{
+WC2Orc14Orgrim4
+}
+
+STRING 3773
+// Items: I0LE (WC2Orc14Orgrim5), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3774
+// Items: I0LE (WC2Orc14Orgrim5), Description (Description)
+{
+모두 믿을 수 없는 반역자들이지... 하지만 네 말이 맞다, 렌드. 인정하긴 싫지만 우리 군대의 힘이 급격히 약해졌다. 어떤 식으로든 호드의 미래는 오늘 결정될 거다. 저 오우거들을 선봉에 세워라... 우리에게 진 빚은 피로 갚아야 할 것이다. 나머지 오우거들은 내가 처우를 결정할 때까지 죽음의 기사들이 감시하게 두겠다.
+}
+
+STRING 3775
+// Items: I0LE (WC2Orc14Orgrim5), Name (Name)
+{
+WC2Orc14Orgrim5
+}
+
+STRING 3776
+// Items: I0LF (WC2Orc14Orgrim6), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3777
+// Items: I0LF (WC2Orc14Orgrim6), Description (Description)
+{
+테론 고어핀드가 남쪽 달라란 공략에 애를 먹고있다. 네가 가용한 모든 병력을 그 도시에 투입해라. 렌드와 마임도 함께할 것이다.
+}
+
+STRING 3778
+// Items: I0LF (WC2Orc14Orgrim6), Name (Name)
+{
+WC2Orc14Orgrim6
+}
+
+STRING 3779
+// Items: I0LG (WC2Orc14Orgrim7), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3781
+// Items: I0LG (WC2Orc14Orgrim7), Name (Name)
+{
+WC2Orc14Orgrim7
+}
+
+STRING 3782
+// Items: I0LH (WC2Orc14Orgrim8), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3783
+// Items: I0LH (WC2Orc14Orgrim8), Description (Description)
+{
+그래! 오늘 인류의 마지막 요새가 용의 불길에 타오를 것이다. 이제 가라!
+}
+
+STRING 3784
+// Items: I0LH (WC2Orc14Orgrim8), Name (Name)
+{
+WC2Orc14Orgrim8
+}
+
+STRING 3785
+// Items: I0LI (WC2Orc14Orgrim9), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3786
+// Items: I0LI (WC2Orc14Orgrim9), Description (Description)
+{
+우톡! 넌 여기 나와 함께 있어라. 로데론의 성벽이 우리의 분노한 군대 앞에 무너지는 영광스러운 순간을 기록해야 할 테니까! 오늘... 모든 걸 끝내겠다! 일어나라, 호드의 자손들이여! 피와 영광이 우리를 기다린다!
+}
+
+STRING 3787
+// Items: I0LI (WC2Orc14Orgrim9), Name (Name)
+{
+WC2Orc14Orgrim9
+}
+
+STRING 3788
+// Items: I0LJ (WC2Orc14Orgrim10), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3789
+// Items: I0LJ (WC2Orc14Orgrim10), Description (Description)
+{
+로데론의 한심한 함대의 잔당들을 끝장내야 한다. 항구를 파괴하고 그곳을 우리 공성 무기와 지상군이 도시를 공격할 거점으로 삼겠다.
+}
+
+STRING 3790
+// Items: I0LJ (WC2Orc14Orgrim10), Name (Name)
+{
+WC2Orc14Orgrim10
+}
+
+STRING 3791
+// Items: I0LK (WC2Orc14Orgrim11), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3792
+// Items: I0LK (WC2Orc14Orgrim11), Description (Description)
+{
+여기까지 왔는데 화살과 성벽에 막힐 수 없다… 일어나라, 나의 강력한 호드여! 저 성벽 너머에는 영광과 부가 기다리고 있다! 적들을 박살 내고 너희의 정당한 몫을 차지하라!
+}
+
+STRING 3793
+// Items: I0LK (WC2Orc14Orgrim11), Name (Name)
+{
+WC2Orc14Orgrim11
+}
+
+STRING 3794
+// Items: I0LL (WC2Orc14Orgrim12), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3795
+// Items: I0LL (WC2Orc14Orgrim12), Description (Description)
+{
+저 멀리 로데론 수도의 하얀 성벽이 우뚝 솟아 있다. 거만하고 반항심이 가득한 얼라이언스의 군대는 마지막 순간에도 결연한 자세로 버티고 있지만, 이제 남은 건 전투를 알리는 날카로운 나팔 소리와 우리의 운명을 완수하는 것뿐이다. 어둠의 파도가 다가왔다!
+}
+
+STRING 3796
+// Items: I0LL (WC2Orc14Orgrim12), Name (Name)
+{
+WC2Orc14Orgrim12
+}
+
+STRING 3797
+// Items: I0LM (WC2Orc14Orgrim13), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3798
+// Items: I0LM (WC2Orc14Orgrim13), Description (Description)
+{
+좋아, 이제 공격을 시작하자!
+}
+
+STRING 3799
+// Items: I0LM (WC2Orc14Orgrim13), Name (Name)
+{
+WC2Orc14Orgrim13
+}
+
+STRING 3800
+// Items: I0LN (WC2Orc14Orgrim14), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3801
+// Items: I0LN (WC2Orc14Orgrim14), Description (Description)
+{
+계획대로군!
+}
+
+STRING 3802
+// Items: I0LN (WC2Orc14Orgrim14), Name (Name)
+{
+WC2Orc14Orgrim14
+}
+
+STRING 3803
+// Items: I0LO (WC2Orc14Rend1), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 3805
+// Items: I0LO (WC2Orc14Rend1), Name (Name)
+{
+WC2Orc14Rend1
+}
+
+STRING 3806
+// Items: I0LP (WC2Orc14Rend2), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 3807
+// Items: I0LP (WC2Orc14Rend2), Description (Description)
+{
+굴단의 배신으로 너무 많은 대가를 치렀습니다... 이런 사실을 고려할 때, 우리는 그들을 바로 처형하는 대신 대족장님의 판단에 맡기는게 가장 현명하다고 생각했습니다.
+}
+
+STRING 3808
+// Items: I0LP (WC2Orc14Rend2), Name (Name)
+{
+WC2Orc14Rend2
+}
+
+STRING 3809
+// Items: I0LQ (WC2Orc14Rend3), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 3810
+// Items: I0LQ (WC2Orc14Rend3), Description (Description)
+{
+저희가 수도에서 싸우는 게 더 유용하지 않겠습니까?
+}
+
+STRING 3811
+// Items: I0LQ (WC2Orc14Rend3), Name (Name)
+{
+WC2Orc14Rend3
+}
+
+STRING 3812
+// Items: I0LR (WC2Orc14Rend4), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 3813
+// Items: I0LR (WC2Orc14Rend4), Description (Description)
+{
+그러고 나면 성채를 공격할 수 있겠군!
+}
+
+STRING 3814
+// Items: I0LR (WC2Orc14Rend4), Name (Name)
+{
+WC2Orc14Rend4
+}
+
+STRING 3815
+// Items: I0LS (WC2Orc14Rend5), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 3816
+// Items: I0LS (WC2Orc14Rend5), Description (Description)
+{
+대체 뭐였지?
+}
+
+STRING 3817
+// Items: I0LS (WC2Orc14Rend5), Name (Name)
+{
+WC2Orc14Rend5
+}
+
+STRING 3818
+// Items: I0LT (WC2Orc14Maim1), Tip (Tooltip - Basic)
+{
+마임 블랙핸드
+}
+
+STRING 3819
+// Items: I0LT (WC2Orc14Maim1), Description (Description)
+{
+네, 대족장님. 놈들의 함대를 파괴하고 우두머리들을 처형하자 항복했습니다.
+}
+
+STRING 3820
+// Items: I0LT (WC2Orc14Maim1), Name (Name)
+{
+WC2Orc14Maim1
+}
+
+STRING 3821
+// Items: I0LU (WC2Orc14Maim2), Tip (Tooltip - Basic)
+{
+마임 블랙핸드
+}
+
+STRING 3822
+// Items: I0LU (WC2Orc14Maim2), Description (Description)
+{
+놈을 조각조각 썰어 주겠어!
+}
+
+STRING 3823
+// Items: I0LU (WC2Orc14Maim2), Name (Name)
+{
+WC2Orc14Maim2
+}
+
+STRING 3824
+// Items: I0LV (WC2Orc14Utok1), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3825
+// Items: I0LV (WC2Orc14Utok1), Description (Description)
+{
+도시를 공격하는 방법에는 여러 가지가 있을 것입니다. 비행선을 이용해 해안선을 정찰해 보겠습니다.
+}
+
+STRING 3826
+// Items: I0LV (WC2Orc14Utok1), Name (Name)
+{
+WC2Orc14Utok1
+}
+
+STRING 3827
+// Items: I0LW (WC2Orc14Utok2), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3828
+// Items: I0LW (WC2Orc14Utok2), Description (Description)
+{
+대족장님, 성벽의 방어가 상당히 견고합니다! 많은 전사들이 엘프 궁수와 쇠뇌에 당하고 있습니다.
+}
+
+STRING 3829
+// Items: I0LW (WC2Orc14Utok2), Name (Name)
+{
+WC2Orc14Utok2
+}
+
+STRING 3830
+// Items: I0LX (WC2Orc14Utok3), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3831
+// Items: I0LX (WC2Orc14Utok3), Description (Description)
+{
+그를 돕기 위해 할 수 있는 최고의 전술은 무엇입니까?
+}
+
+STRING 3832
+// Items: I0LX (WC2Orc14Utok3), Name (Name)
+{
+WC2Orc14Utok3
+}
+
+STRING 3833
+// Items: I0LY (WC2Orc14Utok4), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3834
+// Items: I0LY (WC2Orc14Utok4), Description (Description)
+{
+병력을 현명하게 운용해야 합니다. 수많은 배와 탑들이 섬을 둘러싸고 있습니다.
+}
+
+STRING 3835
+// Items: I0LY (WC2Orc14Utok4), Name (Name)
+{
+WC2Orc14Utok4
+}
+
+STRING 3836
+// Items: I0LZ (WC2Orc14Utok5), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3837
+// Items: I0LZ (WC2Orc14Utok5), Description (Description)
+{
+전 이곳에서의 성공을 대족장님께 보고하러 가겠습니다.
+}
+
+STRING 3838
+// Items: I0LZ (WC2Orc14Utok5), Name (Name)
+{
+WC2Orc14Utok5
+}
+
+STRING 3839
+// Items: I0La (WC2Orc14Utok6), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3840
+// Items: I0La (WC2Orc14Utok6), Description (Description)
+{
+무리하지 마라, 타벡 "대장". 대족장님은 상관에게 불복종하는 병사는 용납하지 않으시니. 이제 명령에 따르도록!
+}
+
+STRING 3841
+// Items: I0La (WC2Orc14Utok6), Name (Name)
+{
+WC2Orc14Utok6
+}
+
+STRING 3842
+// Items: I0Lb (WC2Orc14Utok7), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3843
+// Items: I0Lb (WC2Orc14Utok7), Description (Description)
+{
+대족장님! 십자섬이 호드의 강력한 힘 앞에 무너졌습니다!
+}
+
+STRING 3844
+// Items: I0Lb (WC2Orc14Utok7), Name (Name)
+{
+WC2Orc14Utok7
+}
+
+STRING 3845
+// Items: I0Lc (WC2Orc14Tharbek1), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3846
+// Items: I0Lc (WC2Orc14Tharbek1), Description (Description)
+{
+대족장님, 공격 부대가 명령을 기다리고 있습니다.
+}
+
+STRING 3847
+// Items: I0Lc (WC2Orc14Tharbek1), Name (Name)
+{
+WC2Orc14Tharbek1
+}
+
+STRING 3848
+// Items: I0Ld (WC2Orc14Tharbek2), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3849
+// Items: I0Ld (WC2Orc14Tharbek2), Description (Description)
+{
+서둘러라, 게으른 구더기 같은 놈! 수도 공성전은 새벽에 시작된다… 그때까지 준비되지 않으면, 대족장님이 네놈의 가죽을 벗기실 거다!
+}
+
+STRING 3850
+// Items: I0Ld (WC2Orc14Tharbek2), Name (Name)
+{
+WC2Orc14Tharbek2
+}
+
+STRING 3851
+// Items: I0Le (WC2Orc14Tharbek3), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3852
+// Items: I0Le (WC2Orc14Tharbek3), Description (Description)
+{
+대족장님, 수도 공격에 필요한 야영지와 보급품이 모두 준비되었습니다.
+}
+
+STRING 3853
+// Items: I0Le (WC2Orc14Tharbek3), Name (Name)
+{
+WC2Orc14Tharbek3
+}
+
+STRING 3854
+// Items: I0Lf (WC2Orc14Tharbek4), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3855
+// Items: I0Lf (WC2Orc14Tharbek4), Description (Description)
+{
+오늘, 대족장님께 누가 더 나은 오크인지 증명해 보이겠다... 스크래처!
+}
+
+STRING 3856
+// Items: I0Lf (WC2Orc14Tharbek4), Name (Name)
+{
+WC2Orc14Tharbek4
+}
+
+STRING 3857
+// Items: I0Lg (WC2Orc14Tharbek5), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3858
+// Items: I0Lg (WC2Orc14Tharbek5), Description (Description)
+{
+금방이다, 스크래처 "사령관". 금방이야... 
+}
+
+STRING 3859
+// Items: I0Lg (WC2Orc14Tharbek5), Name (Name)
+{
+WC2Orc14Tharbek5
+}
+
+STRING 3860
+// Items: I0Lh (WC2Orc14Zuluhed1), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3861
+// Items: I0Lh (WC2Orc14Zuluhed1), Description (Description)
+{
+안녕하십니까, 대족장님. 우리는 많은 훌륭한 전사들을 잃었지만, 당신의 뜻은 이루어졌습니다.
+}
+
+STRING 3862
+// Items: I0Lh (WC2Orc14Zuluhed1), Name (Name)
+{
+WC2Orc14Zuluhed1
+}
+
+STRING 3863
+// Items: I0Li (WC2Orc14Zuluhed2), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3864
+// Items: I0Li (WC2Orc14Zuluhed2), Description (Description)
+{
+다음 목표는 무엇입니까, 대족장님?
+}
+
+STRING 3865
+// Items: I0Li (WC2Orc14Zuluhed2), Name (Name)
+{
+WC2Orc14Zuluhed2
+}
+
+STRING 3866
+// Items: I0Lj (WC2Orc14Zuluhed3), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3867
+// Items: I0Lj (WC2Orc14Zuluhed3), Description (Description)
+{
+이 순간을 위해 우리의 가장 강력한 무기를 아껴둔 것이 다행이군요. 바로 막강한 용들을! 용아귀 부족의 부화장에서 막 합류한 용 무리가 있습니다!
+}
+
+STRING 3868
+// Items: I0Lj (WC2Orc14Zuluhed3), Name (Name)
+{
+WC2Orc14Zuluhed3
+}
+
+STRING 3869
+// Items: I0Lk (WC2Orc14Zuluhed4), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3870
+// Items: I0Lk (WC2Orc14Zuluhed4), Description (Description)
+{
+십자섬이 보이네... 달라란 방어의 핵심 지점이군. 테론 고어핀드가 공격을 시작했지만, 그의 병력은 진군에 어려움을 겪고 있군.
+}
+
+STRING 3871
+// Items: I0Lk (WC2Orc14Zuluhed4), Name (Name)
+{
+WC2Orc14Zuluhed4
+}
+
+STRING 3872
+// Items: I0Ll (WC2Orc14Zuluhed5), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3873
+// Items: I0Ll (WC2Orc14Zuluhed5), Description (Description)
+{
+섬의 중심부인 보랏빛 성채를 보호하는 세 개의 비전 관측소가 있네. 그것들을 파괴하면, 키린 토 수비대는 마법 방어막을 잃게 될 것이네.
+}
+
+STRING 3874
+// Items: I0Ll (WC2Orc14Zuluhed5), Name (Name)
+{
+WC2Orc14Zuluhed5
+}
+
+STRING 3875
+// Items: I0Lm (WC2Orc14Zuluhed6), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3876
+// Items: I0Lm (WC2Orc14Zuluhed6), Description (Description)
+{
+성채는 대마법사가 발동한 주문으로 보호받고 있군. 우선, 그를 처치해야 하네.
+}
+
+STRING 3877
+// Items: I0Lm (WC2Orc14Zuluhed6), Name (Name)
+{
+WC2Orc14Zuluhed6
+}
+
+STRING 3878
+// Items: I0Ln (WC2Orc14Zuluhed7), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3879
+// Items: I0Ln (WC2Orc14Zuluhed7), Description (Description)
+{
+용들이 방어선을 불태워서 지상군이 도착할 장소를 마련할걸세.
+}
+
+STRING 3880
+// Items: I0Ln (WC2Orc14Zuluhed7), Name (Name)
+{
+WC2Orc14Zuluhed7
+}
+
+STRING 3881
+// Items: I0Lo (WC2Orc14Zuluhed8), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3882
+// Items: I0Lo (WC2Orc14Zuluhed8), Description (Description)
+{
+인간들이란...
+}
+
+STRING 3883
+// Items: I0Lo (WC2Orc14Zuluhed8), Name (Name)
+{
+WC2Orc14Zuluhed8
+}
+
+STRING 3884
+// Items: I0Lp (WC2Orc14Gorefiend1), Tip (Tooltip - Basic)
+{
+테론 고어핀드
+}
+
+STRING 3885
+// Items: I0Lp (WC2Orc14Gorefiend1), Description (Description)
+{
+네 하찮은 마법으로는 우릴 막을 수 없다, 마법사.
+}
+
+STRING 3886
+// Items: I0Lp (WC2Orc14Gorefiend1), Name (Name)
+{
+WC2Orc14Gorefiend1
+}
+
+STRING 3887
+// Items: I0Lq (WC2Orc14Gorefiend2), Tip (Tooltip - Basic)
+{
+테론 고어핀드
+}
+
+STRING 3888
+// Items: I0Lq (WC2Orc14Gorefiend2), Description (Description)
+{
+좋습니다. 용아귀 부족과 검은이빨 부족의 부대가 완벽한 시기에 도착했습니다. 우리는 남쪽으로 가서 도시를 포위할 준비를 하겠습니다.
+}
+
+STRING 3889
+// Items: I0Lq (WC2Orc14Gorefiend2), Name (Name)
+{
+WC2Orc14Gorefiend2
+}
+
+STRING 3890
+// Items: I0Lr (WC2Orc14Archmage01), Tip (Tooltip - Basic)
+{
+대마법사
+}
+
+STRING 3891
+// Items: I0Lr (WC2Orc14Archmage01), Description (Description)
+{
+너는 지나갈 수 없다, 이 뒤틀린 언데드 괴물아!
+}
+
+STRING 3892
+// Items: I0Lr (WC2Orc14Archmage01), Name (Name)
+{
+WC2Orc14Archmage01
+}
+
+STRING 3893
+// Items: I0Ls (WC2Orc14Retera1), Tip (Tooltip - Basic)
+{
+양모술사 레테라
+}
+
+STRING 3894
+// Items: I0Ls (WC2Orc14Retera1), Description (Description)
+{
+이 감옥에서 저를 구해주셔서 감사합니다, 이방인들이여. 키린 토는 저처럼 야망 있는 마법사를 존중하지 않는군요.
+}
+
+STRING 3895
+// Items: I0Ls (WC2Orc14Retera1), Name (Name)
+{
+WC2Orc14Retera1
+}
+
+STRING 3896
+// Items: I0Lt (WC2Orc14Retera2), Tip (Tooltip - Basic)
+{
+양모술사 레테라
+}
+
+STRING 3897
+// Items: I0Lt (WC2Orc14Retera2), Description (Description)
+{
+그들은 내 실험이 너무 대담하다고 생각했고, 그로 인해 벌을 받았습니다. 어쨌든, 이제 이곳에서 볼일은 끝났습니다. 모두 지옥에나 가버려라!
+}
+
+STRING 3898
+// Items: I0Lt (WC2Orc14Retera2), Name (Name)
+{
+WC2Orc14Retera2
+}
+
+STRING 3899
+// Items: I0Lu (WC2Orc14Uther1), Tip (Tooltip - Basic)
+{
+우서
+}
+
+STRING 3900
+// Items: I0Lu (WC2Orc14Uther1), Description (Description)
+{
+그곳은 안전할 거란다, 꼬마야. 두려워하지 마렴. 빛이 널 지켜줄 거고, 아래에서 네 어머니와 형제들이 널 필요로 할 거야. 네 의무는 그들과 함께하는 거란다. 이제 가거라.
+}
+
+STRING 3901
+// Items: I0Lu (WC2Orc14Uther1), Name (Name)
+{
+WC2Orc14Uther1
+}
+
+STRING 3902
+// Items: I0Lv (WC2Orc14Uther2), Tip (Tooltip - Basic)
+{
+우서
+}
+
+STRING 3903
+// Items: I0Lv (WC2Orc14Uther2), Description (Description)
+{
+좋아, 궁수들에게 성벽 위에서 방어를 준비하라고 명령하게, 로데론은 오늘 무너지지 않는다!
+}
+
+STRING 3904
+// Items: I0Lv (WC2Orc14Uther2), Name (Name)
+{
+WC2Orc14Uther2
+}
+
+STRING 3905
+// Items: I0Lw (WC2Orc14Uther3), Tip (Tooltip - Basic)
+{
+우서
+}
+
+STRING 3906
+// Items: I0Lw (WC2Orc14Uther3), Description (Description)
+{
+악마를 숭배하는 광신도들아, 빛에 의해 정화되어라!
+}
+
+STRING 3907
+// Items: I0Lw (WC2Orc14Uther3), Name (Name)
+{
+WC2Orc14Uther3
+}
+
+STRING 3908
+// Items: I0Lx (WC2Orc14Uther4), Tip (Tooltip - Basic)
+{
+우서
+}
+
+STRING 3909
+// Items: I0Lx (WC2Orc14Uther4), Description (Description)
+{
+병사들이여! 무슨 수를 써서라도 도시를 지켜라!
+}
+
+STRING 3910
+// Items: I0Lx (WC2Orc14Uther4), Name (Name)
+{
+WC2Orc14Uther4
+}
+
+STRING 3911
+// Items: I0Lz (WC2Orc14Uther5), Tip (Tooltip - Basic)
+{
+우서
+}
+
+STRING 3912
+// Items: I0Lz (WC2Orc14Uther5), Description (Description)
+{
+너희는 이 도시를 차지하지 못할 것이다!
+}
+
+STRING 3913
+// Items: I0Lz (WC2Orc14Uther5), Name (Name)
+{
+WC2Orc14Uther5
+}
+
+STRING 3914
+// Items: I1LA (MuradinTaunt2), Tip (Tooltip - Basic)
+{
+무라딘 브론즈비어드
+}
+
+STRING 3915
+// Items: I1LA (MuradinTaunt2), Description (Description)
+{
+노움들도 너보단 강하겠다!
+}
+
+STRING 3916
+// Items: I1LA (MuradinTaunt2), Name (Name)
+{
+MuradinTaunt2
+}
+
+STRING 3917
+// Items: I1LB (MuradinTaunt1), Tip (Tooltip - Basic)
+{
+무라딘 브론즈비어드
+}
+
+STRING 3918
+// Items: I1LB (MuradinTaunt1), Description (Description)
+{
+겨우 이 정도냐!
+}
+
+STRING 3919
+// Items: I1LB (MuradinTaunt1), Name (Name)
+{
+MuradinTaunt1
+}
+
+STRING 3920
+// Items: I1LC (MuradinWarcry1), Tip (Tooltip - Basic)
+{
+무라딘 브론즈비어드
+}
+
+STRING 3922
+// Items: I1LC (MuradinWarcry1), Name (Name)
+{
+MuradinWarcry1
+}
+
+STRING 3923
+// Items: I1LD (MuradinYesAttack1), Tip (Tooltip - Basic)
+{
+무라딘 브론즈비어드
+}
+
+STRING 3924
+// Items: I1LD (MuradinYesAttack1), Description (Description)
+{
+카즈 모단을 위하여!
+}
+
+STRING 3925
+// Items: I1LD (MuradinYesAttack1), Name (Name)
+{
+MuradinYesAttack1
+}
+
+STRING 3926
+// Items: ITLE (MuradinYesAttack2), Tip (Tooltip - Basic)
+{
+무라딘 브론즈비어드
+}
+
+STRING 3927
+// Items: ITLE (MuradinYesAttack2), Description (Description)
+{
+브론즈비어드 가문을 위하여!
+}
+
+STRING 3928
+// Items: ITLE (MuradinYesAttack2), Name (Name)
+{
+MuradinYesAttack2
+}
+
+STRING 3929
+// Items: I1LF (MuradinYesAttack3), Tip (Tooltip - Basic)
+{
+무라딘 브론즈비어드
+}
+
+STRING 3930
+// Items: I1LF (MuradinYesAttack3), Description (Description)
+{
+어디, 맛 좀 봐라!
+}
+
+STRING 3931
+// Items: I1LF (MuradinYesAttack3), Name (Name)
+{
+MuradinYesAttack3
+}
+
+STRING 3932
+// Items: I1LG (WC2Orc14Captain1), Tip (Tooltip - Basic)
+{
+대장
+}
+
+STRING 3933
+// Items: I1LG (WC2Orc14Captain1), Description (Description)
+{
+우서 경, 성문을 모두 잠궜고 쇠뇌가 준비되었습니다.
+}
+
+STRING 3934
+// Items: I1LG (WC2Orc14Captain1), Name (Name)
+{
+WC2Orc14Captain1
+}
+
+STRING 3935
+// Items: I1LH (WC2Orc14ChildTimmy1), Tip (Tooltip - Basic)
+{
+티미
+}
+
+STRING 3936
+// Items: I1LH (WC2Orc14ChildTimmy1), Description (Description)
+{
+전 지하 묘지에 가기 싫어요, 무서워요...
+}
+
+STRING 3937
+// Items: I1LH (WC2Orc14ChildTimmy1), Name (Name)
+{
+WC2Orc14ChildTimmy1
+}
+
+STRING 3938
+// Items: I1LI (GoblinSapperYes3), Tip (Tooltip - Basic)
+{
+고블린 공병
+}
+
+STRING 3939
+// Items: I1LI (GoblinSapperYes3), Description (Description)
+{
+난 아주 화끈할 거야!
+}
+
+STRING 3940
+// Items: I1LI (GoblinSapperYes3), Name (Name)
+{
+GoblinSapperYes3
+}
+
+STRING 3941
+// Upgrades: R00O (Burning Oil), EditorSuffix (Editor Suffix)
+{
+(WC2) (Broken)
+}
+
+STRING 3942
+// Units: nwzr (Wizard), Name (Name)
+{
+마법사
+}
+
+STRING 3943
+// Units: nwzg (Senior Wizard), Name (Name)
+{
+선임 마법사
+}
+
+STRING 3944
+// Units: nwzd (Dalaran Wizard), Name (Name)
+{
+달라란 마법사
+}
+
+STRING 3945
+// Items: I0LG (WC2Orc14Orgrim7), Description (Description)
+{
+그렇지 않다, 렌드. 달라란의 보랏빛 성채는 키린 토의 마법사들에게 성역이자 낙원이다. 로데론이 함락되면 달라란은 호드와 인류의 정복 사이에 놓인 최후이자 가장 위태로운 방벽이 될 것이다.
+}
+
+STRING 3946
+// Items: I1LC (MuradinWarcry1), Description (Description)
+{
+피와 번개, 수염과 한 잔의 축복을!
+}
+
+STRING 3947
+// Items: I0LO (WC2Orc14Rend1), Description (Description)
+{
+대족장님, 황혼의 망치와 폭풍약탈자 부족의 생존자 몇 명을 포로로 잡았습니다. 이놈들은 용서를 구하고 있습니다.
+}
+
+STRING 3948
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 3949
+{
+|cffffcc00치트 비활성화!|r
+}
+
+STRING 3950
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 3951
+{
+|cffffcc00치트 비활성화!|r
+}
+
+STRING 3952
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), EditorSuffix (Editor Suffix)
+{
+(십자섬)
+}
+
+STRING 3953
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
+{
+파괴된 관측소
+}
+
+STRING 3954
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
+{
+파괴된 관측소
+}
+
+STRING 3955
+// Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
+{
+줄루헤드는 달라란 마법사가 시전한 보호 주문 때문에 야성의 도약 능력을 사용할 수 없습니다.
+}
+
+STRING 3956
+// Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
+{
+수상한 까마귀
+}
+
+STRING 3957
+// Items: IQL0 (Bonecrusher), Description (Description)
+{
+투사
+}
+
+STRING 3958
+// Items: IQL0 (Bonecrusher), Name (Name)
+{
+뼈분쇄자
+}
+
+STRING 3959
+// Items: IQL0 (Bonecrusher), Ubertip (Tooltip - Extended)
+{
+돌리
+}

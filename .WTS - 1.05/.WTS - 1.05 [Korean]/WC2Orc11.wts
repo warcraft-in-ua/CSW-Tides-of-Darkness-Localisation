@@ -1,0 +1,2949 @@
+﻿STRING 1
+{
+WC2Orc11
+}
+
+STRING 2
+{
+LoreCraftDesigns
+}
+
+STRING 239
+{
+물의 마법석
+}
+
+STRING 240
+{
+불의 마법석
+}
+
+STRING 241
+{
+대지의 마법석
+}
+
+STRING 242
+{
+바람의 마법석
+}
+
+STRING 244
+{
+숲의 마법석
+}
+
+STRING 245
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 255
+{
+어둠의 의회
+}
+
+STRING 256
+{
+아마니 트롤
+}
+
+STRING 258
+{
+숲의 마법석:
+}
+
+STRING 261
+{
+대지의 마법석:
+}
+
+STRING 262
+{
+바람의 마법석:
+}
+
+STRING 263
+{
+물의 마법석:
+}
+
+STRING 264
+{
+불의 마법석:
+}
+
+STRING 265
+{
+마법석 확보
+}
+
+STRING 266
+{
+굴단은 자신을 무한한 힘으로 이끌 계획을 세웠습니다. 이 계획을 실행에 옮기려면 먼저 쿠엘탈라스의 엘프 마법석의 힘을 흡수해야 합니다.
+}
+
+STRING 269
+{
+엘프의 저항
+}
+
+STRING 270
+{
+쿠엘탈라스의 엘프들은 자신들의 제단이 더럽혀지는 것을 가만히 보고만 있지 않을 것입니다. 계획에 큰 위협이 되기 전에 그들의 요새를 파괴해야 합니다.
+}
+
+STRING 271
+{
+대지의 마법석을 확보해야 합니다.
+}
+
+STRING 272
+{
+물의 마법석을 확보해야 합니다.
+}
+
+STRING 273
+// Destructibles: B617 (Fire), Name (Name)
+{
+불의 마법석을 확보해야 합니다.
+}
+
+STRING 274
+{
+바람의 마법석을 확보해야 합니다.
+}
+
+STRING 278
+{
+엘프 군대를 제거해야 합니다.
+}
+
+STRING 279
+{
+|cffffcc00주 퀘스트|r
+마법석 확보
+  - 대지의 마법석을 확보해야 합니다.
+  - 불의 마법석을 확보해야 합니다.
+  - 숲의 마법석을 확보해야 합니다.
+  - 물의 마법석을 확보해야 합니다.
+  - 바람의 마법석을 확보해야 합니다.
+}
+
+STRING 282
+{
+|cffffcc00선택 퀘스트|r
+트롤 주둔지
+  - 줄진을 도와야 합니다.
+  - 트롤 주둔지가 파괴되선 안 됩니다.
+}
+
+STRING 283
+{
+|cffffcc00주 퀘스트 완료|r
+마법석 확보
+}
+
+STRING 284
+{
+|c00FEBA0E선택 퀘스트 실패|r
+트롤 주둔지
+}
+
+STRING 285
+{
+|cffffcc00주 퀘스트 완료|r
+엘프의 저항
+}
+
+STRING 286
+{
+|cffffcc00선택 퀘스트 완료|r
+트롤 주둔지
+}
+
+STRING 292
+{
+|c0020C000숲의 주인|r
+굴단이 흡수한 숲의 마법석의 힘으로 적을 공격하는 야수를 소환할 수 있습니다.
+}
+
+STRING 293
+{
+|cff00ff00산성비|r
+굴단이 흡수한 물의 마법석의 힘으로 산성비를 불러내 적을 중독시킬 수 있습니다.
+}
+
+STRING 294
+{
+|c00FF8040불의 힘|r
+굴단이 흡수한 불의 마법석의 힘으로 적에게 화염 공격을 가할 수 있습니다.
+}
+
+STRING 296
+{
+|c007EBFF1회오리 바람|r
+굴단이 흡수한 바람의 마법석의 힘으로 적을 쓸어버릴 회오리바람을 소환할 수 있습니다.
+}
+
+STRING 341
+{
+굴단
+}
+
+STRING 342
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Guldan2.flac
+{
+쿠엘탈라스 국경에 다섯 개의 돌이 있는 것을 감지했는데, 이 돌들은 카엘 다로우에서 봤던 돌처럼 각각 특별한 힘이 깃들어 있는 것 같다. 우리가 그 힘을 찾아서 흡수하는 순간 엘프들은 우리 앞에 무너질 거다...
+}
+
+STRING 374
+{
+쿠엘탈라스 몰락으로 망자가 부활하다
+}
+
+STRING 379
+{
+호드
+}
+
+STRING 380
+{
+얼라이언스
+}
+
+STRING 381
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+다재다능한 도끼 투척 유닛으로, 공중 유닛에게 특히 효과적입니다. 광폭화 능력을 사용해 공격력을 증가시킬 수 있으나, 받는 피해도 그만큼 증가합니다. 트롤의 재생력, 광전사의 시야, 가벼운 도끼를 배울 수 있습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 386
+// Units: negf (Tower of Fire), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 387
+// Units: negm (Tower of Air), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 391
+// Units: H006 (Elven Mage), Name (Name)
+{
+엘프 마법사
+}
+
+STRING 392
+// Units: nchp (Magistrate), Name (Name)
+{
+행정관
+}
+
+STRING 430
+// Units: ocat (Ballista), Name (Name)
+{
+쇠뇌
+}
+
+STRING 522
+// Units: n60C (Scout Post), Name (Name)
+{
+감시 초소
+}
+
+STRING 523
+// Units: n60C (Scout Post), Tip (Tooltip - Basic)
+{
+감시 초소
+}
+
+STRING 524
+// Units: n60C (Scout Post), Description (Description)
+{
+오크 감시 초소
+}
+
+STRING 551
+// Units: H006 (Elven Mage), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 676
+// Units: nefm (High Elven Manor), Ubertip (Tooltip - Extended)
+{
+식량을 제공하여 최대 훈련 가능 유닛을 증가시킵니다.
+}
+
+STRING 737
+// Units: n60R (Runestone), Name (Name)
+{
+마법석
+}
+
+STRING 738
+// Units: n60R (Runestone), EditorSuffix (Name - Editor Suffix)
+{
+(SW)
+}
+
+STRING 739
+// Units: n60R (Runestone), Tip (Tooltip - Basic)
+{
+마법석 (|cffffcc00R|r),
+}
+
+STRING 740
+// Units: n60R (Runestone), Ubertip (Tooltip - Extended)
+{
+신비로운 엘프 유물
+}
+
+STRING 769
+// Units: u60C (Forest Spirit), Name (Name)
+{
+숲의 정령
+}
+
+STRING 782
+// Units: n60V (Duck), Name (Name)
+{
+오리
+}
+
+STRING 783
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+청둥오리입니다.
+}
+
+STRING 784
+// Units: h61K (Judicator), Name (Name)
+{
+심판자
+}
+
+STRING 785
+// Units: h61K (Judicator), Tip (Tooltip - Basic)
+{
+심판자 훈련
+}
+
+STRING 788
+// Units: h61M (Forge), EditorSuffix (Name - Editor Suffix)
+{
+(하이 엘프)
+}
+
+STRING 793
+// Units: o61I (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(트롤)
+}
+
+STRING 794
+// Units: o61J (Spirit Lodge), EditorSuffix (Name - Editor Suffix)
+{
+(트롤)
+}
+
+STRING 796
+// Units: o61L (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(트롤)
+}
+
+STRING 813
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+가시 방벽
+}
+
+STRING 823
+// Units: h620 (Tent), Name (Name)
+{
+천막
+}
+
+STRING 824
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+천막
+}
+
+STRING 825
+// Units: h621 (Tent), Name (Name)
+{
+천막
+}
+
+STRING 826
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+천막
+}
+
+STRING 827
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(업그레이드)
+}
+
+STRING 840
+// Units: n628 (Magic generator), Name (Name)
+{
+마법 생성기
+}
+
+STRING 874
+// Units: n60F (Runestone), Name (Name)
+{
+마법석
+}
+
+STRING 875
+// Units: n60F (Runestone), EditorSuffix (Name - Editor Suffix)
+{
+(SE)
+}
+
+STRING 876
+// Units: n60F (Runestone), Tip (Tooltip - Basic)
+{
+마법석 (|cffffcc00R|r),
+}
+
+STRING 877
+// Units: n60F (Runestone), Ubertip (Tooltip - Extended)
+{
+신비로운 엘프 유물
+}
+
+STRING 898
+// Units: n60Y (Raven), Name (Name)
+{
+까마귀
+}
+
+STRING 907
+// Units: n60Z (Spiders), Name (Name)
+{
+거미
+}
+
+STRING 908
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+거미
+}
+
+STRING 1079
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+석유가 담긴 통
+}
+
+STRING 1100
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+부두
+}
+
+STRING 1101
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+버섯
+}
+
+STRING 1102
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+석유가 담긴 통
+}
+
+STRING 1103
+// Destructibles: OTsp (Portal), Name (Name)
+{
+차원문
+}
+
+STRING 1110
+// Destructibles: B60G (Giant Tree), Name (Name)
+{
+거대한 나무
+}
+
+STRING 1119
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(경로 없음)
+}
+
+STRING 1120
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+화염 돌풍
+}
+
+STRING 1138
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+오래된 무덤
+}
+
+STRING 1140
+// Destructibles: B62T (Egg), Name (Name)
+{
+알
+}
+
+STRING 1145
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+절벽
+}
+
+STRING 1146
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(경사로)
+}
+
+STRING 1149
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+절벽
+}
+
+STRING 1152
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(장식품)
+}
+
+STRING 1162
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+나무화분
+}
+
+STRING 1168
+// Destructibles: B60U (Chest), Name (Name)
+{
+상자
+}
+
+STRING 1169
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+목재 보관함
+}
+
+STRING 1172
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+얼라이언스 깃발
+}
+
+STRING 1173
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+지지대
+}
+
+STRING 1174
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+오크 시네마틱
+}
+
+STRING 1178
+// Destructibles: B60V (Bushes), Name (Name)
+{
+덤불
+}
+
+STRING 1183
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+오크 무덤 돌
+}
+
+STRING 1184
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+돌무더기
+}
+
+STRING 1185
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+거미줄
+}
+
+STRING 1215
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+절벽 기본 A
+}
+
+STRING 1216
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+절벽 기본 B
+}
+
+STRING 1217
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+절벽 기본 C
+}
+
+STRING 1218
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+절벽 기본 D
+}
+
+STRING 1231
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+여름 절벽
+}
+
+STRING 1232
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+여름 절벽 소형
+}
+
+STRING 1233
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+저습지 절벽
+}
+
+STRING 1234
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+저습지 절벽
+}
+
+STRING 1235
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(소형)
+}
+
+STRING 1254
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+힘의 원형 WC2
+}
+
+STRING 1259
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+폭풍약탈자 깃발
+}
+
+STRING 1260
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+황혼의 망치 깃발
+}
+
+STRING 1263
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+긴 풀
+}
+
+STRING 1270
+// Doodads: D000 (QuelThalas Bush), Name (Name)
+{
+쿠엘탈라스 덤불
+}
+
+STRING 1271
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+움직이는 덤불
+}
+
+STRING 1296
+// Doodads: D6AC (Glow), Name (Name)
+{
+발광
+}
+
+STRING 1297
+// Doodads: D6AD (Fog), Name (Name)
+{
+안개
+}
+
+STRING 1328
+// Destructibles: B006 (Fountain), Name (Name)
+{
+샘
+}
+
+STRING 1333
+// Doodads: D6CQ (Roots), Name (Name)
+{
+뿌리
+}
+
+STRING 1334
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+가마솥 경로 없음
+}
+
+STRING 1335
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+화로 경로 없음
+}
+
+STRING 1340
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+핏 자국 01
+}
+
+STRING 1341
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+핏 자국 02
+}
+
+STRING 1342
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+핏 자국 03
+}
+
+STRING 1343
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+핏 자국 04
+}
+
+STRING 1344
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+핏 자국 05
+}
+
+STRING 1345
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+핏 자국 06
+}
+
+STRING 1411
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+로데론 바위 첨탑
+}
+
+STRING 1420
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+방어구 선반 오크
+}
+
+STRING 1421
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+무기 선반 오크
+}
+
+STRING 1456
+// Units: ntor (Whirlwind), Name (Name)
+{
+회오리바람
+}
+
+STRING 2601
+{
+유닛을 계속 훈련하려면 농장을 추가로 건설해야 합니다.,유닛을 계속 생산하려면 돼지 농장을 추가로 건설해야 합니다.,유닛 생산을 계속하려면 지구라트를 더 소환해야 합니다.,유닛 훈련을 계속하려면 달샘을 추가로 건설해야 합니다.
+}
+
+STRING 2602
+{
+사용할 수 없는 석유 굴착대입니다.
+}
+
+STRING 2603
+{
+해당 유전은 이미 사용 중입니다.
+}
+
+STRING 2604
+{
+석유 굴착대를 먼저 건설해야 합니다.
+}
+
+STRING 2605
+{
+유전을 대상으로 지정해야 합니다.
+}
+
+STRING 2606
+{
+유전 위에만 건설할 수 있습니다.
+}
+
+STRING 2607
+{
+전당에서 영웅을 부활시킬 수 있습니다.
+}
+
+STRING 2609
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2610
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2611
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2612
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2613
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2614
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2615
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2616
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2617
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2618
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2619
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2620
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2621
+// Units: emow (Mana Stone), Name (Name)
+{
+마나석
+}
+
+STRING 2622
+// Units: emow (Mana Stone), Tip (Tooltip - Basic)
+{
+마나석 건설
+}
+
+STRING 2666
+// Units: nbel (High Elf Lieutenant), Name (Name)
+{
+하이 엘프 부관
+}
+
+STRING 2667
+// Units: nbel (High Elf Lieutenant), Tip (Tooltip - Basic)
+{
+하이 엘프 부관 훈련
+}
+
+STRING 2668
+// Units: H004 (High Elven Commander), Name (Name)
+{
+하이 엘프 사령관
+}
+
+STRING 2670
+// Units: e001 (Treant), EditorSuffix (Name - Editor Suffix)
+{
+(쿠엘탈라스)
+}
+
+STRING 2671
+// Doodads: D001 (Quelthalas Large Tree Crown), Name (Name)
+{
+쿠엘탈라스 대형 나무 왕관
+}
+
+STRING 2672
+// Destructibles: B000 (Quelthalas Canopy Tree), Name (Name)
+{
+쿠엘탈라스 캐노피 나무
+}
+
+STRING 2675
+// Units: n004 (Botanist), Name (Name)
+{
+식물학자
+}
+
+STRING 2682
+{
+시네마틱 줄진
+}
+
+STRING 2683
+{
+시네마틱 초갈
+}
+
+STRING 2684
+{
+원정순찰대
+}
+
+STRING 2687
+{
+시네마틱 굴단
+}
+
+STRING 2688
+{
+시네마틱 더미
+}
+
+STRING 2689
+// Doodads: ZRrk (Rocks Yellow), Name (Name)
+{
+바위 노란색
+}
+
+STRING 2690
+// Doodads: ZPru (Cattail Yellow), Name (Name)
+{
+부들개지 노란색
+}
+
+STRING 2691
+{
+쿠엘탈라스
+}
+
+STRING 2692
+// Units: nefm (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2693
+// Units: nef0 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2694
+// Units: nef1 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2695
+// Units: nef2 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2696
+// Units: nef3 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2697
+// Units: nef4 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2698
+// Units: nef5 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2699
+// Units: nef6 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2700
+// Units: nef7 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2701
+// Destructibles: B001 (Fence), Name (Name)
+{
+울타리
+}
+
+STRING 2702
+// Destructibles: B002 (Fence), Name (Name)
+{
+울타리
+}
+
+STRING 2703
+// Destructibles: B003 (Fence short), Name (Name)
+{
+짧은 울타리
+}
+
+STRING 2704
+// Destructibles: B004 (Fence short), Name (Name)
+{
+짧은 울타리
+}
+
+STRING 2705
+// Destructibles: B005 (Wooden Bench), Name (Name)
+{
+나무 벤치
+}
+
+STRING 2706
+// Units: h61N (Elven Hatchery), Name (Name)
+{
+엘프 부화장
+}
+
+STRING 2707
+// Units: h61N (Elven Hatchery), Tip (Tooltip - Basic)
+{
+엘프 부화장 건설
+}
+
+STRING 2708
+// Units: h61N (Elven Hatchery), Ubertip (Tooltip - Extended)
+{
+용매 기수를 훈련합니다. 
+구름 업그레이드를 할 수 있습니다.
+}
+
+STRING 2709
+// Units: hatw (Arcane Tower), Tip (Tooltip - Basic)
+{
+비전탑 건설
+}
+
+STRING 2710
+// Units: halt (Altar of Heroes), Name (Name)
+{
+영웅의 제단
+}
+
+STRING 2711
+// Units: halt (Altar of Heroes), Tip (Tooltip - Basic)
+{
+영웅의 제단 건설
+}
+
+STRING 2712
+// Units: hars (Arcane Sanctum), Ubertip (Tooltip - Extended)
+{
+사제, 여마술사를 훈련합니다.
+사제와 여마술사의 주문을 업그레이드하고, 마법 제어와 마법 감시를 연구할 수 있습니다.
+}
+
+STRING 2715
+// Units: nefm (High Elven Manor), Tip (Tooltip - Basic)
+{
+엘프 저택 건설
+}
+
+STRING 2717
+// Units: h005 (Botanist Garden), Name (Name)
+{
+식물학자의 정원
+}
+
+STRING 2718
+// Units: h005 (Botanist Garden), Tip (Tooltip - Basic)
+{
+식물학자의 정원 건설
+}
+
+STRING 2719
+// Doodads: D6BU (Fountain), Name (Name)
+{
+샘
+}
+
+STRING 2720
+// Units: o61K (Voodoo Temple), Name (Name)
+{
+부두 사원
+}
+
+STRING 2721
+// Units: n60W (Troll Hut), Name (Name)
+{
+트롤 오두막
+}
+
+STRING 2722
+// Units: n60X (Troll Hut), Name (Name)
+{
+트롤 오두막
+}
+
+STRING 2723
+// Units: negf (Tower of Fire), Name (Name)
+{
+불의 탑
+}
+
+STRING 2724
+// Units: negm (Tower of Air), Name (Name)
+{
+바람의 탑
+}
+
+STRING 2725
+// Units: nbt2 (Tower of Earth), Name (Name)
+{
+대지의 탑
+}
+
+STRING 2726
+// Units: ndt2 (Tower of Water), Name (Name)
+{
+물의 탑
+}
+
+STRING 2727
+// Units: n007 (Wild Unicorn), Name (Name)
+{
+야생 유니콘
+}
+
+STRING 2728
+// Units: n007 (Wild Unicorn), Tip (Tooltip - Basic)
+{
+야생 유니콘 소환
+}
+
+STRING 2729
+{
+트롤 주둔지
+}
+
+STRING 2730
+{
+줄진과 숲트롤들이 증오의 대상인 쿠엘탈라스의 하이 엘프를 공격하고 있습니다. 이 지역에는 아직 아마니 수가 제한되어 있으므로 줄진이 유리하게 전세를 뒤집으려면 호드의 개입이 필요할 수 있습니다.
+}
+
+STRING 2731
+{
+줄진을 도와야 합니다.
+}
+
+STRING 2732
+{
+트롤 주둔지가 파괴되선 안 됩니다.
+}
+
+STRING 2735
+{
+태고의 종말
+}
+
+STRING 2736
+{
+쿠엘탈라스의 야생 유니콘은 하이 엘프에게 신성한 존재입니다. 이 마법의 생명체는 강력한 마나를 지니고 있습니다. 유니콘을 사냥하여 힘을 얻고 엘프들의 사기를 떨어뜨리십시오.
+}
+
+STRING 2737
+{
+유니콘 10마리를 처치해야 합니다.
+}
+
+STRING 2738
+{
+|cffffcc00선택 퀘스트|r
+태고의 종말
+  - 유니콘 10마리를 처치해야 합니다.
+}
+
+STRING 2739
+{
+|cffffcc00선택 퀘스트 완료|r
+태고의 종말
+}
+
+STRING 2744
+{
+줄진
+}
+
+STRING 2745
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin3.flac
+{
+그렇게 되면... 쿠엘탈라스는 무너질 것이고 내 동족의 원령들이 마침내 복수를 이룰 것이다!
+}
+
+STRING 2753
+// Units: n008 (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(변형 A)
+}
+
+STRING 2754
+// Units: n009 (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(변형 B)
+}
+
+STRING 2755
+// Units: n00A (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(변형 C)
+}
+
+STRING 2756
+// Units: n00B (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(변형 D)
+}
+
+STRING 2757
+// Units: n00C (Power Generator), EditorSuffix (Name - Editor Suffix)
+{
+(변형 E)
+}
+
+STRING 2778
+{
+부정
+}
+
+STRING 2779
+{
+트롤
+}
+
+STRING 2783
+{
+우톡
+}
+
+STRING 2810
+// Units: nwlg (Lynx), Name (Name)
+{
+스라소니
+}
+
+STRING 2811
+// Units: nwlg (Lynx), Tip (Tooltip - Basic)
+{
+스라소니 소환
+}
+
+STRING 2842
+{
+몇 시간 뒤...
+}
+
+STRING 2848
+// Items: I0Lq (WC2Orc11Zuljin1), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 2849
+// Items: I0Lv (WC2Orc11Zuljin6), Description (Description)
+{
+도움이 필요하다! 오크들에게 지원군을 요청하라!
+}
+
+STRING 2850
+// Items: I0Lr (WC2Orc11Zuljin2), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 2851
+// Items: I0Lu (WC2Orc11Zuljin5), Description (Description)
+{
+엘프의 공격을 받고 있는데 오크 동맹은 어디 있지?!
+}
+
+STRING 2852
+{
+|cffffcc00주 퀘스트|r
+엘프의 저항
+  - 엘프 군대를 제거해야 합니다.
+}
+
+STRING 2873
+{
+유니콘 10마리를 처치해야 합니다.
+}
+
+STRING 2874
+{
+처치한 유니콘:
+}
+
+STRING 2875
+// Units: H007 (Runestone Power), Name (Name)
+{
+마법석의 힘
+}
+
+STRING 2876
+// Units: H007 (Runestone Power), Propernames (Proper Names)
+{
+마법석의 힘
+}
+
+STRING 2933
+// Destructibles: B007 (Puddle), Name (Name)
+{
+물웅덩이
+}
+
+STRING 2934
+// Doodads: D002 (Fearies), Name (Name)
+{
+요정
+}
+
+STRING 2949
+{
+불의 마법석을 확보해야 합니다.
+}
+
+STRING 2950
+{
+숲의 마법석을 확보해야 합니다.
+}
+
+STRING 2954
+{
+|cffffcc00선택 퀘스트 실패|r
+태고의 종말
+}
+
+STRING 2958
+{
+|cff32cd32힌트|r
+엘프 부대는 차원문을 사용해 지역을 이동합니다.
+}
+
+STRING 2961
+{
+|cffffcc00선택 퀘스트 완료|r
+트롤 주둔지
+}
+
+STRING 2962
+{
+|cffffcc00주 퀘스트 업데이트|r
+마법석 확보
+  - |c00C0C0C0숲의 마법석을 확보해야 합니다. (완료)|r
+}
+
+STRING 2963
+{
+|cffffcc00주 퀘스트 업데이트|r
+마법석 확보
+  - |c00C0C0C0대지의 마법석을 확보해야 합니다. (완료)|r
+}
+
+STRING 2964
+{
+|cffffcc00주 퀘스트 업데이트|r
+마법석 확보
+  - |c00C0C0C0불의 마법석을 확보해야 합니다. (완료)|r
+}
+
+STRING 2965
+{
+|cffffcc00주 퀘스트 업데이트|r
+마법석 확보
+  - |c00C0C0C0물의 마법석을 확보해야 합니다. (완료)|r
+}
+
+STRING 2966
+{
+|cffffcc00주 퀘스트 업데이트|r
+마법석 확보
+  - |c00C0C0C0바람의 마법석을 확보해야 합니다. (완료)|r
+}
+
+STRING 3078
+// Units: H006 (Elven Mage), Propernames (Proper Names)
+{
+리리사 윈드러너
+}
+
+STRING 3079
+// Units: H008 (Ranger General), Propernames (Proper Names)
+{
+리리사 윈드러너
+}
+
+STRING 3080
+// Units: ocat (Ballista), Tip (Tooltip - Basic)
+{
+쇠뇌 훈련
+}
+
+STRING 3175
+// Items: I000 (Scroll of Runestone Protection), Name (Name)
+{
+마법석의 보호 두루마리
+}
+
+STRING 3186
+// Units: H004 (High Elven Commander), Propernames (Proper Names)
+{
+용기의 알토리엔
+}
+
+STRING 3187
+// Units: H004 (High Elven Commander), Awakentip (Tooltip - Awaken)
+{
+기사 부활
+}
+
+STRING 3188
+// Units: H004 (High Elven Commander), Revivetip (Tooltip - Revive)
+{
+기사 부활
+}
+
+STRING 3189
+// Units: H008 (Ranger General), Name (Name)
+{
+순찰대 사령관
+}
+
+STRING 3191
+// Units: o002 (Troll worker), Name (Name)
+{
+트롤 일꾼
+}
+
+STRING 3241
+{
+시네마틱 줄루헤드
+}
+
+STRING 3258
+{
+검은이빨 부족
+}
+
+STRING 3259
+// Doodads: D003 (DivineShield), Name (Name)
+{
+천상의 보호막
+}
+
+STRING 3260
+// Destructibles: B008 (Silvermoon Tree), EditorSuffix (Editor Suffix)
+{
+(경로 없음)
+}
+
+STRING 3294
+// Units: Nfir (Fire Elemental), Name (Name)
+{
+불의 정령
+}
+
+STRING 3295
+{
+|c00808080돌 가죽|r
+굴단이 흡수한 대지의 마법석의 힘으로 부대를 마법 갑옷으로 보호할 수 있습니다.
+}
+
+STRING 3296
+{
+|cffffcc00주 퀘스트 실패|r
+기지가 파괴되었습니다.
+}
+
+STRING 3297
+{
+|cffffcc00임무 실패|r
+}
+
+STRING 3298
+{
+아마니 트롤
+}
+
+STRING 3305
+{
+몇 시간 뒤, 폭풍약탈자 부족 주둔지 근처에서...
+}
+
+STRING 3306
+{
+호드의 용들이 쿠엘탈라스의 고대 숲을 잿더미로 만들어 쿠엘탈라스 백성들에게 공포과 혼돈을 불러일으켰습니다.
+}
+
+STRING 3307
+{
+한편, 호드 군대는 실버문에 도달했고 공성을 시작했습니다.
+}
+
+STRING 3308
+{
+실버문 공성전은 거의 한 달 동안 지속되어 오그림 둠해머의 인내심은 한계에 다다랐습니다.
+}
+
+STRING 3309
+{
+쿠엘탈라스에서 얼라이언스가 호드의 군대를 포위할지도 모른다는 염려에, 대족장은 검은이빨 부족과 용아귀 부족을 이끌고 로데론으로 돌아가기로 결정했습니다.
+}
+
+STRING 3310
+{
+그는 굴단과 줄진에게 엘프들의 마법 장벽이 무너지고 도시가 호드의 끊임없는 공격에 함락될 때까지 공성을 계속하라고 명령했습니다.
+}
+
+STRING 3312
+{
+|cffffcc00비밀 발견|r
+비밀 임무가 해금되었습니다.
+}
+
+STRING 3316
+// Items: I0LA (WC2Orc11Dommhammer1), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3317
+// Items: I0LA (WC2Orc11Dommhammer1), Description (Description)
+{
+잘해주였다, 굴단. 이제 보고해라.
+}
+
+STRING 3318
+// Items: I0LA (WC2Orc11Dommhammer1), Name (Name)
+{
+WC2Orc11Dommhammer1
+}
+
+STRING 3319
+// Items: I0LB (WC2Orc11Dommhammer2), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3320
+// Items: I0LB (WC2Orc11Dommhammer2), Description (Description)
+{
+아주 인상적이군, 굴단. 너와 네 추종자들은 호드에 쓸모가 있음을 증명하였다.
+}
+
+STRING 3321
+// Items: I0LB (WC2Orc11Dommhammer2), Name (Name)
+{
+WC2Orc11Dommhammer2
+}
+
+STRING 3322
+// Items: I0LC (WC2Orc11Dommhammer3), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3323
+// Items: I0LC (WC2Orc11Dommhammer3), Description (Description)
+{
+잠깐... 우톡은 어딨지? 네 곁에 붙어 있으라고 당부했는데.
+}
+
+STRING 3324
+// Items: I0LC (WC2Orc11Dommhammer3), Name (Name)
+{
+WC2Orc11Dommhammer3
+}
+
+STRING 3325
+// Items: I0LD (WC2Orc11Dommhammer4), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3326
+// Items: I0LD (WC2Orc11Dommhammer4), Description (Description)
+{
+흠, 좋아. 줄루헤드... 자네가 내게 약속한 "병기"를 풀어 이 땅을 잿더미로 만들 시간이다!
+}
+
+STRING 3327
+// Items: I0LD (WC2Orc11Dommhammer4), Name (Name)
+{
+WC2Orc11Dommhammer4
+}
+
+STRING 3328
+// Items: I0LE (WC2Orc11Dommhammer5), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3329
+// Items: I0LE (WC2Orc11Dommhammer5), Description (Description)
+{
+나의 전사들이여! 실버문으로 진격하라!
+}
+
+STRING 3330
+// Items: I0LE (WC2Orc11Dommhammer5), Name (Name)
+{
+WC2Orc11Dommhammer5
+}
+
+STRING 3331
+// Items: I0LF (WC2Orc11Guldan1), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3332
+// Items: I0LF (WC2Orc11Guldan1), Description (Description)
+{
+좋아. 트롤 지도자가 곧 도착할 거고, 그가 도착하면 이 작은 원정의 다음 단계를 시작할 수 있다.
+}
+
+STRING 3333
+// Items: I0LF (WC2Orc11Guldan1), Name (Name)
+{
+WC2Orc11Guldan1
+}
+
+STRING 3334
+// Items: I0LG (WC2Orc11Guldan2), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3335
+// Items: I0LG (WC2Orc11Guldan2), Description (Description)
+{
+쿠엘탈라스 국경에 다섯 개의 돌이 있는 것을 감지했는데, 이 돌들은 카엘 다로우에서 봤던 돌처럼 각각 특별한 힘이 깃들어 있는 것 같다. 우리가 그 힘을 찾아서 흡수하는 순간 엘프들은 우리 앞에 무너질 거다...
+}
+
+STRING 3336
+// Items: I0LG (WC2Orc11Guldan2), Name (Name)
+{
+WC2Orc11Guldan2
+}
+
+STRING 3337
+// Items: I0LH (WC2Orc11Guldan3), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3338
+// Items: I0LH (WC2Orc11Guldan3), Description (Description)
+{
+완벽하다… 이 피조물들은 이번 전투에서 진가를 발휘할 거다. 죽음이 엘프들 앞에 나타날 때, 놈들이 공포에 벌벌 떠는 모습이 기대되는구나!
+}
+
+STRING 3339
+// Items: I0LH (WC2Orc11Guldan3), Name (Name)
+{
+WC2Orc11Guldan3
+}
+
+STRING 3340
+// Items: I0LI (WC2Orc11Guldan4), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3341
+// Items: I0LI (WC2Orc11Guldan4), Description (Description)
+{
+아… 어리석고 충성스러운 주술사여. 참 신기하군, 너를 조용히 처리할 방법을 찾고 있었는데, 네가 스스로 문제를 해결해 주었구나. 고마워해야겠군…
+}
+
+STRING 3342
+// Items: I0LI (WC2Orc11Guldan4), Name (Name)
+{
+WC2Orc11Guldan4
+}
+
+STRING 3343
+// Items: I0LJ (WC2Orc11Guldan6), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3344
+// Items: I0LJ (WC2Orc11Guldan6), Description (Description)
+{
+대지의 마법석의 힘은 내 것이다! 뼛속까지 대지의 힘이 느껴진다!
+}
+
+STRING 3345
+// Items: I0LJ (WC2Orc11Guldan6), Name (Name)
+{
+WC2Orc11Guldan6
+}
+
+STRING 3346
+// Items: I0LK (WC2Orc11Guldan5), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3347
+// Items: I0LK (WC2Orc11Guldan5), Description (Description)
+{
+하하하... 대족장은 아무것도 하지 않을 거다, 어리석은 것. 여기서 무슨 일이 일어났는지 절대 모를 테니까. 넌 이 구덩이에서 혼자 울며 죽게 될 것이다… 내가 정당한 운명을 쟁취하는 동안 말이지!
+}
+
+STRING 3348
+// Items: I0LK (WC2Orc11Guldan5), Name (Name)
+{
+WC2Orc11Guldan5
+}
+
+STRING 3349
+// Items: I0LL (WC2Orc11Guldan7), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3350
+// Items: I0LL (WC2Orc11Guldan7), Description (Description)
+{
+숲의 마법석의 힘은 내 것이다! 야생은 황폐해지고, 짐승들은 광기에 사로잡히리라!
+}
+
+STRING 3351
+// Items: I0LL (WC2Orc11Guldan7), Name (Name)
+{
+WC2Orc11Guldan7
+}
+
+STRING 3352
+// Items: I0LM (WC2Orc11Guldan8), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3353
+// Items: I0LM (WC2Orc11Guldan8), Description (Description)
+{
+그래... 바람의 마법석의 힘이군! 이 땅의 잔잔한 바람은 벽을 부수는 회오리바람으로 변할 것이다!
+}
+
+STRING 3354
+// Items: I0LM (WC2Orc11Guldan8), Name (Name)
+{
+WC2Orc11Guldan8
+}
+
+STRING 3355
+// Items: I0LN (WC2Orc11Guldan9), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3356
+// Items: I0LN (WC2Orc11Guldan9), Description (Description)
+{
+물의 마법석은 내 것이다! 한때 이 땅에 생명을 주었던 물은 이제 죽음만을 가져올 것이다!
+}
+
+STRING 3357
+// Items: I0LN (WC2Orc11Guldan9), Name (Name)
+{
+WC2Orc11Guldan9
+}
+
+STRING 3358
+// Items: I0LO (WC2Orc11Guldan10), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3359
+// Items: I0LO (WC2Orc11Guldan10), Description (Description)
+{
+불의 마법석은 내 것이다! 이 힘으로 이 땅을 잿더미로 만들겠다!
+}
+
+STRING 3360
+// Items: I0LO (WC2Orc11Guldan10), Name (Name)
+{
+WC2Orc11Guldan10
+}
+
+STRING 3361
+// Items: I0LP (WC2Orc11Guldan11), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3362
+// Items: I0LP (WC2Orc11Guldan11), Description (Description)
+{
+네 위협은 아무 소용 없다, 나약한 엘프여! 폭풍약탈자여! 놈들을 쓸어버려라!
+}
+
+STRING 3363
+// Items: I0LP (WC2Orc11Guldan11), Name (Name)
+{
+WC2Orc11Guldan11
+}
+
+STRING 3364
+// Items: I0LQ (WC2Orc11Guldan12), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3365
+// Items: I0LQ (WC2Orc11Guldan12), Description (Description)
+{
+그럴 필요 없다, 내 제자여. 우리는 원하던 것을 얻었다. 병력을 모아 해안으로 향하라. 폭풍약탈자 함대는 긴 여정을 앞두고 있다.
+}
+
+STRING 3366
+// Items: I0LQ (WC2Orc11Guldan12), Name (Name)
+{
+WC2Orc11Guldan12
+}
+
+STRING 3367
+// Items: I0LR (WC2Orc11Guldan13), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3368
+// Items: I0LR (WC2Orc11Guldan13), Description (Description)
+{
+난 둠해머가 아니다, 멍청한 트롤이여... 그리고 놈은 아무것도 아니야! 난 이 왕국을 너희 하찮은 야만인들에게 돌려주러 온 게 아니다! 나는 힘을 차지하러 왔지... 그리고 그 힘으로... 이 비참한 세상을 무릎 꿇게 할 것이다.
+}
+
+STRING 3369
+// Items: I0LR (WC2Orc11Guldan13), Name (Name)
+{
+WC2Orc11Guldan13
+}
+
+STRING 3370
+// Items: I0LS (WC2Orc11Guldan14), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3371
+// Items: I0LS (WC2Orc11Guldan14), Description (Description)
+{
+넌 그저 더 원대한 계획 속의 소모품일 뿐이다… 모든 일이 끝나면, 네놈뿐만 아니라 모든 존재가 내 앞에 무릎을 꿇게 될 것이다.
+}
+
+STRING 3372
+// Items: I0LS (WC2Orc11Guldan14), Name (Name)
+{
+WC2Orc11Guldan14
+}
+
+STRING 3373
+// Items: I0LT (WC2Orc11Guldan15), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3374
+// Items: I0LT (WC2Orc11Guldan15), Description (Description)
+{
+함께 가자, 나의 제자여. 우리를 기다리고 있는 것을 두 눈으로 직접 확인하자꾸나.
+}
+
+STRING 3375
+// Items: I0LT (WC2Orc11Guldan15), Name (Name)
+{
+WC2Orc11Guldan15
+}
+
+STRING 3376
+// Items: I0LU (WC2Orc11Guldan16), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3377
+// Items: I0LU (WC2Orc11Guldan16), Description (Description)
+{
+이 마법의 생명체들은 엄청난 힘을 지니고 있다. 이것들을 더 찾아 정수를 흡수해야겠군.
+}
+
+STRING 3378
+// Items: I0LU (WC2Orc11Guldan16), Name (Name)
+{
+WC2Orc11Guldan16
+}
+
+STRING 3379
+// Items: I0LV (WC2Orc11Guldan17), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3380
+// Items: I0LV (WC2Orc11Guldan17), Description (Description)
+{
+이 학살은 엘프들의 사기를 꺾고 내 힘을 더욱 강화시킬 것이다.
+}
+
+STRING 3381
+// Items: I0LV (WC2Orc11Guldan17), Name (Name)
+{
+WC2Orc11Guldan17
+}
+
+STRING 3382
+// Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3383
+// Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Description (Description)
+{
+오, 인상적이군! 너는...?
+}
+
+STRING 3384
+// Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Name (Name)
+{
+WC2Orc11Guldan_LireesaEncounter1
+}
+
+STRING 3385
+// Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3386
+// Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Description (Description)
+{
+정말 달콤한 허세로군, 어리석은 엘프여. 하지만 우리는 오크다… 우리는 호드다… 우리를 대적한 자는 아무도 살아남지 못했다. 너도 예외는 아니다!
+}
+
+STRING 3387
+// Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Name (Name)
+{
+WC2Orc11Guldan_LireesaEncounter2
+}
+
+STRING 3388
+// Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3389
+// Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Description (Description)
+{
+네 위협은 아무 소용 없다, 나약한 엘프여! 폭풍약탈자여! 놈들을 쓸어버려라!
+}
+
+STRING 3390
+// Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Name (Name)
+{
+WC2Orc11Guldan_LireesaEncounter3
+}
+
+STRING 3391
+// Items: I0LZ (WC2Orc11Guldan_Final1), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3392
+// Items: I0LZ (WC2Orc11Guldan_Final1), Description (Description)
+{
+우린 이미 널 무너뜨렸다, 어리석은 것… 주위를 둘러봐라, 죽음과 고통을 느껴봐라… 이것이 너희 왕국과 너희 하찮은 종족 전체가 맞이할 운명이다!
+}
+
+STRING 3393
+// Items: I0LZ (WC2Orc11Guldan_Final1), Name (Name)
+{
+WC2Orc11Guldan_Final1
+}
+
+STRING 3394
+// Items: I0La (WC2Orc11Guldan_Final2), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3395
+// Items: I0La (WC2Orc11Guldan_Final2), Description (Description)
+{
+네 딸들이 시도해 봤자, 죽을 것이다. 그녀는 이제 네 몫이다, 전쟁군주 줄진. 그녀의 영혼을 선물로 주마…
+}
+
+STRING 3396
+// Items: I0La (WC2Orc11Guldan_Final2), Name (Name)
+{
+WC2Orc11Guldan_Final2
+}
+
+STRING 3397
+// Items: I0Lb (WC2Orc11Guldan_Final3), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3398
+// Items: I0Lb (WC2Orc11Guldan_Final3), Description (Description)
+{
+어서오십시오, 대족장님. 시기적절하게 잘 오셨습니다.
+}
+
+STRING 3399
+// Items: I0Lb (WC2Orc11Guldan_Final3), Name (Name)
+{
+WC2Orc11Guldan_Final3
+}
+
+STRING 3400
+// Items: I0Lc (WC2Orc11Guldan_Final4), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3401
+// Items: I0Lc (WC2Orc11Guldan_Final4), Description (Description)
+{
+우리는 엘프들의 외곽 방어선을 무너뜨리고, 그들의 사령관을 죽였으며, 호드를 위해 엘프 마법석의 힘을 차지했습니다. 쿠엘탈라스는 이제 정복할 준비가 됐고, 엘프들은 우리 앞에선 무력할 것입니다.
+}
+
+STRING 3402
+// Items: I0Lc (WC2Orc11Guldan_Final4), Name (Name)
+{
+WC2Orc11Guldan_Final4
+}
+
+STRING 3403
+// Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3404
+// Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Description (Description)
+{
+그렇긴 하지만… 저는 그에게 엘프 수도로 가는 최적의 경로를 찾으라고 정찰을 보냈습니다. 곧 돌아와 보고할 것입니다.
+}
+
+STRING 3405
+// Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Name (Name)
+{
+WC2Orc11Guldan_Final_UtokComment
+}
+
+STRING 3406
+// Items: I0Le (O05WarsongOrc0201), Tip (Tooltip - Basic)
+{
+그런트
+}
+
+STRING 3407
+// Items: I0Le (O05WarsongOrc0201), Description (Description)
+{
+숲이 살아 움직입니다! 공격받고 있습니다!
+}
+
+STRING 3408
+// Items: I0Le (O05WarsongOrc0201), Name (Name)
+{
+O05WarsongOrc0201
+}
+
+STRING 3409
+// Items: I0Lf (O04WarsongOrc1001), Tip (Tooltip - Basic)
+{
+그런트
+}
+
+STRING 3411
+// Items: I0Lf (O04WarsongOrc1001), Name (Name)
+{
+O04WarsongOrc1001
+}
+
+STRING 3412
+// Items: I0Lg (WC2Orc11Utok1), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3413
+// Items: I0Lg (WC2Orc11Utok1), Description (Description)
+{
+으아악! 팔이 부러진 것 같아... 도와줘! 누구 없나?!
+}
+
+STRING 3414
+// Items: I0Lg (WC2Orc11Utok1), Name (Name)
+{
+WC2Orc11Utok1
+}
+
+STRING 3415
+// Items: I0Lh (WC2Orc11Utok2), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3416
+// Items: I0Lh (WC2Orc11Utok2), Description (Description)
+{
+뭐라고? 감히! 대족장님의 이름으로 명한다! 날 여기서 꺼내라! 대족장님이...
+}
+
+STRING 3417
+// Items: I0Lh (WC2Orc11Utok2), Name (Name)
+{
+WC2Orc11Utok2
+}
+
+STRING 3418
+// Items: I0Li (WC2Orc11Utok3), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3419
+// Items: I0Li (WC2Orc11Utok3), Description (Description)
+{
+굴단! 이 망할놈! 넌 이 일로 죽게 될 거다... 내 말 명심해라... 넌 죽게 될 거다!
+}
+
+STRING 3420
+// Items: I0Li (WC2Orc11Utok3), Name (Name)
+{
+WC2Orc11Utok3
+}
+
+STRING 3421
+// Items: I0Lj (WC2Orc11Utok4), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3422
+// Items: I0Lj (WC2Orc11Utok4), Description (Description)
+{
+아무도 없나... 도와줘... 제발...
+}
+
+STRING 3423
+// Items: I0Lj (WC2Orc11Utok4), Name (Name)
+{
+WC2Orc11Utok4
+}
+
+STRING 3424
+// Items: I0Lk (WC2Orc11Utok5), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3425
+// Items: I0Lk (WC2Orc11Utok5), Description (Description)
+{
+굴단은 우리 모두를 배신했습니다, 줄진 님... 절 이 구덩이에서 죽게 내버려뒀습니다... 여기서 꺼내주십시오, 줄진 님... 굴단이 이렇게 도망가게 둬선 안 됩니다!
+}
+
+STRING 3426
+// Items: I0Lk (WC2Orc11Utok5), Name (Name)
+{
+WC2Orc11Utok5
+}
+
+STRING 3427
+// Items: I0Ll (WC2Orc11Utok6), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3428
+// Items: I0Ll (WC2Orc11Utok6), Description (Description)
+{
+오늘 큰 화를 당하셨습니다, 줄진 님. 타벡과 나머지 전사들은 당신의 명령을 따를 것입니다… 그들이 도움이 되기를 빌겠습니다. 저는 함께 할 수 없습니다... 대족장님께서 여기서 무슨 일이 있었는지 아셔야 합니다... 저는 당장 떠나야 합니다...
+}
+
+STRING 3429
+// Items: I0Ll (WC2Orc11Utok6), Name (Name)
+{
+WC2Orc11Utok6
+}
+
+STRING 3430
+// Items: I0Lm (WC2Orc11xUtok2), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3431
+// Items: I0Lm (WC2Orc11xUtok2), Description (Description)
+{
+타벡... 지금은 비웃을 때가 아니다. 매우 심각한 상황이다!
+}
+
+STRING 3432
+// Items: I0Lm (WC2Orc11xUtok2), Name (Name)
+{
+WC2Orc11xUtok2
+}
+
+STRING 3433
+// Items: I0Ln (WC2Orc11xTharbek2), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3434
+// Items: I0Ln (WC2Orc11xTharbek2), Description (Description)
+{
+이런, 이런, 이런... 구덩이에 빠져서 빠져나오지 못한 사령관이라니... 난 네가 우수하다고 생각했었는데... 우톡.
+}
+
+STRING 3435
+// Items: I0Ln (WC2Orc11xTharbek2), Name (Name)
+{
+WC2Orc11xTharbek2
+}
+
+STRING 3436
+// Items: I0Lo (WC2Orc11xTharbek3), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 3437
+// Items: I0Lo (WC2Orc11xTharbek3), Description (Description)
+{
+대족장님의 명예를 위해 기꺼이 그 더러운 흑마법사의 목을 베고 싶지만, 무슨 일이 있어도 줄진 님의 곁을 지키라는 명령을 받았으니... 바람이 함께하길 우톡, 다음에 우리의 기개를 증명하자고.
+}
+
+STRING 3438
+// Items: I0Lo (WC2Orc11xTharbek3), Name (Name)
+{
+WC2Orc11xTharbek3
+}
+
+STRING 3439
+// Items: I0Lp (WC2Orc11Zuluhed_Final1), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 3440
+// Items: I0Lp (WC2Orc11Zuluhed_Final1), Description (Description)
+{
+명을 받들겠습니다, 대족장님!
+}
+
+STRING 3441
+// Items: I0Lp (WC2Orc11Zuluhed_Final1), Name (Name)
+{
+WC2Orc11Zuluhed_Final1
+}
+
+STRING 3442
+// Items: I0Ls (WC2Orc11Zuljin3), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3443
+// Items: I0Lq (WC2Orc11Zuljin1), Description (Description)
+{
+반갑다, 흑마법사들이여! 우리의 군대는 엘프들에 대한 양동 공격 준비를 마쳤다. 남쪽의 엘프 군대를 격파하고 놈들의 국경을 약화시키면, 실버문으로 진격하여 이 사악한 왕국을 완전히 파괴할 수 있을 것이다!
+}
+
+STRING 3444
+// Items: I0Lq (WC2Orc11Zuljin1), Name (Name)
+{
+WC2Orc11Zuljin1
+}
+
+STRING 3445
+// Items: I0Lt (WC2Orc11Zuljin4), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3446
+// Items: I0Lr (WC2Orc11Zuljin2), Description (Description)
+{
+엘프의 강력한 힘은 이 땅을 보호하는 마법석으로부터 나온다. 그 돌은 놈들의 사악한 마법으로 우리의 의지와 정신을 소모시키고 엘프들의 불멸의 힘을 강화하고 있다. 그 돌들이 존재하는 한 우리는 이 왕국을 무너뜨릴 수 없다.
+}
+
+STRING 3447
+// Items: I0Lr (WC2Orc11Zuljin2), Name (Name)
+{
+WC2Orc11Zuljin2
+}
+
+STRING 3448
+// Items: I0Lu (WC2Orc11Zuljin5), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3449
+// Items: I0Ls (WC2Orc11Zuljin3), Description (Description)
+{
+그렇게 되면... 쿠엘탈라스는 무너질 것이고 내 동족의 원령들이 마침내 복수를 이룰 것이다!
+}
+
+STRING 3450
+// Items: I0Ls (WC2Orc11Zuljin3), Name (Name)
+{
+WC2Orc11Zuljin3
+}
+
+STRING 3451
+// Items: I0Lv (WC2Orc11Zuljin6), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3452
+// Items: I0Lt (WC2Orc11Zuljin4), Description (Description)
+{
+엘프들이 내 주둔지를 파괴하려한다! 도움이 필요하다! 우리가 없다면 너희도 여기서 죽게 될 거다!
+}
+
+STRING 3453
+// Items: I0Lt (WC2Orc11Zuljin4), Name (Name)
+{
+WC2Orc11Zuljin4
+}
+
+STRING 3454
+// Items: I0Lw (WC2Orc11Zuljin7), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3456
+// Items: I0Lu (WC2Orc11Zuljin5), Name (Name)
+{
+WC2Orc11Zuljin5
+}
+
+STRING 3457
+// Items: I0Lx (WC2Orc11Zuljin8), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3459
+// Items: I0Lv (WC2Orc11Zuljin6), Name (Name)
+{
+WC2Orc11Zuljin6
+}
+
+STRING 3460
+// Items: I0Ly (WC2Orc11Zuljin9), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3461
+// Items: I0Lw (WC2Orc11Zuljin7), Description (Description)
+{
+굴단! 우리가 공격당할 때 네 군대는 어디 있었지?! 내 전사들이 학살당할 때 넌 엘프 마법석의 힘만 신경 썼지! 호드에 대한 충성심은 어디로 갔나?!
+}
+
+STRING 3462
+// Items: I0Lw (WC2Orc11Zuljin7), Name (Name)
+{
+WC2Orc11Zuljin7
+}
+
+STRING 3463
+// Items: I0Lz (WC2Orc11Zuljin10), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3464
+// Items: I0Lx (WC2Orc11Zuljin8), Description (Description)
+{
+뭐라고?! 지금 떠난다고?! 엘프와의 완전한 승리가 눈앞에 있는데? 내가 호드와 협정을 맺을 때 둠해머가 직접 이 땅을 아마니에게 돌려주겠다고 약속했다!
+}
+
+STRING 3465
+// Items: I0Lx (WC2Orc11Zuljin8), Name (Name)
+{
+WC2Orc11Zuljin8
+}
+
+STRING 3466
+// Items: I1LA (WC2Orc11Zuljin11), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3467
+// Items: I0Ly (WC2Orc11Zuljin9), Description (Description)
+{
+배신자! 서약파괴자! 네놈의 이기적인 배신이 호드를 파멸로 이끌 것이다! 너 같은 놈들을 전에도 본 적이 있다. 탐욕과 오만에 눈이 멀어 모두 같은 운명을 맞이했다. 네놈의 종말은 잔혹하고 천천히 고통스러울 것이다... 그리고 네놈이 잘못된 길을 선택한 것을 깨달았을 때는... 이미 늦었을 것이다. 이것이 네놈에게 내리는 저주다, 흑마법사!
+}
+
+STRING 3468
+// Items: I0Ly (WC2Orc11Zuljin9), Name (Name)
+{
+WC2Orc11Zuljin9
+}
+
+STRING 3469
+// Items: I1LB (WC2Orc11Zuljin12), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3470
+// Items: I0Lz (WC2Orc11Zuljin10), Description (Description)
+{
+스크래처.... 너희 흑마법사가 우릴 배신했다! 몇몇 병사를 빼고 모든 군대가 철수했다. 내 백성과 나를 내버려 두고 말이다! 이건 너희 종족 모두에게 씻을 수 없는 치욕이다!
+}
+
+STRING 3471
+// Items: I0Lz (WC2Orc11Zuljin10), Name (Name)
+{
+WC2Orc11Zuljin10
+}
+
+STRING 3472
+// Items: I1LC (KeeperOfTheGroveYesAttack1), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 3473
+// Items: I1LA (WC2Orc11Zuljin11), Description (Description)
+{
+넌 내게 빚을 졌다, 스크래처. 네 목숨을 구했으니... 너와 네 남은 형제들은 줄아만을 지켜야 한다. 곧 엘프들이 전열을 가다듬고 반격할 것이다. 서약을 지켜라, 우톡! 호드의 지원이 없으면 내 백성들은 전멸할 거다!
+}
+
+STRING 3474
+// Items: I1LA (WC2Orc11Zuljin11), Name (Name)
+{
+WC2Orc11Zuljin11
+}
+
+STRING 3476
+// Items: I1LB (WC2Orc11Zuljin12), Description (Description)
+{
+그 저주받을 흑마법사는 호드의 파멸이 될 거다... 해야 할 일을 해라... 난 돌아가 고향을 지키겠다. 렌드와 오그림에게 내 안부를 전해라. 내 싸움은 계속된다고 말이야...
+}
+
+STRING 3477
+// Items: I1LB (WC2Orc11Zuljin12), Name (Name)
+{
+WC2Orc11Zuljin12
+}
+
+STRING 3479
+// Items: I1LC (KeeperOfTheGroveYesAttack1), Description (Description)
+{
+로아를 만나면 줄진이 보냈다고 전해라!
+}
+
+STRING 3480
+// Items: I1LC (KeeperOfTheGroveYesAttack1), Name (Name)
+{
+KeeperOfTheGroveYesAttack1
+}
+
+STRING 3481
+// Items: I1LD (WC2Orc11ElvenKnight1), Tip (Tooltip - Basic)
+{
+엘프
+}
+
+STRING 3482
+// Items: I1LD (WC2Orc11ElvenKnight1), Description (Description)
+{
+형제들이여! 사악한 트롤들이 우리 땅을 더럽히기 위해 이 괴물들을 데려왔다! 그들에게 자비를 베풀어서는 안 된다!
+}
+
+STRING 3483
+// Items: I1LD (WC2Orc11ElvenKnight1), Name (Name)
+{
+WC2Orc11ElvenKnight1
+}
+
+STRING 3484
+// Items: I1LE (WC2Orc11ElvenMage1), Tip (Tooltip - Basic)
+{
+엘프
+}
+
+STRING 3485
+// Items: I1LE (WC2Orc11ElvenMage1), Description (Description)
+{
+이 왕국은 수천 년 동안 건재해 왔다. 오크 쓰레기들아... 쿠엘탈라스의 힘이 네놈들과 한심한 트롤 동맹을 모조리 쓸어버릴 것이다!
+}
+
+STRING 3486
+// Items: I1LE (WC2Orc11ElvenMage1), Name (Name)
+{
+WC2Orc11ElvenMage1
+}
+
+STRING 3487
+// Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3489
+// Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Name (Name)
+{
+WC2Orc11Lireesa_ZuljinBase
+}
+
+STRING 3490
+// Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3491
+// Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Description (Description)
+{
+아나랄라 벨로레... 오크가 우리의 신성한 마법석을 파괴했다! 순찰자들이여! 트랜퀼리엔으로 돌아가서 실버문으로 당장 전갈을 보내라! 놈들은 이 대가를 톡톡히 치를 것이다!
+}
+
+STRING 3492
+// Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Name (Name)
+{
+WC2Orc11Lireesa_RunestonesGone1
+}
+
+STRING 3493
+// Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3494
+// Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Description (Description)
+{
+여기는 너희가 있을 곳이 아니다, 야만스러운 짐승들아! 당장 이 숲에서 물러가라… 그렇지 않으면 대가를 치르게 될 것이다!
+}
+
+STRING 3495
+// Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Name (Name)
+{
+WC2Orc11Lireesa_FirstEncounter1
+}
+
+STRING 3496
+// Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3497
+// Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Description (Description)
+{
+나는 리리사 윈드러너, 실버문의 순찰대 사령관이다. 수 세기 동안 많은 저급한 종족들이 쿠엘탈라스의 분노에 도전했지만, 모두 굴복했다. 이 사실을 명심하고 신중하게 행동해라, 짐승아!
+}
+
+STRING 3498
+// Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Name (Name)
+{
+WC2Orc11Lireesa_FirstEncounter2
+}
+
+STRING 3499
+// Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3500
+// Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Description (Description)
+{
+이 왕국은 네가 상상도 못할 만큼 오랫동안 건재해 왔다, 오크. 계속 공격해봤자... 오크와 네 한심한 트롤 동맹 모두 박멸될 뿐이다...
+}
+
+STRING 3501
+// Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Name (Name)
+{
+WC2Orc11Lireesa_FirstEncounter3
+}
+
+STRING 3502
+// Items: I1LK (WC2Orc11Lireesa_Final1), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3504
+// Items: I1LK (WC2Orc11Lireesa_Final1), Name (Name)
+{
+WC2Orc11Lireesa_Final1
+}
+
+STRING 3505
+// Items: I1LL (WC2Orc11Lireesa_Final2), Tip (Tooltip - Basic)
+{
+리리사 윈드러너
+}
+
+STRING 3506
+// Items: I1LL (WC2Orc11Lireesa_Final2), Description (Description)
+{
+내 딸들이... 복수해 줄 거다...
+}
+
+STRING 3507
+// Items: I1LL (WC2Orc11Lireesa_Final2), Name (Name)
+{
+WC2Orc11Lireesa_Final2
+}
+
+STRING 3508
+// Items: I1LM (WC2Orc11ChoGall1), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3509
+// Items: I1LM (WC2Orc11ChoGall1), Description (Description)
+{
+|cffffdd00초:|r 주인님, 기지가 준비됐습니다.
+|cffffdd00갈:|r 우리는 새로운 명령을 기다리고 있어요.
+}
+
+STRING 3510
+// Items: I1LM (WC2Orc11ChoGall1), Name (Name)
+{
+WC2Orc11ChoGall1
+}
+
+STRING 3511
+// Items: I1LN (WC2Orc11ChoGall2), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3512
+// Items: I1LN (WC2Orc11ChoGall2), Description (Description)
+{
+|cffffdd00갈:|r 티르의 손과 스트라솔름이 파괴되면서 얼라이언스는 지원군을 보낼 수 없게 됐다고. 엘프들은 우리를 홀로 맞서게 될 거야.
+|cffffdd00초:|r 하지만, 이 마법사들의 땅을 과소평가해선 안 된다. 우리가 놈들의 방어선을 뚫는 건 쉽지 않을 거다. 이 땅의 방대한 자연 자체가 놈들 편이니까.
+}
+
+STRING 3513
+// Items: I1LN (WC2Orc11ChoGall2), Name (Name)
+{
+WC2Orc11ChoGall2
+}
+
+STRING 3514
+// Items: I1LO (WC2Orc11ChoGall3), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3515
+// Items: I1LO (WC2Orc11ChoGall3), Description (Description)
+{
+|cffffdd00초:|r 주인님, 저주받은 자들의 사원을 건설 할 준비가 되었습니다.
+|cffffdd00갈:|r 건설이 끝나면 죽음의 기사들이 공격에 합류할 수 있을 거예요.
+}
+
+STRING 3516
+// Items: I1LO (WC2Orc11ChoGall3), Name (Name)
+{
+WC2Orc11ChoGall3
+}
+
+STRING 3517
+// Items: I1LP (WC2Orc11ChoGall4), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3518
+// Items: I1LP (WC2Orc11ChoGall4), Description (Description)
+{
+|cffffdd00초:|r 건방진 놈!
+|cffffdd00갈:|r 네가 뭔데 주인님께 그런 식으로 말하는 거야!
+}
+
+STRING 3519
+// Items: I1LP (WC2Orc11ChoGall4), Name (Name)
+{
+WC2Orc11ChoGall4
+}
+
+STRING 3520
+// Items: I1LQ (WC2Orc11ChoGall5), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3521
+// Items: I1LQ (WC2Orc11ChoGall5), Description (Description)
+{
+|cffffdd00초:|r 주인님, 엘프의 방어선이 무너졌습니다. 쿠엘탈라스를 무너뜨리고 엘프들을 이 세상에서 쓸어버릴 준비가 되었습니다!
+}
+
+STRING 3522
+// Items: I1LQ (WC2Orc11ChoGall5), Name (Name)
+{
+WC2Orc11ChoGall5
+}
+
+STRING 3523
+// Items: I1LR (WC2Orc11ChoGall6), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3524
+// Items: I1LR (WC2Orc11ChoGall6), Description (Description)
+{
+|cffffdd00초:|r 이해가 안 됩니다, 주인님, 전쟁에서 승리하는 것보다 더 중요한 게 있습니까?
+|cffffdd00갈:|r 무슨 힘을 말하는 건가요?
+}
+
+STRING 3525
+// Items: I1LR (WC2Orc11ChoGall6), Name (Name)
+{
+WC2Orc11ChoGall6
+}
+
+STRING 3534
+{
+줄진
+}
+
+STRING 3535
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin6.flac
+{
+도움이 필요하다! 오크들에게 지원군을 요청하라!
+}
+
+STRING 3536
+{
+줄진
+}
+
+STRING 3537
+// _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin5.flac
+{
+엘프들의 공격을 받고 있는데 오크 동맹은 어디로 간거냐?!
+}
+
+STRING 3538
+// Doodads: D004 (Light Red), Name (Name)
+{
+빛 붉은색
+}
+
+STRING 3539
+// Units: n006 (Amani Warrior), Name (Name)
+{
+아마니 전사
+}
+
+STRING 3540
+// Units: n006 (Amani Warrior), Tip (Tooltip - Basic)
+{
+아마니 전사 고용
+}
+
+STRING 3541
+// Items: I0Lf (O04WarsongOrc1001), Description (Description)
+{
+족장님! 공격받고 있습니다!
+}
+
+STRING 3542
+// Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Description (Description)
+{
+순찰자들이여! 줄진이 사악한 침략자를 우리 땅에 데려왔다... 놈들의 기지를 파괴하고 놈의 목을 내게 가져와라!
+}
+
+STRING 3543
+// Items: I1LK (WC2Orc11Lireesa_Final1), Description (Description)
+{
+정말 나로 끝날 거라 생각하나, 괴물아? 우린 쿠엘탈라스의 하이 엘프들이다! 너흰 우릴 무너뜨릴 수 없다!
+}
+
+STRING 3544
+// Doodads: DLs0 (Light Yellow Weak), Name (Name)
+{
+빛 노란색 약함
+}
+
+STRING 3545
+// Destructibles: BQt0 (Tree Crown), Name (Name)
+{
+나무 왕관
+}
+
+STRING 3546
+{
+쿠엘탈라스 마법학자
+}
+
+STRING 3547
+// Units: htow (Villa), Name (Name)
+{
+주택
+}
+
+STRING 3548
+// Units: htow (Villa), Tip (Tooltip - Basic)
+{
+주택 건설
+}
+
+STRING 3549
+// Units: hkee (Chateau), Tip (Tooltip - Basic)
+{
+성으로 업그레이드
+}
+
+STRING 3550
+// Units: hkee (Chateau), Name (Name)
+{
+성
+}
+
+STRING 3551
+// Units: hcas (Palace), Tip (Tooltip - Basic)
+{
+궁전으로 업그레이드
+}
+
+STRING 3552
+// Units: hcas (Palace), Name (Name)
+{
+궁전
+}
+
+STRING 3553
+// Units: nheb (Barracks), Name (Name)
+{
+병영
+}
+
+STRING 3554
+// Units: eshy (Shipyard), Name (Name)
+{
+조선소
+}
+
+STRING 3555
+// Units: h61M (Forge), Name (Name)
+{
+제련소
+}
+
+STRING 3556
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 3557
+{
+|cffffcc00치트 비활성화!|r
+}
+
+STRING 3558
+{
+|cffffcc00치트 비활성화!|r
+}
+
+STRING 3559
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 3560
+// Items: IQL0 (Fanatic), Tip (Tooltip - Basic)
+{
+부랑자
+}
+
+STRING 3561
+// Items: IQL0 (Fanatic), Name (Name)
+{
+광신도
+}
+
+STRING 3562
+// Items: IQL0 (Fanatic), Description (Description)
+{
+아군 대상은 지옥불 정령만 가능합니다.
+}

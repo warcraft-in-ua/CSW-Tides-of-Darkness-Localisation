@@ -1,0 +1,3989 @@
+﻿STRING 1
+{
+WC2Orc10
+}
+
+STRING 2
+{
+Tamplier777
+}
+
+STRING 239
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 252
+{
+발판
+}
+
+STRING 253
+{
+오그림 둠해머가 이끄는 군대가 스트라솔름을 향해 진군하고 있습니다. 호드의 도착에 대비해 야영지와 보급품을 준비해야 합니다.
+}
+
+STRING 260
+{
+황혼의 망치 부족
+}
+
+STRING 289
+{
+금광을 찾아야 합니다.
+}
+
+STRING 299
+{
+|cffffcc00주 퀘스트|r  
+발판
+  - 금광을 찾아야 합니다.
+  - 초갈이 생존해야 합니다.
+}
+
+STRING 311
+{
+|cff32cd32힌트|r
+고블린을 이용하여 바위를 파괴할 수 있습니다.
+}
+
+STRING 326
+{
+|cffffcc00주 퀘스트 완료|r   
+스트라솔름 항구
+  - |c00C0C0C0얼라이언스 석유 굴착대를 파괴해야 합니다. (완료)|r
+  - |c00C0C0C0얼라이언스 해군 건물을 파괴해야 합니다. (완료)|r
+}
+
+STRING 329
+{
+|cffffcc00주 퀘스트|r   
+스트라솔름
+  - 스트라솔름 성채를 파괴해야 합니다.
+}
+
+STRING 330
+{
+|cffffcc00선택 퀘스트|r
+힘의 성역
+  - 힘의 성역을 점령해야 합니다.
+}
+
+STRING 336
+{
+|cffffcc00선택 퀘스트 완료|r   
+힘의 성역
+}
+
+STRING 343
+// Units: U006 (Warlock), Propernames (Proper Names)
+{
+굴단
+}
+
+STRING 472
+// Units: u007 (Teron Gorefiend), Name (Name)
+{
+테론 고어핀드
+}
+
+STRING 502
+{
+스트라솔름 파괴
+}
+
+STRING 506
+{
+호드
+}
+
+STRING 508
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+다재다능한 도끼 투척 유닛으로, 공중 유닛에게 특히 효과적입니다. 광폭화 능력을 사용해 공격력을 증가시킬 수 있으나, 받는 피해도 그만큼 증가합니다. 트롤의 재생력, 광전사의 시야, 가벼운 도끼를 배울 수 있습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 509
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 510
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+엘프 순찰자
+}
+
+STRING 511
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+기본 원거리 공격 유닛입니다. 사격술과 활 개량 히포그리프 길들이기를 배울 수 있습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 512
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 513
+// Units: negf (Tower of Fire), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 514
+// Units: negm (Tower of Air), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 518
+// Units: Hblm (Elven Mage), Name (Name)
+{
+엘프 마법사
+}
+
+STRING 519
+// Units: nchp (Magistrate), Name (Name)
+{
+행정관
+}
+
+STRING 525
+// Units: u007 (Teron Gorefiend), Hotkey (Hotkey)
+{
+K
+}
+
+STRING 527
+// Units: u007 (Teron Gorefiend), Tip (Tooltip - Basic)
+{
+죽음의 기사 훈련
+}
+
+STRING 630
+// Units: n608 (Monk), Name (Name)
+{
+수도사
+}
+
+STRING 631
+// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+{
+성실한 사제입니다.
+}
+
+STRING 632
+// Units: n608 (Monk), Tip (Tooltip - Basic)
+{
+신성한 성직자입니다.
+}
+
+STRING 633
+// Units: U006 (Warlock), Name (Name)
+{
+흑마법사
+}
+
+STRING 678
+// Units: h007 (Stormwind Knight), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱)
+}
+
+STRING 803
+// Units: nefm (High Elven Manor), Ubertip (Tooltip - Extended)
+{
+식량을 제공하여 최대 훈련 가능 유닛을 증가시킵니다.
+}
+
+STRING 909
+// Units: n60V (Duck), Name (Name)
+{
+오리
+}
+
+STRING 910
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+청둥오리입니다.
+}
+
+STRING 920
+// Units: o61I (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(트롤)
+}
+
+STRING 940
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+가시 방벽
+}
+
+STRING 941
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+가시 방벽
+}
+
+STRING 950
+// Units: h620 (Tent), Name (Name)
+{
+천막
+}
+
+STRING 951
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+천막
+}
+
+STRING 952
+// Units: h621 (Tent), Name (Name)
+{
+천막
+}
+
+STRING 953
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+천막
+}
+
+STRING 954
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(업그레이드)
+}
+
+STRING 969
+// Units: H628 (Archibishop), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1025
+// Units: n60Y (Raven), Name (Name)
+{
+까마귀
+}
+
+STRING 1034
+// Units: n60Z (Spiders), Name (Name)
+{
+거미
+}
+
+STRING 1035
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+거미
+}
+
+STRING 1118
+// Units: h618 (Pack Ram), Name (Name)
+{
+짐 실은 산양
+}
+
+STRING 1206
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+석유가 담긴 통
+}
+
+STRING 1227
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+부두
+}
+
+STRING 1228
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+버섯
+}
+
+STRING 1230
+// Destructibles: OTsp (Portal), Name (Name)
+{
+차원문
+}
+
+STRING 1236
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1240
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+성 탑
+}
+
+STRING 1242
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+돌 벽
+}
+
+STRING 1244
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+도시 계단
+}
+
+STRING 1251
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+성벽 모퉁이
+}
+
+STRING 1252
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+성벽 직선
+}
+
+STRING 1253
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+성문벽 짧음
+}
+
+STRING 1254
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+성벽 긺
+}
+
+STRING 1255
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+성벽문 직선
+}
+
+STRING 1265
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+오래된 무덤
+}
+
+STRING 1267
+// Destructibles: B62T (Egg), Name (Name)
+{
+알
+}
+
+STRING 1270
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+성벽 짧음
+}
+
+STRING 1272
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+절벽
+}
+
+STRING 1273
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(경사로)
+}
+
+STRING 1276
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+절벽
+}
+
+STRING 1279
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(장식품)
+}
+
+STRING 1289
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+나무화분
+}
+
+STRING 1290
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+겨울 캐노피 덤불
+}
+
+STRING 1291
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+쓰러진 겨울 나무
+}
+
+STRING 1292
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+쓰러진 겨울 나무
+}
+
+STRING 1293
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1294
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+등대
+}
+
+STRING 1295
+// Destructibles: B60U (Chest), Name (Name)
+{
+상자
+}
+
+STRING 1296
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+목재 보관함
+}
+
+STRING 1299
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+얼라이언스 깃발
+}
+
+STRING 1300
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+지지대
+}
+
+STRING 1301
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+오크 시네마틱
+}
+
+STRING 1304
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(임무02)
+}
+
+STRING 1305
+// Destructibles: B60V (Bushes), Name (Name)
+{
+덤불
+}
+
+STRING 1309
+// Destructibles: B61W (City Windows), Name (Name)
+{
+도시 창문
+}
+
+STRING 1310
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+오크 무덤 돌
+}
+
+STRING 1311
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+돌무더기
+}
+
+STRING 1313
+// Destructibles: B60F (Arathor Statue), Name (Name)
+{
+아라소르 석상
+}
+
+STRING 1314
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+겨울 캐노피 덤불
+}
+
+STRING 1315
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(변형)
+}
+
+STRING 1316
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+성벽 모퉁이
+}
+
+STRING 1317
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(대체)
+}
+
+STRING 1318
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+성벽 T 자
+}
+
+STRING 1319
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+성벽 T 자
+}
+
+STRING 1320
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(대체)
+}
+
+STRING 1321
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+성벽 T 자
+}
+
+STRING 1322
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1323
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+성벽 T 자
+}
+
+STRING 1324
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(넓음 대체)
+}
+
+STRING 1325
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+성벽 모퉁이
+}
+
+STRING 1326
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1327
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+성벽 모퉁이
+}
+
+STRING 1328
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(넓음 대체)
+}
+
+STRING 1329
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+성벽 긺
+}
+
+STRING 1330
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1331
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+성벽 짧음
+}
+
+STRING 1332
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1333
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+성벽 직선
+}
+
+STRING 1334
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1335
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+성벽문 직선
+}
+
+STRING 1336
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1337
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+성문벽 짧음
+}
+
+STRING 1338
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(넓음)
+}
+
+STRING 1339
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+성 아치길
+}
+
+STRING 1340
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+성벽 계단
+}
+
+STRING 1341
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+기사 석상
+}
+
+STRING 1342
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+절벽 기본 A
+}
+
+STRING 1343
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+절벽 기본 B
+}
+
+STRING 1344
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+절벽 기본 C
+}
+
+STRING 1345
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+절벽 기본 D
+}
+
+STRING 1362
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(소형)
+}
+
+STRING 1363
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+겨울 절벽
+}
+
+STRING 1364
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+겨울 절벽
+}
+
+STRING 1365
+// Destructibles: B62M (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(소형)
+}
+
+STRING 1366
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+겨울 눈 덮힌 절벽
+}
+
+STRING 1367
+// Destructibles: B62M (WinterSnowCliff), Name (Name)
+{
+겨울 눈 덮힌 절벽
+}
+
+STRING 1382
+// Doodads: D60H (Square Tower), Name (Name)
+{
+사각 탑
+}
+
+STRING 1386
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+폭풍약탈자 깃발
+}
+
+STRING 1387
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+황혼의 망치 깃발
+}
+
+STRING 1390
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+긴 풀
+}
+
+STRING 1391
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+사각 탑 고층
+}
+
+STRING 1398
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+움직이는 덤불
+}
+
+STRING 1399
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+겨울 덤불 A
+}
+
+STRING 1401
+// Doodads: D00B (Water Plane), Name (Name)
+{
+평평한 물
+}
+
+STRING 1411
+// Doodads: D69J (Star leaves), Name (Name)
+{
+별 모양 잎
+}
+
+STRING 1414
+// Doodads: D69S (Door), Name (Name)
+{
+문
+}
+
+STRING 1429
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+황무지 덤불
+}
+
+STRING 1439
+// Doodads: D6BA (Underground Rock 02), Name (Name)
+{
+지하 바위 02
+}
+
+STRING 1440
+// Doodads: D6BB (Underground Rock 03), Name (Name)
+{
+지하 바위 03
+}
+
+STRING 1455
+// Units: e003 (Holy Fountain), Tip (Tooltip - Basic)
+{
+샘
+}
+
+STRING 1461
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+가마솥 경로 없음
+}
+
+STRING 1462
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+화로 경로 없음
+}
+
+STRING 1463
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+깃대
+}
+
+STRING 1467
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+핏 자국 01
+}
+
+STRING 1468
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+핏 자국 02
+}
+
+STRING 1469
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+핏 자국 03
+}
+
+STRING 1470
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+핏 자국 04
+}
+
+STRING 1471
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+핏 자국 05
+}
+
+STRING 1472
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+핏 자국 06
+}
+
+STRING 1509
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+밀
+}
+
+STRING 1511
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+겨울 상자 눈
+}
+
+STRING 1515
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+겨울 덤불 4
+}
+
+STRING 1516
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+겨울 자갈 돌 1
+}
+
+STRING 1538
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+로데론 바위 첨탑
+}
+
+STRING 1539
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+눈 덮인 바위 첨탑
+}
+
+STRING 1546
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+검은바위 부족 깃발
+}
+
+STRING 1547
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+방어구 선반 오크
+}
+
+STRING 1548
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+무기 선반 오크
+}
+
+STRING 1551
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+방어구 선반 은빛성기사단
+}
+
+STRING 1552
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+무기 선반 은빛성기사단
+}
+
+STRING 1557
+// Doodads: D60V (Wall Barred Small Endcap), Name (Name)
+{
+벽걸이형 소형 진열대
+}
+
+STRING 1562
+// Doodads: D614 (Mountain01), Name (Name)
+{
+산01
+}
+
+STRING 1563
+// Doodads: D618 (Mountain02), Name (Name)
+{
+산02
+}
+
+STRING 1564
+// Doodads: D619 (Mountain03), Name (Name)
+{
+산03
+}
+
+STRING 1565
+// Doodads: D61A (Mountain04), Name (Name)
+{
+산04
+}
+
+STRING 1583
+// Units: ntor (Whirlwind), Name (Name)
+{
+회오리바람
+}
+
+STRING 2728
+{
+유닛을 계속 훈련하려면 농장을 추가로 건설해야 합니다.,유닛을 계속 생산하려면 돼지 농장을 추가로 건설해야 합니다.,유닛 생산을 계속하려면 지구라트를 더 소환해야 합니다.,유닛 훈련을 계속하려면 달샘을 추가로 건설해야 합니다.
+}
+
+STRING 2729
+{
+사용할 수 없는 석유 굴착대입니다.
+}
+
+STRING 2730
+{
+해당 유전은 이미 사용 중입니다.
+}
+
+STRING 2731
+{
+석유 굴착대를 먼저 건설해야 합니다.
+}
+
+STRING 2732
+{
+유전을 대상으로 지정해야 합니다.
+}
+
+STRING 2733
+{
+유전 위에만 건설할 수 있습니다.
+}
+
+STRING 2734
+{
+전당에서 영웅을 부활시킬 수 있습니다.
+}
+
+STRING 2741
+// Destructibles: B000 (Snowpile), Name (Name)
+{
+눈더미
+}
+
+STRING 2742
+// Destructibles: B001 (Fence), Name (Name)
+{
+울타리
+}
+
+STRING 2743
+// Destructibles: B002 (Fence), Name (Name)
+{
+울타리
+}
+
+STRING 2744
+// Destructibles: B003 (Fence short), Name (Name)
+{
+짧은 울타리
+}
+
+STRING 2745
+// Units: e004 (Unholy Fountain), Tip (Tooltip - Basic)
+{
+샘
+}
+
+STRING 2746
+// Destructibles: B005 (Fence short), Name (Name)
+{
+짧은 울타리
+}
+
+STRING 2747
+// Destructibles: BD06 (Wooden Bench), Name (Name)
+{
+나무 벤치
+}
+
+STRING 2748
+// Destructibles: B007 (Stone Bench), Name (Name)
+{
+돌 벤치
+}
+
+STRING 2749
+// Destructibles: B008 (Catherdal), Name (Name)
+{
+성채
+}
+
+STRING 2750
+// Doodads: YScs (Column Semi Circle No path), Name (Name)
+{
+기둥 반 원형 경로 없음
+}
+
+STRING 2751
+// Destructibles: B009 (Weapon Rack New), Name (Name)
+{
+무기 선반 신규
+}
+
+STRING 2754
+// Destructibles: B00A (Lever), EditorSuffix (Editor Suffix)
+{
+(수직)
+}
+
+STRING 2755
+// Doodads: D002 (Waterfall Green), Name (Name)
+{
+폭포 녹색
+}
+
+STRING 2756
+// Destructibles: B00B (Wooden Floor), Name (Name)
+{
+나무 바닥
+}
+
+STRING 2757
+// Destructibles: B00C (Castle Tower), Name (Name)
+{
+성 탑
+}
+
+STRING 2758
+// Destructibles: B00C (Castle Tower), EditorSuffix (Editor Suffix)
+{
+(대형)
+}
+
+STRING 2760
+// Units: halt (Altar of Heroes), Name (Name)
+{
+영웅의 제단
+}
+
+STRING 2761
+// Units: halt (Altar of Heroes), Tip (Tooltip - Basic)
+{
+영웅의 제단 건설
+}
+
+STRING 2762
+// Units: hars (Arcane Sanctum), Ubertip (Tooltip - Extended)
+{
+사제, 여마술사를 훈련합니다.
+사제와 여마술사의 주문을 업그레이드하고, 마법 제어와 마법 감시를 연구할 수 있습니다.
+}
+
+STRING 2763
+// Units: nheb (High Elven Barracks), Ubertip (Tooltip - Extended)
+{
+주요 병력 생산 건물입니다. 검사, 궁수를 훈련합니다. 
+또한 검사의 방어 업그레이드를 할 수 있습니다.
+}
+
+STRING 2764
+// Units: negf (Tower of Fire), Name (Name)
+{
+불의 탑
+}
+
+STRING 2765
+// Units: negm (Tower of Air), Name (Name)
+{
+바람의 탑
+}
+
+STRING 2766
+// Units: nefm (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2767
+// Units: nefm (High Elven Manor), Tip (Tooltip - Basic)
+{
+엘프 저택 건설
+}
+
+STRING 2770
+// Units: nbel (High Elf Lieutenant), Name (Name)
+{
+하이 엘프 부관
+}
+
+STRING 2771
+// Units: nbel (High Elf Lieutenant), Tip (Tooltip - Basic)
+{
+하이 엘프 부관 훈련
+}
+
+STRING 2772
+// Units: hatw (Arcane Tower), Tip (Tooltip - Basic)
+{
+비전탑 건설
+}
+
+STRING 2773
+// Units: nef0 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2774
+// Units: nef1 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2775
+// Units: nef2 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2776
+// Units: nef3 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2777
+// Units: nef4 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2778
+// Units: nef5 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2779
+// Units: nef6 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2780
+// Units: nef7 (High Elven Manor), Name (Name)
+{
+하이 엘프 저택
+}
+
+STRING 2781
+// Units: nbt2 (Tower of Earth), Name (Name)
+{
+대지의 탑
+}
+
+STRING 2782
+// Units: ndt2 (Tower of Water), Name (Name)
+{
+물의 탑
+}
+
+STRING 2795
+// Units: nth1 (Troll Hut), Name (Name)
+{
+트롤 오두막
+}
+
+STRING 2796
+// Units: nth0 (Troll Hut), Name (Name)
+{
+트롤 오두막
+}
+
+STRING 2804
+// Units: n006 (Amanishi Guardian), Name (Name)
+{
+아마니쉬 수호병
+}
+
+STRING 2805
+// Units: n006 (Amanishi Guardian), Tip (Tooltip - Basic)
+{
+아마니쉬 수호병 고용
+}
+
+STRING 2963
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2964
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2965
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2966
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2967
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2968
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2969
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2970
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2971
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2972
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2973
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 2974
+{
+|cffffcc00석유가 부족합니다.|r
+}
+
+STRING 3040
+// Destructibles: BS06 (OilPuddle), Name (Name)
+{
+석유 웅덩이
+}
+
+STRING 3041
+// Units: n00D (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 3042
+// Units: n00E (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 3043
+// Units: n00F (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 3044
+// Units: n00G (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 3045
+// Units: n00H (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 3046
+// Units: n00I (City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 3047
+// Units: n00J (City clock tower), Name (Name)
+{
+도시 시계탑
+}
+
+STRING 3048
+// Units: n00J (City clock tower), Tip (Tooltip - Basic)
+{
+도시 시계탑 건설
+}
+
+STRING 3049
+// Units: n00K (Tavern), Name (Name)
+{
+선술집
+}
+
+STRING 3050
+// Units: n00K (Tavern), Tip (Tooltip - Basic)
+{
+선술집 건설
+}
+
+STRING 3051
+// Destructibles: B006 (Stratholme green barn), Name (Name)
+{
+스트라솔름 녹색 헛간
+}
+
+STRING 3053
+{
+시민
+}
+
+STRING 3055
+{
+검은바위 부족
+}
+
+STRING 3056
+{
+어둠의 의회
+}
+
+STRING 3058
+{
+얼라이언스
+}
+
+STRING 3059
+{
+중립
+}
+
+STRING 3061
+// Units: H628 (Archibishop), Name (Name)
+{
+대주교
+}
+
+STRING 3062
+// Units: H628 (Archibishop), Awakentip (Tooltip - Awaken)
+{
+대주교 부활
+}
+
+STRING 3063
+// Units: H628 (Archibishop), Revivetip (Tooltip - Revive)
+{
+대주교 부활
+}
+
+STRING 3064
+// Units: H628 (Archibishop), Tip (Tooltip - Basic)
+{
+대주교
+}
+
+STRING 3066
+// Units: H008 (Paladin), Propernames (Proper Names)
+{
+마라 폴드라곤
+}
+
+STRING 3067
+{
+시네마틱 더미
+}
+
+STRING 3069
+{
+로데론
+}
+
+STRING 3178
+// Units: h006 (Defender of Faith), Name (Name)
+{
+믿음의 수호자
+}
+
+STRING 3179
+// Units: h006 (Defender of Faith), Tip (Tooltip - Basic)
+{
+믿음의 수호자 소환
+}
+
+STRING 3180
+// Doodads: D005 (Banner Silver Hand), Name (Name)
+{
+은빛 성기사단 깃발
+}
+
+STRING 3181
+// Doodads: D006 (Banner Silverhand Wall), Name (Name)
+{
+벽 은빛 성기사단 깃발
+}
+
+STRING 3187
+// Doodads: YScd (Column Double (Pathless)), Name (Name)
+{
+기둥 두 개 (경로 없음)
+}
+
+STRING 3188
+// Doodads: D007 (Iron Fence), Name (Name)
+{
+철 울타리
+}
+
+STRING 3189
+// Doodads: D008 (Grave (Cityscape Pathless)), Name (Name)
+{
+무덤 (도시 경로 없음)
+}
+
+STRING 3190
+// Units: n60W (Troll Hut), Name (Name)
+{
+트롤 오두막
+}
+
+STRING 3191
+// Units: n60X (Troll Hut), Name (Name)
+{
+트롤 오두막
+}
+
+STRING 3192
+// Destructibles: B00D (WinterSnowCliff), Name (Name)
+{
+겨울 눈 덮힌 절벽
+}
+
+STRING 3193
+// Destructibles: B00D (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(기울어짐)
+}
+
+STRING 3194
+// Destructibles: B00E (WinterSnowCliff), Name (Name)
+{
+겨울 눈 덮힌 절벽
+}
+
+STRING 3195
+// Destructibles: B00E (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(소형 기울어짐)
+}
+
+STRING 3196
+// Destructibles: B00F (WinterCliff), Name (Name)
+{
+겨울 절벽
+}
+
+STRING 3197
+// Destructibles: B00F (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(기울어짐)
+}
+
+STRING 3198
+// Destructibles: B00G (WinterCliff), Name (Name)
+{
+겨울 절벽
+}
+
+STRING 3199
+// Destructibles: B00G (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(소형 기울어짐)
+}
+
+STRING 3200
+// Units: nemi (Verdant Tranquility Activist), Name (Name)
+{
+신록의 평온주의자
+}
+
+STRING 3201
+// Destructibles: B00H (Snowpile Flat), Name (Name)
+{
+눈더미 평평함
+}
+
+STRING 3202
+// Doodads: D009 (Column Semi Circle Ruined pathless), Name (Name)
+{
+기둥 반 원 파괴됨 경로 없음
+}
+
+STRING 3203
+// Destructibles: B00I (Puddle), Name (Name)
+{
+물웅덩이
+}
+
+STRING 3204
+// Destructibles: B00I (Puddle), EditorSuffix (Editor Suffix)
+{
+(평평함)
+}
+
+STRING 3205
+// Destructibles: B00J (Support Column), EditorSuffix (Editor Suffix)
+{
+(장식품 경로 없음)
+}
+
+STRING 3206
+// Doodads: D00A (Cargo), Name (Name)
+{
+창고
+}
+
+STRING 3207
+// Destructibles: B00K (Pier Tol Barad), Name (Name)
+{
+부두 톨 바라드
+}
+
+STRING 3208
+// Destructibles: B00L (Snowpile Northrend), Name (Name)
+{
+눈더미 노스랜드
+}
+
+STRING 3210
+// Destructibles: LTrc (Rock Chunks), EditorSuffix (Editor Suffix)
+{
+(겨울)
+}
+
+STRING 3212
+// Destructibles: B00M (Stone Rubble), Name (Name)
+{
+돌 무더기
+}
+
+STRING 3213
+// Destructibles: B00N (Stone Path), Name (Name)
+{
+돌 경로
+}
+
+STRING 3214
+// Doodads: D00C (Troll Farm), Name (Name)
+{
+트롤 농장
+}
+
+STRING 3215
+// Doodads: D00D (Troll Tower), Name (Name)
+{
+트롤 탑
+}
+
+STRING 3216
+// Units: nmg1 (Muloc Hut), Name (Name)
+{
+멀록 오두막
+}
+
+STRING 3217
+// Units: nmg1 (Muloc Hut), Tip (Tooltip - Basic)
+{
+멀록 오두막 건설
+}
+
+STRING 3220
+// Units: h009 (Windmill), Name (Name)
+{
+풍차
+}
+
+STRING 3221
+// Units: h009 (Windmill), Tip (Tooltip - Basic)
+{
+풍차 건설
+}
+
+STRING 3222
+// Units: n004 (Barn), Name (Name)
+{
+헛간
+}
+
+STRING 3223
+// Units: n004 (Barn), Tip (Tooltip - Basic)
+{
+헛간 건설
+}
+
+STRING 3224
+// Units: h00A (Granary), Name (Name)
+{
+곡물 창고
+}
+
+STRING 3225
+// Units: h00A (Granary), Tip (Tooltip - Basic)
+{
+곡물 창고 건설
+}
+
+STRING 3230
+// Units: h627 (Monk), Name (Name)
+{
+수도사
+}
+
+STRING 3231
+{
+얼라이언스 해군
+}
+
+STRING 3232
+// Doodads: D004 (Sewer Hatch), Name (Name)
+{
+하수구 출입구
+}
+
+STRING 3237
+// Units: H628 (Archibishop), Propernames (Proper Names)
+{
+알론서스 파올
+}
+
+STRING 3240
+{
+초갈이 생존해야 합니다.
+}
+
+STRING 3241
+{
+|cffffcc00주 퀘스트 완료|r  
+발판
+}
+
+STRING 3242
+{
+|cffffcc00주 퀘스트 실패|r  
+발판
+  - 금광을 발견해야 합니다.
+  - |cffff0000초갈이 생존해야 합니다. (실패)|r
+}
+
+STRING 3249
+// Units: h004 (Visibility Controller), Name (Name)
+{
+가시성 제어기
+}
+
+STRING 3261
+{
+|cffffcc00주 퀘스트|r   
+스트라솔름 항구
+  - 얼라이언스의 석유 굴착대를 파괴해야 합니다.
+  - 얼라이언스의 해군 건물을 파괴해야 합니다.
+}
+
+STRING 3262
+{
+스트라솔름 도시 시계
+}
+
+STRING 3293
+// Units: ofor (War Mill), Ubertip (Tooltip - Extended)
+{
+채취한 목재를 적재할 수 있는 건물입니다.
+목재 채취력을 업그레이드를 할 수 있습니다.
+}
+
+STRING 3331
+// Units: u005 (Corpse wagon), Name (Name)
+{
+시체 수레
+}
+
+STRING 3332
+// Units: u005 (Corpse wagon), Tip (Tooltip - Basic)
+{
+시체 수레 훈련
+}
+
+STRING 3334
+// Units: U006 (Warlock), EditorSuffix (Name - Editor Suffix)
+{
+ (탑승중)
+}
+
+STRING 3347
+// Doodads: D64L (Wallpaper Mountains), Name (Name)
+{
+배경 산맥
+}
+
+STRING 3356
+{
+스트라솔름 항구
+}
+
+STRING 3357
+{
+스트라솔름은 로데론 북부지방의 대도시이자 얼라이언스의 주요 석유 공급처입니다. 모든 석유 굴착대와 정유소를 파괴해야 합니다.
+}
+
+STRING 3358
+{
+얼라이언스의 석유 굴착대를 파괴해야 합니다.
+}
+
+STRING 3359
+{
+스트라솔름의 항구를 파괴해야 합니다.
+}
+
+STRING 3360
+{
+스트라솔름
+}
+
+STRING 3361
+{
+스트라솔름을 파괴해야 합니다.
+}
+
+STRING 3362
+{
+도시를 불태우십시오.
+}
+
+STRING 3363
+{
+얼라이언스 야영지
+}
+
+STRING 3364
+{
+대족장의 군대가 도착하기 전에 도시를 지키는 얼라이언스 야영지를 파괴해야 합니다.
+}
+
+STRING 3365
+{
+대족장의 군대가 도착하기 전에 얼라이언스 야영지를 파괴해야 합니다.
+}
+
+STRING 3369
+{
+급습
+}
+
+STRING 3370
+{
+성문을 돌파하여 대성당에 도달하십시오. 이 속공으로 스트라솔름 수비대를 전멸시켜야 합니다.
+}
+
+STRING 3371
+{
+대성당으로 도달해야 합니다.
+}
+
+STRING 3372
+{
+대성당의 수비대를 처치해야 합니다.
+}
+
+STRING 3374
+{
+|cffffcc00주 퀘스트|r   
+강습
+  - 대성당으로 도달해야 합니다.
+  - 대성당의 수비대를 처치해야 합니다.
+}
+
+STRING 3417
+// Units: u007 (Teron Gorefiend), EditorSuffix (Name - Editor Suffix)
+{
+(준영웅)
+}
+
+STRING 3421
+// Units: h007 (Stormwind Knight), Name (Name)
+{
+스톰윈드 기사
+}
+
+STRING 3423
+// Destructibles: B00O (Dead Knight Staff), Name (Name)
+{
+죽음의 기사의 지팡이
+}
+
+STRING 3424
+// Destructibles: B00P (Terons Staff), Name (Name)
+{
+테론의 지팡이
+}
+
+STRING 3425
+{
+|cffffcc00신규 건물, 유닛 사용 가능|r
+이제 저주받은 자들의 사원을 건설하고 죽음의 기사를 훈련할 수 있습니다.
+}
+
+STRING 3426
+{
+|cffffcc00신규 유닛 사용 가능|r
+이제 고블린 연금술소에서 고블린 공병을 훈련할 수 있습니다.
+}
+
+STRING 3427
+// Units: u005 (Corpse wagon), Ubertip (Tooltip - Extended)
+{
+시체를 저장하는 기계입니다. 시체를 모아 죽음의 기사가 언데드로 되살릴 수 있도록 내려놓을 수 있습니다.
+}
+
+STRING 3428
+{
+|cffffcc00주 퀘스트 완료|r   
+강습
+  - |cff808080대성당으로 도달해야 합니다. (완료)|r
+  - |cff808080대성당의 수비대를 처치해야 합니다. (완료)|r
+}
+
+STRING 3429
+{
+|cffffcc00주 퀘스트 완료|r   
+강습
+  - |cff808080대성당으로 도달해야 합니다. (완료)|r
+  - 대성당의 수비대를 처치해야 합니다.
+}
+
+STRING 3460
+{
+최후의 저항
+}
+
+STRING 3461
+{
+빛의 교회를 지키고 있는 은빛 성기사단의 성기사를 처치해야 합니다.
+}
+
+STRING 3462
+{
+은빛 성기사단의 성기사를 처치해야 합니다.
+}
+
+STRING 3463
+{
+꽈광!
+}
+
+STRING 3464
+{
+스트라솔름 성벽에서 취약한 곳을 찾아야 합니다. 고블린 공병의 도움을 받아 그곳을 찾아 폭파하십시오.
+}
+
+STRING 3465
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 0곳 발견)
+}
+
+STRING 3468
+{
+|cffffcc00주 퀘스트|r   
+최후의 저항
+  - 은빛 성기사단의 성기사를 처치해야 합니다.
+}
+
+STRING 3469
+{
+|cffffcc00주 퀘스트 완료|r   
+최후의 저항
+}
+
+STRING 3495
+{
+|cffffcc00선택 퀘스트 완료|r   
+꽈광!
+}
+
+STRING 3501
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3502
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 2곳 발견)
+}
+
+STRING 3511
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3512
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 2곳 발견)
+}
+
+STRING 3513
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다.
+}
+
+STRING 3514
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3516
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 2곳 발견)
+}
+
+STRING 3517
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3518
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3519
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3521
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 2곳 발견)
+}
+
+STRING 3522
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 1곳 발견)
+}
+
+STRING 3523
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 2곳 발견)
+}
+
+STRING 3524
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 1곳 폭파)
+}
+
+STRING 3526
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 2곳 폭파)
+}
+
+STRING 3527
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 1곳 폭파)
+}
+
+STRING 3528
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 2곳 폭파)
+}
+
+STRING 3529
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 1곳 폭파)
+}
+
+STRING 3531
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 2곳 폭파)
+}
+
+STRING 3532
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - |cff808080스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (완료)|r
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 1곳 폭파)
+}
+
+STRING 3533
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - |cff808080스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (완료)|r
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 2곳 폭파)
+}
+
+STRING 3534
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 1곳 폭파)
+}
+
+STRING 3536
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 2곳 폭파)
+}
+
+STRING 3537
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - |cff808080스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (완료)|r
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 1곳 폭파)
+}
+
+STRING 3538
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - |cff808080스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (완료)|r
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 2곳 폭파)
+}
+
+STRING 3540
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 0곳 폭파)
+}
+
+STRING 3545
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다.
+}
+
+STRING 3546
+{
+스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다.
+}
+
+STRING 3547
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - |cff808080스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (완료)|r
+}
+
+STRING 3552
+{
+성벽 파괴됨
+}
+
+STRING 3553
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다.
+}
+
+STRING 3554
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다.
+}
+
+STRING 3555
+{
+고블린 공병을 이용해 성벽을 폭파해야 합니다.
+}
+
+STRING 3556
+{
+힘의 성역
+}
+
+STRING 3557
+{
+도시 근처에 성기사의 성역이 있습니다. 성역을 타락시키고 힘을 얻으십시오.
+}
+
+STRING 3558
+{
+힘의 성역을 점령해야 합니다.
+}
+
+STRING 3559
+// Units: e003 (Holy Fountain), Name (Name)
+{
+성스러운 샘
+}
+
+STRING 3560
+// Units: e003 (Holy Fountain), Ubertip (Tooltip - Extended)
+{
+신선한 물이 나오는 샘입니다. 근처에 있으면 마나 및 생명력이 회복됩니다.
+}
+
+STRING 3561
+// Destructibles: B004 (Fountain), Name (Name)
+{
+샘
+}
+
+STRING 3564
+// Destructibles: B00Q (Castle Wall Long), Name (Name)
+{
+성벽 긺
+}
+
+STRING 3565
+// Destructibles: B00Q (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(넓음 이동 불가)
+}
+
+STRING 3566
+// Destructibles: B00R (Castle Wall Short), Name (Name)
+{
+성벽 짧음
+}
+
+STRING 3567
+// Destructibles: B00R (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(넓음 이동 불가)
+}
+
+STRING 3568
+{
+부정
+}
+
+STRING 3572
+// Units: e004 (Unholy Fountain), Name (Name)
+{
+부정의 샘
+}
+
+STRING 3573
+// Units: e004 (Unholy Fountain), Ubertip (Tooltip - Extended)
+{
+신선한 물이 나오는 샘입니다. 근처에 있으면 마나 및 생명력이 회복됩니다.
+}
+
+STRING 3575
+// Abilities: A00V (Defile), Name (Name)
+{
+파멸
+}
+
+STRING 3576
+// Abilities: A00V (Defile), EditorSuffix (Editor Suffix)
+{
+(샘)
+}
+
+STRING 3577
+// Abilities: A00V (Defile), Tip (Tooltip - Normal)
+{
+파멸
+}
+
+STRING 3578
+// Abilities: A00V (Defile), Untip (Tooltip - Turn Off)
+{
+정화
+}
+
+STRING 3584
+{
+|cff87ceeb병력 증원|r
+시체 수레 - 쓰러진 시체를 모아 나중에 죽음의 기사를 위해 제공할 수 있습니다.
+}
+
+STRING 3585
+// Units: e005 (Dummy Fire Emitter), Name (Name)
+{
+더미 화염 분출구
+}
+
+STRING 3586
+// Units: e005 (Dummy Fire Emitter), Tip (Tooltip - Basic)
+{
+더미 화염 분출구
+}
+
+STRING 3589
+{
+|cff87ceeb신규 준영웅|r
+테론고르는 굴단의 제자이자 어둠의 의회의 일원입니다.
+}
+
+STRING 3600
+{
+|cffffcc00선택 퀘스트 업데이트|r
+꽈광!
+  - 고블린 공병을 이용해 성벽을 폭파해야 합니다. (3곳 중 0곳 폭파)
+}
+
+STRING 3615
+// Destructibles: B00S (Castle Wall Corner), Name (Name)
+{
+성벽 모퉁이
+}
+
+STRING 3616
+// Destructibles: B00S (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(넓음 이동 불가)
+}
+
+STRING 3617
+// Destructibles: B00T (Castle Wall Straight), Name (Name)
+{
+성벽 직선
+}
+
+STRING 3618
+// Destructibles: B00T (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(넓음 이동 불가)
+}
+
+STRING 3619
+// Doodads: D00E (Banner Long Lordaeron), Name (Name)
+{
+긴 로데론 깃발
+}
+
+STRING 3620
+// Units: n008 (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3621
+// Units: n008 (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3622
+// Units: n009 (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3623
+// Units: n009 (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3624
+// Units: n00A (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3625
+// Units: n00A (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3626
+// Units: n00B (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3627
+// Units: n00B (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3628
+// Units: n00C (Old Citizen), Name (Name)
+{
+늙은 시민
+}
+
+STRING 3629
+// Units: n00C (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3630
+// Units: n00L (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3631
+// Units: n00L (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 7)
+}
+
+STRING 3632
+// Units: n00M (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3633
+// Units: n00M (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 6)
+}
+
+STRING 3634
+// Units: n00N (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3635
+// Units: n00N (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 5)
+}
+
+STRING 3636
+// Units: n00O (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3637
+// Units: n00O (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 4)
+}
+
+STRING 3638
+// Units: n00P (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3639
+// Units: n00P (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 3)
+}
+
+STRING 3640
+// Units: n00Q (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3641
+// Units: n00Q (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 1)
+}
+
+STRING 3642
+// Units: n00R (Lordaeron Woman), Name (Name)
+{
+로데론 여성
+}
+
+STRING 3643
+// Units: n00R (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(시네마틱 2)
+}
+
+STRING 3644
+// Units: n00S (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3645
+// Units: n00S (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3646
+// Units: n00S (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3647
+// Units: n00T (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3648
+// Units: n00T (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3649
+// Units: n00T (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3650
+// Units: n00U (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3651
+// Units: n00U (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3652
+// Units: n00U (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3653
+// Units: n00V (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3654
+// Units: n00V (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3655
+// Units: n00V (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 3656
+// Units: n00W (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3657
+// Units: n00W (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3658
+// Units: n00W (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3659
+// Units: n00X (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3660
+// Units: n00X (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3661
+// Units: n00X (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3662
+// Units: n00Y (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3663
+// Units: n00Y (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3664
+// Units: n00Y (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 3665
+// Units: n00Z (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3666
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3667
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 3668
+// Units: n010 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3669
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3670
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 3671
+// Units: n011 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3672
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3673
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 3674
+// Units: n012 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3675
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3676
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 3677
+// Units: n013 (Citizen), Name (Name)
+{
+시민
+}
+
+STRING 3678
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+평범한 시민입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 3679
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 3690
+{
+|cffffcc00임무 실패|r
+}
+
+STRING 3703
+// Destructibles: B000 (Snowpile), EditorSuffix (Editor Suffix)
+{
+(절벽)
+}
+
+STRING 3704
+// Units: u007 (Teron Gorefiend), Casterupgradetip (Caster Upgrade Tips)
+{
+- 어둠의 손길|n- 시체 되살리기,- 어둠의 손길|n- 시체 되살리기|n- 죽음의 고리|n-부정의 갑옷,- 어둠의 손길|n- 시체 되살리기|n- 죽음의 고리|n-부정의 갑옷|n- 죽음과 부패|n- 가속,- 어둠의 손길|n- 시체 되살리기|n- 죽음의 고리|n-부정의 갑옷|n- 죽음과 부패|n- 가속|n- 회오리바람
+}
+
+STRING 3705
+// Units: u007 (Teron Gorefiend), Casterupgradename (Caster Upgrade Names)
+{
+수습생, 숙련자, 대가, 강령술사
+}
+
+STRING 3706
+// Units: u007 (Teron Gorefiend), Ubertip (Tooltip - Extended)
+{
+죽음의 마법사이며 강령술과 암흑 마법의 대가입니다.
+능력: 시체 되살리기 - 죽음의 고리 - 부정의 갑옷 - 가속 - 죽음과 부패 - 회오리바람
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 3707
+// Units: h005 (Human Frigate), Ubertip (Tooltip - Extended)
+{
+공중 유닛으로 부터 함대를 보호하는 다용도 전투 함선입니다.
+능력: 관통 화살
+
+|cffffcc00지상, 해상 및 공중 유닛 공격 가능|r
+
+|cffffcc00요구 사항|r 700 |cffffcc00석유|r
+}
+
+STRING 3708
+// Units: U006 (Warlock), Awakentip (Tooltip - Awaken)
+{
+굴단 부활
+}
+
+STRING 3709
+// Units: U006 (Warlock), Revivetip (Tooltip - Revive)
+{
+굴단 부활
+}
+
+STRING 3710
+// Units: U006 (Warlock), Ubertip (Tooltip - Extended)
+{
+최초이자 가장 강력한 오크 흑마법사 굴단은 엄청난 지옥마력의 힘을 가졌지만, 악마의 타락이라는 대가를 치렀습니다. 그의 힘은 그의 야망과 계략에 뒤지지 않습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 3711
+// Units: U006 (Warlock), Tip (Tooltip - Basic)
+{
+흑마법사
+}
+
+STRING 3712
+// Units: U006 (Warlock), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 3713
+{
+|cffffcc00선택 퀘스트 실패|r   
+얼라이언스 야영지
+  - |cffff0000대족장의 군대가 도착하기 전에 얼라이언스 야영지를 파괴해야 합니다. (실패)|r 
+}
+
+STRING 3714
+{
+|cffffcc00선택 퀘스트 완료|r   
+얼라이언스 야영지
+}
+
+STRING 3715
+{
+|cffffcc00주 퀘스트 완료|r   
+스트라솔름
+}
+
+STRING 3716
+{
+|cffffcc00주 퀘스트 완료|r   
+스트라솔름 항구
+  - |c00C0C0C0얼라이언스의 석유 굴착대를 파괴해야 합니다. (완료)|r
+  - 얼라이언스의 해군 건물을 파괴해야 합니다.
+}
+
+STRING 3717
+{
+|cffffcc00주 퀘스트 완료|r   
+스트라솔름 항구
+  - 얼라이언스의 석유 굴착대를 파괴해야 합니다.
+  - |c00C0C0C0얼라이언스의 해군 건물을 파괴해야 합니다. (완료)|r
+}
+
+STRING 3718
+{
+호드의 도착까지:
+}
+
+STRING 3719
+{
+|cffffcc00선택 퀘스트|r   
+얼라이언스 야영지
+  - 대족장의 군대가 도착하기 전에 얼라이언스 야영지를 파괴해야 합니다.
+}
+
+STRING 3720
+{
+|cffffcc00선택 퀘스트|r
+꽈광!
+  - 스트라솔름 성벽에서 취약한 곳을 찾아내야 합니다. (3곳 중 0곳 폭파)
+}
+
+STRING 3721
+{
+꽈광!
+}
+
+STRING 3722
+{
+취약한 곳 발견
+}
+
+STRING 3723
+{
+황혼의 망치 부족
+}
+
+STRING 3724
+{
+은빛 성기사단
+}
+
+STRING 3725
+// Items: I0La (WC2Orc10Doomhammer1), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3726
+// Items: I0La (WC2Orc10Doomhammer1), Description (Description)
+{
+좋아. 나의 전사들은 이 전투를 오랫동안 기다려왔다. 이제 기다림의 보상을 받을 때가 됐다.
+}
+
+STRING 3727
+// Items: I0La (WC2Orc10Doomhammer1), Name (Name)
+{
+WC2Orc10Doomhammer1
+}
+
+STRING 3728
+// Items: I0Lb (WC2Orc10Doomhammer2), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3729
+// Items: I0Lb (WC2Orc10Doomhammer2), Description (Description)
+{
+오늘 우리는 로데론의 석유 생산의 중심부를 공격한다. 스트라솔름을 무너뜨리면 얼라이언스의 전쟁 수행 능력이 마비될 것이며, 우리의 최종 목표인 로데론의 수도로 가는 길이 열릴 것이다!
+}
+
+STRING 3730
+// Items: I0Lb (WC2Orc10Doomhammer2), Name (Name)
+{
+WC2Orc10Doomhammer2
+}
+
+STRING 3731
+// Items: I0Lc (WC2Orc10Doomhammer3), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3732
+// Items: I0Lc (WC2Orc10Doomhammer3), Description (Description)
+{
+스트라솔름의 관문을 돌파하고 인간들에게 호드의 분노를 폭발시켜라!
+}
+
+STRING 3733
+// Items: I0Lc (WC2Orc10Doomhammer3), Name (Name)
+{
+WC2Orc10Doomhammer3
+}
+
+STRING 3734
+// Items: I0Ld (WC2Orc10Doomhammer4), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3735
+// Items: I0Ld (WC2Orc10Doomhammer4), Description (Description)
+{
+좋다, 그럼 그들은 명예롭게 죽겠군, 흑마법사여. 비켜서라. 이제 진정한 전사들이 활약할 때다. 안 그런가?
+}
+
+STRING 3736
+// Items: I0Ld (WC2Orc10Doomhammer4), Name (Name)
+{
+WC2Orc10Doomhammer4
+}
+
+STRING 3737
+// Items: I0Le (WC2Orc10Doomhammer5), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3738
+// Items: I0Le (WC2Orc10Doomhammer5), Description (Description)
+{
+공격하라, 전사들이여! 호드를 위하여!
+}
+
+STRING 3739
+// Items: I0Le (WC2Orc10Doomhammer5), Name (Name)
+{
+WC2Orc10Doomhammer5
+}
+
+STRING 3740
+// Items: I0Lf (WC2Orc10Doomhammer6), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3741
+// Items: I0Lf (WC2Orc10Doomhammer6), Description (Description)
+{
+그래서 하고 싶은 말이 뭐지, 흑마법사?
+}
+
+STRING 3742
+// Items: I0Lf (WC2Orc10Doomhammer6), Name (Name)
+{
+WC2Orc10Doomhammer6
+}
+
+STRING 3743
+// Items: I0Lg (WC2Orc10Doomhammer7), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3744
+// Items: I0Lg (WC2Orc10Doomhammer7), Description (Description)
+{
+네가 무릎 꿇고 살려달라고 애원하던 건 기억난다... 굴단, 내 인내심이 거의 바닥났으니 빨리 말해라...
+}
+
+STRING 3745
+// Items: I0Lg (WC2Orc10Doomhammer7), Name (Name)
+{
+WC2Orc10Doomhammer7
+}
+
+STRING 3746
+// Items: I0Lh (WC2Orc10Doomhammer8), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3747
+// Items: I0Lh (WC2Orc10Doomhammer8), Description (Description)
+{
+넌 위험한 마법에 손을 댔다, 굴단... 하지만 이 "죽음의 기사"들이 네 말처럼 강력하고 호드에 충성한다면 네 쓸모가 증명될 것이다. 이제... 이 불사의 기사들의 힘을 시험해 보자고...
+}
+
+STRING 3748
+// Items: I0Lh (WC2Orc10Doomhammer8), Name (Name)
+{
+WC2Orc10Doomhammer8
+}
+
+STRING 3749
+// Items: I0Li (WC2Orc10Doomhammer9), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3750
+// Items: I0Li (WC2Orc10Doomhammer9), Description (Description)
+{
+스트라솔름이 함락되면서 이 전쟁의 승리는 마침내 우리의 손아귀에 들어왔다. 우리가 로데론의 수도를 파괴하고 줄진이 쿠엘탈라스를 불태우면, 우리를 대적할 세력은 아무도 남지 않을 것이다!
+}
+
+STRING 3751
+// Items: I0Li (WC2Orc10Doomhammer9), Name (Name)
+{
+WC2Orc10Doomhammer9
+}
+
+STRING 3752
+// Items: I0Lj (WC2Orc10Doomhammer10), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3753
+// Items: I0Lj (WC2Orc10Doomhammer10), Description (Description)
+{
+그렇게 되면 마침내, 우리는 이 세계에서 오크와 우리와 함께 한 용기가 있는 자들에게 긍지있고 영광스러운 미래를 선사할 수 있다!
+}
+
+STRING 3754
+// Items: I0Lj (WC2Orc10Doomhammer10), Name (Name)
+{
+WC2Orc10Doomhammer10
+}
+
+STRING 3755
+// Items: I0Lk (WC2Orc10Doomhammer11), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 3756
+// Items: I0Lk (WC2Orc10Doomhammer11), Description (Description)
+{
+호드에 영광을! 승리가 아니면 죽음을!
+}
+
+STRING 3757
+// Items: I0Lk (WC2Orc10Doomhammer11), Name (Name)
+{
+WC2Orc10Doomhammer11
+}
+
+STRING 3758
+// Items: I0Lm (WC2Orc10THGuldan1), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3759
+// Items: I0Lm (WC2Orc10THGuldan1), Description (Description)
+{
+이 도시는 얼라이언스 최강의 군대가 지키고 있습니다, 대족장님. 맹목적으로 성문을 공격하는 것만으로는 충분하지 않습니다... 스트라솔름의 수호자들은 죽을 때까지 싸울 것입니다.
+}
+
+STRING 3760
+// Items: I0Lm (WC2Orc10THGuldan1), Name (Name)
+{
+WC2Orc10THGuldan1
+}
+
+STRING 3761
+// Items: I0Ln (WC2Orc10THGuldan2), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3762
+// Items: I0Ln (WC2Orc10THGuldan2), Description (Description)
+{
+...지당하신 말씀입니다, 대족장님.
+}
+
+STRING 3763
+// Items: I0Ln (WC2Orc10THGuldan2), Name (Name)
+{
+WC2Orc10THGuldan2
+}
+
+STRING 3764
+// Items: I0Lo (WC2Orc10THGuldan3), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3765
+// Items: I0Lo (WC2Orc10THGuldan3), Description (Description)
+{
+대족장님도 보시다시피 스트라솔름의 방어벽은 상당히 견고합니다. 무력만으로는 이 성벽을 뚫을 수 없습니다.
+}
+
+STRING 3766
+// Items: I0Lo (WC2Orc10THGuldan3), Name (Name)
+{
+WC2Orc10THGuldan3
+}
+
+STRING 3767
+// Items: I0Lp (WC2Orc10THGuldan4), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3768
+// Items: I0Lp (WC2Orc10THGuldan4), Description (Description)
+{
+오늘 우리가 승리를 맛보려면... 다른 방법을 모색해야 합니다.
+}
+
+STRING 3769
+// Items: I0Lp (WC2Orc10THGuldan4), Name (Name)
+{
+WC2Orc10THGuldan4
+}
+
+STRING 3770
+// Items: I0Lq (WC2Orc10THGuldan5), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3771
+// Items: I0Lq (WC2Orc10THGuldan5), Description (Description)
+{
+제가 집권 초기에 했던 약속을 기억하십니까?
+}
+
+STRING 3772
+// Items: I0Lq (WC2Orc10THGuldan5), Name (Name)
+{
+WC2Orc10THGuldan5
+}
+
+STRING 3773
+// Items: I0Lr (WC2Orc10THGuldan6), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3774
+// Items: I0Lr (WC2Orc10THGuldan6), Description (Description)
+{
+어둠의 기수입니다, 대족장이시여, 강력한 마법을 다루는 이 언데드들이 당신의 적들에게 파멸을 안겨줄 것이라고 약속드렸습니다.
+}
+
+STRING 3775
+// Items: I0Lr (WC2Orc10THGuldan6), Name (Name)
+{
+WC2Orc10THGuldan6
+}
+
+STRING 3776
+// Items: I0Ls (WC2Orc10THGuldan7), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3777
+// Items: I0Ls (WC2Orc10THGuldan7), Description (Description)
+{
+당신의 전사들이 내 어둠의 의회 대부분을 죽인 후, 나는 살아남은 강령사들의 도움을 받아 이 기수들을 만들려고 했지만... 그들은 시체에 진정한 의식을 불어넣는 데 실패했습니다.
+}
+
+STRING 3778
+// Items: I0Ls (WC2Orc10THGuldan7), Name (Name)
+{
+WC2Orc10THGuldan7
+}
+
+STRING 3779
+// Items: I0Lt (WC2Orc10THGuldan8), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3780
+// Items: I0Lt (WC2Orc10THGuldan8), Description (Description)
+{
+그때 저는 깨달았습니다... 다른 방법이 있다는 것을...
+}
+
+STRING 3781
+// Items: I0Lt (WC2Orc10THGuldan8), Name (Name)
+{
+WC2Orc10THGuldan8
+}
+
+STRING 3782
+// Items: I0Lu (WC2Orc10THGuldan9), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3783
+// Items: I0Lu (WC2Orc10THGuldan9), Description (Description)
+{
+그건 바로 의식은 희생 없이 성공할 수 없다는 것입니다...
+}
+
+STRING 3784
+// Items: I0Lu (WC2Orc10THGuldan9), Name (Name)
+{
+WC2Orc10THGuldan9
+}
+
+STRING 3785
+// Items: I0Lv (WC2Orc10THGuldan10), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3786
+// Items: I0Lv (WC2Orc10THGuldan10), Description (Description)
+{
+테론고르, 내 제자여, 이제 그 필멸의 그릇을 떠날 때가 되었다.
+}
+
+STRING 3787
+// Items: I0Lv (WC2Orc10THGuldan10), Name (Name)
+{
+WC2Orc10THGuldan10
+}
+
+STRING 3788
+// Items: I0Lw (WC2Orc10THGuldan11), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3789
+// Items: I0Lw (WC2Orc10THGuldan11), Description (Description)
+{
+모든 장기말엔 때가 있는 법, 테론, 오늘은 네 차례다... 실패한 강령사들의 영혼과 함께해라... 이제 이 선물을 받아들여라, 네 운명을 쟁취하라, 죽음의 기사여!
+}
+
+STRING 3790
+// Items: I0Lw (WC2Orc10THGuldan11), Name (Name)
+{
+WC2Orc10THGuldan11
+}
+
+STRING 3791
+// Items: I0Lx (WC2Orc10THGuldan12), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3792
+// Items: I0Lx (WC2Orc10THGuldan12), Description (Description)
+{
+이제 이 죽은 자의 영혼으로 적의 쓰러진 기사들을 우리의 하인으로 만들 수 있습니다. 그 모습은 인간 형제들의 가슴을 찢고... 그들의 영혼에 공포로 가득 채울 것입니다!
+}
+
+STRING 3793
+// Items: I0Lx (WC2Orc10THGuldan12), Name (Name)
+{
+WC2Orc10THGuldan12
+}
+
+STRING 3794
+// Items: I0Ly (WC2Orc10THGuldan13), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3795
+// Items: I0Ly (WC2Orc10THGuldan13), Description (Description)
+{
+스트라솔름은 인간에게 가장 성스러운 도시로 알려져 있습니다. 나의 죽음의 기사들이 이곳을 더럽히고 모든 인간들의 마음에 진정한 공포를 가져다줄 것입니다. 도시 전체를... 쓸어버릴 것입니다.
+}
+
+STRING 3796
+// Items: I0Ly (WC2Orc10THGuldan13), Name (Name)
+{
+WC2Orc10THGuldan13
+}
+
+STRING 3797
+// Items: I0Lz (WC2Orc10THGuldan14), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3798
+// Items: I0Lz (WC2Orc10THGuldan14), Description (Description)
+{
+우리는 북쪽으로 이동할 것이다, 내 제자여. 쿠엘탈라스에 내 계획의 다음 단계를 위해 필요한 것이 있으니.
+}
+
+STRING 3799
+// Items: I0Lz (WC2Orc10THGuldan14), Name (Name)
+{
+WC2Orc10THGuldan14
+}
+
+STRING 3800
+// Items: I0LA (WC2Orc10THGuldan15), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3801
+// Items: I0LA (WC2Orc10THGuldan15), Description (Description)
+{
+병사들을 모아라... 줄진을 "증원"할 시간이다.
+}
+
+STRING 3802
+// Items: I0LA (WC2Orc10THGuldan15), Name (Name)
+{
+WC2Orc10THGuldan15
+}
+
+STRING 3803
+// Items: I0LB (WC2Orc10Guldan_MaraEncounter1), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 3804
+// Items: I0LB (WC2Orc10Guldan_MaraEncounter1), Description (Description)
+{
+아, 아제로스인의 생존자로군... 네 쓰러진 형제들처럼 죽음을 맞이하라!
+}
+
+STRING 3805
+// Items: I0LB (WC2Orc10Guldan_MaraEncounter1), Name (Name)
+{
+WC2Orc10Guldan_MaraEncounter1
+}
+
+STRING 3806
+// Items: I0LC (WC2Orc10THgrunt1), Tip (Tooltip - Basic)
+{
+광신도
+}
+
+STRING 3807
+// Items: I0LC (WC2Orc10THgrunt1), Description (Description)
+{
+네, 족장님!
+}
+
+STRING 3808
+// Items: I0LC (WC2Orc10THgrunt1), Name (Name)
+{
+WC2Orc10THgrunt1
+}
+
+STRING 3809
+// Items: I0LD (WC2Orc10THgrunt3), Tip (Tooltip - Basic)
+{
+광신도
+}
+
+STRING 3811
+// Items: I0LD (WC2Orc10THgrunt3), Name (Name)
+{
+WC2Orc10THgrunt3
+}
+
+STRING 3812
+// Items: I0LE (WC2Orc10THGrunt_intro1), Tip (Tooltip - Basic)
+{
+광신도
+}
+
+STRING 3813
+// Items: I0LE (WC2Orc10THGrunt_intro1), Description (Description)
+{
+우리는 명령하신 대로 지도를 따라갔습니다, 초갈 족장님. 저희는…
+}
+
+STRING 3814
+// Items: I0LE (WC2Orc10THGrunt_intro1), Name (Name)
+{
+WC2Orc10THGrunt_intro1
+}
+
+STRING 3815
+// Items: I0LF (WC2Orc10THGrunt_Walls1), Tip (Tooltip - Basic)
+{
+광신도
+}
+
+STRING 3816
+// Items: I0LF (WC2Orc10THGrunt_Walls1), Description (Description)
+{
+족장님! 성벽을 통과할 수 없습니다!
+}
+
+STRING 3817
+// Items: I0LF (WC2Orc10THGrunt_Walls1), Name (Name)
+{
+WC2Orc10THGrunt_Walls1
+}
+
+STRING 3818
+// Items: I0LG (WC2Orc10Utok_WallQuest1), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 3819
+// Items: I0LG (WC2Orc10Utok_WallQuest1), Description (Description)
+{
+고블린 비행선을 이용해 성벽을 뚫을 수 있는 취약한 곳을 찾아야 합니다.
+}
+
+STRING 3820
+// Items: I0LG (WC2Orc10Utok_WallQuest1), Name (Name)
+{
+WC2Orc10Utok_WallQuest1
+}
+
+STRING 3821
+// Items: I0LH (GoblinSapperWhat301), Tip (Tooltip - Basic)
+{
+고블린 공병
+}
+
+STRING 3822
+// Items: I0LH (GoblinSapperWhat301), Description (Description)
+{
+철거할 게 있어?
+}
+
+STRING 3823
+// Items: I0LH (GoblinSapperWhat301), Name (Name)
+{
+GoblinSapperWhat301
+}
+
+STRING 3824
+// Items: I0LI (WC2Orc10Terongor1), Tip (Tooltip - Basic)
+{
+테론고르
+}
+
+STRING 3825
+// Items: I0LI (WC2Orc10Terongor1), Description (Description)
+{
+뭐라고?! 안 됩니다! 주인님!
+}
+
+STRING 3826
+// Items: I0LI (WC2Orc10Terongor1), Name (Name)
+{
+WC2Orc10Terongor1
+}
+
+STRING 3827
+// Items: I0LJ (WC2Orc10Alonsus_Interlude1), Tip (Tooltip - Basic)
+{
+알론서스 파올
+}
+
+STRING 3828
+// Items: I0LJ (WC2Orc10Alonsus_Interlude1), Description (Description)
+{
+도시는 함락되었다... 그 사악한 흑마법사가 또 승리했군. 우리에게 남은 선택은 두 가지다... 남아서 최후의 1인과 싸우거나 수도로 후퇴하거나.
+}
+
+STRING 3829
+// Items: I0LJ (WC2Orc10Alonsus_Interlude1), Name (Name)
+{
+WC2Orc10Alonsus_Interlude1
+}
+
+STRING 3830
+// Items: I0LK (WC2Orc10Alonsus_Interlude2), Tip (Tooltip - Basic)
+{
+알론서스 파올
+}
+
+STRING 3831
+// Items: I0LK (WC2Orc10Alonsus_Interlude2), Description (Description)
+{
+북녘골이 다시 반복되고 있어... 제발, 더 이상 너희를 잃고 싶지 않구나...
+}
+
+STRING 3832
+// Items: I0LK (WC2Orc10Alonsus_Interlude2), Name (Name)
+{
+WC2Orc10Alonsus_Interlude2
+}
+
+STRING 3833
+// Items: I0LM (WC2Orc10Alonsus_Interlude3), Tip (Tooltip - Basic)
+{
+알론서스 파올
+}
+
+STRING 3834
+// Items: I0LM (WC2Orc10Alonsus_Interlude3), Description (Description)
+{
+빛이 너를 지켜주길 바란다, 아이야.
+}
+
+STRING 3835
+// Items: I0LM (WC2Orc10Alonsus_Interlude3), Name (Name)
+{
+WC2Orc10Alonsus_Interlude3
+}
+
+STRING 3836
+// Items: I0LN (WC2Orc10MaraFordragon_BossFight1), Tip (Tooltip - Basic)
+{
+마라 폴드라곤
+}
+
+STRING 3837
+// Items: I0LN (WC2Orc10MaraFordragon_BossFight1), Description (Description)
+{
+와라... 이 야만인들아! 빛의 분노를 맛보라!
+}
+
+STRING 3838
+// Items: I0LN (WC2Orc10MaraFordragon_BossFight1), Name (Name)
+{
+WC2Orc10MaraFordragon_BossFight1
+}
+
+STRING 3839
+// Items: I0LO (WC2Orc10MaraFordragon_BossFight2), Tip (Tooltip - Basic)
+{
+마라 폴드라곤
+}
+
+STRING 3841
+// Items: I0LO (WC2Orc10MaraFordragon_BossFight2), Name (Name)
+{
+WC2Orc10MaraFordragon_BossFight2
+}
+
+STRING 3842
+// Items: I0LP (WC2Orc10MaraFordragon_Encounter1), Tip (Tooltip - Basic)
+{
+마라 폴드라곤
+}
+
+STRING 3843
+// Items: I0LP (WC2Orc10MaraFordragon_Encounter1), Description (Description)
+{
+네놈! 네놈이 북녘골과 고귀한 시민들을 모독한 걸 기억한다, 흑마법사! 네 부정한 군대는 이곳에서 쓰러질 것이다.
+}
+
+STRING 3844
+// Items: I0LP (WC2Orc10MaraFordragon_Encounter1), Name (Name)
+{
+WC2Orc10MaraFordragon_Encounter1
+}
+
+STRING 3845
+// Items: I0LQ (WC2Orc10MaraFordragon_Interlude1), Tip (Tooltip - Basic)
+{
+마라 폴드라곤
+}
+
+STRING 3846
+// Items: I0LQ (WC2Orc10MaraFordragon_Interlude1), Description (Description)
+{
+우리는 너무 오랫동안 도망쳤습니다… 이제 더는 도망치지 않을 겁니다! 하지만 여러분은 은빛 성기사단의 기둥입니다… 여러분의 손에 우리의 미래가 달려 있습니다.
+}
+
+STRING 3847
+// Items: I0LQ (WC2Orc10MaraFordragon_Interlude1), Name (Name)
+{
+WC2Orc10MaraFordragon_Interlude1
+}
+
+STRING 3848
+// Items: I0LR (WC2Orc10MaraFordragon_Interlude2), Tip (Tooltip - Basic)
+{
+마라 폴드라곤
+}
+
+STRING 3849
+// Items: I0LR (WC2Orc10MaraFordragon_Interlude2), Description (Description)
+{
+빛은 이번 생에서도, 다음 생에서도 우리와 함께 할 겁니다, 파올 님. 이제... 모그레인 경과 함께 가십시오, 저는 저들을 막겠습니다.
+}
+
+STRING 3850
+// Items: I0LR (WC2Orc10MaraFordragon_Interlude2), Name (Name)
+{
+WC2Orc10MaraFordragon_Interlude2
+}
+
+STRING 3851
+// Items: I0LS (WC2Orc10Mograine_Encounter1), Tip (Tooltip - Basic)
+{
+알렉산드로스 모그레인
+}
+
+STRING 3852
+// Items: I0LS (WC2Orc10Mograine_Encounter1), Description (Description)
+{
+스트라솔름은 로데론의 심장부이자 가장 성스러운 성역이다... 너희의 존재 자체가 이 땅을 더럽히고 있다, 괴물들아, 더는 더럽히지 마라!
+}
+
+STRING 3853
+// Items: I0LS (WC2Orc10Mograine_Encounter1), Name (Name)
+{
+WC2Orc10Mograine_Encounter1
+}
+
+STRING 3854
+// Items: I0LT (WC2Orc10Mograine_Interlude1), Tip (Tooltip - Basic)
+{
+알렉산드로스 모그레인
+}
+
+STRING 3855
+// Items: I0LT (WC2Orc10Mograine_Interlude1), Description (Description)
+{
+자네의 이름은 은빛 성기사단의 모든 기사들의 기억 속에 영원히 남을 거야, 용감한 마라... 안녕히...
+}
+
+STRING 3856
+// Items: I0LT (WC2Orc10Mograine_Interlude1), Name (Name)
+{
+WC2Orc10Mograine_Interlude1
+}
+
+STRING 3857
+// Items: I0LU (WC2Orc10HumanArcher_Oil1), Tip (Tooltip - Basic)
+{
+궁수
+}
+
+STRING 3858
+// Items: I0LU (WC2Orc10HumanArcher_Oil1), Description (Description)
+{
+통로에 기름을 붓고 이 짐승들을 불태워버리자!
+}
+
+STRING 3859
+// Items: I0LU (WC2Orc10HumanArcher_Oil1), Name (Name)
+{
+WC2Orc10HumanArcher_Oil1
+}
+
+STRING 3860
+// Items: I0LV (WC2Orc10Gorefiend1), Tip (Tooltip - Basic)
+{
+테론 고어핀드
+}
+
+STRING 3861
+// Items: I0LV (WC2Orc10Gorefiend1), Description (Description)
+{
+나는... 나는 달라졌다... 내 안에 힘이 느껴진다! 나는 이제 영원하다... 나는 죽음 그 자체이다... 나는 이제... 테론 고어핀드다!
+}
+
+STRING 3862
+// Items: I0LV (WC2Orc10Gorefiend1), Name (Name)
+{
+WC2Orc10Gorefiend1
+}
+
+STRING 3863
+// Items: I0LW (WC2Orc10Footman1), Tip (Tooltip - Basic)
+{
+대장
+}
+
+STRING 3864
+// Items: I0LW (WC2Orc10Footman1), Description (Description)
+{
+오크들이다!
+}
+
+STRING 3865
+// Items: I0LW (WC2Orc10Footman1), Name (Name)
+{
+WC2Orc10Footman1
+}
+
+STRING 3866
+// Items: I0LX (WC2Orc10Footman2), Tip (Tooltip - Basic)
+{
+보병
+}
+
+STRING 3867
+// Items: I0LX (WC2Orc10Footman2), Description (Description)
+{
+내가 불을 지피면 안 된다고 말했잖아!
+}
+
+STRING 3868
+// Items: I0LX (WC2Orc10Footman2), Name (Name)
+{
+WC2Orc10Footman2
+}
+
+STRING 3869
+// Items: I0LY (WC2Orc10Kobold1), Tip (Tooltip - Basic)
+{
+코볼트
+}
+
+STRING 3870
+// Items: I0LY (WC2Orc10Kobold1), Description (Description)
+{
+이 금광은 내꺼야! 내꺼! 너 양초 못 가져간다!
+}
+
+STRING 3871
+// Items: I0LY (WC2Orc10Kobold1), Name (Name)
+{
+WC2Orc10Kobold1
+}
+
+STRING 3872
+// Items: I0LZ (WC2Orc10Chogall_intro1), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3873
+// Items: I0LZ (WC2Orc10Chogall_intro1), Description (Description)
+{
+|cffffcc00초:|r 의도대로 스트라솔름 근처에 상륙했지만...
+|cffffcc00갈:|r 이 멍청한 놈들이 이 땅을 먼저 조사하는 걸 잊었어! 여기에 기지를 지을 순 없어!
+}
+
+STRING 3874
+// Items: I0LZ (WC2Orc10Chogall_intro1), Name (Name)
+{
+WC2Orc10Chogall_intro1
+}
+
+STRING 3875
+// Items: I0L0 (WC2Orc10Chogall_intro2), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3876
+// Items: I0L0 (WC2Orc10Chogall_intro2), Description (Description)
+{
+|cffffcc00초:|r 닥치지 않으면 네놈의 내장을 꺼내서 도로 먹여버릴 거다!
+|cffffcc00갈:|r 근처에 고블린 무리가 있어, 존재가 느껴진다. 먼저 그들을 모집하자 그러면 금광을 찾도록 도와줄 거야.
+}
+
+STRING 3877
+// Items: I0L0 (WC2Orc10Chogall_intro2), Name (Name)
+{
+WC2Orc10Chogall_intro2
+}
+
+STRING 3878
+// Items: I0L1 (WC2Orc10Chogall_intro3), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3879
+// Items: I0L1 (WC2Orc10Chogall_intro3), Description (Description)
+{
+|cffffcc00초:|r 알겠나?
+}
+
+STRING 3880
+// Items: I0L1 (WC2Orc10Chogall_intro3), Name (Name)
+{
+WC2Orc10Chogall_intro3
+}
+
+STRING 3881
+// Items: I0L2 (WC2Orc10ChoGall1), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3882
+// Items: I0L2 (WC2Orc10ChoGall1), Description (Description)
+{
+|cffffcc00초:|r 대족장의 군대가 스트라솔름으로 진군하고 있다.
+|cffffcc00갈:|r 우리는 주둔지를 구축하고, 방어를 준비하고, 식량 창고를 채우는 임무를 맡았어!
+}
+
+STRING 3883
+// Items: I0L2 (WC2Orc10ChoGall1), Name (Name)
+{
+WC2Orc10ChoGall1
+}
+
+STRING 3884
+// Items: I0L3 (WC2Orc10ChoGall2), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3885
+// Items: I0L3 (WC2Orc10ChoGall2), Description (Description)
+{
+|cffffcc00초:|r 대규모 석유 수송선이 도시에서 출발할 준비를 하고 있다는 정찰병의 보고가 있었다.
+|cffffcc00갈:|r 수송선을 탈취하고 석유 굴착대를 불태우고 스트라솔름의 항구를 파괴하자!
+}
+
+STRING 3886
+// Items: I0L3 (WC2Orc10ChoGall2), Name (Name)
+{
+WC2Orc10ChoGall2
+}
+
+STRING 3887
+// Items: I0L4 (WC2Orc10ChoGall4), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3888
+// Items: I0L4 (WC2Orc10ChoGall4), Description (Description)
+{
+|cffffcc00초:|r 인정할 수 없다! |cffffcc00갈:|r 고블린을 이용해, 이 멍청한 놈들아!
+}
+
+STRING 3889
+// Items: I0L4 (WC2Orc10ChoGall4), Name (Name)
+{
+WC2Orc10ChoGall4
+}
+
+STRING 3890
+// Items: I0L5 (WC2Orc10ChoGall5), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3891
+// Items: I0L5 (WC2Orc10ChoGall5), Description (Description)
+{
+|cffffcc00초:|r 성기사 놈들이 전사를 강화하는 힘의 장소가 느껴진다. |cffffcc00갈:|r 이곳을 더럽히면 그 힘을 역이용할 수 있어!
+}
+
+STRING 3892
+// Items: I0L5 (WC2Orc10ChoGall5), Name (Name)
+{
+WC2Orc10ChoGall5
+}
+
+STRING 3893
+// Items: I0L6 (WC2Orc10ChoGall6), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3894
+// Items: I0L6 (WC2Orc10ChoGall6), Description (Description)
+{
+|cffffcc00초:|r 모든 준비가 끝났습니다, 대족장님.
+|cffffcc00갈:|r 요구하신 대로 스트라솔름에 대한 공격을 즉시 시작할 수 있어요!
+}
+
+STRING 3895
+// Items: I0L6 (WC2Orc10ChoGall6), Name (Name)
+{
+WC2Orc10ChoGall6
+}
+
+STRING 3896
+// Items: I0L7 (WC2Orc10ChoGall7), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 3897
+// Items: I0L7 (WC2Orc10ChoGall7), Description (Description)
+{
+|cffffcc00초:|r 주인님, 이제 어떻게 하실 겁니까?
+|cffffcc00갈:|r 둠해머와 그의 군대가 곧 서쪽으로 이동할 거에요.
+}
+
+STRING 3898
+// Items: I0L7 (WC2Orc10ChoGall7), Name (Name)
+{
+WC2Orc10ChoGall7
+}
+
+STRING 3899
+{
+힘의 성역
+}
+
+STRING 3900
+{
+도시 근처에 성기사의 성역이 있습니다. 성역을 타락시키고 힘을 얻으십시오.
+}
+
+STRING 3901
+{
+힘의 성역을 점령해야 합니다.
+}
+
+STRING 3902
+// Items: I0LD (WC2Orc10THgrunt3), Description (Description)
+{
+힘의 성역을 점령했습니다!
+}
+
+STRING 3903
+// Items: I1LD (WC2Orc10THgrunt4), Tip (Tooltip - Basic)
+{
+광신도
+}
+
+STRING 3904
+// Items: I1LD (WC2Orc10THgrunt4), Description (Description)
+{
+힘의 성역을 빼앗겼습니다!
+}
+
+STRING 3905
+// Items: I1LD (WC2Orc10THgrunt4), Name (Name)
+{
+WC2Orc10THgrunt4
+}
+
+STRING 3906
+// Items: I0LO (WC2Orc10MaraFordragon_BossFight2), Description (Description)
+{
+볼바르, 빛 안에서 우리는 하나...
+}
+
+STRING 3907
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 3908
+{
+|cffffcc00치트 비활성화!|r
+}
+
+STRING 3909
+{
+|cffffcc00치트 활성화!|r
+}
+
+STRING 3910
+{
+|cffffcc00치트 비활성화!|r
+}
+
+STRING 3911
+// Items: IQL0 (Filson the Rat), Tip (Tooltip - Basic)
+{
+그런트
+}
+
+STRING 3912
+// Items: IQL0 (Filson the Rat), Description (Description)
+{
+궁병
+}
+
+STRING 3913
+// Items: IQL0 (Filson the Rat), Name (Name)
+{
+배신자 필슨
+}
+
+STRING 3914
+// Items: IQL0 (Filson the Rat), Ubertip (Tooltip - Extended)
+{
+아군 대상은 지옥불 정령만 가능합니다.
+}

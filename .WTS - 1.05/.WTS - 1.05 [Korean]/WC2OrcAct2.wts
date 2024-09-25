@@ -1,0 +1,2072 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 2
+{
+Force 1
+}
+
+STRING 3
+{
+WC2OrcAct2
+}
+
+STRING 6
+// Doodads: DRst (- Stalagmite), Name (Name)
+{
+- 석순
+}
+
+STRING 7
+// Doodads: D000 (- Rocks 1), Name (Name)
+{
+- 바위 1
+}
+
+STRING 8
+// Doodads: D001 (- Rocks 5), Name (Name)
+{
+- 바위 5
+}
+
+STRING 9
+// Doodads: D003 (- Rocks 2), Name (Name)
+{
+- 바위 2
+}
+
+STRING 10
+// Doodads: D004 (- Rocks 3), Name (Name)
+{
+- 바위 3
+}
+
+STRING 11
+// Doodads: D005 (- Rocks 4), Name (Name)
+{
+- 바위 4
+}
+
+STRING 12
+// Destructibles: B002 (- Volcano), Name (Name)
+{
+- 화산
+}
+
+STRING 18
+// Units: o000 (Blackrock Grunt), Name (Name)
+{
+검은바위 그런트
+}
+
+STRING 19
+// Units: O001 (Orgrim), Name (Name)
+{
+오그림
+}
+
+STRING 20
+// Units: n000 (Ogre), Name (Name)
+{
+오우거
+}
+
+STRING 22
+// Doodads: DRrk (- Rocks), Name (Name)
+{
+- 바위
+}
+
+STRING 23
+// Doodads: D006 (- Banner Orc), Name (Name)
+{
+- 오크 깃발
+}
+
+STRING 24
+// Units: o002 (Catapult), Name (Name)
+{
+투석기
+}
+
+STRING 25
+// Units: O001 (Orgrim), Propernames (Proper Names)
+{
+오그림
+}
+
+STRING 29
+// Units: n001 (Axe Thrower), Name (Name)
+{
+도끼투척병
+}
+
+STRING 39
+// Units: u000 (Dummy), Name (Name)
+{
+더미
+}
+
+STRING 42
+// Destructibles: LTrc (- Black_rock), Name (Name)
+{
+- 검은바위
+}
+
+STRING 43
+// Destructibles: Ytsc (-Scorched Tree Wall), Name (Name)
+{
+- 그을린 나무 벽
+}
+
+STRING 44
+// Doodads: D007 (- Support Collum), Name (Name)
+{
+- 지지 기둥
+}
+
+STRING 45
+// Doodads: D008 (- IRON ALTAR (building)), Name (Name)
+{
+- 철 제단 (건물)
+}
+
+STRING 46
+// Doodads: D009 (- Rock Archway), Name (Name)
+{
+- 바위 아치길
+}
+
+STRING 47
+// Doodads: D00A (- Stone Archway), Name (Name)
+{
+- 돌 아치길
+}
+
+STRING 48
+// Doodads: D00B (- Hanging Cage), Name (Name)
+{
+- 매달려있는 우리
+}
+
+STRING 49
+// Doodads: D00C (- STONE WALL DOOR (building)), Name (Name)
+{
+- 돌벽 문 (건물)
+}
+
+STRING 50
+// Doodads: D00D (- STONE WALL Lantern (building)), Name (Name)
+{
+- 돌벽 랜턴 (건물)
+}
+
+STRING 51
+// Doodads: D00E (- STONE WALL cube (building)), Name (Name)
+{
+- 돌벽 큐브 (건물)
+}
+
+STRING 52
+// Doodads: D00F (- STONE WALL short (building)), Name (Name)
+{
+- 돌벽 짧음 (건물)
+}
+
+STRING 53
+// Doodads: D00G (- STONE WALL Rubble (building)), Name (Name)
+{
+- 돌벽 돌무더기 (건물)
+}
+
+STRING 54
+// Doodads: D00H (- STONE WALL (building)), Name (Name)
+{
+- 돌벽 (건물)
+}
+
+STRING 55
+// Doodads: D00J (- CLEAN WALL (building)), Name (Name)
+{
+- 깔끔한 벽 (건물)
+}
+
+STRING 56
+// Doodads: D00K (- Bones), Name (Name)
+{
+- 뼈
+}
+
+STRING 57
+// Doodads: D00L (-Flame Grate), Name (Name)
+{
+- 화염 쇠살대
+}
+
+STRING 59
+// Doodads: D00N (- Grave (building)), Name (Name)
+{
+- 무덤 (건물)
+}
+
+STRING 60
+// Doodads: D00I (- GLOW), Name (Name)
+{
+- 발광
+}
+
+STRING 61
+// Doodads: D00O (- STONE  HOUSE block (building)), Name (Name)
+{
+- 돌 집 구역 (건물)
+}
+
+STRING 62
+// Doodads: D00P (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 63
+// Doodads: D00Q (-Flame Grate), Name (Name)
+{
+- 화염 쇠살대
+}
+
+STRING 64
+// Doodads: D00R (- STONE WALL cube (building)), Name (Name)
+{
+- 돌벽 큐브 (건물)
+}
+
+STRING 66
+// Doodads: D00T (- Stalagmite UPSIDE), Name (Name)
+{
+- 석순 위로 향함
+}
+
+STRING 67
+// Doodads: D00U (-Flame Magma), Name (Name)
+{
+- 마그마 불꽃
+}
+
+STRING 68
+// Doodads: D00V (- Bookshelf), Name (Name)
+{
+- 책장
+}
+
+STRING 69
+// Doodads: D00W (- Throne), Name (Name)
+{
+- 왕좌
+}
+
+STRING 70
+// Doodads: D00X (- Firepit), Name (Name)
+{
+- 화덕
+}
+
+STRING 71
+// Doodads: D00Y (- Tent (building)), Name (Name)
+{
+- 천막 (건물)
+}
+
+STRING 72
+// Doodads: D00Z (- Tent (building)), Name (Name)
+{
+- 천막 (건물)
+}
+
+STRING 73
+// Doodads: D010 (- Rocks VALLEY 5), Name (Name)
+{
+- 바위 계곡 5
+}
+
+STRING 74
+// Doodads: D011 (- Rock Spires CLIFFS), Name (Name)
+{
+- 바위 첨탑 절벽
+}
+
+STRING 75
+// Doodads: D012 (- Rocks VALLEY 5), Name (Name)
+{
+- 바위 계곡 5
+}
+
+STRING 76
+// Doodads: D013 (- Rocks VALLEY 5), Name (Name)
+{
+- 바위 계곡 5
+}
+
+STRING 77
+// Doodads: D014 (-Cliff doodad), Name (Name)
+{
+- 절벽 장식품
+}
+
+STRING 78
+// Doodads: D015 (- Cliff_01), Name (Name)
+{
+- 절벽 01
+}
+
+STRING 79
+// Doodads: D016 (- Cliff_02), Name (Name)
+{
+- 절벽 02
+}
+
+STRING 80
+// Doodads: D017 (- Cliff_03), Name (Name)
+{
+- 절벽 03
+}
+
+STRING 81
+// Doodads: D018 (- Cliff_04), Name (Name)
+{
+- 절벽 04
+}
+
+STRING 82
+// Doodads: D019 (- Cliff_06), Name (Name)
+{
+- 절벽 06
+}
+
+STRING 83
+// Doodads: D01A (- Cliff_05), Name (Name)
+{
+- 절벽 05
+}
+
+STRING 85
+// Doodads: D01B (- Cliff_Small_01), Name (Name)
+{
+- 절벽 소형 01
+}
+
+STRING 86
+// Doodads: D01C (- Cliff_Small_03), Name (Name)
+{
+- 절벽 소형 03
+}
+
+STRING 87
+// Doodads: D01D (- Cliff_Small_02), Name (Name)
+{
+- 절벽 소형 02
+}
+
+STRING 88
+// Doodads: D01E (- Cliff_Small_03), Name (Name)
+{
+- 절벽 소형 03
+}
+
+STRING 89
+// Units: o000 (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(조그만한)
+}
+
+STRING 90
+// Units: o004 (Blackrock Grunt), Name (Name)
+{
+검은바위 그런트
+}
+
+STRING 91
+// Units: o004 (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(일반)
+}
+
+STRING 92
+// Doodads: D01F (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 97
+// Units: o005 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(일반)
+}
+
+STRING 99
+// Units: o006 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(조그만한)
+}
+
+STRING 100
+// Units: o007 (WatchTowers), Name (Name)
+{
+감시탑
+}
+
+STRING 101
+// Doodads: D01J (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 102
+// Doodads: D01K (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 103
+// Doodads: D01L (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 104
+// Doodads: D01M (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 105
+// Doodads: D01N (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 106
+// Doodads: D01O (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 107
+// Doodads: D01P (- BUILDING (building)), Name (Name)
+{
+- 건물 (건물)
+}
+
+STRING 108
+// Doodads: D01Q (- ROCKS), Name (Name)
+{
+- 바위
+}
+
+STRING 109
+// Doodads: D01R (-Flame Magma), Name (Name)
+{
+- 마그마 불꽃
+}
+
+STRING 110
+// Destructibles: B000 (-Scorched Tree Wall), Name (Name)
+{
+- 그을린 나무 벽
+}
+
+STRING 111
+// Doodads: D01S (- SMUDGE), Name (Name)
+{
+- 그을음
+}
+
+STRING 112
+{
+제2막: 카즈 모단
+}
+
+STRING 115
+// Units: o003 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(대형)
+}
+
+STRING 118
+// Doodads: D01T (- Ogre Shape), Name (Name)
+{
+- 오우거 모양
+}
+
+STRING 119
+// Doodads: D00S (- Giant Chains 1), Name (Name)
+{
+- 거대한 사슬 1
+}
+
+STRING 120
+// Doodads: D01U (- Giant Chains 2), Name (Name)
+{
+- 거대한 사슬 2
+}
+
+STRING 121
+// Destructibles: B005 (- Drummer), Name (Name)
+{
+- 북 연주자
+}
+
+STRING 123
+// Units: o008 (Saurfang), EditorSuffix (Name - Editor Suffix)
+{
+(조그만한 - 느림)
+}
+
+STRING 125
+// Doodads: D01W (- Windows 1), Name (Name)
+{
+- 창문 1
+}
+
+STRING 126
+// Units: o009 (Kor'kron Guard), Name (Name)
+{
+코르크론 경비병
+}
+
+STRING 127
+// Units: o009 (Kor'kron Guard), EditorSuffix (Name - Editor Suffix)
+{
+(일반)
+}
+
+STRING 128
+// Units: ogrk (Saurfang), Name (Name)
+{
+사울팽
+}
+
+STRING 129
+// Units: o005 (Saurfang), Name (Name)
+{
+사울팽
+}
+
+STRING 130
+// Units: o006 (Saurfang), Name (Name)
+{
+사울팽
+}
+
+STRING 131
+// Units: o003 (Saurfang), Name (Name)
+{
+사울팽
+}
+
+STRING 132
+// Units: o008 (Saurfang), Name (Name)
+{
+사울팽
+}
+
+STRING 133
+// Units: o00A (Axe), Name (Name)
+{
+도끼
+}
+
+STRING 136
+// Doodads: D00M (- Iron Spikes), Name (Name)
+{
+- 철 가시
+}
+
+STRING 137
+// Doodads: D01X (- Map of Khaz Modan), Name (Name)
+{
+- 카즈 모단 지도
+}
+
+STRING 138
+// Doodads: D01Y (- Metal Picture Dwarf), Name (Name)
+{
+- 금속 부조 드워프
+}
+
+STRING 139
+// Doodads: D01Z (- Metal Picture Elemental), Name (Name)
+{
+- 금속 부조 정령
+}
+
+STRING 140
+// Units: o00C (Doomhammer), Name (Name)
+{
+둠해머
+}
+
+STRING 155
+// Units: h000 (Head Orientation Helper), Name (Name)
+{
+머리 방향 도우미
+}
+
+STRING 159
+// Doodads: D01G (Snowy Mountains), Name (Name)
+{
+눈 덮힌 산맥
+}
+
+STRING 160
+// Doodads: D01H (Grassy Mountains), Name (Name)
+{
+우거진 산맥
+}
+
+STRING 161
+// Doodads: D01I (Far Mountains), Name (Name)
+{
+먼 산맥
+}
+
+STRING 162
+// Doodads: D020 (Lava Plane), Name (Name)
+{
+용암 표면
+}
+
+STRING 163
+// Doodads: D021 (Distant Land Wallpaper Alpes), Name (Name)
+{
+먼 땅 월페이퍼 알프스
+}
+
+STRING 164
+{
+LoreCraftDesigns
+}
+
+STRING 165
+// Doodads: D022 (Mountain01), Name (Name)
+{
+산01
+}
+
+STRING 166
+// Doodads: D023 (Mountain03), Name (Name)
+{
+산03
+}
+
+STRING 167
+// Doodads: D024 (Mountain02), Name (Name)
+{
+산02
+}
+
+STRING 168
+// Units: O00B (Troll Chieftain), Name (Name)
+{
+트롤 족장
+}
+
+STRING 169
+// Units: O00B (Troll Chieftain), Propernames (Proper Names)
+{
+줄진
+}
+
+STRING 170
+// Units: O00B (Troll Chieftain), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 171
+// Units: O00B (Troll Chieftain), Tip (Tooltip - Basic)
+{
+트롤 족장
+}
+
+STRING 172
+// Units: O00B (Troll Chieftain), Revivetip (Tooltip - Revive)
+{
+트롤 족장 부활
+}
+
+STRING 173
+// Units: O00B (Troll Chieftain), Awakentip (Tooltip - Awaken)
+{
+트롤 족장 부활
+}
+
+STRING 174
+// Units: O00B (Troll Chieftain), Ubertip (Tooltip - Extended)
+{
+줄진은 아마니 숲트롤의 전쟁 군주입니다. 강력하고 사나운 트롤인 줄진은 쿠엘탈라스의 하이 엘프에 대해 엄청난 증오심을 품고 있으며, 이 증오심 때문에 외계의 침략자 오크와의 뜻밖의 동맹을 맺게 되었습니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 175
+// Doodads: D025 (Mountain04), Name (Name)
+{
+산04
+}
+
+STRING 176
+// Units: O00D (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 177
+// Units: O00D (Warlord), Propernames (Proper Names)
+{
+달렌드 블랙핸드
+}
+
+STRING 178
+// Units: O00D (Warlord), Name (Name)
+{
+전쟁군주
+}
+
+STRING 179
+// Units: O00D (Warlord), Awakentip (Tooltip - Awaken)
+{
+전쟁군주 부활
+}
+
+STRING 180
+// Units: O00D (Warlord), Tip (Tooltip - Basic)
+{
+전쟁군주
+}
+
+STRING 181
+// Units: O00D (Warlord), Revivetip (Tooltip - Revive)
+{
+전쟁군주 부활
+}
+
+STRING 182
+// Units: O00D (Warlord), Ubertip (Tooltip - Extended)
+{
+달렌드 블랙핸드는 오크 호드의 전 대족장이었던 파괴자 블랙핸드의 장남입니다. 아버지가 오그림 둠해머의 손에 제거된 후, 렌드는 동생 마임과 함께 검은이빨 부족의 최전방 정예 전사를 이끌고 있습니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 183
+// Units: O00E (Warlord), Name (Name)
+{
+전쟁군주
+}
+
+STRING 184
+// Units: O00E (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(도보)
+}
+
+STRING 185
+// Units: O00E (Warlord), Propernames (Proper Names)
+{
+렌드 블랙핸드
+}
+
+STRING 186
+// Units: U001 (Warlock), Propernames (Proper Names)
+{
+굴단
+}
+
+STRING 187
+// Units: U001 (Warlock), Awakentip (Tooltip - Awaken)
+{
+흑마법사 부활 (|cffffcc00W|r)
+}
+
+STRING 188
+// Units: U001 (Warlock), Tip (Tooltip - Basic)
+{
+흑마법사 (|cffffcc00W|r)
+}
+
+STRING 189
+// Units: U001 (Warlock), Revivetip (Tooltip - Revive)
+{
+흑마법사 부활 (|cffffcc00W|r)
+}
+
+STRING 190
+// Units: U001 (Warlock), Name (Name)
+{
+흑마법사
+}
+
+STRING 191
+// Units: U001 (Warlock), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 192
+// Units: O00F (Ogre Magi), Propernames (Proper Names)
+{
+초갈
+}
+
+STRING 193
+// Units: O00F (Ogre Magi), Name (Name)
+{
+오우거 마법사
+}
+
+STRING 194
+// Units: O00F (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+오우거 마법사 부활 (|cffffcc00O|r)
+}
+
+STRING 195
+// Units: O00F (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+오우거 마법사 부활 (|cffffcc00O|r)
+}
+
+STRING 196
+// Units: O00F (Ogre Magi), Ubertip (Tooltip - Extended)
+{
+Герой Орды, обладающий несокрушимым здоровьем и не знающий себе равных в рукопашном бою. Способен выучить заклинания ''Волна Силы'', ''Громовая поступь'', ''Выносливо_
+}
+
+STRING 197
+// Units: O00F (Ogre Magi), Tip (Tooltip - Basic)
+{
+오우거 마법사 (|cffffcc00O|r)
+}
+
+STRING 198
+// Units: N003 (Varok), Name (Name)
+{
+바로크
+}
+
+STRING 199
+// Units: N003 (Varok), Propernames (Proper Names)
+{
+바로크
+}
+
+STRING 200
+// Units: o00G (Teron'Gor), Name (Name)
+{
+테론고르
+}
+
+STRING 201
+// Units: O00H (Chieftan), Propernames (Proper Names)
+{
+킬로그 데드아이
+}
+
+STRING 202
+// Units: O00H (Chieftan), Name (Name)
+{
+족장
+}
+
+STRING 203
+// Units: O00H (Chieftan), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 204
+// Units: O00H (Chieftan), Awakentip (Tooltip - Awaken)
+{
+족장 부활 (|cffffcc00C|r)
+}
+
+STRING 205
+// Units: O00H (Chieftan), Revivetip (Tooltip - Revive)
+{
+족장 부활 (|cffffcc00C|r)
+}
+
+STRING 206
+// Units: O00H (Chieftan), Tip (Tooltip - Basic)
+{
+족장 (|cffffcc00C|r)
+}
+
+STRING 207
+// Units: o00I (Eitrigg), Name (Name)
+{
+아이트리그
+}
+
+STRING 208
+// Units: o00J (Tharbek), Name (Name)
+{
+타벡
+}
+
+STRING 209
+// Units: o00K (Utok Scratcher), Name (Name)
+{
+우톡 스크래처
+}
+
+STRING 210
+// Units: o00K (Utok Scratcher), Ubertip (Tooltip - Extended)
+{
+|cffffcc001레벨 수습병|r
+
+우톡 스크래처는 검은바위 부족의 무자비한 사령관 오그림 둠해머의 수습 주술사이자 수석 고문입니다. 제2차 대전쟁 당시 호드의 행적을 기록한 로데론의 지배를 저술한 장본인입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 211
+// Units: o00K (Utok Scratcher), Tip (Tooltip - Basic)
+{
+수습병
+}
+
+STRING 212
+// Units: O00L (Shaman), Propernames (Proper Names)
+{
+늙은 줄루헤드
+}
+
+STRING 213
+// Units: O00L (Shaman), Name (Name)
+{
+주술사
+}
+
+STRING 214
+// Units: O00L (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 215
+// Units: O00L (Shaman), Awakentip (Tooltip - Awaken)
+{
+주술사 (|cffffcc00S|r)
+}
+
+STRING 216
+// Units: O00L (Shaman), Revivetip (Tooltip - Revive)
+{
+주술사 부활 (|cffffcc00S|r)
+}
+
+STRING 217
+// Units: O00L (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 218
+// Units: O00L (Shaman), Tip (Tooltip - Basic)
+{
+주술사 부활 (|cffffcc00S|r)
+}
+
+STRING 219
+// Units: O00M (Warlock), Propernames (Proper Names)
+{
+네크로스 스컬크러셔
+}
+
+STRING 220
+// Units: O00M (Warlock), Tip (Tooltip - Basic)
+{
+흑마법사 (|cffffcc00W|r)
+}
+
+STRING 221
+// Units: O00M (Warlock), Awakentip (Tooltip - Awaken)
+{
+흑마법사 부활 (|cffffcc00W|r)
+}
+
+STRING 222
+// Units: O00M (Warlock), Revivetip (Tooltip - Revive)
+{
+흑마법사 부활 (|cffffcc00W|r)
+}
+
+STRING 223
+// Units: o00N (Kor'kron Guard), Name (Name)
+{
+코르크론 경비병
+}
+
+STRING 224
+// Units: o00N (Kor'kron Guard), EditorSuffix (Name - Editor Suffix)
+{
+(오우거)
+}
+
+STRING 313
+// Units: O00P (Samuro), Name (Name)
+{
+사무로
+}
+
+STRING 325
+// Units: N004 (Goblin Trade Prince), Name (Name)
+{
+고블린 무역왕
+}
+
+STRING 326
+// Destructibles: B001 (- Blackrock Gate), Name (Name)
+{
+- 검은바위 문
+}
+
+STRING 327
+// Doodads: D002 (- Volcano), Name (Name)
+{
+- 화산
+}
+
+STRING 328
+// Units: n005 (Hobgoblin), Name (Name)
+{
+밥통고블린
+}
+
+STRING 330
+// Units: n006 (Hobgoblin), Name (Name)
+{
+밥통고블린
+}
+
+STRING 332
+// Doodads: D026 (- Orange Glow), Name (Name)
+{
+- 주황색 발광
+}
+
+STRING 333
+// Units: n007 (Zeppelin 2), Name (Name)
+{
+비행선 2
+}
+
+STRING 334
+// Units: n008 (Zeppelin 1), Name (Name)
+{
+비행선 1
+}
+
+STRING 335
+// Units: n009 (Zeppelin 1 b), Name (Name)
+{
+비행선 1 b
+}
+
+STRING 336
+// Doodads: D027 (- Fake Sky), Name (Name)
+{
+- 가짜 하늘
+}
+
+STRING 337
+// Destructibles: B003 (Chest of Gold), Name (Name)
+{
+금 상자
+}
+
+STRING 338
+// Doodads: D028 (- Metal Picture Elemental (angle)), Name (Name)
+{
+- 금속 부조 정령 (기울어짐)
+}
+
+STRING 339
+// Doodads: D029 (- Metal Picture Dwarf (angle)), Name (Name)
+{
+- 금속 부조 드워프 (기울어짐)
+}
+
+STRING 340
+// Units: n005 (Hobgoblin), EditorSuffix (Name - Editor Suffix)
+{
+(호버트)
+}
+
+STRING 341
+// Units: n006 (Hobgoblin), EditorSuffix (Name - Editor Suffix)
+{
+(고버트)
+}
+
+STRING 342
+// Destructibles: B004 (- Light Yellow), Name (Name)
+{
+- 빛 노란색
+}
+
+STRING 343
+// Doodads: D02A (- Tower), Name (Name)
+{
+- 탑
+}
+
+STRING 344
+// Units: n00A (Anami Berserker), Name (Name)
+{
+아마니 광전사
+}
+
+STRING 345
+// Units: n00B (Amanishi Guardian), Name (Name)
+{
+아마니쉬 수호병
+}
+
+STRING 346
+// Units: o00O (Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(검은이빨 부족)
+}
+
+STRING 347
+// Units: n00C (Anami Troll), Name (Name)
+{
+아마니 트롤
+}
+
+STRING 349
+// Units: O00P (Samuro), EditorSuffix (Name - Editor Suffix)
+{
+(CSW)
+}
+
+STRING 350
+// Destructibles: B006 (- Table), Name (Name)
+{
+- 책상
+}
+
+STRING 351
+// Destructibles: B007 (- Map), Name (Name)
+{
+- 지도
+}
+
+STRING 352
+// Doodads: D01V (- Smoke), Name (Name)
+{
+- 연기
+}
+
+STRING 353
+// Items: I0L0 (WC2ORCACT02Chogall1), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 354
+// Items: I0L0 (WC2ORCACT02Chogall1), Description (Description)
+{
+|cffffcc00초:|r 저습지의 늪지를 통과하는 동안 호위가 필요할 것 같습니다.
+}
+
+STRING 355
+// Items: I0L0 (WC2ORCACT02Chogall1), Name (Name)
+{
+WC2ORCACT02Chogall1
+}
+
+STRING 356
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 357
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Description (Description)
+{
+우린 이미 스톰윈드 금고의 절반이나 줬다! 네가 제시한 가격은 제정신이 아니군!
+}
+
+STRING 358
+// Items: I0L1 (WC2ORCACT02Doomhammer1), Name (Name)
+{
+WC2ORCACT02Doomhammer1
+}
+
+STRING 359
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 360
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Description (Description)
+{
+입이 닳도록 말하는군... 하지만 가격은 현실적으로 반영해라, 고블린. 그렇지 않으면 대가를 치르게 될 거야...
+}
+
+STRING 361
+// Items: I0L2 (WC2ORCACT02Doomhammer2), Name (Name)
+{
+WC2ORCACT02Doomhammer2
+}
+
+STRING 362
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 363
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Description (Description)
+{
+두고 보시지... 스톰윈드 왕실 금화를 20,000개 줄 테니 이걸로 끝내지...
+}
+
+STRING 364
+// Items: I0L3 (WC2ORCACT02Doomhammer3), Name (Name)
+{
+WC2ORCACT02Doomhammer3
+}
+
+STRING 365
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 366
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Description (Description)
+{
+20,000개...
+}
+
+STRING 367
+// Items: I0L4 (WC2ORCACT02Doomhammer4), Name (Name)
+{
+WC2ORCACT02Doomhammer4
+}
+
+STRING 368
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 369
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Description (Description)
+{
+가격은 금화 20,000개다...
+}
+
+STRING 370
+// Items: I0L5 (WC2ORCACT02Doomhammer5), Name (Name)
+{
+WC2ORCACT02Doomhammer5
+}
+
+STRING 371
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 372
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Description (Description)
+{
+차라리 네놈의 머리통을 박살내고, 네 족속들을 노예로 삼은 다음, 네 재산을 빌지워터 무역회사에 넘겨야 겠군... 어떤가?
+}
+
+STRING 373
+// Items: I0L6 (WC2ORCACT02Doomhammer6), Name (Name)
+{
+WC2ORCACT02Doomhammer6
+}
+
+STRING 374
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 375
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Description (Description)
+{
+바로크, 금을.
+}
+
+STRING 376
+// Items: I0L7 (WC2ORCACT02Doomhammer6b), Name (Name)
+{
+WC2ORCACT02Doomhammer6b
+}
+
+STRING 377
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 378
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Description (Description)
+{
+좋다, 그들에게 걸맞은 예우로 맞이하지.
+}
+
+STRING 379
+// Items: I0L8 (WC2ORCACT02Doomhammer7), Name (Name)
+{
+WC2ORCACT02Doomhammer7
+}
+
+STRING 380
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 381
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Description (Description)
+{
+록타르, 블랙핸드의 아들이여... 그리고 강인한 줄진이여, 반갑다. 보고하라, 렌드.
+}
+
+STRING 382
+// Items: I0L9 (WC2ORCACT02Doomhammer8), Name (Name)
+{
+WC2ORCACT02Doomhammer8
+}
+
+STRING 383
+// Items: I0LA (WC2ORCACT02Doomhammer9), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 384
+// Items: I0LA (WC2ORCACT02Doomhammer9), Description (Description)
+{
+동료 전사를 돕게 되어 기쁘군. 자네가 붙잡혔다는 소식을 듣고 바로 렌드 블랙핸드를 보냈지.
+}
+
+STRING 385
+// Items: I0LA (WC2ORCACT02Doomhammer9), Name (Name)
+{
+WC2ORCACT02Doomhammer9
+}
+
+STRING 386
+// Items: I0LB (WC2ORCACT02Doomhammer11), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 387
+// Items: I0LB (WC2ORCACT02Doomhammer11), Description (Description)
+{
+일어나라 드레노어의 자손들이여! 강력한 아마니가 영광스러운 호드에 일원이 된 것을 환영하자!
+}
+
+STRING 388
+// Items: I0LB (WC2ORCACT02Doomhammer11), Name (Name)
+{
+WC2ORCACT02Doomhammer11
+}
+
+STRING 389
+// Items: I0LC (WC2ORCACT02Doomhammer12), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 390
+// Items: I0LC (WC2ORCACT02Doomhammer12), Description (Description)
+{
+잘했다, 렌드. 우톡 대장도 수고했다. 너희들의 노력 덕분에 우리가 로데론에서 맞닥뜨릴 상황을 파악하게 되었다. 이제 카즈 모단에 있는 우리 군대를 증강할 차례다.
+}
+
+STRING 391
+// Items: I0LC (WC2ORCACT02Doomhammer12), Name (Name)
+{
+WC2ORCACT02Doomhammer12
+}
+
+STRING 392
+// Items: I0LD (WC2ORCACT02Doomhammer13), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 393
+// Items: I0LD (WC2ORCACT02Doomhammer13), Description (Description)
+{
+좋아. 킬로그 데드아이, 네 부족은 버려진 드워프 요새 그림 바톨부터 시작해서 나머지 드워프 동부 지역에 공격을 시작해라.
+}
+
+STRING 394
+// Items: I0LD (WC2ORCACT02Doomhammer13), Name (Name)
+{
+WC2ORCACT02Doomhammer13
+}
+
+STRING 395
+// Items: I0LE (WC2ORCACT02Doomhammer14), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 396
+// Items: I0LE (WC2ORCACT02Doomhammer14), Description (Description)
+{
+바로크, 공성 무기와 고블린 폭탄, 검은바위 부족의 최정예 전사들이 주어질 테니 아이언포지로 진군하여 도시를 무너뜨려라. 어떤 대가를 치르더라도 그 도시는 반드시 함락해야 한다!
+}
+
+STRING 397
+// Items: I0LE (WC2ORCACT02Doomhammer14), Name (Name)
+{
+WC2ORCACT02Doomhammer14
+}
+
+STRING 398
+// Items: I0LF (WC2ORCACT02Doomhammer15), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 399
+// Items: I0LF (WC2ORCACT02Doomhammer15), Description (Description)
+{
+사무로, 아이언포지 공성전에 검은바위 군대를 지원해라.
+}
+
+STRING 400
+// Items: I0LF (WC2ORCACT02Doomhammer15), Name (Name)
+{
+WC2ORCACT02Doomhammer15
+}
+
+STRING 401
+// Items: I0LG (WC2ORCACT02Doomhammer16), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 402
+// Items: I0LG (WC2ORCACT02Doomhammer16), Description (Description)
+{
+드워프들은 고집이 세고 인내심이 강한 전사로 알려져 있다. 공성전의 장기화에 대비해라.
+}
+
+STRING 403
+// Items: I0LG (WC2ORCACT02Doomhammer16), Name (Name)
+{
+WC2ORCACT02Doomhammer16
+}
+
+STRING 404
+// Items: I0LH (WC2ORCACT02Doomhammer17), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 405
+// Items: I0LH (WC2ORCACT02Doomhammer17), Description (Description)
+{
+우리는 대륙의 동쪽 해안 지역도 확보해야 한다. 황혼의 망치 부족이 그곳으로 가서 석유 생산 시설을 준비해라... 우리의 "동맹" 고블린이 제공한 장비를 사용해서 말이야.
+}
+
+STRING 406
+// Items: I0LH (WC2ORCACT02Doomhammer17), Name (Name)
+{
+WC2ORCACT02Doomhammer17
+}
+
+STRING 407
+// Items: I0LI (WC2ORCACT02Doomhammer18), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 408
+// Items: I0LI (WC2ORCACT02Doomhammer18), Description (Description)
+{
+그동안, 검은이빨 부족은 톨 바라드 섬을 정복해야 한다. 섬을 장악하면, 폭풍약탈자 함대에게 발로르 섬에서 출발하여 인간 왕국 스톰가드로 진군하라는 신호를 보내라.
+}
+
+STRING 409
+// Items: I0LI (WC2ORCACT02Doomhammer18), Name (Name)
+{
+WC2ORCACT02Doomhammer18
+}
+
+STRING 410
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 411
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Description (Description)
+{
+줄루헤드, 자네와 나머지 용아귀 부족원들은 만약 문제가 발생하면 카즈 모단 서부의 있는 마임 블랙핸드를 지원하도록.
+}
+
+STRING 412
+// Items: I0LJ (WC2ORCACT02Doomhammer19), Name (Name)
+{
+WC2ORCACT02Doomhammer19
+}
+
+STRING 413
+// Items: I0LK (WC2ORCACT02Doomhammer20), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 414
+// Items: I0LK (WC2ORCACT02Doomhammer20), Description (Description)
+{
+장군과 전쟁군주는 물러가고, 흑마법사는 남아라.
+}
+
+STRING 415
+// Items: I0LK (WC2ORCACT02Doomhammer20), Name (Name)
+{
+WC2ORCACT02Doomhammer20
+}
+
+STRING 416
+// Items: I0LL (WC2ORCACT02Doomhammer21), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 417
+// Items: I0LL (WC2ORCACT02Doomhammer21), Description (Description)
+{
+굴단이 내게 약속한 전사에 대한 진전은 있나?
+}
+
+STRING 418
+// Items: I0LL (WC2ORCACT02Doomhammer21), Name (Name)
+{
+WC2ORCACT02Doomhammer21
+}
+
+STRING 419
+// Items: I0LM (WC2ORCACT02Doomhammer22), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 420
+// Items: I0LM (WC2ORCACT02Doomhammer22), Description (Description)
+{
+내 인내심은 한계가 있다, 흑마법사... 네 주인에게 똑같이 전해라...
+}
+
+STRING 421
+// Items: I0LM (WC2ORCACT02Doomhammer22), Name (Name)
+{
+WC2ORCACT02Doomhammer22
+}
+
+STRING 422
+// Items: I0LN (WC2ORCACT02Doomhammer23), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 423
+// Items: I0LN (WC2ORCACT02Doomhammer23), Description (Description)
+{
+네크로스, 넌 줄루헤드의 지휘를 받게 될 것이다. 만약 굴단과 접촉을 시도하면... 산 채로 삶아버릴 것이다... 알겠나?
+}
+
+STRING 424
+// Items: I0LN (WC2ORCACT02Doomhammer23), Name (Name)
+{
+WC2ORCACT02Doomhammer23
+}
+
+STRING 425
+// Items: I0LO (WC2ORCACT02Doomhammer24), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 426
+// Items: I0LO (WC2ORCACT02Doomhammer24), Description (Description)
+{
+초갈, 동쪽 해안의 석유 시설 건설을 직접 감독해라. 킬로그가 그림 바톨을 확보하는 대로 바로 출발하도록.
+}
+
+STRING 427
+// Items: I0LO (WC2ORCACT02Doomhammer24), Name (Name)
+{
+WC2ORCACT02Doomhammer24
+}
+
+STRING 428
+// Items: I0LP (WC2ORCACT02Doomhammer25), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 429
+// Items: I0LP (WC2ORCACT02Doomhammer25), Description (Description)
+{
+그건 내가 처리하지. 이제 물러가라.
+}
+
+STRING 430
+// Items: I0LP (WC2ORCACT02Doomhammer25), Name (Name)
+{
+WC2ORCACT02Doomhammer25
+}
+
+STRING 431
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 432
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Description (Description)
+{
+하지만 대족장님... 첨단 기술은 엄청나게 고가입니다! 비행선용 가스 생산이 얼마나 복잡한 과정인지 아십니까? 정제 필터, 펌프 장치, 폭발물 비용은 말할 것도 없고 말입니다. 전쟁은 결코 저렴한 사업이 아닙니다... 그리고 저희는 이미 상당한 할인을 해드리고 있다는 점을 고려해 주십시오!
+}
+
+STRING 433
+// Items: I0LQ (WC2ORCACT02Steamwheedle1), Name (Name)
+{
+WC2ORCACT02Steamwheedle1
+}
+
+STRING 434
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 435
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Description (Description)
+{
+이는 단순히 수요와 공급의 법칙일 뿐입니다, 대족장님. 우리도, 그리고 대족장님께서도 가격을 마음대로 정할 수 있는 입장이 아닙니다!
+}
+
+STRING 436
+// Items: I0LR (WC2ORCACT02Steamwheedle2), Name (Name)
+{
+WC2ORCACT02Steamwheedle2
+}
+
+STRING 437
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 438
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Description (Description)
+{
+30,000개...
+}
+
+STRING 439
+// Items: I0LS (WC2ORCACT02Steamwheedle3), Name (Name)
+{
+WC2ORCACT02Steamwheedle3
+}
+
+STRING 440
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 441
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Description (Description)
+{
+28,000개...
+}
+
+STRING 442
+// Items: I0LT (WC2ORCACT02Steamwheedle4), Name (Name)
+{
+WC2ORCACT02Steamwheedle4
+}
+
+STRING 443
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 444
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Description (Description)
+{
+27,000개...
+}
+
+STRING 445
+// Items: I0LU (WC2ORCACT02Steamwheedle5), Name (Name)
+{
+WC2ORCACT02Steamwheedle5
+}
+
+STRING 446
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 447
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Description (Description)
+{
+좋아요 좋아! 맙소사... 한 번 더 할인해 드리죠, 스톰윈드 왕실 금화로 20,000개입니다!
+}
+
+STRING 448
+// Items: I0LV (WC2ORCACT02Steamwheedle6), Name (Name)
+{
+WC2ORCACT02Steamwheedle6
+}
+
+STRING 449
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Tip (Tooltip - Basic)
+{
+무역왕 스팀휘들
+}
+
+STRING 450
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Description (Description)
+{
+이용해 주셔서 감사합니다! 최고의 기술자로 보내드리겠습니다, 대족장님!
+}
+
+STRING 451
+// Items: I0LW (WC2ORCACT02Steamwheedle7), Name (Name)
+{
+WC2ORCACT02Steamwheedle7
+}
+
+STRING 452
+// Items: I0LX (WC2ORCACT02Tharbek1), Tip (Tooltip - Basic)
+{
+타벡
+}
+
+STRING 453
+// Items: I0LX (WC2ORCACT02Tharbek1), Description (Description)
+{
+대족장님, 렌드 블랙핸드와 트롤 족장이 도착했습니다.
+}
+
+STRING 454
+// Items: I0LX (WC2ORCACT02Tharbek1), Name (Name)
+{
+WC2ORCACT02Tharbek1
+}
+
+STRING 455
+// Items: I0LY (WC2ORCACT02Rend1), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 456
+// Items: I0LY (WC2ORCACT02Rend1), Description (Description)
+{
+록타르, 대족장님! 아마니의 지도자, 전쟁군주 줄진을 소개하겠습니다.
+}
+
+STRING 457
+// Items: I0LY (WC2ORCACT02Rend1), Name (Name)
+{
+WC2ORCACT02Rend1
+}
+
+STRING 458
+// Items: I0LZ (WC2ORCACT02Rend2), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 459
+// Items: I0LZ (WC2ORCACT02Rend2), Description (Description)
+{
+트롤들은 우리에 갇혀 쇠사슬에 묶여 있었습니다. 인간들은 부주의했습니다... 숲속의 유일한 위협이 이미 잡아둔 트롤뿐이라고만 생각한 것 같습니다. 던홀드에서 우리를 목격한 자는 아무도 살아남지 못했습니다.
+}
+
+STRING 460
+// Items: I0LZ (WC2ORCACT02Rend2), Name (Name)
+{
+WC2ORCACT02Rend2
+}
+
+STRING 461
+// Items: I0Lz (WC2ORCACT02Rend3), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 462
+// Items: I0Lz (WC2ORCACT02Rend3), Description (Description)
+{
+언덕마루 마을은 초토화되었고, 인간 왕국 전역에 다가오는 파멸의 소문이 들불처럼 퍼져나가고 있습니다.
+}
+
+STRING 463
+// Items: I0Lz (WC2ORCACT02Rend3), Name (Name)
+{
+WC2ORCACT02Rend3
+}
+
+STRING 464
+// Items: I0Ly (WC2ORCACT02Zuljin1), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 465
+// Items: I0Ly (WC2ORCACT02Zuljin1), Description (Description)
+{
+자네의 전사들이 우리를 구했다. 우리는 남녘해안과 언덕마루에서 함께 싸웠지. 트롤이 자네의 호드와 함께하게 되어 영광이군.
+}
+
+STRING 466
+// Items: I0Ly (WC2ORCACT02Zuljin1), Name (Name)
+{
+WC2ORCACT02Zuljin1
+}
+
+STRING 467
+// Items: I0Lx (WC2ORCACT02Zuljin2), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 468
+// Items: I0Lx (WC2ORCACT02Zuljin2), Description (Description)
+{
+자네의 호드는 여전히 세계를 정복하려 하는가?
+}
+
+STRING 469
+// Items: I0Lx (WC2ORCACT02Zuljin2), Name (Name)
+{
+WC2ORCACT02Zuljin2
+}
+
+STRING 470
+// Items: I0Lw (WC2ORCACT02Zuljin3), Tip (Tooltip - Basic)
+{
+줄진
+}
+
+STRING 471
+// Items: I0Lw (WC2ORCACT02Zuljin3), Description (Description)
+{
+우린 호드를 도울 것이다. 호드가 우릴 도왔듯이 말이지. 운명이 우리에게 기회를 줬다. 분홍 살덩이들을 몰아내고, 우리 땅을 되찾고, 우리 족속을 위해 새로운 땅을 정복할 기회를! 이제 트롤과 오크는 동맹이다! 피로 맺어진 동맹 말이다!
+}
+
+STRING 472
+// Items: I0Lw (WC2ORCACT02Zuljin3), Name (Name)
+{
+WC2ORCACT02Zuljin3
+}
+
+STRING 473
+// Items: I0Lv (WC2ORCACT02Varok1), Tip (Tooltip - Basic)
+{
+바로크 사울팽
+}
+
+STRING 474
+// Items: I0Lv (WC2ORCACT02Varok1), Description (Description)
+{
+저기 있다, 고블린...
+}
+
+STRING 475
+// Items: I0Lv (WC2ORCACT02Varok1), Name (Name)
+{
+WC2ORCACT02Varok1
+}
+
+STRING 476
+// Items: I0Lu (WC2ORCACT02Varok2), Tip (Tooltip - Basic)
+{
+바로크 사울팽
+}
+
+STRING 477
+// Items: I0Lu (WC2ORCACT02Varok2), Description (Description)
+{
+지난 1년간 우리는 카즈 모단 대부분의 지역을 성공적으로 점령했습니다. 이제 우리에게 저항하는 곳은 동부 해안과 아이언포지 뿐입니다.
+}
+
+STRING 478
+// Items: I0Lu (WC2ORCACT02Varok2), Name (Name)
+{
+WC2ORCACT02Varok2
+}
+
+STRING 479
+// Items: I0Lt (WC2ORCACT02Varok3), Tip (Tooltip - Basic)
+{
+바로크 사울팽
+}
+
+STRING 480
+// Items: I0Lt (WC2ORCACT02Varok3), Description (Description)
+{
+반드시 성공시키겠습니다, 대족장님!
+}
+
+STRING 481
+// Items: I0Lt (WC2ORCACT02Varok3), Name (Name)
+{
+WC2ORCACT02Varok3
+}
+
+STRING 482
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Tip (Tooltip - Basic)
+{
+킬로그 데드아이
+}
+
+STRING 483
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Description (Description)
+{
+네, 대족장님. 저희 병사들은 준비돼 있습니다.
+}
+
+STRING 484
+// Items: I0Ls (WC2ORCACT02Kilrogg1), Name (Name)
+{
+WC2ORCACT02Kilrogg1
+}
+
+STRING 485
+// Items: I0Lr (WC2ORCACT02Samuro1), Tip (Tooltip - Basic)
+{
+사무로
+}
+
+STRING 486
+// Items: I0Lr (WC2ORCACT02Samuro1), Description (Description)
+{
+불타는 칼날 부족은 실망시키지 않을 것입니다, 대족장님.
+}
+
+STRING 487
+// Items: I0Lr (WC2ORCACT02Samuro1), Name (Name)
+{
+WC2ORCACT02Samuro1
+}
+
+STRING 488
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Tip (Tooltip - Basic)
+{
+늙은 줄루헤드
+}
+
+STRING 489
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Description (Description)
+{
+네, 대족장님.
+}
+
+STRING 490
+// Items: I0Lq (WC2ORCACT02Zuluhed1), Name (Name)
+{
+WC2ORCACT02Zuluhed1
+}
+
+STRING 491
+// Items: I0Lp (WC2ORCACT02TeronGor1), Tip (Tooltip - Basic)
+{
+테론고르
+}
+
+STRING 492
+// Items: I0Lp (WC2ORCACT02TeronGor1), Description (Description)
+{
+대족장님, 제발, 무례를 범하려는 것은 아니지만 조금만 더 인내심을 가져 주십시오. 굴단께서는 발로르 섬의 실험실에서 주어진 과업을 위해 온 힘을 다하고 계십니다.
+}
+
+STRING 493
+// Items: I0Lp (WC2ORCACT02TeronGor1), Name (Name)
+{
+WC2ORCACT02TeronGor1
+}
+
+STRING 494
+// Items: I0Lo (WC2ORCACT02TeronGor2), Tip (Tooltip - Basic)
+{
+테론고르
+}
+
+STRING 495
+// Items: I0Lo (WC2ORCACT02TeronGor2), Description (Description)
+{
+네, 대족장님.
+}
+
+STRING 496
+// Items: I0Lo (WC2ORCACT02TeronGor2), Name (Name)
+{
+WC2ORCACT02TeronGor2
+}
+
+STRING 498
+// Items: I0Ln (WC2ORCACT02Nekros), Description (Description)
+{
+명심하겠습니다, 대족장님.
+}
+
+STRING 499
+// Items: I0Ln (WC2ORCACT02Nekros), Name (Name)
+{
+WC2ORCACT02Nekros
+}
+
+STRING 500
+// Items: I1La (WC2ORCACT02Etrigg1), Tip (Tooltip - Basic)
+{
+아이트리그
+}
+
+STRING 501
+// Items: I1La (WC2ORCACT02Etrigg1), Description (Description)
+{
+크레스트폴에서의 대성공으로 카즈 모단의 서쪽 해안이 우리 것이 되었습니다. 던 알가즈에 있는 우리 군대는 바다를 통해 인간의 지원이 드워프에게 닿지 못하도록 차단할 것입니다. 로데론으로 가는 북쪽 통로는 던 모드르에 있는 우리 수비대에 의해 봉쇄되었습니다. 드워프들은 독 안에 든 쥐입니다.
+}
+
+STRING 502
+// Items: I1La (WC2ORCACT02Etrigg1), Name (Name)
+{
+WC2ORCACT02Etrigg1
+}
+
+STRING 503
+// Items: I0Ln (WC2ORCACT02Nekros), Tip (Tooltip - Basic)
+{
+네크로스 스컬크러셔
+}

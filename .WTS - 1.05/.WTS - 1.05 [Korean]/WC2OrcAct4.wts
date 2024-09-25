@@ -1,0 +1,1707 @@
+﻿STRING 1
+{
+WC2OrcAct4
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 4
+{
+Player 1
+}
+
+STRING 5
+{
+Force 1
+}
+
+STRING 6
+// Units: O000 (Gul'dan), Name (Name)
+{
+굴단
+}
+
+STRING 7
+// Units: O001 (Cho'gall), Name (Name)
+{
+초갈
+}
+
+STRING 9
+// Doodads: D016 (- Deck), Name (Name)
+{
+- 갑판
+}
+
+STRING 10
+// Doodads: D002 (- Room Wall), Name (Name)
+{
+- 방 벽
+}
+
+STRING 11
+// Doodads: D003 (- Wall 2), Name (Name)
+{
+- 벽 2
+}
+
+STRING 12
+// Doodads: D004 (- Wall 1), Name (Name)
+{
+- 벽 1
+}
+
+STRING 13
+// Doodads: D005 (- Ship Border), Name (Name)
+{
+- 선박 테두리
+}
+
+STRING 14
+// Doodads: D006 (- Water), Name (Name)
+{
+- 물
+}
+
+STRING 15
+// Units: o002 (Troll Destroyer), Name (Name)
+{
+트롤 구축함
+}
+
+STRING 16
+// Doodads: D007 (- Ceiling), Name (Name)
+{
+- 천장
+}
+
+STRING 17
+// Units: n004 (Ogre), Name (Name)
+{
+오우거
+}
+
+STRING 18
+// Units: oRS2 (Rune Shard 2), Name (Name)
+{
+룬 조각 2
+}
+
+STRING 19
+// Units: oRS1 (Rune Shard 1), Name (Name)
+{
+룬 조각 1
+}
+
+STRING 22
+// Units: o006 (Channel Target), Name (Name)
+{
+시전 대상
+}
+
+STRING 23
+// Destructibles: B000 (- Juggernaut Wheel), Name (Name)
+{
+- 돌격전함 바퀴
+}
+
+STRING 24
+// Doodads: D009 (- Water Splash 1), Name (Name)
+{
+- 물보라 1
+}
+
+STRING 30
+// Units: o007 (Channel Start), Name (Name)
+{
+시전 시작
+}
+
+STRING 31
+// Units: o008 (Channel Fel), Name (Name)
+{
+시전 지옥마법
+}
+
+STRING 32
+// Units: o009 (Fel Birth), Name (Name)
+{
+지옥마법 등장
+}
+
+STRING 34
+// Doodads: D00B (- Fel Effect), Name (Name)
+{
+- 지옥마법 효과
+}
+
+STRING 36
+// Doodads: D00C (- ToS Exterior Gate), Name (Name)
+{
+- ToS 외부 관문
+}
+
+STRING 37
+// Doodads: D00D (- ToS Exterior Main Tower), Name (Name)
+{
+- ToS 외부 주 탑
+}
+
+STRING 38
+// Doodads: D00E (- ToS Exterior Tower), Name (Name)
+{
+- ToS 외부 탑
+}
+
+STRING 39
+// Doodads: D00F (- ToS Wall), Name (Name)
+{
+- ToS 벽
+}
+
+STRING 40
+// Doodads: D00G (- ToS Wall Corner), Name (Name)
+{
+- ToS 벽 모퉁이
+}
+
+STRING 41
+// Doodads: D00H (- ToS Exterior Wall), Name (Name)
+{
+- ToS 외부 벽
+}
+
+STRING 42
+// Doodads: D00I (- Fel Ritual), Name (Name)
+{
+- 지옥마법 의식
+}
+
+STRING 43
+// Doodads: D00J (- Seaweed 2), Name (Name)
+{
+- 해초 2
+}
+
+STRING 44
+// Doodads: D00K (- Seaweed 1), Name (Name)
+{
+- 해초 1
+}
+
+STRING 45
+// Doodads: D00L (- Lantern), Name (Name)
+{
+- 제등
+}
+
+STRING 46
+// Doodads: D00M (- Rune Doodad), Name (Name)
+{
+- 룬 장식품
+}
+
+STRING 47
+// Units: o00B (Juggernaught), Name (Name)
+{
+돌격전함
+}
+
+STRING 50
+// Units: O001 (Cho'gall), Propernames (Proper Names)
+{
+초갈
+}
+
+STRING 54
+// Doodads: D00A (- Juggernaut Stationary), Name (Name)
+{
+- 고정된 돌격전함
+}
+
+STRING 55
+// Doodads: D00O (- Table Books), Name (Name)
+{
+- 책상
+}
+
+STRING 75
+// Doodads: D00P (- Rack), Name (Name)
+{
+- 선반
+}
+
+STRING 79
+// Doodads: D00Q (- Black), Name (Name)
+{
+- 검은색
+}
+
+STRING 81
+// Doodads: D00S (--- Terraining Circle), Name (Name)
+{
+--- 원형 지형
+}
+
+STRING 82
+// Doodads: D00T (- Waterfall Mini), Name (Name)
+{
+- 폭포 미니
+}
+
+STRING 83
+// Doodads: D00W (- ToS Column), Name (Name)
+{
+- ToS 기둥
+}
+
+STRING 84
+// Doodads: D00U (- ToS Statue), Name (Name)
+{
+- ToS 석상
+}
+
+STRING 85
+// Doodads: D00V (- ToS Stand), Name (Name)
+{
+- ToS 스탠드
+}
+
+STRING 86
+// Doodads: D00X (- Corals 3), Name (Name)
+{
+- 산호 3
+}
+
+STRING 87
+// Doodads: D00Y (- Corals 1), Name (Name)
+{
+- 산호 1
+}
+
+STRING 88
+// Doodads: D00Z (- Corals 4), Name (Name)
+{
+- 산호 4
+}
+
+STRING 89
+// Doodads: D010 (- Corals 2), Name (Name)
+{
+- 산호 2
+}
+
+STRING 90
+// Doodads: D011 (- Rocks), Name (Name)
+{
+- 바위
+}
+
+STRING 91
+// Doodads: D012 (- Corals 5), Name (Name)
+{
+- 산호 5
+}
+
+STRING 92
+// Doodads: D013 (- Corals 6), Name (Name)
+{
+- 산호 6
+}
+
+STRING 93
+{
+Player 2
+}
+
+STRING 94
+{
+Player 4
+}
+
+STRING 95
+// Units: o00E (Grunt on Boat), Name (Name)
+{
+배 위에 있는 그런트
+}
+
+STRING 96
+// Doodads: D014 (- ToS Statue (angled)), Name (Name)
+{
+- ToS 석상 (기울어짐)
+}
+
+STRING 97
+// Doodads: D015 (- Column Circle Ruined), Name (Name)
+{
+- 원형 기둥 폐허
+}
+
+STRING 98
+// Doodads: D001 (- Deck (Darker)), Name (Name)
+{
+- 갑판 (어두운)
+}
+
+STRING 101
+// Units: o00F (Fel Glow), Name (Name)
+{
+지옥마력 발광
+}
+
+STRING 102
+// Doodads: D018 (- Depthless Glow Orange), Name (Name)
+{
+- 깊이 없는 발광 주황색
+}
+
+STRING 103
+// Doodads: D019 (- Depthless Glow Green), Name (Name)
+{
+- 깊이 없는 발광 녹색
+}
+
+STRING 104
+// Doodads: D00R (- Depthless Glow Orange (Strong)), Name (Name)
+{
+- 깊이 없는 발광 주황색 (강함)
+}
+
+STRING 105
+// Doodads: D01A (- Wall 1 (out)), Name (Name)
+{
+- 벽 1 (외부)
+}
+
+STRING 106
+// Doodads: D01B (- Wall 2 (out)), Name (Name)
+{
+- 벽 2 (외부)
+}
+
+STRING 107
+// Doodads: D000 (- Juggernaut Sail), Name (Name)
+{
+- 돌격전함 돛
+}
+
+STRING 111
+// Doodads: D01C (- Cage), Name (Name)
+{
+- 우리
+}
+
+STRING 112
+// Doodads: D01D (- Runes), Name (Name)
+{
+- 룬
+}
+
+STRING 114
+// Units: o00A (Maelstrom), Name (Name)
+{
+혼돈의 소용돌이
+}
+
+STRING 115
+// Doodads: D008 (- Maelstrom), Name (Name)
+{
+- 혼돈의 소용돌이
+}
+
+STRING 116
+// Doodads: D01E (- Fel Ritual Start), Name (Name)
+{
+- 지옥마력 의식 시작
+}
+
+STRING 118
+// Doodads: D01G (- Foam), Name (Name)
+{
+- 거품
+}
+
+STRING 121
+// Doodads: D01I (- Seaweed), Name (Name)
+{
+- 해초
+}
+
+STRING 122
+// Doodads: D01J (- Ocean Wall), Name (Name)
+{
+- 바다 벽
+}
+
+STRING 123
+// Doodads: D01K (- Splash 2), Name (Name)
+{
+- 물보라 2
+}
+
+STRING 125
+// Units: o00K (Water), EditorSuffix (Name - Editor Suffix)
+{
+(낮음)
+}
+
+STRING 127
+// Units: o00J (Water), EditorSuffix (Name - Editor Suffix)
+{
+(높음)
+}
+
+STRING 128
+// Abilities: A004 (Rise), Name (Name)
+{
+솟아오르기
+}
+
+STRING 132
+// Units: o00J (Water), Name (Name)
+{
+물
+}
+
+STRING 133
+// Units: o00M (Main Tower), EditorSuffix (Name - Editor Suffix)
+{
+(높음)
+}
+
+STRING 134
+// Units: o00K (Water), Name (Name)
+{
+물
+}
+
+STRING 135
+// Units: o00L (Main Tower), EditorSuffix (Name - Editor Suffix)
+{
+(낮음)
+}
+
+STRING 136
+// Doodads: D01L (- ToS Window), Name (Name)
+{
+- ToS 창문
+}
+
+STRING 139
+// Units: o00L (Main Tower), Name (Name)
+{
+주 탑
+}
+
+STRING 140
+// Units: o00I (Terrain), EditorSuffix (Name - Editor Suffix)
+{
+(낮음)
+}
+
+STRING 141
+// Units: o00M (Main Tower), Name (Name)
+{
+주 탑
+}
+
+STRING 142
+// Units: o00H (Terrain), EditorSuffix (Name - Editor Suffix)
+{
+(높음)
+}
+
+STRING 145
+// Units: o00N (Fel Star), Name (Name)
+{
+지옥마력 별
+}
+
+STRING 146
+// Units: o00O (Fel Star Glow), Name (Name)
+{
+지옥마력 별 발광
+}
+
+STRING 147
+// Doodads: D01M (- Bubbles), Name (Name)
+{
+- 거품
+}
+
+STRING 148
+// Doodads: D01N (- Plankton), Name (Name)
+{
+- 플랑크톤
+}
+
+STRING 149
+// Doodads: D01O (- Drips), Name (Name)
+{
+- 떨어지는 물방울
+}
+
+STRING 150
+// Abilities: A006 (Drips (Tower)), Name (Name)
+{
+떨어지는 물방울 (탑)
+}
+
+STRING 151
+// Doodads: D01P (- Dome), Name (Name)
+{
+- 돔
+}
+
+STRING 152
+// Units: o00H (Terrain), Name (Name)
+{
+지형
+}
+
+STRING 153
+// Units: o00I (Terrain), Name (Name)
+{
+지형
+}
+
+STRING 154
+// Abilities: A004 (Rise), EditorSuffix (Editor Suffix)
+{
+(지형)
+}
+
+STRING 155
+// Units: o00P (Utok), Name (Name)
+{
+우톡
+}
+
+STRING 156
+// Units: o00Q (Utok), Name (Name)
+{
+우톡
+}
+
+STRING 157
+// Units: o00Q (Utok), EditorSuffix (Name - Editor Suffix)
+{
+(말 탑승중)
+}
+
+STRING 158
+// Doodads: D017 (- Depthless Glow Night 1), Name (Name)
+{
+- 깊이 없는 발광 밤 1
+}
+
+STRING 159
+// Doodads: D01F (- Depthless Glow Night 2), Name (Name)
+{
+- 깊이 없는 발광 밤 2
+}
+
+STRING 163
+// Doodads: D01S (- Farm Sign), Name (Name)
+{
+- 농장 표지판
+}
+
+STRING 164
+// Doodads: D01T (- Moon), Name (Name)
+{
+- 달
+}
+
+STRING 167
+// Destructibles: B001 (- WinterCliff), Name (Name)
+{
+- 겨울 절벽
+}
+
+STRING 168
+// Units: O000 (Gul'dan), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 169
+// Destructibles: B002 (- WinterCliff (small)), Name (Name)
+{
+- 겨울 절벽 (소형)
+}
+
+STRING 170
+// Units: O001 (Cho'gall), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 171
+// Destructibles: B003 (- WinterSnowCliff), Name (Name)
+{
+- 겨울 눈 절벽
+}
+
+STRING 172
+// Units: o002 (Troll Destroyer), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 173
+// Destructibles: B004 (- WinterSnowCliff (small)), Name (Name)
+{
+- 겨울 눈 절벽 (소형)
+}
+
+STRING 174
+// Units: o00B (Juggernaught), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 175
+// Doodads: D01Q (- Mountain03 (Act IV)), Name (Name)
+{
+- 산맥03 (제4막)
+}
+
+STRING 176
+// Doodads: D01R (- Mountain04 (Act IV)), Name (Name)
+{
+- 산맥04 (제4막)
+}
+
+STRING 177
+// Doodads: D01U (- Mountain02 (Act IV)), Name (Name)
+{
+- 산맥02 (제4막)
+}
+
+STRING 178
+// Doodads: D01V (- Mountain01 (Act IV)), Name (Name)
+{
+- 산맥01 (제4막)
+}
+
+STRING 179
+// Units: o00D (Peon), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 180
+// Units: o00P (Utok), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 181
+// Units: n004 (Ogre), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 182
+// Units: n006 (High Elf), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 183
+// Units: O00C (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 184
+// Units: O00G (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 185
+// Units: N007 (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 186
+// Units: o00S (Brute Blacktooth Grin), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 187
+// Units: O00C (Shaman), Propernames (Proper Names)
+{
+늙은 줄루헤드
+}
+
+STRING 188
+// Units: O00C (Shaman), Name (Name)
+{
+주술사
+}
+
+STRING 189
+// Units: O00C (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 190
+// Units: O00C (Shaman), Awakentip (Tooltip - Awaken)
+{
+주술사 (|cffffcc00S|r)
+}
+
+STRING 191
+// Units: O00C (Shaman), Revivetip (Tooltip - Revive)
+{
+주술사 부활 (|cffffcc00S|r)
+}
+
+STRING 192
+// Units: O00C (Shaman), Ubertip (Tooltip - Extended)
+{
+Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 193
+// Units: O00C (Shaman), Tip (Tooltip - Basic)
+{
+주술사 부활 (|cffffcc00S|r)
+}
+
+STRING 194
+// Units: O00G (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 195
+// Units: O00G (Warlord), Propernames (Proper Names)
+{
+달렌드 블랙핸드
+}
+
+STRING 196
+// Units: O00G (Warlord), Name (Name)
+{
+전쟁군주
+}
+
+STRING 197
+// Units: O00G (Warlord), Awakentip (Tooltip - Awaken)
+{
+전쟁군주 부활 (|cffffcc00R|r)
+}
+
+STRING 198
+// Units: O00G (Warlord), Tip (Tooltip - Basic)
+{
+전쟁군주 (|cffffcc00R|r)
+}
+
+STRING 199
+// Units: O00G (Warlord), Revivetip (Tooltip - Revive)
+{
+전쟁군주 부활 (|cffffcc00R|r)
+}
+
+STRING 200
+// Units: O00G (Warlord), Ubertip (Tooltip - Extended)
+{
+강력한 영웅으로, 적을 개별적으로 또는 개별 대형으로 공격하는 데 능숙합니다. "분쇄", "전투의 외침", "인내의 오라", "윤회"를 배울 수 있습니다.
+"그물덫" 능력을 보유하고 있습니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 201
+// Units: N007 (Warlord), Propernames (Proper Names)
+{
+마임 블랙핸드
+}
+
+STRING 202
+// Units: N007 (Warlord), Name (Name)
+{
+전쟁군주
+}
+
+STRING 203
+// Units: N007 (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 204
+// Units: N007 (Warlord), Awakentip (Tooltip - Awaken)
+{
+전쟁군주 부활 (|cffffcc00R|r)
+}
+
+STRING 205
+// Units: N007 (Warlord), Revivetip (Tooltip - Revive)
+{
+전쟁군주 부활 (|cffffcc00R|r)
+}
+
+STRING 206
+// Units: N007 (Warlord), Tip (Tooltip - Basic)
+{
+전쟁군주 (|cffffcc00R|r)
+}
+
+STRING 207
+// Units: N007 (Warlord), Ubertip (Tooltip - Extended)
+{
+강력한 영웅으로, 적을 개별적으로 또는 개별 대형으로 공격하는 데 능숙합니다. |cffffc800분쇄|r, |cffffc800전장의 오라|r, |cffffc800전투의 외침|r, |cffffc800황폐화|r를 배울 수 있습니다.
+추가로 |cffffc800그물덫|r 능력을 보유하고 있습니다.
+
+|cffffc800지상 유닛 공격 가능|r
+}
+
+STRING 208
+// Units: O00R (Warchief), Name (Name)
+{
+대족장
+}
+
+STRING 209
+// Units: O00R (Warchief), Propernames (Proper Names)
+{
+오그림 둠해머
+}
+
+STRING 210
+// Units: O00R (Warchief), Revivetip (Tooltip - Revive)
+{
+대족장 부활 (|cffffcc00W|r)
+}
+
+STRING 211
+// Units: O00R (Warchief), Awakentip (Tooltip - Awaken)
+{
+대족장 부활 (|cffffcc00W|r)
+}
+
+STRING 212
+// Units: O00R (Warchief), Tip (Tooltip - Basic)
+{
+대족장 (|cffffcc00W|r)
+}
+
+STRING 213
+// Units: O00R (Warchief), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 214
+// Units: O00R (Warchief), Ubertip (Tooltip - Extended)
+{
+Великий Вождь Орды, потрясающе силен в ближнем бою, способен изучить заклинания "
+}
+
+STRING 215
+// Units: O00R (Warchief), EditorSuffix (Name - Editor Suffix)
+{
+(탑승중) (제4막)
+}
+
+STRING 216
+// Units: o00S (Brute Blacktooth Grin), Ubertip (Tooltip - Extended)
+{
+야만적인 오크 전사입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 217
+// Units: o00S (Brute Blacktooth Grin), Name (Name)
+{
+검은이빨 투사
+}
+
+STRING 218
+// Units: o00S (Brute Blacktooth Grin), Tip (Tooltip - Basic)
+{
+투사 훈련
+}
+
+STRING 219
+// Units: o00T (Grunt Blackrock), Ubertip (Tooltip - Extended)
+{
+야만적인 오크 전사입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 220
+// Units: o00T (Grunt Blackrock), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 221
+// Units: o00T (Grunt Blackrock), Name (Name)
+{
+검은바위 그런트
+}
+
+STRING 222
+// Units: o00U (Kor'kron Goard), Name (Name)
+{
+코르크론 경비병
+}
+
+STRING 223
+// Units: o00U (Kor'kron Goard), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 224
+// Units: h003 (Tower), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 225
+// Units: o00V (Bonecrusher), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 226
+// Units: o00W (Troll Axethrower), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 227
+// Units: o00X (Peon Blacktock), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 228
+// Doodads: D01W (Fish School (ACT IV)), Name (Name)
+{
+낚시 학교 (제4막)
+}
+
+STRING 232
+// Units: h004 (Footman), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 233
+// Doodads: D01X (Alterac Banner (ACT IV)), Name (Name)
+{
+알터랙 깃발 (제4막)
+}
+
+STRING 234
+// Doodads: D01Y (- Glow), Name (Name)
+{
+- 발광
+}
+
+STRING 235
+// Units: h005 (Castle), Name (Name)
+{
+성
+}
+
+STRING 236
+// Units: h005 (Castle), EditorSuffix (Name - Editor Suffix)
+{
+(작음) (제4막)
+}
+
+STRING 237
+// Units: h006 (Tower), Name (Name)
+{
+탑
+}
+
+STRING 238
+// Units: h006 (Tower), EditorSuffix (Name - Editor Suffix)
+{
+(작음) (제4막)
+}
+
+STRING 239
+// Units: h003 (Tower), Name (Name)
+{
+탑
+}
+
+STRING 240
+// Doodads: D01Z (Building 1 (ACT IV)), Name (Name)
+{
+건물 1 (제4막)
+}
+
+STRING 241
+// Units: o00V (Bonecrusher), Ubertip (Tooltip - Extended)
+{
+야만적인 오크 전사입니다.
+
+|cffffcc00지상 유닛 공격 가능|r
+}
+
+STRING 242
+// Units: o00V (Bonecrusher), Name (Name)
+{
+뼈분쇄자
+}
+
+STRING 243
+// Units: o00V (Bonecrusher), Tip (Tooltip - Basic)
+{
+뼈분쇄자 훈련
+}
+
+STRING 244
+// Units: o00W (Troll Axethrower), Name (Name)
+{
+트롤 도끼투척병
+}
+
+STRING 245
+// Units: o00W (Troll Axethrower), Tip (Tooltip - Basic)
+{
+트롤 도끼투척병 훈련
+}
+
+STRING 246
+// Units: o00W (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+다재다능한 도끼 투척 유닛으로, 공중 유닛에게 특히 효과적입니다. 트롤의 재생력을 배울 수 있습니다. 광폭화 능력을 사용해 공격력을 증가시킬 수 있으나, 받는 피해도 그만큼 증가합니다.
+
+|cffffcc00지상 및 공중 유닛 공격 가능|r
+}
+
+STRING 247
+// Units: h007 (Oil Tanker), EditorSuffix (Name - Editor Suffix)
+{
+(제4막)
+}
+
+STRING 248
+// Destructibles: B001 (- WinterCliff), EditorSuffix (Editor Suffix)
+{
+(제4막)
+}
+
+STRING 249
+// Destructibles: B005 (- Snowy Tree Wall), Name (Name)
+{
+- 눈 덮힌 나무 벽
+}
+
+STRING 250
+// Destructibles: B002 (- WinterCliff (small)), EditorSuffix (Editor Suffix)
+{
+(제4막)
+}
+
+STRING 251
+// Units: o00X (Peon Blacktock), Ubertip (Tooltip - Extended)
+{
+기본 일꾼 유닛입니다. 금과 목재를 채취하고, 건물을 건설하거나 수리할 수 있습니다.
+
+|cffffcc00지상 유닛 및 나무 공격 가능|r
+}
+
+STRING 252
+// Units: o00X (Peon Blacktock), Name (Name)
+{
+검은바위 일꾼
+}
+
+STRING 253
+// Destructibles: B003 (- WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(제4막)
+}
+
+STRING 254
+// Destructibles: B004 (- WinterSnowCliff (small)), EditorSuffix (Editor Suffix)
+{
+(제4막)
+}
+
+STRING 255
+// Destructibles: B006 (- Light Cold Weak), Name (Name)
+{
+- 빛 차가움 약함
+}
+
+STRING 256
+// Doodads: D01H (- Wheat Bright), Name (Name)
+{
+- 밀 밝음
+}
+
+STRING 257
+{
+Player 21
+}
+
+STRING 258
+{
+Player 22
+}
+
+STRING 259
+// Destructibles: B007 (- Barrel with Oil), Name (Name)
+{
+- 석유가 든 통
+}
+
+STRING 260
+// Destructibles: B005 (- Snowy Tree Wall), EditorSuffix (Editor Suffix)
+{
+(제4막)
+}
+
+STRING 261
+// Destructibles: B008 (- Light Peach Weak), Name (Name)
+{
+- 빛 복숭아색 약함
+}
+
+STRING 262
+// Units: h007 (Oil Tanker), Name (Name)
+{
+유조선
+}
+
+STRING 263
+// Units: h007 (Oil Tanker), Ubertip (Tooltip - Extended)
+{
+석유 운송 목적용 선박입니다.
+}
+
+STRING 264
+// Units: h007 (Oil Tanker), Tip (Tooltip - Basic)
+{
+유조선 훈련
+}
+
+STRING 265
+// Destructibles: B007 (- Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(제4막)
+}
+
+STRING 266
+// Doodads: D020 (Storm Reaver Banner (ACT IV)), Name (Name)
+{
+폭풍약탈자 깃발 (제4막)
+}
+
+STRING 267
+// Destructibles: B009 (Seaweed), Name (Name)
+{
+해초
+}
+
+STRING 268
+// Units: oRS1 (Rune Shard 1), EditorSuffix (Name - Editor Suffix)
+{
+고정됨
+}
+
+STRING 269
+// Units: oRS2 (Rune Shard 2), EditorSuffix (Name - Editor Suffix)
+{
+고정됨
+}
+
+STRING 270
+// Items: I0LA (WC2ORCACT04Guldan1a), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 271
+// Items: I0LA (WC2ORCACT04Guldan1a), Description (Description)
+{
+물어봐줘서 기쁘구나, 제자여. 둠해머가 우리 무리에 첩자를 심어놓은 게 분명하기 때문에 우리들의 진정한 목표는 나 혼자만 알고 있기로 했었다.
+}
+
+STRING 272
+// Items: I0LA (WC2ORCACT04Guldan1a), Name (Name)
+{
+WC2ORCACT04Guldan1a
+}
+
+STRING 273
+// Items: I0LB (WC2ORCACT04Guldan1b), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 274
+// Items: I0LB (WC2ORCACT04Guldan1b), Description (Description)
+{
+하지만 마침내 진실을 밝힐 때가 되었다!
+}
+
+STRING 275
+// Items: I0LB (WC2ORCACT04Guldan1b), Name (Name)
+{
+WC2ORCACT04Guldan1b
+}
+
+STRING 276
+// Items: I0LC (WC2ORCACT04Guldan2), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 278
+// Items: I0LC (WC2ORCACT04Guldan2), Name (Name)
+{
+WC2ORCACT04Guldan2
+}
+
+STRING 279
+// Items: I0LD (WC2ORCACT04Guldan3a), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 280
+// Items: I0LD (WC2ORCACT04Guldan3a), Description (Description)
+{
+그 무덤에는 한때 킬제덴의 주인이였던 암흑 티탄 살게라스의 화신의 잔해가 묻혀 있다.
+}
+
+STRING 281
+// Items: I0LD (WC2ORCACT04Guldan3a), Name (Name)
+{
+WC2ORCACT04Guldan3a
+}
+
+STRING 282
+// Items: I0LE (WC2ORCACT04Guldan3b), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 283
+// Items: I0LE (WC2ORCACT04Guldan3b), Description (Description)
+{
+오래 전에 그 무덤은 봉인되었고 육지 전체가 파도 아래 가라앉았다고 한다.
+}
+
+STRING 284
+// Items: I0LE (WC2ORCACT04Guldan3b), Name (Name)
+{
+WC2ORCACT04Guldan3b
+}
+
+STRING 285
+// Items: I0LF (WC2ORCACT04Guldan4), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 286
+// Items: I0LF (WC2ORCACT04Guldan4), Description (Description)
+{
+그래. 내가 무덤에 들어가면 호드는 더 이상 필요 없다. 악마들 조차 내 의지에 굴복할 것이다!
+}
+
+STRING 287
+// Items: I0LF (WC2ORCACT04Guldan4), Name (Name)
+{
+WC2ORCACT04Guldan4
+}
+
+STRING 288
+// Items: I0LG (WC2ORCACT04Guldan5), Tip (Tooltip - Basic)
+{
+굴단
+}
+
+STRING 289
+// Items: I0LG (WC2ORCACT04Guldan5), Description (Description)
+{
+이제 진정한 어둠의 힘을 목격해라!
+}
+
+STRING 290
+// Items: I0LG (WC2ORCACT04Guldan5), Name (Name)
+{
+WC2ORCACT04Guldan5
+}
+
+STRING 291
+// Items: I0LH (WC2ORCACT04Chogall1), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 292
+// Items: I0LH (WC2ORCACT04Chogall1), Description (Description)
+{
+|cffffcc00초:|r 주인님, 저희는 벌써 2주째 서쪽으로만 향하고 있습니다.
+|cffffcc00갈:|r 우린 뭘 찾는 건가요?
+}
+
+STRING 293
+// Items: I0LH (WC2ORCACT04Chogall1), Name (Name)
+{
+WC2ORCACT04Chogall1
+}
+
+STRING 294
+// Items: I0LI (WC2ORCACT04Chogall2), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 295
+// Items: I0LI (WC2ORCACT04Chogall2), Description (Description)
+{
+|cffffcc00초:|r 그 무덤이 대체 무엇입니까?
+|cffffcc00갈:|r 어디에 있는데요?
+}
+
+STRING 296
+// Items: I0LI (WC2ORCACT04Chogall2), Name (Name)
+{
+WC2ORCACT04Chogall2
+}
+
+STRING 297
+// Items: I0LJ (WC2ORCACT04Chogall3), Tip (Tooltip - Basic)
+{
+초갈
+}
+
+STRING 298
+// Items: I0LJ (WC2ORCACT04Chogall3), Description (Description)
+{
+|cffffcc00초:|r 주인님은... 무덤 전체를 바다에서 끌어올리려는 겁니까?
+|cffffcc00갈:|r 그래서 엘프의 마법석의 힘이 필요했던 건가요?
+}
+
+STRING 299
+// Items: I0LJ (WC2ORCACT04Chogall3), Name (Name)
+{
+WC2ORCACT04Chogall3
+}
+
+STRING 300
+// Items: I0LK (WC2ORCACT04Doomhammer1), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 301
+// Items: I0LK (WC2ORCACT04Doomhammer1), Description (Description)
+{
+산속에서 며칠만 더 가면 호수에 도착한다. 보고에 따르면, 우리 함대가 티리스팔의 청명 호수의 강줄기를 통과하고 있다고 한다. 우리가 펜리스 섬에 도착하면 그들이 해상 지원을 제공할 것이다.
+}
+
+STRING 302
+// Items: I0LK (WC2ORCACT04Doomhammer1), Name (Name)
+{
+WC2ORCACT04Doomhammer1
+}
+
+STRING 303
+// Items: I0LL (WC2ORCACT04Doomhammer2), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 304
+// Items: I0LL (WC2ORCACT04Doomhammer2), Description (Description)
+{
+그들의 족장과 만남을 가졌다. 우리가 그들을 해치지 않는다면 그들의 영토를 싸우지 않고 통과하게 해주기로 합의했다.
+}
+
+STRING 305
+// Items: I0LL (WC2ORCACT04Doomhammer2), Name (Name)
+{
+WC2ORCACT04Doomhammer2
+}
+
+STRING 306
+// Items: I0LM (WC2ORCACT04Doomhammer3), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 307
+// Items: I0LM (WC2ORCACT04Doomhammer3), Description (Description)
+{
+스크래처!? 여기서 뭐 하는 거냐? 넌 쿠엘탈라스에서 실버문 공성전을 감독하고 있어야지.
+}
+
+STRING 308
+// Items: I0LM (WC2ORCACT04Doomhammer3), Name (Name)
+{
+WC2ORCACT04Doomhammer3
+}
+
+STRING 309
+// Items: I0LN (WC2ORCACT04Doomhammer4), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 310
+// Items: I0LN (WC2ORCACT04Doomhammer4), Description (Description)
+{
+그 비열한 흑마법사 놈이? 날 조롱하려고? 내 권위를 흔들려고? 호드와 우리가 여기서 이룬 모든 걸? 그놈를 살려준 건 내 실수였다. 이제 그 잘못을 바로잡겠다.
+}
+
+STRING 311
+// Items: I0LN (WC2ORCACT04Doomhammer4), Name (Name)
+{
+WC2ORCACT04Doomhammer4
+}
+
+STRING 312
+// Items: I0LO (WC2ORCACT04Doomhammer5), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 313
+// Items: I0LO (WC2ORCACT04Doomhammer5), Description (Description)
+{
+줄루헤드, 렌드, 마임!
+}
+
+STRING 314
+// Items: I0LO (WC2ORCACT04Doomhammer5), Name (Name)
+{
+WC2ORCACT04Doomhammer5
+}
+
+STRING 315
+// Items: I0LP (WC2ORCACT04Doomhammer6), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 316
+// Items: I0LP (WC2ORCACT04Doomhammer6), Description (Description)
+{
+굴단과 그의 함대는 서쪽으로 달아났다. 너희는 검은바위와 검은이빨 부족 전사 세 부대, 줄루헤드는 용아귀 부족을 이끌고 놈을 추격해라. 필요하다면 그 비열한 반역자를 세상 끝까지 쫓아라!
+}
+
+STRING 317
+// Items: I0LP (WC2ORCACT04Doomhammer6), Name (Name)
+{
+WC2ORCACT04Doomhammer6
+}
+
+STRING 318
+// Items: I0LQ (WC2ORCACT04Doomhammer7), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 319
+// Items: I0LQ (WC2ORCACT04Doomhammer7), Description (Description)
+{
+그 배신자 부족들을 쓸어버리고 굴단의 머리를 가져와라.
+}
+
+STRING 320
+// Items: I0LQ (WC2ORCACT04Doomhammer7), Name (Name)
+{
+WC2ORCACT04Doomhammer7
+}
+
+STRING 321
+// Items: I0LR (WC2ORCACT04Doomhammer8), Tip (Tooltip - Basic)
+{
+오그림 둠해머
+}
+
+STRING 322
+// Items: I0LR (WC2ORCACT04Doomhammer8), Description (Description)
+{
+그 추악한 반역자의 두개골을 다시는 어둠의 마법사들과 거래하지 않겠다는 교훈으로 삼겠다! 그리고 호드의 대족장을 건드리면 어떻게 되는지 모두에게 보여주겠다!
+}
+
+STRING 323
+// Items: I0LR (WC2ORCACT04Doomhammer8), Name (Name)
+{
+WC2ORCACT04Doomhammer8
+}
+
+STRING 324
+// Items: I0LS (WC2ORCACT04Maim1), Tip (Tooltip - Basic)
+{
+마임 블랙핸드
+}
+
+STRING 325
+// Items: I0LS (WC2ORCACT04Maim1), Description (Description)
+{
+그냥 저 인간들을 죽여버리는 게 어떻습니까, 대족장님?
+}
+
+STRING 326
+// Items: I0LS (WC2ORCACT04Maim1), Name (Name)
+{
+WC2ORCACT04Maim1
+}
+
+STRING 327
+// Items: I0LT (WC2ORCACT04Rend1), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 328
+// Items: I0LT (WC2ORCACT04Rend1), Description (Description)
+{
+동족을 배신한다고!? 하! 이 인간들은 명예가 없군.
+}
+
+STRING 329
+// Items: I0LT (WC2ORCACT04Rend1), Name (Name)
+{
+WC2ORCACT04Rend1
+}
+
+STRING 330
+// Items: I0LU (WC2ORCACT04Rend2), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 331
+// Items: I0LU (WC2ORCACT04Rend2), Description (Description)
+{
+명령만 내려주십시오, 대족장님!
+}
+
+STRING 332
+// Items: I0LU (WC2ORCACT04Rend2), Name (Name)
+{
+WC2ORCACT04Rend2
+}
+
+STRING 333
+// Items: I0LV (WC2ORCACT04Rend3), Tip (Tooltip - Basic)
+{
+렌드 블랙핸드
+}
+
+STRING 334
+// Items: I0LV (WC2ORCACT04Rend3), Description (Description)
+{
+반드시 성공시키겠습니다, 대족장님!
+}
+
+STRING 335
+// Items: I0LV (WC2ORCACT04Rend3), Name (Name)
+{
+WC2ORCACT04Rend3
+}
+
+STRING 336
+// Items: I0LW (WC2ORCACT04Zuluhed1), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 337
+// Items: I0LW (WC2ORCACT04Zuluhed1), Description (Description)
+{
+티리스팔과 마법사의 도시 달라란의 외곽은 강력하게 요새화되어 있네. 알터랙을 통해 로다미어 호수를 건너는 것이 우리에게 최선의 선택이었어. 이번 협정으로 우리는 최고의 상태로 도착할 수 있을 것이네.
+}
+
+STRING 338
+// Items: I0LW (WC2ORCACT04Zuluhed1), Name (Name)
+{
+WC2ORCACT04Zuluhed1
+}
+
+STRING 339
+// Items: I0LX (WC2ORCACT04Zuluhed2), Tip (Tooltip - Basic)
+{
+줄루헤드
+}
+
+STRING 340
+// Items: I0LX (WC2ORCACT04Zuluhed2), Description (Description)
+{
+바로 군대를 준비하겠습니다, 대족장님.
+}
+
+STRING 341
+// Items: I0LX (WC2ORCACT04Zuluhed2), Name (Name)
+{
+WC2ORCACT04Zuluhed2
+}
+
+STRING 342
+// Items: I0LY (WC2ORCACT04Utok1), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 343
+// Items: I0LY (WC2ORCACT04Utok1), Description (Description)
+{
+대족장님은 어디 계시지? 당장 그분께 얘기해야한다!
+}
+
+STRING 344
+// Items: I0LY (WC2ORCACT04Utok1), Name (Name)
+{
+WC2ORCACT04Utok1
+}
+
+STRING 345
+// Items: I0LZ (WC2ORCACT04Utok2), Tip (Tooltip - Basic)
+{
+우톡 스크래처
+}
+
+STRING 346
+// Items: I0LZ (WC2ORCACT04Utok2), Description (Description)
+{
+굴단과... 그의 부족 전체 그리고 황혼의 망치 부족이 우리를 배신했습니다! 실버문은 여전히 건재하고 아마니는 줄아만까지 밀려나 있습니다. 그는 모든 병력을 이끌고 서쪽으로 향했습니다!
+}
+
+STRING 347
+// Items: I0LZ (WC2ORCACT04Utok2), Name (Name)
+{
+WC2ORCACT04Utok2
+}
+
+STRING 348
+{
+제4막: 굴단의 배신
+}
+
+STRING 349
+// Items: I0LC (WC2ORCACT04Guldan2), Description (Description)
+{
+나는 혼수상태에서 깨어난 뒤 몇 달 동안 메디브의 도서관을 뒤지며 살게라스의 무덤에 관한 모든 것을 찾아보았다.
+}
