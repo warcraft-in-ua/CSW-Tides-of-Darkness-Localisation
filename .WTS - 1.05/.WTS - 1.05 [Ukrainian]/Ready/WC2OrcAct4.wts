@@ -19,15 +19,15 @@ Force 1
 }
 
 STRING 6
-// Units: O000 (Gul'dan), Name (Name)
+// Units: O000 (Ґул'дан), Name (Name)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 7
-// Units: O001 (Cho'gall), Name (Name)
+// Units: O001 (Чо'ґалл), Name (Name)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 9
@@ -211,9 +211,9 @@ Juggernaught
 }
 
 STRING 50
-// Units: O001 (Cho'gall), Propernames (Proper Names)
+// Units: O001 (Чо'ґалл), Propernames (Proper Names)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 54
@@ -623,7 +623,7 @@ STRING 167
 }
 
 STRING 168
-// Units: O000 (Gul'dan), EditorSuffix (Name - Editor Suffix)
+// Units: O000 (Ґул'дан), EditorSuffix (Name - Editor Suffix)
 {
 (ACT IV)
 }
@@ -635,7 +635,7 @@ STRING 169
 }
 
 STRING 170
-// Units: O001 (Cho'gall), EditorSuffix (Name - Editor Suffix)
+// Units: O001 (Чо'ґалл), EditorSuffix (Name - Editor Suffix)
 {
 (ACT IV)
 }
@@ -739,7 +739,7 @@ STRING 186
 STRING 187
 // Units: O00C (Shaman), Propernames (Proper Names)
 {
-Zuluhed the Whacked
+Зулугед Змучений the Whacked
 }
 
 STRING 188
@@ -787,7 +787,7 @@ R
 STRING 195
 // Units: O00G (Warlord), Propernames (Proper Names)
 {
-Dal'Rend Blackhand
+Dal'Ренд Чорнорук
 }
 
 STRING 196
@@ -823,7 +823,7 @@ Mighty Hero, good at striking enemies individually and in unit formation. Can le
 STRING 201
 // Units: N007 (Warlord), Propernames (Proper Names)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 202
@@ -874,7 +874,7 @@ Warchief
 STRING 209
 // Units: O00R (Warchief), Propernames (Proper Names)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 210
@@ -1220,13 +1220,13 @@ Fixed
 STRING 270
 // Items: I0LA (WC2ORCACT04Guldan1a), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 271
 // Items: I0LA (WC2ORCACT04Guldan1a), Description (Description)
 {
-I am glad that you asked, my apprentices. Since Doomhammer has no doubt planted spies in our ranks, I decided to keep our true objective to myself.
+Радий, що ти запитав, учню мій. Я не сумнівався, що Молот Згуби впровадив шпигунів у наші лави, і тому вирішив тримати в секреті справжню ціль.
 }
 
 STRING 272
@@ -1238,13 +1238,13 @@ WC2ORCACT04Guldan1a
 STRING 273
 // Items: I0LB (WC2ORCACT04Guldan1b), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 274
 // Items: I0LB (WC2ORCACT04Guldan1b), Description (Description)
 {
-But now, at long last, I can reveal the truth!
+Але тепер, в решті решт можу розкрити правду!
 }
 
 STRING 275
@@ -1256,7 +1256,7 @@ WC2ORCACT04Guldan1b
 STRING 276
 // Items: I0LC (WC2ORCACT04Guldan2), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 278
@@ -1268,13 +1268,13 @@ WC2ORCACT04Guldan2
 STRING 279
 // Items: I0LD (WC2ORCACT04Guldan3a), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 280
 // Items: I0LD (WC2ORCACT04Guldan3a), Description (Description)
 {
-The tomb contains the remains of an avatar of the Dark Titan Sargeras. The once-master of Kil'jaeden himself.
+Гробниця містить рештки аватара Темного Титана - Сарґераса, який є володарем самого Кіл'джедена.
 }
 
 STRING 281
@@ -1286,13 +1286,13 @@ WC2ORCACT04Guldan3a
 STRING 282
 // Items: I0LE (WC2ORCACT04Guldan3b), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 283
 // Items: I0LE (WC2ORCACT04Guldan3b), Description (Description)
 {
-Long ago the tomb was sealed and the entire landmass was sunk beneath the ocean waves.
+Колись давно гробниця була запечатана і весь острів на якому вона знаходилась, затонув.
 }
 
 STRING 284
@@ -1304,13 +1304,13 @@ WC2ORCACT04Guldan3b
 STRING 285
 // Items: I0LF (WC2ORCACT04Guldan4), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 286
 // Items: I0LF (WC2ORCACT04Guldan4), Description (Description)
 {
-Yes. And once I enter the tomb, I won't need the Horde anymore. And even the demons will bow to my will!
+Так! І як тільки я увійду до гробниці, мені більше буде не потрібна Орда. І навіть Демони будуть коритися мені!
 }
 
 STRING 287
@@ -1322,13 +1322,13 @@ WC2ORCACT04Guldan4
 STRING 288
 // Items: I0LG (WC2ORCACT04Guldan5), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 289
 // Items: I0LG (WC2ORCACT04Guldan5), Description (Description)
 {
-Now, behold the power of true Darkness!
+Тепер, споглядайте справжню силу пітьми!
 }
 
 STRING 290
@@ -1340,13 +1340,13 @@ WC2ORCACT04Guldan5
 STRING 291
 // Items: I0LH (WC2ORCACT04Chogall1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 292
 // Items: I0LH (WC2ORCACT04Chogall1), Description (Description)
 {
-|cffffcc00Cho:|r Master, we've been heading west for two weeks already. |n|n|cffffcc00Gall:|r What are we looking for?
+|cffffcc00Чо:|Володарю, ми вже два тижні мандруємо на захід. |n|n|cffffcc00Gall:|r Що ми шукаємо?
 }
 
 STRING 293
@@ -1358,13 +1358,13 @@ WC2ORCACT04Chogall1
 STRING 294
 // Items: I0LI (WC2ORCACT04Chogall2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 295
 // Items: I0LI (WC2ORCACT04Chogall2), Description (Description)
 {
-|cffffcc00Cho:|r What is this tomb? |n|n|cffffcc00Gall:|r And where is it located?
+|cffffcc00Чо:|r Що це за гробниця? |n|n|cffffcc00Ґалл:|r І де вона розташована?
 }
 
 STRING 296
@@ -1376,13 +1376,13 @@ WC2ORCACT04Chogall2
 STRING 297
 // Items: I0LJ (WC2ORCACT04Chogall3), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 298
 // Items: I0LJ (WC2ORCACT04Chogall3), Description (Description)
 {
-|cffffcc00Cho:|r You... intend to raise the entire tomb from the sea? |n|n|cffffcc00Gall:|r And this is the reason we needed the powers of the elven rune stones?
+|cffffcc00Cho:|r Ви... Ви хочете підняти з моря цілий острів, володарю ? |n|n|cffffcc00Gall:|r: І для цього нам була потрібна сила рунічних каменів ельфів?
 }
 
 STRING 299
@@ -1394,13 +1394,13 @@ WC2ORCACT04Chogall3
 STRING 300
 // Items: I0LK (WC2ORCACT04Doomhammer1), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 301
 // Items: I0LK (WC2ORCACT04Doomhammer1), Description (Description)
 {
-A few more days in the mountains and we'll reach the lake. According to reports, our armada is filling through the River Brightwater, in Tirisfal. They will provide naval support for us when we get to Fenris isle.
+Ще кілька днів у цих горах і ми досягнемо озера. Згідно звітів, наша армада проходить через річку Брайтвотер що у Тірісфалі. Армада забезпечить нам підтримку з води, коли ми дійдемо до острова Фенріс.
 }
 
 STRING 302
@@ -1412,13 +1412,13 @@ WC2ORCACT04Doomhammer1
 STRING 303
 // Items: I0LL (WC2ORCACT04Doomhammer2), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 304
 // Items: I0LL (WC2ORCACT04Doomhammer2), Description (Description)
 {
-I had a meeting with their chieftain, and they had agreed to let us through their territory without a fight, if we spared them.
+Я мав зустріч з їхнім отаманом, він готовий дати нам пройти через їхні землі, в обмін на те що ми збережемо їхні життя.
 }
 
 STRING 305
@@ -1430,13 +1430,13 @@ WC2ORCACT04Doomhammer2
 STRING 306
 // Items: I0LM (WC2ORCACT04Doomhammer3), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 307
 // Items: I0LM (WC2ORCACT04Doomhammer3), Description (Description)
 {
-Scratcher!? What are you doing here? You should be in Quel'Thalas, overseeing the siege of Silvermoon.
+Дряпач!? Що ти тут робиш? Ти маєш бути у Квел'Таласі, і наглядати за осадою Срібномісяця.
 }
 
 STRING 308
@@ -1448,13 +1448,13 @@ WC2ORCACT04Doomhammer3
 STRING 309
 // Items: I0LN (WC2ORCACT04Doomhammer4), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 310
 // Items: I0LN (WC2ORCACT04Doomhammer4), Description (Description)
 {
-The wretched Warlock? He seeks to mock me? To undermine me? The Horde and everything we've accomplished here? I was wrong in sparing him, and now I will right that mistake.
+Цей нікчемний чорнокнижник? Вирішив мене зрадити? Знікчемити мій авторитет? Орду та всі наші здобутки у цьому світі? Марно я зберіг йому життя, настав час виправити цю помилку.
 }
 
 STRING 311
@@ -1466,13 +1466,13 @@ WC2ORCACT04Doomhammer4
 STRING 312
 // Items: I0LO (WC2ORCACT04Doomhammer5), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 313
 // Items: I0LO (WC2ORCACT04Doomhammer5), Description (Description)
 {
-Zuluhed, Rend, Maim!
+Зулугеде, Ренде, Майме!
 }
 
 STRING 314
@@ -1484,13 +1484,13 @@ WC2ORCACT04Doomhammer5
 STRING 315
 // Items: I0LP (WC2ORCACT04Doomhammer6), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 316
 // Items: I0LP (WC2ORCACT04Doomhammer6), Description (Description)
 {
-Gul'dan and his fleet fled west. You will take three battalions of Blackrock, and Blacktooth Grin warriors, as well as Zuluhed's Dragonmaw. Pursue that vile traitor to the end of the earth if you have to!
+Ґул'дан зі своїм флотом, вирушили десь на захід. Ви візьмете три батальйони воїнів Чорної скелі та Чорнозубого вищиру, а також клан Драконячої пащі Зулугеда. Рушайте за цим зрадником хоч на край світу, якщо доведеться!
 }
 
 STRING 317
@@ -1502,13 +1502,13 @@ WC2ORCACT04Doomhammer6
 STRING 318
 // Items: I0LQ (WC2ORCACT04Doomhammer7), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 319
 // Items: I0LQ (WC2ORCACT04Doomhammer7), Description (Description)
 {
-Destroy the renegade clans and return with the head of Gul'dan.
+Вбийте клани зрадників. І без голови Ґул'дана можете не вертатися!
 }
 
 STRING 320
@@ -1520,13 +1520,13 @@ WC2ORCACT04Doomhammer7
 STRING 321
 // Items: I0LR (WC2ORCACT04Doomhammer8), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 322
 // Items: I0LR (WC2ORCACT04Doomhammer8), Description (Description)
 {
-I will use the skull of that filthy traitor as a reminder to never have dealings with dark sorcerers again! And to show everyone what happens when you cross the Warchief of the Horde!
+Я буду використовувати череп цього нікчемного зрадника як нагадування, що більше ніколи не можна мати справ з цими темними чаклунами! Всі будуть бачити, що трапляється з тими хто переходить дорогу вождю Орди!
 }
 
 STRING 323
@@ -1538,13 +1538,13 @@ WC2ORCACT04Doomhammer8
 STRING 324
 // Items: I0LS (WC2ORCACT04Maim1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 325
 // Items: I0LS (WC2ORCACT04Maim1), Description (Description)
 {
-Why don't we just kill these humans, Warchief?
+Вождь, чому б нам просто не вбити всіх цих людей?
 }
 
 STRING 326
@@ -1556,13 +1556,13 @@ WC2ORCACT04Maim1
 STRING 327
 // Items: I0LT (WC2ORCACT04Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 328
 // Items: I0LT (WC2ORCACT04Rend1), Description (Description)
 {
-Betraying their own kind!? Pfah! These humans have no honor.
+Вони зрадили своїх же!? Пфф! Ці люди взагалі не мають честі.
 }
 
 STRING 329
@@ -1574,13 +1574,13 @@ WC2ORCACT04Rend1
 STRING 330
 // Items: I0LU (WC2ORCACT04Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 331
 // Items: I0LU (WC2ORCACT04Rend2), Description (Description)
 {
-We are yours to command, Warchief!
+Чекаємо ваших наказів, вождь!
 }
 
 STRING 332
@@ -1592,13 +1592,13 @@ WC2ORCACT04Rend2
 STRING 333
 // Items: I0LV (WC2ORCACT04Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 334
 // Items: I0LV (WC2ORCACT04Rend3), Description (Description)
 {
-It will be done, Warchief!
+Буде зроблено, вождь!
 }
 
 STRING 335
@@ -1610,13 +1610,13 @@ WC2ORCACT04Rend3
 STRING 336
 // Items: I0LW (WC2ORCACT04Zuluhed1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 337
 // Items: I0LW (WC2ORCACT04Zuluhed1), Description (Description)
 {
-Tirisfal and the outskirts of the wizard-city of Dalaran are heavily fortified. Crossing the Lordamere Lake through Alterac was our best option. And with this new arrangement we will arrive at full strength.
+Тірісфаль і околиці міста-чарівників Даларан сильно укріплені, тож наш найкращий варіант — перетнути озеро Лордемер через Альтерак. За цих умов ми прибудемо без втрат.
 }
 
 STRING 338
@@ -1628,13 +1628,13 @@ WC2ORCACT04Zuluhed1
 STRING 339
 // Items: I0LX (WC2ORCACT04Zuluhed2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 340
 // Items: I0LX (WC2ORCACT04Zuluhed2), Description (Description)
 {
-I will gather the troops, Warchief.
+Я негайно зберу війська, вождь!
 }
 
 STRING 341
@@ -1646,13 +1646,13 @@ WC2ORCACT04Zuluhed2
 STRING 342
 // Items: I0LY (WC2ORCACT04Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 343
 // Items: I0LY (WC2ORCACT04Utok1), Description (Description)
 {
-Where is the Warchief? I must speak with him at once!
+Де Вождь?! Я маю говорити з ним!
 }
 
 STRING 344
@@ -1664,13 +1664,13 @@ WC2ORCACT04Utok1
 STRING 345
 // Items: I0LZ (WC2ORCACT04Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 346
 // Items: I0LZ (WC2ORCACT04Utok2), Description (Description)
 {
-...Gul'dan... his entire clan, as well as the Twilight's Hammer have betrayed us! Silvermoon still stands and the Amani have been pushed back into Zul'Aman. He went west with his entire force!
+…Ґул'дан… і весь його клан, разом з кланом Сутінкового молоту - зрадили нас! Срібномісяць досі стоїть, а Амані були відкинуті до Зул'Аману. Зрадник з усіма військами вирушили на захід!
 }
 
 STRING 347
@@ -1687,6 +1687,6 @@ ACT IV: Guldan's Betrayal
 STRING 349
 // Items: I0LC (WC2ORCACT04Guldan2), Description (Description)
 {
-After I awoke from my slumber, I spent months searching through Medivh's library, for anything about the Tomb of Sargeras.
+Після того як я прокинувся від свого «сну», я витратив місяці аби знайти бодай щось у бібліотеці Медіва,  щодо гробниці Сарґераса.
 }
 
