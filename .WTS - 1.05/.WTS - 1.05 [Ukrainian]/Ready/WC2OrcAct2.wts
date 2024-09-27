@@ -674,7 +674,7 @@ Troll Chieftain
 STRING 169
 // Units: O00B (Troll Chieftain), Propernames (Proper Names)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 170
@@ -704,7 +704,7 @@ Revive Troll Chieftan
 STRING 174
 // Units: O00B (Troll Chieftain), Ubertip (Tooltip - Extended)
 {
-Zuljin is the Warlord of the Amani forest Trolls. A powerful and fierce troll, Zul'jin has an immense hatred towards the High Elves of Quel'thalas, and this hatred led him into seeking unlikely allies in the form of outlandish invading Orcs.
+Zuljin is the Warlord of the Amani forest Trolls. A powerful and fierce troll, Зул'джин has an immense hatred towards the High Elves of Quel'thalas, and this hatred led him into seeking unlikely allies in the form of outlandish invading Orcs.
 |n|cffffcc00Attacks land and air units.|r
 }
 
@@ -723,7 +723,7 @@ R
 STRING 177
 // Units: O00D (Warlord), Propernames (Proper Names)
 {
-Dal'Rend Blackhand
+Dal'Ренд Чорнорук
 }
 
 STRING 178
@@ -753,7 +753,7 @@ Revive Warlord
 STRING 182
 // Units: O00D (Warlord), Ubertip (Tooltip - Extended)
 {
-Dal'Rend Blackhand is the oldest son of Blackhand the Destroyer, former Warchief of the Orcish Horde. Following his father’s removal at the hands of Orgrim Doomhammer, Rend and his brother Maim have led the Blacktooth Grin Clan and its elite frontline warriors. 
+Dal'Ренд Чорнорук is the oldest son of Blackhand the Destroyer, former Warchief of the Orcish Horde. Following his father’s removal at the hands of Орґрім Молот Згуби, Rend and his brother Maim have led the Blacktooth Grin Clan and its elite frontline warriors. 
 |n|cffffcc00Attacks land units.|r
 }
 
@@ -772,7 +772,7 @@ STRING 184
 STRING 185
 // Units: O00E (Warlord), Propernames (Proper Names)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 186
@@ -814,7 +814,7 @@ W
 STRING 192
 // Units: O00F (Ogre Magi), Propernames (Proper Names)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 193
@@ -860,9 +860,9 @@ Varok
 }
 
 STRING 200
-// Units: o00G (Teron'Gor), Name (Name)
+// Units: o00G (Терон'кров), Name (Name)
 {
-Teron'Gor
+Терон'кров
 }
 
 STRING 201
@@ -910,7 +910,7 @@ Eitrigg
 STRING 208
 // Units: o00J (Tharbek), Name (Name)
 {
-Tharbek
+Тарбек
 }
 
 STRING 209
@@ -922,7 +922,7 @@ Utok Scratcher
 STRING 210
 // Units: o00K (Utok Scratcher), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Level 1 Apprentice|r |n|nUtok Scratcher is an apprentice shaman and chief advisor to the ruthless commander of the Blackrock clan, Orgrim Doomhammer. He is the author of The Dominion of Lordaeron, which recorded the Horde's actions during the Second War.
+|cffffcc00Level 1 Apprentice|r |n|nUtok Scratcher is an apprentice shaman and chief advisor to the ruthless commander of the Blackrock clan, Орґрім Молот Згуби. He is the author of The Dominion of Lordaeron, which recorded the Horde's actions during the Second War.
 |n|n|cffffcc00Attacks land units.|r
 }
 
@@ -935,7 +935,7 @@ Apprentice
 STRING 212
 // Units: O00L (Shaman), Propernames (Proper Names)
 {
-Zuluhed the Whacked
+Зулугед Змучений
 }
 
 STRING 213
@@ -1169,13 +1169,13 @@ STRING 352
 STRING 353
 // Items: I0L0 (WC2ORCACT02Chogall1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 354
 // Items: I0L0 (WC2ORCACT02Chogall1), Description (Description)
 {
-|cffffcc00Cho:|r We will need an escort during the march through the swamps of Wetlands.
+|cffffcc00Чо:|r Нам буде потрібен супровід під час пересування через болота.
 }
 
 STRING 355
@@ -1187,13 +1187,13 @@ WC2ORCACT02Chogall1
 STRING 356
 // Items: I0L1 (WC2ORCACT02Doomhammer1), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 357
 // Items: I0L1 (WC2ORCACT02Doomhammer1), Description (Description)
 {
-We already gave you half of the Stormwind’s  treasury! The prices you are suggesting are insane!
+Ми вже віддали тобі половину скарбниці Штормовія! Ціни, які ти пропонуєш, якісь абсурдні!
 }
 
 STRING 358
@@ -1205,13 +1205,13 @@ WC2ORCACT02Doomhammer1
 STRING 359
 // Items: I0L2 (WC2ORCACT02Doomhammer2), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 360
 // Items: I0L2 (WC2ORCACT02Doomhammer2), Description (Description)
 {
-As you never fail to mention... but these prices better reflect reality, little goblin, or there will be consequences...
+Хто б сумнівався, що ти скажеш по іншому… але все одно ціни мають бути більш приземленими маленький гоблін, інакше будуть наслідки…
 }
 
 STRING 361
@@ -1223,13 +1223,13 @@ WC2ORCACT02Doomhammer2
 STRING 362
 // Items: I0L3 (WC2ORCACT02Doomhammer3), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 363
 // Items: I0L3 (WC2ORCACT02Doomhammer3), Description (Description)
 {
-Watch me... I will give you 20000 Stormwind Royals and that is how it will be...
+Послухай но сюди… Буде так… Я дам тобі 20 000 штормовійських дублонів…
 }
 
 STRING 364
@@ -1241,7 +1241,7 @@ WC2ORCACT02Doomhammer3
 STRING 365
 // Items: I0L4 (WC2ORCACT02Doomhammer4), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 366
@@ -1259,13 +1259,13 @@ WC2ORCACT02Doomhammer4
 STRING 368
 // Items: I0L5 (WC2ORCACT02Doomhammer5), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 369
 // Items: I0L5 (WC2ORCACT02Doomhammer5), Description (Description)
 {
-The price will be 20000...
+Ціна буде 20000…
 }
 
 STRING 370
@@ -1277,13 +1277,13 @@ WC2ORCACT02Doomhammer5
 STRING 371
 // Items: I0L6 (WC2ORCACT02Doomhammer6), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 372
 // Items: I0L6 (WC2ORCACT02Doomhammer6), Description (Description)
 {
-Maybe I should smash your head, enslave your people and give your holdings to the Bilgewater Cartel... how does that sound?
+А може мені варто просто розчавити твою голову, поневолити твоїх людей і передати всю твою власність картелю темних вод… як тобі така пропозиція?
 }
 
 STRING 373
@@ -1295,13 +1295,13 @@ WC2ORCACT02Doomhammer6
 STRING 374
 // Items: I0L7 (WC2ORCACT02Doomhammer6b), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 375
 // Items: I0L7 (WC2ORCACT02Doomhammer6b), Description (Description)
 {
-Varok, the gold.
+Варок, золото.
 }
 
 STRING 376
@@ -1313,13 +1313,13 @@ WC2ORCACT02Doomhammer6b
 STRING 377
 // Items: I0L8 (WC2ORCACT02Doomhammer7), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 378
 // Items: I0L8 (WC2ORCACT02Doomhammer7), Description (Description)
 {
-Excellent, let us meet them with the respect they deserve.
+Чудово, зустріньмо їх з відповідною повагою.
 }
 
 STRING 379
@@ -1331,13 +1331,13 @@ WC2ORCACT02Doomhammer7
 STRING 380
 // Items: I0L9 (WC2ORCACT02Doomhammer8), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 381
 // Items: I0L9 (WC2ORCACT02Doomhammer8), Description (Description)
 {
-Lok’tar, son of Blackhand... and greetings to you, mighty Zul’jin. Give report, Rend.
+Лок'тар, син Чорнорука… і тебе також вітаю могутній Зул’джине. Доповідай, Ренде.
 }
 
 STRING 382
@@ -1349,13 +1349,13 @@ WC2ORCACT02Doomhammer8
 STRING 383
 // Items: I0LA (WC2ORCACT02Doomhammer9), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 384
 // Items: I0LA (WC2ORCACT02Doomhammer9), Description (Description)
 {
-I am pleased to aid a fellow warrior. When I heard you had been captured, I sent Rend Blackhand at once.
+Я радий, що зміг допомогти такому славетному воїну. Коли я почув, що вас схопили, я одразу ж відправив Ренда Чорнорука.
 }
 
 STRING 385
@@ -1367,13 +1367,13 @@ WC2ORCACT02Doomhammer9
 STRING 386
 // Items: I0LB (WC2ORCACT02Doomhammer11), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 387
 // Items: I0LB (WC2ORCACT02Doomhammer11), Description (Description)
 {
-Rise up sons of Draenor! Let us welcome the mighty Amani to our glorious Horde!
+Підведіться, сини Дренору! Вітаймо могутніх тролів Амані у нашій славетній Орді!
 }
 
 STRING 388
@@ -1385,13 +1385,13 @@ WC2ORCACT02Doomhammer11
 STRING 389
 // Items: I0LC (WC2ORCACT02Doomhammer12), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 390
 // Items: I0LC (WC2ORCACT02Doomhammer12), Description (Description)
 {
-Well done, Rend and well done too, Captain Utok. Thanks to your efforts we know what awaits us in Lordaeron. Now it is time to reinforce our troops in Khaz Modan.
+Славна робота, Ренде, і ти теж молодець, капітане Уток. Завдяки вашим зусиллям ми тепер знаємо, чого чекати в Лордероні. Тепер настав час посилити наші війська в Хаз Модані.
 }
 
 STRING 391
@@ -1403,13 +1403,13 @@ WC2ORCACT02Doomhammer12
 STRING 392
 // Items: I0LD (WC2ORCACT02Doomhammer13), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 393
 // Items: I0LD (WC2ORCACT02Doomhammer13), Description (Description)
 {
-Good. Kilrogg Deadeye and his clan will begin the assault on the rest of the eastern dwarven lands... starting from the abandoned dwarven fortress of Grim Batol.
+Добре. Кілрогґ Мертве Око та його клан почнуть штурм решти східних земель дворфів… починаючи з покинутої дворфійської фортеці Грім Батол.
 }
 
 STRING 394
@@ -1421,13 +1421,13 @@ WC2ORCACT02Doomhammer13
 STRING 395
 // Items: I0LE (WC2ORCACT02Doomhammer14), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 396
 // Items: I0LE (WC2ORCACT02Doomhammer14), Description (Description)
 {
-Varok, you will be given siege weapons, goblin explosives and the finest warriors of the Blackrock clan... march to Ironforge and bring it to its knees. That city must fall, no matter the cost!
+Варок, ти отримаєш зброю для облоги, нищівну гоблінську вибухівку та ліпших воїнів клану Чорної Гори. Рушайте до Стальгорну та поставте його на коліна. Місто має впасти, за будь-яку ціну.
 }
 
 STRING 397
@@ -1439,13 +1439,13 @@ WC2ORCACT02Doomhammer14
 STRING 398
 // Items: I0LF (WC2ORCACT02Doomhammer15), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 399
 // Items: I0LF (WC2ORCACT02Doomhammer15), Description (Description)
 {
-Samuro, I want you to assist the Blackrock forces with the siege of Ironforge.
+Самуро, я хочу аби ти допоміг силам клану Чорної гори при облозі Стальгорну.
 }
 
 STRING 400
@@ -1457,13 +1457,13 @@ WC2ORCACT02Doomhammer15
 STRING 401
 // Items: I0LG (WC2ORCACT02Doomhammer16), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 402
 // Items: I0LG (WC2ORCACT02Doomhammer16), Description (Description)
 {
-The dwarves are said to be stubborn and enduring warriors, so prepare for a long siege.
+Кажуть що дворфи дуже вперті й витривалі воїни, тому готуйтеся до тривалої облоги.
 }
 
 STRING 403
@@ -1475,13 +1475,13 @@ WC2ORCACT02Doomhammer16
 STRING 404
 // Items: I0LH (WC2ORCACT02Doomhammer17), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 405
 // Items: I0LH (WC2ORCACT02Doomhammer17), Description (Description)
 {
-We also must secure the eastern shores of the continent. The Twilight’s Hammer clan must go there and prepare the oil production infrastructure... using the equipment provided by our goblin ¨allies¨.
+Ми також мусимо забезпечити безпеку на східному узбережжі континенту. Клан Сутінкового Молота має вирушити туди й підготувати інфраструктуру для видобутку нафти… використовуючи обладнання надане нашими гоблінськими «союзниками».
 }
 
 STRING 406
@@ -1493,13 +1493,13 @@ WC2ORCACT02Doomhammer17
 STRING 407
 // Items: I0LI (WC2ORCACT02Doomhammer18), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 408
 // Items: I0LI (WC2ORCACT02Doomhammer18), Description (Description)
 {
-Meanwhile, the Blacktooth Grin clan must conquer the island of Tol Barad. Once the island is secure, they will signal the Stormreaver fleet sailing towards the human kingdom of Stromgarde from Balor Island.
+Тим часом клан Чорнозубого вищиру повинен завоювати острів Тол Барад. Коли острів буде захоплено, вони дадуть сигнал флоту Бушуючого Шторму пливти до людського королівства Стромґард з острова Балор.
 }
 
 STRING 409
@@ -1511,13 +1511,13 @@ WC2ORCACT02Doomhammer18
 STRING 410
 // Items: I0LJ (WC2ORCACT02Doomhammer19), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 411
 // Items: I0LJ (WC2ORCACT02Doomhammer19), Description (Description)
 {
-Zuluhed, I want you and the rest of the Dragonmaw clan to aid Maim Blackhand in western Khaz Modan if anything goes wrong.
+Зулугеде, я хочу щоб ти, та рештки клану Драконячої пащі допомогли Мейму Чорноруку у західній частині Хаз Модану, на випадок якщо щось піде не так.
 }
 
 STRING 412
@@ -1529,13 +1529,13 @@ WC2ORCACT02Doomhammer19
 STRING 413
 // Items: I0LK (WC2ORCACT02Doomhammer20), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 414
 // Items: I0LK (WC2ORCACT02Doomhammer20), Description (Description)
 {
-Generals and Warlords, you’re dismissed, warlocks, stay.
+Генерали та воєводи, ви можете бути вільні, а чорнокнижників прошу лишитися.
 }
 
 STRING 415
@@ -1547,13 +1547,13 @@ WC2ORCACT02Doomhammer20
 STRING 416
 // Items: I0LL (WC2ORCACT02Doomhammer21), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 417
 // Items: I0LL (WC2ORCACT02Doomhammer21), Description (Description)
 {
-Has Gul’dan made any progress on the warriors he promised me?
+Чи досяг Ґул'дан хоч якогось успіху у створенні тих воїнів яких він мені обіцяв?
 }
 
 STRING 418
@@ -1565,13 +1565,13 @@ WC2ORCACT02Doomhammer21
 STRING 419
 // Items: I0LM (WC2ORCACT02Doomhammer22), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 420
 // Items: I0LM (WC2ORCACT02Doomhammer22), Description (Description)
 {
-My patience is not infinite, warlock... tell that to your master...
+Моє терпіння не безмежне, чорнокнижнику… передай це своєму господарю…
 }
 
 STRING 421
@@ -1583,13 +1583,13 @@ WC2ORCACT02Doomhammer22
 STRING 422
 // Items: I0LN (WC2ORCACT02Doomhammer23), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 423
 // Items: I0LN (WC2ORCACT02Doomhammer23), Description (Description)
 {
-Nekros, you will stay under the command of Zuluhed. Attempt to contact Gul’dan... and you will be boiled alive... Am I understood?
+Некросе, ти лишаєшся під командуванням Зулугеда.Якщо спробуєш потайки зв'язатися з Ґул'даном… і я тебе зварю живцем. Я був достатньо зрозумілим?
 }
 
 STRING 424
@@ -1601,13 +1601,13 @@ WC2ORCACT02Doomhammer23
 STRING 425
 // Items: I0LO (WC2ORCACT02Doomhammer24), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 426
 // Items: I0LO (WC2ORCACT02Doomhammer24), Description (Description)
 {
-Cho’gall, I want you to personally oversee the construction of the oil facilities on the eastern shore. You will go there as soon as Kilrogg has secured Grim Batol.
+Чо'ґалле, я хочу, щоб ти особисто наглядав за будівництвом нафтових об'єктів на східному березі. Вирушиш туди як тільки Кілрогґ захопить Грім Батол.
 }
 
 STRING 427
@@ -1619,13 +1619,13 @@ WC2ORCACT02Doomhammer24
 STRING 428
 // Items: I0LP (WC2ORCACT02Doomhammer25), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 429
 // Items: I0LP (WC2ORCACT02Doomhammer25), Description (Description)
 {
-I will take care of that. Now, begone.
+Я подбаю про це. Тепер, починаймо.
 }
 
 STRING 430
@@ -1637,13 +1637,13 @@ WC2ORCACT02Doomhammer25
 STRING 431
 // Items: I0LQ (WC2ORCACT02Steamwheedle1), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 432
 // Items: I0LQ (WC2ORCACT02Steamwheedle1), Description (Description)
 {
-But Warchief... high-end technologies are very expensive! Do you realize how sophisticated the production of gas for zeppelins is? Not to mention the costs of refining filters, pumping machines and explosives? War is not a cheap endeavor... and we're already giving you a hefty discount!
+Але вождь… передові технології дуже дорогі! Ти розумієш, наскільки складним є виробництво газу для дирижаблів? Не кажучи вже про витрати на чистку фільтрів, помпові машини та вибухівку? Війна – це недешева штука… я вже і так надав тобі просто шалену знижку!
 }
 
 STRING 433
@@ -1655,13 +1655,13 @@ WC2ORCACT02Steamwheedle1
 STRING 434
 // Items: I0LR (WC2ORCACT02Steamwheedle2), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 435
 // Items: I0LR (WC2ORCACT02Steamwheedle2), Description (Description)
 {
-It’s the law of Supply and Demand, Warchief, nothing more.  We are in no position to dictate the price - and neither are you!
+Це закон попиту та пропозиції, вождь, нічого більше. Я не в змозі спекулювати на ціні, як і ти!
 }
 
 STRING 436
@@ -1673,13 +1673,13 @@ WC2ORCACT02Steamwheedle2
 STRING 437
 // Items: I0LS (WC2ORCACT02Steamwheedle3), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 438
 // Items: I0LS (WC2ORCACT02Steamwheedle3), Description (Description)
 {
-30000...
+30000…
 }
 
 STRING 439
@@ -1691,13 +1691,13 @@ WC2ORCACT02Steamwheedle3
 STRING 440
 // Items: I0LT (WC2ORCACT02Steamwheedle4), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 441
 // Items: I0LT (WC2ORCACT02Steamwheedle4), Description (Description)
 {
-28000...
+28000…
 }
 
 STRING 442
@@ -1709,13 +1709,13 @@ WC2ORCACT02Steamwheedle4
 STRING 443
 // Items: I0LU (WC2ORCACT02Steamwheedle5), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 444
 // Items: I0LU (WC2ORCACT02Steamwheedle5), Description (Description)
 {
-27000...
+27000…
 }
 
 STRING 445
@@ -1727,13 +1727,13 @@ WC2ORCACT02Steamwheedle5
 STRING 446
 // Items: I0LV (WC2ORCACT02Steamwheedle6), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 447
 // Items: I0LV (WC2ORCACT02Steamwheedle6), Description (Description)
 {
-Oki oki! Jeez...  I will give you ANOTHER discount, 20000 Stormwind Royals it is!
+Окей, окей! Боже… Я тобі дам іншу знижку, 20000 штормовійських дублонів за все!
 }
 
 STRING 448
@@ -1745,13 +1745,13 @@ WC2ORCACT02Steamwheedle6
 STRING 449
 // Items: I0LW (WC2ORCACT02Steamwheedle7), Tip (Tooltip - Basic)
 {
-Trade Prince Steamwheedle
+Торговий Принц Хитрої Шестрерні
 }
 
 STRING 450
 // Items: I0LW (WC2ORCACT02Steamwheedle7), Description (Description)
 {
-Another satisfied customer! I will send you my finest engineers, warchief!
+Отак от, ще один задоволений клієнт! Вождь, я відправлю до тебе своїх кращих інженерів!
 }
 
 STRING 451
@@ -1763,13 +1763,13 @@ WC2ORCACT02Steamwheedle7
 STRING 452
 // Items: I0LX (WC2ORCACT02Tharbek1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 453
 // Items: I0LX (WC2ORCACT02Tharbek1), Description (Description)
 {
-Warchief, Rend Blackhand has returned with the troll Chieftain.
+Вождь, Ренд Чорнорук повернувся з отаманом тролів.
 }
 
 STRING 454
@@ -1781,13 +1781,13 @@ WC2ORCACT02Tharbek1
 STRING 455
 // Items: I0LY (WC2ORCACT02Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 456
 // Items: I0LY (WC2ORCACT02Rend1), Description (Description)
 {
-Lok’tar, Warchief! I present to you the leader of the Amani, Warlord Zul’jin.
+Лок'тар вождь. Представляю тобі лідера тролів Амані, воєводу Зул'джина.
 }
 
 STRING 457
@@ -1799,13 +1799,13 @@ WC2ORCACT02Rend1
 STRING 458
 // Items: I0LZ (WC2ORCACT02Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 459
 // Items: I0LZ (WC2ORCACT02Rend2), Description (Description)
 {
-The trolls were penned and chained. The humans were careless... assuming that the only threat in the forest was the one that they had already captured. No one who saw us at Durnholde survived.
+Тролі були схоплені та поневолені. Але люди були необачними… припускаючи, що єдиною загрозою в лісі була та, яку вони вже схопили. Ніхто з тих, хто бачив нас у Дарнгольді, не вижив.
 }
 
 STRING 460
@@ -1817,13 +1817,13 @@ WC2ORCACT02Rend2
 STRING 461
 // Items: I0Lz (WC2ORCACT02Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 462
 // Items: I0Lz (WC2ORCACT02Rend3), Description (Description)
 {
-The township of Hillsbrad has been decimated and throughout the human kingdoms the rumors of impending doom are spreading like wildfire.
+Містечко Гіллсбрад стерто з лиця землі, а по всьому королівству людей немов лісова пожежа, ширяться чутки про загибель, що насувається.
 }
 
 STRING 463
@@ -1835,13 +1835,13 @@ WC2ORCACT02Rend3
 STRING 464
 // Items: I0Ly (WC2ORCACT02Zuljin1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 465
 // Items: I0Ly (WC2ORCACT02Zuljin1), Description (Description)
 {
-Your warriors saved us. We fought side by side at Southshore and Hillsbrad. It is an honor for da trolls to be in your Horde.
+Твої воїни врятували нас. Ми билися пліч-о-пліч на південних берега та Гіллсбраді. Це честь для тролів бути у вашій Орді.
 }
 
 STRING 466
@@ -1853,13 +1853,13 @@ WC2ORCACT02Zuljin1
 STRING 467
 // Items: I0Lx (WC2ORCACT02Zuljin2), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 468
 // Items: I0Lx (WC2ORCACT02Zuljin2), Description (Description)
 {
-Your Horde still seekin‘ to conquer the world, ya?
+Ваша Орда все ще прагне завоювати цей світ, так?
 }
 
 STRING 469
@@ -1871,13 +1871,13 @@ WC2ORCACT02Zuljin2
 STRING 470
 // Items: I0Lw (WC2ORCACT02Zuljin3), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 471
 // Items: I0Lw (WC2ORCACT02Zuljin3), Description (Description)
 {
-We be aidin‘ you, just as you aided us. Destiny gives us a chance to push back the pinkskins, retake our lands and conquer new places for our kin. Trolls and orcs be allies now - bound by blood!
+Ми допоможемо вам, як і ви нам. Доля дає нам шанс відтіснити рожевошкірих, повернути свої землі та завоювати нові для нашого племені. Тролі й орки тепер стануть союзниками — які пов'язані кров'ю!
 }
 
 STRING 472
@@ -1889,13 +1889,13 @@ WC2ORCACT02Zuljin3
 STRING 473
 // Items: I0Lv (WC2ORCACT02Varok1), Tip (Tooltip - Basic)
 {
-Varok Saurfang
+Варок Саурфанґ
 }
 
 STRING 474
 // Items: I0Lv (WC2ORCACT02Varok1), Description (Description)
 {
-Over there, little goblin...
+Ось там, маленький гобліне…
 }
 
 STRING 475
@@ -1907,13 +1907,13 @@ WC2ORCACT02Varok1
 STRING 476
 // Items: I0Lu (WC2ORCACT02Varok2), Tip (Tooltip - Basic)
 {
-Varok Saurfang
+Варок Саурфанґ
 }
 
 STRING 477
 // Items: I0Lu (WC2ORCACT02Varok2), Description (Description)
 {
-For the last year, our forces have successfully conquered almost all of the Khaz Modan subcontinent. The only regions that still oppose us are the eastern coast and Ironforge itself.
+За останній рік наші війська успішно завоювали майже весь субконтинент Хаз Модан. Єдині два регіони, які все ще протистоять нам, це східне узбережжя та столиця Стальгорн.
 }
 
 STRING 478
@@ -1925,13 +1925,13 @@ WC2ORCACT02Varok2
 STRING 479
 // Items: I0Lt (WC2ORCACT02Varok3), Tip (Tooltip - Basic)
 {
-Varok Saurfang
+Варок Саурфанґ
 }
 
 STRING 480
 // Items: I0Lt (WC2ORCACT02Varok3), Description (Description)
 {
-It will be done, Warchief!
+Буде зроблено, вождь!
 }
 
 STRING 481
@@ -1943,13 +1943,13 @@ WC2ORCACT02Varok3
 STRING 482
 // Items: I0Ls (WC2ORCACT02Kilrogg1), Tip (Tooltip - Basic)
 {
-Kilrogg Deadeye
+Кілроґґ Мертве Око
 }
 
 STRING 483
 // Items: I0Ls (WC2ORCACT02Kilrogg1), Description (Description)
 {
-Yes Warchief, our troops are prepared to fight.
+Так вождь, наші війська готові до бою.
 }
 
 STRING 484
@@ -1961,13 +1961,13 @@ WC2ORCACT02Kilrogg1
 STRING 485
 // Items: I0Lr (WC2ORCACT02Samuro1), Tip (Tooltip - Basic)
 {
-Samuro
+Самуро
 }
 
 STRING 486
 // Items: I0Lr (WC2ORCACT02Samuro1), Description (Description)
 {
-The Burning Blade will not fail you, Warchief.
+Клан Палаючого Клинку не підведе тебе, вождь.
 }
 
 STRING 487
@@ -1985,7 +1985,7 @@ Zuluhed the Whacked
 STRING 489
 // Items: I0Lq (WC2ORCACT02Zuluhed1), Description (Description)
 {
-Yes, Warchief.
+Так, вождь.
 }
 
 STRING 490
@@ -1997,13 +1997,13 @@ WC2ORCACT02Zuluhed1
 STRING 491
 // Items: I0Lp (WC2ORCACT02TeronGor1), Tip (Tooltip - Basic)
 {
-Teron'gor
+Терон'кров
 }
 
 STRING 492
 // Items: I0Lp (WC2ORCACT02TeronGor1), Description (Description)
 {
-Warchief, please, I mean no disrespect but you must be patient. Gul’dan is working hard on your task in his laboratory on Balor Island.
+Вождь, при всій повазі, ти маєш проявити трохи терпіння. Ґул'дан старанно працює над твоїм завданням у своїй лабораторії на острові Балор.
 }
 
 STRING 493
@@ -2015,13 +2015,13 @@ WC2ORCACT02TeronGor1
 STRING 494
 // Items: I0Lo (WC2ORCACT02TeronGor2), Tip (Tooltip - Basic)
 {
-Teron'gor
+Терон'кров
 }
 
 STRING 495
 // Items: I0Lo (WC2ORCACT02TeronGor2), Description (Description)
 {
-Yes, Warchief.
+Так, вождь.
 }
 
 STRING 496
@@ -2033,7 +2033,7 @@ WC2ORCACT02TeronGor2
 STRING 498
 // Items: I0Ln (WC2ORCACT02Nekros), Description (Description)
 {
-As you wish, Warchief.
+Як побажаєш, вождь.
 }
 
 STRING 499
@@ -2045,13 +2045,13 @@ WC2ORCACT02Nekros
 STRING 500
 // Items: I1La (WC2ORCACT02Etrigg1), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 501
 // Items: I1La (WC2ORCACT02Etrigg1), Description (Description)
 {
-Our massive success at Crestfall has guaranteed that the western shores of Khaz Modan are ours. Our forces in Dun Argath will ensure that no human support will ever reach the dwarves by sea. The north passage to Lordaeron is cut off by our garrison in Dun Modr. The Dwarves are caught.
+Наш масштабний успіх у Крестфоллі гарантував, що західні береги Хаз Модану належать нам. Наші сили в Дун Арґаті гарантуватимуть, що ніяка людська підтримка ніколи не досягне дворфів морем. Північний прохід до Лордерону відрізаний нашим гарнізоном у Дун Модрі. Дворфи у пастці.
 }
 
 STRING 502
@@ -2063,6 +2063,6 @@ WC2ORCACT02Etrigg1
 STRING 503
 // Items: I0Ln (WC2ORCACT02Nekros), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
