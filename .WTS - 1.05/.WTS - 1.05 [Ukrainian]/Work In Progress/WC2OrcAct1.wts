@@ -1,0 +1,4316 @@
+﻿STRING 1
+{
+WC2OrcAct1
+}
+
+STRING 2
+{
+Act I: The Seas of Blood
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 180
+// Війська: n008 (Судно), EditorSuffix (Назва - суфікс редактора)
+{
+A
+}
+
+STRING 301
+// Війська: n608 (Monk), Name (Назва)
+{
+Monk
+}
+
+STRING 302
+// Війська: n608 (Monk), Ubertip (Підказка - розширена)
+{
+Kind priest.
+}
+
+STRING 303
+// Війська: n608 (Monk), Tip (Підказка - базова)
+{
+Holy cleric.
+}
+
+STRING 313
+// Війська: n00A (Судно), EditorSuffix (Назва - суфікс редактора)
+{
+C
+}
+
+STRING 351
+// Штуки для знищення: B61B (Long Cliff Bridge), EditorSuffix (Суфікс редактора)
+{
+(Cinematic)
+}
+
+STRING 415
+// Війська: n007 (Судно), EditorSuffix (Назва - суфікс редактора)
+{
+D
+}
+
+STRING 445
+// Війська: o008 (Cinematic Grunt), Ubertip (Підказка - розширена)
+{
+Brutish Orc warrior. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 577
+// Штуки для знищення: B60O (Ironforge Gate), EditorSuffix (Суфікс редактора)
+{
+(Cinematic)
+}
+
+STRING 601
+// Штуки для знищення: B621 (Orcish Stone Wall), Name (Назва)
+{
+Orcish Stone Wall
+}
+
+STRING 613
+// Штуки для знищення: B60R (Spike Wall), Name (Назва)
+{
+Spike Wall
+}
+
+STRING 614
+// Декорації: D61D (Spike Wall), Name (Назва)
+{
+Spike Wall
+}
+
+STRING 667
+// Декорації: D6GR (Shark), Name (Назва)
+{
+Shark
+}
+
+STRING 887
+// Штуки для знищення: LTex (Barrel with Oil), Name (Назва)
+{
+Barrel with Oil
+}
+
+STRING 890
+// Декорації: D60M (Telescope), Name (Назва)
+{
+Telescope
+}
+
+STRING 908
+// Штуки для знищення: ATwf (Wharf), Name (Назва)
+{
+Wharf
+}
+
+STRING 909
+// Штуки для знищення: GTsh (Shrooms), Name (Назва)
+{
+Shrooms
+}
+
+STRING 910
+// Штуки для знищення: B615 (Barrel with Oil), Name (Назва)
+{
+Barrel with Oil
+}
+
+STRING 911
+// Штуки для знищення: OTsp (Portal), Name (Назва)
+{
+Portal
+}
+
+STRING 912
+// Штуки для знищення: B605 (Platform), Name (Назва)
+{
+Platform
+}
+
+STRING 913
+// Штуки для знищення: B606 (Garrison Gate), Name (Назва)
+{
+Garrison Gate
+}
+
+STRING 914
+// Штуки для знищення: B606 (Garrison Gate), EditorSuffix (Суфікс редактора)
+{
+(no Path)
+}
+
+STRING 915
+// Штуки для знищення: B607 (Orc Wall), Name (Назва)
+{
+Orc Wall
+}
+
+STRING 916
+// Штуки для знищення: B60C (Orc Wall), Name (Назва)
+{
+Orc Wall
+}
+
+STRING 917
+// Штуки для знищення: B60C (Orc Wall), EditorSuffix (Суфікс редактора)
+{
+(2)
+}
+
+STRING 918
+// Штуки для знищення: B60G (Giant Tree), Name (Назва)
+{
+Giant Tree
+}
+
+STRING 919
+// Штуки для знищення: B60J (Vines), Name (Назва)
+{
+Vines
+}
+
+STRING 920
+// Штуки для знищення: B60K (Cinematic Gate), Name (Назва)
+{
+Cinematic Gate
+}
+
+STRING 921
+// Штуки для знищення: B60M (Castle Tower), Name (Назва)
+{
+Castle Tower
+}
+
+STRING 922
+// Штуки для знищення: B60P (Cavern), Name (Назва)
+{
+Cavern
+}
+
+STRING 923
+// Штуки для знищення: B60Q (Stone Wall), Name (Назва)
+{
+Stone Wall
+}
+
+STRING 925
+// Штуки для знищення: B610 (City Stairs), Name (Назва)
+{
+City Stairs
+}
+
+STRING 927
+// Штуки для знищення: B615 (Barrel with Oil), EditorSuffix (Суфікс редактора)
+{
+(No Path)
+}
+
+STRING 928
+// Штуки для знищення: B616 (Fire Gust), Name (Назва)
+{
+Fire Gust
+}
+
+STRING 929
+// Штуки для знищення: B617 (Fire), Name (Назва)
+{
+Fire
+}
+
+STRING 930
+// Штуки для знищення: B61B (Long Cliff Bridge), Name (Назва)
+{
+Long Cliff Bridge
+}
+
+STRING 932
+// Штуки для знищення: B61F (Castle Wall Corner), Name (Назва)
+{
+Castle Wall Corner
+}
+
+STRING 933
+// Штуки для знищення: B61G (Castle Wall Straight), Name (Назва)
+{
+Castle Wall Straight
+}
+
+STRING 934
+// Штуки для знищення: B61H (Castle Wall Short Door), Name (Назва)
+{
+Castle Wall Short Door
+}
+
+STRING 935
+// Штуки для знищення: B61I (Castle Wall Long), Name (Назва)
+{
+Castle Wall Long
+}
+
+STRING 936
+// Штуки для знищення: B61J (Castle Wall Straight Door), Name (Назва)
+{
+Castle Wall Straight Door
+}
+
+STRING 937
+// Штуки для знищення: B61K (Ice trap), Name (Назва)
+{
+Ice trap
+}
+
+STRING 938
+// Штуки для знищення: B61L (Ice Hover), Name (Назва)
+{
+Ice Hover
+}
+
+STRING 939
+// Штуки для знищення: B61L (Ice Hover), EditorSuffix (Суфікс редактора)
+{
+(No Path)
+}
+
+STRING 940
+// Штуки для знищення: B61P (Iron Gate ), EditorSuffix (Суфікс редактора)
+{
+(No Path)
+}
+
+STRING 941
+// Штуки для знищення: B61P (Iron Gate ), Name (Назва)
+{
+Iron Gate 
+}
+
+STRING 942
+// Штуки для знищення: B61R (Ice Platform), Name (Назва)
+{
+Ice Platform
+}
+
+STRING 943
+// Штуки для знищення: B61S (Ice Hover), Name (Назва)
+{
+Ice Hover
+}
+
+STRING 944
+// Штуки для знищення: B61S (Ice Hover), EditorSuffix (Суфікс редактора)
+{
+(Path)
+}
+
+STRING 946
+// Штуки для знищення: B62N (Big Door), Name (Назва)
+{
+Big Door
+}
+
+STRING 947
+// Штуки для знищення: B62R (Old Tomb), Name (Назва)
+{
+Old Tomb
+}
+
+STRING 948
+// Штуки для знищення: B62S (Altar With the Book), Name (Назва)
+{
+Altar With the Book
+}
+
+STRING 949
+// Штуки для знищення: B62T (Egg), Name (Назва)
+{
+Egg
+}
+
+STRING 950
+// Штуки для знищення: B60O (Ironforge Gate), Name (Назва)
+{
+Ironforge Gate
+}
+
+STRING 952
+// Штуки для знищення: B60A (Castle Wall Short), Name (Назва)
+{
+Castle Wall Short
+}
+
+STRING 953
+// Штуки для знищення: B60B (Marble Floor), Name (Назва)
+{
+Marble Floor
+}
+
+STRING 954
+// Штуки для знищення: B600 (Cliffs), Name (Назва)
+{
+Cliffs
+}
+
+STRING 955
+// Штуки для знищення: B600 (Cliffs), EditorSuffix (Суфікс редактора)
+{
+(Ramp)
+}
+
+STRING 956
+// Штуки для знищення: B601 (Cliffs Red Barrens), Name (Назва)
+{
+Cliffs Red Barrens
+}
+
+STRING 957
+// Штуки для знищення: B601 (Cliffs Red Barrens), EditorSuffix (Суфікс редактора)
+{
+(Ramp)
+}
+
+STRING 958
+// Штуки для знищення: B602 (Cliffs), Name (Назва)
+{
+Cliffs
+}
+
+STRING 959
+// Штуки для знищення: B602 (Cliffs), EditorSuffix (Суфікс редактора)
+{
+(Doodad Red)
+}
+
+STRING 960
+// Штуки для знищення: B603 (Cliffs), Name (Назва)
+{
+Cliffs
+}
+
+STRING 961
+// Штуки для знищення: B603 (Cliffs), EditorSuffix (Суфікс редактора)
+{
+(Doodad)
+}
+
+STRING 962
+// Штуки для знищення: B604 (Cliffs), Name (Назва)
+{
+Cliffs
+}
+
+STRING 963
+// Штуки для знищення: B604 (Cliffs), EditorSuffix (Суфікс редактора)
+{
+(Doodad BlackRed)
+}
+
+STRING 964
+// Штуки для знищення: B608 (Cliffs Red Dungeon ), Name (Назва)
+{
+Cliffs Red Dungeon 
+}
+
+STRING 965
+// Штуки для знищення: B608 (Cliffs Red Dungeon ), EditorSuffix (Суфікс редактора)
+{
+(Ramp)
+}
+
+STRING 966
+// Штуки для знищення: B60D (Dungeon Platform), Name (Назва)
+{
+Dungeon Platform
+}
+
+STRING 967
+// Штуки для знищення: B609 (Cliffs), Name (Назва)
+{
+Cliffs
+}
+
+STRING 968
+// Штуки для знищення: B609 (Cliffs), EditorSuffix (Суфікс редактора)
+{
+(Doodad Black)
+}
+
+STRING 969
+// Штуки для знищення: B60E (Cliffs Dark Dungeon), Name (Назва)
+{
+Cliffs Dark Dungeon
+}
+
+STRING 970
+// Штуки для знищення: B60E (Cliffs Dark Dungeon), EditorSuffix (Суфікс редактора)
+{
+(Ramp)
+}
+
+STRING 971
+// Штуки для знищення: B60H (TreePlanter), Name (Назва)
+{
+TreePlanter
+}
+
+STRING 972
+// Штуки для знищення: B60L (Winter Canopy Bush), Name (Назва)
+{
+Winter Canopy Bush
+}
+
+STRING 973
+// Штуки для знищення: B60N (Fallen Winter Tree), Name (Назва)
+{
+Fallen Winter Tree
+}
+
+STRING 974
+// Штуки для знищення: B60S (Fallen Winter Tree), Name (Назва)
+{
+Fallen Winter Tree
+}
+
+STRING 975
+// Штуки для знищення: B60S (Fallen Winter Tree), EditorSuffix (Суфікс редактора)
+{
+(2)
+}
+
+STRING 976
+// Штуки для знищення: B60T (Lighthouse), Name (Назва)
+{
+Lighthouse
+}
+
+STRING 977
+// Штуки для знищення: B60U (Chest), Name (Назва)
+{
+Chest
+}
+
+STRING 978
+// Штуки для знищення: B60W (Lumber Stash), Name (Назва)
+{
+Lumber Stash
+}
+
+STRING 979
+// Штуки для знищення: B619 (Gold (Inactive)), Name (Назва)
+{
+Gold (Inactive)
+}
+
+STRING 980
+// Штуки для знищення: B61A (Gold (Active)), Name (Назва)
+{
+Gold (Active)
+}
+
+STRING 981
+// Штуки для знищення: B61C (AllianceBanner), Name (Назва)
+{
+AllianceBanner
+}
+
+STRING 982
+// Штуки для знищення: B61M (Support Beam), Name (Назва)
+{
+Support Beam
+}
+
+STRING 983
+// Штуки для знищення: B61M (Support Beam), EditorSuffix (Суфікс редактора)
+{
+Orc Cinematic
+}
+
+STRING 984
+// Штуки для знищення: B61N (Big Cage Wall), Name (Назва)
+{
+Big Cage Wall
+}
+
+STRING 985
+// Штуки для знищення: B61O (Big Cage Wall), Name (Назва)
+{
+Big Cage Wall
+}
+
+STRING 986
+// Штуки для знищення: B61Q (Деревна стіна Нортренду), EditorSuffix (Суфікс редактора)
+{
+(Mission02)
+}
+
+STRING 987
+// Штуки для знищення: B60V (Bushes), Name (Назва)
+{
+Bushes
+}
+
+STRING 988
+// Штуки для знищення: B61U (Hillsbrad Clock Tower), Name (Назва)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 989
+// Штуки для знищення: B61V (Hillsbrad Clock Tower), Name (Назва)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 990
+// Штуки для знищення: B61V (Hillsbrad Clock Tower), EditorSuffix (Суфікс редактора)
+{
+(Destroyed)
+}
+
+STRING 991
+// Штуки для знищення: B61W (City Windows), Name (Назва)
+{
+City Windows
+}
+
+STRING 992
+// Штуки для знищення: B61X (Orc Grave Stone), Name (Назва)
+{
+Orc Grave Stone
+}
+
+STRING 993
+// Штуки для знищення: B61Y (Rubble), Name (Назва)
+{
+Rubble
+}
+
+STRING 994
+// Штуки для знищення: B61Z (Spider Web), Name (Назва)
+{
+Spider Web
+}
+
+STRING 995
+// Штуки для знищення: B60F (Arathor Statue), Name (Назва)
+{
+Arathor Statue
+}
+
+STRING 996
+// Штуки для знищення: B60I (Winter Canopy Bush), Name (Назва)
+{
+Winter Canopy Bush
+}
+
+STRING 997
+// Штуки для знищення: B60I (Winter Canopy Bush), EditorSuffix (Суфікс редактора)
+{
+(Variations)
+}
+
+STRING 998
+// Штуки для знищення: B60X (Castle Wall Corner), Name (Назва)
+{
+Castle Wall Corner
+}
+
+STRING 999
+// Штуки для знищення: B60X (Castle Wall Corner), EditorSuffix (Суфікс редактора)
+{
+(Alternate)
+}
+
+STRING 1000
+// Штуки для знищення: B60Y (Castle Wall T), Name (Назва)
+{
+Castle Wall T
+}
+
+STRING 1001
+// Штуки для знищення: B60Z (Castle Wall T), Name (Назва)
+{
+Castle Wall T
+}
+
+STRING 1002
+// Штуки для знищення: B60Z (Castle Wall T), EditorSuffix (Суфікс редактора)
+{
+(Alternate)
+}
+
+STRING 1003
+// Штуки для знищення: B611 (Castle Wall T), Name (Назва)
+{
+Castle Wall T
+}
+
+STRING 1004
+// Штуки для знищення: B611 (Castle Wall T), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1005
+// Штуки для знищення: B612 (Castle Wall T), Name (Назва)
+{
+Castle Wall T
+}
+
+STRING 1006
+// Штуки для знищення: B612 (Castle Wall T), EditorSuffix (Суфікс редактора)
+{
+(Wide Alternate)
+}
+
+STRING 1007
+// Штуки для знищення: B613 (Castle Wall Corner), Name (Назва)
+{
+Castle Wall Corner
+}
+
+STRING 1008
+// Штуки для знищення: B613 (Castle Wall Corner), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1009
+// Штуки для знищення: B614 (Castle Wall Corner), Name (Назва)
+{
+Castle Wall Corner
+}
+
+STRING 1010
+// Штуки для знищення: B614 (Castle Wall Corner), EditorSuffix (Суфікс редактора)
+{
+(Wide Alternate)
+}
+
+STRING 1011
+// Штуки для знищення: B618 (Castle Wall Long), Name (Назва)
+{
+Castle Wall Long
+}
+
+STRING 1012
+// Штуки для знищення: B618 (Castle Wall Long), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1013
+// Штуки для знищення: B61D (Castle Wall Short), Name (Назва)
+{
+Castle Wall Short
+}
+
+STRING 1014
+// Штуки для знищення: B61D (Castle Wall Short), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1015
+// Штуки для знищення: B61E (Castle Wall Straight), Name (Назва)
+{
+Castle Wall Straight
+}
+
+STRING 1016
+// Штуки для знищення: B61E (Castle Wall Straight), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1017
+// Штуки для знищення: B61T (Castle Wall Straight Door), Name (Назва)
+{
+Castle Wall Straight Door
+}
+
+STRING 1018
+// Штуки для знищення: B61T (Castle Wall Straight Door), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1019
+// Штуки для знищення: B620 (Castle Wall Short Door), Name (Назва)
+{
+Castle Wall Short Door
+}
+
+STRING 1020
+// Штуки для знищення: B620 (Castle Wall Short Door), EditorSuffix (Суфікс редактора)
+{
+(Wide)
+}
+
+STRING 1021
+// Штуки для знищення: B622 (Castle Archway), Name (Назва)
+{
+Castle Archway
+}
+
+STRING 1022
+// Штуки для знищення: B623 (Castle Wall Stairs), Name (Назва)
+{
+Castle Wall Stairs
+}
+
+STRING 1023
+// Штуки для знищення: B624 (Knight Statue), Name (Назва)
+{
+Knight Statue
+}
+
+STRING 1024
+// Штуки для знищення: B625 (CliffBaseA), Name (Назва)
+{
+CliffBaseA
+}
+
+STRING 1025
+// Штуки для знищення: B626 (CliffBaseB), Name (Назва)
+{
+CliffBaseB
+}
+
+STRING 1026
+// Штуки для знищення: B627 (CliffBaseC), Name (Назва)
+{
+CliffBaseC
+}
+
+STRING 1027
+// Штуки для знищення: B628 (CliffBaseD), Name (Назва)
+{
+CliffBaseD
+}
+
+STRING 1028
+// Штуки для знищення: B629 (DarkCliff), Name (Назва)
+{
+DarkCliff
+}
+
+STRING 1029
+// Штуки для знищення: B629 (DarkCliff), EditorSuffix (Суфікс редактора)
+{
+(Felwood)
+}
+
+STRING 1030
+// Штуки для знищення: B62A (DarkCliffSmall), Name (Назва)
+{
+DarkCliffSmall
+}
+
+STRING 1031
+// Штуки для знищення: B62A (DarkCliffSmall), EditorSuffix (Суфікс редактора)
+{
+(Felwood)
+}
+
+STRING 1032
+// Штуки для знищення: B62B (DesertCliff), Name (Назва)
+{
+DesertCliff
+}
+
+STRING 1033
+// Штуки для знищення: B62B (DesertCliff), EditorSuffix (Суфікс редактора)
+{
+(Barrens)
+}
+
+STRING 1034
+// Штуки для знищення: B62C (DesertCliffSmall), Name (Назва)
+{
+DesertCliffSmall
+}
+
+STRING 1035
+// Штуки для знищення: B62C (DesertCliffSmall), EditorSuffix (Суфікс редактора)
+{
+(Barrens)
+}
+
+STRING 1036
+// Штуки для знищення: B62D (DesertCliffLight), Name (Назва)
+{
+DesertCliffLight
+}
+
+STRING 1037
+// Штуки для знищення: B62D (DesertCliffLight), EditorSuffix (Суфікс редактора)
+{
+(Barrens)
+}
+
+STRING 1038
+// Штуки для знищення: B62E (DesertCliffLightSmall), Name (Назва)
+{
+DesertCliffLightSmall
+}
+
+STRING 1039
+// Штуки для знищення: B62E (DesertCliffLightSmall), EditorSuffix (Суфікс редактора)
+{
+(Barrens)
+}
+
+STRING 1040
+// Штуки для знищення: B62F (SummerCliff), Name (Назва)
+{
+SummerCliff
+}
+
+STRING 1041
+// Штуки для знищення: B62G (SummerCliffSmall), Name (Назва)
+{
+SummerCliffSmall
+}
+
+STRING 1042
+// Штуки для знищення: B62H (WetlandsCliff), Name (Назва)
+{
+WetlandsCliff
+}
+
+STRING 1043
+// Штуки для знищення: B62I (WetlandsCliff), Name (Назва)
+{
+WetlandsCliff
+}
+
+STRING 1044
+// Штуки для знищення: B62I (WetlandsCliff), EditorSuffix (Суфікс редактора)
+{
+(Small)
+}
+
+STRING 1045
+// Штуки для знищення: B62J (WinterCliff), Name (Назва)
+{
+WinterCliff
+}
+
+STRING 1046
+// Штуки для знищення: B62K (WinterCliff), Name (Назва)
+{
+WinterCliff
+}
+
+STRING 1047
+// Штуки для знищення: B62K (WinterCliff), EditorSuffix (Суфікс редактора)
+{
+(Small)
+}
+
+STRING 1048
+// Штуки для знищення: B62L (WinterSnowCliff), Name (Назва)
+{
+WinterSnowCliff
+}
+
+STRING 1049
+// Штуки для знищення: B62M (WinterSnowCliff), Name (Назва)
+{
+WinterSnowCliff
+}
+
+STRING 1050
+// Штуки для знищення: B62M (WinterSnowCliff), EditorSuffix (Суфікс редактора)
+{
+(Small)
+}
+
+STRING 1051
+// Декорації: D600 (Wasteland Tree Cinematic), Name (Назва)
+{
+Wasteland Tree Cinematic
+}
+
+STRING 1052
+// Декорації: D601 (Kul Tiras Banner), Name (Назва)
+{
+Kul Tiras Banner
+}
+
+STRING 1053
+// Декорації: D602 (Alterac Banner), Name (Назва)
+{
+Alterac Banner
+}
+
+STRING 1054
+// Декорації: D603 (Stormwind Banner), Name (Назва)
+{
+Stormwind Banner
+}
+
+STRING 1055
+// Декорації: D604 (Dwarf Statue), Name (Назва)
+{
+Dwarf Statue
+}
+
+STRING 1056
+// Декорації: D605 (Water Fall FX), Name (Назва)
+{
+Water Fall FX
+}
+
+STRING 1057
+// Декорації: D606 (War Tent), Name (Назва)
+{
+War Tent
+}
+
+STRING 1058
+// Декорації: D607 (Shaman Tent), Name (Назва)
+{
+Shaman Tent
+}
+
+STRING 1059
+// Декорації: D608 (Nulcear Strike), Name (Назва)
+{
+Nulcear Strike
+}
+
+STRING 1060
+// Декорації: D60A (Crater(Pathless)), Name (Назва)
+{
+Crater(Pathless)
+}
+
+STRING 1061
+// Декорації: D60D (Circle Of Power WC2), Name (Назва)
+{
+Circle Of Power WC2
+}
+
+STRING 1062
+// Декорації: D60H (Square Tower), Name (Назва)
+{
+Square Tower
+}
+
+STRING 1063
+// Декорації: D60K (Dungeon Pillar), Name (Назва)
+{
+Dungeon Pillar
+}
+
+STRING 1065
+// Декорації: D60W (Warsong Banner), Name (Назва)
+{
+Warsong Banner
+}
+
+STRING 1066
+// Декорації: D60X (Bleeding Hollow Banner), Name (Назва)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1067
+// Декорації: D60Z (Storm Reaver Banner), Name (Назва)
+{
+Storm Reaver Banner
+}
+
+STRING 1068
+// Декорації: D612 (Twilight Clan Banner), Name (Назва)
+{
+Twilight Clan Banner
+}
+
+STRING 1069
+// Декорації: D613 (Black Tooth Grin Banner), Name (Назва)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1071
+// Декорації: D61E (Grass Tall), Name (Назва)
+{
+Grass Tall
+}
+
+STRING 1072
+// Декорації: D61N (Square Tower Tall), Name (Назва)
+{
+Square Tower Tall
+}
+
+STRING 1073
+// Декорації: D623 (Dwarven Banner), Name (Назва)
+{
+Dwarven Banner
+}
+
+STRING 1074
+// Декорації: D646 (Lava Plane), Name (Назва)
+{
+Lava Plane
+}
+
+STRING 1075
+// Декорації: D647 (Vines Poisoned), Name (Назва)
+{
+Vines Poisoned
+}
+
+STRING 1076
+// Декорації: D64C (Cavern Big), Name (Назва)
+{
+Cavern Big
+}
+
+STRING 1077
+// Декорації: D656 (Fountain 2), Name (Назва)
+{
+Fountain 2
+}
+
+STRING 1078
+// Декорації: D66P (QuelThalas Bush), Name (Назва)
+{
+QuelThalas Bush
+}
+
+STRING 1079
+// Декорації: D66T (Animated Bushes), Name (Назва)
+{
+Animated Bushes
+}
+
+STRING 1080
+// Декорації: D66U (Winter Bush A), Name (Назва)
+{
+Winter Bush A
+}
+
+STRING 1081
+// Декорації: D66W (Destroyed Weapon Rack), Name (Назва)
+{
+Destroyed Weapon Rack
+}
+
+STRING 1082
+// Декорації: D66X (Destroyed Weapon Rack 3), Name (Назва)
+{
+Destroyed Weapon Rack 3
+}
+
+STRING 1083
+// Декорації: D66Y (Destroyed Weapon Rack 2), Name (Назва)
+{
+Destroyed Weapon Rack 2
+}
+
+STRING 1084
+// Декорації: D66Z (Weapon Rack new 2), Name (Назва)
+{
+Weapon Rack new 2
+}
+
+STRING 1085
+// Декорації: D670 (Weapon Rack New 3), Name (Назва)
+{
+Weapon Rack New 3
+}
+
+STRING 1086
+// Декорації: D671 (Weapon Rack new), Name (Назва)
+{
+Weapon Rack new
+}
+
+STRING 1087
+// Декорації: D693 (Web Animated), Name (Назва)
+{
+Web Animated
+}
+
+STRING 1088
+// Декорації: D694 (Water Plane), Name (Назва)
+{
+Water Plane
+}
+
+STRING 1089
+// Декорації: D697 (Wisp Explode Effect), Name (Назва)
+{
+Wisp Explode Effect
+}
+
+STRING 1090
+// Декорації: D698 (Green Acid Effect), Name (Назва)
+{
+Green Acid Effect
+}
+
+STRING 1091
+// Декорації: D699 (Flying Skull FX), Name (Назва)
+{
+Flying Skull FX
+}
+
+STRING 1092
+// Декорації: D69A (Tranquility), Name (Назва)
+{
+Tranquility
+}
+
+STRING 1093
+// Декорації: D69B (Cloud), Name (Назва)
+{
+Cloud
+}
+
+STRING 1094
+// Декорації: D69C (Plague), Name (Назва)
+{
+Plague
+}
+
+STRING 1095
+// Декорації: D69D (Frenzy), Name (Назва)
+{
+Frenzy
+}
+
+STRING 1096
+// Декорації: D69E (Demonic Aura), Name (Назва)
+{
+Demonic Aura
+}
+
+STRING 1097
+// Декорації: D69F (Floor Magic Painting), Name (Назва)
+{
+Floor Magic Painting
+}
+
+STRING 1098
+// Декорації: D69J (Star leaves), Name (Назва)
+{
+Star leaves
+}
+
+STRING 1099
+// Декорації: D69Q (Dalaran Building Pathless), Name (Назва)
+{
+Dalaran Building Pathless
+}
+
+STRING 1100
+// Декорації: D69R (Dalaran Tower Pathless), Name (Назва)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1101
+// Штуки для знищення: B002 (Door), Name (Назва)
+{
+Door
+}
+
+STRING 1102
+// Декорації: D6A4 (Altar Doodad), Name (Назва)
+{
+Altar Doodad
+}
+
+STRING 1103
+// Декорації: D6A5 (Single Column Pathless), Name (Назва)
+{
+Single Column Pathless
+}
+
+STRING 1104
+// Декорації: D6A6 (Archway Pathless), Name (Назва)
+{
+Archway Pathless
+}
+
+STRING 1105
+// Декорації: D6A7 (House Doodad), Name (Назва)
+{
+House Doodad
+}
+
+STRING 1106
+// Декорації: D6A8 (Sky Storm), Name (Назва)
+{
+Sky Storm
+}
+
+STRING 1107
+// Декорації: D6A9 (Sky Cloud 2), Name (Назва)
+{
+Sky Cloud 2
+}
+
+STRING 1108
+// Декорації: D6AA (Sky Cloud 3), Name (Назва)
+{
+Sky Cloud 3
+}
+
+STRING 1109
+// Декорації: D6AB (Sky Cloud), Name (Назва)
+{
+Sky Cloud
+}
+
+STRING 1110
+// Декорації: D6AC (Glow), Name (Назва)
+{
+Glow
+}
+
+STRING 1111
+// Декорації: D6AD (Fog), Name (Назва)
+{
+Fog
+}
+
+STRING 1112
+// Декорації: D6AE (Light), Name (Назва)
+{
+Light
+}
+
+STRING 1113
+// Декорації: D6AF (Light From Aside), Name (Назва)
+{
+Light From Aside
+}
+
+STRING 1114
+// Декорації: D6AG (Light From Above), Name (Назва)
+{
+Light From Above
+}
+
+STRING 1115
+// Декорації: D6AH (Alternatice Lava Cracks), Name (Назва)
+{
+Alternatice Lava Cracks
+}
+
+STRING 1116
+// Декорації: D6AL (Wasteland Bush), Name (Назва)
+{
+Wasteland Bush
+}
+
+STRING 1117
+// Декорації: D6AM (Capital City Tower 2), Name (Назва)
+{
+Capital City Tower 2
+}
+
+STRING 1118
+// Декорації: D6AN (Capital City Dome), Name (Назва)
+{
+Capital City Dome
+}
+
+STRING 1119
+// Декорації: D6AO (Capital City Spire), Name (Назва)
+{
+Capital City Spire
+}
+
+STRING 1120
+// Декорації: D6AP (City Archway), Name (Назва)
+{
+City Archway
+}
+
+STRING 1121
+// Декорації: D6AT (Capital City Tower), Name (Назва)
+{
+Capital City Tower
+}
+
+STRING 1122
+// Декорації: D6AV (DragonMaw Banner), Name (Назва)
+{
+DragonMaw Banner
+}
+
+STRING 1123
+// Декорації: D6B2 (Dwarven Archway), Name (Назва)
+{
+Dwarven Archway
+}
+
+STRING 1124
+// Декорації: D6B3 (Moria Archway), Name (Назва)
+{
+Moria Archway
+}
+
+STRING 1125
+// Декорації: D6B9 (Underground Rock 01), Name (Назва)
+{
+Underground Rock 01
+}
+
+STRING 1126
+// Декорації: D6BA (Underground Rock 02), Name (Назва)
+{
+Underground Rock 02
+}
+
+STRING 1127
+// Декорації: D6BB (Underground Rock 03), Name (Назва)
+{
+Underground Rock 03
+}
+
+STRING 1128
+// Декорації: D6BC (Underground Rock 04), Name (Назва)
+{
+Underground Rock 04
+}
+
+STRING 1129
+// Декорації: D6BD (Underground Rock 05), Name (Назва)
+{
+Underground Rock 05
+}
+
+STRING 1130
+// Декорації: D6BE (Underground Rock 06), Name (Назва)
+{
+Underground Rock 06
+}
+
+STRING 1131
+// Декорації: D6BF (Underground Rock 07), Name (Назва)
+{
+Underground Rock 07
+}
+
+STRING 1132
+// Декорації: D6BG (Underground Rock 08), Name (Назва)
+{
+Underground Rock 08
+}
+
+STRING 1133
+// Декорації: D6BH (Underground Rock 09), Name (Назва)
+{
+Underground Rock 09
+}
+
+STRING 1134
+// Декорації: D6BL (Gold), Name (Назва)
+{
+Gold
+}
+
+STRING 1135
+// Декорації: D6BM (Railroad), Name (Назва)
+{
+Railroad
+}
+
+STRING 1136
+// Декорації: D6BN (Railroad Curve), Name (Назва)
+{
+Railroad Curve
+}
+
+STRING 1137
+// Декорації: D6BO (Railroad End), Name (Назва)
+{
+Railroad End
+}
+
+STRING 1138
+// Декорації: D6BP (Railroad Branch 02), Name (Назва)
+{
+Railroad Branch 02
+}
+
+STRING 1139
+// Декорації: D6BQ (Railroad Branch), Name (Назва)
+{
+Railroad Branch
+}
+
+STRING 1140
+// Декорації: D6BR (Glow Small), Name (Назва)
+{
+Glow Small
+}
+
+STRING 1141
+// Декорації: D6BS (Dirt Explosion), Name (Назва)
+{
+Dirt Explosion
+}
+
+STRING 1142
+// Декорації: D6BU (Fountain), Name (Назва)
+{
+Fountain
+}
+
+STRING 1143
+// Декорації: D6BV (Leaves Fall Dowm), Name (Назва)
+{
+Leaves Fall Dowm
+}
+
+STRING 1144
+// Декорації: D6CF (Circle of Power), Name (Назва)
+{
+Circle of Power
+}
+
+STRING 1145
+// Декорації: D6CG (Volcano Ashes), Name (Назва)
+{
+Volcano Ashes
+}
+
+STRING 1146
+// Декорації: D6CI (City Portal Doodad), Name (Назва)
+{
+City Portal Doodad
+}
+
+STRING 1147
+// Декорації: D6CL (Wood Supply), Name (Назва)
+{
+Wood Supply
+}
+
+STRING 1148
+// Декорації: D6CQ (Roots), Name (Назва)
+{
+Roots
+}
+
+STRING 1149
+// Декорації: D6CR (Cauldron Pathless), Name (Назва)
+{
+Cauldron Pathless
+}
+
+STRING 1150
+// Декорації: D6CS (Brazier Pathless), Name (Назва)
+{
+Brazier Pathless
+}
+
+STRING 1151
+// Декорації: D6CV (Banner Holder), Name (Назва)
+{
+Banner Holder
+}
+
+STRING 1152
+// Декорації: D6CW (Column Semi Circle Pathless), Name (Назва)
+{
+Column Semi Circle Pathless
+}
+
+STRING 1153
+// Декорації: D6CZ (Night Elves Banner), Name (Назва)
+{
+Night Elves Banner
+}
+
+STRING 1154
+// Декорації: D6D6 (Torture Cage), Name (Назва)
+{
+Torture Cage
+}
+
+STRING 1155
+// Декорації: D6D8 (Blood Splat 01), Name (Назва)
+{
+Blood Splat 01
+}
+
+STRING 1156
+// Декорації: D6D9 (Blood Splat 02), Name (Назва)
+{
+Blood Splat 02
+}
+
+STRING 1157
+// Декорації: D6DA (Blood Splat 03), Name (Назва)
+{
+Blood Splat 03
+}
+
+STRING 1158
+// Декорації: D6DB (Blood Splat 04), Name (Назва)
+{
+Blood Splat 04
+}
+
+STRING 1159
+// Декорації: D6DC (Blood Splat 05), Name (Назва)
+{
+Blood Splat 05
+}
+
+STRING 1160
+// Декорації: D6DD (Blood Splat 06), Name (Назва)
+{
+Blood Splat 06
+}
+
+STRING 1161
+// Декорації: D6DN (Dalaran Banner), Name (Назва)
+{
+Dalaran Banner
+}
+
+STRING 1162
+// Декорації: D6DO (StromGarde Banner), Name (Назва)
+{
+StromGarde Banner
+}
+
+STRING 1163
+// Декорації: D6DQ (Burning Blade Banner), Name (Назва)
+{
+Burning Blade Banner
+}
+
+STRING 1164
+// Декорації: D6DS (LavaFall), Name (Назва)
+{
+LavaFall
+}
+
+STRING 1165
+// Декорації: D6DT (Big Castle Doodad), Name (Назва)
+{
+Big Castle Doodad
+}
+
+STRING 1166
+// Декорації: D6DW (Wall Long Doodad), Name (Назва)
+{
+Wall Long Doodad
+}
+
+STRING 1167
+// Декорації: D6DX (Wall castle short), Name (Назва)
+{
+Wall castle short
+}
+
+STRING 1168
+// Декорації: D6E0 (Wall Pillar), Name (Назва)
+{
+Wall Pillar
+}
+
+STRING 1169
+// Декорації: D6E1 (Wall Door Big), Name (Назва)
+{
+Wall Door Big
+}
+
+STRING 1170
+// Декорації: D6E2 (Wall Door Grate), Name (Назва)
+{
+Wall Door Grate
+}
+
+STRING 1171
+// Декорації: D6E3 (Wall Door Small), Name (Назва)
+{
+Wall Door Small
+}
+
+STRING 1172
+// Декорації: D6E4 (Wall Door Tall Passage), Name (Назва)
+{
+Wall Door Tall Passage
+}
+
+STRING 1174
+// Декорації: D6E6 (Wall Pillar), Name (Назва)
+{
+Wall Pillar
+}
+
+STRING 1175
+// Декорації: D6E7 (Wall Torch), Name (Назва)
+{
+Wall Torch
+}
+
+STRING 1176
+// Декорації: D6E8 (Wall with Window), Name (Назва)
+{
+Wall with Window
+}
+
+STRING 1177
+// Декорації: D6E9 (Wall with Grate), Name (Назва)
+{
+Wall with Grate
+}
+
+STRING 1178
+// Декорації: D6EA (Window Royal Glass), Name (Назва)
+{
+Window Royal Glass
+}
+
+STRING 1179
+// Декорації: D6EB (Door Doodad), Name (Назва)
+{
+Door Doodad
+}
+
+STRING 1180
+// Декорації: D6ED (Capital City Structure Block), Name (Назва)
+{
+Capital City Structure Block
+}
+
+STRING 1181
+// Декорації: D6EE (Chest), Name (Назва)
+{
+Chest
+}
+
+STRING 1182
+// Декорації: D6EF (Horde Chest), Name (Назва)
+{
+Horde Chest
+}
+
+STRING 1183
+// Декорації: D6EG (Slaughterhouse), Name (Назва)
+{
+Slaughterhouse
+}
+
+STRING 1184
+// Декорації: D6EH (Book Green), Name (Назва)
+{
+Book Green
+}
+
+STRING 1185
+// Декорації: D6EI (Book Red), Name (Назва)
+{
+Book Red
+}
+
+STRING 1186
+// Декорації: D6EJ (Book Blue), Name (Назва)
+{
+Book Blue
+}
+
+STRING 1187
+// Декорації: D6ET (Books Pile C), Name (Назва)
+{
+Books Pile C
+}
+
+STRING 1188
+// Декорації: D6EU (Books Pile B), Name (Назва)
+{
+Books Pile B
+}
+
+STRING 1189
+// Декорації: D6EW (Books Pile A), Name (Назва)
+{
+Books Pile A
+}
+
+STRING 1190
+// Декорації: D6EX (Scrolls), Name (Назва)
+{
+Scrolls
+}
+
+STRING 1191
+// Декорації: D6EZ (Cloth 01), Name (Назва)
+{
+Cloth 01
+}
+
+STRING 1192
+// Декорації: D6F1 (Cloth Red), Name (Назва)
+{
+Cloth Red
+}
+
+STRING 1193
+// Декорації: D6F2 (Cloth Blue), Name (Назва)
+{
+Cloth Blue
+}
+
+STRING 1194
+// Декорації: D6F3 (Cloth 02), Name (Назва)
+{
+Cloth 02
+}
+
+STRING 1195
+// Декорації: D6F7 (Glow Small Red), Name (Назва)
+{
+Glow Small Red
+}
+
+STRING 1196
+// Декорації: D6F8 (Lightning Branched), Name (Назва)
+{
+Lightning Branched
+}
+
+STRING 1197
+// Декорації: D6F9 (Wheat), Name (Назва)
+{
+Wheat
+}
+
+STRING 1198
+// Декорації: D6FB (Ruined Cathedral Ancient), Name (Назва)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1199
+// Декорації: D6FN (Winter Crate snow), Name (Назва)
+{
+Winter Crate snow
+}
+
+STRING 1200
+// Декорації: D6FQ (Winter Snow Roadplank 3), Name (Назва)
+{
+Winter Snow Roadplank 3
+}
+
+STRING 1201
+// Декорації: D6FR (Winter Snow Roadplank 4), Name (Назва)
+{
+Winter Snow Roadplank 4
+}
+
+STRING 1202
+// Декорації: D6FS (Winter Snow Roadplank 2), Name (Назва)
+{
+Winter Snow Roadplank 2
+}
+
+STRING 1203
+// Декорації: D6FW (Winter Bush 4), Name (Назва)
+{
+Winter Bush 4
+}
+
+STRING 1204
+// Декорації: D6FX (Winter Rubble Stone 1), Name (Назва)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1205
+// Декорації: D6G6 (Wasteland Rock 1), Name (Назва)
+{
+Wasteland Rock 1
+}
+
+STRING 1206
+// Декорації: D6G7 (Wasteland Rock Small D), Name (Назва)
+{
+Wasteland Rock Small D
+}
+
+STRING 1207
+// Декорації: D6G8 (Wasteland Rock Small A), Name (Назва)
+{
+Wasteland Rock Small A
+}
+
+STRING 1208
+// Декорації: D6G9 (Wasteland Rock Small B), Name (Назва)
+{
+Wasteland Rock Small B
+}
+
+STRING 1209
+// Декорації: D6GA (Wasteland Rock Small C), Name (Назва)
+{
+Wasteland Rock Small C
+}
+
+STRING 1210
+// Декорації: D6GB (Ancient Stone 1), Name (Назва)
+{
+Ancient Stone 1
+}
+
+STRING 1211
+// Декорації: D6GC (Ancient Stone 2), Name (Назва)
+{
+Ancient Stone 2
+}
+
+STRING 1212
+// Декорації: D6GD (Ancient Stone 3), Name (Назва)
+{
+Ancient Stone 3
+}
+
+STRING 1213
+// Декорації: D6GE (Ancient Stone 4), Name (Назва)
+{
+Ancient Stone 4
+}
+
+STRING 1214
+// Декорації: D6GF (Ancient Stone 5), Name (Назва)
+{
+Ancient Stone 5
+}
+
+STRING 1215
+// Декорації: D6GG (Ancient Stone 6), Name (Назва)
+{
+Ancient Stone 6
+}
+
+STRING 1216
+// Декорації: D6GH (Aurora Borealis 1), Name (Назва)
+{
+Aurora Borealis 1
+}
+
+STRING 1217
+// Декорації: D6GI (Aurora Borealis 2), Name (Назва)
+{
+Aurora Borealis 2
+}
+
+STRING 1220
+// Декорації: D64B (Iron Forge Ext 01), Name (Назва)
+{
+Iron Forge Ext 01
+}
+
+STRING 1221
+// Декорації: D64F (Iron Forge Ext 02), Name (Назва)
+{
+Iron Forge Ext 02
+}
+
+STRING 1222
+// Декорації: D64G (Iron Forge Ext 03), Name (Назва)
+{
+Iron Forge Ext 03
+}
+
+STRING 1223
+// Декорації: D64I (Iron Forge Ext 04), Name (Назва)
+{
+Iron Forge Ext 04
+}
+
+STRING 1224
+// Декорації: D64K (LOD), Name (Назва)
+{
+LOD
+}
+
+STRING 1226
+// Декорації: D615 (Lordaeron Rock Spires), Name (Назва)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1227
+// Декорації: D616 (Snowy Rock Spire), Name (Назва)
+{
+Snowy Rock Spire
+}
+
+STRING 1228
+// Декорації: D617 (Archway Stone Winter Pathless), Name (Назва)
+{
+Archway Stone Winter Pathless
+}
+
+STRING 1229
+// Декорації: D60C (Wasteland Cliff Bottom), Name (Назва)
+{
+Wasteland Cliff Bottom
+}
+
+STRING 1230
+// Декорації: D60F (Dungeon Cliff Bottom), Name (Назва)
+{
+Dungeon Cliff Bottom
+}
+
+STRING 1231
+// Декорації: D60I (Dungeon Stone Basement), Name (Назва)
+{
+Dungeon Stone Basement
+}
+
+STRING 1232
+// Декорації: D60B (Dungeon Wall Straight), Name (Назва)
+{
+Dungeon Wall Straight
+}
+
+STRING 1233
+// Декорації: D60E (Dungeon Column Massive Round), Name (Назва)
+{
+Dungeon Column Massive Round
+}
+
+STRING 1234
+// Декорації: D60J (Banner Blackrock clan), Name (Назва)
+{
+Banner Blackrock clan
+}
+
+STRING 1235
+// Декорації: D609 (Rack Armor Orc), Name (Назва)
+{
+Rack Armor Orc
+}
+
+STRING 1236
+// Декорації: D60L (Rack Weapon Orc), Name (Назва)
+{
+Rack Weapon Orc
+}
+
+STRING 1237
+// Декорації: D60N (FireWoods), Name (Назва)
+{
+FireWoods
+}
+
+STRING 1238
+// Декорації: D60O (Refugee Banner), Name (Назва)
+{
+Refugee Banner
+}
+
+STRING 1239
+// Декорації: D60P (Rack Armor Silver Hand), Name (Назва)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1240
+// Декорації: D60Q (Rack Weapon Silver Hand), Name (Назва)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1241
+// Декорації: D60R (Steam Cloud), Name (Назва)
+{
+Steam Cloud
+}
+
+STRING 1242
+// Декорації: D60S (Digging Dust), Name (Назва)
+{
+Digging Dust
+}
+
+STRING 1243
+// Декорації: D60T (Sparks), Name (Назва)
+{
+Sparks
+}
+
+STRING 1244
+// Декорації: D60U (SharedFX Text), Name (Назва)
+{
+SharedFX Text
+}
+
+STRING 1245
+// Декорації: D60V (Wall Barred Small Endcap), Name (Назва)
+{
+Wall Barred Small Endcap
+}
+
+STRING 1246
+// Декорації: D60Y (Wall Barred Endcap Dark), Name (Назва)
+{
+Wall Barred Endcap Dark
+}
+
+STRING 1247
+// Декорації: D610 (Wall Barred Small Endcap Dark), Name (Назва)
+{
+Wall Barred Small Endcap Dark
+}
+
+STRING 1248
+// Декорації: D60G (Strategy Map), Name (Назва)
+{
+Strategy Map
+}
+
+STRING 1249
+// Декорації: D611 (Thandol Bridge), Name (Назва)
+{
+Thandol Bridge
+}
+
+STRING 1250
+// Декорації: D614 (Mountain01), Name (Назва)
+{
+Mountain01
+}
+
+STRING 1251
+// Декорації: D618 (Mountain02), Name (Назва)
+{
+Mountain02
+}
+
+STRING 1252
+// Декорації: D619 (Mountain03), Name (Назва)
+{
+Mountain03
+}
+
+STRING 1253
+// Декорації: D61A (Mountain04), Name (Назва)
+{
+Mountain04
+}
+
+STRING 2416
+// Штуки для знищення: B000 (City Stairs), Name (Назва)
+{
+City Stairs
+}
+
+STRING 2417
+// Штуки для знищення: B000 (City Stairs), EditorSuffix (Суфікс редактора)
+{
+(2)
+}
+
+STRING 2418
+{
+Horde
+}
+
+STRING 2419
+{
+Force
+}
+
+STRING 2560
+// Штуки для знищення: B001 (FloorBrick), Name (Назва)
+{
+FloorBrick
+}
+
+STRING 2655
+// Декорації: D69S (Door), Name (Назва)
+{
+Door
+}
+
+STRING 2708
+{
+Player 21
+}
+
+STRING 2710
+// Війська: ewsp (Head Target), Name (Назва)
+{
+Head Target
+}
+
+STRING 2746
+// Декорації: D6GQ (Wall Banner Black Rock), Name (Назва)
+{
+Wall Banner Black Rock
+}
+
+STRING 2747
+// Декорації: D000 (Wall Banner Black Tooth Grin), Name (Назва)
+{
+Wall Banner Black Tooth Grin
+}
+
+STRING 2748
+// Декорації: D001 (Wall Banner Bleeding Hollow), Name (Назва)
+{
+Wall Banner Bleeding Hollow
+}
+
+STRING 2749
+// Декорації: D002 (Wall Banner Burning Blade), Name (Назва)
+{
+Wall Banner Burning Blade
+}
+
+STRING 2750
+// Декорації: D003 (Wall Banner Dragonmaw), Name (Назва)
+{
+Wall Banner Dragonmaw
+}
+
+STRING 2751
+// Декорації: D004 (Wall Banner Twilight Hammer), Name (Назва)
+{
+Wall Banner Twilight Hammer
+}
+
+STRING 2760
+// Декорації: D005 (Rocks WaveBreak), Name (Назва)
+{
+Rocks WaveBreak
+}
+
+STRING 2822
+// Війська: n009 (Судно), EditorSuffix (Назва - суфікс редактора)
+{
+B
+}
+
+STRING 2826
+// Штуки для знищення: B003 (Strormwind Throne), Name (Назва)
+{
+Strormwind Throne
+}
+
+STRING 2827
+// Штуки для знищення: B004 (Strormwind Throne Base), Name (Назва)
+{
+Strormwind Throne Base
+}
+
+STRING 2828
+// Декорації: D006 (Shadow), Name (Назва)
+{
+Shadow
+}
+
+STRING 2830
+// Війська: o008 (Cinematic Grunt), EditorSuffix (Назва - суфікс редактора)
+{
+(With Torch)
+}
+
+STRING 2831
+// Війська: o008 (Cinematic Grunt), Name (Назва)
+{
+Cinematic Grunt
+}
+
+STRING 2832
+// Декорації: D007 (Gold Pile 01), Name (Назва)
+{
+Gold Pile 01
+}
+
+STRING 2833
+// Декорації: D008 (Gold Pile 02), Name (Назва)
+{
+Gold Pile 02
+}
+
+STRING 2834
+// Декорації: D009 (Gold Pile 03), Name (Назва)
+{
+Gold Pile 03
+}
+
+STRING 2835
+// Декорації: D00A (Gold Pile 04), Name (Назва)
+{
+Gold Pile 04
+}
+
+STRING 2836
+// Декорації: D00B (Gold Pile 05), Name (Назва)
+{
+Gold Pile 05
+}
+
+STRING 2837
+// Декорації: D00C (Gold Pile 06), Name (Назва)
+{
+Gold Pile 06
+}
+
+STRING 2838
+// Декорації: D00D (Gold Pile 07), Name (Назва)
+{
+Gold Pile 07
+}
+
+STRING 2839
+// Декорації: D00E (Gold Pile 08), Name (Назва)
+{
+Gold Pile 08
+}
+
+STRING 2840
+// Декорації: D00F (Gold Pile 09), Name (Назва)
+{
+Gold Pile 09
+}
+
+STRING 2841
+// Декорації: D00G (Gold Pile 10), Name (Назва)
+{
+Gold Pile 10
+}
+
+STRING 2842
+// Декорації: D00H (Light Red), Name (Назва)
+{
+Light Red
+}
+
+STRING 2845
+// Декорації: D6E5 (Wall Niche Arch), Name (Назва)
+{
+Wall Niche Arch
+}
+
+STRING 2846
+// Декорації: D00J (Wall Niche Arch Big), Name (Назва)
+{
+Wall Niche Arch Big
+}
+
+STRING 2852
+{
+Twilight Hammer
+}
+
+STRING 2853
+{
+Player 2
+}
+
+STRING 2854
+{
+Player 7
+}
+
+STRING 2855
+// Декорації: D64L (Wallpaper Mountains), Name (Назва)
+{
+Wallpaper Mountains
+}
+
+STRING 2856
+// Декорації: D00I (Light Peach Weak), Name (Назва)
+{
+Light Peach Weak
+}
+
+STRING 2857
+// Війська: nX1B (Tomb Tower), Name (Назва)
+{
+Tomb Tower
+}
+
+STRING 2858
+// Війська: nX2B (Tomb OF Sargaras), Name (Назва)
+{
+Tomb OF Sargaras
+}
+
+STRING 2863
+{
+Several weeks later....
+}
+
+STRING 2864
+// Предмети: IAL0 (WC2ORCACT01Doomhammer1), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2865
+// Предмети: IAL0 (WC2ORCACT01Doomhammer1), Description (Опис)
+{
+Throm'ka, Varok! Thank you, I had it delivered from the Blackrock forges back on Draenor a few days ago. This way, a piece of home will always accompany me in the battles to come.
+}
+
+STRING 2866
+// Предмети: IAL0 (WC2ORCACT01Doomhammer1), Name (Назва)
+{
+WC2ORCACT01Doomhammer1
+}
+
+STRING 2867
+// Предмети: IAL1 (WC2ORCACT01Doomhammer2), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2868
+// Предмети: IAL1 (WC2ORCACT01Doomhammer2), Description (Опис)
+{
+Do you bring any news?
+}
+
+STRING 2869
+// Предмети: IAL1 (WC2ORCACT01Doomhammer2), Name (Назва)
+{
+WC2ORCACT01Doomhammer2
+}
+
+STRING 2870
+// Предмети: IAL2 (WC2ORCACT01Doomhammer3), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2871
+// Предмети: IAL2 (WC2ORCACT01Doomhammer3), Description (Опис)
+{
+And the Warlock? Did you manage to take him alive?
+}
+
+STRING 2872
+// Предмети: IAL2 (WC2ORCACT01Doomhammer3), Name (Назва)
+{
+WC2ORCACT01Doomhammer3
+}
+
+STRING 2873
+// Предмети: IAL3 (WC2ORCACT01Doomhammer4), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2874
+// Предмети: IAL3 (WC2ORCACT01Doomhammer4), Description (Опис)
+{
+I want him and the remaining council brought to the city. Lock them up. I will teach the Warlock the perils of treachery… 
+}
+
+STRING 2875
+// Предмети: IAL3 (WC2ORCACT01Doomhammer4), Name (Назва)
+{
+WC2ORCACT01Doomhammer4
+}
+
+STRING 2876
+// Предмети: IAL4 (WC2ORCACT01Doomhammer5), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2877
+// Предмети: IAL4 (WC2ORCACT01Doomhammer5), Description (Опис)
+{
+Let them come. I have orders for them.
+}
+
+STRING 2878
+// Предмети: IAL4 (WC2ORCACT01Doomhammer5), Name (Назва)
+{
+WC2ORCACT01Doomhammer5
+}
+
+STRING 2879
+// Предмети: IAL5 (WC2ORCACT01Doomhammer6), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2880
+// Предмети: IAL5 (WC2ORCACT01Doomhammer6), Description (Опис)
+{
+Their lives are in my hands, Varok. They submitted to me after the Mak’gora. I will find good use for them.
+}
+
+STRING 2881
+// Предмети: IAL5 (WC2ORCACT01Doomhammer6), Name (Назва)
+{
+WC2ORCACT01Doomhammer6
+}
+
+STRING 2882
+// Предмети: IAL6 (WC2ORCACT01Doomhammer7), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2883
+// Предмети: IAL6 (WC2ORCACT01Doomhammer7), Description (Опис)
+{
+Lok'tar. First of all, I want you both to always remember that you owe your lives to me. The unity and the strength of the Horde is my utmost priority. That is why I accepted your oaths of loyalty, despite the rumors that are circulating.
+}
+
+STRING 2884
+// Предмети: IAL6 (WC2ORCACT01Doomhammer7), Name (Назва)
+{
+WC2ORCACT01Doomhammer7
+}
+
+STRING 2885
+// Предмети: IAL7 (WC2ORCACT01Doomhammer8), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2886
+// Предмети: IAL7 (WC2ORCACT01Doomhammer8), Description (Опис)
+{
+That you are planning to start a rebellion against my rule.
+}
+
+STRING 2887
+// Предмети: IAL7 (WC2ORCACT01Doomhammer8), Name (Назва)
+{
+WC2ORCACT01Doomhammer8
+}
+
+STRING 2888
+// Предмети: IAL8 (WC2ORCACT01Doomhammer9), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2889
+// Предмети: IAL8 (WC2ORCACT01Doomhammer9), Description (Опис)
+{
+Good. I am pleased that you understand. That is why I have a proposal. You will inherit the Blacktooth Grin clan and take all of Blackhand’s loyalists with you.
+}
+
+STRING 2890
+// Предмети: IAL8 (WC2ORCACT01Doomhammer9), Name (Назва)
+{
+WC2ORCACT01Doomhammer9
+}
+
+STRING 2891
+// Предмети: IAL9 (WC2ORCACT01Doomhammer10), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2892
+// Предмети: IAL9 (WC2ORCACT01Doomhammer10), Description (Опис)
+{
+In return, I expect you to follow my orders fiercely and without question.
+}
+
+STRING 2893
+// Предмети: IAL9 (WC2ORCACT01Doomhammer10), Name (Назва)
+{
+WC2ORCACT01Doomhammer10
+}
+
+STRING 2894
+// Предмети: IALa (WC2ORCACT01Doomhammer11), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2895
+// Предмети: IALa (WC2ORCACT01Doomhammer11), Description (Опис)
+{
+Good.
+}
+
+STRING 2896
+// Предмети: IALa (WC2ORCACT01Doomhammer11), Name (Назва)
+{
+WC2ORCACT01Doomhammer11
+}
+
+STRING 2897
+// Предмети: IALb (WC2ORCACT01Doomhammer12), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2898
+// Предмети: IALb (WC2ORCACT01Doomhammer12), Description (Опис)
+{
+Yes, I let them go.
+}
+
+STRING 2899
+// Предмети: IALb (WC2ORCACT01Doomhammer12), Name (Назва)
+{
+WC2ORCACT01Doomhammer12
+}
+
+STRING 2900
+// Предмети: IALc (WC2ORCACT01Doomhammer13), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2901
+// Предмети: IALc (WC2ORCACT01Doomhammer13), Description (Опис)
+{
+Their stories of death and terror will spread throughout the north like a wildfire. Their allies will fear us long before they even face us. Do not question me again.
+}
+
+STRING 2902
+// Предмети: IALc (WC2ORCACT01Doomhammer13), Name (Назва)
+{
+WC2ORCACT01Doomhammer13
+}
+
+STRING 2903
+// Предмети: IALd (WC2ORCACT01Doomhammer14), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2904
+// Предмети: IALd (WC2ORCACT01Doomhammer14), Description (Опис)
+{
+Good. Now, if you are so concerned about those human ships, then I have a mission for you.
+}
+
+STRING 2905
+// Предмети: IALd (WC2ORCACT01Doomhammer14), Name (Назва)
+{
+WC2ORCACT01Doomhammer14
+}
+
+STRING 2906
+// Предмети: IALe (WC2ORCACT01Doomhammer15), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2907
+// Предмети: IALe (WC2ORCACT01Doomhammer15), Description (Опис)
+{
+The refugees are headed to a northern kingdom called Lordaeron. Our prisoners have revealed that this human kingdom is not only Stormwind’s greatest ally, but also the most powerful human nation in the north.
+}
+
+STRING 2908
+// Предмети: IALe (WC2ORCACT01Doomhammer15), Name (Назва)
+{
+WC2ORCACT01Doomhammer15
+}
+
+STRING 2909
+// Предмети: IALf (WC2ORCACT01Doomhammer16), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2910
+// Предмети: IALf (WC2ORCACT01Doomhammer16), Description (Опис)
+{
+I have ordered an ambitious orc named Utok Scratcher to establish a base on the island of Zul’dare, close to Lordaeron’s southern shores.
+}
+
+STRING 2911
+// Предмети: IALf (WC2ORCACT01Doomhammer16), Name (Назва)
+{
+WC2ORCACT01Doomhammer16
+}
+
+STRING 2912
+// Предмети: IALg (WC2ORCACT01Doomhammer17), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2913
+// Предмети: IALg (WC2ORCACT01Doomhammer17), Description (Опис)
+{
+You will accompany him on this mission. From Zul’dare you will evaluate the enemy’s strength and prepare for the arrival of our invasion force. This will be your first test, Rend Blackhand.
+}
+
+STRING 2914
+// Предмети: IALg (WC2ORCACT01Doomhammer17), Name (Назва)
+{
+WC2ORCACT01Doomhammer17
+}
+
+STRING 2915
+// Предмети: IALh (WC2ORCACT01Doomhammer18), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2916
+// Предмети: IALh (WC2ORCACT01Doomhammer18), Description (Опис)
+{
+Immediately.
+}
+
+STRING 2917
+// Предмети: IALh (WC2ORCACT01Doomhammer18), Name (Назва)
+{
+WC2ORCACT01Doomhammer18
+}
+
+STRING 2918
+// Предмети: IALi (WC2ORCACT01Doomhammer19), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2919
+// Предмети: IALi (WC2ORCACT01Doomhammer19), Description (Опис)
+{
+I need you here, Maim. You will be observing Gul’dan’s state after he arrives in the city. I want him to be brought before me the moment he wakes from his coma.
+}
+
+STRING 2920
+// Предмети: IALi (WC2ORCACT01Doomhammer19), Name (Назва)
+{
+WC2ORCACT01Doomhammer19
+}
+
+STRING 2921
+// Предмети: IALj (WC2ORCACT01Doomhammer20), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2922
+// Предмети: IALj (WC2ORCACT01Doomhammer20), Description (Опис)
+{
+...Yes
+}
+
+STRING 2923
+// Предмети: IALj (WC2ORCACT01Doomhammer20), Name (Назва)
+{
+WC2ORCACT01Doomhammer20
+}
+
+STRING 2924
+// Предмети: IALk (WC2ORCACT01Doomhammer21), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2925
+// Предмети: IALk (WC2ORCACT01Doomhammer21), Description (Опис)
+{
+As an exception… I will tell Saurfang to return your wolf to you.
+}
+
+STRING 2926
+// Предмети: IALk (WC2ORCACT01Doomhammer21), Name (Назва)
+{
+WC2ORCACT01Doomhammer21
+}
+
+STRING 2927
+// Предмети: IALl (WC2ORCACT01Doomhammer22), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2928
+// Предмети: IALl (WC2ORCACT01Doomhammer22), Description (Опис)
+{
+Enough! One wolfrider is enough for your clan. Now, begone!
+}
+
+STRING 2929
+// Предмети: IALl (WC2ORCACT01Doomhammer22), Name (Назва)
+{
+WC2ORCACT01Doomhammer22
+}
+
+STRING 2930
+// Предмети: IALm (WC2ORCACT01Doomhammer23), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2931
+// Предмети: IALm (WC2ORCACT01Doomhammer23), Description (Опис)
+{
+So, you finally woke up…
+}
+
+STRING 2932
+// Предмети: IALm (WC2ORCACT01Doomhammer23), Name (Назва)
+{
+WC2ORCACT01Doomhammer23
+}
+
+STRING 2933
+// Предмети: IALn (WC2ORCACT01Doomhammer24), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2934
+// Предмети: IALn (WC2ORCACT01Doomhammer24), Description (Опис)
+{
+Silence!
+}
+
+STRING 2935
+// Предмети: IALn (WC2ORCACT01Doomhammer24), Name (Назва)
+{
+WC2ORCACT01Doomhammer24
+}
+
+STRING 2936
+// Предмети: IALo (WC2ORCACT01Doomhammer25), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2937
+// Предмети: IALo (WC2ORCACT01Doomhammer25), Description (Опис)
+{
+I know what you did, Gul’dan. I know how you manipulated Blackhand, and how your Shadow Council pulled the strings of the Horde in secret.
+}
+
+STRING 2938
+// Предмети: IALo (WC2ORCACT01Doomhammer25), Name (Назва)
+{
+WC2ORCACT01Doomhammer25
+}
+
+STRING 2939
+// Предмети: IALp (WC2ORCACT01Doomhammer26), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2940
+// Предмети: IALp (WC2ORCACT01Doomhammer26), Description (Опис)
+{
+Your black magics will not save you now. You and your foul ilk nearly destroyed us all, tainting our honor and proud traditions with your trickery and witchcraft… and for this you will pay dearly!
+}
+
+STRING 2941
+// Предмети: IALp (WC2ORCACT01Doomhammer26), Name (Назва)
+{
+WC2ORCACT01Doomhammer26
+}
+
+STRING 2942
+// Предмети: IALq (WC2ORCACT01Doomhammer27), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2943
+// Предмети: IALq (WC2ORCACT01Doomhammer27), Description (Опис)
+{
+Give me one good reason to spare your miserable life, warlock.
+}
+
+STRING 2944
+// Предмети: IALq (WC2ORCACT01Doomhammer27), Name (Назва)
+{
+WC2ORCACT01Doomhammer27
+}
+
+STRING 2945
+// Предмети: IALr (WC2ORCACT01Doomhammer28), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2946
+// Предмети: IALr (WC2ORCACT01Doomhammer28), Description (Опис)
+{
+Empty words, Gul'dan.
+}
+
+STRING 2947
+// Предмети: IALr (WC2ORCACT01Doomhammer28), Name (Назва)
+{
+WC2ORCACT01Doomhammer28
+}
+
+STRING 2948
+// Предмети: IALs (WC2ORCACT01Doomhammer29), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2949
+// Предмети: IALs (WC2ORCACT01Doomhammer29), Description (Опис)
+{
+What you say is… true. Very well then, I will put the Horde’s interests above my own in this matter. I will spare your life and the lives of your remaining Shadow Council, but only for as long as you serve the Horde.
+}
+
+STRING 2950
+// Предмети: IALs (WC2ORCACT01Doomhammer29), Name (Назва)
+{
+WC2ORCACT01Doomhammer29
+}
+
+STRING 2951
+// Предмети: IALt (WC2ORCACT01Doomhammer30), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 2952
+// Предмети: IALt (WC2ORCACT01Doomhammer30), Description (Опис)
+{
+See that you do… I will be keeping a close eye on you, Gul’dan. Stray from this path, and your life is forfeit.
+}
+
+STRING 2953
+// Предмети: IALt (WC2ORCACT01Doomhammer30), Name (Назва)
+{
+WC2ORCACT01Doomhammer30
+}
+
+STRING 2954
+// Предмети: IALu (WC2ORCACT01Guldan1), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2955
+// Предмети: IALu (WC2ORCACT01Guldan1), Description (Опис)
+{
+Ah… there you are, Medivh. The Horde is making excellent progress. The Kingdom of Men is almost broken. Stormwind will not last much longer.
+}
+
+STRING 2956
+// Предмети: IALu (WC2ORCACT01Guldan1), Name (Назва)
+{
+WC2ORCACT01Guldan1
+}
+
+STRING 2957
+// Предмети: IALv (WC2ORCACT01Guldan2), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2958
+// Предмети: IALv (WC2ORCACT01Guldan2), Description (Опис)
+{
+They will all be enslaved or slain…
+}
+
+STRING 2959
+// Предмети: IALv (WC2ORCACT01Guldan2), Name (Назва)
+{
+WC2ORCACT01Guldan2
+}
+
+STRING 2960
+// Предмети: IALw (WC2ORCACT01Guldan3), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2961
+// Предмети: IALw (WC2ORCACT01Guldan3), Description (Опис)
+{
+What do you know of Kil'jaeden, Human!
+}
+
+STRING 2962
+// Предмети: IALw (WC2ORCACT01Guldan3), Name (Назва)
+{
+WC2ORCACT01Guldan3
+}
+
+STRING 2963
+// Предмети: IALx (WC2ORCACT01Guldan4), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2964
+// Предмети: IALx (WC2ORCACT01Guldan4), Description (Опис)
+{
+Then what is the point of this conversation? I am grateful for your help in opening the portal… and for the information that will help us defeat the weaklings of this world, but what do you want in return?
+}
+
+STRING 2965
+// Предмети: IALx (WC2ORCACT01Guldan4), Name (Назва)
+{
+WC2ORCACT01Guldan4
+}
+
+STRING 2966
+// Предмети: IALy (WC2ORCACT01Guldan5), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2967
+// Предмети: IALy (WC2ORCACT01Guldan5), Description (Опис)
+{
+This world? This world will belong to the Horde!
+}
+
+STRING 2968
+// Предмети: IALy (WC2ORCACT01Guldan5), Name (Назва)
+{
+WC2ORCACT01Guldan5
+}
+
+STRING 2969
+// Предмети: IALz (WC2ORCACT01Guldan6), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2970
+// Предмети: IALz (WC2ORCACT01Guldan6), Description (Опис)
+{
+And what would that be?
+}
+
+STRING 2971
+// Предмети: IALz (WC2ORCACT01Guldan6), Name (Назва)
+{
+WC2ORCACT01Guldan6
+}
+
+STRING 2972
+// Предмети: IALZ (WC2ORCACT01Guldan7), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2973
+// Предмети: IALZ (WC2ORCACT01Guldan7), Description (Опис)
+{
+Intriguing… and where can such power possibly be found?
+}
+
+STRING 2974
+// Предмети: IALZ (WC2ORCACT01Guldan7), Name (Назва)
+{
+WC2ORCACT01Guldan7
+}
+
+STRING 2975
+// Предмети: IALY (WC2ORCACT01Guldan8), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2976
+// Предмети: IALY (WC2ORCACT01Guldan8), Description (Опис)
+{
+And where can I find this tomb?
+}
+
+STRING 2977
+// Предмети: IALY (WC2ORCACT01Guldan8), Name (Назва)
+{
+WC2ORCACT01Guldan8
+}
+
+STRING 2978
+// Предмети: IALX (WC2ORCACT01Guldan9), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2979
+// Предмети: IALX (WC2ORCACT01Guldan9), Description (Опис)
+{
+Medivh! Where is it?
+}
+
+STRING 2980
+// Предмети: IALX (WC2ORCACT01Guldan9), Name (Назва)
+{
+WC2ORCACT01Guldan9
+}
+
+STRING 2981
+// Предмети: IALW (WC2ORCACT01Guldan10), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2982
+// Предмети: IALW (WC2ORCACT01Guldan10), Description (Опис)
+{
+No! Where is the Tomb?! Where…
+}
+
+STRING 2983
+// Предмети: IALW (WC2ORCACT01Guldan10), Name (Назва)
+{
+WC2ORCACT01Guldan10
+}
+
+STRING 2984
+// Предмети: IALV (WC2ORCACT01Guldan11), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2985
+// Предмети: IALV (WC2ORCACT01Guldan11), Description (Опис)
+{
+Where...   ...am I?
+}
+
+STRING 2986
+// Предмети: IALV (WC2ORCACT01Guldan11), Name (Назва)
+{
+WC2ORCACT01Guldan11
+}
+
+STRING 2987
+// Предмети: IALU (WC2ORCACT01Guldan12), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2988
+// Предмети: IALU (WC2ORCACT01Guldan12), Description (Опис)
+{
+I am not overcome too easily… were you afraid that I would leave you to Blackhand’s mercy, Cho’gall?
+}
+
+STRING 2989
+// Предмети: IALU (WC2ORCACT01Guldan12), Name (Назва)
+{
+WC2ORCACT01Guldan12
+}
+
+STRING 2990
+// Предмети: IALT (WC2ORCACT01Guldan13), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2991
+// Предмети: IALT (WC2ORCACT01Guldan13), Description (Опис)
+{
+Dead? What happened?
+}
+
+STRING 2992
+// Предмети: IALT (WC2ORCACT01Guldan13), Name (Назва)
+{
+WC2ORCACT01Guldan13
+}
+
+STRING 2993
+// Предмети: IALS (WC2ORCACT01Guldan14), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2994
+// Предмети: IALS (WC2ORCACT01Guldan14), Description (Опис)
+{
+Where are you taking me?
+}
+
+STRING 2995
+// Предмети: IALS (WC2ORCACT01Guldan14), Name (Назва)
+{
+WC2ORCACT01Guldan14
+}
+
+STRING 2996
+// Предмети: IALR (WC2ORCACT01Guldan15), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 2997
+// Предмети: IALR (WC2ORCACT01Guldan15), Description (Опис)
+{
+Who! Who did this!?
+}
+
+STRING 2998
+// Предмети: IALR (WC2ORCACT01Guldan15), Name (Назва)
+{
+WC2ORCACT01Guldan15
+}
+
+STRING 2999
+// Предмети: IALQ (WC2ORCACT01Guldan16), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3000
+// Предмети: IALQ (WC2ORCACT01Guldan16), Description (Опис)
+{
+Master, I...
+}
+
+STRING 3001
+// Предмети: IALQ (WC2ORCACT01Guldan16), Name (Назва)
+{
+WC2ORCACT01Guldan16
+}
+
+STRING 3002
+// Предмети: IALP (WC2ORCACT01Guldan17), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3003
+// Предмети: IALP (WC2ORCACT01Guldan17), Description (Опис)
+{
+No… do not do this, Doomhammer!
+}
+
+STRING 3004
+// Предмети: IALP (WC2ORCACT01Guldan17), Name (Назва)
+{
+WC2ORCACT01Guldan17
+}
+
+STRING 3005
+// Предмети: IALO (WC2ORCACT01Guldan18), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3006
+// Предмети: IALO (WC2ORCACT01Guldan18), Description (Опис)
+{
+I bow to your strength, mighty Doomhammer! I recognize you as Warchief of the Horde and swear my eternal loyalty to you!
+}
+
+STRING 3007
+// Предмети: IALO (WC2ORCACT01Guldan18), Name (Назва)
+{
+WC2ORCACT01Guldan18
+}
+
+STRING 3008
+// Предмети: IALN (WC2ORCACT01Guldan19), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3009
+// Предмети: IALN (WC2ORCACT01Guldan19), Description (Опис)
+{
+We need each other, Warchief! Yes, you are much stronger, wiser, and more visionary than Blackhand, but you cannot win the coming war on your own.
+}
+
+STRING 3010
+// Предмети: IALN (WC2ORCACT01Guldan19), Name (Назва)
+{
+WC2ORCACT01Guldan19
+}
+
+STRING 3011
+// Предмети: IALM (WC2ORCACT01Guldan20), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3012
+// Предмети: IALM (WC2ORCACT01Guldan20), Description (Опис)
+{
+We both know that the humans are not the only threat, and that this was not their only kingdom. The Horde cannot maintain its superiority in the wars to come without warlocks. Do not throw away this power for the sake of revenge.
+}
+
+STRING 3013
+// Предмети: IALM (WC2ORCACT01Guldan20), Name (Назва)
+{
+WC2ORCACT01Guldan20
+}
+
+STRING 3014
+// Предмети: IALL (WC2ORCACT01Guldan21), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3015
+// Предмети: IALL (WC2ORCACT01Guldan21), Description (Опис)
+{
+Thank you, mighty Doomhammer. I shall make warriors who can repulse even the most powerful priests and magicians of Men. They will be loyal only to you, I swear this to you!
+}
+
+STRING 3016
+// Предмети: IALL (WC2ORCACT01Guldan21), Name (Назва)
+{
+WC2ORCACT01Guldan21
+}
+
+STRING 3017
+// Предмети: IALK (WC2ORCACT01Guldan22), Tip (Підказка - базова)
+{
+Gul'dan
+}
+
+STRING 3018
+// Предмети: IALK (WC2ORCACT01Guldan22), Description (Опис)
+{
+Gather the Shadow Council and summon whoever is left… we have a lot of work to do.
+}
+
+STRING 3019
+// Предмети: IALK (WC2ORCACT01Guldan22), Name (Назва)
+{
+WC2ORCACT01Guldan22
+}
+
+STRING 3020
+// Предмети: IALJ (WC2ORCACT01Rend1), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3021
+// Предмети: IALJ (WC2ORCACT01Rend1), Description (Опис)
+{
+Lok'tar...Warchief.
+}
+
+STRING 3022
+// Предмети: IALJ (WC2ORCACT01Rend1), Name (Назва)
+{
+WC2ORCACT01Rend1
+}
+
+STRING 3023
+// Предмети: IALI (WC2ORCACT01Rend2), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3024
+// Предмети: IALI (WC2ORCACT01Rend2), Description (Опис)
+{
+Some orcs that were loyal to my father may want such a thing… but we acknowledge your superiority, Warchief. We won’t risk starting a civil war.
+}
+
+STRING 3025
+// Предмети: IALI (WC2ORCACT01Rend2), Name (Назва)
+{
+WC2ORCACT01Rend2
+}
+
+STRING 3026
+// Предмети: IALH (WC2ORCACT01Rend3), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3027
+// Предмети: IALH (WC2ORCACT01Rend3), Description (Опис)
+{
+That is a very generous proposition, Warchief.
+}
+
+STRING 3028
+// Предмети: IALH (WC2ORCACT01Rend3), Name (Назва)
+{
+WC2ORCACT01Rend3
+}
+
+STRING 3029
+// Предмети: IALG (WC2ORCACT01Rend4), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3030
+// Предмети: IALG (WC2ORCACT01Rend4), Description (Опис)
+{
+They are heading North… they will call upon their allies to take revenge! Warchief, did you let the humans flee?
+}
+
+STRING 3031
+// Предмети: IALG (WC2ORCACT01Rend4), Name (Назва)
+{
+WC2ORCACT01Rend4
+}
+
+STRING 3032
+// Предмети: IALF (WC2ORCACT01Rend5), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3033
+// Предмети: IALF (WC2ORCACT01Rend5), Description (Опис)
+{
+But why?
+}
+
+STRING 3034
+// Предмети: IALF (WC2ORCACT01Rend5), Name (Назва)
+{
+WC2ORCACT01Rend5
+}
+
+STRING 3035
+// Предмети: IALE (WC2ORCACT01Rend6), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3036
+// Предмети: IALE (WC2ORCACT01Rend6), Description (Опис)
+{
+ahm..
+}
+
+STRING 3037
+// Предмети: IALE (WC2ORCACT01Rend6), Name (Назва)
+{
+WC2ORCACT01Rend6
+}
+
+STRING 3038
+// Предмети: IALD (WC2ORCACT01Rend7), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3039
+// Предмети: IALD (WC2ORCACT01Rend7), Description (Опис)
+{
+When do I leave?
+}
+
+STRING 3040
+// Предмети: IALD (WC2ORCACT01Rend7), Name (Назва)
+{
+WC2ORCACT01Rend7
+}
+
+STRING 3041
+// Предмети: IALC (WC2ORCACT01Rend8), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3042
+// Предмети: IALC (WC2ORCACT01Rend8), Description (Опис)
+{
+Warchief… I have a personal request...
+}
+
+STRING 3043
+// Предмети: IALC (WC2ORCACT01Rend8), Name (Назва)
+{
+WC2ORCACT01Rend8
+}
+
+STRING 3044
+// Предмети: IALB (WC2ORCACT01Rend9), Tip (Підказка - базова)
+{
+Rend Blackhand
+}
+
+STRING 3045
+// Предмети: IALB (WC2ORCACT01Rend9), Description (Опис)
+{
+You disbanded the wolfriders after assuming the mantle of Warchief. A chieftain is not a chieftain without his wolf. I need my wolf back.
+}
+
+STRING 3046
+// Предмети: IALB (WC2ORCACT01Rend9), Name (Назва)
+{
+WC2ORCACT01Rend9
+}
+
+STRING 3047
+// Предмети: IALA (WC2ORCACT01Maim1), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3048
+// Предмети: IALA (WC2ORCACT01Maim1), Description (Опис)
+{
+Lok'tar...We await your orders, Warchief.
+}
+
+STRING 3049
+// Предмети: IALA (WC2ORCACT01Maim1), Name (Назва)
+{
+WC2ORCACT01Maim1
+}
+
+STRING 3050
+// Предмети: IaLA (WC2ORCACT01Maim2), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3051
+// Предмети: IaLA (WC2ORCACT01Maim2), Description (Опис)
+{
+What rumors?
+}
+
+STRING 3052
+// Предмети: IaLA (WC2ORCACT01Maim2), Name (Назва)
+{
+WC2ORCACT01Maim2
+}
+
+STRING 3053
+// Предмети: IaLB (WC2ORCACT01Maim3), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3054
+// Предмети: IaLB (WC2ORCACT01Maim3), Description (Опис)
+{
+Our clan will serve the Horde well, Warchief.
+}
+
+STRING 3055
+// Предмети: IaLB (WC2ORCACT01Maim3), Name (Назва)
+{
+WC2ORCACT01Maim3
+}
+
+STRING 3056
+// Предмети: IaLC (WC2ORCACT01Maim4), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3057
+// Предмети: IaLC (WC2ORCACT01Maim4), Description (Опис)
+{
+Wait, what is that? Human ships?
+}
+
+STRING 3058
+// Предмети: IaLC (WC2ORCACT01Maim4), Name (Назва)
+{
+WC2ORCACT01Maim4
+}
+
+STRING 3059
+// Предмети: IaLD (WC2ORCACT01Maim5), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3060
+// Предмети: IaLD (WC2ORCACT01Maim5), Description (Опис)
+{
+It will be done… Warchief.
+}
+
+STRING 3061
+// Предмети: IaLD (WC2ORCACT01Maim5), Name (Назва)
+{
+WC2ORCACT01Maim5
+}
+
+STRING 3062
+// Предмети: IaLE (WC2ORCACT01Maim6), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3063
+// Предмети: IaLE (WC2ORCACT01Maim6), Description (Опис)
+{
+And me! I want my wolf back too.
+}
+
+STRING 3064
+// Предмети: IaLE (WC2ORCACT01Maim6), Name (Назва)
+{
+WC2ORCACT01Maim6
+}
+
+STRING 3065
+// Предмети: IaLF (WC2ORCACT01Maim7), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3066
+// Предмети: IaLF (WC2ORCACT01Maim7), Description (Опис)
+{
+Why did he let you get your wolf back but not me?
+}
+
+STRING 3067
+// Предмети: IaLF (WC2ORCACT01Maim7), Name (Назва)
+{
+WC2ORCACT01Maim7
+}
+
+STRING 3068
+// Предмети: IaLG (WC2ORCACT01Maim8), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3069
+// Предмети: IaLG (WC2ORCACT01Maim8), Description (Опис)
+{
+So… the warlock is awake at last. The Warchief wants to see you. Follow me, and do not make any sudden movements. If you do, I’ll cut off your hands.
+}
+
+STRING 3070
+// Предмети: IaLG (WC2ORCACT01Maim8), Name (Назва)
+{
+WC2ORCACT01Maim8
+}
+
+STRING 3071
+// Предмети: IaLH (WC2ORCACT01Maim9), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3072
+// Предмети: IaLH (WC2ORCACT01Maim9), Description (Опис)
+{
+I am sick of this putrid stink! Gather everything of value and burn the dead!
+}
+
+STRING 3073
+// Предмети: IaLH (WC2ORCACT01Maim9), Name (Назва)
+{
+WC2ORCACT01Maim9
+}
+
+STRING 3074
+// Предмети: IaLI (WC2ORCACT01Maim10), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3075
+// Предмети: IaLI (WC2ORCACT01Maim10), Description (Опис)
+{
+Back to work! Sort through the rubble… we need the materials.
+}
+
+STRING 3076
+// Предмети: IaLI (WC2ORCACT01Maim10), Name (Назва)
+{
+WC2ORCACT01Maim10
+}
+
+STRING 3077
+// Предмети: IaLJ (WC2ORCACT01Maim12), Tip (Підказка - базова)
+{
+Maim Blackhand
+}
+
+STRING 3078
+// Предмети: IaLJ (WC2ORCACT01Maim12), Description (Опис)
+{
+And what about me, Warchief?
+}
+
+STRING 3080
+// Предмети: IaLK (WC2ORCACT01Varok1), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3081
+// Предмети: IaLK (WC2ORCACT01Varok1), Description (Опис)
+{
+Throm'ka, Orgrim! That armor suits you well, old friend, befitting of your new station as a Warchief.
+}
+
+STRING 3082
+// Предмети: IaLK (WC2ORCACT01Varok1), Name (Назва)
+{
+WC2ORCACT01Varok1
+}
+
+STRING 3083
+// Предмети: IaLL (WC2ORCACT01Varok2), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3084
+// Предмети: IaLL (WC2ORCACT01Varok2), Description (Опис)
+{
+We besieged the Temple of the Damned, as you instructed.
+}
+
+STRING 3085
+// Предмети: IaLL (WC2ORCACT01Varok2), Name (Назва)
+{
+WC2ORCACT01Varok2
+}
+
+STRING 3086
+// Предмети: IaLM (WC2ORCACT01Varok3), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3087
+// Предмети: IaLM (WC2ORCACT01Varok3), Description (Опис)
+{
+Yes, Warchief. The Shadow Council resisted, however, and we were forced to kill almost all of them. Gul’dan was performing some kind of ritual when we found him. He fell unconscious and hasn’t stirred since we brought him back.
+}
+
+STRING 3088
+// Предмети: IaLM (WC2ORCACT01Varok3), Name (Назва)
+{
+WC2ORCACT01Varok3
+}
+
+STRING 3089
+// Предмети: IaLN (WC2ORCACT01Varok4), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3090
+// Предмети: IaLN (WC2ORCACT01Varok4), Description (Опис)
+{
+It will be done, Warchief.
+}
+
+STRING 3091
+// Предмети: IaLN (WC2ORCACT01Varok4), Name (Назва)
+{
+WC2ORCACT01Varok4
+}
+
+STRING 3092
+// Предмети: IaLO (WC2ORCACT01Varok5), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3093
+// Предмети: IaLO (WC2ORCACT01Varok5), Description (Опис)
+{
+And one more thing… the sons of Blackhand, Rend and Maim, are asking for an audience.
+}
+
+STRING 3094
+// Предмети: IaLO (WC2ORCACT01Varok5), Name (Назва)
+{
+WC2ORCACT01Varok5
+}
+
+STRING 3095
+// Предмети: IaLP (WC2ORCACT01Varok6), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3096
+// Предмети: IaLP (WC2ORCACT01Varok6), Description (Опис)
+{
+With respect Warchief… those two cannot be trusted. They will always resent you for their father’s death.
+}
+
+STRING 3097
+// Предмети: IaLP (WC2ORCACT01Varok6), Name (Назва)
+{
+WC2ORCACT01Varok6
+}
+
+STRING 3098
+// Предмети: IaLQ (WC2ORCACT01Varok7), Tip (Підказка - базова)
+{
+Varok Saurfang
+}
+
+STRING 3099
+// Предмети: IaLQ (WC2ORCACT01Varok7), Description (Опис)
+{
+As you say, Warchief.
+}
+
+STRING 3100
+// Предмети: IaLQ (WC2ORCACT01Varok7), Name (Назва)
+{
+WC2ORCACT01Varok7
+}
+
+STRING 3101
+// Предмети: IaLR (WC2ORCACT01Grunt1), Tip (Підказка - базова)
+{
+Grunt
+}
+
+STRING 3102
+// Предмети: IaLR (WC2ORCACT01Grunt1), Description (Опис)
+{
+It will be done, warlord…
+}
+
+STRING 3103
+// Предмети: IaLR (WC2ORCACT01Grunt1), Name (Назва)
+{
+WC2ORCACT01Grunt1
+}
+
+STRING 3104
+// Предмети: IaLS (WC2ORCACT01Peon1), Tip (Підказка - базова)
+{
+Peon
+}
+
+STRING 3105
+// Предмети: IaLS (WC2ORCACT01Peon1), Description (Опис)
+{
+Yes, master.
+}
+
+STRING 3106
+// Предмети: IaLS (WC2ORCACT01Peon1), Name (Назва)
+{
+WC2ORCACT01Peon1
+}
+
+STRING 3107
+// Предмети: IaLT (WC2ORCACT01Nekros1), Tip (Підказка - базова)
+{
+Nekros Skullcrusher
+}
+
+STRING 3108
+// Предмети: IaLT (WC2ORCACT01Nekros1), Description (Опис)
+{
+Stop complaining, Teron’Gor! We are alive only because Doomhammer is planning a trial for Gul’dan… our lives depend on him awakening.
+}
+
+STRING 3109
+// Предмети: IaLT (WC2ORCACT01Nekros1), Name (Назва)
+{
+WC2ORCACT01Nekros1
+}
+
+STRING 3110
+// Предмети: IaLU (WC2ORCACT01Nekros2), Tip (Підказка - базова)
+{
+Nekros Skullcrusher
+}
+
+STRING 3111
+// Предмети: IaLU (WC2ORCACT01Nekros2), Description (Опис)
+{
+Cho’gall… do you have any idea when Gul’dan will wake up?
+}
+
+STRING 3112
+// Предмети: IaLU (WC2ORCACT01Nekros2), Name (Назва)
+{
+WC2ORCACT01Nekros2
+}
+
+STRING 3113
+// Предмети: IaLV (WC2ORCACT01Nekros3), Tip (Підказка - базова)
+{
+Nekros Skullcrusher
+}
+
+STRING 3114
+// Предмети: IaLV (WC2ORCACT01Nekros3), Description (Опис)
+{
+Wait! Someone is coming...
+}
+
+STRING 3115
+// Предмети: IaLV (WC2ORCACT01Nekros3), Name (Назва)
+{
+WC2ORCACT01Nekros3
+}
+
+STRING 3116
+// Предмети: IaLW (WC2ORCACT01Terongor1), Tip (Підказка - базова)
+{
+Teron'Gor
+}
+
+STRING 3117
+// Предмети: IaLW (WC2ORCACT01Terongor1), Description (Опис)
+{
+I have lost count of the days I have spent in this damnable prison. I should have died during the assault on the Temple… sitting here is unbearable!
+}
+
+STRING 3118
+// Предмети: IaLW (WC2ORCACT01Terongor1), Name (Назва)
+{
+WC2ORCACT01Terongor1
+}
+
+STRING 3119
+// Предмети: IaLX (WC2ORCACT01Terongor2), Tip (Підказка - базова)
+{
+Teron'Gor
+}
+
+STRING 3120
+// Предмети: IaLX (WC2ORCACT01Terongor2), Description (Опис)
+{
+Nekros, look, he's awake! The Master is awake!
+}
+
+STRING 3121
+// Предмети: IaLX (WC2ORCACT01Terongor2), Name (Назва)
+{
+WC2ORCACT01Terongor2
+}
+
+STRING 3122
+// Предмети: IaLY (WC2ORCACT01Medivh1), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3123
+// Предмети: IaLY (WC2ORCACT01Medivh1), Description (Опис)
+{
+This is just the beginning, Gul’dan. There are six other human kingdoms on this continent. Their lands are rich and vulnerable. The greedy dwarves sit on their treasures in the mountains of Khaz Modan. The high elves, spoiled by magic, hide within the forests of Quel’thalas. All of them… are enemies of the Horde.
+}
+
+STRING 3124
+// Предмети: IaLY (WC2ORCACT01Medivh1), Name (Назва)
+{
+WC2ORCACT01Medivh1
+}
+
+STRING 3125
+// Предмети: IaLZ (WC2ORCACT01Medivh2), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3126
+// Предмети: IaLZ (WC2ORCACT01Medivh2), Description (Опис)
+{
+Good… and once you are done, remember who it was who brought the Horde into this world, who saved your kin from starvation and death after Kil’jaeden abandoned you.
+}
+
+STRING 3127
+// Предмети: IaLZ (WC2ORCACT01Medivh2), Name (Назва)
+{
+WC2ORCACT01Medivh2
+}
+
+STRING 3128
+// Предмети: IaLz (WC2ORCACT01Medivh3), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3129
+// Предмети: IaLz (WC2ORCACT01Medivh3), Description (Опис)
+{
+Human? I am more than just a man, Gul’dan, and more than just a mere magician. I am the Guardian of Tirisfal. I know all that there is to know, about you, your kin, and demons. I also know that Kil’jaeden simply used you to rid himself of his old enemies, the Draenei… but that is beside the point.
+}
+
+STRING 3130
+// Предмети: IaLz (WC2ORCACT01Medivh3), Name (Назва)
+{
+WC2ORCACT01Medivh3
+}
+
+STRING 3131
+// Предмети: IaLy (WC2ORCACT01Medivh4), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3132
+// Предмети: IaLy (WC2ORCACT01Medivh4), Description (Опис)
+{
+What I want in return, Gul’dan, is this world.
+}
+
+STRING 3133
+// Предмети: IaLy (WC2ORCACT01Medivh4), Name (Назва)
+{
+WC2ORCACT01Medivh4
+}
+
+STRING 3134
+// Предмети: IaLx (WC2ORCACT01Medivh5), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3135
+// Предмети: IaLx (WC2ORCACT01Medivh5), Description (Опис)
+{
+The Horde, Gul’dan, or yourself? I can see right through you, little Warlock, and your desires are simple. Believe me, what I want from this world is beyond you… but in return I shall offer you something that is worth this world a thousand times over.
+}
+
+STRING 3136
+// Предмети: IaLx (WC2ORCACT01Medivh5), Name (Назва)
+{
+WC2ORCACT01Medivh5
+}
+
+STRING 3137
+// Предмети: IaLw (WC2ORCACT01Medivh6), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3138
+// Предмети: IaLw (WC2ORCACT01Medivh6), Description (Опис)
+{
+Power, Gul’dan, power many times greater than the strength of even Kil’jaeden himself.
+}
+
+STRING 3139
+// Предмети: IaLw (WC2ORCACT01Medivh6), Name (Назва)
+{
+WC2ORCACT01Medivh6
+}
+
+STRING 3140
+// Предмети: IaLv (WC2ORCACT01Medivh7), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3141
+// Предмети: IaLv (WC2ORCACT01Medivh7), Description (Опис)
+{
+A long time ago this world was shaken by a great battle in which the dark titan Sargeras was defeated. If you find his tomb, you can absorb his essence and claim the dark titan’s power for yourself. That is my offer.
+}
+
+STRING 3142
+// Предмети: IaLv (WC2ORCACT01Medivh7), Name (Назва)
+{
+WC2ORCACT01Medivh7
+}
+
+STRING 3143
+// Предмети: IaLu (WC2ORCACT01Medivh8), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3144
+// Предмети: IaLu (WC2ORCACT01Medivh8), Description (Опис)
+{
+What?! Khadgar… Lothar?! You shouldn’t have come here, my old friends.
+}
+
+STRING 3145
+// Предмети: IaLu (WC2ORCACT01Medivh8), Name (Назва)
+{
+WC2ORCACT01Medivh8
+}
+
+STRING 3146
+// Предмети: IaLt (WC2ORCACT01Medivh9), Tip (Підказка - базова)
+{
+Medivh
+}
+
+STRING 3147
+// Предмети: IaLt (WC2ORCACT01Medivh9), Description (Опис)
+{
+What?! No! Impossible!
+}
+
+STRING 3148
+// Предмети: IaLt (WC2ORCACT01Medivh9), Name (Назва)
+{
+WC2ORCACT01Medivh9
+}
+
+STRING 3149
+// Предмети: IaLs (WC2ORCACT01Chogall1), Tip (Підказка - базова)
+{
+Cho’gall
+}
+
+STRING 3150
+// Предмети: IaLs (WC2ORCACT01Chogall1), Description (Опис)
+{
+|cffffcc00Cho:|r No Nekros..|n|cffffcc00Gall:|r We know no more than you...
+}
+
+STRING 3151
+// Предмети: IaLs (WC2ORCACT01Chogall1), Name (Назва)
+{
+WC2ORCACT01Chogall1
+}
+
+STRING 3152
+// Предмети: IaLr (WC2ORCACT01Chogall2), Tip (Підказка - базова)
+{
+Cho’gall
+}
+
+STRING 3153
+// Предмети: IaLr (WC2ORCACT01Chogall2), Description (Опис)
+{
+|cffffcc00Cho:|r You slept, master...like the dead.|n|cffffcc00Gall:|r For many weeks you did not move, only breathe. We thought your spirit had been destroyed.
+}
+
+STRING 3154
+// Предмети: IaLr (WC2ORCACT01Chogall2), Name (Назва)
+{
+WC2ORCACT01Chogall2
+}
+
+STRING 3155
+// Предмети: IaLq (WC2ORCACT01Chogall3), Tip (Підказка - базова)
+{
+Cho’gall
+}
+
+STRING 3156
+// Предмети: IaLq (WC2ORCACT01Chogall3), Description (Опис)
+{
+|cffffcc00Cho:|r Blackhand the Destroyer…|n|cffffcc00Gall:|r Is dead, master.
+}
+
+STRING 3157
+// Предмети: IaLq (WC2ORCACT01Chogall3), Name (Назва)
+{
+WC2ORCACT01Chogall3
+}
+
+STRING 3158
+// Предмети: IaLp (WC2ORCACT01Chogall4), Tip (Підказка - базова)
+{
+Cho’gall
+}
+
+STRING 3159
+// Предмети: IaLp (WC2ORCACT01Chogall4), Description (Опис)
+{
+|cffffcc00Cho:|r He usurped power, master Gul’dan, and attacked the Shadow Council while you were unconscious.|n|cffffcc00Gall:|r He killed almost everyone… only you, Nekros, Teron’Gor and we remain.
+}
+
+STRING 3160
+// Предмети: IaLp (WC2ORCACT01Chogall4), Name (Назва)
+{
+WC2ORCACT01Chogall4
+}
+
+STRING 3161
+// Предмети: IaLo (WC2ORCACT01Chogall5), Tip (Підказка - базова)
+{
+Cho’gall
+}
+
+STRING 3162
+// Предмети: IaLo (WC2ORCACT01Chogall5), Description (Опис)
+{
+|cffffcc00Cho:|r Orgrim Doomhammer...|n|cffffcc00Gall:|r the sons of Blackhand swore fealty to him, and the Horde followed.
+}
+
+STRING 3164
+// Предмети: Ial3 (WC2ORCACT01Doomhammer4a), Tip (Підказка - базова)
+{
+Orgrim Doomhammer
+}
+
+STRING 3165
+// Предмети: Ial3 (WC2ORCACT01Doomhammer4a), Description (Опис)
+{
+Gul’dan lit a match and the fire cannot be stopped. It will devour this entire world.
+}
+
+STRING 3166
+// Предмети: Ial3 (WC2ORCACT01Doomhammer4a), Name (Назва)
+{
+WC2ORCACT01Doomhammer4a
+}
+
+STRING 3167
+// Предмети: IaLJ (WC2ORCACT01Maim12), Name (Назва)
+{
+WC2ORCACT01Maim12
+}
+
+STRING 3168
+// Предмети: IaLo (WC2ORCACT01Chogall5), Name (Назва)
+{
+WC2ORCACT01Chogall5
+}
+
+STRING 3169
+// Штуки для знищення: B005 (VT¨_ThroneRoom_Knight Statue), Name (Назва)
+{
+VT¨_ThroneRoom_Knight Statue
+}
+
+STRING 3170
+// Штуки для знищення: B006 (VT_ThroneRoom_Windows), Name (Назва)
+{
+VT_ThroneRoom_Windows
+}
+
+STRING 3171
+// Декорації: D00K (VT_Throne Collom), Name (Назва)
+{
+VT_Throne Collom
+}
+
+STRING 3172
+// Декорації: D00L (VT_throne_collumn), Name (Назва)
+{
+VT_throne_collumn
+}
+
+STRING 3173
+// Декорації: D00M (VT_ThroneRoom_Wall Door), Name (Назва)
+{
+VT_ThroneRoom_Wall Door
+}
+
+STRING 3174
+// Декорації: D00N (VT_ThroneRoom_detail), Name (Назва)
+{
+VT_ThroneRoom_detail
+}
+
+STRING 3175
+// Декорації: D00O (VT_ThroneRoom_Archway Ruined), Name (Назва)
+{
+VT_ThroneRoom_Archway Ruined
+}
+
+STRING 3176
+// Декорації: D00P (VT_ThroneRoom)Bench Stone), Name (Назва)
+{
+VT_ThroneRoom)Bench Stone
+}
+
+STRING 3177
+// Декорації: D00Q (VT_ThroneRoom_Wall Low (Horizontal)), Name (Назва)
+{
+VT_ThroneRoom_Wall Low (Horizontal)
+}
+
+STRING 3178
+// Декорації: D00R (VT_ThroneRoom_Light From Aside), Name (Назва)
+{
+VT_ThroneRoom_Light From Aside
+}
+
+STRING 3179
+// Декорації: D00S (VT_Floor_circle), Name (Назва)
+{
+VT_Floor_circle
+}
+
+STRING 3180
+// Декорації: D00T (VT_Rocks), Name (Назва)
+{
+VT_Rocks
+}
+
+STRING 3181
+// Штуки для знищення: B007 (VT_Barrel), Name (Назва)
+{
+VT_Barrel
+}
+
+STRING 3182
+// Штуки для знищення: B008 (DEAD CORPSE), Name (Назва)
+{
+DEAD CORPSE
+}
+
+STRING 3183
+// Декорації: D00U (VT_Crates Empty), Name (Назва)
+{
+VT_Crates Empty
+}
+
+STRING 3184
+// Декорації: D00V (VT_Table), Name (Назва)
+{
+VT_Table
+}
+
+STRING 3185
+// Штуки для знищення: B009 (Dead Body), Name (Назва)
+{
+Dead Body
+}
+
+STRING 3186
+// Штуки для знищення: B009 (Dead Body), EditorSuffix (Суфікс редактора)
+{
+(Footman Stromgarde)
+}
+
+STRING 3187
+// Декорації: DSTW (DoorArch Throne Room), Name (Назва)
+{
+DoorArch Throne Room
+}
+
+STRING 3188
+// Штуки для знищення: BLTA (Lordaeron Spire), Name (Назва)
+{
+Lordaeron Spire
+}
+
+STRING 3189
+// Декорації: DCFW (EV_ThroneCielingPlate), Name (Назва)
+{
+EV_ThroneCielingPlate
+}
+
+STRING 3190
+// Штуки для знищення: BCSA (City Stairs), Name (Назва)
+{
+City Stairs
+}
+
+STRING 3191
+// Штуки для знищення: BCSA (City Stairs), EditorSuffix (Суфікс редактора)
+{
+(Non Walkable)
+}
+

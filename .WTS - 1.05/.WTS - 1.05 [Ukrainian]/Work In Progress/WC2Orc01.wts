@@ -1,0 +1,1304 @@
+﻿STRING 1
+{
+Chapter 01
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 104
+{
+|cffffcc00OPTIONAL QUEST|r
+Wolves
+ - Find and destroy all Wolf Dens
+}
+
+STRING 112
+{
+|cffffcc00OPTIONAL QUEST COMPLETED|r
+Wolves
+}
+
+STRING 187
+{
+Blackrock Clan
+}
+
+STRING 230
+{
+Orcish Horde
+}
+
+STRING 233
+{
+One
+}
+
+STRING 234
+{
+WC2Orc01
+}
+
+STRING 236
+{
+Nation of Lordaeron
+}
+
+STRING 249
+{
+Unable to use Oil Rig.
+}
+
+STRING 250
+{
+That Oil Patch has already being used.
+}
+
+STRING 251
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 252
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 253
+{
+Must build Oil Rig first.
+}
+
+STRING 254
+{
+Must target an Oil Rig.
+}
+
+STRING 255
+{
+Must build upon Oil Patch.
+}
+
+STRING 258
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration, Berserker Sight, Lighter Axes. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 264
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 268
+// Units: ndfl (Железные метательные топоры), Description (Description)
+{
+Грозный корабль людей, эффективный как в морских сражениях, так и при штурме береговых построек. |n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 269
+// Units: ndfl (Железные метательные топоры), Name (Name)
+{
+Железные метательные топоры
+}
+
+STRING 270
+// Units: ndfl (Железные метательные топоры), EditorSuffix (Name - Editor Suffix)
+{
+Осколочные ядра катапульт (|cffffcc00G|r)
+}
+
+STRING 272
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrate
+}
+
+STRING 378
+// Units: n606 (Orc Tent), Name (Name)
+{
+Orc Tent
+}
+
+STRING 678
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 679
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 708
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 709
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 718
+// Units: h620 (Tent), Name (Name)
+{
+Tent
+}
+
+STRING 719
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tent
+}
+
+STRING 720
+// Units: h621 (Tent), Name (Name)
+{
+Tent
+}
+
+STRING 721
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tent
+}
+
+STRING 722
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 763
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 865
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 871
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 872
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 873
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 874
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 900
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+No Path
+}
+
+STRING 902
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 940
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 941
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 944
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 947
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 958
+// Destructibles: B60L (WInter Canopy Bush), Name (Name)
+{
+WInter Canopy Bush
+}
+
+STRING 959
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 960
+// Destructibles: B60S (Fallen Winter Tree 2), Name (Name)
+{
+Fallen Winter Tree 2
+}
+
+STRING 962
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 963
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 964
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 965
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 966
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+AllianceBanner
+}
+
+STRING 981
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 986
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1006
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1029
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1085
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1157
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1164
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1165
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1187
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1188
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1195
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1198
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1976
+// Units: n004 (Wolf Den), EditorSuffix (Name - Editor Suffix)
+{
+ (Quest)
+}
+
+STRING 2059
+{
+|cff00ff00HINT|r
+Utok is a semi-hero that can carry items. If he dies in combat, you will be unable to use him for the rest of the mission. 
+Utok's level progression depends on Side Quests completion.
+}
+
+STRING 2060
+// Destructibles: B000 (Rock Chunks Snow), Name (Name)
+{
+Rock Chunks Snow
+}
+
+STRING 2075
+{
+|cffffcc00MAIN QUEST FAILED|r
+All Gold Mines depleted before gathering enough resources.
+}
+
+STRING 2081
+// Destructibles: B001 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 2082
+// Destructibles: B002 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 2083
+// Destructibles: B003 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 2084
+// Destructibles: B004 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 2085
+// Units: n004 (Wolf Den), Name (Name)
+{
+Wolf Den
+}
+
+STRING 2091
+// Destructibles: B005 (BoatPlatform), Name (Name)
+{
+BoatPlatform
+}
+
+STRING 2095
+{
+Alliance
+}
+
+STRING 2110
+// Destructibles: B006 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2111
+// Destructibles: B007 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2112
+// Destructibles: B007 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 2113
+// Destructibles: B008 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2114
+// Destructibles: B008 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Tilted)
+}
+
+STRING 2115
+// Destructibles: B009 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2116
+// Destructibles: B009 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small Tilted)
+}
+
+STRING 2144
+// Destructibles: B60P (Den), Name (Name)
+{
+Den
+}
+
+STRING 2146
+// Destructibles: B00B (Crates), EditorSuffix (Editor Suffix)
+{
+(No Pitch)
+}
+
+STRING 2160
+// Destructibles: B00C (Den), Name (Name)
+{
+Den
+}
+
+STRING 2161
+// Destructibles: B00C (Den), EditorSuffix (Editor Suffix)
+{
+(Unselectable)
+}
+
+STRING 2186
+// Destructibles: B00A (Snowpile Cliff), Name (Name)
+{
+Snowpile Cliff
+}
+
+STRING 2187
+// Destructibles: B00D (Snowpile Flat), Name (Name)
+{
+Snowpile Flat
+}
+
+STRING 2188
+// Destructibles: B00E (Snowpile Northrend), Name (Name)
+{
+Snowpile Northrend
+}
+
+STRING 2190
+{
+Blackrock Clan
+}
+
+STRING 2220
+{
+Landing
+}
+
+STRING 2221
+{
+Orgrim Doomhammer has entrusted you with the construction of an outpost on the island of Zul’dare.
+Build several farms to feed the troops and a barracks to protect the camp.
+}
+
+STRING 2222
+{
+Build a Barracks
+}
+
+STRING 2223
+{
+Build Pig Farms (0 of 4 Built)
+}
+
+STRING 2224
+{
+Fuel the Fires
+}
+
+STRING 2225
+{
+In preparation for the northern campaign, you are to gather vast amounts of gold and lumber. 
+}
+
+STRING 2230
+{
+Wolves
+}
+
+STRING 2231
+{
+Your efforts have provoked a local pack of wolves. Scout the area, find their dens, and eradicate them.
+}
+
+STRING 2232
+{
+Find and destroy all Wolf Dens
+}
+
+STRING 2237
+{
+First Blood
+}
+
+STRING 2238
+{
+A group of Human scouts have landed on the island of Zul’dare. They must not be allowed to warn the mainland. Slaughter them all!
+}
+
+STRING 2239
+{
+Put out the Signal Fire
+}
+
+STRING 2240
+{
+Kill the Scouts
+}
+
+STRING 2248
+{
+|cff00ff00HINT|r
+|cffffcc003,000 Gold|r was taken towards the quest objective. 
+}
+
+STRING 2250
+{
+|cff00ff00HINT|r
+|cff0080003,000 Lumber|r was taken towards the quest objective. 
+}
+
+STRING 2254
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Fuel the Fire
+}
+
+STRING 2256
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Landing
+}
+
+STRING 2259
+{
+|cff00ff00HINT|r
+Each chapter contains side quests that can increase Utok's level, granting him access to new spells and increasing his stats. 
+}
+
+STRING 2261
+{
+|c0000FF00Hint:|r Fallen Hero can be revived in the Great Hall.
+}
+
+STRING 2264
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+First Blood
+}
+
+STRING 2265
+{
+|cffffcc00MAIN QUEST UPDATE|r
+First Blood
+  -|cff808080 Put out the Signal Fire (Completed)|r
+  - Kill the Scouts
+}
+
+STRING 2266
+{
+|cffffcc00MAIN QUEST UPDATE|r
+First Blood
+  - Put out the Signal Fire
+  -|cff808080 Kill the Scouts (Completed)|r
+}
+
+STRING 2286
+{
+Put out the fire
+}
+
+STRING 2287
+{
+|cffffcc00MAIN QUEST|r
+First Blood
+ - Put out the Signal Fire
+ - Kill the Scouts
+}
+
+STRING 2288
+{
+|cff00ff00HINT|r
+Pick any unit and order him to reach the circle of power near the signal fire in order to put it out. 
+}
+
+STRING 2289
+{
+Gold for the Horde:
+}
+
+STRING 2290
+{
+Lumber for the Horde:
+}
+
+STRING 2291
+{
+|cff00ff00HINT|r
+Each time your peons gather 3,000 Gold or Lumber, this amount is transferred towards the quest objective.
+}
+
+STRING 2292
+{
+Mission Objectives
+}
+
+STRING 2293
+{
+Pig Farms Built:
+}
+
+STRING 2294
+{
+Barracks Built:
+}
+
+STRING 2295
+{
+|cffffcc00MAIN QUEST|r
+Landing
+ - Build Pig Farms (0 of 4 Built)
+ - Build a Barracks
+}
+
+STRING 2296
+{
+Build Pig Farms
+}
+
+STRING 2300
+{
+Defeat!
+}
+
+STRING 2305
+{
+|cffffcc00MAIN QUEST UPDATED|r
+First Blood
+  -|cffff0000 Put out the Signal Fire (failed)|r
+  - Kill the Scouts
+}
+
+STRING 2309
+// Items: I0L0 (WC2Orc01Utok1), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2310
+// Items: I0L0 (WC2Orc01Utok1), Description (Description)
+{
+Throm'ka, Chieftain.
+}
+
+STRING 2311
+// Items: I0L0 (WC2Orc01Utok1), Name (Name)
+{
+WC2Orc01Utok1
+}
+
+STRING 2312
+// Items: I1L0 (WC2Orc01Utok2), Tip (Tooltip - Basic)
+{
+Utok Scratcher
+}
+
+STRING 2313
+// Items: I1L0 (WC2Orc01Utok2), Description (Description)
+{
+Chieftain, there are human ships in the northern bay!
+}
+
+STRING 2314
+// Items: I1L0 (WC2Orc01Utok2), Name (Name)
+{
+WC2Orc01Utok2
+}
+
+STRING 2315
+// Items: I1L1 (WC2Orc01Rend1), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2316
+// Items: I1L1 (WC2Orc01Rend1), Description (Description)
+{
+Throm'ka, warrior.
+}
+
+STRING 2317
+// Items: I1L1 (WC2Orc01Rend1), Name (Name)
+{
+WC2Orc01Rend1
+}
+
+STRING 2318
+// Items: I1L2 (WC2Orc01Rend2), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2319
+// Items: I1L2 (WC2Orc01Rend2), Description (Description)
+{
+The horde is preparing to launch an assault against the mainland of Lordaeron.
+}
+
+STRING 2320
+// Items: I1L2 (WC2Orc01Rend2), Name (Name)
+{
+WC2Orc01Rend2
+}
+
+STRING 2321
+// Items: I1L3 (WC2Orc01Rend3), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2322
+// Items: I1L3 (WC2Orc01Rend3), Description (Description)
+{
+Orgrim Doomhammer - Warchief of the Orcish hordes and Ruler of the Blackrock Clan - has ordered us to establish a small outpost on Lordaeron's southern shores.
+}
+
+STRING 2323
+// Items: I1L3 (WC2Orc01Rend3), Name (Name)
+{
+WC2Orc01Rend3
+}
+
+STRING 2324
+// Items: I1L4 (WC2Orc01Rend4), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2325
+// Items: I1L4 (WC2Orc01Rend4), Description (Description)
+{
+To secure the Zul'dare region as Doomhammer demands we will need to construct a Barracks and several Farms to feed the troops.
+}
+
+STRING 2326
+// Items: I1L4 (WC2Orc01Rend4), Name (Name)
+{
+WC2Orc01Rend4
+}
+
+STRING 2327
+// Items: I1L5 (WC2Orc01Rend5), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2328
+// Items: I1L5 (WC2Orc01Rend5), Description (Description)
+{
+Our success may help us determine the extent of the pathetic Human defenses and what resistance they can offer against our forces.
+}
+
+STRING 2329
+// Items: I1L5 (WC2Orc01Rend5), Name (Name)
+{
+WC2Orc01Rend5
+}
+
+STRING 2330
+// Items: I1L6 (WC2Orc01Rend6), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2331
+// Items: I1L6 (WC2Orc01Rend6), Description (Description)
+{
+We need a huge amount of resources for the needs of the northern campaign. Gather gold and cut down the forest!
+}
+
+STRING 2332
+// Items: I1L6 (WC2Orc01Rend6), Name (Name)
+{
+WC2Orc01Rend6
+}
+
+STRING 2333
+// Items: I1L7 (WC2Orc01Rend7), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2334
+// Items: I1L7 (WC2Orc01Rend7), Description (Description)
+{
+Find their den and put an end to these attacks!
+}
+
+STRING 2335
+// Items: I1L7 (WC2Orc01Rend7), Name (Name)
+{
+WC2Orc01Rend7
+}
+
+STRING 2336
+// Items: I1L9 (WC2Orc01Rend8), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2337
+// Items: I1L9 (WC2Orc01Rend8), Description (Description)
+{
+That's the last of them.
+}
+
+STRING 2338
+// Items: I1L9 (WC2Orc01Rend8), Name (Name)
+{
+WC2Orc01Rend8
+}
+
+STRING 2339
+// Items: I1LA (WC2Orc01Rend9), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2340
+// Items: I1LA (WC2Orc01Rend9), Description (Description)
+{
+Damn! We are not prepared for this! We must put out the signal fire immediately, or they will notice us from the ships. Scour the island, slaughter the humans, and don’t let them warn the mainland!
+}
+
+STRING 2342
+// Items: I1lA (WC2Orc01Rend10), Tip (Tooltip - Basic)
+{
+Rend Blackhand
+}
+
+STRING 2343
+// Items: I1lA (WC2Orc01Rend10), Description (Description)
+{
+Excellent, we've made ready and scouted the area. Doomhammer will be pleased.
+}
+
+STRING 2344
+// Items: I1LA (WC2Orc01Rend9), Name (Name)
+{
+WC2Orc01Rend9
+}
+
+STRING 2345
+// Items: I1LB (T02Grunt04901), Tip (Tooltip - Basic)
+{
+Grunt
+}
+
+STRING 2346
+// Items: I1LB (T02Grunt04901), Description (Description)
+{
+The wretched humans have been destroyed!
+}
+
+STRING 2347
+// Items: I1LB (T02Grunt04901), Name (Name)
+{
+T02Grunt04901
+}
+
+STRING 2348
+// Items: I1LC (WC2Orc01Peon1), Tip (Tooltip - Basic)
+{
+Peon
+}
+
+STRING 2349
+// Items: I1LC (WC2Orc01Peon1), Description (Description)
+{
+Wolves, we are under attack!
+}
+
+STRING 2350
+// Items: I1LC (WC2Orc01Peon1), Name (Name)
+{
+WC2Orc01Peon1
+}
+
+STRING 2351
+// Items: I1LD (WC2Orc01footman1), Tip (Tooltip - Basic)
+{
+Footman
+}
+
+STRING 2352
+// Items: I1LD (WC2Orc01footman1), Description (Description)
+{
+Is it true sir? Have the orcs really made it this far north?
+}
+
+STRING 2353
+// Items: I1LD (WC2Orc01footman1), Name (Name)
+{
+WC2Orc01footman1
+}
+
+STRING 2354
+// Items: I1LE (WC2Orc01footman2), Tip (Tooltip - Basic)
+{
+Footman
+}
+
+STRING 2355
+// Items: I1LE (WC2Orc01footman2), Description (Description)
+{
+And the stories? If even half of them are true, how can we possibly defeat them?
+}
+
+STRING 2356
+// Items: I1LE (WC2Orc01footman2), Name (Name)
+{
+WC2Orc01footman2
+}
+
+STRING 2357
+// Items: I1LF (WC2Orc01footman3), Tip (Tooltip - Basic)
+{
+Footman
+}
+
+STRING 2358
+// Items: I1LF (WC2Orc01footman3), Description (Description)
+{
+Light protect us...
+}
+
+STRING 2359
+// Items: I1LF (WC2Orc01footman3), Name (Name)
+{
+WC2Orc01footman3
+}
+
+STRING 2360
+// Items: I1LG (O07FootmanA1101), Tip (Tooltip - Basic)
+{
+Footman
+}
+
+STRING 2361
+// Items: I1LG (O07FootmanA1101), Description (Description)
+{
+Orcs! Arm yourselves!
+}
+
+STRING 2362
+// Items: I1LG (O07FootmanA1101), Name (Name)
+{
+O07FootmanA1101
+}
+
+STRING 2363
+// Items: I1LH (WC2Orc01Captain1), Tip (Tooltip - Basic)
+{
+Captain
+}
+
+STRING 2364
+// Items: I1LH (WC2Orc01Captain1), Description (Description)
+{
+Alright men, establish a basecamp and prepare to move out.
+}
+
+STRING 2365
+// Items: I1LH (WC2Orc01Captain1), Name (Name)
+{
+WC2Orc01Captain1
+}
+
+STRING 2366
+// Items: I1LI (WC2Orc01Captain2), Tip (Tooltip - Basic)
+{
+Captain
+}
+
+STRING 2367
+// Items: I1LI (WC2Orc01Captain2), Description (Description)
+{
+Calm yourselves and stay focused on our task. We are here to investigate the rumors of a suspected Horde presence in the Zul’dare region.
+}
+
+STRING 2368
+// Items: I1LI (WC2Orc01Captain2), Name (Name)
+{
+WC2Orc01Captain2
+}
+
+STRING 2369
+// Items: I1LJ (WC2Orc01Captain3), Tip (Tooltip - Basic)
+{
+Captain
+}
+
+STRING 2370
+// Items: I1LJ (WC2Orc01Captain3), Description (Description)
+{
+Now, see if you can get that fire going.
+}
+
+STRING 2371
+// Items: I1LJ (WC2Orc01Captain3), Name (Name)
+{
+WC2Orc01Captain3
+}
+
+STRING 2374
+// Items: I1lA (WC2Orc01Rend10), Name (Name)
+{
+WC2Orc01Rend10
+}
+
+STRING 2375
+// Doodads: D000 (Snow(vt)), Name (Name)
+{
+Snow(vt)
+}
+
+STRING 2377
+// Units: ngz3 (Wild Bear), Name (Name)
+{
+Wild Bear
+}
+
+STRING 2379
+// Doodads: D001 (Light Yellow), Name (Name)
+{
+Light Yellow
+}
+
+STRING 2380
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 2381
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 2384
+{
+|cffffcc00Cheat Enabled|r
+}
+
+STRING 2385
+{
+|cffff0000Put out the Signal Fire (failed)|r
+}
+
+STRING 2386
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+Landing
+}
+
+STRING 2387
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  - Build a Barracks
+}
+
+STRING 2388
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+  -|cff808080 Build a Barracks (Completed)|r
+}
+
+STRING 2389
+// Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00MAIN QUEST UPDATE|r
+}
+
+STRING 2390
+// Items: IQL2 (Quest Landing Localization), Tip (Tooltip - Basic)
+{
+ of 4 Built)
+}
+
+STRING 2391
+// Items: IQL2 (Quest Landing Localization), Ubertip (Tooltip - Extended)
+{
+  - Build Pig Farms (
+}
+
+STRING 2392
+// Items: IQL2 (Quest Landing Localization), Description (Description)
+{
+  -|cff808080 Build Pig Farms (Completed)|r
+}
+
+STRING 2393
+// Items: IQL2 (Quest Landing Localization), Name (Name)
+{
+Quest Landing Localization
+}
+
+STRING 2394
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Tip (Tooltip - Basic)
+{
+Fuel the Fires
+}
+
+STRING 2395
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Ubertip (Tooltip - Extended)
+{
+  - Gather 
+}
+
+STRING 2396
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Description (Description)
+{
+ Gold
+}
+
+STRING 2397
+// Items: IQL3 (|cffffcc00MAIN QUEST|r), Name (Name)
+{
+|cffffcc00MAIN QUEST|r
+}
+
+STRING 2398
+// Items: IQL4 ( Lumber (Completed)|r), Ubertip (Tooltip - Extended)
+{
+  - Harvest 
+}
+
+STRING 2399
+// Items: IQL4 ( Lumber (Completed)|r), Description (Description)
+{
+ Lumber
+}
+
+STRING 2401
+// Items: IQL4 ( Lumber (Completed)|r), Tip (Tooltip - Basic)
+{
+  -|cff808080 Harvest 
+}
+
+STRING 2402
+// Items: IQL4 ( Lumber (Completed)|r), Name (Name)
+{
+ Lumber (Completed)|r
+}
+
+STRING 2403
+// Items: IQL5 (Gold Localiztion Quest Completed), Tip (Tooltip - Basic)
+{
+ Gold (Completed)|r
+}
+
+STRING 2404
+// Items: IQL5 (Gold Localiztion Quest Completed), Description (Description)
+{
+  -|cff808080 Gather 
+}
+
+STRING 2405
+// Items: IQL5 (Gold Localiztion Quest Completed), Name (Name)
+{
+Gold Localiztion Quest Completed
+}
+
+STRING 2406
+{
+Build Pig Farms
+}
+
+STRING 2407
+// Items: IQL5 (Gold Localiztion Quest Completed), Ubertip (Tooltip - Extended)
+{
+Build Pig Farms (
+}
+
+STRING 2408
+// Items: IQL6 (Harvest ), Description (Description)
+{
+Gather 
+}
+
+STRING 2409
+// Items: IQL6 (Harvest ), Name (Name)
+{
+Harvest 
+}
+
+STRING 2410
+{
+|cffffcc00Cheat Disabled|r
+}
+
+STRING 2411
+{
+|cffffcc00Cheat Enabled.|r
+}
+
+STRING 2414
+{
+|cffffcc00MAIN QUEST FAILED|r
+All structures and units were destroyed.
+}
+
+STRING 2415
+{
+Defeat!
+}
+
+STRING 2416
+{
+Remaining Wolf Dens:
+}
+
