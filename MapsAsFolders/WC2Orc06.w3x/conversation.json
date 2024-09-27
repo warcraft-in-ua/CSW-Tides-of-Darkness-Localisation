@@ -1,0 +1,502 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "IntroCinematic.IntroDialogueWalk": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed2.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok3.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed3.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed4.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok4.mp3"
+            }
+        ],
+        "IntroCinematic.IntroMarchingTroops": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed5.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok5.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall1.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed6.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\TwilightGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06THammerGrunt1.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall2.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok6.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed7.mp3"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall3.mp3"
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok7.mp3"
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall4.mp3"
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall5.mp3"
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed8.mp3"
+            }
+        ],
+        "DialogueChooseWay.ChooseWayCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_ChooseWay1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok_ChooseWay1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok_ChooseWay2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_Crosspath1.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_Crosspath2.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_Crosspath3.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_ChooseWay2.mp3"
+            }
+        ],
+        "BridgeDestruction.BridgeCollapseCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_BrokenBridge1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_BrokenBridge2.mp3"
+            }
+        ],
+        "BridgeDestruction.BDCleanUp": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_BrokenBridge1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok_BrokenBridge1.mp3"
+            }
+        ],
+        "BleedingHollowCampCinematic.BleedingHollowCampCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_FirstQuest1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_BHollowMinicamp1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_FirstQuest2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_BHollowMinicamp2.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_FirstQuest3.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_YoursToCommand1.mp3"
+            }
+        ],
+        "TheBeastCinematics.ScaredGruntCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_CrocoliskQuest1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_CrocoliskQuest1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_CrocoliskQuest2a.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_CrocoliskQuest2b.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_CrocoliskQuest2c.mp3"
+            }
+        ],
+        "OrcSpiritCinematic.ForlornSpiritCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_ForlornSpirit1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Peon\\BleedingH_peon.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06ForlornSpirit1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_ForlornSpirit2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Peon\\BleedingH_peon.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06ForlornSpirit2.mp3"
+            }
+        ],
+        "KilroggDeadeyeCinematic.KilroggCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_BHollowLastCamp1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_FinalCamp1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_FinalCamp1.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_BHollowCamp1.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_BHollowCamp1.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_BHollowLastCamp2.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\KilroggDeadeye\\KilroggDeadeye.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Kilrogg_EnterCamp1.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_BHollowCamp2.mp3"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Orc\\KilroggDeadeye\\KilroggDeadeye.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Kilrogg_EnterCamp2.mp3"
+            }
+        ],
+        "FinalCinematic.FinalCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok8.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\KilroggDeadeye\\KilroggDeadeye.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Kilrogg1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed9.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall6.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\KilroggDeadeye\\KilroggDeadeye.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Kilrogg2.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed10.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok9.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\KilroggDeadeye\\KilroggDeadeye.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Kilrogg3.mp3"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed11.mp3"
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed12.mp3"
+            }
+        ],
+        "Quests.OptionalQuestBeastCompleted": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_CrocoliskQuest4.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_CrocoliskQuest3.mp3"
+            }
+        ],
+        "DragonStatue.ItemDragonWingsAquired": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_Figurine1.mp3"
+            }
+        ],
+        "Voice Overs.AmbushVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Utok_Ambush1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_Ambush1.mp3"
+            }
+        ],
+        "Voice Overs.AngweVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BurningBladeGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Angwee_EasterEgg1.mp3"
+            }
+        ],
+        "Voice Overs.BleedingHollowReleasedVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_Free2.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_Free1.mp3"
+            }
+        ],
+        "Voice Overs.BleedingHollowQuestVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BleedingHollowGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_Outnumbered1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_CrocoliskQuest5.mp3"
+            }
+        ],
+        "Voice Overs.BleedingHollowSpearmanVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06BHollowGrunt_FirstQuest2.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_BHollowMinicamp2.mp3"
+            }
+        ],
+        "Voice Overs.ZuluhedBallistaVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_AllianceCatapult1.mp3"
+            }
+        ],
+        "Voice Overs.ZuluhedRuinsVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_RuinsTopRight1.mp3"
+            }
+        ],
+        "Voice Overs.ZuluhedExcavationVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_RuinsTopLeft1.mp3"
+            }
+        ],
+        "Voice Overs.ZuluhedTormentedSoulVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_TormentedSoul1.mp3"
+            }
+        ],
+        "Voice Overs.DwarfHorn": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Other\\IronforgeRamRider\\IronforgeRamRider.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06DwarfKnight_IronforgeCamp1.mp3"
+            }
+        ],
+        "Voice Overs.HumanHorn": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Footman\\StromgardeFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Footman_StromgardeCamp1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\TheCaptain\\TheCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Knight_StromgardeCamp1.mp3"
+            }
+        ],
+        "Voice Overs.ChogallVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Orc/Chogall/ChoGall.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Chogall_Stromgarde_Ironforge1.mp3"
+            }
+        ],
+        "Voice Overs.BeastVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_CrocoliskQuest2.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06Zuluhed_CrocoliskQuest3.mp3"
+            }
+        ],
+        "Voice Overs.DirkIronGhostVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Other\\DarkIronCaptain\\DarkIronCaptainGhost.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc06/WC2Orc06DironCaptain_encounter1.mp3"
+            }
+        ]
+    }
+}

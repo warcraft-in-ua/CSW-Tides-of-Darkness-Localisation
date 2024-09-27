@@ -1,0 +1,295 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Intro Cinematic.Intro": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate01.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn2.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate02.flac"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn3.flac"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate03.flac"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate04.flac"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn4.flac"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate05.flac"
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate06.flac"
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn5.flac"
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate07.flac"
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn6.flac"
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn7.flac"
+            },
+            {
+                "conversationOrder": 14,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn8.flac"
+            },
+            {
+                "conversationOrder": 15,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate08.flac"
+            },
+            {
+                "conversationOrder": 16,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn9.flac"
+            },
+            {
+                "conversationOrder": 17,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate9.flac"
+            },
+            {
+                "conversationOrder": 18,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn10.flac"
+            },
+            {
+                "conversationOrder": 19,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn12.flac"
+            },
+            {
+                "conversationOrder": 20,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn13.flac"
+            },
+            {
+                "conversationOrder": 21,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn14.flac"
+            },
+            {
+                "conversationOrder": 22,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn15.flac"
+            },
+            {
+                "conversationOrder": 23,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Patrick1.flac"
+            },
+            {
+                "conversationOrder": 24,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn16.flac"
+            },
+            {
+                "conversationOrder": 25,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Patrick2.flac"
+            },
+            {
+                "conversationOrder": 26,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend1.flac"
+            },
+            {
+                "conversationOrder": 27,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Zuljin1.flac"
+            },
+            {
+                "conversationOrder": 28,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Utok1.flac"
+            },
+            {
+                "conversationOrder": 29,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend2.flac"
+            },
+            {
+                "conversationOrder": 30,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Utok2a.mp3"
+            },
+            {
+                "conversationOrder": 31,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Utok2b.mp3"
+            },
+            {
+                "conversationOrder": 32,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend3.flac"
+            }
+        ],
+        "MidgameCinematic.MidgameCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend7.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn18.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn19.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend8.flac"
+            }
+        ],
+        "MidgameCinematic.GilneasShipsCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Utok3.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Zuljin2.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend5.flac"
+            }
+        ],
+        "Final Cinematic.Final Cinematic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate11.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend9.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend10.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Zuljin4.flac"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend11.flac"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Utok4.flac"
+            }
+        ],
+        "Quests.QuestGilneasShipsCompleted": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Zuljin3.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend6.flac"
+            }
+        ],
+        "Voice Overs.Meryn": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Rend4.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Captain\\StormwindCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Meryn17.flac"
+            }
+        ],
+        "Voice Overs.Footman": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "Sound/Dialogue/OrcCampaign/Orc07/O07FootmanA11.flac"
+            }
+        ],
+        "Voice Overs.CapitanTaunt": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Captain\\LordaeronCaptain.mdl",
+                "soundFile": "Units/Human/TheCaptain/CaptainYesAttack1.flac"
+            }
+        ],
+        "Voice Overs.Archer": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\HumanArcher\\HumanArcher.mdl",
+                "soundFile": "Sound/Dialogue/OrcCampaign/Orc03/O03Archmage06.flac"
+            }
+        ],
+        "Voice Overs.Magistrate": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units/Human/LordaeronEmissary/LordaeronEmissary.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc04/WC2Orc04Magistrate10.flac"
+            }
+        ]
+    }
+}

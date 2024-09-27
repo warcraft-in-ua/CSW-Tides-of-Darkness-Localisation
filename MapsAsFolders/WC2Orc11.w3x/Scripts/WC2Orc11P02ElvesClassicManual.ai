@@ -1,0 +1,203 @@
+//============================================================================
+//  WC2Orc11ElvesClassicManual by Tamplier
+//============================================================================
+globals
+    player user = PlayerEx(1)
+    player trolls = PlayerEx(11)
+
+    constant integer LIREESA  = 'H008'
+    constant integer ELVEN_HERO_KNIGHT = 'H004'    
+    constant integer ELVEN_ARCHER = 'h60O'
+    constant integer ELVEN_RANGER = 'h60S'
+    constant integer ELVEN_BALLISTA = 'e000'
+    constant integer JUDICATOR = 'h61K'
+    constant integer HIGH_BOTANIST = 'n004'
+    constant integer HIGH_WORKER = 'nhew'
+    constant integer HIGH_CAPTAIN = 'nbel'
+    constant integer HIGH_DRAGON_HAWK = 'hdhw'
+
+endglobals
+//============================================================================
+//  main
+//============================================================================
+function main takes nothing returns nothing
+    call CampaignAI(HOUSE,null)
+    call SetDefendPlayer( false )
+    call SetRandomPaths( true )
+    call SetTargetHeroes( true )
+    call SetPeonsRepair( true )
+    call SetHeroesFlee( false )
+    call SetHeroesBuyItems( false )
+    call SetUnitsFlee( false )
+    call SetGroupsFlee( false )
+    call SetWatchMegaTargets( false )
+    call SetIgnoreInjured( true )
+    call SetHeroesTakeItems( false )
+    call SetSlowChopping( true )
+    call SetCaptainChanges( true )
+    call SetSmartArtillery( true )
+    call SetReplacements(0,0,0)
+
+    call SetBuildUnitEx( 1,2,2, HIGH_DRAGON_HAWK )
+    call SetBuildUnitEx( 1,1,1, HIGH_SWORDMAN )
+    call SetBuildUnitEx( 1,1,1, ELVEN_HERO_KNIGHT )
+    call SetBuildUnitEx( 1,1,1, LIREESA )
+
+    call WaitForSignal()
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,3, HIGH_SWORDMAN  )
+    call CampaignAttackerEx( 2,2,3, ELVEN_RANGER )
+    call CampaignAttackerEx( 1,1,1, LIREESA   )
+    call SuicideOnPlayerEx(M4,M4,M4,trolls)
+
+    call SetBuildUpgrEx( 1,0,0, UPG_DEFEND )
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN)
+    call CampaignAttackerEx( 1,2,2, ELVEN_RANGER)
+    call CampaignAttackerEx( 1,1,2, JUDICATOR)
+    call CampaignAttackerEx( 1,1,1, ELVEN_HERO_KNIGHT)
+    call SuicideOnPlayerEx(M3,M3,M2,user)    
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,3, HIGH_SWORDMAN)
+    call CampaignAttackerEx( 2,2,3, ELVEN_RANGER)
+    call CampaignAttackerEx( 1,1,1, LIREESA)
+    call SuicideOnPlayerEx(M4,M2,M2,user)
+
+    call SetBuildUpgrEx( 0,0,1, UPG_RANGED          )
+    call SetBuildUpgrEx( 0,0,1, UPG_MELEE           )
+    call SetBuildUpgrEx( 0,0,1, UPG_ARMOR           )
+
+    //*** WAVE 4 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,3, HIGH_DRAGON_HAWK)
+    call SuicideOnPlayerEx(M4,M3,M2,trolls)
+
+    call SetBuildUpgrEx( 1,1,3, UPG_ARMOR           )
+    call SetBuildUpgrEx( 1,1,3, UPG_MELEE           )
+    call SetBuildUpgrEx( 1,1,3, UPG_RANGED          )
+
+    //*** WAVE 5 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+    call CampaignAttackerEx( 2,2,3, ELVEN_RANGER )
+    call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+    call CampaignAttackerEx( 1,1,2, JUDICATOR )
+    call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+    call CampaignAttackerEx( 1,1,1, PRIEST )
+    call CampaignAttackerEx( 1,1,1, SORCERESS )
+    call CampaignAttackerEx( 1,1,1, ELVEN_HERO_KNIGHT   )
+    call SuicideOnPlayerEx(M4,M3,M2,trolls)
+
+     loop
+        //*** WAVE 6+ ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,2,3, HIGH_DRAGON_HAWK)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,3,4, HIGH_DRAGON_HAWK)
+        call SuicideOnPlayerEx(M4,M3,M2,trolls)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, LIREESA   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call SuicideOnPlayerEx(M4,M3,M2,trolls)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, ELVEN_HERO_KNIGHT   )
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, ELVEN_HERO_KNIGHT   )
+        call SuicideOnPlayerEx(M4,M3,M2,trolls)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER   )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, LIREESA   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,2,3, HIGH_DRAGON_HAWK)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,3,4, HIGH_DRAGON_HAWK)
+        call SuicideOnPlayerEx(M4,M3,M2,trolls)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, LIREESA   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call SuicideOnPlayerEx(M4,M3,M2,trolls)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, ELVEN_HERO_KNIGHT   )
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, ELVEN_HERO_KNIGHT   )
+        call SuicideOnPlayerEx(M4,M3,M2,trolls)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1,2,2, HIGH_SWORDMAN  )
+        call CampaignAttackerEx( 1,2,2, ELVEN_RANGER   )
+        call CampaignAttackerEx( 1,1,2, JUDICATOR )
+        call CampaignAttackerEx( 1,1,1, HIGH_BOTANIST )
+        call CampaignAttackerEx( 1,1,1, PRIEST )
+        call CampaignAttackerEx( 1,1,1, SORCERESS )
+        call CampaignAttackerEx( 1,1,1, LIREESA   )
+        call CampaignAttackerEx( 1,1,2, ELVEN_BALLISTA )
+        call SuicideOnPlayerEx(M4,M3,M2,user)        
+    endloop
+endfunction

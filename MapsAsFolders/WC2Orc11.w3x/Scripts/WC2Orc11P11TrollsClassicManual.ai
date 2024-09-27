@@ -1,0 +1,105 @@
+//============================================================================
+//  WC2Orc11TrollsClassicManual by Tamplier 
+//============================================================================
+globals
+    player elves = PlayerEx(2)
+
+    constant integer FOREST_TROLL_TRAPPER  = 'nftt'
+    constant integer FOREST_TROLL_BERSERKER  = 'nftb'
+    constant integer FOREST_TROLL_WARLORD  = 'nftk'
+    constant integer FOREST_TROLL_MELEE  = 'n006'
+    constant integer FOREST_TROLL_S_PRIEST  = 'nfsp'
+    constant integer FOREST_TROLL_H_PRIEST  = 'nfsh'
+    constant integer ZULJIN  = 'O60B'
+    constant integer FOREST_TROLL_BARRACKS  = 'O61L'
+    constant integer FOREST_TROLL_TEMPLE  = 'O61K'
+    constant integer FOREST_TROLL_ALTAR  = 'O61J'
+    constant integer FOREST_TROLL_MILL  = 'O60Z'
+    constant integer FOREST_TROLL_HUT1  = 'n60W'
+    constant integer FOREST_TROLL_HUT2  = 'n60X'
+    constant integer FOREST_TROLL_WORKER  = 'o002'
+
+endglobals
+//============================================================================
+//  main
+//============================================================================
+function main takes nothing returns nothing
+    call CampaignAI(HOUSE,null)
+    call SetDefendPlayer( false )
+    call SetRandomPaths( true )
+    call SetTargetHeroes( true )
+    call SetPeonsRepair( true )
+    call SetHeroesFlee( false )
+    call SetHeroesBuyItems( false )
+    call SetUnitsFlee( false )
+    call SetGroupsFlee( false )
+    call SetWatchMegaTargets( false )
+    call SetIgnoreInjured( true )
+    call SetHeroesTakeItems( false )
+    call SetSlowChopping( true )
+    call SetCaptainChanges( false )
+    call SetSmartArtillery( true )
+    call SetReplacements(2,2,3)
+
+    call SetBuildUnitEx( 2,2,3, FOREST_TROLL_MELEE )
+    call SetBuildUnitEx( 1,1,2, CATAPULT )
+    call SetBuildUnitEx( 1,1,1, ZULJIN )
+
+    call CampaignDefenderEx( 2,2,2, FOREST_TROLL_MELEE )
+    call CampaignDefenderEx( 1,1,1, FOREST_TROLL )
+    call CampaignDefenderEx( 1,1,1, FOREST_TROLL_BERSERKER )
+    call CampaignDefenderEx( 1,1,1, FOREST_TROLL_S_PRIEST )
+    call CampaignDefenderEx( 1,1,1, FOREST_TROLL_H_PRIEST )
+    call CampaignDefenderEx( 1,1,1, ZULJIN )
+
+    call WaitForSignal()
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 3,3,4, FOREST_TROLL_MELEE )
+    call CampaignAttackerEx( 2,2,3, FOREST_TROLL_TRAPPER )
+    call CampaignAttackerEx( 1,1,1, ZULJIN )
+    call SuicideOnPlayerEx(M4,M2,M2,elves)
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,5, FOREST_TROLL_MELEE )
+    call CampaignAttackerEx( 2,2,3, FOREST_TROLL )
+    call CampaignAttackerEx( 1,1,2, CATAPULT )
+    call CampaignAttackerEx( 1,1,1, ZULJIN )
+    call SuicideOnPlayerEx(M3,M2,M2,elves)
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 4,4,6, FOREST_TROLL_BERSERKER )
+    call CampaignAttackerEx( 1,1,2, CATAPULT )
+    call CampaignAttackerEx( 1,1,1, ZULJIN )
+    call SuicideOnPlayerEx(M4,M3,M2,elves)
+
+     loop
+        //*** WAVE 4+ ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,6,4, IFOREST_TROLL_WARLORD )
+        call CampaignAttackerEx( 2,4,5, FOREST_TROLL_BERSERKER )
+        call CampaignAttackerEx( 1,1,2, BATRIDER )
+        call CampaignAttackerEx( 1,1,2, FOREST_TROLL_S_PRIEST )
+        call CampaignAttackerEx( 1,1,1, ZULJIN )
+        call SuicideOnPlayerEx(M5,M4,M3,elves)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,5, FOREST_TROLL_MELEE )
+        call CampaignAttackerEx( 1,2,4, FOREST_TROLL )
+        call CampaignAttackerEx( 1,1,2, CATAPULT )
+        call CampaignAttackerEx( 1,1,2, FOREST_TROLL_H_PRIEST )
+        call CampaignAttackerEx( 1,1,1, ZULJIN )
+        call SuicideOnPlayerEx(M5,M4,M3,elves)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,6, FOREST_TROLL_TRAPPER )
+        call CampaignAttackerEx( 2,2,4, FOREST_TROLL_WARLORD )
+        call CampaignAttackerEx( 1,1,2, BATRIDER )
+        call CampaignAttackerEx( 1,1,1, ZULJIN )
+        call SuicideOnPlayerEx(M5,M4,M3,elves)
+    endloop
+endfunction
+

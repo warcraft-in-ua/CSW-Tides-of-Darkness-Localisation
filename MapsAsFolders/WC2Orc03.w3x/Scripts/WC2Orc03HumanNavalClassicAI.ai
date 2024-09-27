@@ -1,0 +1,73 @@
+//============================================================================
+//  WC2Orc03 Southshore -- Alliance Blue Human -- AI Script
+//  by Eugene_Ivaniushchenko (Tamplier)
+//============================================================================
+
+// GLOBALS 
+//------------------------------------------------
+globals
+
+   player user = Player(0)
+
+	constant integer H_DESTROYER = 'e60C'
+	constant integer WC2HUMANSHIPYARD = 'h60X'
+	
+   
+endglobals
+
+//============================================================================
+//  main
+//============================================================================
+function main takes nothing returns nothing
+    call CampaignAI(HOUSE,null)
+    call SetReplacements(0,0,0)
+    call SetAmphibious()
+
+    call SetBuildUnitEx(1, 1, 1, H_DESTROYER)
+    call CampaignDefenderEx(1, 2, 3, H_DESTROYER)
+
+    call WaitForSignal()
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(1, 1, 1, H_DESTROYER)
+    call SuicideOnPlayerEx(M5,M4,M3,user)
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(2, 2, 3, H_DESTROYER)
+    call SuicideOnPlayerEx(M5,M4,M3,user)
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(1, 2, 3, H_DESTROYER)
+    call SuicideOnPlayerEx(M5,M4,M3,user)
+
+    //*** WAVE 4 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(2, 3, 4, H_DESTROYER)
+    call SuicideOnPlayerEx(M5,M4,M3,user)
+
+     loop
+        //*** WAVE 5+ ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx(2, 3, 4, H_DESTROYER)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx(3, 3, 4, H_DESTROYER)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx(3, 4, 5, H_DESTROYER)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx(3, 4, 5, H_DESTROYER)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx(3, 4, 5, H_DESTROYER)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+    endloop
+endfunction

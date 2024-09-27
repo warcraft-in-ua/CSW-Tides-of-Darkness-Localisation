@@ -1,0 +1,101 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Quests.SettingQuests": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Rend6.flac"
+            }
+        ],
+        "Quests.HumansQuest": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Rend9.flac"
+            }
+        ],
+        "Quests.WolfQuest": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Peon\\BlackRockPeon.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Peon1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Rend7.flac"
+            }
+        ],
+        "Quests.WolfCompleted": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Rend8.flac"
+            }
+        ],
+        "Intro Cinemathic.Intro Cinemathic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Utok1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Rend1.flac"
+            }
+        ],
+        "MidgameCinematic.HumanCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Captain\\LordaeronCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Captain1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Footman1.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Footman2.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "units\\human\\Captain\\LordaeronCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Captain2.flac"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\human\\Captain\\LordaeronCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Captain3.flac"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Footman3.flac"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Utok2.flac"
+            }
+        ],
+        "MidgameCinematic.HumanKilledCinQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\BlackrockGrunt.mdl",
+                "soundFile": "Sound/Dialogue/TutorialCampaign/Tutorial02/T02Grunt049.flac"
+            }
+        ],
+        "Final.Final Cinematic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc01/WC2Orc01Rend10.flac"
+            }
+        ]
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Intro Cinematic.IntroCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim1.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok2.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim2.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed2.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim3.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim4.mp3"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed3.mp3"
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok3.mp3"
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim5.mp3"
+            }
+        ],
+        "MidgameCinematics.CatapultCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_Catapult1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_Catapult2.mp3"
+            }
+        ],
+        "MidgameCinematics.DunModrNorthCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_Telescope1.mp3"
+            }
+        ],
+        "MidgameCinematics.DunModrSouthCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\GenericGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Grunt1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_WarnTheIsland.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_LetThemCome1.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_DunModr1.mp3"
+            }
+        ],
+        "MidgameCinematics.GoblinCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_SubMarine1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\GoblinZeppelin\\WC2GoblinZeppelin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Goblin_Submarine1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Other\\GoblinLaborer\\Goblin_laborer.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Goblin_Zeppelin1.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Submarine1.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Other\\GoblinLaborer\\Goblin_laborer.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Goblin_Zeppelin2.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_Zepplin1.mp3"
+            }
+        ],
+        "MidgameCinematics.DukeDialogueExchangeQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\ReginaldBaradin\\ReginaldBaradin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Baradin_Bossfight1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_BossFight1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Human\\ReginaldBaradin\\ReginaldBaradin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Baradin_Bossfight2.mp3"
+            }
+        ],
+        "Victory Cinematic.FinalCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim6.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed4.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim7.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok4.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed5.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim8.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok5.mp3"
+            }
+        ],
+        "Events.OpenSecretTunnel": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Other\\IronForgeFootman\\IronForgeFootman.mdl",
+                "soundFile": "Units/Human/Rifleman/RiflemanWarcry1.flac"
+            }
+        ],
+        "Events.ExplodeBridge01": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\DemolitionSquad\\DemolitionSquad.mdl",
+                "soundFile": "Units/Human/MortarTeam/MortarTeamWarcry1.flac"
+            }
+        ],
+        "Voice Overs.HardworkingPeonResponse": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Peon\\BTG_peon.mdl",
+                "soundFile": "Units/Orc/Peon/PeonPissed2.flac"
+            }
+        ],
+        "Voice Overs.ElvenCorpsesVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_ElvenCorpses.mp3"
+            }
+        ],
+        "Voice Overs.MaimVO01": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_BlastedDwares1.mp3"
+            }
+        ],
+        "Voice Overs.DwarvenAmbushVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Other\\IronForgeMountaineer\\IronforgeMountaineer.mdl",
+                "soundFile": "Units/Human/GryphonRider/GryphonRiderWarcry1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Ambush1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_BlastedDwares2.mp3"
+            }
+        ],
+        "Voice Overs.OrcCorpsesVO1Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_OrcCorpses.mp3"
+            }
+        ],
+        "Voice Overs.ElementsVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_ElementsNearby.mp3"
+            }
+        ],
+        "Voice Overs.OrcCorpsesVO2": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_DestroyedOutpost1.mp3"
+            }
+        ],
+        "Voice Overs.MaimVO02": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_GushofWind1.mp3"
+            }
+        ],
+        "Voice Overs.DragonsVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Dragon1.mp3"
+            }
+        ],
+        "Voice Overs.DrunkenDwarvesVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Other\\IronForgeMountaineer\\IronforgeMountaineer.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Dwarf_Drunk1.mp3"
+            }
+        ],
+        "Voice Overs.StromgardeFootmanVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Footman\\StromgardeFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Footman1.mp3"
+            }
+        ],
+        "Voice Overs.MaimVO03": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_SpikeTraps1.mp3"
+            }
+        ],
+        "Voice Overs.MaimVO04": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_SpikeTraps2.mp3"
+            }
+        ],
+        "Voice Overs.DragonItemReactionVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Figurine1.mp3"
+            }
+        ],
+        "Voice Overs.DragonItem01VO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Figurine2.mp3"
+            }
+        ],
+        "Voice Overs.DragonItem02VO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Figurine3.mp3"
+            }
+        ],
+        "Voice Overs.DragonItem03VO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Figurine4.mp3"
+            }
+        ],
+        "Voice Overs.DragonItemFinishedVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_Figurine5.mp3"
+            }
+        ],
+        "Voice Overs.SpearthrowerVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Spearthrower\\BlackrockThrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05OrcHunter1.mp3"
+            }
+        ],
+        "Voice Overs.DwarvenAttackVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_BlastedDwares3.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Zuluhed_LastDwarves1.mp3"
+            }
+        ],
+        "Voice Overs.UtokVO1": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_Instruction1.mp3"
+            }
+        ],
+        "Voice Overs.CopterVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_FlyingMachine1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Utok_FlyingMachine1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_FlyingMachine2.mp3"
+            }
+        ],
+        "Voice Overs.GruntRescuedVO": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\GenericGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05GruntRescue1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\GenericGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05GruntRescue3.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\ClanOrcs\\GenericGrunt.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05GruntRescue2.mp3"
+            }
+        ],
+        "Voice Overs.DukeMaimDialogueQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\ReginaldBaradin\\ReginaldBaradin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Baradin_Bossfight3.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Maim_BossFight1.mp3"
+            }
+        ],
+        "Voice Overs.DukeScreamQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\ReginaldBaradin\\ReginaldBaradin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc05/WC2Orc05Baradin_Bossfight4.mp3"
+            }
+        ]
+    }
+}

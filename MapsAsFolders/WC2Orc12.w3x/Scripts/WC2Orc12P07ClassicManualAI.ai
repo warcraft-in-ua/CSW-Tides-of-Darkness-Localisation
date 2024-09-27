@@ -1,0 +1,166 @@
+//==================================================================================================
+//  WC2Orc13 Player 07 Storm reaver clan by Tamplier
+//==================================================================================================
+globals
+    player user = Player(0)
+
+    constant integer STROMREAVER_GRUNT  = 'o61D'
+    constant integer ORC_PIRATE  = 'o606'
+    constant integer ORC_BOWMAN = 'h625'    
+    constant integer WC2_ORC_CATAPULT = 'o60P'
+    constant integer WC2_OGRE_MAGI = 'n002'
+    constant integer WC2_DEATH_KNIGHT = 'u000'
+    constant integer STROMREAVER_WARLOCK = 'nsrw'
+    constant integer WC2_ORC_TRANSPORT = 'o60Q'
+    constant integer WC2_TROLL_DESTROYER = 'o60R'
+    constant integer WC2_ORC_TURTLE = 'o604'
+    constant integer WC2_GOBLIN_SAPPER = 'n000'
+    constant integer WC2_GOBLIN_ZEPPELIN = 'h000'
+    constant integer WC2_UPG_ORC_SPEARS = 'R60K'
+    constant integer WC2_UPG_ARTILLERY = 'R006'
+    constant integer WC2_UPG_OGREMAGISPELLS = 'R003'
+    constant integer WC2_UPG_DKSPELLS = 'R001'
+    constant integer WC2_UPG_SHIPATTACK = 'R008'
+    constant integer WC2_UPG_SHIPARMOR = 'R601'
+    constant integer WC2_PIGFARM = 'o60X'
+
+endglobals
+
+//--------------------------------------------------------------------------------------------------
+//  main
+//--------------------------------------------------------------------------------------------------
+function main takes nothing returns nothing
+    call CampaignAI(WC2_PIGFARM,null)
+    call SetDefendPlayer( false )
+    call SetRandomPaths( true )
+    call SetTargetHeroes( false )
+    call SetPeonsRepair( true )
+    call SetHeroesFlee( false )
+    call SetHeroesBuyItems( false )
+    call SetUnitsFlee( false )
+    call SetGroupsFlee( false )
+    call SetIgnoreInjured( true )
+    call SetHeroesTakeItems( false )
+    call SetSlowChopping( true )
+    call SetSmartArtillery( false )
+    call GroupTimedLife(true)
+    call SetReplacements(1,1,2)
+    call SetAmphibious()
+
+    call CampaignDefenderEx( 1,2,3, STROMREAVER_GRUNT  )
+    call CampaignDefenderEx( 1,2,3, ORC_BOWMAN         )
+    call CampaignDefenderEx( 1,2,3, ORC_PIRATE         )
+
+    call SetBuildUpgrEx( 0,0,1, UPG_ORC_ARMOR       )
+    call SetBuildUpgrEx( 0,0,1, UPG_ORC_MELEE       )
+    call SetBuildUpgrEx( 0,0,1, WC2_UPG_ORC_SPEARS  )
+    call SetBuildUpgrEx( 0,0,1, UPG_ORC_PILLAGE     )
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 1, 2, 3, WC2_GOBLIN_ZEPPELIN )
+    call CampaignAttackerEx( 1, 1, 2, WC2_TROLL_DESTROYER )
+    call CampaignAttackerEx( 1, 1, 2, WC2_ORC_TURTLE )
+    call SuicideOnPlayerEx(M6,M6,M5,user)
+
+    call SetBuildUpgrEx( 0,1,2, WC2_UPG_SHIPARMOR   )
+    call SetBuildUpgrEx( 0,1,2, WC2_UPG_SHIPATTACK  )
+    call SetBuildUpgrEx( 0,1,1, UPG_ORC_FIRE        )
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 1, 2, 3, WC2_GOBLIN_ZEPPELIN )    
+    call CampaignAttackerEx( 1, 1, 2, WC2_TROLL_DESTROYER )
+    call CampaignAttackerEx( 1, 1, 2, WC2_ORC_TURTLE )
+    call SuicideOnPlayerEx(M5,M4,M3,user)
+
+    call SetBuildUpgrEx( 0,1,2, UPG_ORC_ARMOR       )
+    call SetBuildUpgrEx( 0,1,2, UPG_ORC_MELEE       )
+    call SetBuildUpgrEx( 0,1,2, WC2_UPG_ORC_SPEARS  )
+    call SetBuildUpgrEx( 0,1,2, WC2_UPG_ARTILLERY   )
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup() 
+    call CampaignAttackerEx( 2, 2, 3, ORC_PIRATE        )
+    call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN        )
+    call CampaignAttackerEx( 1, 1, 1, WC2_ORC_CATAPULT  )
+    call SuicideOnPlayerEx(M6,M5,M4,user)
+
+    call SetBuildUpgrEx( 0,1,2, WC2_UPG_DKSPELLS        )
+
+    //*** WAVE 4 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2, 2, 2, STROMREAVER_GRUNT    )
+    call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN           )
+    call CampaignAttackerEx( 1, 1, 1, WC2_ORC_CATAPULT     )
+    call CampaignAttackerEx( 1, 1, 1, STROMREAVER_WARLOCK  )
+    call SuicideOnPlayerEx(M6,M5,M5,user)
+
+    //*** WAVE 5 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 1, 2, 3, WC2_GOBLIN_ZEPPELIN )    
+    call CampaignAttackerEx( 1, 1, 2, WC2_TROLL_DESTROYER )
+    call CampaignAttackerEx( 1, 1, 2, WC2_ORC_TURTLE )
+    call SuicideOnPlayerEx(M7,M7,M6,user)
+
+    //*** WAVE 6 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2, 2, 2, ORC_PIRATE        )
+    call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN        )
+    call CampaignAttackerEx( 1, 1, 1, WC2_ORC_CATAPULT  )
+    call CampaignAttackerEx( 1, 1, 2, WC2_DEATH_KNIGHT  )
+    call CampaignAttackerEx( 1, 1, 1, WC2_GOBLIN_SAPPER  )
+    call SuicideOnPlayerEx(M7,M7,M6,user)
+
+    //*** WAVE 7 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2, 2, 2, STROMREAVER_GRUNT    )
+    call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN           )
+    call CampaignAttackerEx( 1, 1, 2, WC2_ORC_CATAPULT     )
+    call CampaignAttackerEx( 1, 1, 2, STROMREAVER_WARLOCK  )
+    call CampaignAttackerEx( 1, 1, 1, WC2_GOBLIN_SAPPER    )
+    call SuicideOnPlayerEx(M8,M8,M7,user)
+
+    //*** WAVE 8 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 1, 2, 3, WC2_GOBLIN_ZEPPELIN )    
+    call CampaignAttackerEx( 1, 1, 2, WC2_TROLL_DESTROYER )
+    call CampaignAttackerEx( 1, 1, 2, WC2_ORC_TURTLE )
+    call SuicideOnPlayerEx(M8,M8,M7,user)
+
+    //*** WAVE 9 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2, 2, 2, ORC_PIRATE        )
+    call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN        )
+    call CampaignAttackerEx( 1, 1, 2, WC2_ORC_CATAPULT  )
+    call CampaignAttackerEx( 1, 1, 2, WC2_DEATH_KNIGHT  )
+    call CampaignAttackerEx( 1, 1, 1, WC2_GOBLIN_SAPPER )
+    call SuicideOnPlayerEx(M8,M8,M13,user)
+
+    loop
+        //*** WAVE 10 ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 1, 2, 3, WC2_GOBLIN_ZEPPELIN )    
+        call CampaignAttackerEx( 1, 1, 2, WC2_TROLL_DESTROYER )
+        call CampaignAttackerEx( 1, 1, 2, WC2_ORC_TURTLE )
+        call SuicideOnPlayerEx(M8,M8,M7,user)
+
+        //*** WAVE 11 ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2, 2, 2, STROMREAVER_GRUNT )
+        call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN        )
+        call CampaignAttackerEx( 1, 1, 2, WC2_ORC_CATAPULT  )
+        call CampaignAttackerEx( 1, 1, 2, WC2_DEATH_KNIGHT  )
+        call CampaignAttackerEx( 1, 1, 2, WC2_GOBLIN_SAPPER )
+        call SuicideOnPlayerEx(M8,M8,M6,user)
+
+        //*** WAVE 12 ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2, 2, 2, ORC_PIRATE           )
+        call CampaignAttackerEx( 1, 2, 2, ORC_BOWMAN           )
+        call CampaignAttackerEx( 1, 1, 2, WC2_ORC_CATAPULT     )
+        call CampaignAttackerEx( 1, 1, 2, STROMREAVER_WARLOCK  )
+        call CampaignAttackerEx( 1, 1, 2, WC2_GOBLIN_SAPPER    )
+        call SuicideOnPlayerEx(M8,M8,M13,user)
+    endloop
+endfunction

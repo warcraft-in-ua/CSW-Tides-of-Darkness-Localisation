@@ -1,0 +1,15 @@
+[CustomSkin]
+IdlePeon=ReplaceableTextures\CommandButtons\BTNBRPeon.blp
+ScoreScreenPlayerNightElf=UI\Glues\ScoreScreen\scorescreen-player-troll.blp
+
+[Errors]
+Alreadyblightedmine=TRIGSTR_507
+Blightminefirst=TRIGSTR_508
+Nofood=TRIGSTR_505
+Notblightedmine=TRIGSTR_506
+Offblight=TRIGSTR_510
+Targgetmine=TRIGSTR_509
+
+[FrameDef]
+REVIVE_AT_ALTAR=TRIGSTR_511
+

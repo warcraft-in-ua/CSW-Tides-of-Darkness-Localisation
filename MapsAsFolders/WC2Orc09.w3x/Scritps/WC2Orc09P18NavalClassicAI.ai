@@ -1,0 +1,87 @@
+//============================================================================
+//  WC2Orc09 Razing of the Tyrs Hand -- Alliance Peach Human -- AI Script
+//  by Eugene_Ivaniushchenko (Tamplier)
+//============================================================================
+
+// GLOBALS 
+//------------------------------------------------
+globals
+
+   player user = Player(0)
+
+	constant integer E_DESTROYER = 'e60C'
+   constant integer H_BATTLESHIP = 'h60R'
+   constant integer G_SUBMARINE = 'o003'
+	constant integer WC2HUMANSHIPYARD = 'h60X'
+	  
+endglobals
+
+//============================================================================
+//  main
+//============================================================================
+function main takes nothing returns nothing
+    call CampaignAI(HOUSE,null)
+    call SetReplacements(0,0,0)
+    call SetAmphibious()
+
+    call SetBuildUnitEx(1, 1, 1, H_BATTLESHIP)
+    call CampaignDefenderEx(1, 2, 3, E_DESTROYER)
+
+    call WaitForSignal()
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(1, 1, 1, E_DESTROYER)
+    call CampaignAttackerEx(1, 1, 1, H_BATTLESHIP)
+    call SuicideOnPlayerEx(M4,M3,M2,user)
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(2, 2, 3, E_DESTROYER)
+    call CampaignAttackerEx(1, 1, 1, H_BATTLESHIP)
+    call SuicideOnPlayerEx(M4,M3,M2,user)
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(1, 2, 3, E_DESTROYER)
+    call CampaignAttackerEx(1, 1, 1, H_BATTLESHIP)
+    call CampaignAttackerEx(1, 1, 2, G_SUBMARINE)
+    call SuicideOnPlayerEx(M4,M3,M2,user)
+
+    //*** WAVE 4 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx(2, 3, 4, E_DESTROYER)
+    call CampaignAttackerEx(1, 1, 1, H_BATTLESHIP)
+    call CampaignAttackerEx(1, 1, 1, G_SUBMARINE)
+    call SuicideOnPlayerEx(M4,M3,M2,user)
+
+     loop
+        //*** WAVE 5+ ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx(2, 3, 4, E_DESTROYER)
+        call CampaignAttackerEx(1, 1, 1, H_BATTLESHIP)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx(3, 3, 4, E_DESTROYER)
+        call CampaignAttackerEx(1, 2, 2, H_BATTLESHIP)
+        call CampaignAttackerEx(1, 1, 1, G_SUBMARINE)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx(2, 3, 4, E_DESTROYER)
+        call CampaignAttackerEx(1, 2, 2, H_BATTLESHIP)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx(2, 3, 4, E_DESTROYER)
+        call CampaignAttackerEx(1, 2, 2, H_BATTLESHIP)
+        call CampaignAttackerEx(1, 1, 2, G_SUBMARINE)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx(3, 4, 5, E_DESTROYER)
+        call CampaignAttackerEx(1, 2, 2, H_BATTLESHIP)
+        call SuicideOnPlayerEx(M4,M3,M2,user)
+    endloop
+endfunction

@@ -1,0 +1,10801 @@
+﻿STRING 1
+{
+Chapter 02
+}
+
+STRING 2
+{
+One
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 36
+// Units: h60X (Human Shipyard), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 58
+// Units: o60M (Foundry), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 72
+// Units: n002 (Ogre Magi), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 276
+{
+|cffffcc00MAIN QUEST|r
+Strength in numbers
+ - Build a barracks
+ - Train 10 grunts
+}
+
+STRING 277
+{
+Strenght in numbers
+}
+
+STRING 278
+{
+This region is home to a strong human garrison. In order to successfully rescue Zul’jin, you will need a powerful force of your own.
+}
+
+STRING 279
+{
+Build a barracks
+}
+
+STRING 300
+{
+Train 10 grunts
+}
+
+STRING 304
+{
+Zul'jin
+}
+
+STRING 305
+{
+Zul’jin, chieftain of the forest trolls, has been captured by the humans and their elven allies. Free him, and escort him to the safety of the nearby troll village.
+}
+
+STRING 319
+{
+Mission objectives:
+}
+
+STRING 348
+{
+|cff32CD32HINT|r 
+While your peons are busy building your basecamp, you can send your heroes to scout the surrounding area. Be careful though, as you never want to leave your camp completely undefended.
+}
+
+STRING 349
+{
+Rend Blackhand
+}
+
+STRING 350
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend3.flac
+{
+Hmm...Forest Trolls, how convenient. Let us approach with caution.
+}
+
+STRING 394
+{
+Rend Blackhand
+}
+
+STRING 395
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend4.flac
+{
+Greetings, Amani, we have been dispatched by our Warchief to rescue your legendary leader. Were you part of Zul'jin's war-party?
+}
+
+STRING 396
+{
+Forest Troll
+}
+
+STRING 397
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll1.flac
+{
+Amani... we've not been called by dat name for generations, not since the days of our great empire of old. You be well versed in our history, stranger.
+}
+
+STRING 398
+{
+Forest Troll
+}
+
+STRING 399
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll2.flac
+{
+We were indeed led by the great Zul'jin, until we be ambushed by da Humans. Three of us were killed, and da rest were captured. I managed to evade capture so I could warn my brethren of Zul'jin's abduction.
+}
+
+STRING 400
+{
+Forest Troll
+}
+
+STRING 401
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll2a.flac
+{
+Their camp be on da other side of da forest, but da path be blocked by dat accursed human settlement.
+}
+
+STRING 404
+{
+Rend Blackhand
+}
+
+STRING 405
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend5.flac
+{
+Zul'jin is of great interest to our Warchief. That is why we are here to slaughter his captors and deliver him to safety. We will aid you in your plight, Amani.
+}
+
+STRING 408
+{
+Forest Troll
+}
+
+STRING 409
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll4.flac
+{
+Our axes are yours to command, Orc Master.
+}
+
+STRING 412
+{
+|cffffcc00TECHTREE UNLOCKED|r
+Troll Axe thrower. Skillful ranged warrior, that can be trained in barracks. Able to attack ground and air targets.
+}
+
+STRING 417
+{
+|cffffcc00MAIN QUEST UPDATED|r
+|cff808080- Free Zul'jin (completed)|r
+- Escort him to the troll village
+- Zul'jin must survive.
+}
+
+STRING 427
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Zul'jin
+|cff808080- Free Zul'jin (completed)|r
+|cff808080- Escort him to the troll village (completed)|r 
+|cff808080- Zul'jin must survive  (completed)|r 
+}
+
+STRING 428
+{
+Zul'jin
+}
+
+STRING 429
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin4.flac
+{
+Now dat we are safe, we can continue our conversation. On behalf of the Forest Trolls, I thank you for your help.
+}
+
+STRING 430
+{
+WC2Orc02
+}
+
+STRING 431
+{
+Zul'jin
+}
+
+STRING 432
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin5.flac
+{
+Da Elves of Quel’thalas are our eternal enemies. In ancient times dey ravaged our empire with the help of da humans, and now history be repeating itself! Those mongrels were going to take me to Quel’thalas and put me in a cage for all the world to see!
+}
+
+STRING 433
+// Units: O60B (Troll Chieftain), Propernames (Proper Names)
+{
+Zul'jin
+}
+
+STRING 435
+{
+Rend Blackhand
+}
+
+STRING 436
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend14.flac
+{
+You are a mighty warrior, Zul’jin! We will protect your people and bring ruin to all your enemies. In return you will provide us with your finest scouts and warriors.
+}
+
+STRING 450
+{
+Free Zul'jin
+}
+
+STRING 451
+{
+Escort him to the troll village
+}
+
+STRING 452
+{
+|cffffcc00MAIN QUEST|r
+Zul'jin
+- Free Zul'jin.
+- Escort him to the troll village.
+- Zul'jin must survive.
+}
+
+STRING 454
+{
+|cffffcc00TECHTREE UNLOCKED|r
+Troll lumber mill. Serves as a warehouse for harvested lumber. It also contains upgrades for your troll units and the lumber gathering of your peons.
+
+}
+
+STRING 455
+{
+Milan the Scribe
+}
+
+STRING 456
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ElfArcher1.flac
+{
+I will inform our superiors about the capture of the Troll leader. Keep a close watch on the prisoners, commander, as there is no telling what vile schemes they are already hatching.
+}
+
+STRING 457
+{
+Luric
+}
+
+STRING 458
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Luric1.flac
+{
+Don’t worry, my men know a thing or two about handling outlaws.
+}
+
+STRING 459
+{
+Milan the Scribe
+}
+
+STRING 460
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ElfArcher2.flac
+{
+Do not underestimate the Forest Trolls, for they are unlike anything your men have ever faced. I will leave you a dozen of my archers.
+}
+
+STRING 461
+{
+Rend Blackhand
+}
+
+STRING 462
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend1.flac
+{
+Our scouts have confirmed that a band of human soldiers have captured a war party led by troll commander Zul’jin, and have taken them to a secret prison near the outskirts of Durnholde Keep.
+}
+
+STRING 463
+{
+Utok Scratcher
+}
+
+STRING 464
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Utok1.flac
+{
+This raid upon the unsuspecting prison will strike terror into the hearts of those who would dare resist the Horde!
+}
+
+STRING 465
+{
+Rend Blackhand
+}
+
+STRING 466
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend2.flac
+{
+Seeing an opportunity to place these captives in debt to the Horde, Doomhammer has commanded that we focus our efforts on liberating Zul’jin and his trolls. Once freed from the clutches of their human captors, we are to return them to the safety of their own encampment nearby.
+}
+
+STRING 467
+{
+Elven Archer
+}
+
+STRING 468
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ElfArcher3.flac
+{
+The orcs are freeing the trolls! Stop them!
+}
+
+STRING 469
+{
+Footman
+}
+
+STRING 470
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Footman1.flac
+{
+Orcs.. here? Close the gates!
+}
+
+STRING 472
+{
+|cff32CD32HINT|r 
+Fallen hero can be revived in the Great Hall.
+}
+
+STRING 473
+{
+Blackrock clan
+}
+
+STRING 474
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 484
+{
+Zul'jin
+}
+
+STRING 485
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin1.flac
+{
+Thank you strangers, I owe you my life.
+}
+
+STRING 494
+{
+Forest Trolls
+}
+
+STRING 495
+{
+Horde
+}
+
+STRING 496
+{
+Alliance
+}
+
+STRING 498
+{
+Nation of Lordaeron
+}
+
+STRING 505
+{
+Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+}
+
+STRING 506
+{
+Unable to use Oil Rig.
+}
+
+STRING 507
+{
+That Oil Patch has already being used.
+}
+
+STRING 508
+{
+Must build Oil Rig first.
+}
+
+STRING 509
+{
+Must target an Oil Rig.
+}
+
+STRING 510
+{
+Must build upon Oil Patch.
+}
+
+STRING 511
+{
+You can Revive your hero at the Great Hall.
+}
+
+STRING 512
+// Units: nmh1 (Troll Hut), Name (Name)
+{
+Troll Hut
+}
+
+STRING 513
+// Units: nfr1 (Troll Hut), Name (Name)
+{
+Troll Hut
+}
+
+STRING 526
+{
+Grunts trained
+}
+
+STRING 527
+// Units: o60O (Troll Axethrower), Name (Name)
+{
+Troll Axethrower
+}
+
+STRING 539
+// Units: o605 (Utok Scratcher), Name (Name)
+{
+Utok Scratcher
+}
+
+STRING 541
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration, Berserker Sight, Lighter Axes. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 542
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 543
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+Elven Ranger
+}
+
+STRING 544
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 545
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Высшее посвящение магов (|cffffcc00O|r)
+}
+
+STRING 546
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 547
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 548
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 549
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Замедление''.
+}
+
+STRING 550
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+}
+
+STRING 551
+// Units: ndfl (Железные метательные топоры), Description (Description)
+{
+Грозный корабль людей, эффективный как в морских сражениях, так и при штурме береговых построек. |n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 552
+// Units: ndfl (Железные метательные топоры), Name (Name)
+{
+Железные метательные топоры
+}
+
+STRING 553
+// Units: ndfl (Железные метательные топоры), EditorSuffix (Name - Editor Suffix)
+{
+Осколочные ядра катапульт (|cffffcc00G|r)
+}
+
+STRING 554
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Elven Mage
+}
+
+STRING 555
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrate
+}
+
+STRING 556
+// Units: nmh1 (Troll Hut), Tip (Tooltip - Basic)
+{
+Build Troll Hut
+}
+
+STRING 557
+// Units: nfr1 (Troll Hut), Tip (Tooltip - Basic)
+{
+Build Troll Hut
+}
+
+STRING 558
+// Units: nmg0 (Murloc Hut), Name (Name)
+{
+Murloc Hut
+}
+
+STRING 560
+// Units: h000 (Zeppelin), Hotkey (Hotkey)
+{
+Z
+}
+
+STRING 561
+// Units: h000 (Zeppelin), Tip (Tooltip - Basic)
+{
+Build Zeppelin
+}
+
+STRING 562
+// Units: h000 (Zeppelin), Name (Name)
+{
+Zeppelin
+}
+
+STRING 563
+// Units: h000 (Zeppelin), Ubertip (Tooltip - Extended)
+{
+Transport aircraft suitable for scouting and aerial combat. Can be upgraded to attack land units with bombs. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r
+}
+
+STRING 564
+// Units: u000 (Death Knight), Name (Name)
+{
+Death Knight
+}
+
+STRING 565
+// Units: u000 (Death Knight), Hotkey (Hotkey)
+{
+K
+}
+
+STRING 566
+// Units: u000 (Death Knight), Casterupgradetip (Caster Upgrade Tips)
+{
+- Оживление мертвых|n- Лик Смерти,- Оживление мертвых|n- Лик Смерти|n- Доспехи зла,- Оживление мертвых|n- Лик Смерти|n- Доспехи зла|n- Ускорение
+}
+
+STRING 567
+// Units: u000 (Death Knight), Tip (Tooltip - Basic)
+{
+Train Death Knight
+}
+
+STRING 568
+// Units: o000 (Goblin Alchemist), Name (Name)
+{
+Goblin Alchemist
+}
+
+STRING 569
+// Units: o000 (Goblin Alchemist), Tip (Tooltip - Basic)
+{
+Goblin Alchemist
+}
+
+STRING 570
+// Units: o000 (Goblin Alchemist), Hotkey (Hotkey)
+{
+L
+}
+
+STRING 571
+// Units: u001 (Temple of the Damned), Name (Name)
+{
+Temple of the Damned
+}
+
+STRING 572
+// Units: u001 (Temple of the Damned), Tip (Tooltip - Basic)
+{
+Temple of the Damned
+}
+
+STRING 573
+// Units: u001 (Temple of the Damned), Ubertip (Tooltip - Extended)
+{
+Spellcaster production building. Trains Deathknights. |nAlso contains upgrades for them, Skeletal Longevity, and Skeletal Mastery.
+}
+
+STRING 574
+// Units: h001 (Oil Tanker), Name (Name)
+{
+Oil Tanker
+}
+
+STRING 575
+// Units: h001 (Oil Tanker), Ubertip (Tooltip - Extended)
+{
+Vessel for oil transportation
+}
+
+STRING 576
+// Units: h001 (Oil Tanker), Tip (Tooltip - Basic)
+{
+Build Oil Tanker
+}
+
+STRING 577
+// Units: u002 (Oil Platform), Name (Name)
+{
+Oil Platform
+}
+
+STRING 578
+// Units: u002 (Oil Platform), Tip (Tooltip - Basic)
+{
+Oil Platform
+}
+
+STRING 579
+// Units: u002 (Oil Platform), Ubertip (Tooltip - Extended)
+{
+The oil rig is used for oil production from the Oil Patches.
+}
+
+STRING 580
+// Units: o003 (Submarine), Name (Name)
+{
+Submarine
+}
+
+STRING 581
+// Units: o003 (Submarine), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 582
+// Units: o003 (Submarine), Tip (Tooltip - Basic)
+{
+Build Submarine
+}
+
+STRING 583
+// Units: o003 (Submarine), Ubertip (Tooltip - Extended)
+{
+This watertight vessel can submerge beneath the waves and surreptitiously keep watch on enemy forces above the surface. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 584
+// Units: n001 (Ogre), Name (Name)
+{
+Ogre
+}
+
+STRING 585
+// Units: n001 (Ogre), Tip (Tooltip - Basic)
+{
+Ogre (|cffffcc00O|r)
+}
+
+STRING 586
+// Units: n001 (Ogre), Hotkey (Hotkey)
+{
+O
+}
+
+STRING 587
+// Units: n002 (Ogre Magi), Casterupgradename (Caster Upgrade Names)
+{
+Apprentice, Adept, Master
+}
+
+STRING 588
+// Units: n002 (Ogre Magi), Casterupgradetip (Caster Upgrade Tips)
+{
+- Bloodlust,- Bloodlust|n- Eye of Kilrogg,- Bloodlust|n- Eye of Kilrogg|n- Runes
+}
+
+STRING 589
+// Units: n002 (Ogre Magi), Ubertip (Tooltip - Extended)
+{
+Spellcasting warrior of the Ogre Legion. Can cast Bloodlust. Can learn "Eye of Kilrogg" and "Runes". |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 590
+// Units: n003 (Eye of Kilrogg), Name (Name)
+{
+Eye of Kilrogg
+}
+
+STRING 591
+// Units: n005 (Mage), Name (Name)
+{
+Mage
+}
+
+STRING 592
+// Units: n005 (Mage), Tip (Tooltip - Basic)
+{
+Train Mage
+}
+
+STRING 593
+// Units: n005 (Mage), Casterupgradename (Caster Upgrade Names)
+{
+Ученик, Адепт, Наставник
+}
+
+STRING 594
+// Units: n005 (Mage), Casterupgradetip (Caster Upgrade Tips)
+{
+- Огненная стрела,- Огненная стрела|n- Замедление,- Огненная стрела|n- Замедление|n- Невидимость,- Огненная стрела|n- Замедление|n- Невидимость|n- Полиморф
+}
+
+STRING 595
+// Units: n005 (Mage), Ubertip (Tooltip - Extended)
+{
+Spellcaster. Can cast Heal, Dispel Magic and Inner Fire. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 596
+// Units: e000 (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 597
+// Units: e000 (Ballista), Tip (Tooltip - Basic)
+{
+Build Ballistae
+}
+
+STRING 598
+// Units: h002 (Paladin), Name (Name)
+{
+Paladin
+}
+
+STRING 599
+// Units: h002 (Paladin), Casterupgradename (Caster Upgrade Names)
+{
+Ученик, Адепт, Наставник
+}
+
+STRING 600
+// Units: h002 (Paladin), Casterupgradetip (Caster Upgrade Tips)
+{
+- Лечение,- Лечение|n- Святое зрение,- Лечение|n- Святое зрение|n- Экзорцизм
+}
+
+STRING 601
+// Units: h002 (Paladin), Tip (Tooltip - Basic)
+{
+Train Paladin
+}
+
+STRING 602
+// Units: h002 (Paladin), Ubertip (Tooltip - Extended)
+{
+Powerful mounted warrior. Can heal units. Can learn 'Far Sight' and 'Exorcism'. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 604
+// Abilities: S000 (Ogre Magi), Name (Name)
+{
+Ogre Magi
+}
+
+STRING 609
+// Abilities: A62H (Warchief), Name (Name)
+{
+Warchief
+}
+
+STRING 614
+// Abilities: A63X (Regeneration), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 616
+// Units: n600 (Snake), Name (Name)
+{
+Snake
+}
+
+STRING 617
+// Units: n600 (Snake), Tip (Tooltip - Basic)
+{
+Snake
+}
+
+STRING 618
+// Units: u600 (Oil Rig), Name (Name)
+{
+Oil Rig
+}
+
+STRING 619
+// Units: u600 (Oil Rig), Tip (Tooltip - Basic)
+{
+Oil Rig (|cffffcc00H|r)
+}
+
+STRING 620
+// Units: u600 (Oil Rig), Ubertip (Tooltip - Extended)
+{
+The Oil Platform needs to be built on oil patches in order for oil to be harvested and refined. Alliance tankers are used to build these Oil Platforms as well as ferry the oil back to a Shipyard or Oil Refinery where it can be processed and put to use.
+}
+
+STRING 621
+// Units: o603 (Guard Tower), Name (Name)
+{
+Guard Tower
+}
+
+STRING 622
+// Units: o603 (Guard Tower), Tip (Tooltip - Basic)
+{
+Upgrade to Guard Tower
+}
+
+STRING 623
+// Units: o603 (Guard Tower), Ubertip (Tooltip - Extended)
+{
+Defensive structure. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 624
+// Units: n601 (War Turtle), Name (Name)
+{
+War Turtle
+}
+
+STRING 625
+// Units: n601 (War Turtle), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 626
+// Units: n601 (War Turtle), EditorSuffix (Name - Editor Suffix)
+{
+(Submerged)
+}
+
+STRING 627
+// Units: h600 (Oil Tanker), Name (Name)
+{
+Oil Tanker
+}
+
+STRING 628
+// Units: h600 (Oil Tanker), Tip (Tooltip - Basic)
+{
+Build Oil Tanker
+}
+
+STRING 629
+// Units: h600 (Oil Tanker), Ubertip (Tooltip - Extended)
+{
+Vessel for oil transportation
+}
+
+STRING 630
+// Units: h600 (Oil Tanker), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 631
+// Units: H601 (Archmage), Propernames (Proper Names)
+{
+Khadgar
+}
+
+STRING 632
+// Units: n602 (Orc Spearthrower), Name (Name)
+{
+Orc Spearthrower
+}
+
+STRING 633
+// Units: n602 (Orc Spearthrower), Tip (Tooltip - Basic)
+{
+Orc Spearthrower
+}
+
+STRING 634
+// Units: n602 (Orc Spearthrower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 635
+// Units: h602 (Dwarf Worker), Name (Name)
+{
+Dwarf Worker
+}
+
+STRING 636
+// Units: h602 (Dwarf Worker), Tip (Tooltip - Basic)
+{
+Рабочий гном (|cffffcc00P|r)
+}
+
+STRING 637
+// Units: h602 (Dwarf Worker), Ubertip (Tooltip - Extended)
+{
+Мастер на все руки. Может добывать золото и рубить лес, а также строить новые здания и ремонтировать поврежденные. |n|n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 638
+// Units: h603 (Dwarf Shieldbraker), Name (Name)
+{
+Dwarf Shieldbraker
+}
+
+STRING 639
+// Units: h603 (Dwarf Shieldbraker), Tip (Tooltip - Basic)
+{
+Гном щитолом (|cffffcc00F|r)
+}
+
+STRING 640
+// Units: h603 (Dwarf Shieldbraker), Ubertip (Tooltip - Extended)
+{
+Рядовой солдат армии гномов. Способен научиться укрываться за щитом.|n|n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 641
+// Units: h604 (Priest), Name (Name)
+{
+Priest
+}
+
+STRING 642
+// Units: h604 (Priest), Tip (Tooltip - Basic)
+{
+Priest (|cffffcc00P|r)
+}
+
+STRING 643
+// Units: h604 (Priest), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarf)
+}
+
+STRING 644
+// Units: o604 (War Turtle), Tip (Tooltip - Basic)
+{
+Train Giant Turtle.
+}
+
+STRING 645
+// Units: o604 (War Turtle), Ubertip (Tooltip - Extended)
+{
+These Giant sea Turtles are native to the southern seas and were captured by the Stormreaver clan. The daring Goblins who control them are dedicated to destroying enemy ships by launching hazardous, steam-driven canisters containing highly volatile liquids that can shred even the strongest of armor.
+}
+
+STRING 646
+// Units: o604 (War Turtle), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 647
+// Units: o604 (War Turtle), Name (Name)
+{
+War Turtle
+}
+
+STRING 648
+// Units: n603 (War Golem), Ubertip (Tooltip - Extended)
+{
+Гном в роботизированных доспехах - грозный воин ближнего боя. Невосприимчив к магии.|n|n|cffffcc00Может атаковать наземные цели.|r
+}
+
+STRING 649
+// Units: n604 (Dwarf Axethrower), Name (Name)
+{
+Dwarf Axethrower
+}
+
+STRING 650
+// Units: n604 (Dwarf Axethrower), Tip (Tooltip - Basic)
+{
+Dwarf Axethrower (|cffffcc00Т|r)
+}
+
+STRING 651
+// Units: n604 (Dwarf Axethrower), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 652
+// Units: n604 (Dwarf Axethrower), Ubertip (Tooltip - Extended)
+{
+Ловкий метатель топоров. |n|n|cffffcc00Способен атаковать наземные и воздушные цели.|r
+}
+
+STRING 653
+// Units: n605 (Submarine), Name (Name)
+{
+Submarine
+}
+
+STRING 654
+// Units: n605 (Submarine), Tip (Tooltip - Basic)
+{
+Train Submarine
+}
+
+STRING 655
+// Units: n605 (Submarine), EditorSuffix (Name - Editor Suffix)
+{
+(submerged)
+}
+
+STRING 656
+// Units: n605 (Submarine), Ubertip (Tooltip - Extended)
+{
+This watertight vessel can submerge beneath the waves and surreptitiously keep watch on enemy forces above the surface. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 657
+// Units: o607 (Slave), Name (Name)
+{
+Slave
+}
+
+STRING 658
+// Units: h606 (Cannon), Name (Name)
+{
+Cannon
+}
+
+STRING 659
+// Units: h606 (Cannon), Tip (Tooltip - Basic)
+{
+Cannon(|cffffcc00M|r)
+}
+
+STRING 660
+// Units: h607 (Dwarven Cannon), Name (Name)
+{
+Dwarven Cannon
+}
+
+STRING 661
+// Units: h607 (Dwarven Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 662
+// Units: h607 (Dwarven Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 663
+// Units: o608 (Eitrigg), Name (Name)
+{
+Eitrigg
+}
+
+STRING 664
+// Units: n606 (Orc Tent), Name (Name)
+{
+Orc Tent
+}
+
+STRING 665
+// Units: e600 (Trebuchet), Name (Name)
+{
+Trebuchet
+}
+
+STRING 666
+// Units: e600 (Trebuchet), Tip (Tooltip - Basic)
+{
+Требюше (|cffffcc00T|r)
+}
+
+STRING 667
+// Units: n608 (Monk), Name (Name)
+{
+Monk
+}
+
+STRING 668
+// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+{
+Kind priest.
+}
+
+STRING 669
+// Units: n608 (Monk), Tip (Tooltip - Basic)
+{
+Holy cleric.
+}
+
+STRING 676
+// Abilities: A63X (Regeneration), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 678
+// Units: n609 (Orc Crossbowman), Name (Name)
+{
+Orc Crossbowman
+}
+
+STRING 679
+// Units: n609 (Orc Crossbowman), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 680
+// Units: n609 (Orc Crossbowman), Tip (Tooltip - Basic)
+{
+Train Orc Crossbowman
+}
+
+STRING 681
+// Units: h608 (Cannon Tower), Name (Name)
+{
+Cannon Tower
+}
+
+STRING 682
+// Units: h608 (Cannon Tower), Tip (Tooltip - Basic)
+{
+Upgrade to Cannon Tower
+}
+
+STRING 683
+// Units: h608 (Cannon Tower), Ubertip (Tooltip - Extended)
+{
+A powerful defensive structure, especially effective against clusters of enemies.  |n|n|cffffcc00Attacks ground targets and trees.
+}
+
+STRING 684
+// Units: n60B (Demolition Squad), Name (Name)
+{
+Demolition Squad
+}
+
+STRING 685
+// Units: n60B (Demolition Squad), Tip (Tooltip - Basic)
+{
+Train Demolition Squad
+}
+
+STRING 686
+// Units: n60B (Demolition Squad), Ubertip (Tooltip - Extended)
+{
+As masters in the handling and arming of explosives, these Squads are renowned for their ability to demolish any obstacle - from a mighty wall to a bulwark of solid stone.|n|n|cffffcc00Can destroy land objects (including trees).|r
+}
+
+STRING 687
+// Units: n60C (Goblin Laboratory), Tip (Tooltip - Basic)
+{
+Scout Post
+}
+
+STRING 689
+// Units: n60C (Goblin Laboratory), Description (Description)
+{
+Orcish Scout Post
+}
+
+STRING 694
+// Units: O60B (Troll Chieftain), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 699
+// Units: o60C (Runes), Name (Name)
+{
+Runes
+}
+
+STRING 700
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(High elf)
+}
+
+STRING 701
+// Units: e601 (Ballista), Name (Name)
+{
+Ballista
+}
+
+STRING 707
+// Abilities: A641 (Self heal), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 710
+// Units: H60C (Ranger), Name (Name)
+{
+Ranger
+}
+
+STRING 711
+// Units: H60C (Ranger), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 712
+// Units: H60C (Ranger), Propernames (Proper Names)
+{
+Halduron Brightwing
+}
+
+STRING 713
+// Units: n60E (Gnome Engineer), Name (Name)
+{
+Gnome Engineer
+}
+
+STRING 714
+// Units: n60E (Gnome Engineer), Tip (Tooltip - Basic)
+{
+Gnome Engineer (|cffffcc00E|r)
+}
+
+STRING 715
+// Units: n60E (Gnome Engineer), Ubertip (Tooltip - Extended)
+{
+Инженеры Грим Батола преуспели в разработке новых технологий и строительстве мощных оборонительных сооружений. |n|n|cffffcc00Инженер может атаковать наземные цели.|r
+}
+
+STRING 716
+// Units: h605 (Guard), Name (Name)
+{
+Guard
+}
+
+STRING 717
+// Units: h60D (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 718
+// Units: h60H (Arcane Sanctum), EditorSuffix (Name - Editor Suffix)
+{
+(High Elf)
+}
+
+STRING 719
+// Units: n60G (Snake), Name (Name)
+{
+Snake
+}
+
+STRING 720
+// Units: n60J (Altar of Light), Tip (Tooltip - Basic)
+{
+Altar that emanates power of light
+}
+
+STRING 721
+// Units: n60J (Altar of Light), Description (Description)
+{
+This Altar increases power of those who own it
+}
+
+STRING 722
+// Units: n60J (Altar of Light), Name (Name)
+{
+Altar of Light
+}
+
+STRING 723
+// Units: z600 (Battleship), Name (Name)
+{
+Battleship
+}
+
+STRING 724
+// Units: z600 (Battleship), EditorSuffix (Name - Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 725
+// Units: o60I (Orc Ram), Name (Name)
+{
+Orc Ram
+}
+
+STRING 726
+// Units: o60I (Orc Ram), Tip (Tooltip - Basic)
+{
+Orc Ram
+}
+
+STRING 727
+// Units: h60G (Dwarven Altar), Name (Name)
+{
+Dwarven Altar
+}
+
+STRING 728
+// Units: h60G (Dwarven Altar), Tip (Tooltip - Basic)
+{
+Build Dwarven Altar
+}
+
+STRING 729
+// Units: o60J (Banner Keeper), Name (Name)
+{
+Banner Keeper
+}
+
+STRING 730
+// Units: o60J (Banner Keeper), Tip (Tooltip - Basic)
+{
+Train Banner Keeper
+}
+
+STRING 733
+// Units: o60P (Catapult), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 737
+// Units: h60E (Dwarven Barracks), Name (Name)
+{
+Dwarven Barracks
+}
+
+STRING 742
+// Units: h60I (Stables), Name (Name)
+{
+Stables
+}
+
+STRING 743
+// Units: h60I (Stables), Ubertip (Tooltip - Extended)
+{
+Secondary troop production building. Trains Knights and Paladins. |nAlso contains the Animal War Training upgrade.
+}
+
+STRING 744
+// Units: o60L (Blacksmith), Name (Name)
+{
+Blacksmith
+}
+
+STRING 745
+// Units: o60L (Blacksmith), Ubertip (Tooltip - Extended)
+{
+Gives access to upgrades for armor and weapons.
+}
+
+STRING 746
+// Units: o60L (Blacksmith), Tip (Tooltip - Basic)
+{
+Build Blacksmith
+}
+
+STRING 747
+// Units: o60M (Foundry), Name (Name)
+{
+Foundry
+}
+
+STRING 748
+// Units: o60M (Foundry), Tip (Tooltip - Basic)
+{
+Foundry
+}
+
+STRING 749
+// Units: o60M (Foundry), Ubertip (Tooltip - Extended)
+{
+Foundry is instrumental in creating the massive armor plates and lethal cannons.
+}
+
+STRING 750
+// Units: o60N (Oil Refinery), Name (Name)
+{
+Oil Refinery
+}
+
+STRING 751
+// Units: o60N (Oil Refinery), Ubertip (Tooltip - Extended)
+{
+The Oil Refinery uses the large, arching pipelines on either side of the main structure to pump oil from the Tankers into its processing holds.
+}
+
+STRING 752
+// Units: o60N (Oil Refinery), Tip (Tooltip - Basic)
+{
+Oil Refinery
+}
+
+STRING 753
+// Units: o60N (Oil Refinery), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 754
+// Units: e602 (Oil Reciever), Name (Name)
+{
+Oil Reciever
+}
+
+STRING 755
+// Units: e602 (Oil Reciever), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 756
+// Units: e603 (Oil 100), Name (Name)
+{
+Oil 100
+}
+
+STRING 757
+// Units: e603 (Oil 100), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 758
+// Units: e604 (Oil 200), Name (Name)
+{
+Oil 200
+}
+
+STRING 759
+// Units: e604 (Oil 200), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 760
+// Units: e605 (Oil 400), Name (Name)
+{
+Oil 400
+}
+
+STRING 761
+// Units: e605 (Oil 400), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 762
+// Units: e606 (Oil 500), Name (Name)
+{
+Oil 500
+}
+
+STRING 763
+// Units: e606 (Oil 500), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 764
+// Units: e607 (Oil 700), Name (Name)
+{
+Oil 700
+}
+
+STRING 765
+// Units: e607 (Oil 700), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 766
+// Units: e608 (Oil 800), Name (Name)
+{
+Oil 800
+}
+
+STRING 767
+// Units: e608 (Oil 800), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 768
+// Units: e609 (Oil 1000), Name (Name)
+{
+Oil 1000
+}
+
+STRING 769
+// Units: e609 (Oil 1000), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 770
+// Units: e60A (Oil 2000), Name (Name)
+{
+Oil 2000
+}
+
+STRING 771
+// Units: e60A (Oil 2000), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 772
+// Units: e60B (Oil 3000), Name (Name)
+{
+Oil 3000
+}
+
+STRING 773
+// Units: e60B (Oil 3000), EditorSuffix (Name - Editor Suffix)
+{
+(Dummy)
+}
+
+STRING 774
+// Units: h60J (Peasant), Name (Name)
+{
+Peasant
+}
+
+STRING 775
+// Units: h60J (Peasant), Tip (Tooltip - Basic)
+{
+Peasant (|cffffcc00P|r)
+}
+
+STRING 776
+// Units: h60O (Elven Archer), Name (Name)
+{
+Elven Archer
+}
+
+STRING 777
+// Units: h60O (Elven Archer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 778
+// Units: h60O (Elven Archer), Tip (Tooltip - Basic)
+{
+Elven Archer (|cffffcc00E|r)
+}
+
+STRING 779
+// Units: h60O (Elven Archer), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 780
+// Units: e60C (Elven Destroyer), Name (Name)
+{
+Elven Destroyer
+}
+
+STRING 781
+// Units: e60C (Elven Destroyer), Tip (Tooltip - Basic)
+{
+Build Destroyer
+}
+
+STRING 782
+// Units: h60R (Battleship), Name (Name)
+{
+Battleship
+}
+
+STRING 783
+// Units: h60R (Battleship), Tip (Tooltip - Basic)
+{
+Build Battleship
+}
+
+STRING 784
+// Units: h60S (Ranger), Name (Name)
+{
+Ranger
+}
+
+STRING 785
+// Units: h60S (Ranger), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 786
+// Units: h60S (Ranger), Tip (Tooltip - Basic)
+{
+Train Ranger
+}
+
+STRING 787
+// Units: H60W (Paladin), Propernames (Proper Names)
+{
+Uther
+}
+
+STRING 788
+// Units: u607 (Daemon), Name (Name)
+{
+Daemon
+}
+
+STRING 789
+// Units: u607 (Daemon), Tip (Tooltip - Basic)
+{
+Summon Daemon
+}
+
+STRING 790
+// Units: u607 (Daemon), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 791
+// Units: u609 (Daemon), Name (Name)
+{
+Daemon
+}
+
+STRING 792
+// Units: u609 (Daemon), Tip (Tooltip - Basic)
+{
+Summon Daemon
+}
+
+STRING 793
+// Units: u609 (Daemon), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 794
+// Units: h60X (Human Shipyard), Ubertip (Tooltip - Extended)
+{
+Boat construction facility. Produces Human Oil Ttankers, Transport Ships, Destroyers, Battleships and Submarines.
+}
+
+STRING 795
+// Units: h60Y (Cannon Tower), Ubertip (Tooltip - Extended)
+{
+Heavy defensive structure. Particularly effective against clusters of troops. |n|n|cffffcc00Attacks land units and trees.|r
+}
+
+STRING 796
+// Units: h60Z (Guard Tower), Name (Name)
+{
+Guard Tower
+}
+
+STRING 797
+// Units: h60Z (Guard Tower), Tip (Tooltip - Basic)
+{
+Guard Tower (|cffffcc00G|r)
+}
+
+STRING 798
+// Units: h60Z (Guard Tower), Ubertip (Tooltip - Extended)
+{
+Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 799
+// Units: h610 (Scout Tower), Name (Name)
+{
+Scout Tower
+}
+
+STRING 800
+// Units: h610 (Scout Tower), Tip (Tooltip - Basic)
+{
+Scout Tower (|cffffcc00T|r)
+}
+
+STRING 801
+// Units: h610 (Scout Tower), Ubertip (Tooltip - Extended)
+{
+Basic observation tower. Has no attack, but can be upgraded into a Guard Tower or a Cannon Tower. 
+}
+
+STRING 802
+// Units: h611 (Gryphon Aviary), Name (Name)
+{
+Gryphon Aviary
+}
+
+STRING 803
+// Units: h611 (Gryphon Aviary), Tip (Tooltip - Basic)
+{
+Gryphon Aviary (|cffffcc00G|r)
+}
+
+STRING 804
+// Units: h611 (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Trains Gryphon Riders. |nAlso contains the Storm Hammer upgrade.
+}
+
+STRING 805
+// Units: h612 (Mage Tower), Name (Name)
+{
+Mage Tower
+}
+
+STRING 806
+// Units: h612 (Mage Tower), Tip (Tooltip - Basic)
+{
+Mage Tower (|cffffcc00М|r)
+}
+
+STRING 807
+// Units: h612 (Mage Tower), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 808
+// Units: h612 (Mage Tower), Ubertip (Tooltip - Extended)
+{
+Trains Mages of Dalaran. |nAlso contains spell upgrades for them.
+}
+
+STRING 809
+// Units: h613 (Gnomish Inventor), Name (Name)
+{
+Gnomish Inventor
+}
+
+STRING 810
+// Units: h613 (Gnomish Inventor), Tip (Tooltip - Basic)
+{
+Gnomish Inventor (|cffffcc00W|r)
+}
+
+STRING 811
+// Units: h613 (Gnomish Inventor), Ubertip (Tooltip - Extended)
+{
+Produces Flying Machines and Demolition Squads. |nAlso contains Machine Bombs upgrade.
+}
+
+STRING 812
+// Units: h614 (Blacksmith), Ubertip (Tooltip - Extended)
+{
+Contains upgrades for improved armor, weaponry and siege ammo.
+}
+
+STRING 813
+// Units: h615 (Elven Lumber Mill), Name (Name)
+{
+Elven Lumber Mill
+}
+
+STRING 814
+// Units: h615 (Elven Lumber Mill), Tip (Tooltip - Basic)
+{
+Elven Lumber Mill (|cffffcc00F|r)
+}
+
+STRING 815
+// Units: h615 (Elven Lumber Mill), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 816
+// Units: h615 (Elven Lumber Mill), Ubertip (Tooltip - Extended)
+{
+Serves as a drop-off point for harvested lumber. |nAlso contains the upgrades for Lumber Harvesting and Elven Rangers Mastery.
+}
+
+STRING 817
+// Units: h616 (Barracks), Ubertip (Tooltip - Extended)
+{
+Primary troop production building. Trains Footmen, Archers and Ballistas. |nAlso contains the Defend upgrade.
+}
+
+STRING 818
+// Units: h617 (Church), Name (Name)
+{
+Church
+}
+
+STRING 819
+// Units: h617 (Church), Ubertip (Tooltip - Extended)
+{
+Churches are places of worship where the citizens of Lordaeron seek spiritual enlightenment. 
+}
+
+STRING 820
+// Units: h617 (Church), Tip (Tooltip - Basic)
+{
+Build Church
+}
+
+STRING 821
+// Units: h61B (Keep), Name (Name)
+{
+Keep
+}
+
+STRING 822
+// Units: o60D (Peon), Ubertip (Tooltip - Extended)
+{
+Basic worker unit. Can harvest gold and lumber, build structures, and Repair.  |n|n|cffffcc00Attacks land units and trees.|r
+}
+
+STRING 823
+// Units: o60G (Grunt), Ubertip (Tooltip - Extended)
+{
+Brutish Orc warrior. |n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 825
+// Units: o60O (Troll Axethrower), Tip (Tooltip - Basic)
+{
+Train Troll Axethrower
+}
+
+STRING 826
+// Units: o60O (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Berserker, which has the Berserk ability and increased stats. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 828
+// Units: o60P (Catapult), Name (Name)
+{
+Catapult
+}
+
+STRING 829
+// Units: o60P (Catapult), Tip (Tooltip - Basic)
+{
+Build Catapult
+}
+
+STRING 830
+// Units: n60D (Peon), Name (Name)
+{
+Peon
+}
+
+STRING 831
+// Units: n60D (Peon), Tip (Tooltip - Basic)
+{
+Train Peon
+}
+
+STRING 832
+// Units: n60D (Peon), EditorSuffix (Name - Editor Suffix)
+{
+(Advanced)
+}
+
+STRING 833
+// Units: o60R (Troll Destroyer), Name (Name)
+{
+Troll Destroyer
+}
+
+STRING 834
+// Units: o60R (Troll Destroyer), Tip (Tooltip - Basic)
+{
+Build Troll Destroyer
+}
+
+STRING 835
+// Units: o60R (Troll Destroyer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 836
+// Units: o60R (Troll Destroyer), Ubertip (Tooltip - Extended)
+{
+The Troll Destroyers are swift, ill-visaged longboats designed to cut through enemy armadas and deal damage to enemy vessels and their flying support. |n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 837
+// Units: o60S (Ogre Juggernaught), Tip (Tooltip - Basic)
+{
+Build Ogre Juggernaught
+}
+
+STRING 838
+// Units: o60S (Ogre Juggernaught), Name (Name)
+{
+Ogre Juggernaught
+}
+
+STRING 839
+// Units: n60H (Dragon), Name (Name)
+{
+Dragon
+}
+
+STRING 840
+// Units: n60H (Dragon), Tip (Tooltip - Basic)
+{
+Train Dragon
+}
+
+STRING 841
+// Units: n60H (Dragon), Ubertip (Tooltip - Extended)
+{
+By combining their incredible destructive powers with a keen intellect, the Dragons represent the single most powerful force within the Horde. The devastating flame that issues forth from the mouths of older serpents can level any number of enemy troops, while their powerful wings allow them to tirelessly soar through the skies.
+}
+
+STRING 842
+// Units: o60T (Berserker), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration, Berserker Sight, Lighter Axes. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 843
+// Units: o60V (Orc Shipyard), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 844
+// Units: o60V (Orc Shipyard), Tip (Tooltip - Basic)
+{
+Orc Shipyard
+}
+
+STRING 845
+// Units: o60V (Orc Shipyard), Ubertip (Tooltip - Extended)
+{
+Boat construction facility. Produces Orc Oil Tankers, Transport Ships, Troll Destroyesrs and Ogre Juggernaught. Also can train Giant Turtle.
+}
+
+STRING 846
+// Units: n60L (Dragon Roost), Hotkey (Hotkey)
+{
+L
+}
+
+STRING 847
+// Units: n60L (Dragon Roost), Tip (Tooltip - Basic)
+{
+Dragon Roost
+}
+
+STRING 848
+// Units: n60L (Dragon Roost), Name (Name)
+{
+Dragon Roost
+}
+
+STRING 849
+// Units: o60W (Watch Tower), Ubertip (Tooltip - Extended)
+{
+Defensive structure. Expands the sight bounds. Can be Upgraded to Guard or Cannon tower. |n|n|cffffcc00Don't attack units.|r
+}
+
+STRING 850
+// Units: o60X (Pig Farm), Name (Name)
+{
+Pig Farm
+}
+
+STRING 852
+// Units: o60X (Pig Farm), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 853
+// Units: o60X (Pig Farm), Ubertip (Tooltip - Extended)
+{
+Provides food, which increases the maximum number of units that can be trained.
+}
+
+STRING 854
+// Units: o60Y (Ogre Mound), Name (Name)
+{
+Ogre Mound
+}
+
+STRING 855
+// Units: o60Y (Ogre Mound), Tip (Tooltip - Basic)
+{
+Ogre Mound (|cffffcc00E|r)
+}
+
+STRING 856
+// Units: o60Y (Ogre Mound), Ubertip (Tooltip - Extended)
+{
+Trains Ogres and Ogre-Mages.
+}
+
+STRING 857
+// Units: o60Z (Troll Lumber Mill), Name (Name)
+{
+Troll Lumber Mill
+}
+
+STRING 859
+// Units: o60Z (Troll Lumber Mill), Ubertip (Tooltip - Extended)
+{
+Serves as a drop-off point for harvested lumber. |nAlso contains upgrades for Troll Berserkers.
+}
+
+STRING 860
+// Units: o610 (Barracks), Ubertip (Tooltip - Extended)
+{
+Primary troop production building. Trains Grunts, Axethrowers, Berserkers and Catapults.
+}
+
+STRING 861
+// Units: o611 (Altar of Storms), Ubertip (Tooltip - Extended)
+{
+The place of the dark rituals. Can be used to upgrade Ogre to Ogre-Magi.
+}
+
+STRING 862
+// Units: o612 (Fortress), Name (Name)
+{
+Fortress
+}
+
+STRING 863
+// Units: o612 (Fortress), Tip (Tooltip - Basic)
+{
+Upgrade to Fortress (|cffffcc00U|r)
+}
+
+STRING 864
+// Units: o613 (Stronghold), Name (Name)
+{
+Stronghold
+}
+
+STRING 865
+// Units: o613 (Stronghold), Tip (Tooltip - Basic)
+{
+Upgrade to Stronghold(|cffffcc00U|r)
+}
+
+STRING 867
+// Units: O61M (Dragon Aspect), Name (Name)
+{
+Dragon Aspect
+}
+
+STRING 868
+// Units: O61M (Dragon Aspect), Propernames (Proper Names)
+{
+Deathwing
+}
+
+STRING 869
+// Units: O61M (Dragon Aspect), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 876
+// Units: O617 (Warlord), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 877
+// Units: O617 (Warlord), Propernames (Proper Names)
+{
+Dal'Rend Blackhand
+}
+
+STRING 878
+// Units: O617 (Warlord), Name (Name)
+{
+Warlord
+}
+
+STRING 890
+// Units: n60M (Goldmine), Name (Name)
+{
+Goldmine
+}
+
+STRING 891
+// Units: n60M (Goldmine), Tip (Tooltip - Basic)
+{
+Goldmine
+}
+
+STRING 892
+// Units: n60M (Goldmine), Description (Description)
+{
+The gold is mined here.
+}
+
+STRING 893
+// Units: n60M (Goldmine), EditorSuffix (Name - Editor Suffix)
+{
+(Grasslands)
+}
+
+STRING 894
+// Units: n60N (Goldmine), Name (Name)
+{
+Goldmine
+}
+
+STRING 895
+// Units: n60N (Goldmine), Tip (Tooltip - Basic)
+{
+Goldmine
+}
+
+STRING 896
+// Units: n60N (Goldmine), Description (Description)
+{
+The gold is mined here.
+}
+
+STRING 897
+// Units: n60N (Goldmine), EditorSuffix (Name - Editor Suffix)
+{
+(Wasteland)
+}
+
+STRING 898
+// Units: n60O (Goldmine), Name (Name)
+{
+Goldmine
+}
+
+STRING 899
+// Units: n60O (Goldmine), Tip (Tooltip - Basic)
+{
+Goldmine
+}
+
+STRING 900
+// Units: n60O (Goldmine), Description (Description)
+{
+The gold is mined here.
+}
+
+STRING 901
+// Units: n60O (Goldmine), EditorSuffix (Name - Editor Suffix)
+{
+(Winter)
+}
+
+STRING 902
+// Units: n60P (Oil Patch), Name (Name)
+{
+Oil Patch
+}
+
+STRING 903
+// Units: n60P (Oil Patch), Description (Description)
+{
+The source of Oil
+}
+
+STRING 904
+// Units: n60P (Oil Patch), Tip (Tooltip - Basic)
+{
+Oil resourse patch
+}
+
+STRING 905
+// Units: o61A (Foundry), Name (Name)
+{
+Foundry
+}
+
+STRING 906
+// Units: o61A (Foundry), Tip (Tooltip - Basic)
+{
+Build Foundry
+}
+
+STRING 907
+// Units: o61A (Foundry), Ubertip (Tooltip - Extended)
+{
+Boat research facility. Contains Upgrades for naval units.
+}
+
+STRING 908
+// Units: o61C (Refinery), Name (Name)
+{
+Refinery
+}
+
+STRING 909
+// Units: o61C (Refinery), Tip (Tooltip - Basic)
+{
+Build Refinery
+}
+
+STRING 910
+// Units: o61C (Refinery), Ubertip (Tooltip - Extended)
+{
+Refinery is built along the coastline so that Tankers can deliver their cargo directly to its doors. A Refinery allows oil to be processed with far greater efficiency, increasing the amount of usable oil garnered from every load of crude.
+}
+
+STRING 911
+// Units: h60V (Peasant), Name (Name)
+{
+Peasant
+}
+
+STRING 912
+// Units: h60V (Peasant), Tip (Tooltip - Basic)
+{
+Peasant (|cffffcc00P|r)
+}
+
+STRING 913
+// Units: h60V (Peasant), EditorSuffix (Name - Editor Suffix)
+{
+(Advanced)
+}
+
+STRING 914
+// Units: n60R (Runestone), Name (Name)
+{
+Runestone
+}
+
+STRING 915
+// Units: n60R (Runestone), EditorSuffix (Name - Editor Suffix)
+{
+(SW)
+}
+
+STRING 916
+// Units: n60R (Runestone), Tip (Tooltip - Basic)
+{
+Runestone (|cffffcc00R|r),
+}
+
+STRING 917
+// Units: n60R (Runestone), Ubertip (Tooltip - Extended)
+{
+Mystic elven artifact
+}
+
+STRING 918
+// Units: h60B (Archer), Name (Name)
+{
+Archer
+}
+
+STRING 919
+// Units: h60B (Archer), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 920
+// Units: h618 (Oil Tanker), Name (Name)
+{
+Oil Tanker
+}
+
+STRING 921
+// Units: h618 (Oil Tanker), Ubertip (Tooltip - Extended)
+{
+Vessel for oil transportation
+}
+
+STRING 922
+// Units: h618 (Oil Tanker), EditorSuffix (Name - Editor Suffix)
+{
+(Human filled)
+}
+
+STRING 923
+// Units: h618 (Oil Tanker), Tip (Tooltip - Basic)
+{
+Build Oil Tanker
+}
+
+STRING 924
+// Units: n607 (Land Mine), Name (Name)
+{
+Land Mine
+}
+
+STRING 942
+// Abilities: A00N (Blackrock & Roll), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 943
+// Units: O61G (Dragon Queen), Name (Name)
+{
+Dragon Queen
+}
+
+STRING 944
+// Units: O61G (Dragon Queen), Propernames (Proper Names)
+{
+Alextraza
+}
+
+STRING 945
+// Units: h61D (Town Hall), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarf)
+}
+
+STRING 946
+// Units: h61E (Keep), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarf)
+}
+
+STRING 947
+// Units: h61F (Castle), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarf)
+}
+
+STRING 948
+// Units: n60T (Igloo), Name (Name)
+{
+Igloo
+}
+
+STRING 949
+// Units: n60T (Igloo), Tip (Tooltip - Basic)
+{
+Igloo
+}
+
+STRING 950
+// Units: u60C (Forest Spirit), Name (Name)
+{
+Forest Spirit
+}
+
+STRING 951
+// Units: H61G (King of Lordaeron), Name (Name)
+{
+King of Lordaeron
+}
+
+STRING 952
+// Units: H61G (King of Lordaeron), Propernames (Proper Names)
+{
+Terenas
+}
+
+STRING 953
+// Units: H61G (King of Lordaeron), Awakentip (Tooltip - Awaken)
+{
+Revive King
+}
+
+STRING 954
+// Units: H61G (King of Lordaeron), Revivetip (Tooltip - Revive)
+{
+Revive King
+}
+
+STRING 955
+// Units: e60D (Trebuchet), Name (Name)
+{
+Trebuchet
+}
+
+STRING 956
+// Units: e60D (Trebuchet), EditorSuffix (Name - Editor Suffix)
+{
+(no path)
+}
+
+STRING 957
+// Units: u60D (Death Knight), Name (Name)
+{
+Death Knight
+}
+
+STRING 958
+// Units: u60D (Death Knight), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 959
+// Units: H61J (Knight), Propernames (Proper Names)
+{
+Sir Anduin Lothar
+}
+
+STRING 960
+// Units: H61J (Knight), Name (Name)
+{
+Knight
+}
+
+STRING 961
+// Units: o61H (Orc Frigate), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 962
+// Units: n60V (Duck), Name (Name)
+{
+Duck
+}
+
+STRING 963
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Just a mallard 
+}
+
+STRING 964
+// Units: h61K (Judicator), Name (Name)
+{
+Judicator
+}
+
+STRING 965
+// Units: h61K (Judicator), Tip (Tooltip - Basic)
+{
+Train Judicator
+}
+
+STRING 966
+// Units: h61L (Elven Stables), Name (Name)
+{
+Elven Stables
+}
+
+STRING 967
+// Units: h61L (Elven Stables), Tip (Tooltip - Basic)
+{
+Build Stables
+}
+
+STRING 968
+// Units: h61M (Blacksmith), EditorSuffix (Name - Editor Suffix)
+{
+(High Elf)
+}
+
+STRING 969
+// Units: h61N (Gryphon Aviary), EditorSuffix (Name - Editor Suffix)
+{
+(High Elf)
+}
+
+STRING 970
+// Units: h61O (Dwarven Rider), Name (Name)
+{
+Dwarven Rider
+}
+
+STRING 971
+// Units: h61O (Dwarven Rider), Tip (Tooltip - Basic)
+{
+Dwarven Rider
+}
+
+STRING 972
+// Units: o61I (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 973
+// Units: o61J (Spirit Lodge), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 974
+// Units: o61K (Voodoo Altar), Name (Name)
+{
+Voodoo Altar
+}
+
+STRING 975
+// Units: o61L (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 976
+// Units: n60W (Troll farm), Name (Name)
+{
+Troll farm
+}
+
+STRING 977
+// Units: n60X (Troll farm), Name (Name)
+{
+Troll farm
+}
+
+STRING 978
+// Units: h61P (Arcane Observatory), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 979
+// Units: h61Q (Scout Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 980
+// Units: h61R (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 983
+// Abilities: A60L (Ensnare), Hotkey (Hotkey - Normal)
+{
+D
+}
+
+STRING 984
+// Units: O61M (Dragon Aspect), EditorSuffix (Name - Editor Suffix)
+{
+(Flying)
+}
+
+STRING 985
+// Units: n612 (Flesh Scavenger), Name (Name)
+{
+Flesh Scavenger
+}
+
+STRING 986
+// Units: n613 (Flesh Abomination), Name (Name)
+{
+Flesh Abomination
+}
+
+STRING 987
+// Units: n614 (Flesh Beast), Name (Name)
+{
+Flesh Beast
+}
+
+STRING 988
+// Units: n618 (Beholder), Name (Name)
+{
+Beholder
+}
+
+STRING 989
+// Units: n618 (Beholder), Tip (Tooltip - Basic)
+{
+Beholder
+}
+
+STRING 990
+// Units: n619 (Great Beholder), Name (Name)
+{
+Great Beholder
+}
+
+STRING 991
+// Units: n619 (Great Beholder), Tip (Tooltip - Basic)
+{
+Great Beholder
+}
+
+STRING 992
+// Units: h61S (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 993
+// Units: h61S (Spike Wall), Tip (Tooltip - Basic)
+{
+Spike Wall
+}
+
+STRING 994
+// Units: h61S (Spike Wall), Ubertip (Tooltip - Extended)
+{
+Defensive structure.
+}
+
+STRING 995
+// Units: n61C (Ancient Beholder), Name (Name)
+{
+Ancient Beholder
+}
+
+STRING 996
+// Units: n61C (Ancient Beholder), Tip (Tooltip - Basic)
+{
+Ancient Beholder
+}
+
+STRING 997
+// Units: n61G (Bat), Name (Name)
+{
+Bat
+}
+
+STRING 998
+// Units: n61G (Bat), Tip (Tooltip - Basic)
+{
+Bat
+}
+
+STRING 999
+// Units: n61H (Sludge Monster), Name (Name)
+{
+Sludge Monster
+}
+
+STRING 1000
+// Units: e60I (Archangel), Name (Name)
+{
+Archangel
+}
+
+STRING 1001
+// Units: e60J (Spirit), Name (Name)
+{
+Spirit
+}
+
+STRING 1002
+// Units: h620 (Tent), Name (Name)
+{
+Tent
+}
+
+STRING 1003
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tent
+}
+
+STRING 1004
+// Units: h621 (Tent), Name (Name)
+{
+Tent
+}
+
+STRING 1005
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tent
+}
+
+STRING 1006
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 1007
+// Units: o61P (Burrow), EditorSuffix (Name - Editor Suffix)
+{
+(Dwarwen)
+}
+
+STRING 1008
+// Units: h625 (Orc Bowman), Name (Name)
+{
+Orc Bowman
+}
+
+STRING 1009
+// Units: h625 (Orc Bowman), Tip (Tooltip - Basic)
+{
+Train Bowman
+}
+
+STRING 1010
+// Units: n621 (Tumbleweed), Name (Name)
+{
+Tumbleweed
+}
+
+STRING 1011
+// Units: o61Q (Burning blade Grunt), Name (Name)
+{
+Burning blade Grunt
+}
+
+STRING 1012
+// Units: o61Q (Burning blade Grunt), Tip (Tooltip - Basic)
+{
+Burning blade Grunt
+}
+
+STRING 1013
+// Units: n622 (Horde gold chest), Name (Name)
+{
+Horde gold chest
+}
+
+STRING 1014
+// Units: n622 (Horde gold chest), Ubertip (Tooltip - Extended)
+{
+Chest full of orcish gold
+}
+
+STRING 1015
+// Units: n622 (Horde gold chest), Tip (Tooltip - Basic)
+{
+Chest with gold
+}
+
+STRING 1016
+// Units: n627 (Wild horse), Name (Name)
+{
+Wild horse
+}
+
+STRING 1017
+// Units: O61T (Dragon Queen), Name (Name)
+{
+Dragon Queen
+}
+
+STRING 1018
+// Units: O61T (Dragon Queen), Propernames (Proper Names)
+{
+Alextraza
+}
+
+STRING 1019
+// Units: O61T (Dragon Queen), EditorSuffix (Name - Editor Suffix)
+{
+(Fly)
+}
+
+STRING 1020
+// Units: n628 (Magic generator), Name (Name)
+{
+Magic generator
+}
+
+STRING 1021
+// Units: h627 (Priest), Name (Name)
+{
+Priest
+}
+
+STRING 1022
+// Units: h627 (Priest), EditorSuffix (Name - Editor Suffix)
+{
+(Human)
+}
+
+STRING 1023
+// Units: H628 (Preacher), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1024
+// Units: H628 (Preacher), Name (Name)
+{
+Preacher
+}
+
+STRING 1025
+// Units: H628 (Preacher), Awakentip (Tooltip - Awaken)
+{
+Revive Preacher
+}
+
+STRING 1026
+// Units: H628 (Preacher), Revivetip (Tooltip - Revive)
+{
+Revive Preacher
+}
+
+STRING 1027
+// Units: H628 (Preacher), Tip (Tooltip - Basic)
+{
+Preacher
+}
+
+STRING 1028
+// Units: H62D (Captain), Propernames (Proper Names)
+{
+Meryn
+}
+
+STRING 1029
+// Units: H62D (Captain), Name (Name)
+{
+Captain
+}
+
+STRING 1030
+// Units: H62D (Captain), Awakentip (Tooltip - Awaken)
+{
+Revive Captain
+}
+
+STRING 1031
+// Units: H62D (Captain), Revivetip (Tooltip - Revive)
+{
+Revive Captain
+}
+
+STRING 1032
+// Units: H62D (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Stormwind)
+}
+
+STRING 1033
+// Units: H62D (Captain), Tip (Tooltip - Basic)
+{
+Captain
+}
+
+STRING 1034
+// Units: H62E (King of Stromgarde), Propernames (Proper Names)
+{
+Galen Trollbane
+}
+
+STRING 1035
+// Units: H62E (King of Stromgarde), Name (Name)
+{
+King of Stromgarde
+}
+
+STRING 1036
+// Units: H62E (King of Stromgarde), Revivetip (Tooltip - Revive)
+{
+Revive King
+}
+
+STRING 1037
+// Units: H62E (King of Stromgarde), Awakentip (Tooltip - Awaken)
+{
+Revive King
+}
+
+STRING 1038
+// Units: n629 (Defiled Altar), Name (Name)
+{
+Defiled Altar
+}
+
+STRING 1039
+// Units: n629 (Defiled Altar), Tip (Tooltip - Basic)
+{
+Altar that emanates dark magic
+}
+
+STRING 1040
+// Units: n629 (Defiled Altar), Description (Description)
+{
+This Dark Altar increases power of those who own it
+}
+
+STRING 1041
+// Units: H62F (Captain), Revivetip (Tooltip - Revive)
+{
+Revive Captain
+}
+
+STRING 1042
+// Units: H62F (Captain), Name (Name)
+{
+Captain
+}
+
+STRING 1043
+// Units: H62F (Captain), Propernames (Proper Names)
+{
+Luric
+}
+
+STRING 1044
+// Units: H62F (Captain), Awakentip (Tooltip - Awaken)
+{
+Revive Captain
+}
+
+STRING 1045
+// Units: H62F (Captain), Tip (Tooltip - Basic)
+{
+Captain
+}
+
+STRING 1046
+// Units: H62F (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Lordaeron)
+}
+
+STRING 1047
+// Units: n62A (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 1048
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+Shark
+}
+
+STRING 1049
+// Units: n62B (Purple Shark), Name (Name)
+{
+Purple Shark
+}
+
+STRING 1050
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+Shark
+}
+
+STRING 1051
+// Units: h609 (Goblin Spearman), Name (Name)
+{
+Goblin Spearman
+}
+
+STRING 1052
+// Units: h609 (Goblin Spearman), Tip (Tooltip - Basic)
+{
+Train Goblin Spearman (|cffffcc00S|r)
+}
+
+STRING 1055
+// Units: n60F (Runestone), Name (Name)
+{
+Runestone
+}
+
+STRING 1056
+// Units: n60F (Runestone), EditorSuffix (Name - Editor Suffix)
+{
+(SE)
+}
+
+STRING 1057
+// Units: n60F (Runestone), Tip (Tooltip - Basic)
+{
+Runestone (|cffffcc00R|r),
+}
+
+STRING 1058
+// Units: n60F (Runestone), Ubertip (Tooltip - Extended)
+{
+Mystic elven artifact
+}
+
+STRING 1059
+// Units: n60Q (Beastlair), Name (Name)
+{
+Beastlair
+}
+
+STRING 1060
+// Units: n60Q (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Barrens SE)
+}
+
+STRING 1061
+// Units: n610 (Beastlair), Name (Name)
+{
+Beastlair
+}
+
+STRING 1062
+// Units: n610 (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Barrens SW)
+}
+
+STRING 1064
+// Units: h60F (Human Cannon), Name (Name)
+{
+Human Cannon
+}
+
+STRING 1065
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Build Cannon
+}
+
+STRING 1066
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground targets (Including trees).|r
+}
+
+STRING 1067
+// Units: o606 (Orc Pirate), Name (Name)
+{
+Orc Pirate
+}
+
+STRING 1068
+// Units: u601 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 1069
+// Units: u601 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Zuljin Spell)
+}
+
+STRING 1072
+// Upgrades: R605 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 1078
+// Units: o60E (Teron'Gor), Name (Name)
+{
+Teron'Gor
+}
+
+STRING 1081
+// Items: oflg (Orc Flag), Description (Description)
+{
+Посвящение паладинов
+}
+
+STRING 1082
+// Items: oflg (Orc Flag), Ubertip (Tooltip - Extended)
+{
+Посвящение паладинов
+}
+
+STRING 1083
+// Items: I600 (Head of Gul'dan), Name (Name)
+{
+Head of Gul'dan
+}
+
+STRING 1084
+// Items: I600 (Head of Gul'dan), Tip (Tooltip - Basic)
+{
+Bag with a head
+}
+
+STRING 1085
+// Items: I600 (Head of Gul'dan), Description (Description)
+{
+Adds Spell shield.
+}
+
+STRING 1086
+// Items: I602 (Chest with Gold), Description (Description)
+{
+There is a huge amount of gold in this chest!
+}
+
+STRING 1087
+// Items: I602 (Chest with Gold), Ubertip (Tooltip - Extended)
+{
+500 Gold coins.
+}
+
+STRING 1088
+// Items: I602 (Chest with Gold), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1089
+// Items: I602 (Chest with Gold), Name (Name)
+{
+Chest with Gold
+}
+
+STRING 1090
+// Items: I601 (Black Dragon Egg), Description (Description)
+{
+Summons Black Dragon
+}
+
+STRING 1091
+// Items: I601 (Black Dragon Egg), Name (Name)
+{
+Black Dragon Egg
+}
+
+STRING 1092
+// Items: I601 (Black Dragon Egg), Ubertip (Tooltip - Extended)
+{
+Summons Black Dragon.|nDuration: <AIfd,Dur1> s.
+}
+
+STRING 1093
+// Items: I603 (Gold Coins), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 1094
+// Items: I605 (Book of Medivh), Tip (Tooltip - Basic)
+{
+Book of Medivh
+}
+
+STRING 1095
+// Items: I605 (Book of Medivh), Ubertip (Tooltip - Extended)
+{
+Book of Medivh
+}
+
+STRING 1096
+// Items: I605 (Book of Medivh), Description (Description)
+{
+Book of Medivh
+}
+
+STRING 1097
+// Items: I605 (Book of Medivh), Name (Name)
+{
+Book of Medivh
+}
+
+STRING 1098
+// Items: I607 (Piece of a Runestone), Name (Name)
+{
+Piece of a Runestone
+}
+
+STRING 1099
+// Items: I607 (Piece of a Runestone), Tip (Tooltip - Basic)
+{
+A shard of a Runestone
+}
+
+STRING 1100
+// Items: I607 (Piece of a Runestone), Description (Description)
+{
+Shard of a Runestone
+}
+
+STRING 1101
+// Items: I607 (Piece of a Runestone), Ubertip (Tooltip - Extended)
+{
+The Shard of a Runestone from Caer Darrow Island
+}
+
+STRING 1102
+// Items: I608 (Doom Hammer), Name (Name)
+{
+Doom Hammer
+}
+
+STRING 1103
+// Items: I608 (Doom Hammer), Tip (Tooltip - Basic)
+{
+Doom Hammer
+}
+
+STRING 1104
+// Items: I60C (Gear), Tip (Tooltip - Basic)
+{
+Gear
+}
+
+STRING 1105
+// Items: I60C (Gear), Ubertip (Tooltip - Extended)
+{
+Gear
+}
+
+STRING 1106
+// Items: I60C (Gear), Name (Name)
+{
+Gear
+}
+
+STRING 1107
+// Items: I60C (Gear), Description (Description)
+{
+Gear
+}
+
+STRING 1108
+// Items: I60F (Bag), Name (Name)
+{
+Bag
+}
+
+STRING 1109
+// Items: I60F (Bag), Description (Description)
+{
+Bag with Gul'Dans head.
+}
+
+STRING 1110
+// Items: I60F (Bag), Tip (Tooltip - Basic)
+{
+Bag with bloody spot.
+}
+
+STRING 1111
+// Items: I60F (Bag), Ubertip (Tooltip - Extended)
+{
+Bag with decapitated head.
+}
+
+STRING 1112
+// Items: I60G (Gas), Name (Name)
+{
+Gas
+}
+
+STRING 1113
+// Items: I60G (Gas), Description (Description)
+{
+Gas
+}
+
+STRING 1114
+// Items: I60G (Gas), Ubertip (Tooltip - Extended)
+{
+Gas
+}
+
+STRING 1115
+// Items: I60G (Gas), Tip (Tooltip - Basic)
+{
+Gas
+}
+
+STRING 1116
+// Items: I60K (Map), Description (Description)
+{
+Map
+}
+
+STRING 1117
+// Items: I60K (Map), Tip (Tooltip - Basic)
+{
+Map
+}
+
+STRING 1118
+// Items: I60K (Map), Ubertip (Tooltip - Extended)
+{
+Map
+}
+
+STRING 1119
+// Items: I60K (Map), Name (Name)
+{
+Map
+}
+
+STRING 1120
+// Items: I60L (Book), Name (Name)
+{
+Book
+}
+
+STRING 1121
+// Items: I60L (Book), Tip (Tooltip - Basic)
+{
+Spellbook
+}
+
+STRING 1122
+// Items: I60L (Book), Ubertip (Tooltip - Extended)
+{
+Foliant of the orcish necromancy.
+}
+
+STRING 1123
+// Items: I60L (Book), Description (Description)
+{
+Book of the damned
+}
+
+STRING 1124
+// Items: I60N (Dragon Head), Name (Name)
+{
+Dragon Head
+}
+
+STRING 1125
+// Items: I60N (Dragon Head), Tip (Tooltip - Basic)
+{
+Dragon Head
+}
+
+STRING 1126
+// Items: I60N (Dragon Head), Ubertip (Tooltip - Extended)
+{
+Obsidian Dragon head
+}
+
+STRING 1127
+// Items: I60N (Dragon Head), Description (Description)
+{
+Piece of Dragon Statue
+}
+
+STRING 1128
+// Items: I60O (Black Dragon Totem), Name (Name)
+{
+Black Dragon Totem
+}
+
+STRING 1129
+// Items: I60O (Black Dragon Totem), Description (Description)
+{
+Statue of the Black Dragon
+}
+
+STRING 1130
+// Items: I60O (Black Dragon Totem), Tip (Tooltip - Basic)
+{
+Black Dragon Totem
+}
+
+STRING 1131
+// Items: I60O (Black Dragon Totem), Ubertip (Tooltip - Extended)
+{
+Black dragon Statue, made from Obsidian.
+}
+
+STRING 1132
+// Items: I60P (Dragon Body), Name (Name)
+{
+Dragon Body
+}
+
+STRING 1133
+// Items: I60P (Dragon Body), Description (Description)
+{
+Piece of Dragon Statue
+}
+
+STRING 1134
+// Items: I60P (Dragon Body), Tip (Tooltip - Basic)
+{
+Dragon Body
+}
+
+STRING 1135
+// Items: I60P (Dragon Body), Ubertip (Tooltip - Extended)
+{
+Obsidian Dragon Body
+}
+
+STRING 1136
+// Items: I60Q (Dragon Foot), Tip (Tooltip - Basic)
+{
+Dragon Foot
+}
+
+STRING 1137
+// Items: I60Q (Dragon Foot), Ubertip (Tooltip - Extended)
+{
+Obsidian Dragon foot
+}
+
+STRING 1138
+// Items: I60Q (Dragon Foot), Description (Description)
+{
+Pice of dragon Statue
+}
+
+STRING 1139
+// Items: I60Q (Dragon Foot), Name (Name)
+{
+Dragon Foot
+}
+
+STRING 1140
+// Items: I60R (Dragon Wing), Name (Name)
+{
+Dragon Wing
+}
+
+STRING 1141
+// Items: I60R (Dragon Wing), Tip (Tooltip - Basic)
+{
+Dragon Wing
+}
+
+STRING 1142
+// Items: I60R (Dragon Wing), Description (Description)
+{
+Piece of Dragon Statue
+}
+
+STRING 1143
+// Items: I60R (Dragon Wing), Ubertip (Tooltip - Extended)
+{
+Obsidian Fragon Wing
+}
+
+STRING 1144
+// Items: I60U (Dragon Soul), Name (Name)
+{
+Dragon Soul
+}
+
+STRING 1145
+// Items: I60U (Dragon Soul), Description (Description)
+{
+Mystical Artifact.
+}
+
+STRING 1146
+// Items: I60U (Dragon Soul), Tip (Tooltip - Basic)
+{
+Artifact.
+}
+
+STRING 1147
+// Items: I60U (Dragon Soul), Ubertip (Tooltip - Extended)
+{
+Golden disc with Carved Dragon head.
+}
+
+STRING 1148
+// Items: I60V (Barrel of Oil), Name (Name)
+{
+Barrel of Oil
+}
+
+STRING 1149
+// Items: I60V (Barrel of Oil), Tip (Tooltip - Basic)
+{
+Barrel with Oil
+}
+
+STRING 1150
+// Items: I60V (Barrel of Oil), Ubertip (Tooltip - Extended)
+{
+The barrel filled with precious black substance.
+}
+
+STRING 1151
+// Items: I60V (Barrel of Oil), Description (Description)
+{
+The barrel filled with precious naval resource.
+}
+
+STRING 1152
+// Items: I604 (Telescope), Name (Name)
+{
+Telescope
+}
+
+STRING 1153
+// Items: I604 (Telescope), Tip (Tooltip - Basic)
+{
+Purchase Telescope
+}
+
+STRING 1154
+// Items: I604 (Telescope), Ubertip (Tooltip - Extended)
+{
+Reveals a targeted area. Invisible units are also revealed by the Telescopes effect. |nLasts <AIta,Dur1> seconds.
+}
+
+STRING 1155
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Wharf
+}
+
+STRING 1156
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Shrooms
+}
+
+STRING 1157
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1158
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1159
+// Destructibles: B605 (Platform), Name (Name)
+{
+Platform
+}
+
+STRING 1160
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Garrison Gate
+}
+
+STRING 1161
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(no Path)
+}
+
+STRING 1162
+// Destructibles: B607 (Orc Wall), Name (Name)
+{
+Orc Wall
+}
+
+STRING 1163
+// Destructibles: B60C (Orc Wall), Name (Name)
+{
+Orc Wall
+}
+
+STRING 1164
+// Destructibles: B60C (Orc Wall), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1165
+// Destructibles: B60G (Giant Tree), Name (Name)
+{
+Giant Tree
+}
+
+STRING 1166
+// Destructibles: B60J (Vines), Name (Name)
+{
+Vines
+}
+
+STRING 1167
+// Destructibles: B60K (Cinematic Gate), Name (Name)
+{
+Cinematic Gate
+}
+
+STRING 1168
+// Destructibles: B60M (Round Tower), Name (Name)
+{
+Round Tower
+}
+
+STRING 1169
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Cavern
+}
+
+STRING 1170
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Stone Wall
+}
+
+STRING 1171
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 1172
+// Destructibles: B60X (Royal Stairs), Name (Name)
+{
+Royal Stairs
+}
+
+STRING 1173
+// Destructibles: B60Y (Orc Stairs), Name (Name)
+{
+Orc Stairs
+}
+
+STRING 1174
+// Destructibles: B60Z (Orc Stairs), Name (Name)
+{
+Orc Stairs
+}
+
+STRING 1175
+// Destructibles: B610 (City Stairs), Name (Name)
+{
+City Stairs
+}
+
+STRING 1176
+// Destructibles: B611 (Black Citadel Stairs), Name (Name)
+{
+Black Citadel Stairs
+}
+
+STRING 1177
+// Destructibles: B60F (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1178
+// Destructibles: B60I (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1179
+// Destructibles: B612 (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1180
+// Destructibles: B612 (Stratholme Wall), EditorSuffix (Editor Suffix)
+{
+(Corner)
+}
+
+STRING 1181
+// Destructibles: B613 (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1182
+// Destructibles: B614 (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1183
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barrel with Oil
+}
+
+STRING 1184
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+No Path
+}
+
+STRING 1185
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Fire Gust
+}
+
+STRING 1186
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fire
+}
+
+STRING 1187
+// Destructibles: B618 (Stratholme Bridge), EditorSuffix (Editor Suffix)
+{
+(old)
+}
+
+STRING 1188
+// Destructibles: B618 (Stratholme Bridge), Name (Name)
+{
+Stratholme Bridge
+}
+
+STRING 1189
+// Destructibles: B61B (Long Cliff Bridge), Name (Name)
+{
+Long Cliff Bridge
+}
+
+STRING 1190
+// Destructibles: B61B (Long Cliff Bridge), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 1191
+// Destructibles: B61D (Lordaeron Tower), Name (Name)
+{
+Lordaeron Tower
+}
+
+STRING 1192
+// Destructibles: B61D (Lordaeron Tower), EditorSuffix (Editor Suffix)
+{
+(Pathless)
+}
+
+STRING 1193
+// Destructibles: B61E (Capital City Stairs Block), Name (Name)
+{
+Capital City Stairs Block
+}
+
+STRING 1194
+// Destructibles: B61F (Lordaeron Wall), Name (Name)
+{
+Lordaeron Wall
+}
+
+STRING 1195
+// Destructibles: B61F (Lordaeron Wall), EditorSuffix (Editor Suffix)
+{
+(Corner)
+}
+
+STRING 1196
+// Destructibles: B61G (Lordaeron Wall), Name (Name)
+{
+Lordaeron Wall
+}
+
+STRING 1197
+// Destructibles: B61H (Lordaron Wall), Name (Name)
+{
+Lordaron Wall
+}
+
+STRING 1198
+// Destructibles: B61I (Lordaron Wall), Name (Name)
+{
+Lordaron Wall
+}
+
+STRING 1199
+// Destructibles: B61J (Lordaron Wall), Name (Name)
+{
+Lordaron Wall
+}
+
+STRING 1200
+// Destructibles: B61K (Ice trap), Name (Name)
+{
+Ice trap
+}
+
+STRING 1201
+// Destructibles: B61L (Ice Hover), Name (Name)
+{
+Ice Hover
+}
+
+STRING 1202
+// Destructibles: B61L (Ice Hover), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1203
+// Destructibles: B61P (Iron Gate ), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1204
+// Destructibles: B61P (Iron Gate ), Name (Name)
+{
+Iron Gate 
+}
+
+STRING 1205
+// Destructibles: B61R (Ice Platform), Name (Name)
+{
+Ice Platform
+}
+
+STRING 1206
+// Destructibles: B61S (Ico Hover), Name (Name)
+{
+Ico Hover
+}
+
+STRING 1207
+// Destructibles: B61S (Ico Hover), EditorSuffix (Editor Suffix)
+{
+(Path)
+}
+
+STRING 1208
+// Destructibles: B61T (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1209
+// Destructibles: B61T (Stratholme Wall), EditorSuffix (Editor Suffix)
+{
+Corner
+}
+
+STRING 1210
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Orcish Stone Wall
+}
+
+STRING 1211
+// Destructibles: B622 (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1212
+// Destructibles: B622 (Stratholme Wall), EditorSuffix (Editor Suffix)
+{
+Vertical
+}
+
+STRING 1213
+// Destructibles: B623 (Stratholme Wall), Name (Name)
+{
+Stratholme Wall
+}
+
+STRING 1214
+// Destructibles: B623 (Stratholme Wall), EditorSuffix (Editor Suffix)
+{
+Corner
+}
+
+STRING 1215
+// Destructibles: B62N (Big Door), Name (Name)
+{
+Big Door
+}
+
+STRING 1216
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Old Tomb
+}
+
+STRING 1217
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+Altar With the Book
+}
+
+STRING 1218
+// Destructibles: B62T (Egg), Name (Name)
+{
+Egg
+}
+
+STRING 1219
+// Destructibles: B60O (Ironforge Gate), Name (Name)
+{
+Ironforge Gate
+}
+
+STRING 1220
+// Destructibles: B60O (Ironforge Gate), EditorSuffix (Editor Suffix)
+{
+(Cinematic)
+}
+
+STRING 1221
+// Destructibles: B60A (Lordaron Wall), Name (Name)
+{
+Lordaron Wall
+}
+
+STRING 1222
+// Destructibles: B60A (Lordaron Wall), EditorSuffix (Editor Suffix)
+{
+(Short)
+}
+
+STRING 1223
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Marble Floor
+}
+
+STRING 1224
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1225
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1226
+// Destructibles: B601 (Cliffs Red Barrens), Name (Name)
+{
+Cliffs Red Barrens
+}
+
+STRING 1227
+// Destructibles: B601 (Cliffs Red Barrens), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1228
+// Destructibles: B602 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1229
+// Destructibles: B602 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Red)
+}
+
+STRING 1230
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1231
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1232
+// Destructibles: B604 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1233
+// Destructibles: B604 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad BlackRed)
+}
+
+STRING 1234
+// Destructibles: B608 (Cliffs Red Dungeon ), Name (Name)
+{
+Cliffs Red Dungeon 
+}
+
+STRING 1235
+// Destructibles: B608 (Cliffs Red Dungeon ), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1236
+// Destructibles: B60D (Dungeon Platform), Name (Name)
+{
+Dungeon Platform
+}
+
+STRING 1237
+// Destructibles: B609 (Cliffs), Name (Name)
+{
+Cliffs
+}
+
+STRING 1238
+// Destructibles: B609 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Black)
+}
+
+STRING 1239
+// Destructibles: B60E (Cliffs Dark Dungeon), Name (Name)
+{
+Cliffs Dark Dungeon
+}
+
+STRING 1240
+// Destructibles: B60E (Cliffs Dark Dungeon), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1241
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+TreePlanter
+}
+
+STRING 1242
+// Destructibles: B60L (WInter Canopy Bush), Name (Name)
+{
+WInter Canopy Bush
+}
+
+STRING 1243
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Fallen Winter Tree
+}
+
+STRING 1244
+// Destructibles: B60S (Fallen Winter Tree 2), Name (Name)
+{
+Fallen Winter Tree 2
+}
+
+STRING 1245
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Lighthouse
+}
+
+STRING 1246
+// Destructibles: B60U (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1247
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Lumber Stash
+}
+
+STRING 1248
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Gold (Inactive)
+}
+
+STRING 1249
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Gold (Active)
+}
+
+STRING 1250
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+AllianceBanner
+}
+
+STRING 1251
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Support Beam
+}
+
+STRING 1252
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1253
+// Destructibles: B61N (Big Cage Wall), Name (Name)
+{
+Big Cage Wall
+}
+
+STRING 1254
+// Destructibles: B61O (Big Cage Wall), Name (Name)
+{
+Big Cage Wall
+}
+
+STRING 1255
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 1256
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Bushes
+}
+
+STRING 1257
+// Destructibles: B61U (Hillsbrad Clock Tower), Name (Name)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 1258
+// Destructibles: B61V (Hillsbrad Clock Tower), Name (Name)
+{
+Hillsbrad Clock Tower
+}
+
+STRING 1259
+// Destructibles: B61V (Hillsbrad Clock Tower), EditorSuffix (Editor Suffix)
+{
+(Destroyed)
+}
+
+STRING 1260
+// Doodads: D600 (Wasteland Tree Cinematic), Name (Name)
+{
+Wasteland Tree Cinematic
+}
+
+STRING 1261
+// Doodads: D601 (Kul Tiras Banner), Name (Name)
+{
+Kul Tiras Banner
+}
+
+STRING 1262
+// Doodads: D602 (Alterac Banner), Name (Name)
+{
+Alterac Banner
+}
+
+STRING 1263
+// Doodads: D603 (Stormwind Banner), Name (Name)
+{
+Stormwind Banner
+}
+
+STRING 1264
+// Doodads: D604 (Dwarf Statue), Name (Name)
+{
+Dwarf Statue
+}
+
+STRING 1265
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1266
+// Doodads: D606 (War Tent), Name (Name)
+{
+War Tent
+}
+
+STRING 1267
+// Doodads: D607 (Shaman Tent), Name (Name)
+{
+Shaman Tent
+}
+
+STRING 1268
+// Doodads: D608 (Nulcear Strike), Name (Name)
+{
+Nulcear Strike
+}
+
+STRING 1269
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1270
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Circle Of Power WC2
+}
+
+STRING 1271
+// Doodads: D60G (Cauldron), Name (Name)
+{
+Cauldron
+}
+
+STRING 1272
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 1273
+// Doodads: D60K (Dungeon Pillar), Name (Name)
+{
+Dungeon Pillar
+}
+
+STRING 1274
+// Doodads: D60M (Telescope), Name (Name)
+{
+Telescope
+}
+
+STRING 1275
+// Doodads: D60W (Warsong Banner), Name (Name)
+{
+Warsong Banner
+}
+
+STRING 1276
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1277
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1278
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1279
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1280
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Spike Wall
+}
+
+STRING 1281
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1282
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+Square Tower Tall
+}
+
+STRING 1283
+// Doodads: D623 (Dwarven Banner), Name (Name)
+{
+Dwarven Banner
+}
+
+STRING 1284
+// Doodads: D646 (Lava Plane), Name (Name)
+{
+Lava Plane
+}
+
+STRING 1285
+// Doodads: D647 (Vines Poisoned), Name (Name)
+{
+Vines Poisoned
+}
+
+STRING 1286
+// Doodads: D64C (Cavern Big), Name (Name)
+{
+Cavern Big
+}
+
+STRING 1287
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+Fountain 2
+}
+
+STRING 1288
+// Doodads: D66P (QuelThalas Bush), Name (Name)
+{
+QuelThalas Bush
+}
+
+STRING 1289
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1290
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1291
+// Doodads: D66V (New Armor Rack), Name (Name)
+{
+New Armor Rack
+}
+
+STRING 1292
+// Doodads: D66W (Destroyed Weapon Rack), Name (Name)
+{
+Destroyed Weapon Rack
+}
+
+STRING 1293
+// Doodads: D66X (Destroyed Weapon Rack 3), Name (Name)
+{
+Destroyed Weapon Rack 3
+}
+
+STRING 1294
+// Doodads: D66Y (Destroyed Weapon Rack 2), Name (Name)
+{
+Destroyed Weapon Rack 2
+}
+
+STRING 1295
+// Doodads: D66Z (Weapon Rack new 2), Name (Name)
+{
+Weapon Rack new 2
+}
+
+STRING 1296
+// Doodads: D670 (Weapon Rack New 3), Name (Name)
+{
+Weapon Rack New 3
+}
+
+STRING 1297
+// Doodads: D671 (Weapon Rack new), Name (Name)
+{
+Weapon Rack new
+}
+
+STRING 1298
+// Doodads: D67B (Stone Fence Rubble 03), Name (Name)
+{
+Stone Fence Rubble 03
+}
+
+STRING 1299
+// Doodads: D67C (Stone Fence Rubble 02), Name (Name)
+{
+Stone Fence Rubble 02
+}
+
+STRING 1300
+// Doodads: D67D (Stone Fence Rubble 01), Name (Name)
+{
+Stone Fence Rubble 01
+}
+
+STRING 1301
+// Doodads: D67E (Stone Fence Rubble 04), Name (Name)
+{
+Stone Fence Rubble 04
+}
+
+STRING 1302
+// Doodads: D67F (Stone Fence Rubble 12), Name (Name)
+{
+Stone Fence Rubble 12
+}
+
+STRING 1303
+// Doodads: D67G (Stone Fence Rubble 13), Name (Name)
+{
+Stone Fence Rubble 13
+}
+
+STRING 1304
+// Doodads: D67H (Stone Fence Rubble 14), Name (Name)
+{
+Stone Fence Rubble 14
+}
+
+STRING 1305
+// Doodads: D67I (Stone Fence Rubble 07), Name (Name)
+{
+Stone Fence Rubble 07
+}
+
+STRING 1306
+// Doodads: D67J (Stone Fence Rubble 06), Name (Name)
+{
+Stone Fence Rubble 06
+}
+
+STRING 1307
+// Doodads: D67K (Stone Fence Rubble 05), Name (Name)
+{
+Stone Fence Rubble 05
+}
+
+STRING 1308
+// Doodads: D67L (Stone Fence Rubble 08), Name (Name)
+{
+Stone Fence Rubble 08
+}
+
+STRING 1309
+// Doodads: D67M (Stone Fence Rubble 09), Name (Name)
+{
+Stone Fence Rubble 09
+}
+
+STRING 1310
+// Doodads: D67N (Stone Fence Rubble 11), Name (Name)
+{
+Stone Fence Rubble 11
+}
+
+STRING 1311
+// Doodads: D67O (Stone Fence Rubble 10), Name (Name)
+{
+Stone Fence Rubble 10
+}
+
+STRING 1312
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1313
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1314
+// Doodads: D697 (Wisp Explode Effect), Name (Name)
+{
+Wisp Explode Effect
+}
+
+STRING 1315
+// Doodads: D698 (Green Acid Effect), Name (Name)
+{
+Green Acid Effect
+}
+
+STRING 1316
+// Doodads: D699 (Flying Skull FX), Name (Name)
+{
+Flying Skull FX
+}
+
+STRING 1317
+// Doodads: D69A (Tranquility), Name (Name)
+{
+Tranquility
+}
+
+STRING 1318
+// Doodads: D69B (Cloud), Name (Name)
+{
+Cloud
+}
+
+STRING 1319
+// Doodads: D69C (Plague), Name (Name)
+{
+Plague
+}
+
+STRING 1320
+// Doodads: D69D (Frenzy), Name (Name)
+{
+Frenzy
+}
+
+STRING 1321
+// Doodads: D69E (Demonic Aura), Name (Name)
+{
+Demonic Aura
+}
+
+STRING 1322
+// Doodads: D69F (Floor Magic Painting), Name (Name)
+{
+Floor Magic Painting
+}
+
+STRING 1323
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Star leaves
+}
+
+STRING 1324
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+Dalaran Building Pathless
+}
+
+STRING 1325
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1326
+// Doodads: D69S (Door), Name (Name)
+{
+Door
+}
+
+STRING 1327
+// Doodads: D69T (Glass Window 2), Name (Name)
+{
+Glass Window 2
+}
+
+STRING 1328
+// Doodads: D69U (Glass Window), Name (Name)
+{
+Glass Window
+}
+
+STRING 1329
+// Doodads: D6A4 (Altar Doodad), Name (Name)
+{
+Altar Doodad
+}
+
+STRING 1330
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+Single Column Pathless
+}
+
+STRING 1331
+// Doodads: D6A6 (Archway Pathless), Name (Name)
+{
+Archway Pathless
+}
+
+STRING 1332
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+House Doodad
+}
+
+STRING 1333
+// Doodads: D6A8 (Sky Storm), Name (Name)
+{
+Sky Storm
+}
+
+STRING 1334
+// Doodads: D6A9 (Sky Cloud 2), Name (Name)
+{
+Sky Cloud 2
+}
+
+STRING 1335
+// Doodads: D6AA (Sky Cloud 3), Name (Name)
+{
+Sky Cloud 3
+}
+
+STRING 1336
+// Doodads: D6AB (Sky Cloud), Name (Name)
+{
+Sky Cloud
+}
+
+STRING 1337
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1338
+// Doodads: D6AD (Fog), Name (Name)
+{
+Fog
+}
+
+STRING 1339
+// Doodads: D6AE (Light), Name (Name)
+{
+Light
+}
+
+STRING 1340
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1341
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1342
+// Doodads: D6AH (Alternatice Lava Cracks), Name (Name)
+{
+Alternatice Lava Cracks
+}
+
+STRING 1343
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Wasteland Bush
+}
+
+STRING 1344
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+Capital City Tower 2
+}
+
+STRING 1345
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+Capital City Dome
+}
+
+STRING 1346
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+Capital City Spire
+}
+
+STRING 1347
+// Doodads: D6AP (City Archway), Name (Name)
+{
+City Archway
+}
+
+STRING 1348
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+Capital City Tower
+}
+
+STRING 1349
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1350
+// Doodads: D6B2 (Dwarven Archway), Name (Name)
+{
+Dwarven Archway
+}
+
+STRING 1351
+// Doodads: D6B3 (Moria Archway), Name (Name)
+{
+Moria Archway
+}
+
+STRING 1352
+// Doodads: D6B9 (Underground Rock 01), Name (Name)
+{
+Underground Rock 01
+}
+
+STRING 1353
+// Doodads: D6BA (Underground Rock 02), Name (Name)
+{
+Underground Rock 02
+}
+
+STRING 1354
+// Doodads: D6BB (Underground Rock 03), Name (Name)
+{
+Underground Rock 03
+}
+
+STRING 1355
+// Doodads: D6BC (Underground Rock 04), Name (Name)
+{
+Underground Rock 04
+}
+
+STRING 1356
+// Doodads: D6BD (Underground Rock 05), Name (Name)
+{
+Underground Rock 05
+}
+
+STRING 1357
+// Doodads: D6BE (Underground Rock 06), Name (Name)
+{
+Underground Rock 06
+}
+
+STRING 1358
+// Doodads: D6BF (Underground Rock 07), Name (Name)
+{
+Underground Rock 07
+}
+
+STRING 1359
+// Doodads: D6BG (Underground Rock 08), Name (Name)
+{
+Underground Rock 08
+}
+
+STRING 1360
+// Doodads: D6BH (Underground Rock 09), Name (Name)
+{
+Underground Rock 09
+}
+
+STRING 1361
+// Doodads: D6BL (Gold), Name (Name)
+{
+Gold
+}
+
+STRING 1362
+// Doodads: D6BM (Railroad), Name (Name)
+{
+Railroad
+}
+
+STRING 1363
+// Doodads: D6BN (Railroad Curve), Name (Name)
+{
+Railroad Curve
+}
+
+STRING 1364
+// Doodads: D6BO (Railroad End), Name (Name)
+{
+Railroad End
+}
+
+STRING 1365
+// Doodads: D6BP (Railroad Branch 02), Name (Name)
+{
+Railroad Branch 02
+}
+
+STRING 1366
+// Doodads: D6BQ (Railroad Branch), Name (Name)
+{
+Railroad Branch
+}
+
+STRING 1367
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Glow Small
+}
+
+STRING 1368
+// Doodads: D6BS (Dirt Explosion), Name (Name)
+{
+Dirt Explosion
+}
+
+STRING 1369
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fountain
+}
+
+STRING 1370
+// Doodads: D6BV (Leaves Fall Dowm), Name (Name)
+{
+Leaves Fall Dowm
+}
+
+STRING 1371
+// Doodads: D6BW (Mage Statue), Name (Name)
+{
+Mage Statue
+}
+
+STRING 1372
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Circle of Power
+}
+
+STRING 1373
+// Doodads: D6CG (Volcano Ashes), Name (Name)
+{
+Volcano Ashes
+}
+
+STRING 1374
+// Doodads: D6CI (City Portal Doodad), Name (Name)
+{
+City Portal Doodad
+}
+
+STRING 1375
+// Doodads: D6CL (Wood Supply), Name (Name)
+{
+Wood Supply
+}
+
+STRING 1376
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1377
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1378
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1379
+// Doodads: D6CT (Orc Grave Stone), Name (Name)
+{
+Orc Grave Stone
+}
+
+STRING 1380
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1381
+// Doodads: D6CW (Column Semi Circle Pathless), Name (Name)
+{
+Column Semi Circle Pathless
+}
+
+STRING 1382
+// Doodads: D6CX (Stone Fence Small), Name (Name)
+{
+Stone Fence Small
+}
+
+STRING 1383
+// Doodads: D6CZ (Night Elves Banner), Name (Name)
+{
+Night Elves Banner
+}
+
+STRING 1384
+// Doodads: D6D6 (Plaugerlands Cage), Name (Name)
+{
+Plaugerlands Cage
+}
+
+STRING 1385
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1386
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1387
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1388
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1389
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1390
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1391
+// Doodads: D6DF (Web Flat), Name (Name)
+{
+Web Flat
+}
+
+STRING 1392
+// Doodads: D6DG (Web), Name (Name)
+{
+Web
+}
+
+STRING 1393
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+Dalaran Banner
+}
+
+STRING 1394
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+StromGarde Banner
+}
+
+STRING 1395
+// Doodads: D6DQ (Burning Blade Banner), Name (Name)
+{
+Burning Blade Banner
+}
+
+STRING 1396
+// Doodads: D6DS (LavaFall), Name (Name)
+{
+LavaFall
+}
+
+STRING 1397
+// Doodads: D6DT (Big Castle Doodad), Name (Name)
+{
+Big Castle Doodad
+}
+
+STRING 1398
+// Doodads: D6DW (Wall Long Doodad), Name (Name)
+{
+Wall Long Doodad
+}
+
+STRING 1399
+// Doodads: D6DX (Wall castle short), Name (Name)
+{
+Wall castle short
+}
+
+STRING 1400
+// Doodads: D6E0 (Wall Pillar), Name (Name)
+{
+Wall Pillar
+}
+
+STRING 1401
+// Doodads: D6E1 (Wall Door Big), Name (Name)
+{
+Wall Door Big
+}
+
+STRING 1402
+// Doodads: D6E2 (Wall Door Grate), Name (Name)
+{
+Wall Door Grate
+}
+
+STRING 1403
+// Doodads: D6E3 (Wall Door Small), Name (Name)
+{
+Wall Door Small
+}
+
+STRING 1404
+// Doodads: D6E4 (Wall Door Tall Passage), Name (Name)
+{
+Wall Door Tall Passage
+}
+
+STRING 1405
+// Doodads: D6E5 (Wall Niche), Name (Name)
+{
+Wall Niche
+}
+
+STRING 1406
+// Doodads: D6E6 (Wall Pillar), Name (Name)
+{
+Wall Pillar
+}
+
+STRING 1407
+// Doodads: D6E7 (Wall Torch), Name (Name)
+{
+Wall Torch
+}
+
+STRING 1408
+// Doodads: D6E8 (Wall with Window), Name (Name)
+{
+Wall with Window
+}
+
+STRING 1409
+// Doodads: D6E9 (Wall with Grate), Name (Name)
+{
+Wall with Grate
+}
+
+STRING 1410
+// Doodads: D6EA (Window Royal Glass), Name (Name)
+{
+Window Royal Glass
+}
+
+STRING 1411
+// Doodads: D6EB (Door Doodad), Name (Name)
+{
+Door Doodad
+}
+
+STRING 1412
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+Capital City Structure Block
+}
+
+STRING 1413
+// Doodads: D6EE (Chest), Name (Name)
+{
+Chest
+}
+
+STRING 1414
+// Doodads: D6EF (Horde Chest), Name (Name)
+{
+Horde Chest
+}
+
+STRING 1415
+// Doodads: D6EG (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 1416
+// Doodads: D6EH (Book 01), Name (Name)
+{
+Book 01
+}
+
+STRING 1417
+// Doodads: D6EI (Book 02), Name (Name)
+{
+Book 02
+}
+
+STRING 1418
+// Doodads: D6EJ (Book 03), Name (Name)
+{
+Book 03
+}
+
+STRING 1419
+// Doodads: D6EK (Book 04), Name (Name)
+{
+Book 04
+}
+
+STRING 1420
+// Doodads: D6EL (Book 05a), Name (Name)
+{
+Book 05a
+}
+
+STRING 1421
+// Doodads: D6EM (Book 05d), Name (Name)
+{
+Book 05d
+}
+
+STRING 1422
+// Doodads: D6EN (Book 05c), Name (Name)
+{
+Book 05c
+}
+
+STRING 1423
+// Doodads: D6EO (Book 05), Name (Name)
+{
+Book 05
+}
+
+STRING 1424
+// Doodads: D6EP (Book 05e), Name (Name)
+{
+Book 05e
+}
+
+STRING 1425
+// Doodads: D6EQ (Book 06), Name (Name)
+{
+Book 06
+}
+
+STRING 1426
+// Doodads: D6ER (Book 06b), Name (Name)
+{
+Book 06b
+}
+
+STRING 1427
+// Doodads: D6ES (Book 06C), Name (Name)
+{
+Book 06C
+}
+
+STRING 1428
+// Doodads: D6ET (Book 06d), Name (Name)
+{
+Book 06d
+}
+
+STRING 1429
+// Doodads: D6EU (Book 06e), Name (Name)
+{
+Book 06e
+}
+
+STRING 1430
+// Doodads: D6EV (Book 06), Name (Name)
+{
+Book 06
+}
+
+STRING 1431
+// Doodads: D6EW (Book 06g), Name (Name)
+{
+Book 06g
+}
+
+STRING 1432
+// Doodads: D6EX (Scroll 01), Name (Name)
+{
+Scroll 01
+}
+
+STRING 1433
+// Doodads: D6EY (Scroll 02), Name (Name)
+{
+Scroll 02
+}
+
+STRING 1434
+// Doodads: D6EZ (Cloth 01), Name (Name)
+{
+Cloth 01
+}
+
+STRING 1435
+// Doodads: D6F0 (Device), Name (Name)
+{
+Device
+}
+
+STRING 1436
+// Doodads: D6F1 (Cloth Red), Name (Name)
+{
+Cloth Red
+}
+
+STRING 1437
+// Doodads: D6F2 (Cloth Blue), Name (Name)
+{
+Cloth Blue
+}
+
+STRING 1438
+// Doodads: D6F3 (Cloth 02), Name (Name)
+{
+Cloth 02
+}
+
+STRING 1439
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1440
+// Doodads: D6F8 (Lightning Branched), Name (Name)
+{
+Lightning Branched
+}
+
+STRING 1441
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1442
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1443
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Winter Crate snow
+}
+
+STRING 1444
+// Doodads: D6FQ (Winter Snow Roadplank 3), Name (Name)
+{
+Winter Snow Roadplank 3
+}
+
+STRING 1445
+// Doodads: D6FR (Winter Snow Roadplank 4), Name (Name)
+{
+Winter Snow Roadplank 4
+}
+
+STRING 1446
+// Doodads: D6FS (Winter Snow Roadplank 2), Name (Name)
+{
+Winter Snow Roadplank 2
+}
+
+STRING 1447
+// Doodads: D6FT (Log Pile Winter), Name (Name)
+{
+Log Pile Winter
+}
+
+STRING 1448
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Winter Bush 4
+}
+
+STRING 1449
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1450
+// Doodads: D6G6 (Wasteland Rock 1), Name (Name)
+{
+Wasteland Rock 1
+}
+
+STRING 1451
+// Doodads: D6G7 (Wasteland Rock Small D), Name (Name)
+{
+Wasteland Rock Small D
+}
+
+STRING 1452
+// Doodads: D6G8 (Wasteland Rock Small A), Name (Name)
+{
+Wasteland Rock Small A
+}
+
+STRING 1453
+// Doodads: D6G9 (Wasteland Rock Small B), Name (Name)
+{
+Wasteland Rock Small B
+}
+
+STRING 1454
+// Doodads: D6GA (Wasteland Rock Small C), Name (Name)
+{
+Wasteland Rock Small C
+}
+
+STRING 1455
+// Doodads: D6GB (Ancient Stone 1), Name (Name)
+{
+Ancient Stone 1
+}
+
+STRING 1456
+// Doodads: D6GC (Ancient Stone 2), Name (Name)
+{
+Ancient Stone 2
+}
+
+STRING 1457
+// Doodads: D6GD (Ancient Stone 3), Name (Name)
+{
+Ancient Stone 3
+}
+
+STRING 1458
+// Doodads: D6GE (Ancient Stone 4), Name (Name)
+{
+Ancient Stone 4
+}
+
+STRING 1459
+// Doodads: D6GF (Ancient Stone 5), Name (Name)
+{
+Ancient Stone 5
+}
+
+STRING 1460
+// Doodads: D6GG (Ancient Stone 6), Name (Name)
+{
+Ancient Stone 6
+}
+
+STRING 1461
+// Doodads: D6GH (Aurora Borealis 1), Name (Name)
+{
+Aurora Borealis 1
+}
+
+STRING 1462
+// Doodads: D6GI (Aurora Borealis 2), Name (Name)
+{
+Aurora Borealis 2
+}
+
+STRING 1463
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Orc Long Banner
+}
+
+STRING 1464
+// Doodads: D6GR (Shark), Name (Name)
+{
+Shark
+}
+
+STRING 1465
+// Doodads: D64B (Iron Forge Ext 01), Name (Name)
+{
+Iron Forge Ext 01
+}
+
+STRING 1466
+// Doodads: D64F (Iron Forge Ext 02), Name (Name)
+{
+Iron Forge Ext 02
+}
+
+STRING 1467
+// Doodads: D64G (Iron Forge Ext 03), Name (Name)
+{
+Iron Forge Ext 03
+}
+
+STRING 1468
+// Doodads: D64I (Iron Forge Ext 04), Name (Name)
+{
+Iron Forge Ext 04
+}
+
+STRING 1469
+// Doodads: D64K (LOD), Name (Name)
+{
+LOD
+}
+
+STRING 1470
+// Doodads: D64L (Dalaran LOD), Name (Name)
+{
+Dalaran LOD
+}
+
+STRING 1471
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1472
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1473
+// Doodads: D617 (Archway Stone Winter Pathless), Name (Name)
+{
+Archway Stone Winter Pathless
+}
+
+STRING 1474
+// Doodads: D60C (Wasteland Cliff Bottom), Name (Name)
+{
+Wasteland Cliff Bottom
+}
+
+STRING 1475
+// Doodads: D60F (Dungeon Cliff Bottom), Name (Name)
+{
+Dungeon Cliff Bottom
+}
+
+STRING 1476
+// Doodads: D60I (Dungeon Stone Basement), Name (Name)
+{
+Dungeon Stone Basement
+}
+
+STRING 1477
+// Doodads: D60B (Dungeon Wall Straight), Name (Name)
+{
+Dungeon Wall Straight
+}
+
+STRING 1478
+// Doodads: D60E (Dungeon Column Massive Round), Name (Name)
+{
+Dungeon Column Massive Round
+}
+
+STRING 1479
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1480
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1481
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1482
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1483
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+Refugee Banner
+}
+
+STRING 1484
+// Abilities: Absk (Rage), Name (Name)
+{
+Rage
+}
+
+STRING 1485
+// Abilities: Absk (Rage), Tip (Tooltip - Normal)
+{
+Rage (|cffffcc00B|r)
+}
+
+STRING 1486
+// Abilities: Astn (Stone Form), Unubertip (Tooltip - Turn Off - Extended)
+{
+Returns the Daemon to the air.
+}
+
+STRING 1487
+// Abilities: Astn (Stone Form), Ubertip (Tooltip - Normal - Extended)
+{
+Transforms the Daemon into a statue that is immune to spells, gains additional armor and has a regeneration rate of <Astn,DataE1> hit points per second. |nThe Daemon cannot attack in this form.
+}
+
+STRING 1488
+// Abilities: ACdc (Death Coil), EditorSuffix (Editor Suffix)
+{
+(Death Knight)
+}
+
+STRING 1489
+// Abilities: AUcs (Fel Fire), Name (Name)
+{
+Fel Fire
+}
+
+STRING 1490
+// Abilities: AOw2 (War Stomp), EditorSuffix (Editor Suffix)
+{
+(Chogall)
+}
+
+STRING 1491
+// Abilities: AOls (Voodoo Spirits), Tip (Tooltip - Normal)
+{
+Зоркость берсерка (|cffffcc00B|r)
+}
+
+STRING 1492
+// Abilities: AOsh (Shockwave), EditorSuffix (Editor Suffix)
+{
+(Ogre Mage)
+}
+
+STRING 1493
+// Abilities: ANsw (Summon Hawk), EditorSuffix (Editor Suffix)
+{
+(Ranger)
+}
+
+STRING 1494
+// Abilities: Agyv (Telescope), Name (Name)
+{
+Telescope
+}
+
+STRING 1495
+// Abilities: Agyv (Telescope), Tip (Tooltip - Normal)
+{
+Telescope
+}
+
+STRING 1498
+// Units: n004 (Pack Alpha), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1499
+// Units: n006 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1500
+// Abilities: A000 (Flying Machine Bombs), Ubertip (Tooltip - Normal - Extended)
+{
+Zeppelin throws bombs on ground units
+}
+
+STRING 1501
+// Abilities: A000 (Flying Machine Bombs), EditorSuffix (Editor Suffix)
+{
+(Zeppelin)
+}
+
+STRING 1502
+// Abilities: A001 (Unholy Armor), Name (Name)
+{
+Unholy Armor
+}
+
+STRING 1503
+// Abilities: A001 (Unholy Armor), Tip (Tooltip - Normal)
+{
+Unholy Armor (|cffffcc00N|r)
+}
+
+STRING 1504
+// Abilities: A001 (Unholy Armor), EditorSuffix (Editor Suffix)
+{
+(Deathknight2x)
+}
+
+STRING 1505
+// Abilities: A003 (Whirlwind), Name (Name)
+{
+Whirlwind
+}
+
+STRING 1506
+// Abilities: A002 (Haste), Name (Name)
+{
+Haste
+}
+
+STRING 1507
+// Abilities: A002 (Haste), Tip (Tooltip - Normal)
+{
+Haste (|cffffcc00F|r)
+}
+
+STRING 1508
+// Abilities: A002 (Haste), Ubertip (Tooltip - Normal - Extended)
+{
+Upgrades target's movement speed and attack rate
+}
+
+STRING 1509
+// Abilities: A002 (Haste), EditorSuffix (Editor Suffix)
+{
+(DeathKnight2x)
+}
+
+STRING 1511
+// Abilities: A005 (Eye of Killrog), Name (Name)
+{
+Eye of Killrog
+}
+
+STRING 1512
+// Abilities: A005 (Eye of Killrog), Researchubertip (Tooltip - Learn - Extended)
+{
+Вызов магического Ока, созданного одним из могущественнейших вождей орды, и названным в его честь.
+}
+
+STRING 1513
+// Abilities: A005 (Eye of Killrog), Tip (Tooltip - Normal)
+{
+Eye of Kilrogg
+}
+
+STRING 1514
+// Abilities: A005 (Eye of Killrog), Ubertip (Tooltip - Normal - Extended)
+{
+Summons an Eye of Kilrog, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur1> seconds.
+}
+
+STRING 1515
+// Abilities: A009 (Fire Bolt), EditorSuffix (Editor Suffix)
+{
+(Mage)
+}
+
+STRING 1516
+// Abilities: A009 (Fire Bolt), Name (Name)
+{
+Fire Bolt
+}
+
+STRING 1517
+// Abilities: A009 (Fire Bolt), Tip (Tooltip - Normal)
+{
+Fire Bolt
+}
+
+STRING 1518
+// Abilities: A00A (Slow), EditorSuffix (Editor Suffix)
+{
+(Mage)
+}
+
+STRING 1519
+// Abilities: A00B (Invisibility), EditorSuffix (Editor Suffix)
+{
+(Mage)
+}
+
+STRING 1520
+// Abilities: A00C (Polymorph), EditorSuffix (Editor Suffix)
+{
+(Mage)
+}
+
+STRING 1521
+// Upgrades: R00I (Mark of the Talon), Name (Name)
+{
+Polymorph
+}
+
+STRING 1523
+// Abilities: S001 (Paladin), Name (Name)
+{
+Paladin
+}
+
+STRING 1524
+// Abilities: A00D (Holy Vision), Name (Name)
+{
+Holy Vision
+}
+
+STRING 1525
+// Abilities: A00D (Holy Vision), Tip (Tooltip - Normal)
+{
+Holy Vision
+}
+
+STRING 1526
+// Abilities: A600 (Submerge), EditorSuffix (Editor Suffix)
+{
+(Submarine)
+}
+
+STRING 1527
+// Abilities: A600 (Submerge), Ubertip (Tooltip - Normal - Extended)
+{
+Submarine goes down underwater, becoming invisible for hostile units.
+}
+
+STRING 1528
+// Abilities: A600 (Submerge), Unubertip (Tooltip - Turn Off - Extended)
+{
+Submarine bobs up to water surface.
+}
+
+STRING 1529
+// Abilities: A604 (Death Coil), EditorSuffix (Editor Suffix)
+{
+(DeathKnight2X)
+}
+
+STRING 1530
+// Abilities: A605 (Unholy Armor), Name (Name)
+{
+Unholy Armor
+}
+
+STRING 1531
+// Abilities: A605 (Unholy Armor), Tip (Tooltip - Normal)
+{
+Unholy Armor
+}
+
+STRING 1532
+// Abilities: A606 (Haste), Name (Name)
+{
+Haste
+}
+
+STRING 1533
+// Abilities: A606 (Haste), Tip (Tooltip - Normal)
+{
+Haste
+}
+
+STRING 1534
+// Abilities: A606 (Haste), Ubertip (Tooltip - Normal - Extended)
+{
+Upgrades target's movement speed and attack rate
+}
+
+STRING 1535
+// Abilities: A607 (Life Drain), EditorSuffix (Editor Suffix)
+{
+(Deathknight2X)
+}
+
+STRING 1536
+// Abilities: A607 (Life Drain), Tip (Tooltip - Normal)
+{
+Drain Life (|cffffcc00V|r) 
+}
+
+STRING 1537
+// Abilities: A608 (Whirlwind), Name (Name)
+{
+Whirlwind
+}
+
+STRING 1538
+// Abilities: A608 (Whirlwind), EditorSuffix (Editor Suffix)
+{
+(DeathKnight2x)
+}
+
+STRING 1539
+// Abilities: A608 (Whirlwind), Tip (Tooltip - Normal)
+{
+Whirlwind
+}
+
+STRING 1540
+// Abilities: S600 (Death And Decay), EditorSuffix (Editor Suffix)
+{
+(DeathKnight2x)
+}
+
+STRING 1541
+// Abilities: A609 (Submerge), Ubertip (Tooltip - Normal - Extended)
+{
+Turtle goes down beneath the water, becoming invisible.
+}
+
+STRING 1542
+// Abilities: A609 (Submerge), Unubertip (Tooltip - Turn Off - Extended)
+{
+Turtle pops up from the depths.
+}
+
+STRING 1543
+// Abilities: A60A (Telescope), EditorSuffix (Editor Suffix)
+{
+ (Submarine)
+}
+
+STRING 1544
+// Abilities: A60A (Telescope), Name (Name)
+{
+Telescope
+}
+
+STRING 1545
+// Abilities: A60A (Telescope), Tip (Tooltip - Normal)
+{
+Telescope (|cffffcc00I|R)
+}
+
+STRING 1546
+// Abilities: A602 (Spirit Revival), Name (Name)
+{
+Spirit Revival
+}
+
+STRING 1547
+// Abilities: A602 (Spirit Revival), Tip (Tooltip - Normal)
+{
+Spirit Revival
+}
+
+STRING 1548
+// Abilities: A60B (Fire of Doom), Name (Name)
+{
+Fire of Doom
+}
+
+STRING 1549
+// Abilities: A60C (Ambush), Name (Name)
+{
+Ambush
+}
+
+STRING 1550
+// Abilities: A60D (Blind), Name (Name)
+{
+Blind
+}
+
+STRING 1551
+// Abilities: A60D (Blind), Researchtip (Tooltip - Learn)
+{
+Learn «Blind» [|cffffcc00%d Level|r]
+}
+
+STRING 1552
+// Abilities: A60D (Blind), Tip (Tooltip - Normal)
+{
+Blind [|cffffcc00Level 1|r]
+}
+
+STRING 1553
+// Abilities: A60D (Blind), Tip (Tooltip - Normal)
+{
+Blind [|cffffcc00Level 2|r]
+}
+
+STRING 1554
+// Abilities: A60D (Blind), Tip (Tooltip - Normal)
+{
+Blind [|cffffcc00Level 3|r]
+}
+
+STRING 1555
+// Abilities: A60D (Blind), EditorSuffix (Editor Suffix)
+{
+(Ranger)
+}
+
+STRING 1556
+// Abilities: A60E (Exorcism), Name (Name)
+{
+Exorcism
+}
+
+STRING 1557
+// Abilities: A60E (Exorcism), Researchtip (Tooltip - Learn)
+{
+Экзорцизм, [|cffffcc00Уровень %d|r] (|cffffcc00T|r)
+}
+
+STRING 1558
+// Abilities: A60E (Exorcism), Researchhotkey (Hotkey - Learn)
+{
+Увеличение поля зрения берсерка.
+}
+
+STRING 1559
+// Abilities: A60E (Exorcism), Researchubertip (Tooltip - Learn - Extended)
+{
+Поток святой энергии наносит урон враждебной нежити.|n|n|cffffcc00Уровень 1|r - Наносит 100 ед. урона.|n|cffffcc00Уровень 2|r - Наносит 200 ед. урона.|n|cffffcc00Уровень 3|r - Наносит 300 ед. урона.
+}
+
+STRING 1560
+// Abilities: A60E (Exorcism), Tip (Tooltip - Normal)
+{
+Экзорцизм, [|cffffcc00Уровень 2|r] (|cffffcc00T|r)
+}
+
+STRING 1561
+// Abilities: A60E (Exorcism), Tip (Tooltip - Normal)
+{
+Экзорцизм, [|cffffcc00Уровень 3|r] (|cffffcc00T|r)
+}
+
+STRING 1562
+// Abilities: A60E (Exorcism), Ubertip (Tooltip - Normal - Extended)
+{
+Holy energy inflicts <DataA1,> damage to hostile undead.
+}
+
+STRING 1563
+// Abilities: A60E (Exorcism), Ubertip (Tooltip - Normal - Extended)
+{
+Поток святой энергии наносит 200 ед. урона враждебной нежити.
+}
+
+STRING 1564
+// Abilities: A60E (Exorcism), Ubertip (Tooltip - Normal - Extended)
+{
+Поток святой энергии наносит 300 ед. урона враждебной нежити.
+}
+
+STRING 1565
+// Abilities: A60E (Exorcism), Tip (Tooltip - Normal)
+{
+Exorcism
+}
+
+STRING 1566
+// Abilities: A60F (Silvermoon Blessing), Name (Name)
+{
+Silvermoon Blessing
+}
+
+STRING 1567
+// Abilities: A60F (Silvermoon Blessing), Tip (Tooltip - Normal)
+{
+Silvermoon Blessing
+}
+
+STRING 1568
+// Abilities: A60F (Silvermoon Blessing), Ubertip (Tooltip - Normal - Extended)
+{
+The warrior’s attack speed increases by <Absk, DataB1,%>%, however the damage done to this warrior increases by <Absk, DataC1,%>%.
+}
+
+STRING 1569
+// Abilities: A60G (Nets), Name (Name)
+{
+Nets
+}
+
+STRING 1570
+// Abilities: A60G (Nets), Tip (Tooltip - Normal)
+{
+Nets (|cffffcc00E|r)
+}
+
+STRING 1571
+// Abilities: A60G (Nets), Ubertip (Tooltip - Normal - Extended)
+{
+Magic networks of Kel-Talas masters. A caught flying creature falls to the ground, where it can be attacked by ground troops..|nDuration - <Aens,Dur1> sec.
+}
+
+STRING 1572
+// Abilities: A60M (Berserk), EditorSuffix (Editor Suffix)
+{
+(Zul-Jin)
+}
+
+STRING 1584
+// Units: n009 (Rends Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1590
+// Abilities: S602 (Endurance Aura), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1591
+// Abilities: A60T (Missle Launch), Name (Name)
+{
+Missle Launch
+}
+
+STRING 1592
+// Abilities: A60T (Missle Launch), Tip (Tooltip - Normal)
+{
+Missle Launch
+}
+
+STRING 1593
+// Abilities: A60T (Missle Launch), Ubertip (Tooltip - Normal - Extended)
+{
+Unleashes missile strikes on nearby enemies. Each wave deals <AEsf, DataA1> damage. | nDuration: <AEsf, Dur1> sec.
+}
+
+STRING 1594
+// Abilities: A60V (Healing), Name (Name)
+{
+Healing
+}
+
+STRING 1595
+// Abilities: A60V (Healing), EditorSuffix (Editor Suffix)
+{
+(Paladin)
+}
+
+STRING 1596
+// Abilities: A60V (Healing), Tip (Tooltip - Normal)
+{
+Healing
+}
+
+STRING 1600
+// Abilities: A62F (Change Stance), Name (Name)
+{
+Change Stance
+}
+
+STRING 1606
+// Abilities: A60Y (Harvest Oil), Name (Name)
+{
+Harvest Oil
+}
+
+STRING 1607
+// Abilities: A60Y (Harvest Oil), Tip (Tooltip - Normal)
+{
+Harvest Oil
+}
+
+STRING 1608
+// Abilities: A60Y (Harvest Oil), Ubertip (Tooltip - Normal - Extended)
+{
+Harvest Oil from nearest Oil Rig
+}
+
+STRING 1609
+// Abilities: A60Y (Harvest Oil), Unubertip (Tooltip - Turn Off - Extended)
+{
+Returns Oil to the nearest Wharph or Refinery
+}
+
+STRING 1610
+// Abilities: A60Y (Harvest Oil), Untip (Tooltip - Turn Off)
+{
+Return Oil
+}
+
+STRING 1617
+// Abilities: A60L (Ensnare), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1618
+// Abilities: A616 (Summon Daemon), EditorSuffix (Editor Suffix)
+{
+(Chogal)
+}
+
+STRING 1619
+// Abilities: A616 (Summon Daemon), Name (Name)
+{
+Summon Daemon
+}
+
+STRING 1620
+// Abilities: A616 (Summon Daemon), Tip (Tooltip - Normal)
+{
+Summon Daemon
+}
+
+STRING 1621
+// Abilities: A616 (Summon Daemon), Tip (Tooltip - Normal)
+{
+Summon Daemon
+}
+
+STRING 1622
+// Abilities: A616 (Summon Daemon), Tip (Tooltip - Normal)
+{
+Summon Daemon
+}
+
+STRING 1623
+// Abilities: A616 (Summon Daemon), Ubertip (Tooltip - Normal - Extended)
+{
+Summons <ANwm,DataA3> minions to do their master's bidding. |nLasts <ANwm,Dur3> seconds.
+}
+
+STRING 1624
+// Abilities: A616 (Summon Daemon), Ubertip (Tooltip - Normal - Extended)
+{
+Summons <ANwm,DataA2> minions to do their master's bidding. |nLasts <ANwm,Dur2> seconds.
+}
+
+STRING 1625
+// Upgrades: R004 (Brute Strength), effect1 (Effect 1)
+{
+rsig
+}
+
+STRING 1626
+// Abilities: A00N (Blackrock & Roll), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1627
+// Upgrades: R002 (Mark of the Claw), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1629
+// Abilities: A62F (Change Stance), EditorSuffix (Editor Suffix)
+{
+(Deathwing)
+}
+
+STRING 1631
+// Abilities: A610 (Construction Set), Unubertip (Tooltip - Turn Off - Extended)
+{
+Peons build regular Horde buildings.
+}
+
+STRING 1632
+// Abilities: A610 (Construction Set), Untip (Tooltip - Turn Off)
+{
+Regular Buildings
+}
+
+STRING 1633
+// Abilities: A610 (Construction Set), Name (Name)
+{
+Construction Set
+}
+
+STRING 1634
+// Abilities: A610 (Construction Set), Tip (Tooltip - Normal)
+{
+Advanced Buildings
+}
+
+STRING 1635
+// Abilities: A610 (Construction Set), Ubertip (Tooltip - Normal - Extended)
+{
+Peons build advanced Horde buildings.
+}
+
+STRING 1636
+// Abilities: A610 (Construction Set), EditorSuffix (Editor Suffix)
+{
+(Orc)
+}
+
+STRING 1637
+// Abilities: A61B (Construction Set), Name (Name)
+{
+Construction Set
+}
+
+STRING 1638
+// Abilities: A61B (Construction Set), Unubertip (Tooltip - Turn Off - Extended)
+{
+Peasants build regular Alliance buildings.
+}
+
+STRING 1639
+// Abilities: A61B (Construction Set), Untip (Tooltip - Turn Off)
+{
+Build Regular buildings
+}
+
+STRING 1640
+// Abilities: A61B (Construction Set), Ubertip (Tooltip - Normal - Extended)
+{
+Peasants build advanced Alliance buildings.
+}
+
+STRING 1641
+// Abilities: A61B (Construction Set), Hotkey (Hotkey - Normal)
+{
+A
+}
+
+STRING 1642
+// Abilities: A61B (Construction Set), Unhotkey (Hotkey - Turn Off)
+{
+A
+}
+
+STRING 1643
+// Abilities: A61B (Construction Set), Tip (Tooltip - Normal)
+{
+Build Advanced buildings
+}
+
+STRING 1644
+// Abilities: A61B (Construction Set), EditorSuffix (Editor Suffix)
+{
+(Human)
+}
+
+STRING 1645
+// Abilities: A61C (Throw Axe), Name (Name)
+{
+Throw Axe
+}
+
+STRING 1646
+// Abilities: A00G (Rend), Name (Name)
+{
+Rend
+}
+
+STRING 1647
+// Abilities: A00Q (Rend), Researchtip (Tooltip - Learn)
+{
+Learn Rend - [|cffffcc00Level %d|r]
+}
+
+STRING 1648
+// Abilities: A00O (Devastate), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1649
+// Abilities: A00Q (Rend), Tip (Tooltip - Normal)
+{
+Rend - [|cffffcc00Level 1|r]
+}
+
+STRING 1650
+// Abilities: A00Q (Rend), Tip (Tooltip - Normal)
+{
+Rend - [|cffffcc00Level 3|r]
+}
+
+STRING 1651
+// Abilities: A00Q (Rend), Tip (Tooltip - Normal)
+{
+Rend - [|cffffcc00Level 2|r]
+}
+
+STRING 1656
+// Abilities: A642 (Lightning Bolt), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 1657
+// Abilities: A00Q (Rend), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 1658
+// Abilities: S603 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Flying Machine)
+}
+
+STRING 1659
+// Abilities: A61E (Load), EditorSuffix (Editor Suffix)
+{
+(Flying Machine)
+}
+
+STRING 1660
+// Abilities: A61F (Unload), EditorSuffix (Editor Suffix)
+{
+(Flying Machine)
+}
+
+STRING 1661
+// Abilities: A61G (Land Mine), Name (Name)
+{
+Land Mine
+}
+
+STRING 1662
+// Abilities: A61G (Land Mine), EditorSuffix (Editor Suffix)
+{
+(Goblin Sappers)
+}
+
+STRING 1663
+// Abilities: A61G (Land Mine), Tip (Tooltip - Normal)
+{
+Land Mines
+}
+
+STRING 1664
+// Abilities: A61G (Land Mine), Ubertip (Tooltip - Normal - Extended)
+{
+Goblin Sappers can set Land Mine
+}
+
+STRING 1665
+// Abilities: A61H (Land Mine), Name (Name)
+{
+Land Mine
+}
+
+STRING 1666
+// Abilities: A61H (Land Mine), EditorSuffix (Editor Suffix)
+{
+(Dwarven Demolition)
+}
+
+STRING 1667
+// Abilities: A61H (Land Mine), Ubertip (Tooltip - Normal - Extended)
+{
+Demolition Squad sets the land mine.
+}
+
+STRING 1668
+// Abilities: A61H (Land Mine), Tip (Tooltip - Normal)
+{
+Land Mine
+}
+
+STRING 1671
+// Abilities: A61J (Eye of Kilrog), Name (Name)
+{
+Eye of Kilrog
+}
+
+STRING 1672
+// Abilities: A61J (Eye of Kilrog), Researchubertip (Tooltip - Learn - Extended)
+{
+Стальные ядра катапульт
+}
+
+STRING 1673
+// Abilities: A61J (Eye of Kilrog), Ubertip (Tooltip - Normal - Extended)
+{
+Summons an Eye of Kilrog, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur1> seconds.
+}
+
+STRING 1674
+// Abilities: A61J (Eye of Kilrog), EditorSuffix (Editor Suffix)
+{
+(Chogal)
+}
+
+STRING 1675
+// Abilities: A61J (Eye of Kilrog), Tip (Tooltip - Normal)
+{
+Eye of Kilrogg
+}
+
+STRING 1676
+// Abilities: A61S (Forest Spirits), Name (Name)
+{
+Forest Spirits
+}
+
+STRING 1677
+// Abilities: A61S (Forest Spirits), EditorSuffix (Editor Suffix)
+{
+(Ranger)
+}
+
+STRING 1678
+// Abilities: A61S (Forest Spirits), Tip (Tooltip - Normal)
+{
+Forest Spirits
+}
+
+STRING 1679
+// Abilities: A61S (Forest Spirits), Researchtip (Tooltip - Learn)
+{
+Learn «Forest Spirits»
+}
+
+STRING 1680
+// Abilities: A61V (Second Breath), Name (Name)
+{
+Second Breath
+}
+
+STRING 1681
+// Abilities: A61V (Second Breath), EditorSuffix (Editor Suffix)
+{
+(Danath)
+}
+
+STRING 1682
+// Abilities: A61V (Second Breath), Researchtip (Tooltip - Learn)
+{
+Learn «Second Breath»
+}
+
+STRING 1683
+// Abilities: A61V (Second Breath), Tip (Tooltip - Normal)
+{
+Second Breath
+}
+
+STRING 1684
+// Abilities: A61Y (Warrior Rage), EditorSuffix (Editor Suffix)
+{
+(Warrior)
+}
+
+STRING 1685
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 1|r]
+}
+
+STRING 1686
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 2|r]
+}
+
+STRING 1687
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Warrior Rage [|cffffcc00Level 3|r]
+}
+
+STRING 1688
+// Abilities: A61Y (Warrior Rage), Researchtip (Tooltip - Learn)
+{
+Learn «Warrior Rage» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 1689
+// Abilities: A61Y (Warrior Rage), Name (Name)
+{
+Warrior Rage
+}
+
+STRING 1690
+// Abilities: A620 (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura
+}
+
+STRING 1691
+// Abilities: A620 (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Gives extra damage to the attacks of nearby friendly units.
+}
+
+STRING 1692
+// Abilities: A620 (Command Aura), Tip (Tooltip - Normal)
+{
+Command Aura
+}
+
+STRING 1694
+// Abilities: A620 (Command Aura), EditorSuffix (Editor Suffix)
+{
+(Warrior)
+}
+
+STRING 1695
+// Abilities: A620 (Command Aura), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 1696
+// Abilities: A620 (Command Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Gives extra damage to the attacks of nearby friendly units.
+}
+
+STRING 1697
+// Abilities: A621 (Warrior's Taunt), Name (Name)
+{
+Warrior's Taunt
+}
+
+STRING 1698
+// Abilities: A621 (Warrior's Taunt), Tip (Tooltip - Normal)
+{
+Warrior's Taunt [|cffffcc00Level 3|r]
+}
+
+STRING 1699
+// Abilities: A621 (Warrior's Taunt), Researchtip (Tooltip - Learn)
+{
+Learn «Warrior's Taunt» [|cffffcc00%d Level|r]
+}
+
+STRING 1700
+// Abilities: A621 (Warrior's Taunt), Tip (Tooltip - Normal)
+{
+Warrior's Taunt [|cffffcc00Level 1|r]
+}
+
+STRING 1701
+// Abilities: A621 (Warrior's Taunt), Tip (Tooltip - Normal)
+{
+Warrior's Taunt [|cffffcc00Level 2|r]
+}
+
+STRING 1702
+// Abilities: A621 (Warrior's Taunt), EditorSuffix (Editor Suffix)
+{
+(Lothar)
+}
+
+STRING 1703
+// Abilities: A622 (Cavalary), Name (Name)
+{
+Cavalary
+}
+
+STRING 1704
+// Abilities: A622 (Cavalary), EditorSuffix (Editor Suffix)
+{
+(Lothar)
+}
+
+STRING 1705
+// Abilities: A622 (Cavalary), Researchtip (Tooltip - Learn)
+{
+Learn «Cavalary»
+}
+
+STRING 1706
+// Abilities: A622 (Cavalary), Tip (Tooltip - Normal)
+{
+Cavalary
+}
+
+STRING 1711
+// Abilities: A624 (Frozen), EditorSuffix (Editor Suffix)
+{
+(Campaign mission)
+}
+
+STRING 1712
+// Abilities: A624 (Frozen), Name (Name)
+{
+Frozen
+}
+
+STRING 1713
+// Abilities: A624 (Frozen), Tip (Tooltip - Normal)
+{
+This unit is Frozen
+}
+
+STRING 1714
+// Abilities: A626 (Devotion Aura), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1715
+// Abilities: A628 (Unholy Aura), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1716
+// Abilities: A62A (Vampiric Aura), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1717
+// Abilities: A627 (Devotion Aura), EditorSuffix (Editor Suffix)
+{
+(Place of Power)
+}
+
+STRING 1718
+// Abilities: A62B (Aura of Blood), Name (Name)
+{
+Aura of Blood
+}
+
+STRING 1719
+// Abilities: A62B (Aura of Blood), Tip (Tooltip - Normal)
+{
+Auro of Blood
+}
+
+STRING 1720
+// Abilities: A62B (Aura of Blood), EditorSuffix (Editor Suffix)
+{
+(Place of Power)
+}
+
+STRING 1721
+// Abilities: A62D (Poisoned Stings), Name (Name)
+{
+Poisoned Stings
+}
+
+STRING 1722
+// Abilities: A62D (Poisoned Stings), EditorSuffix (Editor Suffix)
+{
+(Spearthrower)
+}
+
+STRING 1723
+// Abilities: A62D (Poisoned Stings), Tip (Tooltip - Normal)
+{
+Poisoned Stings
+}
+
+STRING 1724
+// Abilities: A62E (Piercing Bolts), Tip (Tooltip - Normal)
+{
+Piercing Bolts (|cffffcc00B|r)
+}
+
+STRING 1725
+// Abilities: A62E (Piercing Bolts), EditorSuffix (Editor Suffix)
+{
+(Crossbowman)
+}
+
+STRING 1726
+// Abilities: A62E (Piercing Bolts), Name (Name)
+{
+Piercing Bolts
+}
+
+STRING 1727
+// Abilities: A62G (Devour), Ubertip (Tooltip - Normal - Extended)
+{
+Consumes an enemy unit, slowly digesting it and dealing <Advc,DataB3> damage per second to it. If the creep is killed while the consumed unit is still digesting, the unit that was devoured will be released.
+}
+
+STRING 1728
+// Abilities: A62G (Devour), Ubertip (Tooltip - Normal - Extended)
+{
+Consumes an enemy unit, slowly digesting it and dealing <Advc,DataB2> damage per second to it. If the creep is killed while the consumed unit is still digesting, the unit that was devoured will be released.
+}
+
+STRING 1729
+// Abilities: A62G (Devour), Tip (Tooltip - Normal)
+{
+Devour
+}
+
+STRING 1730
+// Abilities: A62G (Devour), Tip (Tooltip - Normal)
+{
+Devour
+}
+
+STRING 1731
+// Abilities: A62R (Change Stance), Name (Name)
+{
+Change Stance
+}
+
+STRING 1733
+// Abilities: A62F (Change Stance), Untip (Tooltip - Turn Off)
+{
+Take Wing
+}
+
+STRING 1734
+// Abilities: A62F (Change Stance), Tip (Tooltip - Normal)
+{
+Will Land
+}
+
+STRING 1735
+// Abilities: A62C (Touch of Darkness), Name (Name)
+{
+Touch of Darkness
+}
+
+STRING 1746
+// Abilities: A60J (Siege), Name (Name)
+{
+Siege
+}
+
+STRING 1747
+// Abilities: A60J (Siege), EditorSuffix (Editor Suffix)
+{
+(Danath)
+}
+
+STRING 1748
+// Abilities: A60J (Siege), Ubertip (Tooltip - Normal - Extended)
+{
+Causes attacks to do <ANde,DataB1> times normal damage to buildings.
+}
+
+STRING 1749
+// Abilities: A60J (Siege), Tip (Tooltip - Normal)
+{
+Siege
+}
+
+STRING 1750
+// Abilities: A60J (Siege), Tip (Tooltip - Normal)
+{
+Siege
+}
+
+STRING 1751
+// Abilities: A60J (Siege), Ubertip (Tooltip - Normal - Extended)
+{
+Causes attacks to do <ANde,DataB1> times normal damage to buildings.
+}
+
+STRING 1752
+// Abilities: A60J (Siege), Tip (Tooltip - Normal)
+{
+Siege
+}
+
+STRING 1753
+// Abilities: A60J (Siege), Researchtip (Tooltip - Learn)
+{
+Learn Siege
+}
+
+STRING 1754
+// Abilities: A60J (Siege), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 1755
+// Abilities: S604 (Upgrade to Crossbowman), Name (Name)
+{
+Upgrade to Crossbowman
+}
+
+STRING 1756
+// Abilities: A61A (Shield Bash), Name (Name)
+{
+Shield Bash
+}
+
+STRING 1757
+// Abilities: A61A (Shield Bash), Tip (Tooltip - Normal)
+{
+Shield Bash [|cffffcc00Level 2|r]
+}
+
+STRING 1758
+// Abilities: A61A (Shield Bash), Tip (Tooltip - Normal)
+{
+Shield Bash [|cffffcc00Level 3|r]
+}
+
+STRING 1759
+// Abilities: A61A (Shield Bash), Tip (Tooltip - Normal)
+{
+Shield Bash [|cffffcc00Level 1|r]
+}
+
+STRING 1760
+// Abilities: A61A (Shield Bash), Researchtip (Tooltip - Learn)
+{
+Learn «Shield Bash» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 1761
+// Abilities: A61A (Shield Bash), EditorSuffix (Editor Suffix)
+{
+(Warrior)
+}
+
+STRING 1762
+// Abilities: A61L (Archangel Call), Name (Name)
+{
+Archangel Call
+}
+
+STRING 1763
+// Abilities: A61L (Archangel Call), EditorSuffix (Editor Suffix)
+{
+(Paladin)
+}
+
+STRING 1764
+// Abilities: A61L (Archangel Call), Researchtip (Tooltip - Learn)
+{
+Learn «Archangel Call»
+}
+
+STRING 1765
+// Abilities: A61L (Archangel Call), Tip (Tooltip - Normal)
+{
+Archangel Call
+}
+
+STRING 1766
+// Abilities: A61P (Retribution Aura), Name (Name)
+{
+Retribution Aura
+}
+
+STRING 1767
+// Abilities: A61P (Retribution Aura), Tip (Tooltip - Normal)
+{
+Retribution Aura [|cffffcc00Level 2|r]
+}
+
+STRING 1768
+// Abilities: A61P (Retribution Aura), Tip (Tooltip - Normal)
+{
+Retribution Aura [|cffffcc00Level 3|r]
+}
+
+STRING 1769
+// Abilities: A61P (Retribution Aura), Tip (Tooltip - Normal)
+{
+Retribution Aura [|cffffcc00Level 1|r]
+}
+
+STRING 1770
+// Abilities: A61P (Retribution Aura), EditorSuffix (Editor Suffix)
+{
+(Paladin)
+}
+
+STRING 1771
+// Abilities: A61Q (Soul Revival), Name (Name)
+{
+Soul Revival
+}
+
+STRING 1772
+// Abilities: A61Q (Soul Revival), Tip (Tooltip - Normal)
+{
+Soul Rivaval
+}
+
+STRING 1773
+// Abilities: A62S (Trueshot Aura), EditorSuffix (Editor Suffix)
+{
+(Place of Power)
+}
+
+STRING 1774
+// Abilities: A62T (Burning Blade), Name (Name)
+{
+Burning Blade
+}
+
+STRING 1775
+// Abilities: A62T (Burning Blade), EditorSuffix (Editor Suffix)
+{
+(Burning Blade Orc)
+}
+
+STRING 1776
+// Abilities: A62T (Burning Blade), Tip (Tooltip - Normal)
+{
+Burn the Blade
+}
+
+STRING 1777
+// Abilities: A62T (Burning Blade), Ubertip (Tooltip - Normal - Extended)
+{
+Set blade on fire
+}
+
+STRING 1778
+// Abilities: A62T (Burning Blade), Unubertip (Tooltip - Turn Off - Extended)
+{
+Pull down the fire
+}
+
+STRING 1779
+// Abilities: A62T (Burning Blade), Untip (Tooltip - Turn Off)
+{
+Pull down
+}
+
+STRING 1781
+// Abilities: A62R (Change Stance), Unubertip (Tooltip - Turn Off - Extended)
+{
+Dragon moves on its feet on the ground.
+}
+
+STRING 1782
+// Abilities: A62R (Change Stance), Untip (Tooltip - Turn Off)
+{
+Will land
+}
+
+STRING 1783
+// Abilities: A62R (Change Stance), Tip (Tooltip - Normal)
+{
+Take Wing
+}
+
+STRING 1784
+// Abilities: A62R (Change Stance), Ubertip (Tooltip - Normal - Extended)
+{
+Dragon takes wing and flies in the sky.
+}
+
+STRING 1785
+// Abilities: A61Z (Armada Strike), Name (Name)
+{
+Armada Strike
+}
+
+STRING 1786
+// Abilities: A61Z (Armada Strike), EditorSuffix (Editor Suffix)
+{
+(Proudmoore)
+}
+
+STRING 1787
+// Abilities: A61Z (Armada Strike), Tip (Tooltip - Normal)
+{
+Armada Strike
+}
+
+STRING 1788
+// Abilities: A61Z (Armada Strike), Researchtip (Tooltip - Learn)
+{
+Learn «Armada Strike»
+}
+
+STRING 1789
+// Abilities: A62U (Gunshot), Name (Name)
+{
+Gunshot
+}
+
+STRING 1790
+// Abilities: A62U (Gunshot), Tip (Tooltip - Normal)
+{
+Gunshot [|cffffcc00Level 2|r]
+}
+
+STRING 1791
+// Abilities: A62U (Gunshot), Tip (Tooltip - Normal)
+{
+Gunshot [|cffffcc00Level 3|r]
+}
+
+STRING 1792
+// Abilities: A62U (Gunshot), Tip (Tooltip - Normal)
+{
+Gunshot [|cffffcc00Level 1|r]
+}
+
+STRING 1793
+// Abilities: A62U (Gunshot), EditorSuffix (Editor Suffix)
+{
+(Proudmoore)
+}
+
+STRING 1794
+// Abilities: A62W (Unit Inventory), EditorSuffix (Editor Suffix)
+{
+(Utok)
+}
+
+STRING 1795
+// Abilities: A62Y (Heavy Burden), Name (Name)
+{
+Heavy Burden
+}
+
+STRING 1796
+// Abilities: A62Y (Heavy Burden), EditorSuffix (Editor Suffix)
+{
+ (Resource)
+}
+
+STRING 1797
+// Abilities: A60O (Blackrock Banner), Name (Name)
+{
+Blackrock Banner
+}
+
+STRING 1798
+// Abilities: A61M (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1799
+// Abilities: A61M (Snowcap), EditorSuffix (Editor Suffix)
+{
+Great Hall
+}
+
+STRING 1800
+// Abilities: A62Z (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1801
+// Abilities: A62Z (Snowcap), EditorSuffix (Editor Suffix)
+{
+Pig Farm
+}
+
+STRING 1802
+// Abilities: A630 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1803
+// Abilities: A630 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Barracks
+}
+
+STRING 1804
+// Abilities: A631 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1805
+// Abilities: A631 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Troll Lumber Mill
+}
+
+STRING 1806
+// Abilities: A632 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1807
+// Abilities: A632 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Blacksmith
+}
+
+STRING 1808
+// Abilities: A633 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1809
+// Abilities: A633 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Tower
+}
+
+STRING 1810
+// Abilities: A634 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1811
+// Abilities: A634 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Shipyard
+}
+
+STRING 1812
+// Abilities: A635 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1813
+// Abilities: A635 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Foundry
+}
+
+STRING 1814
+// Abilities: A636 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1815
+// Abilities: A636 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Refinery
+}
+
+STRING 1816
+// Abilities: A637 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1817
+// Abilities: A637 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Orc Oil Rig
+}
+
+STRING 1818
+// Abilities: A638 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1819
+// Abilities: A638 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Ogre Mound
+}
+
+STRING 1820
+// Abilities: A639 (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1821
+// Abilities: A639 (Snowcap), EditorSuffix (Editor Suffix)
+{
+Goblin Alchemist
+}
+
+STRING 1822
+// Abilities: A63A (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1823
+// Abilities: A63A (Snowcap), EditorSuffix (Editor Suffix)
+{
+Altar of Storms
+}
+
+STRING 1824
+// Abilities: A63B (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1825
+// Abilities: A63B (Snowcap), EditorSuffix (Editor Suffix)
+{
+Temple of the Damned
+}
+
+STRING 1826
+// Abilities: A63C (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1827
+// Abilities: A63C (Snowcap), EditorSuffix (Editor Suffix)
+{
+Dragonroost
+}
+
+STRING 1828
+// Abilities: A63D (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1829
+// Abilities: A63D (Snowcap), EditorSuffix (Editor Suffix)
+{
+Town Hall
+}
+
+STRING 1830
+// Abilities: A63E (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1831
+// Abilities: A63E (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Barracks
+}
+
+STRING 1832
+// Abilities: A63F (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1833
+// Abilities: A63F (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Farm
+}
+
+STRING 1834
+// Abilities: A63G (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1835
+// Abilities: A63G (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Tower
+}
+
+STRING 1836
+// Abilities: A63H (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1837
+// Abilities: A63H (Snowcap), EditorSuffix (Editor Suffix)
+{
+Elven Lumbermill
+}
+
+STRING 1838
+// Abilities: A63I (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1839
+// Abilities: A63I (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Lumbermill
+}
+
+STRING 1840
+// Abilities: A63J (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1841
+// Abilities: A63J (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Blacksmith
+}
+
+STRING 1842
+// Abilities: A63K (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1843
+// Abilities: A63K (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Keep
+}
+
+STRING 1844
+// Abilities: A63L (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1845
+// Abilities: A63L (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Shipyard
+}
+
+STRING 1846
+// Abilities: A63M (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1847
+// Abilities: A63M (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Foundry
+}
+
+STRING 1848
+// Abilities: A63N (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1849
+// Abilities: A63N (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Refinery
+}
+
+STRING 1850
+// Abilities: A63O (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1851
+// Abilities: A63O (Snowcap), EditorSuffix (Editor Suffix)
+{
+Human Oil Rig
+}
+
+STRING 1852
+// Abilities: A63P (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1853
+// Abilities: A63P (Snowcap), EditorSuffix (Editor Suffix)
+{
+Inventor
+}
+
+STRING 1854
+// Abilities: A63Q (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1855
+// Abilities: A63Q (Snowcap), EditorSuffix (Editor Suffix)
+{
+Stables
+}
+
+STRING 1856
+// Abilities: A63R (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1857
+// Abilities: A63R (Snowcap), EditorSuffix (Editor Suffix)
+{
+Castle
+}
+
+STRING 1858
+// Abilities: A63S (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1859
+// Abilities: A63S (Snowcap), EditorSuffix (Editor Suffix)
+{
+Church
+}
+
+STRING 1860
+// Abilities: A63T (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1861
+// Abilities: A63T (Snowcap), EditorSuffix (Editor Suffix)
+{
+Mage Tower
+}
+
+STRING 1862
+// Abilities: A63U (Snowcap), Name (Name)
+{
+Snowcap
+}
+
+STRING 1863
+// Abilities: A63U (Snowcap), EditorSuffix (Editor Suffix)
+{
+Gryphon Aviary
+}
+
+STRING 1864
+// Abilities: A63Z (Axe Flurry), Name (Name)
+{
+Axe Flurry
+}
+
+STRING 1865
+// Abilities: A00Q (Rend), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 1875
+// Abilities: A63X (Regeneration), EditorSuffix (Editor Suffix)
+{
+(Zuljin)
+}
+
+STRING 1877
+// Abilities: A00O (Devastate), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 1878
+// Abilities: A00O (Devastate), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 1887
+// Abilities: A63Y (Taz'dingo!), EditorSuffix (Editor Suffix)
+{
+(Zuljin)
+}
+
+STRING 1888
+// Abilities: A63X (Regeneration), Name (Name)
+{
+Regeneration
+}
+
+STRING 1889
+// Abilities: A63X (Regeneration), Tip (Tooltip - Normal)
+{
+Regeneration - [|cffffcc00Level 1|r]
+}
+
+STRING 1890
+// Abilities: A63X (Regeneration), Tip (Tooltip - Normal)
+{
+Regeneration - [|cffffcc00Level 2|r]
+}
+
+STRING 1891
+// Abilities: A63X (Regeneration), Tip (Tooltip - Normal)
+{
+Regeneration - [|cffffcc00Level 3|r]
+}
+
+STRING 1892
+// Abilities: A63X (Regeneration), Ubertip (Tooltip - Normal - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffffc80030 |r|cffc0c0c0/ 35 / 40|r
+Duration: |cffffc80015|r
+}
+
+STRING 1893
+// Abilities: A63X (Regeneration), Ubertip (Tooltip - Normal - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffc0c0c030 /|r |cffffc80035 |r|cffc0c0c0/ 40|r
+Duration: |cffffc80015|r
+}
+
+STRING 1894
+// Abilities: A63X (Regeneration), Ubertip (Tooltip - Normal - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffc0c0c030 / 35 /|r |cffffc80040|r
+Duration: |cffffc80015|r
+}
+
+STRING 1895
+// Abilities: A63X (Regeneration), Researchubertip (Tooltip - Learn - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: 30 / 35 / 40
+Duration: 15
+}
+
+STRING 1896
+// Abilities: A63X (Regeneration), Researchtip (Tooltip - Learn)
+{
+Learn Regeneration - [|cffffcc00Level %d|r]
+}
+
+STRING 1899
+// Buffs/Effects: B612 (Amani Rage), EditorSuffix (Editor Suffix)
+{
+(Zuljin)
+}
+
+STRING 1900
+// Abilities: A63Y (Taz'dingo!), Name (Name)
+{
+Taz'dingo!
+}
+
+STRING 1901
+// Abilities: A63Y (Taz'dingo!), Tip (Tooltip - Normal)
+{
+Taz'dingo!
+}
+
+STRING 1902
+// Abilities: A63Y (Taz'dingo!), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 1903
+// Abilities: A63Y (Taz'dingo!), Researchubertip (Tooltip - Learn - Extended)
+{
+Zul'jin goes berserk, letting out a mighty warcry which bolsters all allied troll's damage. While being berserk he has increased attack and movement speed, but will deal minor damage to himself.
+
+Attack / Speed: |cffffc800+50%|r
+Damage Buff Allies: |cffffc800+50%|r
+Duration: |cffffc80020|r
+}
+
+STRING 1904
+// Abilities: A63Y (Taz'dingo!), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin goes berserk, letting out a mighty warcry which bolsters all allied troll's damage. While being berserk he has increased attack and movement speed, but will deal minor damage to himself.
+
+Attack / Speed: |cffffc800+50%|r
+Damage Taken: |cffffc800-50%|r
+Duration: |cffffc80020|r
+}
+
+STRING 1905
+// Abilities: A63Y (Taz'dingo!), Researchtip (Tooltip - Learn)
+{
+Learn Taz'dingo!
+}
+
+STRING 1906
+// Buffs/Effects: B616 (Taz'dingo!), EditorSuffix (Editor Suffix)
+{
+(Zuljin)
+}
+
+STRING 1908
+// Abilities: A63Z (Axe Flurry), EditorSuffix (Editor Suffix)
+{
+(Zuljin Effect)
+}
+
+STRING 1909
+// Abilities: A640 (Taz'tingo!), Name (Name)
+{
+Taz'tingo!
+}
+
+STRING 1910
+// Abilities: A640 (Taz'tingo!), EditorSuffix (Editor Suffix)
+{
+(non-hero)
+}
+
+STRING 1911
+// Abilities: A642 (Lightning Bolt), Name (Name)
+{
+Lightning Bolt
+}
+
+STRING 1912
+// Abilities: A642 (Lightning Bolt), EditorSuffix (Editor Suffix)
+{
+(Utok)
+}
+
+STRING 1913
+// Abilities: A642 (Lightning Bolt), Tip (Tooltip - Normal)
+{
+Lightning Bolt
+}
+
+STRING 1914
+// Abilities: A642 (Lightning Bolt), Ubertip (Tooltip - Normal - Extended)
+{
+Hurls a bolt of lightning, dealing <ACcl,DataA1> damage to the  target.
+}
+
+STRING 1917
+// Abilities: A641 (Self heal), EditorSuffix (Editor Suffix)
+{
+(Utok)
+}
+
+STRING 1921
+// Abilities: A643 (OIl Tank), Name (Name)
+{
+OIl Tank
+}
+
+STRING 1922
+// Abilities: A643 (OIl Tank), Tip (Tooltip - Normal)
+{
+Oil Tank
+}
+
+STRING 1923
+// Abilities: A643 (OIl Tank), Ubertip (Tooltip - Normal - Extended)
+{
+Allows tanker to carry Oil. Items cannot be used from this unit's inventory.
+}
+
+STRING 1924
+// Buffs/Effects: B600 (), Bufftip (Tooltip)
+{
+Blind
+}
+
+STRING 1925
+// Buffs/Effects: B600 (), Buffubertip (Tooltip - Extended)
+{
+This warrior is affected by the Blind spell. He cannot use range attack.
+
+}
+
+STRING 1926
+// Buffs/Effects: B601 (), Buffubertip (Tooltip - Extended)
+{
+This warrior is under the blessing of the Silver Moon. However, with every wound, additional damage is inflicted on him.
+}
+
+STRING 1927
+// Buffs/Effects: B601 (), Bufftip (Tooltip)
+{
+Silvermoon blessing
+}
+
+STRING 1928
+// Buffs/Effects: B602 (), Bufftip (Tooltip)
+{
+Nets
+}
+
+STRING 1929
+// Buffs/Effects: B602 (), Buffubertip (Tooltip - Extended)
+{
+Bounded. Can't fly.
+}
+
+STRING 1930
+// Buffs/Effects: B603 (), Bufftip (Tooltip)
+{
+Nets
+}
+
+STRING 1931
+// Buffs/Effects: B603 (), Buffubertip (Tooltip - Extended)
+{
+Bounded. Can't fly.
+}
+
+STRING 1932
+// Buffs/Effects: B604 (), EditorSuffix (Editor Suffix)
+{
+(Death Knight)
+}
+
+STRING 1933
+// Buffs/Effects: B604 (), Buffubertip (Tooltip - Extended)
+{
+Movement speed increased.
+}
+
+STRING 1934
+// Buffs/Effects: B604 (), Bufftip (Tooltip)
+{
+Haste
+}
+
+STRING 1935
+// Buffs/Effects: B605 (), Buffubertip (Tooltip - Extended)
+{
+This warrior is under the influence of the "Rampage" spell. It is immune to magic, and its defense, health, and attack power are increased.
+
+}
+
+STRING 1936
+// Buffs/Effects: B605 (), Bufftip (Tooltip)
+{
+Rampage
+}
+
+STRING 1940
+// Buffs/Effects: B607 (), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1941
+// Buffs/Effects: B607 (), Bufftip (Tooltip)
+{
+Stone of  Wind
+}
+
+STRING 1942
+// Buffs/Effects: B607 (), Buffubertip (Tooltip - Extended)
+{
+Attack and movement speed increased.
+}
+
+STRING 1943
+// Buffs/Effects: B609 (), Bufftip (Tooltip)
+{
+Battle Shout
+}
+
+STRING 1944
+// Buffs/Effects: B609 (), Buffubertip (Tooltip - Extended)
+{
+Attack increased.
+}
+
+STRING 1949
+// Abilities: A00Q (Rend), Name (Name)
+{
+Rend
+}
+
+STRING 1951
+// Buffs/Effects: B002 (Rend), EditorName (Name (Editor Only))
+{
+Rend
+}
+
+STRING 1952
+// Buffs/Effects: B60C (), Bufftip (Tooltip)
+{
+Warrior's Taunt
+}
+
+STRING 1953
+// Buffs/Effects: B60C (), Buffubertip (Tooltip - Extended)
+{
+The Attack is decreased.
+}
+
+STRING 1955
+// Buffs/Effects: B60D (), Buffubertip (Tooltip - Extended)
+{
+Attack increased.
+}
+
+STRING 1956
+// Buffs/Effects: B60E (), EditorSuffix (Editor Suffix)
+{
+(River Freeze Bugg)
+}
+
+STRING 1957
+// Buffs/Effects: B60E (), Bufftip (Tooltip)
+{
+Frozen
+}
+
+STRING 1958
+// Buffs/Effects: B60E (), Buffubertip (Tooltip - Extended)
+{
+This unit is frozen. It can't be used.
+}
+
+STRING 1959
+// Buffs/Effects: B60F (), Bufftip (Tooltip)
+{
+Stone of Earth
+}
+
+STRING 1960
+// Buffs/Effects: B60F (), Buffubertip (Tooltip - Extended)
+{
+The Runestone increased armor of your troops.
+}
+
+STRING 1961
+// Buffs/Effects: B60F (), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1962
+// Buffs/Effects: B60G (), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1963
+// Buffs/Effects: B60G (), Bufftip (Tooltip)
+{
+Stone of Fire
+}
+
+STRING 1964
+// Buffs/Effects: B60G (), Buffubertip (Tooltip - Extended)
+{
+Regeneration increased.
+}
+
+STRING 1965
+// Buffs/Effects: B60H (), Bufftip (Tooltip)
+{
+Stone of Fire
+}
+
+STRING 1966
+// Buffs/Effects: B60H (), Buffubertip (Tooltip - Extended)
+{
+Runestone adds fire damage to your army.
+}
+
+STRING 1967
+// Buffs/Effects: B60H (), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 1968
+// Buffs/Effects: B60I (), Buffubertip (Tooltip - Extended)
+{
+Armor increased.
+}
+
+STRING 1969
+// Buffs/Effects: B60I (), EditorSuffix (Editor Suffix)
+{
+(Place of Power)
+}
+
+STRING 1970
+// Buffs/Effects: B60J (), EditorSuffix (Editor Suffix)
+{
+(Place of Power)
+}
+
+STRING 1973
+// Buffs/Effects: B60O (), Bufftip (Tooltip)
+{
+Retribution Aura
+}
+
+STRING 1974
+// Buffs/Effects: B60R (), Buffubertip (Tooltip - Extended)
+{
+Attack and movement speed is slowed down.
+}
+
+STRING 1975
+// Buffs/Effects: B60R (), Bufftip (Tooltip)
+{
+Shield Bash
+}
+
+STRING 1976
+// Buffs/Effects: B60S (), Bufftip (Tooltip)
+{
+Archangel Call
+}
+
+STRING 1977
+// Buffs/Effects: B60S (), Buffubertip (Tooltip - Extended)
+{
+This warrior is resurrected by Archangel
+}
+
+STRING 1978
+// Buffs/Effects: B60T (), Bufftip (Tooltip)
+{
+Resurrected Soul
+}
+
+STRING 1979
+// Buffs/Effects: B60T (), Buffubertip (Tooltip - Extended)
+{
+The soul of fallen warrior, returned for vengance.
+}
+
+STRING 1980
+// Buffs/Effects: B60U (Warrior's Strike), EditorName (Name (Editor Only))
+{
+Warrior's Strike
+}
+
+STRING 1981
+// Buffs/Effects: B60U (Warrior's Strike), Bufftip (Tooltip)
+{
+Warrior Strike
+}
+
+STRING 1982
+// Buffs/Effects: B60U (Warrior's Strike), Buffubertip (Tooltip - Extended)
+{
+This unit was hit by wartior's strike. It bleeds out.
+}
+
+STRING 1983
+// Buffs/Effects: B60V (), Bufftip (Tooltip)
+{
+Retribution Aura
+}
+
+STRING 1984
+// Buffs/Effects: B60V (), Buffubertip (Tooltip - Extended)
+{
+Damage transitioned to healing.
+}
+
+STRING 1985
+// Buffs/Effects: B60W (), Bufftip (Tooltip)
+{
+Place of Power
+}
+
+STRING 1986
+// Buffs/Effects: B60W (), Buffubertip (Tooltip - Extended)
+{
+Attack increased.
+}
+
+STRING 1987
+// Buffs/Effects: B60X (), Bufftip (Tooltip)
+{
+Burning Blade
+}
+
+STRING 1988
+// Buffs/Effects: B60X (), Buffubertip (Tooltip - Extended)
+{
+This warrior burns enemies with its weapon.
+}
+
+STRING 1989
+// Buffs/Effects: B60Z (Starfall (Target)), EditorSuffix (Editor Suffix)
+{
+(Elven spell)
+}
+
+STRING 1990
+// Buffs/Effects: B610 (), Bufftip (Tooltip)
+{
+Gunshot
+}
+
+STRING 1991
+// Buffs/Effects: B610 (), Buffubertip (Tooltip - Extended)
+{
+Unit was shot and bleeds.
+}
+
+STRING 1992
+// Buffs/Effects: B612 (Amani Rage), EditorName (Name (Editor Only))
+{
+Amani Rage
+}
+
+STRING 1993
+// Buffs/Effects: B612 (Amani Rage), Bufftip (Tooltip)
+{
+Amani Rage
+}
+
+STRING 1994
+// Buffs/Effects: B612 (Amani Rage), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Amani Rage; its ranged attacks will deal more damage.
+}
+
+STRING 2004
+// Buffs/Effects: B615 (Regeneration (Zul'jin)), EditorName (Name (Editor Only))
+{
+Regeneration (Zul'jin)
+}
+
+STRING 2005
+// Buffs/Effects: B616 (Taz'dingo!), EditorName (Name (Editor Only))
+{
+Taz'dingo!
+}
+
+STRING 2006
+// Buffs/Effects: B616 (Taz'dingo!), Bufftip (Tooltip)
+{
+Taz'dingo!
+}
+
+STRING 2007
+// Buffs/Effects: B616 (Taz'dingo!), Buffubertip (Tooltip - Extended)
+{
+Zul'jin will deal more damage, but his attacks will also harm himself.
+}
+
+STRING 2009
+// Buffs/Effects: B617 (Taz'dingo! (non-hero)), EditorName (Name (Editor Only))
+{
+Taz'dingo! (non-hero)
+}
+
+STRING 2010
+// Buffs/Effects: B617 (Taz'dingo! (non-hero)), Bufftip (Tooltip)
+{
+Taz'dingo!
+}
+
+STRING 2011
+// Buffs/Effects: B617 (Taz'dingo! (non-hero)), Buffubertip (Tooltip - Extended)
+{
+This unit has Berserker Rage; its attack rate and movement speed are increased.
+}
+
+STRING 2012
+// Buffs/Effects: B611 (Heavy Burden), EditorName (Name (Editor Only))
+{
+Heavy Burden
+}
+
+STRING 2013
+// Buffs/Effects: B611 (Heavy Burden), Bufftip (Tooltip)
+{
+Heavy Burden
+}
+
+STRING 2014
+// Buffs/Effects: B611 (Heavy Burden), Buffubertip (Tooltip - Extended)
+{
+This unit is transporting resource, his movement speed is slowed.
+}
+
+STRING 2015
+// Upgrades: Rusl (Skeletal Longevity), Ubertip (Tooltip - Extended)
+{
+Increases the duration of raised Skeleton Warriors by <Rusl,base1> seconds.
+}
+
+STRING 2016
+// Upgrades: Ropg (Pillage), Ubertip (Tooltip - Extended)
+{
+Causes Peons, Grunts, and Ogres attacks to gain resources when hitting enemy buildings.
+}
+
+STRING 2017
+// Upgrades: Roar (Steel Armor,Thorium Armor,Arcanite Armor), Ubertip (Tooltip - Extended)
+{
+Increases the armor of Grunts, Catapults, Ogres and Ogre-Mages.
+}
+
+STRING 2018
+// Upgrades: Roar (Steel Armor,Thorium Armor,Arcanite Armor), Ubertip (Tooltip - Extended)
+{
+Increases the armor of Grunts, Catapults, Ogres and Ogre-Mages.
+}
+
+STRING 2019
+// Upgrades: Roar (Steel Armor,Thorium Armor,Arcanite Armor), Ubertip (Tooltip - Extended)
+{
+Increases the armor of Grunts, Catapults, Ogres and Ogre-Mages.
+}
+
+STRING 2020
+// Upgrades: Rome (Steel Melee Weapons,Thorium Melee Weapons,Arcanite Melee Weapons), Ubertip (Tooltip - Extended)
+{
+Increases the melee attack damage of Grunts, Ogres and Ogre-Mages.
+}
+
+STRING 2021
+// Upgrades: Rome (Steel Melee Weapons,Thorium Melee Weapons,Arcanite Melee Weapons), Ubertip (Tooltip - Extended)
+{
+Increases the melee attack damage of Grunts, Ogres and Ogre-Mages.
+}
+
+STRING 2022
+// Upgrades: Rome (Steel Melee Weapons,Thorium Melee Weapons,Arcanite Melee Weapons), Ubertip (Tooltip - Extended)
+{
+Increases the melee attack damage of Grunts, Ogres and Ogre-Mages.
+}
+
+STRING 2023
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Increases the ranged attack damage of Axethrowers and Berserkers.
+}
+
+STRING 2024
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Increases the ranged attack damage of Axethrowers and Berserkers.
+}
+
+STRING 2025
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Name (Name)
+{
+Iron Throwing Axes
+}
+
+STRING 2026
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Name (Name)
+{
+Steel Throwing Axes
+}
+
+STRING 2027
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Name (Name)
+{
+Arcanite Throwing Axes
+}
+
+STRING 2028
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Tip (Tooltip)
+{
+Iron Throwing Axes (|cffffcc00R|r)
+}
+
+STRING 2029
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Tip (Tooltip)
+{
+Steel Throwing Axes (|cffffcc00R|r)
+}
+
+STRING 2030
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Tip (Tooltip)
+{
+Arcanite Throwing Axes (|cffffcc00R|r) 
+}
+
+STRING 2031
+// Upgrades: Rora (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Increases the ranged attack damage of Axethrowers and Berserkers.
+}
+
+STRING 2032
+// Upgrades: Rotr (Troll Regeneration,Improved Troll Regeneration,Advanced Troll Regeneration), Name (Name)
+{
+Regeneration
+}
+
+STRING 2033
+// Upgrades: Rotr (Troll Regeneration,Improved Troll Regeneration,Advanced Troll Regeneration), Tip (Tooltip)
+{
+Regeneration (|cffffcc00R|r),
+}
+
+STRING 2034
+// Upgrades: Rotr (Troll Regeneration,Improved Troll Regeneration,Advanced Troll Regeneration), Ubertip (Tooltip - Extended)
+{
+Berserkers gain the ability to recover faster.
+}
+
+STRING 2035
+// Upgrades: Robk (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+Upgrade Axethrowers to Berserkers, which have more health and "Rage" ability.
+
+}
+
+STRING 2036
+// Upgrades: Robk (Berserker Upgrade), Name (Name)
+{
+Berserker Training 
+}
+
+STRING 2037
+// Upgrades: Robk (Berserker Upgrade), Tip (Tooltip)
+{
+Berserker Training (|cffffcc00E|r)
+}
+
+STRING 2038
+// Upgrades: Rhan (Animal War Training), Ubertip (Tooltip - Extended)
+{
+Increases the maximum hit points of Knights by <Rhan,base1>.
+}
+
+STRING 2039
+// Upgrades: Roen (Ensnare), Ubertip (Tooltip - Extended)
+{
+Enables Berserkers to use the Ensnare ability. Ensnare causes a target enemy unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units.
+}
+
+STRING 2040
+// Upgrades: Robs (Brute Strength), Ubertip (Tooltip - Extended)
+{
+Improves the fighting capabilities of Crossbowman with a <Robs,base1> hit point increase, and <Robs,base2> bonus attack damage.
+}
+
+STRING 2041
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+Increases the attack damage of Footmen, Knights and Paladins.
+}
+
+STRING 2042
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+Increases the attack damage of Footmen, Knights and Paladins.
+}
+
+STRING 2043
+// Upgrades: Rhme (Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords), Ubertip (Tooltip - Extended)
+{
+Increases the attack damage of Footmen, Knights and Paladins.
+}
+
+STRING 2044
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+Increases the armor of Footmen, Ballistas, Knights and Paladins.
+}
+
+STRING 2045
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+Increases the armor of Footmen, Ballistas, Knights and Paladins.
+}
+
+STRING 2046
+// Upgrades: Rhar (Iron Plating,Steel Plating,Mithril Plating), Ubertip (Tooltip - Extended)
+{
+Increases the armor of Footmen, Ballistas, Knights and Paladins.
+}
+
+STRING 2047
+// Upgrades: R000 (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+Develop bombs for Zeppelins
+}
+
+STRING 2048
+// Upgrades: R000 (Flying Machine Bombs), EditorSuffix (Editor Suffix)
+{
+(Zeppelin)
+}
+
+STRING 2049
+// Upgrades: R001 (Necromancer Adept Training,Necromancer Master Training), Name (Name)
+{
+Death Knight Training
+}
+
+STRING 2050
+// Upgrades: R001 (Necromancer Adept Training,Necromancer Master Training), Name (Name)
+{
+Superior Death Knight Training
+}
+
+STRING 2051
+// Upgrades: R001 (Necromancer Adept Training,Necromancer Master Training), Tip (Tooltip)
+{
+Death Knight Training
+}
+
+STRING 2052
+// Upgrades: R001 (Necromancer Adept Training,Necromancer Master Training), Tip (Tooltip)
+{
+Superior  Knight Training 
+}
+
+STRING 2053
+// Upgrades: R001 (Necromancer Adept Training,Necromancer Master Training), Ubertip (Tooltip - Extended)
+{
+Increases Death Knight's mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Unholy Frenzy.
+}
+
+STRING 2054
+// Upgrades: R001 (Necromancer Adept Training,Necromancer Master Training), Ubertip (Tooltip - Extended)
+{
+Increases Death Knight's mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Cripple.
+}
+
+STRING 2055
+// Upgrades: R002 (Mark of the Claw), Name (Name)
+{
+Whirlwind
+}
+
+STRING 2057
+// Upgrades: R002 (Mark of the Claw), Tip (Tooltip)
+{
+Whirlwind (|cffffcc00W|r)
+}
+
+STRING 2058
+// Upgrades: R002 (Mark of the Claw), Ubertip (Tooltip - Extended)
+{
+Horrible dark whirlwind that rises enemy up to the air.
+}
+
+STRING 2059
+// Upgrades: R003 (Banshee Adept Training,Banshee Master Training), Name (Name)
+{
+Ogre Mages Training
+}
+
+STRING 2060
+// Upgrades: R003 (Banshee Adept Training,Banshee Master Training), Name (Name)
+{
+Superior Ogre Mages Training
+}
+
+STRING 2061
+// Upgrades: R003 (Banshee Adept Training,Banshee Master Training), Tip (Tooltip)
+{
+Ogre Mages Training
+}
+
+STRING 2062
+// Upgrades: R003 (Banshee Adept Training,Banshee Master Training), Tip (Tooltip)
+{
+Superior Ogre Mages Training
+}
+
+STRING 2063
+// Upgrades: R003 (Banshee Adept Training,Banshee Master Training), Ubertip (Tooltip - Extended)
+{
+Ogre-Magi gains its amount of health and mana and gets ability "Eye of Kilrog"
+}
+
+STRING 2064
+// Upgrades: R003 (Banshee Adept Training,Banshee Master Training), Ubertip (Tooltip - Extended)
+{
+Ogre-Magi gains its amount of health and mana and gets ability "Runes"
+}
+
+STRING 2066
+// Upgrades: R004 (Brute Strength), Name (Name)
+{
+Berserker Sight
+}
+
+STRING 2067
+// Upgrades: R004 (Brute Strength), Tip (Tooltip)
+{
+Berserker Sight
+}
+
+STRING 2068
+// Upgrades: R004 (Brute Strength), Ubertip (Tooltip - Extended)
+{
+Berserkers gain their sight range
+}
+
+STRING 2069
+// Upgrades: R005 (Improved Bows), Name (Name)
+{
+Light Axes
+}
+
+STRING 2070
+// Upgrades: R005 (Improved Bows), effect2 (Effect 2)
+{
+rats
+}
+
+STRING 2071
+// Upgrades: R005 (Improved Bows), Tip (Tooltip)
+{
+Light Axes
+}
+
+STRING 2072
+// Upgrades: R005 (Improved Bows), Ubertip (Tooltip - Extended)
+{
+Berserkers attack range increases
+}
+
+STRING 2073
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Iron Cannon Shells
+}
+
+STRING 2074
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Steel Cannon Shells
+}
+
+STRING 2075
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Iron Cannon Shells
+}
+
+STRING 2076
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Increasing catapults damage
+}
+
+STRING 2077
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Increasing catapults damage
+}
+
+STRING 2078
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Steel Cannon Shells
+}
+
+STRING 2079
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Splinter Cannon Shells
+}
+
+STRING 2080
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Splinter Cannon Shells
+}
+
+STRING 2081
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Increasing catapults damage
+}
+
+STRING 2082
+// Upgrades: R006 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), class (Class)
+{
+artillery
+}
+
+STRING 2083
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Name (Name)
+{
+Steel Plating
+}
+
+STRING 2084
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Ubertip (Tooltip - Extended)
+{
+Armor upgrade for Destroyers, Battleships, Transports and Submarines.
+}
+
+STRING 2085
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Ubertip (Tooltip - Extended)
+{
+Armor upgrade for Destroyers, Battleships, Transports and Submarines.
+}
+
+STRING 2086
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Ubertip (Tooltip - Extended)
+{
+Armor upgrade for Destroyers, Battleships, Transports and Submarines.
+}
+
+STRING 2087
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Name (Name)
+{
+Brass Plating
+}
+
+STRING 2088
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Name (Name)
+{
+Iron Plating
+}
+
+STRING 2089
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Tip (Tooltip)
+{
+Brass Plating
+}
+
+STRING 2090
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Tip (Tooltip)
+{
+Iron Plating
+}
+
+STRING 2091
+// Upgrades: R007 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Tip (Tooltip)
+{
+Steel Plating
+}
+
+STRING 2092
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Brass Cannon
+}
+
+STRING 2093
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Iron Cannon
+}
+
+STRING 2094
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Steel Cannon
+}
+
+STRING 2095
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Steel Cannon
+}
+
+STRING 2096
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Increasing damage of Destroyers, Juggernaurts and War Turtles
+}
+
+STRING 2097
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Increasing damage of Destroyers, Juggernaurts and War Turtles
+}
+
+STRING 2098
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Increasing damage of Destroyers, Juggernaurts and War Turtles
+}
+
+STRING 2099
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Iron Cannon
+}
+
+STRING 2100
+// Upgrades: R008 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Brass Cannon
+}
+
+STRING 2101
+// Upgrades: R009 (Berserker Upgrade), Name (Name)
+{
+Ogre-Mages
+}
+
+STRING 2102
+// Upgrades: R009 (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+Transformation regular ogres to ruthless and cunning Ogre-Mages.
+}
+
+STRING 2103
+// Upgrades: R009 (Berserker Upgrade), Hotkey (Hotkey)
+{
+O
+}
+
+STRING 2104
+// Upgrades: R009 (Berserker Upgrade), Tip (Tooltip)
+{
+Ogre-Mages (|cffffcc00O|r)
+}
+
+STRING 2105
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Ubertip (Tooltip - Extended)
+{
+Increasing elven range attacks. 
+}
+
+STRING 2106
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Ubertip (Tooltip - Extended)
+{
+Increasing elven range attacks. 
+}
+
+STRING 2107
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Ubertip (Tooltip - Extended)
+{
+Increasing elven range attacks. 
+}
+
+STRING 2108
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Name (Name)
+{
+Iron Arrows
+}
+
+STRING 2109
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Name (Name)
+{
+Steel Arrows
+}
+
+STRING 2110
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Name (Name)
+{
+Silver Arrows
+}
+
+STRING 2111
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Tip (Tooltip)
+{
+Iron Arrows
+}
+
+STRING 2112
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Tip (Tooltip)
+{
+Steel Arrows
+}
+
+STRING 2113
+// Upgrades: R00A (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Tip (Tooltip)
+{
+Silver Arrows
+}
+
+STRING 2114
+// Upgrades: R00B (Improved Bows), Ubertip (Tooltip - Extended)
+{
+Increases the Ranger's attack range.
+}
+
+STRING 2115
+// Upgrades: R00C (Marksmanship), Ubertip (Tooltip - Extended)
+{
+Increases damage of Rangers by <Remk,base1>.
+}
+
+STRING 2116
+// Upgrades: R00D (Ultravision), Ubertip (Tooltip - Extended)
+{
+Gives Rangers the ability to see as far at night as they do during the day.
+}
+
+STRING 2117
+// Upgrades: R00E (Vorpal Blades), Name (Name)
+{
+Penetrating Shell
+}
+
+STRING 2118
+// Upgrades: R00E (Vorpal Blades), Tip (Tooltip)
+{
+Penetrating Shell
+}
+
+STRING 2119
+// Upgrades: R00E (Vorpal Blades), Ubertip (Tooltip - Extended)
+{
+Permits the glaives launched by the Ballistaer to strike through initial ground targets and damage those behind. Also allows them to attack trees.
+}
+
+STRING 2120
+// Upgrades: R00G (Barrage), Name (Name)
+{
+Elven Ranger Training
+}
+
+STRING 2121
+// Upgrades: R00G (Barrage), Tip (Tooltip)
+{
+Elven Ranger Training (|cffffcc00G|r)
+}
+
+STRING 2122
+// Upgrades: R00G (Barrage), Ubertip (Tooltip - Extended)
+{
+Elven Archers are trained to be skillfull Rangers, that could hide in the shadows.
+}
+
+STRING 2123
+// Upgrades: R00H (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Mage Training
+}
+
+STRING 2124
+// Upgrades: R00H (Sorceress Adept Training,Sorceress Master Training), Name (Name)
+{
+Superior Mage Training
+}
+
+STRING 2125
+// Upgrades: R00H (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Superior Mage Training
+}
+
+STRING 2126
+// Upgrades: R00H (Sorceress Adept Training,Sorceress Master Training), Tip (Tooltip)
+{
+Mage Training
+}
+
+STRING 2127
+// Upgrades: R00H (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+Increased mana and health reserves, attack power and speed of regeneration of mages mana, as well as training in their "Invisibility" spell.
+
+}
+
+STRING 2128
+// Upgrades: R00H (Sorceress Adept Training,Sorceress Master Training), Ubertip (Tooltip - Extended)
+{
+Increased mana and health reserves, attack power and speed of regeneration of mages mana, as well as training in their "Invisibility" spell.
+
+}
+
+STRING 2130
+// Upgrades: R00I (Mark of the Talon), Tip (Tooltip)
+{
+Polymorph (|cffffcc00M|r)
+}
+
+STRING 2131
+// Upgrades: R00I (Mark of the Talon), Ubertip (Tooltip - Extended)
+{
+Ability to morph an enemy unit to an animal. Does not work on the Herous.
+}
+
+STRING 2132
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Name (Name)
+{
+Steel Shells
+}
+
+STRING 2133
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Name (Name)
+{
+Silver Shells
+}
+
+STRING 2134
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Ubertip (Tooltip - Extended)
+{
+Increasing damage of the ballista attacks.
+}
+
+STRING 2135
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Ubertip (Tooltip - Extended)
+{
+Increasing damage of the ballista attacks.
+}
+
+STRING 2136
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Name (Name)
+{
+Iron Shells
+}
+
+STRING 2137
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Tip (Tooltip)
+{
+Silver Shells
+}
+
+STRING 2138
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Tip (Tooltip)
+{
+Steel Shells
+}
+
+STRING 2139
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Tip (Tooltip)
+{
+Iron Shells
+}
+
+STRING 2140
+// Upgrades: R00J (Strength of the Moon,Improved Strength of the Moon,Advanced Strength of the Moo), Ubertip (Tooltip - Extended)
+{
+Increasing damage of the ballista attacks.
+}
+
+STRING 2141
+// Upgrades: R00K (Berserker Upgrade), Name (Name)
+{
+Paladin Initiation
+}
+
+STRING 2142
+// Upgrades: R00K (Berserker Upgrade), Tip (Tooltip)
+{
+Paladin Initiation (|cffffcc00E|r)
+}
+
+STRING 2143
+// Upgrades: R00K (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+Initiation of the Lordaeron Knights to a holy Paladin Order. After initiation Paladins can get ability to Heal.
+}
+
+STRING 2144
+// Upgrades: R00L (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Paladin Training
+}
+
+STRING 2145
+// Upgrades: R00L (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Paladin Training (|cffffcc00T|r)
+}
+
+STRING 2146
+// Upgrades: R00L (Priest Adept Training,Priest Master Training), Name (Name)
+{
+Superior Paladin Training
+}
+
+STRING 2147
+// Upgrades: R00L (Priest Adept Training,Priest Master Training), Tip (Tooltip)
+{
+Superior Paladin Training (|cffffcc00T|r)
+}
+
+STRING 2148
+// Upgrades: R00L (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+Increased mana and health reserves, attack power and speed of regeneration of Paladins mana, as well as training in their "Holy Vision" spell.
+
+}
+
+STRING 2149
+// Upgrades: R00L (Priest Adept Training,Priest Master Training), Ubertip (Tooltip - Extended)
+{
+Increased mana and health reserves, attack power and speed of regeneration of Paladins mana, as well as training in their "Exorcism" spell.
+}
+
+STRING 2150
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Brass Cannons
+}
+
+STRING 2151
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Iron Cannons
+}
+
+STRING 2152
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Name (Name)
+{
+Steel Cannons
+}
+
+STRING 2153
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Iron Cannons
+}
+
+STRING 2154
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Steel Cannons
+}
+
+STRING 2155
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Cannon upgrade for Destroyers, Battleships and Submarines.
+}
+
+STRING 2156
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Cannon upgrade for Destroyers, Battleships and Submarines.
+}
+
+STRING 2157
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Tip (Tooltip)
+{
+Brass Cannons
+}
+
+STRING 2158
+// Upgrades: R600 (Black Gunpowder,Refined Gunpowder,Imbued Gunpowder), Ubertip (Tooltip - Extended)
+{
+Cannon upgrade for Destroyers, Battleships and Submarines.
+}
+
+STRING 2159
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Name (Name)
+{
+Brass Plating
+}
+
+STRING 2160
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Name (Name)
+{
+Iron Plating
+}
+
+STRING 2161
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Name (Name)
+{
+Steel Plating
+}
+
+STRING 2162
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Ubertip (Tooltip - Extended)
+{
+Increasing armor of orc Transports, Destroyers, Juggernaurts and War Turtles
+}
+
+STRING 2163
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Ubertip (Tooltip - Extended)
+{
+Increasing armor of orc Transports, Destroyers, Juggernaurts and War Turtles
+}
+
+STRING 2164
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Tip (Tooltip)
+{
+Brass Plating
+}
+
+STRING 2165
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Tip (Tooltip)
+{
+Iron Plating
+}
+
+STRING 2166
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Tip (Tooltip)
+{
+Steel Plating
+}
+
+STRING 2167
+// Upgrades: R601 (Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor), Ubertip (Tooltip - Extended)
+{
+Increasing armor of orc Transports, Destroyers, Juggernaurts and War Turtles
+}
+
+STRING 2168
+// Upgrades: R603 (Mark of the Claw), Name (Name)
+{
+Заклинания Тьмы
+}
+
+STRING 2169
+// Upgrades: R603 (Mark of the Claw), Tip (Tooltip)
+{
+Заклинания Тьмы (|cffffcc00D|r)
+}
+
+STRING 2170
+// Upgrades: R603 (Mark of the Claw), Ubertip (Tooltip - Extended)
+{
+Рыцарь Смерти обучается самым разрушительным заклинаниям Тьмы : "Вихрь" и " Порча"; кроме того у него увеличиваются запасы маны и здоровья, а также увеличивается атака и защита.
+}
+
+STRING 2171
+// Upgrades: R603 (Mark of the Claw), Hotkey (Hotkey)
+{
+Увеличение скорости перемещения дружественных войск, находящихся поблизости.
+}
+
+STRING 2172
+// Upgrades: R603 (Mark of the Claw), effect1 (Effect 1)
+{
+rmnx
+}
+
+STRING 2173
+// Upgrades: R603 (Mark of the Claw), effect2 (Effect 2)
+{
+rhpx
+}
+
+STRING 2174
+// Upgrades: R603 (Mark of the Claw), effect3 (Effect 3)
+{
+ratd
+}
+
+STRING 2175
+// Upgrades: R603 (Mark of the Claw), effect4 (Effect 4)
+{
+rarm
+}
+
+STRING 2176
+// Upgrades: R604 (Ensnare), Name (Name)
+{
+Nets
+}
+
+STRING 2177
+// Upgrades: R604 (Ensnare), Tip (Tooltip)
+{
+Research Magic Nets
+}
+
+STRING 2178
+// Upgrades: R604 (Ensnare), Ubertip (Tooltip - Extended)
+{
+Enables Rangers to use the Ensnare ability. Ensnare causes a target enemy unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units.
+}
+
+STRING 2179
+// Upgrades: R605 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+(маг)
+}
+
+STRING 2180
+// Upgrades: R605 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Bigger Tanks
+}
+
+STRING 2181
+// Upgrades: R605 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Bigger Tanks
+}
+
+STRING 2182
+// Upgrades: R605 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+Oil Tankers with bigger tanks get additional 25 barrels of oil upon transportation.
+}
+
+STRING 2183
+// Upgrades: R60A (Improved Lumber Harvesting,Advanced Lumber Harvesting), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 2184
+// Upgrades: R606 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+(маг)
+}
+
+STRING 2185
+// Upgrades: R606 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Better Pickaxes
+}
+
+STRING 2186
+// Upgrades: R606 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Better Pickaxes
+}
+
+STRING 2187
+// Upgrades: R606 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 2188
+// Upgrades: R606 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+Peasants bring additional 25 gold pieces upon harvesting.
+}
+
+STRING 2189
+// Upgrades: R606 (Improved Lumber Harvesting,Advanced Lumber Harvesting), effect1 (Effect 1)
+{
+rmin
+}
+
+STRING 2190
+// Upgrades: R607 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+(маг)
+}
+
+STRING 2191
+// Upgrades: R607 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Saw Upgrade
+}
+
+STRING 2192
+// Upgrades: R607 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Saw Upgrade
+}
+
+STRING 2193
+// Upgrades: R607 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+Peasants bring additional 25 lumber pieces upon harvesting.
+}
+
+STRING 2194
+// Upgrades: R608 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Better Pickaxes
+}
+
+STRING 2195
+// Upgrades: R608 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+(маг)
+}
+
+STRING 2196
+// Upgrades: R608 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Better Pickaxes
+}
+
+STRING 2197
+// Upgrades: R608 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+Peons bring additional 25 gold pieces upon harvesting.
+}
+
+STRING 2198
+// Upgrades: R608 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 2199
+// Upgrades: R608 (Improved Lumber Harvesting,Advanced Lumber Harvesting), effect1 (Effect 1)
+{
+rmin
+}
+
+STRING 2200
+// Upgrades: R609 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+(маг)
+}
+
+STRING 2201
+// Upgrades: R609 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Lumber Saw Upgrade
+}
+
+STRING 2202
+// Upgrades: R609 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Lumber Saw Upgrade
+}
+
+STRING 2203
+// Upgrades: R609 (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+Peons bring additional 25 lumber pieces upon harvesting.
+}
+
+STRING 2204
+// Upgrades: R60A (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+(маг)
+}
+
+STRING 2205
+// Upgrades: R60A (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Bigger Tanks
+}
+
+STRING 2207
+// Upgrades: R60A (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Bigger Tanks
+}
+
+STRING 2208
+// Upgrades: R60A (Improved Lumber Harvesting,Advanced Lumber Harvesting), Ubertip (Tooltip - Extended)
+{
+Oil Tankers with bigger tanks get additional 25 barrels of oil upon transportation.
+}
+
+STRING 2209
+// Upgrades: R60B (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+Flying Machines can carry units
+}
+
+STRING 2210
+// Upgrades: R60B (Flying Machine Bombs), Tip (Tooltip)
+{
+Passenger
+}
+
+STRING 2211
+// Upgrades: R60B (Flying Machine Bombs), Name (Name)
+{
+Passenger
+}
+
+STRING 2212
+// Upgrades: R60C (Flying Machine Bombs), Name (Name)
+{
+Passenger
+}
+
+STRING 2213
+// Upgrades: R60C (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+Zeppelins can carry units
+}
+
+STRING 2214
+// Upgrades: R60C (Flying Machine Bombs), EditorSuffix (Editor Suffix)
+{
+(Zeppelin)
+}
+
+STRING 2215
+// Upgrades: R60C (Flying Machine Bombs), Tip (Tooltip)
+{
+Passenger
+}
+
+STRING 2216
+// Upgrades: R60D (Flying Machine Bombs), Name (Name)
+{
+Goblin Land Mines
+}
+
+STRING 2217
+// Upgrades: R60D (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+Goblins can carry and set up land mines.
+}
+
+STRING 2218
+// Upgrades: R60D (Flying Machine Bombs), Tip (Tooltip)
+{
+Goblin Land Mines
+}
+
+STRING 2219
+// Upgrades: R60D (Flying Machine Bombs), EditorSuffix (Editor Suffix)
+{
+(Goblins)
+}
+
+STRING 2220
+// Upgrades: R60E (Flying Machine Bombs), Name (Name)
+{
+Dwarven Land Mines
+}
+
+STRING 2221
+// Upgrades: R60E (Flying Machine Bombs), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 2222
+// Upgrades: R60E (Flying Machine Bombs), Tip (Tooltip)
+{
+Dwarven Land Mines
+}
+
+STRING 2223
+// Upgrades: R60E (Flying Machine Bombs), Ubertip (Tooltip - Extended)
+{
+Dwarves can carry and set up land mines.
+}
+
+STRING 2224
+// Upgrades: R60F (Improved Lumber Harvesting,Advanced Lumber Harvesting), Name (Name)
+{
+Increase Lumber Carry 
+}
+
+STRING 2225
+// Upgrades: R60F (Improved Lumber Harvesting,Advanced Lumber Harvesting), EditorSuffix (Editor Suffix)
+{
+(Runestone)
+}
+
+STRING 2226
+// Upgrades: R60F (Improved Lumber Harvesting,Advanced Lumber Harvesting), Tip (Tooltip)
+{
+Increase Lumber Carry 
+}
+
+STRING 2227
+// Upgrades: R60G (Envenomed Spears), Ubertip (Tooltip - Extended)
+{
+Orc Crossbowmans will be quipped with poisoned bolts.
+}
+
+STRING 2228
+// Upgrades: R60G (Envenomed Spears), Name (Name)
+{
+Posined Stings
+}
+
+STRING 2229
+// Upgrades: R60G (Envenomed Spears), Tip (Tooltip)
+{
+Posined Stings
+}
+
+STRING 2230
+// Upgrades: R60H (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Name (Name)
+{
+Advanced Crossbows
+}
+
+STRING 2231
+// Upgrades: R60H (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), effect1 (Effect 1)
+{
+Линкор
+}
+
+STRING 2232
+// Upgrades: R60H (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Advanced crossbows shoot and reload faster
+}
+
+STRING 2233
+// Upgrades: R60H (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 2234
+// Upgrades: R60H (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Tip (Tooltip)
+{
+Advanced Crossbows
+}
+
+STRING 2235
+// Upgrades: R60I (Berserker Upgrade), Name (Name)
+{
+Orc Crossbowman
+}
+
+STRING 2236
+// Upgrades: R60I (Berserker Upgrade), Tip (Tooltip)
+{
+Orc Crossbowman (|cffffcc00E|r)
+}
+
+STRING 2237
+// Upgrades: R60I (Berserker Upgrade), Ubertip (Tooltip - Extended)
+{
+Upgrade orc range units to skillfull crossbowman
+}
+
+STRING 2238
+// Upgrades: R60J (Pulverize), Name (Name)
+{
+Shock
+}
+
+STRING 2239
+// Upgrades: R60J (Pulverize), Tip (Tooltip)
+{
+Shock
+}
+
+STRING 2240
+// Upgrades: R60J (Pulverize), Ubertip (Tooltip - Extended)
+{
+Orc Crossbowman gains chance to stun enemy with bolt
+}
+
+STRING 2241
+// Upgrades: R60K (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Increase damage of orc Spearthrowers and Crossbowmans
+}
+
+STRING 2242
+// Upgrades: R60K (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Increase damage of orc Spearthrowers and Crossbowmans
+}
+
+STRING 2243
+// Upgrades: R60K (Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons), Ubertip (Tooltip - Extended)
+{
+Increase damage of orc Spearthrowers and Crossbowmans
+}
+
+STRING 2244
+// Upgrades: R60L (Burning Oil), Name (Name)
+{
+Burning Blade
+}
+
+STRING 2245
+// Upgrades: R60L (Burning Oil), Tip (Tooltip)
+{
+Burning Blade (|cffffcc00N|r)
+}
+
+STRING 2246
+// Upgrades: R60L (Burning Oil), Ubertip (Tooltip - Extended)
+{
+Warriors can set their blades on fire
+}
+
+STRING 2247
+// Upgrades: R602 (Pulverize), Name (Name)
+{
+Blackrockbanner
+}
+
+STRING 2250
+{
+Troll Axethrower
+}
+
+STRING 2251
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll7.flac
+{
+Vengeance for Zul'jin!
+}
+
+STRING 2254
+{
+Rend Blackhand
+}
+
+STRING 2255
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend6.flac
+{
+Hmm... a patrol. Their camp must be nearby.
+}
+
+STRING 2256
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 2258
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 2259
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 2260
+{
+|cffffff00Cheat Enabled.|r
+}
+
+STRING 2263
+// Items: I000 (Doomsaw), Name (Name)
+{
+Doomsaw
+}
+
+STRING 2264
+// Items: I000 (Doomsaw), Description (Description)
+{
+|cffff8c00Artifact|r|nWolfrider Saber with sharp metal spikes.
+}
+
+STRING 2269
+// Abilities: A00P (Heart of the Mountain), Researchhotkey (Hotkey - Learn)
+{
+R
+}
+
+STRING 2282
+// Abilities: A00Q (Rend), Researchubertip (Tooltip - Learn - Extended)
+{
+Brutaly strikes the enemy dealing massive damage, stunning it and additionally damaging nearby enemies.
+
+Damage: 150 / 250 / 350
+Damage AoE: 60 / 90 / 120
+Duration: 5 / 6 / 7
+}
+
+STRING 2283
+// Abilities: A00Q (Rend), Ubertip (Tooltip - Normal - Extended)
+{
+Brutaly strikes the enemy dealing massive damage, stunning it and additionally damaging nearby enemies.
+
+Damage: |cfffac800150|r |cffc0c0c0/ 250 / 350|r
+Damage AoE: |cfffac80060|r |cffc0c0c0/ 90 / 120|r
+Duration: |cfffac8005|r |cffc0c0c0/ 6 / 7|r
+}
+
+STRING 2284
+// Abilities: A00Q (Rend), Ubertip (Tooltip - Normal - Extended)
+{
+Brutaly strikes the enemy dealing massive damage, stunning it and additionally damaging nearby enemies.
+
+Damage: |cffc0c0c0150 /|r |cfffac800250|r |cffc0c0c0/ 350|r
+Damage AoE: |cffc0c0c060 /|r |cfffac80090|r |cffc0c0c0/ 120|r
+Duration: |cffc0c0c05 /|r |cfffac8006|r |cffc0c0c0/ 7|r
+}
+
+STRING 2285
+// Abilities: A00Q (Rend), Ubertip (Tooltip - Normal - Extended)
+{
+Brutaly strikes the enemy dealing massive damage, stunning it and additionally damaging nearby enemies.
+
+Damage: |cffc0c0c0150 / 250 /|r |cfffac800350|r
+Damage AoE: |cffc0c0c060 / 90 /|r |cfffac800120|r
+Duration: |cffc0c0c05 / 6 /|r |cfffac8007|r
+}
+
+STRING 2300
+// Abilities: A00G (Rend), EditorSuffix (Editor Suffix)
+{
+(AoE)
+}
+
+STRING 2308
+// Abilities: A00P (Heart of the Mountain), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 2309
+// Abilities: A00Q (Rend), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 2310
+// Buffs/Effects: B002 (Rend), Bufftip (Tooltip)
+{
+Rend
+}
+
+STRING 2314
+// Units: n004 (Pack Alpha), Name (Name)
+{
+Pack Alpha
+}
+
+STRING 2315
+// Buffs/Effects: B002 (Rend), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 2316
+// Units: n006 (Wolf), Name (Name)
+{
+Wolf
+}
+
+STRING 2317
+// Buffs/Effects: B005 (), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 2318
+// Units: u003 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 2319
+// Units: u003 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Rend Spell)
+}
+
+STRING 2320
+// Units: nmg1 (Murloc Hut), Name (Name)
+{
+Murloc Hut
+}
+
+STRING 2323
+{
+|cff00ff00HINT|r
+Pillage. Researching pillage will enable your grunts and peons to collect resources whenever they damage an enemy building. Pillage can be researched at the Great Hall or its higher tier equivalents.
+}
+
+STRING 2324
+// Units: n007 (Raven), Name (Name)
+{
+Raven
+}
+
+STRING 2325
+// Items: shrs (Meat), Name (Name)
+{
+Meat
+}
+
+STRING 2326
+// Items: shrs (Meat), Tip (Tooltip - Basic)
+{
+Meat
+}
+
+STRING 2327
+// Items: shrs (Meat), Ubertip (Tooltip - Extended)
+{
+A piece of jerky. Heals <AIhx,DataA1> hit points when eaten. |nContains <shrs,uses> charges.
+}
+
+STRING 2328
+// Abilities: A641 (Self heal), Name (Name)
+{
+Self heal
+}
+
+STRING 2329
+// Abilities: A641 (Self heal), Ubertip (Tooltip - Normal - Extended)
+{
+Heals unit for 500 hit points over 3 seconds.
+}
+
+STRING 2330
+// Abilities: A641 (Self heal), Tip (Tooltip - Normal)
+{
+Self heal
+}
+
+STRING 2339
+{
+Train 10 grunts
+}
+
+STRING 2340
+{
+Train 10 grunts ( 1 of 10 trained )
+}
+
+STRING 2341
+{
+Train 10 grunts ( 2 of 10 trained )
+}
+
+STRING 2342
+{
+Train 10 grunts ( 3 of 10 trained )
+}
+
+STRING 2343
+{
+Train 10 grunts ( 4 of 10 trained )
+}
+
+STRING 2344
+{
+Train 10 grunts ( 5 of 10 trained )
+}
+
+STRING 2345
+{
+Train 10 grunts ( 6 of 10 trained )
+}
+
+STRING 2346
+{
+Train 10 grunts ( 7 of 10 trained )
+}
+
+STRING 2347
+{
+Train 10 grunts ( 8 of 10 trained )
+}
+
+STRING 2348
+{
+Train 10 grunts ( 9 of 10 trained )
+}
+
+STRING 2349
+{
+|cffffcc00MAIN QUEST UPDATED|r
+Strength in numbers
+|cffc0c0c0- Build a barracks (completed)|r
+- Train 10 grunts
+}
+
+STRING 2352
+{
+|cffffcc00MAIN QUEST COMPLETED|r
+Strength in numbers
+|cffc0c0c0 - Build a barracks (completed).|r
+|cffc0c0c0 - Train 10 grunts (completed).|r
+}
+
+STRING 2353
+// Units: O60B (Troll Chieftain), Name (Name)
+{
+Troll Chieftain
+}
+
+STRING 2354
+// Units: nmh0 (Troll Hut), Name (Name)
+{
+Troll Hut
+}
+
+STRING 2355
+// Units: nmh0 (Troll Hut), Tip (Tooltip - Basic)
+{
+Build Troll Hut
+}
+
+STRING 2356
+{
+Crippling Durnhole
+}
+
+STRING 2357
+{
+While rescuing Zul’jin is your highest priority, the power of Durnholde Keep remains a concern. Destroying the prison outpost will go a long way in weakening the fortress and delay any efforts to recapture Zul’jin.
+}
+
+STRING 2358
+{
+Destroy the Barracks
+}
+
+STRING 2359
+{
+Destroy the Town Hall
+}
+
+STRING 2360
+{
+Destroy farms
+}
+
+STRING 2361
+{
+|cffffcc00OPTIONAL QUEST|r
+Crippling Durnholde
+- Destroy the Barracks.
+- Destroy the Townhall.
+- Destroy farms.
+}
+
+STRING 2362
+{
+|cffffcc00OPTIONAL QUEST COMPLETED|r
+Crippling Durnholde
+|cffc0c0c0- Destroy the Barracks (completed).|r
+|cffc0c0c0- Destroy the Townhall (completed).|r
+|cffc0c0c0- Destroy farms (completed).|r
+}
+
+STRING 2363
+{
+Forest Troll
+}
+
+STRING 2364
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll3.flac
+{
+We cannot make it there on our own, but if ya truly be here to help us, den we will show you how to build a proper Troll Lumber Mill and grant you the use of our tools and weapons!
+}
+
+STRING 2369
+{
+Rend Blackhand
+}
+
+STRING 2370
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend10.flac
+{
+Greetings Zul’jin, I am Rend Backhand of the Orcish Horde. We have come to deliver you to safety.
+}
+
+STRING 2373
+{
+Zul'jin
+}
+
+STRING 2374
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin2.flac
+{
+Then we be truly in your debt, Rend Blackhand. Da shortest path to our village leads through da swamp.
+}
+
+STRING 2375
+{
+Rend Blackhand
+}
+
+STRING 2376
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend11.flac
+{
+Then we’d best get going. We will continue this conversation once you and your people are safe.
+}
+
+STRING 2377
+{
+Rend Blackhand
+}
+
+STRING 2378
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend15.flac
+{
+Welcome to the Horde, Zul’jin.
+}
+
+STRING 2379
+{
+Zul'jin
+}
+
+STRING 2380
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin6.flac
+{
+It be good to be here, Rend Blackhand.
+}
+
+STRING 2381
+{
+Utok Scratcher
+}
+
+STRING 2382
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Utok3.flac
+{
+Chieftain, I know our focus must be Zul’jin, but burning this place to the ground would greatly weaken Durnholde. 
+}
+
+STRING 2383
+{
+Rend Blackhand
+}
+
+STRING 2384
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend9.flac
+{
+You are right, Utok, and the carnage would do well in covering our escape. See it done!
+}
+
+STRING 2385
+// Doodads: D000 (Wanted Scroll), Name (Name)
+{
+Wanted Scroll
+}
+
+STRING 2386
+// Units: n008 (Thrall), Name (Name)
+{
+Thrall
+}
+
+STRING 2387
+// Units: n008 (Thrall), Ubertip (Tooltip - Extended)
+{
+A tiny orc.
+}
+
+STRING 2388
+{
+Prisoners
+}
+
+STRING 2389
+{
+Durnholde Garrison
+}
+
+STRING 2390
+// Units: hrrh (Milan the Scribe), Name (Name)
+{
+Milan the Scribe
+}
+
+STRING 2391
+// Units: ndrj (Slime), Name (Name)
+{
+Slime
+}
+
+STRING 2392
+// Units: o60X (Pig Farm), Tip (Tooltip - Basic)
+{
+Build Pig Farm
+}
+
+STRING 2393
+// Units: o60Z (Troll Lumber Mill), Tip (Tooltip - Basic)
+{
+Build Troll Lumber Mill
+}
+
+STRING 2394
+{
+Blackrock clan
+}
+
+STRING 2395
+// Units: otrb (Troll Burrow), Name (Name)
+{
+Troll Burrow
+}
+
+STRING 2396
+// Units: nth1 (Troll Hut), Name (Name)
+{
+Troll Hut
+}
+
+STRING 2397
+// Units: nth0 (Troll Hut), Name (Name)
+{
+Troll Hut
+}
+
+STRING 2408
+{
+Amani Priest
+}
+
+STRING 2409
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll6.flac
+{
+Who be those green skins that accompany him?
+}
+
+STRING 2412
+{
+Amani Troll
+}
+
+STRING 2413
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll5.flac
+{
+It be Zul'jin! thank da loa! he's alive!
+}
+
+STRING 2438
+// Units: uaco (Heretic), Name (Name)
+{
+Heretic
+}
+
+STRING 2439
+// Units: nwiz (Traitor Wizard), Name (Name)
+{
+Traitor Wizard
+}
+
+STRING 2440
+{
+Zul'jin must survive.
+}
+
+STRING 2441
+{
+|cffffcc00MAIN QUEST FAILED|r
+Zul'jin
+|cff808080- Free Zul'jin (completed)|r
+|cffff0000- Escort him to the troll village (Failed)|r
+|cffff0000- Zul'jin must survive  (Failed)|r
+}
+
+STRING 2443
+{
+|cffffcc00OPTIONAL QUEST UPDATED|r
+Crippling Durnholde
+|cffc0c0c0- Destroy the Barracks (completed).|r
+- Destroy the Townhall.
+- Destroy farms.
+}
+
+STRING 2444
+{
+|cffffcc00OPTIONAL QUEST UPDATED|r
+Crippling Durnholde
+|cffc0c0c0- Destroy the Barracks (completed).|r
+|cffc0c0c0- Destroy the Townhall. (completed).|r
+- Destroy farms.
+}
+
+STRING 2445
+{
+|cffffcc00OPTIONAL QUEST UPDATED|r
+Crippling Durnholde
+|cffc0c0c0- Destroy the Barracks (completed).|r
+- Destroy the Townhall.
+|cffc0c0c0- Destroy farms. (completed).|r
+}
+
+STRING 2446
+{
+|cffffcc00OPTIONAL QUEST UPDATED|r
+Crippling Durnholde
+- Destroy the Barracks.
+|cffc0c0c0- Destroy the Townhall. (completed).|r
+- Destroy farms.
+}
+
+STRING 2447
+{
+|cffffcc00OPTIONAL QUEST UPDATED|r
+Crippling Durnholde
+- Destroy the Barracks.
+- Destroy the Townhall.
+- Destroy farms.
+}
+
+STRING 2448
+{
+Rend Blackhand
+}
+
+STRING 2449
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend12.flac
+{
+Aargh, again with these slimy walking frogs! Must we mire ourselves with their blood everywhere?!
+}
+
+STRING 2450
+{
+Zuljin
+}
+
+STRING 2451
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin3.flac
+{
+They be a nuisance for everyone, friend. All races consider dem pests, even da elves and da humans, a rare matter dat we agree on.
+}
+
+STRING 2452
+{
+Rend Blackhand
+}
+
+STRING 2453
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend13.flac
+{
+Just..kill them, KILL THEM!
+}
+
+STRING 2454
+{
+Rend Blackhand
+}
+
+STRING 2455
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend7.flac
+{
+Murlocs! I hate these two legged frog freaks… what are they doing here?
+}
+
+STRING 2456
+{
+Utok Scratcher
+}
+
+STRING 2457
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Utok2.flac
+{
+It seems like the pests are a widespread plague on this world, Chieftain, much like Podlings back on Draenor.
+}
+
+STRING 2458
+{
+Rend Blackhand
+}
+
+STRING 2459
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend8.flac
+{
+I see… all the more reason to exterminate them!
+}
+
+STRING 2461
+// Units: n009 (Rends Wolf), Name (Name)
+{
+Rends Wolf
+}
+
+STRING 2462
+// Units: O617 (Warlord), Tip (Tooltip - Basic)
+{
+Warlord
+}
+
+STRING 2463
+// Units: O001 (Warlord), EditorSuffix (Name - Editor Suffix)
+{
+(Mountless)
+}
+
+STRING 2464
+// Units: O001 (Warlord), Propernames (Proper Names)
+{
+Rend Blackhand
+}
+
+STRING 2465
+// Buffs/Effects: B004 (), EditorSuffix (Editor Suffix)
+{
+(Rend)
+}
+
+STRING 2466
+// Items: I000 (Doomsaw), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Artifact|r|nIncreases the attack damage of the Hero by <AItx,DataA1> when carried.|n|cffffcc00History|r|n|cffffdeadForged in the fires of Blackrock foundry and blessed with a powerful fire enhancement, this weapon has cemented Rend's position as the true heir to Blackhand the Destroyer.|r
+}
+
+STRING 2467
+{
+|cffd47832LORE|r
+Durnholde Keep is a powerful fortress in the Hillsbrad region. Ruled by the Blackmoore family, Durnholde serves as one of the largest prison systems in Lordaeron. Its outlying camps house some of the kingdom’s most notorious outlaws.
+}
+
+STRING 2468
+{
+|cffd47832LORE|r
+Zul’jin is a powerful troll warlord and ruler of the Amani Tribe. He shares a long and bloody history with the High Elves of Quel’thalas, and will ally himself with anyone who will help his people reclaim their ancient homeland.
+}
+
+STRING 2469
+// Units: o614 (Great Hall), Tip (Tooltip - Basic)
+{
+Build Great Hall
+}
+
+STRING 2470
+// Destructibles: B000 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2471
+// Destructibles: B000 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 2472
+{
+Rend Blackhand
+}
+
+STRING 2473
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend12.flac
+{
+Aargh, again with these slimy walking frogs! Must we mire ourselves with their blood everywhere?!
+}
+
+STRING 2474
+{
+Zuljin
+}
+
+STRING 2475
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin3.flac
+{
+They be a nuisance for everyone, friend. All races consider dem pests, even da elves and da humans, a rare matter dat we agree on.
+}
+
+STRING 2476
+{
+Rend Blackhand
+}
+
+STRING 2477
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend13.flac
+{
+Just..kill them, KILL THEM!
+}
+
+STRING 2478
+// Destructibles: B001 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2479
+// Destructibles: B002 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2480
+// Destructibles: B002 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Tilted)
+}
+
+STRING 2481
+// Destructibles: B003 (WinterSnowCliff), Name (Name)
+{
+WinterSnowCliff
+}
+
+STRING 2482
+// Destructibles: B003 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small Tilted)
+}
+
+STRING 2483
+// Abilities: A00N (Blackrock & Roll), Name (Name)
+{
+Blackrock & Roll
+}
+
+STRING 2485
+// Buffs/Effects: B005 (), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Blackrock & Roll ; it has an increased movement speed and attack rate.
+}
+
+STRING 2486
+// Units: O617 (Warlord), Awakentip (Tooltip - Awaken)
+{
+Revieve Warlord
+}
+
+STRING 2487
+// Units: O617 (Warlord), Revivetip (Tooltip - Revive)
+{
+Revive Warlord
+}
+
+STRING 2488
+// Units: O617 (Warlord), Ubertip (Tooltip - Extended)
+{
+Dal'Rend Blackhand is the oldest son of Blackhand the Destroyer, former Warchief of the Orcish Horde. Following his father’s removal at the hands of Orgrim Doomhammer, Rend and his brother Maim have led the Blacktooth Grin Clan and its elite frontline warriors. 
+|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2490
+// Units: o605 (Utok Scratcher), Tip (Tooltip - Basic)
+{
+Scout
+}
+
+STRING 2491
+// Units: O001 (Warlord), Name (Name)
+{
+Warlord
+}
+
+STRING 2492
+// Abilities: A00O (Devastate), Name (Name)
+{
+Devastate
+}
+
+STRING 2494
+// Buffs/Effects: B004 (), Buffubertip (Tooltip - Extended)
+{
+This unit's armor has been devastated.
+}
+
+STRING 2495
+// Abilities: A00P (Heart of the Mountain), Name (Name)
+{
+Heart of the Mountain
+}
+
+STRING 2496
+// Buffs/Effects: B006 (), EditorSuffix (Editor Suffix)
+{
+(Rend - Armor)
+}
+
+STRING 2497
+// Abilities: A00P (Heart of the Mountain), Tip (Tooltip - Normal)
+{
+Heart of the Mountain
+}
+
+STRING 2498
+// Buffs/Effects: B007 (), EditorSuffix (Editor Suffix)
+{
+(Rend - Attack)
+}
+
+STRING 2499
+// Abilities: A00N (Blackrock & Roll), Researchtip (Tooltip - Learn)
+{
+Learn Blackrock & Roll  - [|cffffcc00Level %d|r]
+}
+
+STRING 2500
+// Abilities: A00N (Blackrock & Roll), Tip (Tooltip - Normal)
+{
+Blackrock & Roll - [|cffffcc00Level 2|r]
+}
+
+STRING 2501
+// Abilities: A00N (Blackrock & Roll), Tip (Tooltip - Normal)
+{
+Blackrock & Roll - [|cffffcc00Level 1|r]
+}
+
+STRING 2502
+// Abilities: A00N (Blackrock & Roll), Tip (Tooltip - Normal)
+{
+Blackrock & Roll - [|cffffcc00Level 3|r]
+}
+
+STRING 2503
+// Buffs/Effects: B005 (), Bufftip (Tooltip)
+{
+Blackrock & Roll
+}
+
+STRING 2508
+// Abilities: A00O (Devastate), Researchtip (Tooltip - Learn)
+{
+Learn Devastate - [|cffffcc00Level %d|r]
+}
+
+STRING 2509
+// Abilities: A00O (Devastate), Tip (Tooltip - Normal)
+{
+Devastate - [|cffffcc00Level 1|r]
+}
+
+STRING 2510
+// Abilities: A00O (Devastate), Tip (Tooltip - Normal)
+{
+Devastate - [|cffffcc00Level 2|r]
+}
+
+STRING 2511
+// Abilities: A00O (Devastate), Tip (Tooltip - Normal)
+{
+Devastate - [|cffffcc00Level 3|r]
+}
+
+STRING 2512
+// Buffs/Effects: B004 (), Bufftip (Tooltip)
+{
+Devastate
+}
+
+STRING 2513
+// Abilities: A00P (Heart of the Mountain), Researchtip (Tooltip - Learn)
+{
+Learn Heart of the Mountain
+}
+
+STRING 2514
+// Buffs/Effects: B006 (), Bufftip (Tooltip)
+{
+Heart of the Mountain
+}
+
+STRING 2515
+// Buffs/Effects: B007 (), Bufftip (Tooltip)
+{
+Heart of the Mountain
+}
+
+STRING 2516
+// Abilities: XAZ2 (Grievous Throw), Name (Name)
+{
+Grievous Throw
+}
+
+STRING 2517
+// Units: u004 (Locust), EditorSuffix (Name - Editor Suffix)
+{
+(Zul'jin)
+}
+
+STRING 2518
+// Abilities: XAZ2 (Grievous Throw), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 2519
+// Abilities: XAZ2 (Grievous Throw), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 2520
+// Abilities: XAZ2 (Grievous Throw), Researchtip (Tooltip - Learn)
+{
+Learn Grievous Throw - [|cffffcc00Level %d|r]
+}
+
+STRING 2521
+// Abilities: XAZ2 (Grievous Throw), Tip (Tooltip - Normal)
+{
+Grievous Throw - [|cffffcc00Level 1|r]
+}
+
+STRING 2522
+// Abilities: XAZ2 (Grievous Throw), Tip (Tooltip - Normal)
+{
+Grievous Throw - [|cffffcc00Level 2|r]
+}
+
+STRING 2523
+// Abilities: XAZ2 (Grievous Throw), Tip (Tooltip - Normal)
+{
+Grievous Throw - [|cffffcc00Level 3|r]
+}
+
+STRING 2524
+// Abilities: XAZ2 (Grievous Throw), Researchubertip (Tooltip - Learn - Extended)
+{
+Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: 5s
+Initial Damage: 75 / 150 / 225
+Damage per Second: 20 / 35 / 50
+}
+
+STRING 2525
+// Abilities: XAZ2 (Grievous Throw), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cffffcc0075 |r|cff808080/ 150 / 225|r
+Damage per Second: |cffffcc0020 |r|cff808080/ 35 / 50|r
+}
+
+STRING 2526
+// Abilities: XAZ2 (Grievous Throw), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cff80808075 /|r |cffffcc00150 |r|cff808080/ 225|r
+Damage per Second: |cff80808020 /|r |cffffcc0035 |r|cff808080/ 50|r
+}
+
+STRING 2527
+// Abilities: XAZ2 (Grievous Throw), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+
+|cffe6cc80¨You want axe?¨|r
+
+Duration: |cffffcc005s|r
+Initial Damage: |cff80808075 / 150 /|r |cffffcc00225|r
+Damage per Second: |cff80808020 / 35 /|r |cffffcc0050|r
+}
+
+STRING 2528
+// Abilities: XAZ6 (Grievous Throw), Name (Name)
+{
+Grievous Throw
+}
+
+STRING 2529
+// Abilities: XAZ2 (Grievous Throw), EditorSuffix (Editor Suffix)
+{
+(Zul'jin)
+}
+
+STRING 2530
+// Abilities: XAZ5 (Locust Jar), Name (Name)
+{
+Locust Jar
+}
+
+STRING 2531
+// Abilities: XAZ5 (Locust Jar), EditorSuffix (Editor Suffix)
+{
+(Zul'jin - Summon)
+}
+
+STRING 2532
+// Abilities: A60C (Ambush), Ubertip (Tooltip - Normal - Extended)
+{
+Stops the unit from auto-acquiring enemies, allowing it to hide in the shadows and remain unseen at night.
+}
+
+STRING 2533
+// Abilities: XAZ1 (Locust Jar), EditorSuffix (Editor Suffix)
+{
+(Zul'jin)
+}
+
+STRING 2534
+// Abilities: XAZ1 (Locust Jar), Name (Name)
+{
+Locust Jar
+}
+
+STRING 2535
+// Abilities: XAZ1 (Locust Jar), Researchtip (Tooltip - Learn)
+{
+Learn Locust Jar - [|cffffcc00Level %d|r]
+}
+
+STRING 2536
+// Abilities: XAZ1 (Locust Jar), Tip (Tooltip - Normal)
+{
+Locust Jar - [|cffffcc00Level 1|r]
+}
+
+STRING 2537
+// Abilities: XAZ1 (Locust Jar), Tip (Tooltip - Normal)
+{
+Locust Jar - [|cffffcc00Level 2|r]
+}
+
+STRING 2538
+// Abilities: XAZ1 (Locust Jar), Tip (Tooltip - Normal)
+{
+Locust Jar - [|cffffcc00Level 3|r]
+}
+
+STRING 2539
+// Abilities: XAZ1 (Locust Jar), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 2540
+// Abilities: XAZ1 (Locust Jar), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 2541
+// Abilities: XAZ1 (Locust Jar), Researchubertip (Tooltip - Learn - Extended)
+{
+Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: 14s / 17s / 20s
+Number of Locusts: 4 / 5 / 6
+}
+
+STRING 2542
+// Abilities: XAZ1 (Locust Jar), Ubertip (Tooltip - Normal - Extended)
+{
+Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cffffcc0014s |r|cff808080/ 17s / 20s|r
+Number of Locusts: |cffffcc004 |r|cff808080/ 5 / 6|r
+}
+
+STRING 2543
+// Abilities: XAZ1 (Locust Jar), Ubertip (Tooltip - Normal - Extended)
+{
+Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cff80808014s /|r |cffffcc0017s |r|cff808080/ 20s|r
+Number of Locusts: |cff8080804 /|r |cffffcc005 |r|cff808080/ 6|r
+}
+
+STRING 2544
+// Abilities: XAZ1 (Locust Jar), Ubertip (Tooltip - Normal - Extended)
+{
+Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+
+Duration: |cff80808014s / 17s /|r |cffffcc0020s|r
+Number of Locusts: |cff8080804 / 5 /|r |cffffcc006|r
+}
+
+STRING 2545
+// Buffs/Effects: XBZ1 (), EditorSuffix (Editor Suffix)
+{
+(Zul'jin)
+}
+
+STRING 2546
+// Destructibles: B004 (Snowpile), Name (Name)
+{
+Snowpile
+}
+
+STRING 2547
+// Abilities: XAZ6 (Grievous Throw), EditorSuffix (Editor Suffix)
+{
+(Zul'jin - DoT)
+}
+
+STRING 2548
+// Buffs/Effects: XBZ1 (), Bufftip (Tooltip)
+{
+Grievous Throw
+}
+
+STRING 2549
+// Units: O60B (Troll Chieftain), Tip (Tooltip - Basic)
+{
+Troll Chieftan
+}
+
+STRING 2550
+// Units: O60B (Troll Chieftain), Revivetip (Tooltip - Revive)
+{
+Revive Troll Chieftan
+}
+
+STRING 2551
+// Units: O60B (Troll Chieftain), Awakentip (Tooltip - Awaken)
+{
+Revive Troll Chieftan
+}
+
+STRING 2552
+// Units: O60B (Troll Chieftain), Ubertip (Tooltip - Extended)
+{
+Zuljin is the Warlord of the Amani forest Trolls. A powerful and fierce troll, Zul'jin has an immense hatred towards the High Elves of Quel'thalas, and this hatred led him into seeking unlikely allies in the form of outlandish invading Orcs.
+	|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 2553
+// Units: o605 (Utok Scratcher), Ubertip (Tooltip - Extended)
+{
+|cffffcc00Level 2 Scout|r |n|nUtok Scratcher is an apprentice shaman and chief advisor to the ruthless commander of the Blackrock clan, Orgrim Doomhammer. He is the author of The Dominion of Lordaeron, which recorded the Horde's actions during the Second War.
+|n|n|cffffcc00Attacks land units.|r
+}
+
+STRING 2554
+// Abilities: A00O (Devastate), Researchubertip (Tooltip - Learn - Extended)
+{
+Decreases armor; deals high damage over time to the target. |nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>.
+}
+
+STRING 2555
+// Abilities: A00O (Devastate), Ubertip (Tooltip - Normal - Extended)
+{
+Decreases armor; deals high damage over time to the target.|n|nDecreases armor by <ANab,DataC1>; deals <ANab,DataD1> damage per second to the target.|nLasts <ANab,Dur1> seconds.
+}
+
+STRING 2556
+// Abilities: A00O (Devastate), Ubertip (Tooltip - Normal - Extended)
+{
+Decreases armor; deals high damage over time to the target.|n|nDecreases armor by <ANab,DataC2>; deals <ANab,DataD2> damage per second to the target.|nLasts <ANab,Dur2> seconds.
+}
+
+STRING 2557
+// Abilities: A00O (Devastate), Ubertip (Tooltip - Normal - Extended)
+{
+Decreases armor; deals high damage over time to the target.|n|nDecreases armor by <ANab,DataC31>; deals <ANab,DataD3> damage per second to the target.|nLasts <ANab,Dur3> seconds.
+}
+
+STRING 2558
+// Abilities: A00P (Heart of the Mountain), Researchubertip (Tooltip - Learn - Extended)
+{
+Gives friendly nearby units a <Aroa,DataA1,%>% bonus to damage. |nLasts <Aroa,Dur1> seconds.
+}
+
+STRING 2559
+// Destructibles: B005 (CliffBaseA), Name (Name)
+{
+CliffBaseA
+}
+
+STRING 2560
+// Destructibles: B006 (CliffBaseB), Name (Name)
+{
+CliffBaseB
+}
+
+STRING 2561
+// Destructibles: B007 (CliffBaseC), Name (Name)
+{
+CliffBaseC
+}
+
+STRING 2562
+// Destructibles: B008 (CliffBaseD), Name (Name)
+{
+CliffBaseD
+}
+
+STRING 2563
+{
+Barracks built
+}
+
+STRING 2564
+// Buffs/Effects: XBZ1 (), Buffubertip (Tooltip - Extended)
+{
+This unit was hit by Grievus Throw; it will take damage over time and move more slowly.
+}
+
+STRING 2565
+{
+Rend Blackhand
+}
+
+STRING 2566
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend7.flac
+{
+Murlocs! I hate these two legged frog freaks… what are they doing here?
+}
+
+STRING 2571
+{
+Zuljin
+}
+
+STRING 2572
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin3.flac
+{
+They be a nuisance for everyone, friend. All races consider dem pests, even da elves and da humans, a rare matter dat we agree on.
+}
+
+STRING 2573
+{
+Rend Blackhand
+}
+
+STRING 2574
+// _HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend13.flac
+{
+Just..kill them, KILL THEM!
+}
+
+STRING 2575
+{
+|cffffcc00MISSION FAILED|r
+}
+

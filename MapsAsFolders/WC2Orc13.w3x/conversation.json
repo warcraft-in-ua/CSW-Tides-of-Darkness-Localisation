@@ -1,0 +1,243 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Intro Cinematic.Intro Cinematic Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendMountless.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rend1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed3.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed4.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed5.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendMountless.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rend2.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Maim1.mp3"
+            }
+        ],
+        "Sargeras Cinematic.Sargeras Cinematic Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan2.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\creeps\\Medivh\\Medivhcin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Medivh1.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan3.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan4.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "units\\creeps\\Medivh\\Medivhcin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Medivh2.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan5.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Doomhammer1.mp3"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan6.mp3"
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Guldan1.mp3"
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan7.mp3"
+            },
+            {
+                "conversationOrder": 11,
+                "speakerModel": "Units\\Orc\\Nerzhul\\Nerzhul.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Nerzhul1.mp3"
+            },
+            {
+                "conversationOrder": 12,
+                "speakerModel": "Units\\Human\\Aegwynn\\AegwynnNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Awegynn1.mp3"
+            },
+            {
+                "conversationOrder": 13,
+                "speakerModel": "Units\\Human\\Aegwynn\\AegwynnNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Awegynn2.mp3"
+            },
+            {
+                "conversationOrder": 14,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan8.mp3"
+            },
+            {
+                "conversationOrder": 15,
+                "speakerModel": "units\\creeps\\Medivh\\Medivhcin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Visage_Medivh3a.mp3"
+            },
+            {
+                "conversationOrder": 16,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan9.mp3"
+            },
+            {
+                "conversationOrder": 17,
+                "speakerModel": "Units\\Demon\\AvatarOfSargeras\\AvatarOfSargeras.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Sargeras2.mp3"
+            },
+            {
+                "conversationOrder": 18,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan10.mp3"
+            },
+            {
+                "conversationOrder": 19,
+                "speakerModel": "Units\\Demon\\AvatarOfSargeras\\AvatarOfSargeras.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Sargeras3.mp3"
+            },
+            {
+                "conversationOrder": 20,
+                "speakerModel": "units\\orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Guldan11.mp3"
+            },
+            {
+                "conversationOrder": 21,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendMountless.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rend_Shreds1.mp3"
+            },
+            {
+                "conversationOrder": 22,
+                "speakerModel": "Units\\Orc\\Maim\\Maim.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Maim_Shreds1.mp3"
+            },
+            {
+                "conversationOrder": 23,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_GrabHead1.mp3"
+            },
+            {
+                "conversationOrder": 24,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendMountless.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rend_GrabHead1.mp3"
+            },
+            {
+                "conversationOrder": 25,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendMountless.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rend_Farewell1.mp3"
+            },
+            {
+                "conversationOrder": 26,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_GrabHead2.mp3"
+            },
+            {
+                "conversationOrder": 27,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendMountless.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rend_Farewell2.mp3"
+            }
+        ],
+        "Boss Cinematic.Boss Cinematic Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_RakmarEncounter1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Rakmar\\RakmarSharpfang.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rakmar_Encounter1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_RakmarEncounter2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\Rakmar\\RakmarSharpfang.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rakmar_Encounter2.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_RakmarEncounter3.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Rakmar\\RakmarSharpfang.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rakmar_Encounter3.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_RakmarEncounter4.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\Rakmar\\RakmarSharpfang.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rakmar_Encounter4.mp3"
+            }
+        ],
+        "Victory Cinematic.Victory Cinematic Q": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Rakmar\\RakmarSharpfang.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Rakmar_death1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuluhed\\Zuluhed.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc13/WC2Orc13Zuluhed_Final1.mp3"
+            }
+        ]
+    }
+}

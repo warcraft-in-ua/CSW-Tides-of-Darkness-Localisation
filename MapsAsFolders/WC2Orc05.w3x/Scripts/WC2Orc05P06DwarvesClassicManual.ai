@@ -1,0 +1,95 @@
+//============================================================================
+//  WC2Orc05DwarvesClassicManual Tamplier 
+//============================================================================
+globals
+    player user = PlayerEx(1)
+
+    constant integer IRONFORGE_WORKER  = 'h602'
+    constant integer IRONFORGE_FOOTMAN  = 'h603'
+    constant integer IRONFORGE_CANNON  = 'h607'
+endglobals
+//============================================================================
+//  main
+//============================================================================
+function main takes nothing returns nothing
+    call CampaignAI(HOUSE,null)
+    call SetDefendPlayer( false )
+    call SetRandomPaths( true )
+    call SetTargetHeroes( true )
+    call SetPeonsRepair( true )
+    call SetHeroesFlee( false )
+    call SetHeroesBuyItems( false )
+    call SetUnitsFlee( false )
+    call SetGroupsFlee( false )
+    call SetWatchMegaTargets( false )
+    call SetIgnoreInjured( true )
+    call SetHeroesTakeItems( false )
+    call SetSlowChopping( true )
+    call SetCaptainChanges( false )
+    call SetSmartArtillery( true )
+    call SetReplacements(2,2,3)
+
+    call SetBuildUnitEx( 4,4,4, IRONFORGE_WORKER )
+    call SetBuildUnitEx( 3,3,5, IRONFORGE_FOOTMAN )
+    call SetBuildUnitEx( 2,2,3, RIFLEMAN)
+    call SetBuildUnitEx( 1,1,2, IRONFORGE_CANNON)
+    call SetBuildUpgrEx( 1,1,1, UPG_DEFEND)
+    call SetBuildUpgrEx( 1,1,1, UPG_GUN_RANGE)
+
+    call Sleep( 0.1 )
+
+    call WaitForSignal()
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 3,3,4, IRONFORGE_FOOTMAN)
+    call CampaignAttackerEx( 2,2,3, RIFLEMAN)
+    call SuicideOnPlayerEx(M4,M2,M2,user)
+
+    call SetBuildUpgrEx( 0,1,1, UPG_ARMOR)
+    call SetBuildUpgrEx( 0,1,1, UPG_LEATHER)
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,5, IRONFORGE_FOOTMAN)
+    call CampaignAttackerEx( 2,2,3, RIFLEMAN)
+    call CampaignAttackerEx( 1,1,2, IRONFORGE_CANNON)
+    call SuicideOnPlayerEx(M3,M2,M2,user)
+
+    call SetBuildUpgrEx( 0,1,1, UPG_RANGED)
+    call SetBuildUpgrEx( 0,1,1, UPG_MELEE)
+
+    call SetBuildUpgrEx( 1,1,3, UPG_ARMOR)
+    call SetBuildUpgrEx( 1,1,3, UPG_LEATHER)
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 4,4,6, IRONFORGE_FOOTMAN)
+    call CampaignAttackerEx( 1,1,2, IRONFORGE_CANNON)
+    call SuicideOnPlayerEx(M4,M3,M2,user)
+
+    call SetBuildUpgrEx( 1,1,3, UPG_RANGED)
+    call SetBuildUpgrEx( 1,1,3, UPG_MELEE)
+
+     loop
+        //*** WAVE 4+ ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,6,4, IRONFORGE_FOOTMAN)
+        call CampaignAttackerEx( 2,4,5, RIFLEMAN)
+        call CampaignAttackerEx( 1,1,2, IRONFORGE_CANNON)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,5, IRONFORGE_FOOTMAN)
+        call CampaignAttackerEx( 0,0,4, RIFLEMAN)
+        call CampaignAttackerEx( 1,1,2, IRONFORGE_CANNON)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,6, IRONFORGE_FOOTMAN)
+        call CampaignAttackerEx( 2,2,4, RIFLEMAN)
+        call CampaignAttackerEx( 1,1,2, IRONFORGE_CANNON)
+        call SuicideOnPlayerEx(M5,M4,M3,user)
+    endloop
+endfunction
+

@@ -1,0 +1,145 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Tomb of Sargeras Sequence.ToS 2 Cabin Talk": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Chogall\\ChoGallNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Chogall1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan1a.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan1b.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan2.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Chogall\\ChoGallNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Chogall2.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan3a.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan3b.mp3"
+            }
+        ],
+        "Tomb of Sargeras Sequence.ToS 3 Cabin Talk": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Chogall\\ChoGallNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Chogall3.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan4.mp3"
+            }
+        ],
+        "Tomb of Sargeras Sequence.ToS 5 Ritual": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\OrcWarlockGuldan\\OrcWarlockGuldanNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Guldan5.mp3"
+            }
+        ],
+        "Alterac Sequence.Alterac 7 Talk": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Maim\\MaimNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Maim1.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhandNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Rend1.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Zuluhed\\ZuluhedNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Zuluhed1.mp3"
+            }
+        ],
+        "Alterac Sequence.Alterac 8 Final": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Utok1.mp3"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer3.mp3"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Utok2.mp3"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer4.mp3"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer5.mp3"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhandNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Rend2.mp3"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer6.mp3"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\Zuluhed\\ZuluhedNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Zuluhed2.mp3"
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer7.mp3"
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhandNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Rend3.mp3"
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "Units\\Orc\\OrgrimDoomhammer\\OrgrimDoomhammerNoGlow.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2OrcAct04/WC2ORCACT04Doomhammer8.mp3"
+            }
+        ]
+    }
+}

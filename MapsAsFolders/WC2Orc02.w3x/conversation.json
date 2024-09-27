@@ -1,0 +1,250 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Intro Cinemathic.Intro Cinemathic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\other\\HighElfRunner\\HighElfRunner.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ElfArcher1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Human\\Captain\\LordaeronCaptain.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Luric1.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\other\\HighElfRunner\\HighElfRunner.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ElfArcher2.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend1.flac"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend2.flac"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Utok1.flac"
+            }
+        ],
+        "Midgame Cinemathics.ForestTrollsCinematicQ": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend3.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend4.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll1.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll2.flac"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll2a.flac"
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll3.flac"
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend5.flac"
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll4.flac"
+            }
+        ],
+        "Midgame Cinemathics.TrollsAquired": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll7.flac"
+            }
+        ],
+        "Victory Cinemathic.Final Cinemathic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin4.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin5.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend14.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend15.flac"
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin6.flac"
+            }
+        ],
+        "Quests.Saving ZulJeen": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin1.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend10.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin2.flac"
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend11.flac"
+            }
+        ],
+        "Quests.SideQuestDurnholdeDiscovered": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Utok3.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend9.flac"
+            }
+        ],
+        "Other events.Gates": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\Footman\\LordaeronFootman.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Footman1.flac"
+            }
+        ],
+        "Other events.Murlocks01WithZuljinAlternate": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend7.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin3.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend13.flac"
+            }
+        ],
+        "Other events.Murlocks01RendOnly": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend7.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Utok\\Utok.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Utok2.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend8.flac"
+            }
+        ],
+        "Other events.Murlocks02WIthZuljinSwamp": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend12.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin3.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend13.flac"
+            }
+        ],
+        "Other events.Murlocks02WIthZuljinWaterfall": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend12.flac"
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Orc\\Zuljin\\Zuljin.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ZulJin3.flac"
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend13.flac"
+            }
+        ],
+        "Other events.RendTaunt": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\RendBlackhand\\RendBlackhand.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Rend6.flac"
+            }
+        ],
+        "Other events.ElvenTaunt02": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Human\\ElfArcher\\WC2ElvenArcher.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02ElfArcher3.flac"
+            }
+        ],
+        "Other events.TrollsSeeZuljin": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll5.flac"
+            }
+        ],
+        "Other events.PriestSeeZuljin": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\TrollAxethrower\\TrollAxethrower.mdl",
+                "soundFile": "_HD.w3mod/Sound/Dialogue/WC2Orc02/WC2Orc02Troll6.flac"
+            }
+        ]
+    }
+}

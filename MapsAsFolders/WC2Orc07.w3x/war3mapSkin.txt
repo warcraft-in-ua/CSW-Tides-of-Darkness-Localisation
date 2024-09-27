@@ -1,0 +1,17 @@
+[Categories]
+UndeadClass=TRIGSTR_3307
+
+[CustomSkin]
+IdlePeon=ReplaceableTextures\CommandButtons\BTNBTG_Peon.dds
+
+[Errors]
+Alreadyblightedmine=TRIGSTR_3302
+Blightminefirst=TRIGSTR_3303
+Nofood=TRIGSTR_3300
+Notblightedmine=TRIGSTR_3301
+Offblight=TRIGSTR_3305
+Targgetmine=TRIGSTR_3304
+
+[FrameDef]
+REVIVE_AT_ALTAR=TRIGSTR_3306
+

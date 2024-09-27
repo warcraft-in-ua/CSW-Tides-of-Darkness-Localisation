@@ -1,0 +1,113 @@
+//============================================================================
+//  WC2Orc05TolBaradClassicManual Tamplier
+//============================================================================
+globals
+    player user = PlayerEx(1)
+
+    constant integer STROM_FOOTMAN  = 'h60K'
+    constant integer HUMAN_ARCHER = 'h60B'
+    constant integer HUMAN_BALLISTA = 'e601'
+    constant integer HUMAN_FRIGATE = 'h60Q'
+    constant integer FLYING_MACHINE = 'h60M'
+    constant integer WC2_HUMAN_TRANSPORT = 'h60P'
+    constant integer GNOMISH_SUBMARINE = 'o003'
+    constant integer WC2_HUMAN_PEASANT = 'h60J'
+    constant integer STROM_KNIGHT = 'h60L'
+
+endglobals
+//============================================================================
+//  main
+//============================================================================
+function main takes nothing returns nothing
+    call CampaignAI(HOUSE,null)
+    call SetDefendPlayer( false )
+    call SetRandomPaths( true )
+    call SetTargetHeroes( true )
+    call SetPeonsRepair( true )
+    call SetHeroesFlee( false )
+    call SetHeroesBuyItems( false )
+    call SetUnitsFlee( false )
+    call SetGroupsFlee( false )
+    call SetWatchMegaTargets( false )
+    call SetIgnoreInjured( true )
+    call SetHeroesTakeItems( false )
+    call SetSlowChopping( true )
+    call SetCaptainChanges( false )
+    call SetSmartArtillery( true )
+    call SetReplacements(2,2,3)
+
+    call SetBuildUnitEx( 1,2,2, FLYING_MACHINE )
+    call SetBuildUnitEx( 1,1,1, WC2_HUMAN_TRANSPORT )
+
+    call WaitForSignal()
+
+    //*** WAVE 1 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,3, FLYING_MACHINE  )
+    call CampaignAttackerEx( 4,4,5, HUMAN_FRIGATE   )
+    call SuicideOnPlayerEx(M2,M2,M3,user)
+
+    call SetBuildUpgrEx( 1,1,1, UPG_DEFEND )
+
+
+    //*** WAVE 2 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,3, STROM_FOOTMAN   )
+    call CampaignAttackerEx( 2,2,3, HUMAN_ARCHER    )
+    call CampaignAttackerEx( 1,1,2, HUMAN_BALLISTA  )
+    call SuicideOnPlayerEx(M6,M6,M5,user)
+
+    call SetBuildUpgrEx( 0,0,1, UPG_RANGED          )
+    call SetBuildUpgrEx( 0,0,1, UPG_MELEE           )
+    call SetBuildUpgrEx( 0,0,1, UPG_ARMOR           )
+
+    //*** WAVE 3 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 2,2,3, FLYING_MACHINE  )
+    call CampaignAttackerEx( 4,4,5, HUMAN_FRIGATE   )
+    call SuicideOnPlayerEx(M6,M6,M5,user)
+
+    call SetBuildUpgrEx( 1,1,3, UPG_ARMOR           )
+    call SetBuildUpgrEx( 1,1,3, UPG_MELEE           )
+    call SetBuildUpgrEx( 1,1,3, UPG_RANGED          )
+
+    //*** WAVE 4 ***
+    call InitAssaultGroup()
+    call CampaignAttackerEx( 4,4,5, STROM_FOOTMAN   )
+    call CampaignAttackerEx( 1,1,2, HUMAN_BALLISTA  )
+    call CampaignAttackerEx( 2,2,3, HUMAN_ARCHER    )
+    call SuicideOnPlayerEx(M6,M6,M5,user)
+
+     loop
+        //*** WAVE 5+ ***
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,5, STROM_FOOTMAN   )
+        call CampaignAttackerEx( 2,2,3, HUMAN_ARCHER    )
+        call CampaignAttackerEx( 1,1,2, HUMAN_BALLISTA  )
+        call SuicideOnPlayerEx(M6,M6,M5,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,2,3, FLYING_MACHINE  )
+        call CampaignAttackerEx( 4,5,6, HUMAN_FRIGATE   )
+        call SuicideOnPlayerEx(M6,M6,M5,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,5, STROM_FOOTMAN   )
+        call CampaignAttackerEx( 0,0,4, HUMAN_ARCHER    )
+        call CampaignAttackerEx( 1,1,2, HUMAN_BALLISTA  )
+        call SuicideOnPlayerEx(M6,M6,M5,user)
+        
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 4,4,5, STROM_FOOTMAN   )
+        call CampaignAttackerEx( 2,2,3, HUMAN_ARCHER    )
+        call CampaignAttackerEx( 1,1,2, FLYING_MACHINE  )
+        call CampaignAttackerEx( 1,1,2, HUMAN_BALLISTA  )
+        call SuicideOnPlayerEx(M6,M6,M5,user)
+
+        call InitAssaultGroup()
+        call CampaignAttackerEx( 2,2,3, FLYING_MACHINE  )
+        call CampaignAttackerEx( 3,4,5, HUMAN_FRIGATE   )
+        call SuicideOnPlayerEx(M6,M6,M5,user)
+    endloop
+endfunction
+

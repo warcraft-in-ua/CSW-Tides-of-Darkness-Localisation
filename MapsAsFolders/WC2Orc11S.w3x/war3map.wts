@@ -1,0 +1,1401 @@
+﻿STRING 6
+{
+WC2Orc11S
+}
+
+STRING 7
+{
+Any
+}
+
+STRING 8
+{
+The Lost Chapter III: Zulaman
+}
+
+STRING 9
+{
+LoreCraftDesigns
+}
+
+STRING 11
+// Destructibles: ZTr3 (- Ramp Naga Small (Bottom)), Name (Name)
+{
+- Ramp Naga Small (Bottom)
+}
+
+STRING 12
+// Destructibles: ZTr0 (- Ramp Naga Small (Left)), Name (Name)
+{
+- Ramp Naga Small (Left)
+}
+
+STRING 13
+// Destructibles: ZTr2 (- Ramp Naga Small (Right)), Name (Name)
+{
+- Ramp Naga Small (Right)
+}
+
+STRING 14
+// Destructibles: ZTr1 (- Ramp Naga Small (Top)), Name (Name)
+{
+- Ramp Naga Small (Top)
+}
+
+STRING 30
+{
+Zul'jin
+}
+
+STRING 31
+{
+Zul'Aman Forces
+}
+
+STRING 32
+{
+Quel'thalas Forces
+}
+
+STRING 33
+{
+Zul'Aman
+}
+
+STRING 34
+{
+Quel'thalas
+}
+
+STRING 37
+// Units: e000 (Dragonhawk), Name (Name)
+{
+Dragonhawk
+}
+
+STRING 38
+// Units: n000 (War Eagle), Name (Name)
+{
+War Eagle
+}
+
+STRING 39
+// Units: n001 (Amani Battle Bear), Name (Name)
+{
+Amani Battle Bear
+}
+
+STRING 65
+// Doodads: ZRbs (- Rubble Small), Name (Name)
+{
+- Rubble Small
+}
+
+STRING 66
+// Doodads: ZRbd (- Rubble Large), Name (Name)
+{
+- Rubble Large
+}
+
+STRING 86
+// Destructibles: LTlt (-ZL-Pine ), Name (Name)
+{
+-ZL-Pine 
+}
+
+STRING 87
+// Destructibles: ZTnc (-ZL-Ruins Naga Circle), Name (Name)
+{
+-ZL-Ruins Naga Circle
+}
+
+STRING 88
+// Destructibles: CTtr (-ZUL-Felwood), Name (Name)
+{
+-ZUL-Felwood
+}
+
+STRING 89
+// Destructibles: B000 (-ZL-Zul'Aman Bridge), Name (Name)
+{
+-ZL-Zul'Aman Bridge
+}
+
+STRING 90
+// Destructibles: B001 (-ZL-Pine ), Name (Name)
+{
+-ZL-Pine 
+}
+
+STRING 91
+// Destructibles: B001 (-ZL-Pine ), EditorSuffix (Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 92
+// Destructibles: B002 (-ZUL-Felwood), Name (Name)
+{
+-ZUL-Felwood
+}
+
+STRING 93
+// Destructibles: B002 (-ZUL-Felwood), EditorSuffix (Editor Suffix)
+{
+(cinematic)
+}
+
+STRING 94
+// Doodads: D000 (-ZL-ZA Map), Name (Name)
+{
+-ZL-ZA Map
+}
+
+STRING 95
+// Doodads: D001 (-ZL-Fence 1), Name (Name)
+{
+-ZL-Fence 1
+}
+
+STRING 96
+// Doodads: D002 (-ZL-Wall End Lantern), Name (Name)
+{
+-ZL-Wall End Lantern
+}
+
+STRING 97
+// Doodads: D003 (-ZL-Wall Long), Name (Name)
+{
+-ZL-Wall Long
+}
+
+STRING 98
+// Doodads: D004 (-ZL-Wall End Tall), Name (Name)
+{
+-ZL-Wall End Tall
+}
+
+STRING 99
+// Doodads: D005 (-ZL-Waterfall), Name (Name)
+{
+-ZL-Waterfall
+}
+
+STRING 100
+// Doodads: D007 (-ZL-River Rushes), Name (Name)
+{
+-ZL-River Rushes
+}
+
+STRING 101
+// Doodads: D006 (-ZL-Cattail), Name (Name)
+{
+-ZL-Cattail
+}
+
+STRING 102
+// Doodads: D008 (-ZL-Lily Pad), Name (Name)
+{
+-ZL-Lily Pad
+}
+
+STRING 103
+// Doodads: D00A (-ZL-Wall Short), Name (Name)
+{
+-ZL-Wall Short
+}
+
+STRING 104
+// Doodads: D00C (-ZL-Wall Long (Pitch 2)), Name (Name)
+{
+-ZL-Wall Long (Pitch 2)
+}
+
+STRING 105
+// Doodads: D00D (-ZL-Wall Long (Pitch 1)), Name (Name)
+{
+-ZL-Wall Long (Pitch 1)
+}
+
+STRING 106
+// Doodads: D009 (-ZL-Wall Low), Name (Name)
+{
+-ZL-Wall Low
+}
+
+STRING 107
+// Doodads: D00B (-ZL-Eggs), Name (Name)
+{
+-ZL-Eggs
+}
+
+STRING 108
+// Doodads: D00F (-ZL-Wall T), Name (Name)
+{
+-ZL-Wall T
+}
+
+STRING 109
+// Doodads: D00G (-ZL-Wall Corner), Name (Name)
+{
+-ZL-Wall Corner
+}
+
+STRING 110
+// Doodads: D00H (-ZL-Stone Strash), Name (Name)
+{
+-ZL-Stone Strash
+}
+
+STRING 111
+// Doodads: D00I (-ZL-Pillar), Name (Name)
+{
+-ZL-Pillar
+}
+
+STRING 112
+// Doodads: D00J (-ZL-Altar), Name (Name)
+{
+-ZL-Altar
+}
+
+STRING 113
+// Doodads: D00K (-ZL-Obelisk), Name (Name)
+{
+-ZL-Obelisk
+}
+
+STRING 114
+// Doodads: D00L (-ZL-Archway), Name (Name)
+{
+-ZL-Archway
+}
+
+STRING 115
+// Doodads: D00M (-ZL-Wall End), Name (Name)
+{
+-ZL-Wall End
+}
+
+STRING 116
+// Doodads: D00N (-ZL-Wooden Stairs), Name (Name)
+{
+-ZL-Wooden Stairs
+}
+
+STRING 117
+// Doodads: D00O (-ZL-Vase 1), Name (Name)
+{
+-ZL-Vase 1
+}
+
+STRING 118
+// Doodads: D00P (-ZL-Vase 2), Name (Name)
+{
+-ZL-Vase 2
+}
+
+STRING 119
+// Doodads: D00Q (-ZL-Sacks), Name (Name)
+{
+-ZL-Sacks
+}
+
+STRING 120
+// Doodads: D00R (-ZL-Vase 3), Name (Name)
+{
+-ZL-Vase 3
+}
+
+STRING 121
+// Doodads: D00S (-ZL-Barrel laying), Name (Name)
+{
+-ZL-Barrel laying
+}
+
+STRING 122
+// Doodads: D00T (-ZL-Log Wall), Name (Name)
+{
+-ZL-Log Wall
+}
+
+STRING 123
+// Doodads: D00E (-ZL-Wall Ornate 1), Name (Name)
+{
+-ZL-Wall Ornate 1
+}
+
+STRING 124
+// Doodads: D00U (-ZL-Wall Ornate 3), Name (Name)
+{
+-ZL-Wall Ornate 3
+}
+
+STRING 125
+// Doodads: D00V (-ZL-Wall Ornate 2), Name (Name)
+{
+-ZL-Wall Ornate 2
+}
+
+STRING 126
+// Doodads: D00W (-ZL-Wall Ornate 4), Name (Name)
+{
+-ZL-Wall Ornate 4
+}
+
+STRING 127
+// Doodads: D00X (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 128
+// Doodads: D00Y (-ZL-Conifer Roof 1), Name (Name)
+{
+-ZL-Conifer Roof 1
+}
+
+STRING 129
+// Doodads: D00Z (-ZL-Nest), Name (Name)
+{
+-ZL-Nest
+}
+
+STRING 130
+// Doodads: D010 (-ZL-Amani Cage), Name (Name)
+{
+-ZL-Amani Cage
+}
+
+STRING 131
+// Doodads: D011 (-ZL-Amani Hut Large), Name (Name)
+{
+-ZL-Amani Hut Large
+}
+
+STRING 132
+// Doodads: D012 (-ZL-Water Still), Name (Name)
+{
+-ZL-Water Still
+}
+
+STRING 133
+// Doodads: D013 (-ZL-Conifer Roof 2), Name (Name)
+{
+-ZL-Conifer Roof 2
+}
+
+STRING 134
+// Doodads: D014 (-ZL-Fence 2), Name (Name)
+{
+-ZL-Fence 2
+}
+
+STRING 135
+// Doodads: D015 (-ZL-Fence 3), Name (Name)
+{
+-ZL-Fence 3
+}
+
+STRING 136
+// Doodads: D016 (-ZL-Wall Ceiling), Name (Name)
+{
+-ZL-Wall Ceiling
+}
+
+STRING 137
+// Doodads: D017 (-ZL-Wall Low Teal), Name (Name)
+{
+-ZL-Wall Low Teal
+}
+
+STRING 138
+// Doodads: D018 (-ZL-Pier), Name (Name)
+{
+-ZL-Pier
+}
+
+STRING 139
+// Doodads: D019 (-ZL-Giant Tree), Name (Name)
+{
+-ZL-Giant Tree
+}
+
+STRING 140
+// Doodads: D01A (-ZL-Log), Name (Name)
+{
+-ZL-Log
+}
+
+STRING 141
+// Doodads: D01B (-ZL- Viny Plant), Name (Name)
+{
+-ZL- Viny Plant
+}
+
+STRING 142
+// Doodads: D01C (-ZL-Bush), Name (Name)
+{
+-ZL-Bush
+}
+
+STRING 143
+// Doodads: D01D (-ZL-River Rushes), Name (Name)
+{
+-ZL-River Rushes
+}
+
+STRING 144
+// Doodads: D01E (-ZL-Vines01), Name (Name)
+{
+-ZL-Vines01
+}
+
+STRING 145
+// Doodads: D01F (-ZL-Vines02), Name (Name)
+{
+-ZL-Vines02
+}
+
+STRING 146
+// Doodads: LOss (-ZL-Skulls on Sticks), Name (Name)
+{
+-ZL-Skulls on Sticks
+}
+
+STRING 147
+// Doodads: LOsk (-ZL-Skull Pile), Name (Name)
+{
+-ZL-Skull Pile
+}
+
+STRING 148
+// Doodads: OOsk (-ZL-Skull), Name (Name)
+{
+-ZL-Skull
+}
+
+STRING 149
+// Doodads: LRrk (-ZL-Rocks), Name (Name)
+{
+-ZL-Rocks
+}
+
+STRING 150
+// Doodads: D01G (-ZL-Skull(Big)), Name (Name)
+{
+-ZL-Skull(Big)
+}
+
+STRING 151
+// Doodads: D01H (-ZL-Skull(Big)), Name (Name)
+{
+-ZL-Skull(Big)
+}
+
+STRING 152
+// Doodads: D01I (-ZL-Pillar_runes), Name (Name)
+{
+-ZL-Pillar_runes
+}
+
+STRING 153
+// Doodads: D01J (-ZL-FOG), Name (Name)
+{
+-ZL-FOG
+}
+
+STRING 154
+// Doodads: D01K (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 155
+// Doodads: D01L (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 156
+// Doodads: D01M (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 157
+// Doodads: D01N (-ZL-Stairs), Name (Name)
+{
+-ZL-Stairs
+}
+
+STRING 158
+// Doodads: D01O (-ZUL-hayinfected), Name (Name)
+{
+-ZUL-hayinfected
+}
+
+STRING 159
+// Doodads: D01P (-ZL-Totem1), Name (Name)
+{
+-ZL-Totem1
+}
+
+STRING 160
+// Doodads: D01Q (-ZL-Vines_angled), Name (Name)
+{
+-ZL-Vines_angled
+}
+
+STRING 161
+// Doodads: D01R (-ZL-Archway), Name (Name)
+{
+-ZL-Archway
+}
+
+STRING 162
+// Doodads: D01S (-ZL-Wall Corner(upside)), Name (Name)
+{
+-ZL-Wall Corner(upside)
+}
+
+STRING 163
+// Doodads: D01T (-ZL-Archway(upside)), Name (Name)
+{
+-ZL-Archway(upside)
+}
+
+STRING 164
+// Buffs/Effects: B000 (Amani Rage), EditorName (Name (Editor Only))
+{
+Amani Rage
+}
+
+STRING 165
+// Buffs/Effects: B000 (Amani Rage), Bufftip (Tooltip)
+{
+Amani Rage
+}
+
+STRING 166
+// Buffs/Effects: B000 (Amani Rage), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Amani Rage; its ranged attacks will deal more damage.
+}
+
+STRING 167
+// Abilities: A001 (Axe Flurry), Name (Name)
+{
+Axe Flurry
+}
+
+STRING 168
+// Abilities: A003 (Axe Flurry), Name (Name)
+{
+Axe Flurry
+}
+
+STRING 169
+// Buffs/Effects: B001 (Axe Flurry), Buffubertip (Tooltip - Extended)
+{
+Zul'jin throws his axes with a boomerang technique, making them bounce from enemy to enemy.
+}
+
+STRING 170
+// Abilities: A004 (Poisoned Axe), Name (Name)
+{
+Poisoned Axe
+}
+
+STRING 171
+// Buffs/Effects: B002 (Poisoned Axe), EditorName (Name (Editor Only))
+{
+Poisoned Axe
+}
+
+STRING 172
+// Buffs/Effects: B002 (Poisoned Axe), Buffubertip (Tooltip - Extended)
+{
+This unit was hit by Poisoned Axe; it will take damage over time and move more slowly.
+}
+
+STRING 173
+// Buffs/Effects: B003 (Regeneration (Zul'jin)), EditorName (Name (Editor Only))
+{
+Regeneration (Zul'jin)
+}
+
+STRING 174
+// Abilities: A006 (Taz'dingo!), Name (Name)
+{
+Taz'dingo!
+}
+
+STRING 175
+// Abilities: A006 (Taz'dingo!), Tip (Tooltip - Normal)
+{
+Taz'dingo!
+}
+
+STRING 176
+// Buffs/Effects: B004 (Taz'dingo!), Buffubertip (Tooltip - Extended)
+{
+Zul'jin will deal more damage, but his attacks will also harm himself.
+}
+
+STRING 177
+// Buffs/Effects: B005 (Taz'dingo! (non-hero)), EditorName (Name (Editor Only))
+{
+Taz'dingo! (non-hero)
+}
+
+STRING 178
+// Buffs/Effects: B004 (Taz'dingo!), EditorName (Name (Editor Only))
+{
+Taz'dingo!
+}
+
+STRING 179
+// Buffs/Effects: B005 (Taz'dingo! (non-hero)), Buffubertip (Tooltip - Extended)
+{
+This unit has Berserker Rage; its attack rate and movement speed are increased.
+}
+
+STRING 180
+// Abilities: A000 (Ensnare), EditorSuffix (Editor Suffix)
+{
+(Zul-Jin)
+}
+
+STRING 181
+// Units: O000 (Troll Chieftan), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 182
+// Abilities: A001 (Axe Flurry), EditorSuffix (Editor Suffix)
+{
+(Effect)
+}
+
+STRING 183
+// Buffs/Effects: B001 (Axe Flurry), EditorName (Name (Editor Only))
+{
+Axe Flurry
+}
+
+STRING 184
+// Abilities: A002 (Taz'tingo!), Name (Name)
+{
+Taz'tingo!
+}
+
+STRING 185
+// Abilities: A002 (Taz'tingo!), EditorSuffix (Editor Suffix)
+{
+(non-hero)
+}
+
+STRING 186
+// Abilities: A003 (Axe Flurry), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 187
+// Abilities: A003 (Axe Flurry), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 188
+// Abilities: A003 (Axe Flurry), Researchtip (Tooltip - Learn)
+{
+Learn Axe Flurry - [|cffffcc00Level %d|r]
+}
+
+STRING 189
+// Abilities: A003 (Axe Flurry), Tip (Tooltip - Normal)
+{
+Axe Flurry - [|cffffcc00Level 1|r]
+}
+
+STRING 190
+// Abilities: A003 (Axe Flurry), Tip (Tooltip - Normal)
+{
+Axe Flurry - [|cffffcc00Level 2|r]
+}
+
+STRING 191
+// Abilities: A003 (Axe Flurry), Tip (Tooltip - Normal)
+{
+Axe Flurry - [|cffffcc00Level 3|r]
+}
+
+STRING 192
+// Abilities: A003 (Axe Flurry), Researchubertip (Tooltip - Learn - Extended)
+{
+Zul'jin throws his axes with a boomerang technique, making them bounce from enemy to enemy.
+
+Targets: 3
+Duration: 10 / 15 / 20
+}
+
+STRING 193
+// Abilities: A003 (Axe Flurry), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin throws his axes with a boomerang technique, making them bounce from enemy to enemy.
+
+Targets: |cffffc8003|r
+Duration: |cffffc80010|r |cffc0c0c0/ 15 / 20|r
+}
+
+STRING 194
+// Abilities: A003 (Axe Flurry), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin throws his axes with a boomerang technique, making them bounce from enemy to enemy.
+
+Targets: |cffffc8003|r
+Duration: |cffc0c0c010 /|r |cffffc80015|r |cffc0c0c0/ 20|r
+}
+
+STRING 195
+// Abilities: A003 (Axe Flurry), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin throws his axes with a boomerang technique, making them bounce from enemy to enemy.
+
+Targets: |cffffc8003|r
+Duration: |cffc0c0c010 / 15 /|r |cffffc80020|r
+}
+
+STRING 196
+// Buffs/Effects: B001 (Axe Flurry), Bufftip (Tooltip)
+{
+Axe Flurry
+}
+
+STRING 197
+// Abilities: A004 (Poisoned Axe), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 198
+// Abilities: A004 (Poisoned Axe), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 199
+// Abilities: A004 (Poisoned Axe), Researchtip (Tooltip - Learn)
+{
+Learn Poisoned Axe - [|cffffcc00Level %d|r]
+}
+
+STRING 200
+// Abilities: A004 (Poisoned Axe), Tip (Tooltip - Normal)
+{
+Poisoned Axe - [|cffffcc00Level 1|r]
+}
+
+STRING 201
+// Abilities: A004 (Poisoned Axe), Tip (Tooltip - Normal)
+{
+Poisoned Axe - [|cffffcc00Level 2|r]
+}
+
+STRING 202
+// Abilities: A004 (Poisoned Axe), Tip (Tooltip - Normal)
+{
+Poisoned Axe - [|cffffcc00Level 3|r]
+}
+
+STRING 203
+// Abilities: A004 (Poisoned Axe), Researchubertip (Tooltip - Learn - Extended)
+{
+Hurls a poisoned axe which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for a short duration.
+
+Damage: 75 / 150 / 225
+DoT: 10 / 30 / 45
+Duration: 15
+}
+
+STRING 204
+// Abilities: A004 (Poisoned Axe), Ubertip (Tooltip - Normal - Extended)
+{
+Hurls a poisoned axe which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for a short duration.
+
+Damage: |cffffc80075 |r|cffc0c0c0/ 150 / 225|r
+DoT: |cffffc80010 |r|cffc0c0c0/ 30 / 45|r
+Duration: |cffffc80015|r
+}
+
+STRING 205
+// Abilities: A004 (Poisoned Axe), Ubertip (Tooltip - Normal - Extended)
+{
+Hurls a poisoned axe which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for a short duration.
+
+Damage: |cffc0c0c075 /|r |cffffc800150|r |cffc0c0c0/ 225|r
+DoT: |cffc0c0c010 /|r |cffffc80030|r |cffc0c0c0/ 45|r
+Duration: |cffffc80015|r
+}
+
+STRING 206
+// Abilities: A004 (Poisoned Axe), Ubertip (Tooltip - Normal - Extended)
+{
+Hurls a poisoned axe which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for a short duration.
+
+Damage: |cffc0c0c075 / 150 /|r |cffffc800225|r
+DoT: |cffc0c0c010 / 30 /|r |cffffc80045|r
+Duration: |cffffc80015|r
+}
+
+STRING 207
+// Buffs/Effects: B002 (Poisoned Axe), Bufftip (Tooltip)
+{
+Poisoned Axe
+}
+
+STRING 208
+// Abilities: A005 (Regeneration), Name (Name)
+{
+Regeneration
+}
+
+STRING 209
+// Abilities: A005 (Regeneration), Tip (Tooltip - Normal)
+{
+Regeneration - [|cffffcc00Level 1|r]
+}
+
+STRING 210
+// Abilities: A005 (Regeneration), Tip (Tooltip - Normal)
+{
+Regeneration - [|cffffcc00Level 2|r]
+}
+
+STRING 211
+// Abilities: A005 (Regeneration), Tip (Tooltip - Normal)
+{
+Regeneration - [|cffffcc00Level 3|r]
+}
+
+STRING 212
+// Abilities: A005 (Regeneration), Ubertip (Tooltip - Normal - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffffc80030 |r|cffc0c0c0/ 35 / 40|r
+Duration: |cffffc80015|r
+}
+
+STRING 213
+// Abilities: A005 (Regeneration), Ubertip (Tooltip - Normal - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffc0c0c030 /|r |cffffc80035 |r|cffc0c0c0/ 40|r
+Duration: |cffffc80015|r
+}
+
+STRING 214
+// Abilities: A005 (Regeneration), Ubertip (Tooltip - Normal - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: |cffc0c0c030 / 35 /|r |cffffc80040|r
+Duration: |cffffc80015|r
+}
+
+STRING 215
+// Abilities: A005 (Regeneration), Researchubertip (Tooltip - Learn - Extended)
+{
+Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+
+HP/s: 30 / 35 / 40
+Duration: 15
+}
+
+STRING 216
+// Abilities: A005 (Regeneration), Researchtip (Tooltip - Learn)
+{
+Learn Regeneration - [|cffffcc00Level %d|r]
+}
+
+STRING 217
+// Abilities: A005 (Regeneration), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 218
+// Abilities: A005 (Regeneration), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 219
+// Units: h003 (Elven Archer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 220
+// Abilities: A006 (Taz'dingo!), Researchubertip (Tooltip - Learn - Extended)
+{
+Zul'jin goes berserk, letting out a mighty warcry which bolsters all allied troll's damage. While being berserk he has increased attack and movement speed, but will deal minor damage to himself.
+
+Attack / Speed: |cffffc800+50%|r
+Damage Buff Allies: |cffffc800+50%|r
+Duration: |cffffc80020|r
+}
+
+STRING 221
+// Abilities: A006 (Taz'dingo!), Ubertip (Tooltip - Normal - Extended)
+{
+Zul'jin goes berserk, letting out a mighty warcry which bolsters all allied troll's damage. While being berserk he has increased attack and movement speed, but will deal minor damage to himself.
+
+Attack / Speed: |cffffc800+50%|r
+Damage Taken: |cffffc800-50%|r
+Duration: |cffffc80020|r
+}
+
+STRING 222
+// Abilities: A006 (Taz'dingo!), Researchtip (Tooltip - Learn)
+{
+Learn Taz'dingo!
+}
+
+STRING 223
+// Buffs/Effects: B004 (Taz'dingo!), Bufftip (Tooltip)
+{
+Taz'dingo!
+}
+
+STRING 224
+// Buffs/Effects: B005 (Taz'dingo! (non-hero)), Bufftip (Tooltip)
+{
+Taz'dingo!
+}
+
+STRING 225
+// Units: O000 (Troll Chieftan), Name (Name)
+{
+Troll Chieftan
+}
+
+STRING 226
+// Units: O000 (Troll Chieftan), Propernames (Proper Names)
+{
+Zul'jin
+}
+
+STRING 227
+// Units: O000 (Troll Chieftan), Tip (Tooltip - Basic)
+{
+Troll Chieftan (|cffffcc00T|r)
+}
+
+STRING 228
+// Units: O000 (Troll Chieftan), Revivetip (Tooltip - Revive)
+{
+Revive Troll Chieftan (|cffffcc00T|r)
+}
+
+STRING 229
+// Units: O000 (Troll Chieftan), Awakentip (Tooltip - Awaken)
+{
+Revive Troll Chieftan (|cffffcc00T|r)
+}
+
+STRING 230
+// Units: O000 (Troll Chieftan), Ubertip (Tooltip - Extended)
+{
+Ловкий герой, мастер целительной магии и проклятий. Может изучить «Волну исцеления», «Сглаз», «Змеиного идола» и «Страшное вуду». |n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 231
+// Units: O000 (Troll Chieftan), EditorSuffix (Name - Editor Suffix)
+{
+(Axe Flurry)
+}
+
+STRING 232
+// Units: O001 (Troll Chieftan), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 233
+// Units: O001 (Troll Chieftan), Name (Name)
+{
+Troll Chieftan
+}
+
+STRING 234
+// Units: O001 (Troll Chieftan), Propernames (Proper Names)
+{
+Zul'jin
+}
+
+STRING 235
+// Units: O001 (Troll Chieftan), Tip (Tooltip - Basic)
+{
+Troll Chieftan (|cffffcc00T|r)
+}
+
+STRING 236
+// Units: O001 (Troll Chieftan), Revivetip (Tooltip - Revive)
+{
+Revive Troll Chieftan (|cffffcc00T|r)
+}
+
+STRING 237
+// Units: O001 (Troll Chieftan), Awakentip (Tooltip - Awaken)
+{
+Revive Troll Chieftan (|cffffcc00T|r)
+}
+
+STRING 238
+// Units: O001 (Troll Chieftan), Ubertip (Tooltip - Extended)
+{
+Ловкий герой, мастер целительной магии и проклятий. Может изучить «Волну исцеления», «Сглаз», «Змеиного идола» и «Страшное вуду». |n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 239
+// Units: h000 (Elven Swordsman), Name (Name)
+{
+Elven Swordsman
+}
+
+STRING 240
+// Units: n002 (Elven Captain), Name (Name)
+{
+Elven Captain
+}
+
+STRING 241
+// Abilities: A000 (Ensnare), Hotkey (Hotkey - Normal)
+{
+T
+}
+
+STRING 242
+// Doodads: D01U (-ZL-Mask-Jungle), Name (Name)
+{
+-ZL-Mask-Jungle
+}
+
+STRING 243
+// Doodads: D01V (-ZL-Gong), Name (Name)
+{
+-ZL-Gong
+}
+
+STRING 244
+// Doodads: D01W (-ZL-Mask-Amani), Name (Name)
+{
+-ZL-Mask-Amani
+}
+
+STRING 246
+// Doodads: D01X (-ZL-Arch-1), Name (Name)
+{
+-ZL-Arch-1
+}
+
+STRING 247
+// Doodads: D01Y (-ZL-Arch-2), Name (Name)
+{
+-ZL-Arch-2
+}
+
+STRING 248
+// Doodads: D01Z (-ZL-Mask-Red), Name (Name)
+{
+-ZL-Mask-Red
+}
+
+STRING 249
+// Units: o002 (Amani Watch Tower), Name (Name)
+{
+Amani Watch Tower
+}
+
+STRING 250
+// Doodads: D020 (-ZL-TREE), Name (Name)
+{
+-ZL-TREE
+}
+
+STRING 251
+// Doodads: D021 (-ZL-Merc_camp), Name (Name)
+{
+-ZL-Merc_camp
+}
+
+STRING 252
+// Doodads: D022 (-ZL-Murloc_camp), Name (Name)
+{
+-ZL-Murloc_camp
+}
+
+STRING 253
+// Doodads: D023 (-ZL-IronGate), Name (Name)
+{
+-ZL-IronGate
+}
+
+STRING 254
+// Doodads: D024 (-ZL-Vines01), Name (Name)
+{
+-ZL-Vines01
+}
+
+STRING 255
+// Doodads: D025 (-ZL-CLOUD_fog), Name (Name)
+{
+-ZL-CLOUD_fog
+}
+
+STRING 256
+// Doodads: D026 (-ZL-Water), Name (Name)
+{
+-ZL-Water
+}
+
+STRING 257
+// Doodads: D027 (-ZL-Amani Hut), Name (Name)
+{
+-ZL-Amani Hut
+}
+
+STRING 258
+// Doodads: NPth (-ZL-Vines Thorny), Name (Name)
+{
+-ZL-Vines Thorny
+}
+
+STRING 259
+// Destructibles: B003 (Pathing Blocker (Ground) (BIG_horizontal)), Name (Name)
+{
+Pathing Blocker (Ground) (BIG_horizontal)
+}
+
+STRING 260
+// Destructibles: B004 (Pathing Blocker (Ground) (BIGl)), Name (Name)
+{
+Pathing Blocker (Ground) (BIGl)
+}
+
+STRING 261
+// Destructibles: B005 (Pathing Blocker (Ground) (BIG2)), Name (Name)
+{
+Pathing Blocker (Ground) (BIG2)
+}
+
+STRING 262
+// Units: o003 (Amani'shi Guardian), Name (Name)
+{
+Amani'shi Guardian
+}
+
+STRING 263
+// Units: O004 (High Priest of Bwonsamdi), Name (Name)
+{
+High Priest of Bwonsamdi
+}
+
+STRING 264
+// Units: e001 (Elven Ranger ), Name (Name)
+{
+Elven Ranger 
+}
+
+STRING 266
+// Units: O005 (Avatar of the Eagle), Name (Name)
+{
+Avatar of the Eagle
+}
+
+STRING 267
+// Units: O005 (Avatar of the Eagle), Propernames (Proper Names)
+{
+Akil'zon
+}
+
+STRING 268
+// Units: O006 (Avatar of the Bear), Name (Name)
+{
+Avatar of the Bear
+}
+
+STRING 269
+// Units: O006 (Avatar of the Bear), Propernames (Proper Names)
+{
+Nalorakk
+}
+
+STRING 270
+// Units: O007 (Avatar of the Dragonhawk), Name (Name)
+{
+Avatar of the Dragonhawk
+}
+
+STRING 271
+// Units: O007 (Avatar of the Dragonhawk), Propernames (Proper Names)
+{
+Jan'alai
+}
+
+STRING 272
+// Units: O008 (Avatar of the Lynx), Name (Name)
+{
+Avatar of the Lynx
+}
+
+STRING 273
+// Units: O008 (Avatar of the Lynx), Propernames (Proper Names)
+{
+Halazzi
+}
+
+STRING 274
+// Units: h001 (Elven Priest), Name (Name)
+{
+Elven Priest
+}
+
+STRING 275
+// Abilities: A007 (Holy Nova), Name (Name)
+{
+Holy Nova
+}
+
+STRING 276
+// Abilities: A008 (Holy Light), Tip (Tooltip - Normal)
+{
+Holy Light
+}
+
+STRING 277
+// Units: h002 (Elven Fire Mage), Name (Name)
+{
+Elven Fire Mage
+}
+
+STRING 278
+// Abilities: A00A (Flame Strike), Tip (Tooltip - Normal)
+{
+Flame Strike
+}
+
+STRING 279
+// Abilities: A00A (Flame Strike), EditorSuffix (Editor Suffix)
+{
+(Fire Mage)
+}
+
+STRING 280
+// Abilities: A00B (Ignite), Name (Name)
+{
+Ignite
+}
+
+STRING 281
+// Abilities: A00B (Ignite), Tip (Tooltip - Normal)
+{
+Ignite
+}
+
+STRING 282
+// Buffs/Effects: B006 (Ignite), EditorName (Name (Editor Only))
+{
+Ignite
+}
+
+STRING 283
+// Units: o009 (Amani Barracks), Name (Name)
+{
+Amani Barracks
+}
+
+STRING 284
+// Units: o00A (Amani Warrior), Name (Name)
+{
+Amani Warrior
+}
+
+STRING 285
+// Units: e001 (Elven Ranger ), EditorSuffix (Name - Editor Suffix)
+{
+(Female)
+}
+
+STRING 286
+// Units: h003 (Elven Archer), Name (Name)
+{
+Elven Archer
+}
+
+STRING 287
+// Units: h003 (Elven Archer), Tip (Tooltip - Basic)
+{
+Elven Archer (|cffffcc00E|r)
+}
+
+STRING 288
+// Units: h003 (Elven Archer), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 289
+// Abilities: A006 (Taz'dingo!), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 290
+// Units: h004 (Ranger), Name (Name)
+{
+Ranger
+}
+
+STRING 291
+// Units: h004 (Ranger), Ubertip (Tooltip - Extended)
+{
+Basic long-ranged attacker. Can learn the Marksmanship, Improved Bows and Hippogryph Taming upgrades.|n|n|cffffcc00Attacks land and air units.|r
+}
+
+STRING 292
+// Units: h004 (Ranger), Tip (Tooltip - Basic)
+{
+Train Ranger
+}
+
+STRING 293
+// Units: o00B (Troll Axethrower), Name (Name)
+{
+Troll Axethrower
+}
+
+STRING 294
+// Units: o00B (Troll Axethrower), Tip (Tooltip - Basic)
+{
+Train Troll Axethrower
+}
+
+STRING 295
+// Units: o00B (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Berserker, which has the Berserk ability and increased stats. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
+STRING 296
+// Units: o00C (Berserker), Ubertip (Tooltip - Extended)
+{
+Versatile axe-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration, Berserker Sight, Lighter Axes. |n|n|cffffcc00Attacks land and air units.|r 
+}
+
