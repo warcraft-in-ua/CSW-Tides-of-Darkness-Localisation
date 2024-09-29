@@ -16,7 +16,7 @@ LoreCraftDesigns
 STRING 349
 // Units: O001 (Warlord), Propernames (Proper Names)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 430
@@ -25,21 +25,21 @@ WC2Orc02
 }
 
 STRING 455
-// Units: hrrh (Milan the Scribe), Name (Name)
+// Units: hrrh (Мілан літописець ), Name (Name)
 {
-Milan the Scribe
+Мілан літописець 
 }
 
 STRING 457
 // Units: H62F (Captain), Propernames (Proper Names)
 {
-Luric
+Люрік
 }
 
 STRING 472
 {
-|cff32CD32HINT|r 
-Fallen hero can be revived in the Great Hall.
+|c0000FF00ПІДКАЗКА:|r 
+Полеглого героя можна оживити у «Великій залі»
 }
 
 STRING 473
@@ -54,7 +54,7 @@ STRING 474
 
 STRING 494
 {
-Forest Trolls
+Лісові тролі
 }
 
 STRING 495
@@ -69,7 +69,7 @@ Alliance
 
 STRING 498
 {
-Nation of Lordaeron
+Люди Лордерону
 }
 
 STRING 505
@@ -108,15 +108,15 @@ You can Revive your hero at the Great Hall.
 }
 
 STRING 512
-// Units: nmh1 (Troll Hut), Name (Name)
+// Units: nmh1 (Троляча хатинка), Name (Name)
 {
-Troll Hut
+Троляча хатинка
 }
 
 STRING 513
-// Units: nfr1 (Troll Hut), Name (Name)
+// Units: nfr1 (Троляча хатинка), Name (Name)
 {
-Troll Hut
+Троляча хатинка
 }
 
 STRING 547
@@ -126,21 +126,21 @@ S
 }
 
 STRING 556
-// Units: nmh1 (Troll Hut), Tip (Tooltip - Basic)
+// Units: nmh1 (Троляча хатинка), Tip (Tooltip - Basic)
 {
-Build Troll Hut
+Build Троляча хатинка
 }
 
 STRING 557
-// Units: nfr1 (Troll Hut), Tip (Tooltip - Basic)
+// Units: nfr1 (Троляча хатинка), Tip (Tooltip - Basic)
 {
-Build Troll Hut
+Build Троляча хатинка
 }
 
 STRING 558
 // Units: nmg0 (Murloc Hut), Name (Name)
 {
-Murloc Hut
+Хижа мурлока
 }
 
 STRING 632
@@ -156,9 +156,9 @@ Orc Spearthrower
 }
 
 STRING 664
-// Units: n606 (Orc Tent), Name (Name)
+// Units: n606 (Orc Намет), Name (Name)
 {
-Orc Tent
+Orc Намет
 }
 
 STRING 878
@@ -182,7 +182,7 @@ Igloo
 STRING 962
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 963
@@ -200,35 +200,35 @@ STRING 972
 STRING 992
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Укріплення з шипами
 }
 
 STRING 1002
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 1003
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 1004
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Великий намет
 }
 
 STRING 1005
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 1006
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -236,7 +236,7 @@ STRING 1006
 STRING 1029
 // Units: H62F (Captain), Name (Name)
 {
-Captain
+Капітан
 }
 
 STRING 1030
@@ -254,7 +254,7 @@ Revive Captain
 STRING 1033
 // Units: H62F (Captain), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 1046
@@ -494,33 +494,33 @@ STRING 1498
 STRING 2320
 // Units: nmg1 (Murloc Hut), Name (Name)
 {
-Murloc Hut
+Хижа мурлока
 }
 
 STRING 2324
 // Units: n007 (Raven), Name (Name)
 {
-Raven
+Ворон
 }
 
 STRING 2349
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Strength in Numbers
-  -|cff808080 Build a Barracks (Completed)|r
-  - Train 10 Grunts
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Сила в числі
+  -|cff808080 Побудуйте бараки (Завершено)|r
+  - Натренуйте 10 рубайл
 }
 
 STRING 2354
-// Units: nmh0 (Troll Hut), Name (Name)
+// Units: nmh0 (Троляча хатинка), Name (Name)
 {
-Troll Hut
+Троляча хатинка
 }
 
 STRING 2355
-// Units: nmh0 (Troll Hut), Tip (Tooltip - Basic)
+// Units: nmh0 (Троляча хатинка), Tip (Tooltip - Basic)
 {
-Build Troll Hut
+Build Троляча хатинка
 }
 
 STRING 2385
@@ -532,7 +532,7 @@ Wanted Scroll
 STRING 2386
 // Units: n008 (Thrall), Name (Name)
 {
-Thrall
+Тралл
 }
 
 STRING 2387
@@ -543,48 +543,48 @@ A tiny orc.
 
 STRING 2388
 {
-Prisoners
+Бранці
 }
 
 STRING 2389
 {
-Durnholde Garrison
+Дарнголдський гарнізон
 }
 
 STRING 2391
 // Units: ndrj (Slime), Name (Name)
 {
-Slime
+Слимак
 }
 
 STRING 2395
 // Units: otrb (Troll Burrow), Name (Name)
 {
-Troll Burrow
+Укріплення тролів
 }
 
 STRING 2396
-// Units: nth1 (Troll Hut), Name (Name)
+// Units: nth1 (Троляча хатинка), Name (Name)
 {
-Troll Hut
+Троляча хатинка
 }
 
 STRING 2397
-// Units: nth0 (Troll Hut), Name (Name)
+// Units: nth0 (Троляча хатинка), Name (Name)
 {
-Troll Hut
+Троляча хатинка
 }
 
 STRING 2438
 // Units: uaco (Heretic), Name (Name)
 {
-Heretic
+Єретик
 }
 
 STRING 2439
 // Units: nwiz (Traitor Wizard), Name (Name)
 {
-Traitor Wizard
+Чародій зрадник
 }
 
 STRING 2461
@@ -692,150 +692,150 @@ Snowpile Flat
 STRING 2579
 // Units: nCP1 (Cave), Name (Name)
 {
-Cave
+Печера
 }
 
 STRING 2580
 {
-Blackrock clan
+Клан чорної гори
 }
 
 STRING 2581
 {
-Strength in Numbers
+Сила в числі
 }
 
 STRING 2582
 {
-This region is home to a strong human garrison. In order to successfully rescue Zul’jin, you will need a powerful force of your own.
+У цьому регіоні розташовується потужний та добре укріплений гарнізон людей з великою кількістю воїнів. Вам знадобиться чисельна армія аби звільнити Зул'джина з полону.
 }
 
 STRING 2583
 {
-Build a Barracks
+Побудуйте бараки
 }
 
 STRING 2584
 {
-Train 10 Grunts
+Натренуйте 10 рубайл
 }
 
 STRING 2585
 {
-Crippling Durnholde
+Паралізувати Дарнгольд
 }
 
 STRING 2586
 {
-While rescuing Zul’jin is your highest priority, the power of Durnholde Keep remains a concern. Destroying the prison outpost will go a long way in weakening the fortress and delay any efforts to recapture Zul’jin.
+Не дивлячись на те що порятунок Зул'джина це пріоритетна задача, небезпека яка йде від фортеці Дарнгольд та її військ в перспективі є проблемою. Повне знищення форпосту що охороняє в'язницю та припасів, в довгій перспективі буде нам тільки на руку та послабить фортецю, і відтермінує будь-яку її військову активність.
 }
 
 STRING 2587
 {
-Destroy the Barracks
+Знищіть казарми
 }
 
 STRING 2588
 {
-Destroy the Town Hall
+Знищіть ратушу
 }
 
 STRING 2589
 {
-Destroy the Farms
+Знищіть ферми
 }
 
 STRING 2595
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2596
 {
-Zul’jin, chieftain of the forest trolls, has been captured by the humans and their elven allies. Free him, and escort him to the safety of the nearby troll village.
+Зул'джин, отаман лісових тролів Амані, був спійманий людьми та їх ельфійськими посіпаками. Звільніть його, та супроводіть його у найближче поселення тролів.
 }
 
 STRING 2597
 {
-Free Zul'jin
+Звільніть Зул'джина
 }
 
 STRING 2598
 {
-Escort him to the Troll Village
+Супроводіть його у поселення тролів
 }
 
 STRING 2599
 {
-Zul'jin must survive
+Зул'джин має вижити
 }
 
 STRING 2600
 {
-|cffffcc00MAIN QUEST|r
-Strength in Numbers
- - Build a Barracks
- - Train 10 Grunts
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Сила в числі
+ - Побудуйте бараки
+ - Натренуйте 10 рубайл
 }
 
 STRING 2601
 {
-Mission Objectives
+Цілі завдання
 }
 
 STRING 2602
 {
-Barracks Built:
+Бараків побудовано:
 }
 
 STRING 2603
 {
-Grunts Trained:
+Рубайл натреновано:
 }
 
 STRING 2610
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Strength in Numbers
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Сила в числі
 }
 
 STRING 2611
 {
-|cffffcc00MAIN QUEST|r
-Zul'jin
-  - Free Zul'jin
-  - Escort him to the troll village
-  - Zul'jin must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Зул'джин
+  - Звільніть Зул'джина
+  - Супроводіть його у поселення тролів
+  - Зул'джин має вижити
 }
 
 STRING 2612
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Zul'jin
-  -|cff808080 Free Zul'jin (Completed)|r
-  - Escort him to the Troll Village
-  - Zul'jin must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Зул'джин
+  -|cff808080 Звільніть зулджина (Заверешено)|r
+  - Супроводіть його у поселення тролів
+  - Зул'джин має вижити
 }
 
 STRING 2613
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Zul'jin
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Зул'джин
 }
 
 STRING 2615
 {
-|cffffcc00OPTIONAL QUEST|r
-Crippling Durnholde
-  - Destroy the Barracks
-  - Destroy the Town Hall
-  - Destroy the Farms
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Паралізувати Дарнгольд
+  - Знищіть казарми
+  - Знищіть ратушу
+  - Знищіть ферми
 }
 
 STRING 2616
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Crippling Durnholde
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Паралізувати Дарнгольд
 }
 
 STRING 2617
@@ -846,21 +846,20 @@ Zul’jin is a powerful troll warlord and ruler of the Amani Tribe. He shares a 
 
 STRING 2619
 {
-|cff32CD32HINT|r 
-While your peons are busy building your basecamp, you can send your heroes to scout the surrounding area. Be careful though, as you never want to leave your camp completely undefended.
+|cff32CD32ПІДКАЗКА|r 
+Поки батраки зайняті будуванням табору, ви можете відправити героїв на розвідку місцевості. Але будьте обережні, не варто лишати табір без захисту.
 }
 
 STRING 2623
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Troll Axe thrower. Skillful ranged warrior, that can be trained in barracks. Able to attack ground and air targets.
+|cffffcc00НОВИЙ ТИП ВІЙСЬК|r
+«Троль сокирокид» вмілий воїн дального бою, якого відтепер можна натренувати у бараках. Він може атакувати як наземні так і повітряні цілі.
 }
 
 STRING 2626
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Troll lumber mill. Serves as a warehouse for harvested lumber. It also contains upgrades for your troll units and the lumber gathering of your peons.
-
+|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r
+«Лісопильня тролів» слугує пунктом здачі деревини. Також дає можливість покращувати тролів, і збільшити видобутку деревини вашими батраками.
 }
 
 STRING 2627
@@ -871,25 +870,25 @@ Pillage. Researching pillage will enable your grunts and peons to collect resour
 
 STRING 2629
 {
-|cffffcc00MISSION FAILED|r
-Zul'jin has been slain.
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+Зул'джина було вбито.
 }
 
 STRING 2630
 {
-Defeat!
+Поразка!
 }
 
 STRING 2634
 // Items: I0L0 (WC2Orc02ElfArcher1), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Мілан літописець 
 }
 
 STRING 2635
 // Items: I0L0 (WC2Orc02ElfArcher1), Description (Description)
 {
-I will inform our superiors about the capture of the Troll leader. Keep a close watch on the prisoners, commander, as there is no telling what vile schemes they are already hatching.
+Я повідомлю командування про те що лідера тролів нарешті захоплено. Уважно стежте за в'язнями, командире, бо невідомо що ці дикуни можуть утнути.
 }
 
 STRING 2636
@@ -901,13 +900,13 @@ WC2Orc02ElfArcher1
 STRING 2637
 // Items: I0L1 (WC2Orc02ElfArcher2), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Мілан літописець 
 }
 
 STRING 2638
 // Items: I0L1 (WC2Orc02ElfArcher2), Description (Description)
 {
-Do not underestimate the Forest Trolls, for they are unlike anything your men have ever faced. I will leave you a dozen of my archers.
+Не треба недооцінювати лісових тролів,  вони не схожі ні на що, з чим вам доводилося стикатися. Про всяк випадок лишу вам десяток моїх лучників.
 }
 
 STRING 2639
@@ -919,13 +918,13 @@ WC2Orc02ElfArcher2
 STRING 2640
 // Items: I0L2 (WC2Orc02ElfArcher3), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Ельфійський лучник
 }
 
 STRING 2641
 // Items: I0L2 (WC2Orc02ElfArcher3), Description (Description)
 {
-The orcs are freeing the trolls! Stop them!
+Схоже орки звільнили полонених тролів! Зупинити їх!
 }
 
 STRING 2642
@@ -937,13 +936,13 @@ WC2Orc02ElfArcher3
 STRING 2643
 // Items: I0L3 (WC2Orc02Luric1), Tip (Tooltip - Basic)
 {
-Captain Luric
+Капітан Люрік
 }
 
 STRING 2644
 // Items: I0L3 (WC2Orc02Luric1), Description (Description)
 {
-Don’t worry, my men know a thing or two about handling outlaws.
+Не хвилюйтесь, мої люди знають як поводитись з цими тваринами.
 }
 
 STRING 2645
@@ -955,13 +954,13 @@ WC2Orc02Luric1
 STRING 2646
 // Items: I0L4 (WC2Orc02Footman1), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець
 }
 
 STRING 2647
 // Items: I0L4 (WC2Orc02Footman1), Description (Description)
 {
-Orcs.. here? Close the gate!
+Орки… тут? Негайно зачинити браму!
 }
 
 STRING 2648
@@ -973,13 +972,13 @@ WC2Orc02Footman1
 STRING 2649
 // Items: I0L5 (WC2Orc02Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2650
 // Items: I0L5 (WC2Orc02Rend1), Description (Description)
 {
-Our scouts have confirmed that a band of human soldiers have captured a war party led by troll commander Zul’jin, and have taken them to a secret prison near the outskirts of Durnholde Keep.
+Наш шпигун підтвердив, людське відріддя взяло в полон загін тролів на чолі з їх командиром Зул'джином. Їх тримають під вартою у поселенні, що поблизу фортеці Дарнгольд.
 }
 
 STRING 2651
@@ -991,13 +990,13 @@ WC2Orc02Rend1
 STRING 2652
 // Items: I0L6 (WC2Orc02Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2653
 // Items: I0L6 (WC2Orc02Rend2), Description (Description)
 {
-Seeing an opportunity to place these captives in debt to the Horde, Doomhammer has commanded that we focus our efforts on liberating Zul’jin and his trolls. Once freed from the clutches of their human captors, we are to return them to the safety of their own encampment nearby.
+Молот Згуби бачить сенс в тому щоб звільнити тролів та запропонувати їх лідеру доєднатися до орди, і наказав, аби ми зосередили всі наші зусилля на звільненні бранців. Коли вони будуть вільні від цього людського сміття яке їх поневолило, їх треба буде супроводити до табору Амані який є в цій місцевості.
 }
 
 STRING 2654
@@ -1009,13 +1008,13 @@ WC2Orc02Rend2
 STRING 2655
 // Items: I0L7 (WC2Orc02Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2656
 // Items: I0L7 (WC2Orc02Rend3), Description (Description)
 {
-Hmm...Forest Trolls, how convenient. Let us approach with caution.
+Хмм… лісові тролі, як доречно. Спробуймо обережно наблизитись і поговорити.
 }
 
 STRING 2657
@@ -1027,13 +1026,13 @@ WC2Orc02Rend3
 STRING 2658
 // Items: I0L8 (WC2Orc02Rend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2659
 // Items: I0L8 (WC2Orc02Rend4), Description (Description)
 {
-Greetings, Amani, we have been dispatched by our Warchief to rescue your legendary leader. Were you part of Zul'jin's war-party?
+Вітаю вас славетні Амані, наш вождь відправив нас на порятунок вашого легендарного лідера. Ви були частиною військового підрозділу Зул'джина?
 }
 
 STRING 2660
@@ -1045,13 +1044,13 @@ WC2Orc02Rend4
 STRING 2661
 // Items: I0L9 (WC2Orc02Rend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2662
 // Items: I0L9 (WC2Orc02Rend5), Description (Description)
 {
-Zul'jin is of great interest to our Warchief. That is why we are here to slaughter his captors and deliver him to safety. We will aid you in your plight, Amani.
+Наш вождь дуже зацікавлений у тому щоб звільнити Зул'джина. Ми тому і тут, аби вбити те людське сміття, що його поневолило і супроводити вашого лідера у безпечне місце. Ми допоможемо у вашій біді, величні Амані.
 }
 
 STRING 2663
@@ -1063,13 +1062,13 @@ WC2Orc02Rend5
 STRING 2664
 // Items: I0LA (WC2Orc02Rend6), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2665
 // Items: I0LA (WC2Orc02Rend6), Description (Description)
 {
-Hmm... a patrol. Their camp must be nearby.
+Хмм… патруль. Їх табір має бути десь неподалік.
 }
 
 STRING 2666
@@ -1081,13 +1080,13 @@ WC2Orc02Rend6
 STRING 2667
 // Items: I0LB (WC2Orc02Rend7), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2668
 // Items: I0LB (WC2Orc02Rend7), Description (Description)
 {
-Murlocs! I hate these two legged frog freaks… what are they doing here?
+Мурлоки! Ненавиджу цих двоногих жаб-мутантів… що вони тут роблять?
 }
 
 STRING 2669
@@ -1099,13 +1098,13 @@ WC2Orc02Rend7
 STRING 2670
 // Items: I0LC (WC2Orc02Rend8), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2671
 // Items: I0LC (WC2Orc02Rend8), Description (Description)
 {
-I see… all the more reason to exterminate them!
+Тож, бо й воно… ще одна причині вирізати їх усіх!
 }
 
 STRING 2672
@@ -1117,13 +1116,13 @@ WC2Orc02Rend8
 STRING 2673
 // Items: I0LD (WC2Orc02Rend9), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2674
 // Items: I0LD (WC2Orc02Rend9), Description (Description)
 {
-You are right, Utok, and the carnage would do well in covering our escape. See it done!
+Слушна думка Утоку, думаю, що різанина тут відверне їх увагу і прикриє наш відступ. Тому до справи!
 }
 
 STRING 2675
@@ -1135,7 +1134,7 @@ WC2Orc02Rend9
 STRING 2676
 // Items: I0LE (WC2Orc02Rend10), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2678
@@ -1147,13 +1146,13 @@ WC2Orc02Rend10
 STRING 2679
 // Items: I0LF (WC2Orc02Rend11), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2680
 // Items: I0LF (WC2Orc02Rend11), Description (Description)
 {
-Then we’d best get going. We will continue this conversation once you and your people are safe.
+Тоді не будемо гаяти час, рушаймо. Договоримо коли ти та твої люди будете в безпеці.
 }
 
 STRING 2681
@@ -1165,13 +1164,13 @@ WC2Orc02Rend11
 STRING 2682
 // Items: I0LG (WC2Orc02Rend12), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2683
 // Items: I0LG (WC2Orc02Rend12), Description (Description)
 {
-Aargh, again with these slimy walking frogs! Must we mire ourselves with their blood everywhere?!
+Аргх, знову ці слизькі ходячі жаби! Схоже ми всі будемо з голови до пʼят у їхній крові?!
 }
 
 STRING 2684
@@ -1183,13 +1182,13 @@ WC2Orc02Rend12
 STRING 2685
 // Items: I0LH (WC2Orc02Rend13), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2686
 // Items: I0LH (WC2Orc02Rend13), Description (Description)
 {
-Just..kill them, KILL THEM!
+Просто... повбивайте їх, ПОВБИВАЙТЕ ЇХ!
 }
 
 STRING 2687
@@ -1201,13 +1200,13 @@ WC2Orc02Rend13
 STRING 2688
 // Items: I0LI (WC2Orc02Rend14), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2689
 // Items: I0LI (WC2Orc02Rend14), Description (Description)
 {
-You are a mighty warrior, Zul’jin! We will protect your people and bring ruin to all your enemies. In return you will provide us with your finest scouts and warriors.
+Ти могутній воїн, Зул'джине! Ми захистимо ваш народ і знищимо всіх ваших ворогів. Натомість я певен, що і твої воїни зміцнять орду, і вам є чого нас навчити.
 }
 
 STRING 2690
@@ -1219,13 +1218,13 @@ WC2Orc02Rend14
 STRING 2691
 // Items: I0LJ (WC2Orc02Rend15), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2692
 // Items: I0LJ (WC2Orc02Rend15), Description (Description)
 {
-Welcome to the Horde, Zul’jin.
+У будь-якому разі, радий вітати тебе в орді, отамане Зул'джин!
 }
 
 STRING 2693
@@ -1237,13 +1236,13 @@ WC2Orc02Rend15
 STRING 2694
 // Items: I0LK (WC2Orc02Troll1), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2695
 // Items: I0LK (WC2Orc02Troll1), Description (Description)
 {
-Amani... we've not been called by dat name for generations, not since the days of our great empire of old. You be well versed in our history, stranger.
+Амані…нас так не кликали вже кілька поколінь, з часів нашої великої стародавньої імперії. Ти добре знаєшся на нашій історії, незнайомцю.
 }
 
 STRING 2696
@@ -1255,13 +1254,13 @@ WC2Orc02Troll1
 STRING 2697
 // Items: I0LL (WC2Orc02Troll2), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2698
 // Items: I0LL (WC2Orc02Troll2), Description (Description)
 {
-We were indeed led by the great Zul'jin, until we be ambushed by da Humans. Three of us were killed, and da rest were captured. I managed to evade capture so I could warn my brethren of Zul'jin's abduction.
+Ми були під командуванням Зул'джина, поки не потрапили у засідку. Трьох з нашого загону було вбито, а інших поневолили. Нам вдалося втекти, тож я зміг попередити наше плем'я що Зул'джина було взято у полон. 
 }
 
 STRING 2699
@@ -1273,13 +1272,13 @@ WC2Orc02Troll2
 STRING 2700
 // Items: I0LM (WC2Orc02Troll2a), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2701
 // Items: I0LM (WC2Orc02Troll2a), Description (Description)
 {
-Their camp be on da other side of da forest, but da path be blocked by dat accursed human settlement.
+Табір у якому його тримають знаходиться на іншій стороні лісу, але шлях до нього лежить через людські форпости.
 }
 
 STRING 2702
@@ -1291,13 +1290,13 @@ WC2Orc02Troll2a
 STRING 2703
 // Items: I0LN (WC2Orc02Troll3), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2704
 // Items: I0LN (WC2Orc02Troll3), Description (Description)
 {
-We cannot make it there on our own, but if ya truly be here to help us, den we will show you how to build a proper Troll Lumber Mill and grant you the use of our tools and weapons!
+Наодинці нам з ними не впоратись. Але якщо ти зі своїм військом і справді тут аби нам допомогти, то ми за любки покажемо вам як побудувати лісопильну, і поділимось нашими інструментами та зброєю.
 }
 
 STRING 2705
@@ -1309,13 +1308,13 @@ WC2Orc02Troll3
 STRING 2706
 // Items: I0LO (WC2Orc02Troll4), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2707
 // Items: I0LO (WC2Orc02Troll4), Description (Description)
 {
-Our axes are yours to command, Orc Master.
+Наші сокири до твоїх послуг, орчий отамане.
 }
 
 STRING 2708
@@ -1327,7 +1326,7 @@ WC2Orc02Troll4
 STRING 2709
 // Items: I0LP (HeadHunterReady1), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2710
@@ -1345,13 +1344,13 @@ HeadHunterReady1
 STRING 2712
 // Items: I0LQ (WC2Orc02Troll5), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2713
 // Items: I1LQ (WC2Orc02Troll7), Description (Description)
 {
-It be Zul'jin! thank da loa! he's alive!
+Це Зул'джин! Хвала Ла! Він живий!
 }
 
 STRING 2714
@@ -1363,13 +1362,13 @@ WC2Orc02Troll5
 STRING 2715
 // Items: I0LR (WC2Orc02Troll6), Tip (Tooltip - Basic)
 {
-Forest Troll
+Троль знахар
 }
 
 STRING 2716
 // Items: I0LR (WC2Orc02Troll6), Description (Description)
 {
-Who be those green skins that accompany him?
+Хто ці зеленошкірі чужинці, що супроводжують Зул'джина?
 }
 
 STRING 2717
@@ -1381,13 +1380,13 @@ WC2Orc02Troll6
 STRING 2718
 // Items: I0LS (WC2Orc02Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2719
 // Items: I0LS (WC2Orc02Utok1), Description (Description)
 {
-This raid upon the unsuspecting prison will strike terror into the hearts of those who would dare resist the Horde!
+Наш напад налякає їх, та дасть їх всім зрозуміти що буває з тими хто наважується протистояти силам орди.
 }
 
 STRING 2720
@@ -1399,13 +1398,13 @@ WC2Orc02Utok1
 STRING 2721
 // Items: I0LT (WC2Orc02Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2722
 // Items: I0LT (WC2Orc02Utok2), Description (Description)
 {
-It seems like the pests are a widespread plague on this world, Chieftain, much like Podlings back on Draenor.
+Схоже, такі паразити — це як якась широко поширена чума в цьому світі, як подлінги на Дренорі.
 }
 
 STRING 2723
@@ -1417,13 +1416,13 @@ WC2Orc02Utok2
 STRING 2724
 // Items: I0LU (WC2Orc02Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2725
 // Items: I0LU (WC2Orc02Utok3), Description (Description)
 {
-Chieftain, I know our focus must be Zul’jin, but burning this place to the ground would greatly weaken Durnholde.
+Отамане, я знаю, що ми маємо зосередитися на Зул'джині, але якщо ми спалимо це місце дотла, то це значно послабить Дарнгольд.
 }
 
 STRING 2726
@@ -1441,7 +1440,7 @@ Zul'jin
 STRING 2728
 // Items: I0LV (WC2Orc02ZulJin1), Description (Description)
 {
-Thank you strangers, I owe you my life.
+Дякую незнайомці, і я мої брати завдячуємо вам своїм життям.
 }
 
 STRING 2729
@@ -1459,7 +1458,7 @@ Zul'jin
 STRING 2731
 // Items: I0LW (WC2Orc02ZulJin2), Description (Description)
 {
-Then we be truly in your debt, Rend Blackhand. Da shortest path to our village leads through da swamp.
+То й справді ми ваші боржники, Ренд Чорнорук з орочої Орди. Найкоротший шлях до нашого табору лежить через болота.
 }
 
 STRING 2732
@@ -1477,7 +1476,7 @@ Zul'jin
 STRING 2734
 // Items: I0LX (WC2Orc02ZulJin3), Description (Description)
 {
-They be a nuisance for everyone, friend. All races consider dem pests, even da elves and da humans, a rare matter dat we agree on.
+Ці істоти є клопотом для всіх, Ренд Чорнорук. Навіть ельфи та люди вважають їх шкідниками, це майже єдине в чому я з ними згоден.
 }
 
 STRING 2735
@@ -1495,7 +1494,7 @@ Zul'jin
 STRING 2737
 // Items: I0LY (WC2Orc02ZulJin4), Description (Description)
 {
-Now dat we are safe, we can continue our conversation. On behalf of the Forest Trolls, I thank you for your help.
+Тепер, коли ми в безпеці, ми можемо продовжити нашу розмову. Від імені лісових тролів я дякую тобі за допомогу Ренд Чорнорук з орочої Орди.
 }
 
 STRING 2738
@@ -1513,7 +1512,7 @@ Zul'jin
 STRING 2740
 // Items: I0LZ (WC2Orc02ZulJin5), Description (Description)
 {
-Da Elves of Quel’thalas are our eternal enemies. In ancient times dey ravaged our empire with the help of da humans, and now history be repeating itself! Those mongrels were going to take me to Quel’thalas and put me in a cage for all the world to see!
+З давніх-давен ельфи Квель'таласу — були нашими ворогами. У ті ж давні часи вони об'єднавшись з людьми спустошили нашу імперію, а тепер як я бачу історія повторюється! Ці дворові собаки збиралися відвезти мене у Квель'талас і посадити в клітку, щоб всі побачили що я поневолений!
 }
 
 STRING 2741
@@ -1531,7 +1530,7 @@ Zul'jin
 STRING 2743
 // Items: I0Lz (WC2Orc02ZulJin6), Description (Description)
 {
-It be good to be here, Rend Blackhand.
+А я радий доєднатися, Ренд Чорнорук.
 }
 
 STRING 2744
@@ -1543,7 +1542,7 @@ WC2Orc02ZulJin6
 STRING 2746
 // Items: I1LQ (WC2Orc02Troll7), Tip (Tooltip - Basic)
 {
-Forest Troll
+Лісовий троль
 }
 
 STRING 2747
@@ -1559,9 +1558,9 @@ Rocks (grey)(VT)
 }
 
 STRING 2749
-// Units: n004 (Troll Hut), Name (Name)
+// Units: n004 (Троляча хатинка), Name (Name)
 {
-Troll Hut
+Троляча хатинка
 }
 
 STRING 2750
@@ -1591,7 +1590,7 @@ Light Yellow
 STRING 2755
 // Items: I0LQ (WC2Orc02Troll5), Description (Description)
 {
-Vengeance for Zul’jin
+Помстимося за Зул'джина!
 }
 
 STRING 2756
@@ -1617,61 +1616,61 @@ STRING 2759
 STRING 2760
 // Items: IQL0 (  - Destroy the Farms), Tip (Tooltip - Basic)
 {
-Crippling Durnholde
+Паралізувати Дарнгольд
 }
 
 STRING 2761
 // Items: IQL0 (  - Destroy the Farms), Ubertip (Tooltip - Extended)
 {
-  -|cff808080 Destroy the Farms (Completed)|r
+  -|cff808080 Знищіть ферми (Завершено)|r
 }
 
 STRING 2762
 // Items: IQL0 (  - Destroy the Farms), Description (Description)
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
 }
 
 STRING 2763
 // Items: IQL0 (  - Destroy the Farms), Name (Name)
 {
-  - Destroy the Farms
+  - Знищіть ферми
 }
 
 STRING 2764
 // Items: IQL1 (  - Destroy the Town Hall), Tip (Tooltip - Basic)
 {
-  -|cff808080 Destroy the Barracks (Completed)|r
+  -|cff808080 Знищіть казарми (Завершено)|r 
 }
 
 STRING 2765
 // Items: IQL1 (  - Destroy the Town Hall), Ubertip (Tooltip - Extended)
 {
-  - Destroy the Barracks
+  - Знищіть казарми
 }
 
 STRING 2766
 // Items: IQL1 (  - Destroy the Town Hall), Description (Description)
 {
-  -|cff808080 Destroy the Town Hall (Completed)|r
+  -|cff808080 Знищіть ратушу (Завершено)|r
 }
 
 STRING 2767
 // Items: IQL1 (  - Destroy the Town Hall), Name (Name)
 {
-  - Destroy the Town Hall
+  - Знищіть ратушу
 }
 
 STRING 2768
 // Items: IQL2 (Prisoner), Name (Name)
 {
-Prisoner
+В'язень
 }
 
 STRING 2769
 {
-|cffffcc00MAIN QUEST FAILED|r
-All structures and units were destroyed.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Всі ваші споруди та одиниці було знищено.
 }
 
 STRING 2770
@@ -1682,6 +1681,6 @@ Defeat!
 STRING 2771
 // Items: I0LE (WC2Orc02Rend10), Description (Description)
 {
-Greetings Zul’jin, I am Rend Blackhand of the Orcish Horde. We have come to deliver you to safety.
+Вітаю Зул'джине, я Ренд Чорнорук з орочої Орди. Ми прибули сюди аби звільнити тебе, та супроводити в безпечне місце.
 }
 
