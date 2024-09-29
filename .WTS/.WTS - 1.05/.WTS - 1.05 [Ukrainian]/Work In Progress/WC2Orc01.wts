@@ -10,20 +10,20 @@ LoreCraftDesigns
 
 STRING 104
 {
-|cffffcc00OPTIONAL QUEST|r
-Wolves
- - Find and destroy all Wolf Dens
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Вовки
+  - Знайти і знищити всі вовчі лігва
 }
 
 STRING 112
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Wolves
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Вовки
 }
 
 STRING 187
 {
-Blackrock Clan
+Клан Чорної гори
 }
 
 STRING 230
@@ -43,7 +43,7 @@ WC2Orc01
 
 STRING 236
 {
-Nation of Lordaeron
+Люди Лордерону
 }
 
 STRING 249
@@ -150,25 +150,25 @@ Spike Wall
 STRING 718
 // Units: h620 (Tent), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 719
 // Units: h620 (Tent), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 720
 // Units: h621 (Tent), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 721
 // Units: h621 (Tent), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 722
@@ -377,9 +377,9 @@ STRING 1976
 
 STRING 2059
 {
-|cff00ff00HINT|r
-Utok is a semi-hero that can carry items. If he dies in combat, you will be unable to use him for the rest of the mission. 
-Utok's level progression depends on Side Quests completion.
+|cff00ff00ПІДКАЗКА|r
+Уток наполовину герой і може підіймати, носити та використовувати предмети. Але якщо він помре, ви не зможете його оживити до кінця завдання як інших героїв.
+Підвищення рівня Утока відбувається при виконанні додаткових завдань.
 }
 
 STRING 2060
@@ -390,8 +390,8 @@ Rock Chunks Snow
 
 STRING 2075
 {
-|cffffcc00MAIN QUEST FAILED|r
-All Gold Mines depleted before gathering enough resources.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Всі шахти з золотом було вичерпано до того як вам вдалося зібрати необхідну кількість ресурсів.
 }
 
 STRING 2081
@@ -480,7 +480,7 @@ STRING 2116
 STRING 2144
 // Destructibles: B60P (Den), Name (Name)
 {
-Den
+Вовче лігво
 }
 
 STRING 2146
@@ -521,122 +521,121 @@ Snowpile Northrend
 
 STRING 2190
 {
-Blackrock Clan
+Клан Чорної гори
 }
 
 STRING 2220
 {
-Landing
+Закріпитися на острові
 }
 
 STRING 2221
 {
-Orgrim Doomhammer has entrusted you with the construction of an outpost on the island of Zul’dare.
-Build several farms to feed the troops and a barracks to protect the camp.
+Орґрім Молот Згуби наказав вам розбити табір на острові Зул'дар. Ви маєете побудувати  декілька свиноферм аби прогодувати армію, та бараки аби тренувати рубайл та мати змогу обороняти табір.
 }
 
 STRING 2222
 {
-Build a Barracks
+Побудувати бараки
 }
 
 STRING 2223
 {
-Build Pig Farms (0 of 4 Built)
+Побудувати свиноферми ( 0 з 4 побудовано)
 }
 
 STRING 2224
 {
-Fuel the Fires
+Запалити вогні
 }
 
 STRING 2225
 {
-In preparation for the northern campaign, you are to gather vast amounts of gold and lumber. 
+Для підготовки воєнної кампанії на півночі, вам необхідно зібрати суттєву кількість золота та деревини.
 }
 
 STRING 2230
 {
-Wolves
+Вовки
 }
 
 STRING 2231
 {
-Your efforts have provoked a local pack of wolves. Scout the area, find their dens, and eradicate them.
+Ваша активність на острові спровокувала активність диких вовків. Розвідайте територію, знайдіть і знищіть всі вовчі лігва.
 }
 
 STRING 2232
 {
-Find and destroy all Wolf Dens
+Знайдіть та зруйнуйте всі вовчі лігва
 }
 
 STRING 2237
 {
-First Blood
+Перша кров
 }
 
 STRING 2238
 {
-A group of Human scouts have landed on the island of Zul’dare. They must not be allowed to warn the mainland. Slaughter them all!
+Невеликий людський розвідувальний загін висадився на острів. Не можна їм дозволити передати інформацію на материк про нашу підготовку тут на ЗулʼДарі. Виріжте їх всіх до одного!
 }
 
 STRING 2239
 {
-Put out the Signal Fire
+Загасіть сигнальне багаття
 }
 
 STRING 2240
 {
-Kill the Scouts
+Вбийте розвідувальний загін людей
 }
 
 STRING 2248
 {
-|cff00ff00HINT|r
-|cffffcc003,000 Gold|r was taken towards the quest objective. 
+|cff00ff00ПІДКАЗКА|r
+|cffffcc003000 од. золота було вилучено на потреби Орди.
 }
 
 STRING 2250
 {
-|cff00ff00HINT|r
-|cff0080003,000 Lumber|r was taken towards the quest objective. 
+|cff00ff00ПІДКАЗКА|r
+|cff0080003000 од. деревини|r було вилучено на потреби Орди.
 }
 
 STRING 2254
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Fuel the Fire
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Запалити вогні
 }
 
 STRING 2256
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Landing
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Закріпитися на острові
 }
 
 STRING 2259
 {
-|cff00ff00HINT|r
-Each chapter contains side quests that can increase Utok's level, granting him access to new spells and increasing his stats. 
+|cff00ff00ПІДКАЗКА|r
+У кожному розділі є додаткові завдання, при їх виконанні рівень Утока буде підвищуватись, відкриваючи доступ до нових здібностей та підвищувати базові показники.
 }
 
 STRING 2261
 {
-|c0000FF00Hint:|r Fallen Hero can be revived in the Great Hall.
+|c0000FF00Підказка:|r Полеглого героя можна оживити у «Великій залі»
 }
 
 STRING 2264
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-First Blood
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Перша кров
 }
 
 STRING 2265
 {
-|cffffcc00MAIN QUEST UPDATE|r
-First Blood
-  -|cff808080 Put out the Signal Fire (Completed)|r
-  - Kill the Scouts
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Перша кров
+-|cff808080 Загасити сигнальне багаття (Завершено)|r
+- Вбийте розвідників
 }
 
 STRING 2266
@@ -649,90 +648,90 @@ First Blood
 
 STRING 2286
 {
-Put out the fire
+Загасіть сигнальне багаття
 }
 
 STRING 2287
 {
-|cffffcc00MAIN QUEST|r
-First Blood
- - Put out the Signal Fire
- - Kill the Scouts
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Перша кров
+ - Загасіть сигнальне багаття
+ - Вбийте всіх розвідників
 }
 
 STRING 2288
 {
-|cff00ff00HINT|r
-Pick any unit and order him to reach the circle of power near the signal fire in order to put it out. 
+|cff00ff00ПІДКАЗКА|r
+Аби загасити сигнальне багаття, віддайте наказ будь-якій одиниці зайти у коло сили.
 }
 
 STRING 2289
 {
-Gold for the Horde:
+Золото для Орди:
 }
 
 STRING 2290
 {
-Lumber for the Horde:
+Деревина для Орди:
 }
 
 STRING 2291
 {
-|cff00ff00HINT|r
-Each time your peons gather 3,000 Gold or Lumber, this amount is transferred towards the quest objective.
+|cff00ff00ПІДКАЗКА|r
+Кожного разу коли у вас буде 3000 од. золота або деревини, ці ресурси будуть вилучені для цілей завдання.
 }
 
 STRING 2292
 {
-Mission Objectives
+Цілі завдання
 }
 
 STRING 2293
 {
-Pig Farms Built:
+Свиноферм побудовано:
 }
 
 STRING 2294
 {
-Barracks Built:
+Бараків побудовано:
 }
 
 STRING 2295
 {
-|cffffcc00MAIN QUEST|r
-Landing
- - Build Pig Farms (0 of 4 Built)
- - Build a Barracks
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Закріпитися на острові
+ - Побудувати свиноферми (0 з 4 побудовано)
+ - Побудувати бараки
 }
 
 STRING 2296
 {
-Build Pig Farms
+Побудувати свиноферми
 }
 
 STRING 2300
 {
-Defeat!
+Поразка!
 }
 
 STRING 2305
 {
-|cffffcc00MAIN QUEST UPDATED|r
-First Blood
-  -|cffff0000 Put out the Signal Fire (failed)|r
-  - Kill the Scouts
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Перша кров
+  -|cffff0000 Загасити сигнальне багаття (Провалено)|r
+  - Вбийте всіх розвідників 
 }
 
 STRING 2309
 // Items: I0L0 (WC2Orc01Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2310
 // Items: I0L0 (WC2Orc01Utok1), Description (Description)
 {
-Throm'ka, Chieftain.
+Тром-ка, отамане.
 }
 
 STRING 2311
@@ -744,13 +743,13 @@ WC2Orc01Utok1
 STRING 2312
 // Items: I1L0 (WC2Orc01Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2313
 // Items: I1L0 (WC2Orc01Utok2), Description (Description)
 {
-Chieftain, there are human ships in the northern bay!
+Отамане, тут у північній бухті людські кораблі!
 }
 
 STRING 2314
@@ -762,13 +761,13 @@ WC2Orc01Utok2
 STRING 2315
 // Items: I1L1 (WC2Orc01Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2316
 // Items: I1L1 (WC2Orc01Rend1), Description (Description)
 {
-Throm'ka, warrior.
+Тром-ка, воїне.
 }
 
 STRING 2317
@@ -780,13 +779,13 @@ WC2Orc01Rend1
 STRING 2318
 // Items: I1L2 (WC2Orc01Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2319
 // Items: I1L2 (WC2Orc01Rend2), Description (Description)
 {
-The horde is preparing to launch an assault against the mainland of Lordaeron.
+Орда готується розпочати напад на землі Лордерону.
 }
 
 STRING 2320
@@ -798,13 +797,13 @@ WC2Orc01Rend2
 STRING 2321
 // Items: I1L3 (WC2Orc01Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2322
 // Items: I1L3 (WC2Orc01Rend3), Description (Description)
 {
-Orgrim Doomhammer - Warchief of the Orcish hordes and Ruler of the Blackrock Clan - has ordered us to establish a small outpost on Lordaeron's southern shores.
+Орґрім Молот Згуби наказав вам розбити табір на острові Зул'дар. Ви маєете побудувати  декілька свиноферм аби прогодувати армію, та бараки аби тренувати рубайл та мати змогу обороняти табір.
 }
 
 STRING 2323
@@ -816,13 +815,13 @@ WC2Orc01Rend3
 STRING 2324
 // Items: I1L4 (WC2Orc01Rend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2325
 // Items: I1L4 (WC2Orc01Rend4), Description (Description)
 {
-To secure the Zul'dare region as Doomhammer demands we will need to construct a Barracks and several Farms to feed the troops.
+Для захисту регіону Зул'дар за наказом Молота Згуби, нам треба побудувати бараки та декілька свиноферм аби мати змогу прогодувати військо.
 }
 
 STRING 2326
@@ -834,13 +833,13 @@ WC2Orc01Rend4
 STRING 2327
 // Items: I1L5 (WC2Orc01Rend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2328
 // Items: I1L5 (WC2Orc01Rend5), Description (Description)
 {
-Our success may help us determine the extent of the pathetic Human defenses and what resistance they can offer against our forces.
+Тут у нас є змога зрозуміти, що з себе представляє оборона людей та наскільки вона нікчемна, а також побачити чи взагалі можуть вони чинити опір нашим силам.
 }
 
 STRING 2329
@@ -852,13 +851,13 @@ WC2Orc01Rend5
 STRING 2330
 // Items: I1L6 (WC2Orc01Rend6), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2331
 // Items: I1L6 (WC2Orc01Rend6), Description (Description)
 {
-We need a huge amount of resources for the needs of the northern campaign. Gather gold and cut down the forest!
+Для потреб нашої воєнної кампанії на півночі нам потрібна величезна кількість ресурсів. Добувайте золото та рубайте ліс!
 }
 
 STRING 2332
@@ -870,13 +869,13 @@ WC2Orc01Rend6
 STRING 2333
 // Items: I1L7 (WC2Orc01Rend7), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2334
 // Items: I1L7 (WC2Orc01Rend7), Description (Description)
 {
-Find their den and put an end to these attacks!
+Знайдіть їхнє лігво і покладіть край цим нападам!
 }
 
 STRING 2335
@@ -888,13 +887,13 @@ WC2Orc01Rend7
 STRING 2336
 // Items: I1L9 (WC2Orc01Rend8), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2337
 // Items: I1L9 (WC2Orc01Rend8), Description (Description)
 {
-That's the last of them.
+Це був останній!
 }
 
 STRING 2338
@@ -906,25 +905,25 @@ WC2Orc01Rend8
 STRING 2339
 // Items: I1LA (WC2Orc01Rend9), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2340
 // Items: I1LA (WC2Orc01Rend9), Description (Description)
 {
-Damn! We are not prepared for this! We must put out the signal fire immediately, or they will notice us from the ships. Scour the island, slaughter the humans, and don’t let them warn the mainland!
+Прокляття! Ми до цього не готові! Треба негайно загасити сигнальне багаття, інакше вони помітять нас із кораблів. Розвідайте весь острів, вбивайте людей і не дайте їм передати звістку на материк!
 }
 
 STRING 2342
 // Items: I1lA (WC2Orc01Rend10), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2343
 // Items: I1lA (WC2Orc01Rend10), Description (Description)
 {
-Excellent, we've made ready and scouted the area. Doomhammer will be pleased.
+Пречудово! Табір облаштовано, а територія розвідана. Молот Згуби буде задоволений.
 }
 
 STRING 2344
@@ -936,13 +935,13 @@ WC2Orc01Rend9
 STRING 2345
 // Items: I1LB (T02Grunt04901), Tip (Tooltip - Basic)
 {
-Grunt
+Рубайло
 }
 
 STRING 2346
 // Items: I1LB (T02Grunt04901), Description (Description)
 {
-The wretched humans have been destroyed!
+Людських нікчем знищено!
 }
 
 STRING 2347
@@ -954,13 +953,13 @@ T02Grunt04901
 STRING 2348
 // Items: I1LC (WC2Orc01Peon1), Tip (Tooltip - Basic)
 {
-Peon
+Батрак
 }
 
 STRING 2349
 // Items: I1LC (WC2Orc01Peon1), Description (Description)
 {
-Wolves, we are under attack!
+Вовки! На нас напали!
 }
 
 STRING 2350
@@ -972,13 +971,13 @@ WC2Orc01Peon1
 STRING 2351
 // Items: I1LD (WC2Orc01footman1), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець
 }
 
 STRING 2352
 // Items: I1LD (WC2Orc01footman1), Description (Description)
 {
-Is it true sir? Have the orcs really made it this far north?
+Сір скажіть це правда? Невже орки справді дійшли так далеко на північ?
 }
 
 STRING 2353
@@ -990,13 +989,13 @@ WC2Orc01footman1
 STRING 2354
 // Items: I1LE (WC2Orc01footman2), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець
 }
 
 STRING 2355
 // Items: I1LE (WC2Orc01footman2), Description (Description)
 {
-And the stories? If even half of them are true, how can we possibly defeat them?
+І всі ці жахливі історії? Нехай навіть половина з них правдива, як ми здолаємо їх?
 }
 
 STRING 2356
@@ -1008,13 +1007,13 @@ WC2Orc01footman2
 STRING 2357
 // Items: I1LF (WC2Orc01footman3), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець
 }
 
 STRING 2358
 // Items: I1LF (WC2Orc01footman3), Description (Description)
 {
-Light protect us...
+Хай світло захистить всіх нас…
 }
 
 STRING 2359
@@ -1044,13 +1043,13 @@ O07FootmanA1101
 STRING 2363
 // Items: I1LH (WC2Orc01Captain1), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 2364
 // Items: I1LH (WC2Orc01Captain1), Description (Description)
 {
-Alright men, establish a basecamp and prepare to move out.
+Добре хлопці, нам треба облаштувати табір і готуймося рушати.
 }
 
 STRING 2365
@@ -1062,13 +1061,13 @@ WC2Orc01Captain1
 STRING 2366
 // Items: I1LI (WC2Orc01Captain2), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 2367
 // Items: I1LI (WC2Orc01Captain2), Description (Description)
 {
-Calm yourselves and stay focused on our task. We are here to investigate the rumors of a suspected Horde presence in the Zul’dare region.
+Заспокойтеся та зосередьтеся на нашому завданні. Ми тут якраз для того, щоб перевірити ці чутки про ймовірну присутність Орди в регіоні Зул'дар. 
 }
 
 STRING 2368
@@ -1080,13 +1079,13 @@ WC2Orc01Captain2
 STRING 2369
 // Items: I1LJ (WC2Orc01Captain3), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 2370
 // Items: I1LJ (WC2Orc01Captain3), Description (Description)
 {
-Now, see if you can get that fire going.
+Розведімо вогнище тут та будемо сподіватися, що сигнальне багаття на іншому кінці острова не згасло.
 }
 
 STRING 2371
@@ -1110,7 +1109,7 @@ Snow(vt)
 STRING 2377
 // Units: ngz3 (Wild Bear), Name (Name)
 {
-Wild Bear
+Дикий ведмідь
 }
 
 STRING 2379
@@ -1136,49 +1135,49 @@ STRING 2384
 
 STRING 2385
 {
-|cffff0000Put out the Signal Fire (failed)|r
+|cffff0000Загасити сигнальне багаття (Провалено)|r
 }
 
 STRING 2386
 // Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
 {
-Landing
+Закріпитися на острові
 }
 
 STRING 2387
 // Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
 {
-  - Build a Barracks
+  - Побудувати бараки
 }
 
 STRING 2388
 // Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
 {
-  -|cff808080 Build a Barracks (Completed)|r
+  -|cff808080 Побудувати бараки (Завершено)|r
 }
 
 STRING 2389
 // Items: IQL1 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
 {
-|cffffcc00MAIN QUEST UPDATE|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
 }
 
 STRING 2390
 // Items: IQL2 (Quest Landing Localization), Tip (Tooltip - Basic)
 {
- of 4 Built)
+ з 4х побудовано)
 }
 
 STRING 2391
 // Items: IQL2 (Quest Landing Localization), Ubertip (Tooltip - Extended)
 {
-  - Build Pig Farms (
+  - Побудувати  свиноферми (
 }
 
 STRING 2392
 // Items: IQL2 (Quest Landing Localization), Description (Description)
 {
-  -|cff808080 Build Pig Farms (Completed)|r
+  -|cff808080 Побудувати свиноферми (Завершено)|r
 }
 
 STRING 2393
@@ -1190,61 +1189,61 @@ Quest Landing Localization
 STRING 2394
 // Items: IQL3 (|cffffcc00MAIN QUEST|r), Tip (Tooltip - Basic)
 {
-Fuel the Fires
+Запалити вогні
 }
 
 STRING 2395
 // Items: IQL3 (|cffffcc00MAIN QUEST|r), Ubertip (Tooltip - Extended)
 {
-  - Gather 
+  - Добути
 }
 
 STRING 2396
 // Items: IQL3 (|cffffcc00MAIN QUEST|r), Description (Description)
 {
- Gold
+ золота
 }
 
 STRING 2397
 // Items: IQL3 (|cffffcc00MAIN QUEST|r), Name (Name)
 {
-|cffffcc00MAIN QUEST|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
 }
 
 STRING 2398
 // Items: IQL4 ( Lumber (Completed)|r), Ubertip (Tooltip - Extended)
 {
-  - Harvest 
+  - Нарубати
 }
 
 STRING 2399
 // Items: IQL4 ( Lumber (Completed)|r), Description (Description)
 {
- Lumber
+ деревини
 }
 
 STRING 2401
 // Items: IQL4 ( Lumber (Completed)|r), Tip (Tooltip - Basic)
 {
-  -|cff808080 Harvest 
+  -|cff808080 Добуто 
 }
 
 STRING 2402
 // Items: IQL4 ( Lumber (Completed)|r), Name (Name)
 {
- Lumber (Completed)|r
+ Деревина (Завершено)|r
 }
 
 STRING 2403
 // Items: IQL5 (Gold Localiztion Quest Completed), Tip (Tooltip - Basic)
 {
- Gold (Completed)|r
+ Золото (Завершено)|r
 }
 
 STRING 2404
 // Items: IQL5 (Gold Localiztion Quest Completed), Description (Description)
 {
-  -|cff808080 Gather 
+  -|cff808080 Зібрано 
 }
 
 STRING 2405
@@ -1255,25 +1254,25 @@ Gold Localiztion Quest Completed
 
 STRING 2406
 {
-Build Pig Farms
+Побудувати свиноферми
 }
 
 STRING 2407
 // Items: IQL5 (Gold Localiztion Quest Completed), Ubertip (Tooltip - Extended)
 {
-Build Pig Farms (
+Побудувати свиноферми (
 }
 
 STRING 2408
 // Items: IQL6 (Harvest ), Description (Description)
 {
-Gather 
+Добути 
 }
 
 STRING 2409
 // Items: IQL6 (Harvest ), Name (Name)
 {
-Harvest 
+Нарубати 
 }
 
 STRING 2410
@@ -1288,8 +1287,8 @@ STRING 2411
 
 STRING 2414
 {
-|cffffcc00MAIN QUEST FAILED|r
-All structures and units were destroyed.
+|cffffcc00MГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Всі ваші споруди було знищено та всі одиниці було вбито.
 }
 
 STRING 2415
@@ -1299,6 +1298,6 @@ Defeat!
 
 STRING 2416
 {
-Remaining Wolf Dens:
+Вовчих лігв лишилось:
 }
 
