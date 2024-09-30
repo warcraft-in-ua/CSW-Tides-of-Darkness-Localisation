@@ -18,7 +18,7 @@ The Fall of Hillsbrad
 STRING 254
 // Units: H62D (Captain), Propernames (Proper Names)
 {
-Meryn
+Мерін
 }
 
 STRING 262
@@ -744,7 +744,7 @@ Although Gilneas has never been able to match the vast fleets of its neighbors, 
 STRING 2407
 {
 |cffd47832LORE|r
-The Township of Hillsbrad is the political, commercial and military center of the entire Hillsbrad region. Though once comparable to Durnholde Keep in terms of its military presence, the Township has since seen its strength decline under the leadership of the current Magistrate.
+The Township of Hillsbrad is the political, commercial and military center of the entire Hillsbrad region. Though once comparable to Durnholde Keep in terms of its military presence, the Township has since seen its strength decline under the leadership of the current Маґістрат.
 }
 
 STRING 2411
@@ -1042,13 +1042,13 @@ Lady
 STRING 2567
 // Items: I0L0 (WC2Orc04Magistrate01), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2568
 // Items: I0L0 (WC2Orc04Magistrate01), Description (Description)
 {
-Thank you, Captain. What brings you and your men to Hillsbrad?
+Дякую вам капітане. Що привело вас та ваших людей сюди у Гіллсбрад?
 }
 
 STRING 2569
@@ -1060,13 +1060,13 @@ WC2Orc04Magistrate01
 STRING 2570
 // Items: I0L1 (WC2Orc04Magistrate02), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2571
 // Items: I0L1 (WC2Orc04Magistrate02), Description (Description)
 {
-Ah yes, about that… I’m afraid the evacuation you requested is not going to happen.
+Ааа так, з приводу цього… боюсь, що евакуація яку ви запросили, не відбудеться.
 }
 
 STRING 2572
@@ -1078,13 +1078,13 @@ WC2Orc04Magistrate02
 STRING 2573
 // Items: I0L2 (WC2Orc04Magistrate03), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2574
 // Items: I0L2 (WC2Orc04Magistrate03), Description (Description)
 {
-I am, captain. Suffice to say I remain unconvinced that a Horde offensive is as imminent as you and your kinsmen seem to think.
+Я, капітане. Хочу зазначити, що я все ще не певен, що наступ Орди такий неминучий, як ви та ваші підлеглі думаєте.
 }
 
 STRING 2575
@@ -1096,13 +1096,13 @@ WC2Orc04Magistrate03
 STRING 2576
 // Items: I0L3 (WC2Orc04Magistrate04), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2577
 // Items: I0L3 (WC2Orc04Magistrate04), Description (Description)
 {
-I have ordered our people to remain here, and tasked my officials with matters of much greater importance… such as trade.
+Я наказав нашим людям залишитися тут і доручив моїм чиновникам справи набагато важливіші... такі як торгівля.
 }
 
 STRING 2578
@@ -1114,13 +1114,13 @@ WC2Orc04Magistrate04
 STRING 2579
 // Items: I0L4 (WC2Orc04Magistrate05), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2580
 // Items: I0L4 (WC2Orc04Magistrate05), Description (Description)
 {
-The Orcs have been testing us for months, Captain, and none of what you describe indicate a change in behavior to me.
+Орки випробовують на міць нашу оборону вже декілька місяців капітане, і чесно кажучи у ваших словах я не почув нічого такого, щоб могло вплинути на моє рішення.
 }
 
 STRING 2581
@@ -1132,13 +1132,13 @@ WC2Orc04Magistrate05
 STRING 2582
 // Items: I0L5 (WC2Orc04Magistrate06), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2583
 // Items: I0L5 (WC2Orc04Magistrate06), Description (Description)
 {
-This fearmongering is but the latest incarnation of a very old pattern. Kings and high lords will go to any length to justify their tax hikes, just so they can feed their armies and play their political games.
+Ці залякування це стара казочка про сірого вовка. Королі та лорди йдуть на все аби виправдати підвищення податків, які своєю чергою йдуть на годування їхнів армій та дають їм змогу і далі грати у свої політичні ігри.
 }
 
 STRING 2584
@@ -1150,13 +1150,13 @@ WC2Orc04Magistrate06
 STRING 2585
 // Items: I0L6 (WC2Orc04Magistrate07), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2586
 // Items: I0L6 (WC2Orc04Magistrate07), Description (Description)
 {
-I sent parts of our garrison to Tarren Mill. A recent increase in bandit activity demanded a response…
+Я відправив частину нашого гарнізону до млина Таррен. Бандитська діяльність яка там лише зростала останнім часом, і потребувала реакції з мого боку…
 }
 
 STRING 2587
@@ -1168,13 +1168,13 @@ WC2Orc04Magistrate07
 STRING 2588
 // Items: I0L7 (WC2Orc04Magistrate08), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2589
 // Items: I0L7 (WC2Orc04Magistrate08), Description (Description)
 {
-Now now, Captain Meryn. There is really no reason to go that far! If the Horde really is about to attack Lordaeron, then what are you proposing that I do about it?
+Не варто, капітане Меріне, нема причин до таких радикальних дій. Якщо Орда справді збирається атакувати Лордерон, то що ви конкретно пропонуєте мені з цим зробити?
 }
 
 STRING 2590
@@ -1186,13 +1186,13 @@ WC2Orc04Magistrate08
 STRING 2591
 // Items: I0L8 (WC2Orc04Magistrate9), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2592
 // Items: I0L8 (WC2Orc04Magistrate9), Description (Description)
 {
-I will… and Meryn, you can take some packhorses with food and supplies for your men.
+Добре Меріне… і знаєте, я думаю що ви можете взяти кілька віслюків з припасами та їжею для своїх людей.
 }
 
 STRING 2593
@@ -1204,13 +1204,13 @@ WC2Orc04Magistrate9
 STRING 2594
 // Items: I0L9 (WC2Orc04Magistrate10), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2595
 // Items: I0L9 (WC2Orc04Magistrate10), Description (Description)
 {
-No! Meryn was right... what have I done? Light's mercy what have I done? Fortify the entrance! Fight men! defend the town!
+О ні! Мерін мав рацію… Що ж я накоїв? Світло милосердне, що ж я накоїв? Укріпіть входи! До бою! Захищайте місто!
 }
 
 STRING 2596
@@ -1222,13 +1222,13 @@ WC2Orc04Magistrate10
 STRING 2597
 // Items: I0LA (WC2Orc04Magistrate11), Tip (Tooltip - Basic)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 2598
 // Items: I0LA (WC2Orc04Magistrate11), Description (Description)
 {
-Please... spare my life... I'm very rich, I can give you all my gold....
+Прошу… збережіть мені життя… Я дуже багатий, я можу віддати вам все моє золото…
 }
 
 STRING 2599
@@ -1240,13 +1240,13 @@ WC2Orc04Magistrate11
 STRING 2600
 // Items: I0LB (WC2Orc04Meryn1), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2601
 // Items: I0LB (WC2Orc04Meryn1), Description (Description)
 {
-Good day Magistrate! May the Light bless you and your people.
+Доброго дня магістрате! Нехай світло благословить вас та ваших людей.
 }
 
 STRING 2602
@@ -1258,13 +1258,13 @@ WC2Orc04Meryn1
 STRING 2603
 // Items: I0LC (WC2Orc04Meryn2), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2604
 // Items: I0LC (WC2Orc04Meryn2), Description (Description)
 {
-I would like an update on the evacuation of the civilian population, Magistrate, as the Horde could make its move at any moment.
+Я хотів би повідомити про евакуацію цивільного населення, магістрате, оскільки Орда може напасти будь-якої миті.
 }
 
 STRING 2605
@@ -1276,13 +1276,13 @@ WC2Orc04Meryn2
 STRING 2606
 // Items: I0LD (WC2Orc04Meryn3), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2607
 // Items: I0LD (WC2Orc04Meryn3), Description (Description)
 {
-What? We warned you about the Horde’s intentions months ago! Who is responsible for this outrage?
+Що? Ми попередили вас про вторгнення орди ще декілька місяців тому. Хто відповідальний за це безчинство?
 }
 
 STRING 2608
@@ -1294,13 +1294,13 @@ WC2Orc04Meryn3
 STRING 2609
 // Items: I0LE (WC2Orc04Meryn4), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2610
 // Items: I0LE (WC2Orc04Meryn4), Description (Description)
 {
-Are you serious? What about the recent attacks near Southshore? What about the assaults on the Durnholde prison camps?
+Ви це серйозно? Ви чули про нещодавні напади на Південнобережжя? Жорстокий напад на табір де тримали полонених прямо біля фортеці Дарнгольд?
 }
 
 STRING 2611
@@ -1312,13 +1312,13 @@ WC2Orc04Meryn4
 STRING 2612
 // Items: I0LF (WC2Orc04Meryn5), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2613
 // Items: I0LF (WC2Orc04Meryn5), Description (Description)
 {
-Feeding their armies you say? Why then can I only see three dozen soldiers here?
+Годування армій? Про які армії йде мова? І чому я тут бачу лише три десятки солдатів?
 }
 
 STRING 2614
@@ -1330,13 +1330,13 @@ WC2Orc04Meryn5
 STRING 2615
 // Items: I0LG (WC2Orc04Meryn6), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2616
 // Items: I0LG (WC2Orc04Meryn6), Description (Description)
 {
-My country was ruled by naive and shortsighted aristocrats. When the Horde came to my homeland, these people failed to realize the magnitude of the threat.
+Моїм краєм керували наївні й недалекоглядні аристократи. Коли шість років назад Орда прийшла на мою батьківщину, ці люди не усвідомлювали масштабів загрози.
 }
 
 STRING 2617
@@ -1348,13 +1348,13 @@ WC2Orc04Meryn6
 STRING 2618
 // Items: I0LH (WC2Orc04Meryn7), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2619
 // Items: I0LH (WC2Orc04Meryn7), Description (Description)
 {
-They were too slow to act, too proud to ask for help and they led our nation to ruin. Now you are repeating that same mistake.
+Вони були надто повільними, аби діяти, і занадто гордими, аби просити допомоги, і саме вони привели нашу націю до загибелі. Тепер ви повторюєте ту саму помилку.
 }
 
 STRING 2620
@@ -1366,13 +1366,13 @@ WC2Orc04Meryn7
 STRING 2621
 // Items: I0LI (WC2Orc04Meryn8), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2622
 // Items: I0LI (WC2Orc04Meryn8), Description (Description)
 {
-I will take this matter to Lord Lothar, you will be held accountable for your negligence, Magistrate.
+Я доповім про це лорду Лотару, і ви понесете відповідальність за цю недбалість, Магістрате.
 }
 
 STRING 2623
@@ -1384,13 +1384,13 @@ WC2Orc04Meryn8
 STRING 2624
 // Items: I0LJ (WC2Orc04Meryn9), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2625
 // Items: I0LJ (WC2Orc04Meryn9), Description (Description)
 {
-Recall your troops from Tarren Mill, and reinforce your bulwarks. Send your civilians into Lordaeron’s interior, and prepare for the fight of your life… the Horde takes no prisoners, the Horde shows no mercy.
+Відкличте свої війська з млина Таррен і зміцніть свої бастіони. Відправте цивільних у глиб Лордерону та готуйтеся до головної битви свого життя… Орда не бере полонених, Орда немає милосердя.
 }
 
 STRING 2626
@@ -1402,13 +1402,13 @@ WC2Orc04Meryn9
 STRING 2627
 // Items: I0LK (WC2Orc04Meryn10), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2628
 // Items: I0LK (WC2Orc04Meryn10), Description (Description)
 {
-Thank you, Magistrate. My men and I are done retreating. We will buy your people whatever time we can.
+Дякую вам магістрате. Мені та моїм людям вже нема куди відступати, тому ми спробуємо виграти вам стільки часу, скільки зможемо.
 }
 
 STRING 2629
@@ -1420,13 +1420,13 @@ WC2Orc04Meryn10
 STRING 2630
 // Items: I0LL (WC2Orc04Meryn12), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2631
 // Items: I0LL (WC2Orc04Meryn12), Description (Description)
 {
-Patrick! Samwell!
+Патріку! Самуелю!
 }
 
 STRING 2632
@@ -1438,13 +1438,13 @@ WC2Orc04Meryn12
 STRING 2633
 // Items: I0LM (WC2Orc04Meryn13), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2634
 // Items: I0LM (WC2Orc04Meryn13), Description (Description)
 {
-The magistrate of Hillsbrad has neglected his duty, and left his Township and this region in mortal danger.
+Магістрат Гіллсбраду знехтував своїм обов’язком і залишив своє місто та і взагалі весь цей регіон у смертельній небезпеці.
 }
 
 STRING 2635
@@ -1456,13 +1456,13 @@ WC2Orc04Meryn13
 STRING 2636
 // Items: I0LN (WC2Orc04Meryn14), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2637
 // Items: I0LN (WC2Orc04Meryn14), Description (Description)
 {
-The Horde is coming, we know it is, and it falls to us to distract them long enough for Hillsbrad to rally its defenses and send its people to safety.
+Орда йде, ми це знаємо і нам треба відвернути її увагу настільки наскільки зможемо, аби Гіллсбрад мав час вибудувати оборону та евакуювати цивільних в безпечне місце.
 }
 
 STRING 2638
@@ -1474,13 +1474,13 @@ WC2Orc04Meryn14
 STRING 2639
 // Items: I0LO (WC2Orc04Meryn15), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2640
 // Items: I0LO (WC2Orc04Meryn15), Description (Description)
 {
-This is it men, this is our final stand. This is our chance to avenge the ghosts of Stormwind!
+Ось воно хлопці, наша остання битва. Це наш шанс помститися за полеглих у Штормовії!
 }
 
 STRING 2641
@@ -1492,13 +1492,13 @@ WC2Orc04Meryn15
 STRING 2642
 // Items: I0LP (WC2Orc04Meryn16), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2643
 // Items: I0LP (WC2Orc04Meryn16), Description (Description)
 {
-Samwell. We will need to scout the nearby islands for any sign of Horde activity. If our fears are correct, then we must know when and where to strike – the fate of Hillsbrad depends on it.
+Самуелю. Нам потрібно буде розвідати сусідні острови на предмет будь-яких ознак активності Орди. Якщо наші побоювання вірні, то ми повинні знати, коли та куди завдати удару – від цього залежить доля Гіллсбраду.
 }
 
 STRING 2644
@@ -1510,13 +1510,13 @@ WC2Orc04Meryn16
 STRING 2645
 // Items: I0LQ (WC2Orc04Meryn17), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2646
 // Items: I0LQ (WC2Orc04Meryn17), Description (Description)
 {
-Vile beasts! You will pay for every innocent blood you spilled in Stormwind and all of Azeroth’s folk!
+Мерзенні звірі! Ви заплатите за кожну невинну кров, яку ви пролили у стінах Штормовія та кожне життя яке ви забрали в Азероті!
 }
 
 STRING 2647
@@ -1528,13 +1528,13 @@ WC2Orc04Meryn17
 STRING 2648
 // Items: I0LR (WC2Orc04Meryn18), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2649
 // Items: I0LR (WC2Orc04Meryn18), Description (Description)
 {
-Foolish creatures… by attacking us… you have given Hillsbrad time to prepare… Light willing… they will be ready… for you.
+Дурні істоти… напавши на нас, ви дали Гіллсбраду час аби підготуватися. Хвала світлу… ми виграли їм час, тож вони будуть готові… до вашого приходу
 }
 
 STRING 2650
@@ -1546,13 +1546,13 @@ WC2Orc04Meryn18
 STRING 2651
 // Items: I0LS (WC2Orc04Meryn19), Tip (Tooltip - Basic)
 {
-Meryn
+Мерін
 }
 
 STRING 2652
 // Items: I0LS (WC2Orc04Meryn19), Description (Description)
 {
-Now… get it… over with… you mindless savage.
+А тепер… давай… закінчуй з цим… безглузда істото.
 }
 
 STRING 2653
@@ -1564,13 +1564,13 @@ WC2Orc04Meryn19
 STRING 2654
 // Items: I0LT (CaptainYesAttack1), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 2655
 // Items: I0LT (CaptainYesAttack1), Description (Description)
 {
-Foul beast!
+Брудна істота!
 }
 
 STRING 2656
@@ -1582,13 +1582,13 @@ CaptainYesAttack1
 STRING 2657
 // Items: I0LU (O07FootmanA1101), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець
 }
 
 STRING 2658
 // Items: I0LU (O07FootmanA1101), Description (Description)
 {
-Orcs! Arm yourselves!
+Орки! До зброї!
 }
 
 STRING 2659
@@ -1600,13 +1600,13 @@ O07FootmanA1101
 STRING 2660
 // Items: I0LV (O03Archmage06), Tip (Tooltip - Basic)
 {
-Archer
+Ельфійський лучник
 }
 
 STRING 2661
 // Items: I0LV (O03Archmage06), Description (Description)
 {
-Wreched orcs! How dare you follow us to this land?!
+Кляті орки! Як вони посміли прийти у ці землі?!
 }
 
 STRING 2662
@@ -1618,13 +1618,13 @@ O03Archmage06
 STRING 2663
 // Items: I0LW (WC2Orc04Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2664
 // Items: I0LW (WC2Orc04Utok1), Description (Description)
 {
-Chieftain, in light of this development, should we not withdraw our forces to a more defensible position? Without the Armada we…
+Отамане, у світлі такого розвитку подій чи не варто нам відвести наші сили на позиції які будуть більш придатні  для оборони ? Без Армади ми…
 }
 
 STRING 2665
@@ -1636,13 +1636,13 @@ WC2Orc04Utok1
 STRING 2666
 // Items: I0LX (WC2Orc04Utok2a), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2667
 // Items: I0LX (WC2Orc04Utok2a), Description (Description)
 {
-Hmm… with the aid of new foundry sites we should be able to construct more advanced ships, including transports.
+Хмм… за допомогою нових ливарних заводів ми матимемо змогу побудувати більш досконалі кораблі, включно з транспортними човнами
 }
 
 STRING 2668
@@ -1654,13 +1654,13 @@ WC2Orc04Utok2a
 STRING 2669
 // Items: I0LY (WC2Orc04Utok2b), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2670
 // Items: I0LY (WC2Orc04Utok2b), Description (Description)
 {
-That will enable us to deliver our forces across the channel to the cowering human settlements, and lay waste to Hillsbrad as the Warchief commands.
+Вони дозволять переправляти війська через протоку до поселень людей, і спустошити Гіллсбрад, як і наказав Вождь.
 }
 
 STRING 2671
@@ -1672,13 +1672,13 @@ WC2Orc04Utok2b
 STRING 2672
 // Items: I0LZ (WC2Orc04Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2673
 // Items: I0LZ (WC2Orc04Utok3), Description (Description)
 {
-Chieftain! Ships flying Gilnean colors are heading this way, they seem to be badly damaged!
+Отамане! Ґілнеаські кораблі прямують сюди, і здається, вони сильно пошкоджені!
 }
 
 STRING 2674
@@ -1690,13 +1690,13 @@ WC2Orc04Utok3
 STRING 2675
 // Items: I0Lz (WC2Orc04Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 2676
 // Items: I0Lz (WC2Orc04Utok4), Description (Description)
 {
-Thank you, Chieftain. Serving the Horde is a great honor for me.
+Дякую, отамане. Служити орді це велика честь для мене.
 }
 
 STRING 2677
@@ -1708,13 +1708,13 @@ WC2Orc04Utok4
 STRING 2678
 // Items: I0Ly (WC2Orc04Zuljin1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2679
 // Items: I0Ly (WC2Orc04Zuljin1), Description (Description)
 {
-My scouts be reporting dat the Armada be under attack by the Gilnean navy! Dey say dat the clash be very brutal, and very bloody!
+Мої розвідники доповіли що Армада була атакована флотом Ґілнеасу. Вони кажуть що зіткнення було дуже жорстоким і кривавим!
 }
 
 STRING 2680
@@ -1726,13 +1726,13 @@ WC2Orc04Zuljin1
 STRING 2681
 // Items: I0Lx (WC2Orc04Zuljin2), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2682
 // Items: I0Lx (WC2Orc04Zuljin2), Description (Description)
 {
-Now be ya chance to show me how da Orcs be handeling fleeing prey, Rend Blackhand!
+Що ж Ренд Чорнорук тепер у тебе є шанс показати мені, як орки заганяють здобич, що тікає.
 }
 
 STRING 2683
@@ -1744,13 +1744,13 @@ WC2Orc04Zuljin2
 STRING 2684
 // Items: I0Lw (WC2Orc04Zuljin3), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2685
 // Items: I0Lw (WC2Orc04Zuljin3), Description (Description)
 {
-Time and time again, ya be showing me dat I made da right choice, Rend Blackhand!
+Знову і знову, ти показуєш мені, що я зробив правильний вибір, Ренд Чорнорук.
 }
 
 STRING 2686
@@ -1762,13 +1762,13 @@ WC2Orc04Zuljin3
 STRING 2687
 // Items: I0Lv (WC2Orc04Zuljin4), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2688
 // Items: I0Lv (WC2Orc04Zuljin4), Description (Description)
 {
-Lived without honor, and died without it.
+Жив без честі, і помер без неї.
 }
 
 STRING 2689
@@ -1780,13 +1780,13 @@ WC2Orc04Zuljin4
 STRING 2690
 // Items: I0Lu (WC2Orc04Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2691
 // Items: I0Lu (WC2Orc04Rend1), Description (Description)
 {
-I don’t understand this. The armada was supposed to have been here hours ago! If Doomhammer has lost his nerve, then I will carry out this invasion myself!
+Я не розумію. Армада вже як декілька годин має бути тут. Якщо у Молота Згуби здали неври, то я сам особисто очолю це вторгнення.
 }
 
 STRING 2692
@@ -1798,13 +1798,13 @@ WC2Orc04Rend1
 STRING 2693
 // Items: I0Lt (WC2Orc04Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2694
 // Items: I0Lt (WC2Orc04Rend2), Description (Description)
 {
-No, Utok. The Armada will get here once it has crushed those Gilnean dogs, until then we will make do with what we have. What is our situation in terms of ship construction?
+Ні Утоке. Армада буде тут як тільки вони розібʼють тих собак з Гілнеасу,а до того часу ми будемо оперувати тими силами які маємо. Що доречі у нас з приводу будування кораблів?
 }
 
 STRING 2695
@@ -1816,13 +1816,13 @@ WC2Orc04Rend2
 STRING 2696
 // Items: I0Ls (WC2Orc04Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2697
 // Items: I0Ls (WC2Orc04Rend3), Description (Description)
 {
-Excellent Utok! All who oppose the Horde must be taught a harsh lesson this day… burn Hillsbrad to the ground! Leave no one alive!
+Відмінно Утоке! Усі, хто виступає проти Орди, повинні отримати суворий урок цього дня… спалити Гіллсбрад дотла! Не залишайте нікого в живих!
 }
 
 STRING 2698
@@ -1834,13 +1834,13 @@ WC2Orc04Rend3
 STRING 2699
 // Items: I0Lr (WC2Orc04Rend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2700
 // Items: I0Lr (WC2Orc04Rend4), Description (Description)
 {
-Wait… are those Stormwind remnants? Kill them all!
+Почекайте но… це що залишки Штормовійських собак, як вони вижили? ВБИТИ ВСІХ!
 }
 
 STRING 2701
@@ -1852,13 +1852,13 @@ WC2Orc04Rend4
 STRING 2702
 // Items: I0Lq (WC2Orc04Rend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2703
 // Items: I0Lq (WC2Orc04Rend5), Description (Description)
 {
-Hahaha! I knew those weaklings would stand little chance against our glorious Armada! Make their defeat absolute… sink every last one of them!
+Хахаха! Я знав, що ці слабаки не мають жодних шансів проти нашої славетної Армади. Зробимо їхню поразку абсолютною… потопимо усіх до одного!
 }
 
 STRING 2704
@@ -1870,13 +1870,13 @@ WC2Orc04Rend5
 STRING 2705
 // Items: I0Lp (WC2Orc04Rend6), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2706
 // Items: I0Lp (WC2Orc04Rend6), Description (Description)
 {
-This is only the beginning, my friend, together we shall make this world tremble beneath the might of the Horde!
+Це тільки початок, мій друже, разом ми розтопчемо цей світ могутністю Орди!
 }
 
 STRING 2707
@@ -1888,13 +1888,13 @@ WC2Orc04Rend6
 STRING 2708
 // Items: I0Lo (WC2Orc04Rend7), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2709
 // Items: I0Lo (WC2Orc04Rend7), Description (Description)
 {
-Despite your frailty, you fight well, for a human.
+Не дивлячись на твою слабкість, як для людини ти добре бився.
 }
 
 STRING 2710
@@ -1906,13 +1906,13 @@ WC2Orc04Rend7
 STRING 2711
 // Items: I0Ln (WC2Orc04Rend8), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2712
 // Items: I0Ln (WC2Orc04Rend8), Description (Description)
 {
-Hah, gladly.
+Хах, з радістю.
 }
 
 STRING 2713
@@ -1924,13 +1924,13 @@ WC2Orc04Rend8
 STRING 2714
 // Items: I0Lm (WC2Orc04Rend9), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2715
 // Items: I0Lm (WC2Orc04Rend9), Description (Description)
 {
-Haha!
+Хаха!
 }
 
 STRING 2716
@@ -1942,13 +1942,13 @@ WC2Orc04Rend9
 STRING 2717
 // Items: I0Ll (WC2Orc04Rend10), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2718
 // Items: I0Ll (WC2Orc04Rend10), Description (Description)
 {
-What a miserable coward...
+Який жалюгідний боягуз…
 }
 
 STRING 2719
@@ -1960,13 +1960,13 @@ WC2Orc04Rend10
 STRING 2720
 // Items: I0Lk (WC2Orc04Rend11), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 2721
 // Items: I0Lk (WC2Orc04Rend11), Description (Description)
 {
-We all did a great job here. I will personally report to Doomhammer about your tactical talents, Utok. You will be promoted.
+Ми зробили дуже гарну роботу тут. Я особисто доповім Молоту Згуби з приводу твоїх тактичних талантів, Утоке. Підеш на підвищення.
 }
 
 STRING 2722
@@ -1978,13 +1978,13 @@ WC2Orc04Rend11
 STRING 2723
 // Items: I0Lj (WC2Orc04Patrick1), Tip (Tooltip - Basic)
 {
-Patrick
+Патрік
 }
 
 STRING 2724
 // Items: I0Lj (WC2Orc04Patrick1), Description (Description)
 {
-The lion will roar, commander! I will hand out weapons and prepare our men for the battle ahead!
+Лев Штормовія проричить, командире. Я роздам зброю і підготую наших людей до бою!
 }
 
 STRING 2725
@@ -1996,13 +1996,13 @@ WC2Orc04Patrick1
 STRING 2726
 // Items: I0Li (WC2Orc04Patrick2), Tip (Tooltip - Basic)
 {
-Samwell
+Самуель
 }
 
 STRING 2727
 // Items: I0Li (WC2Orc04Patrick2), Description (Description)
 {
-Yes, Captain!
+Так, капітане!
 }
 
 STRING 2728

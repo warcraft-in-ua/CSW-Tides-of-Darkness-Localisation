@@ -1,0 +1,27 @@
+%YAML 1.2
+---
+name: .WTS
+file_extensions:
+  - wts
+scope: source.customsyntax
+
+contexts:
+  main:
+    - match: '(STRING\s\d+)'
+      scope: keyword.control.string-number
+
+    - match: '//.*$'
+      scope: comment.line.double-slash.customcomment
+
+    - match: '\{'
+      scope: punctuation.definition.block.begin.customstring
+      push:
+        - meta_scope: string.quoted.double.customstring
+        - match: '\}'
+          scope: punctuation.definition.block.end.customstring
+          pop: true
+        - include: block-contents
+
+  block-contents:
+    - match: '[^}]+'  # match everything until the closing bracket
+      scope: string.quoted.double.customstring
