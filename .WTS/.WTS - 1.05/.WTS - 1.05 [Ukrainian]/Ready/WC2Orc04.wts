@@ -10,9 +10,9 @@ LoreCraftDesigns
 
 STRING 244
 {
-|cffffcc00MAIN QUEST|r
-The Fall of Hillsbrad
-  - Destroy Hillsbrad
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Падіння Гіллсбраду
+- Знищіть Гіллсбрад
 }
 
 STRING 254
@@ -29,7 +29,7 @@ Captain
 
 STRING 317
 {
-Blackrock clan
+Клан чорної гори
 }
 
 STRING 336
@@ -54,17 +54,17 @@ Alliance
 
 STRING 348
 {
-Stormwind Refugees
+Біженці зі Штормовія
 }
 
 STRING 349
 {
-Nation of Lordaeron
+Люди Лордерону
 }
 
 STRING 351
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 352
@@ -134,31 +134,31 @@ Spike Wall
 }
 
 STRING 883
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 884
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 885
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 886
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 887
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -674,7 +674,7 @@ Nation of Gilneas
 STRING 2345
 // Units: h003 (Stormwind Veteran), Name (Name)
 {
-Stormwind Veteran
+Ветеран Штормовія
 }
 
 STRING 2357
@@ -903,79 +903,79 @@ Blackrock clan
 
 STRING 2532
 {
-Lambs to the Slaugther
+Ягнята на забій
 }
 
 STRING 2533
 {
-The Gilneans were foolish enough to test our Armada on the open waters, now they flee like the cowards they are. Show them the true price of their arrogance, and send them all to the bottom of the sea!
+Ґілнеасці виявилися досить недалекоглядними, бо вирішили випробувати на міць нашу армаду у відкритих водах, а тепер тікають як боягузи. Покажіть їм, що буває з тими хто поводитися так самовпевнено, і відправте їх усіх на дно!
 }
 
 STRING 2534
 {
-Sink the retreating Gilnean warships
+Потопіть залишки флоту Ґілнеасу
 }
 
 STRING 2535
 {
-The Fall of Hillsbrad
+Падіння Гіллсбраду
 }
 
 STRING 2536
 {
-The time we have been waiting for has finally come! All who oppose the Horde must be taught a harsh lesson. Burn Hillsbrad to the ground - leave no one alive!
+Момент якого ми всі чекали нарешті настав. Всі хто стоїть на заваді орди, мають засвоїти жорсткий урок. Спаліть Гіллсбрад вщент, нікого не лишаючи в живих!
 }
 
 STRING 2537
 {
-Destroy Hillsbrad
+Знищіть Гіллсбрад
 }
 
 STRING 2538
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-The Fall of Hillsbrad
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Падіння Гіллсбраду
 }
 
 STRING 2539
 {
-Remnants of Stormwind
+Залишки зі Штормовія
 }
 
 STRING 2540
 {
-Veterans from the fall of Stormwind have entrenched themselves on a nearby island, pestering you with their constant attacks. Their knowledge of our ways of war makes them dangerous, kill them all!
+Залишки людей, що вижили після облоги Штормовія облаштувалися на острові який тут неподалік, дуже ймовірно, що вони будуть вам докучати своїми періодичними нападами. Вони як ніхто знають про те як ми воюємо, що робить їх досить небезпечними, треба покласти цьому край, вбийте усіх!
 }
 
 STRING 2541
 {
-Destroy the forces of Stormwind
+Знищіть залишки сил Штормовія
 }
 
 STRING 2542
 {
-|cffffcc00OPTIONAL QUEST|r
-Remnants of Stormwind
-  - Destroy the forces of Stormwind
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Залишки зі Штормовія
+  - Знищіть всі рештки військ зі Штормовія
 }
 
 STRING 2543
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Remnants of Stormwind
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Залишки зі Штормовія
 }
 
 STRING 2544
 {
-|cffffcc00OPTIONAL QUEST|r
-Lambs to the Slaugther
-  - Sink the retreating Gilnean warships
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Ягнята на забій
+  - Потопіть залишки флоту Ґілнеасу
 }
 
 STRING 2546
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Lambs to the Slaugther
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Ягнята на забій
 }
 
 STRING 2547
@@ -986,57 +986,57 @@ You can send the your heroes to the rill, thereby speeding up their mana recover
 
 STRING 2550
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Guard tower. By building a watch tower, you can upgrade it to a guard tower, thereby increasing the effectiveness of the defense of the camp.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+Вартова вежа. Тепер ви можете перебудовувати сторожові вежі у вартові тим самим підвищуючи ефективність оборони табору.
 }
 
 STRING 2551
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Foundry. By building the Foundry you will get the opportunity to build transport ships and improve the armor and weapons of your warships.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+Ливарня. Побудувавши ливарню ви отримаєте змогу будувати транспортні човни у корабельні, та покращувати броню й озброєння вашого флоту.
 }
 
 STRING 2553
 {
-|cffffcc00TECHTREE UNLOCKED|r
-You can now build transport ships. This will help you transfer troops to the other side of the channel.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+Тепер ви можете будувати транспортні човни. Це допоможе перекинути війська на інший бік каналу.
 }
 
 STRING 2555
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Grunts can learn new skills at the Barracks with the upgrade "For the Horde".
+|cffffcc00ДОСТУПНІ НОВІ ПОКРАЩЕННЯ|r
+У бараках доступне покращення для Рубайл під назвою «За Орду!»
 }
 
 STRING 2556
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Watch tower. Your peons can now build watch towers that increase visibility of the area and can be upgraded to a guard tower.
+|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r
+Оглядова вежа. Ваші батраки тепер можуть будувати оглядові вежі які збільшують видимість навколо себе, а також можуть бути перебудовані у сторожі вежі.
 }
 
 STRING 2557
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Blacksmith. Build a blacksmith to improve the weapons and armor of your warriors.
+|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r
+Ковальня.Побудуйте ковальню, і ви зможете покращити броню та зброю свого війська.
 }
 
 STRING 2559
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Refineries.
-Oil refining is an important part of naval expansion. Building refineries enables you to extract even more oil. It is recommended that you build refineries in close proximity to oil rigs, as this enables your tankers to deliver the resource as a faster rate.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+Нафтопереробні заводи.
+Видобуток та обробка нафти дуже важливі для розширення флоту. Побудова нафтопереробних заводів дасть смогу більш ефективно вести видобуток нафти. Чим ближче нафтопереробні заводи будуються до нафтових веж, тим швидше танкери будуть вести видобуток.
 }
 
 STRING 2561
 {
-|cffffcc00TECHTREE UNLOCKED|r
-You can improve the armor and weaponry of ships at the Foundry.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+У ливарні, ви можете покращити броню та збільшити шкоду яку наносить ваш флот.
 }
 
 STRING 2566
 // Units: nhef (Lady), Name (Name)
 {
-Lady
+Панянка
 }
 
 STRING 2567
@@ -2045,8 +2045,8 @@ STRING 2735
 
 STRING 2736
 {
-|cffffcc00MAIN QUEST FAILED|r
-All structures and units were destroyed.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Всі ваші споруди та одиниці знищено.
 }
 
 STRING 2737
