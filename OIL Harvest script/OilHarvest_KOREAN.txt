@@ -65,10 +65,10 @@ globals
     private constant string TXT_COLLECTOR_ABIL_NAME_FULL = "석유 운송"
 
     //[TEXT 4 OF 9]
-    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_FULL = "Return the Oil to the nearest Shipyard."
+    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_FULL = "석유를 가장 가까운 조선소에 저장합니다."
 
     //[TEXT 5 OF 9]
-    private constant string TXT_WHERE_GET_OIL = "Oil is gathered from Oil Patches."
+    private constant string TXT_WHERE_GET_OIL = "유전에서 채취한 석유의 양입니다."
 
     //[TEXT 6 OF 9]
     private constant string TXT_OIL_LOCALISATION_NAME = "석유: "
@@ -80,7 +80,7 @@ globals
     private constant string TXT_COLLECTOR_ABIL_NAME_EMPTY = "석유 채집"
 
     //[TEXT 9 OF 9]
-    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY = "Collect Oil from Oil Rigs."
+    private constant string TXT_COLLECTOR_ABIL_DESCRIPTION_EMPTY = "석유 굴착대에서 석유를 채취합니다."
     
     // END TEXT TO TRANSLATE
         
