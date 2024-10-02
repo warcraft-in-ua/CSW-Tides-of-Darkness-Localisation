@@ -230,7 +230,7 @@ STRING 51
 
 STRING 54
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 55
@@ -250,7 +250,7 @@ Must build Oil Rig first.
 
 STRING 58
 {
-Must target an Oil Patch.
+Будування можливе лише на нафтовому родовищі.
 }
 
 STRING 59
@@ -265,7 +265,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 61
 {
-Unholy
+Нечестивість
 }
 
 STRING 63
@@ -562,7 +562,7 @@ Abilities: Slow - Fireball - Flame Shield - Invisibility - Polymorph - Blizzard
 
 STRING 116
 {
-Initiate, Adept, Master, Grandmaster
+Посвячений, Адепт, Сайстер, Гросмейстер
 }
 
 STRING 117
@@ -878,12 +878,12 @@ Revive Teron Gorefiend
 
 STRING 173
 {
-Troll Warlord
+Воєвода тролів
 }
 
 STRING 174
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 175
@@ -893,19 +893,19 @@ T
 
 STRING 176
 {
-Revive Zul'jin
+Оживити Зул'джина
 }
 
 STRING 177
 {
-Revive Zul'jin
+Оживити Зул'джина
 }
 
 STRING 178
 {
-The Warlord of the Forest Trolls, Zul'jin seeks to reconquer the lads that High Elves took from the Amani. His exceptional regeneration, combat skills and use of Loa artifacts make his a formidable warrior and a cunning stretegist.
+Воєвода лісних тролів, Зул'джин має на меті відвоювати землі у вищих ельфів які вони відібрали у племені Амані. Його виняткові бойові навички, здатніть до регенерагії та використання артефактів духів Лоа, роблять його гронзним воїном та неперевершеним стратегом.
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 179
@@ -967,12 +967,12 @@ Kings Guard
 
 STRING 190
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 191
 {
-Warlord
+Воєвода
 }
 
 STRING 192
@@ -982,7 +982,7 @@ R
 
 STRING 193
 {
-Revieve Maim Blackhand
+Оживити Мейма Чорнорука
 }
 
 STRING 195
@@ -1502,30 +1502,31 @@ STRING 282
 
 STRING 283
 {
-Brute
+Рубайло
 }
 
 STRING 284
 {
-Train Brute
+Тренувати рубайла
 }
 
 STRING 285
 {
-Troll Axethrower
+Троль сокиромет
 }
 
 STRING 286
 {
-Train Troll Axethrower
+Тренувати троля сокиромета
 }
 
 STRING 287
 {
-Versatile axe-thrower, effective against air units.
-Upgraded to: Troll Berserker
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
 
-|cffffcc00Attacks land and air units.|r 
+Можливе покращення: Троль берсерк
+
+|cffffcc00Атакує наземні та повітряні цілі.|r 
 }
 
 STRING 288
@@ -1563,12 +1564,12 @@ Abilities: Burning Oil
 
 STRING 294
 {
-Peon
+Батрак
 }
 
 STRING 295
 {
-Train Peon
+Тренувати батрака
 }
 
 STRING 296
@@ -1970,7 +1971,7 @@ STRING 371
 
 STRING 372
 {
-Oil Patch
+Нафтове родовище
 }
 
 STRING 373
@@ -2121,12 +2122,12 @@ STRING 400
 
 STRING 401
 {
-Zuluhed the Whacked
+Зулугед Змучений
 }
 
 STRING 402
 {
-Shaman
+Шаман
 }
 
 STRING 403
@@ -2136,19 +2137,19 @@ S
 
 STRING 404
 {
-Shaman (|cffffcc00S|r)
+Шаман (|cffffcc00S|r)
 }
 
 STRING 405
 {
-Revive Zuluhed the Wacked
+Оживити Зулугеда Змученного
 }
 
 STRING 406
 {
-Warchief of the Dragonmaw Clan, Zuluhed the Whacked is one of the few remeaining Shamans of the orcish Horde. While his shamanic powers on Draenor were diminished by the blood of Mannoroth, the Elements of this world heed his call.
+Отаман клану Драконової Пащі, Зулугед Змучений один з небагатьох шаманів що лишилися в орді. На Дренорі через вживання крові Монорота, його сили як шамана значно ослабли, але у Азероті стихії відповідають на його поклик.
 
-|cffffcc00Attacks land and air units.|r
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 407
@@ -2200,7 +2201,7 @@ Alextraza
 
 STRING 418
 {
-Knight
+Лицар
 }
 
 STRING 419
@@ -2265,12 +2266,12 @@ STRING 431
 
 STRING 432
 {
-Reaver
+Крушитель
 }
 
 STRING 433
 {
-Train Reaver
+Тренувати крушителя
 }
 
 STRING 434
@@ -2323,7 +2324,7 @@ STRING 443
 
 STRING 444
 {
-Grunt,Initiate,Novice,Pupil,Apprentice,Slasher,Shaman,Captain,Overseer,Champion,Commander,Grand Master,General,Warlord
+Рубайло,Початківець,Новачок,Стажер,Учень,М'ясник,Шаман,Капітан,Наглядач,Чемпіон,Командир,Великий Майстер,Генерал,Воєвода
 }
 
 STRING 446
@@ -2454,12 +2455,12 @@ STRING 468
 
 STRING 469
 {
-Enforcer
+Каратель
 }
 
 STRING 470
 {
-Train Enforcer
+Тренувати карателя
 }
 
 STRING 471
@@ -2536,12 +2537,12 @@ An old and cunning warrior of the Horde, Eitrigg is a strategist, yet is able to
 
 STRING 488
 {
-WIldhammer Thane
+Тан Дикого молоту
 }
 
 STRING 489
 {
-Kurdran Wildhammer
+Курдран Дикий Молот
 }
 
 STRING 490
@@ -2566,7 +2567,7 @@ STRING 493
 
 STRING 495
 {
-Kurdran Wildhammer
+Курдран Дикий Молот
 }
 
 STRING 496
@@ -2604,12 +2605,12 @@ STRING 501
 
 STRING 502
 {
-Bonecrusher
+Кістколам
 }
 
 STRING 503
 {
-Train Bonecrusher
+Тренувати кістколама
 }
 
 STRING 504
@@ -2647,12 +2648,12 @@ STRING 509
 
 STRING 510
 {
-Toiler
+Трудяга
 }
 
 STRING 511
 {
-Train Toiler
+Тренувати трудягу
 }
 
 STRING 512
@@ -2667,12 +2668,12 @@ STRING 513
 
 STRING 514
 {
-Foreman
+Майстер
 }
 
 STRING 515
 {
-Train Foreman
+Тренувати майстра
 }
 
 STRING 516
@@ -2687,22 +2688,22 @@ STRING 517
 
 STRING 518
 {
-Enthralled
+Зачарований
 }
 
 STRING 519
 {
-Train Enthralled
+Тренувати зачарованного
 }
 
 STRING 520
 {
-Peon
+Батрак
 }
 
 STRING 521
 {
-Train Peon
+Тренувати батрака
 }
 
 STRING 522
@@ -2712,12 +2713,12 @@ STRING 522
 
 STRING 523
 {
-Toiler
+Трудяга
 }
 
 STRING 524
 {
-Train Toiler
+Тренувати трудягу
 }
 
 STRING 525
@@ -2727,12 +2728,12 @@ STRING 525
 
 STRING 526
 {
-Foreman
+Майстер
 }
 
 STRING 527
 {
-Train Foreman
+Тренувати майстра
 }
 
 STRING 528
@@ -2742,12 +2743,12 @@ STRING 528
 
 STRING 529
 {
-Enthralled
+Зачарований
 }
 
 STRING 530
 {
-Train Enthralled
+Тренувати зачарованного
 }
 
 STRING 531
@@ -2757,12 +2758,12 @@ STRING 531
 
 STRING 532
 {
-Gangrel
+Мучитель
 }
 
 STRING 533
 {
-Train Gangrel
+Тренувати мучителя
 }
 
 STRING 534
@@ -2785,12 +2786,12 @@ STRING 537
 
 STRING 538
 {
-Fanatic
+Фанатик
 }
 
 STRING 539
 {
-Train Fanatic
+Тренувати фанатика
 }
 
 STRING 583
@@ -3053,12 +3054,12 @@ STRING 684
 
 STRING 685
 {
-Meat
+М'ясо
 }
 
 STRING 686
 {
-Meat
+М'ясо
 }
 
 STRING 689
@@ -3078,7 +3079,7 @@ This is the head of Gul'dan.
 
 STRING 693
 {
-There is a huge amount of gold in this chest!
+Ця скриня містить цілу купу золота!
 }
 
 STRING 694
@@ -3103,7 +3104,7 @@ V
 
 STRING 705
 {
-Piece of a Runestone
+Шматочок рунічного каменю
 }
 
 STRING 706
@@ -3113,12 +3114,12 @@ A shard of a Runestone
 
 STRING 707
 {
-Shard of a Runestone
+Уламок рунічного каменю
 }
 
 STRING 708
 {
-The Shard of a Runestone from Caer Darrow Island
+Уламок рунічного каменю з острову Каєр-Дерроу
 }
 
 STRING 709
@@ -3296,25 +3297,25 @@ Blackhand Arms
 
 STRING 768
 {
-Doomsaw
+Пила згуби
 }
 
 STRING 769
 {
-|cffff8c00Artifact|r
-Increases the attack damage of the Hero by 10 when carried.
+|cffff8c00Артефакт|r
+Підвищує шкоду від атак героя на 10 од.
 
-|cffffcc00History|r
-|cffffdeadForged in the fires of Blackrock foundry and blessed with a powerful fire enhancement, this weapon has cemented Rend's position as the true heir to Blackhand the Destroyer.|r
+|cffffcc00Історія|r
+|cffffdeadЦя зброя була викувана ковалями клану Чорного Каменю, на неї були накладені могутні чари сил вогню. Те що саме Ренд володіє цією зброєю укріплює його як справжнього спадкоємця Чорнорука Руйнівника.|r
 }
 
 STRING 770
 {
-|cffff8c00Artifact|r
-Increases the attack damage of the Hero by 10 when carried.
+|cffff8c00Артефакт|r
+Підвищує шкоду від атак героя на 10 од.
 
-|cffffcc00History|r
-|cffffdeadForged in the fires of Blackrock foundry and blessed with a powerful fire enhancement, this weapon has cemented Rend's position as the true heir to Blackhand the Destroyer.|r
+|cffffcc00Історія|r
+|cffffdeadЦя зброя була викувана ковалями клану Чорного Каменю, на неї були накладені могутні чари сил вогню. Те що саме Ренд володіє цією зброєю укріплює його як справжнього спадкоємця Чорнорука Руйнівника.|r
 }
 
 STRING 771
@@ -3810,7 +3811,7 @@ Telescope (|cffffcc00I|R)
 
 STRING 866
 {
-Spirit Revival
+Відродження духу
 }
 
 STRING 867
@@ -3820,37 +3821,37 @@ STRING 867
 
 STRING 868
 {
-Spirit Revival - [|cffffcc00Level 1|r]
+Відродження духу - [|cffffcc00Рівень 1|r]
 }
 
 STRING 869
 {
-Spirit Revival - [|cffffcc00Level 3|r]
+Відродження духу - [|cffffcc00Рівень 3|r]
 }
 
 STRING 870
 {
-Spirit Revival - [|cffffcc00Level 4|r]
+Відродження духу - [|cffffcc00Рівень 4|r]
 }
 
 STRING 871
 {
-Spirit Revival - [|cffffcc00Level 2|r]
+Відродження духу - [|cffffcc00Рівень 2|r]
 }
 
 STRING 872
 {
-When killed, this unit will come back to life. Reincarnation has a <ACrn,Cool2> second cooldown.
+Якщо одиницю було вбито вона оживе. Реінкарнація має <ACrn,Cool2> сек. відновлення.
 }
 
 STRING 873
 {
-When killed, this unit will come back to life. Reincarnation has a <ACrn,Cool3> second cooldown.
+Якщо одиницю було вбито вона оживе. Реінкарнація має <ACrn,Cool3> сек. відновлення.
 }
 
 STRING 874
 {
-When killed, this unit will come back to life. Reincarnation has a <ACrn,Cool4> second cooldown.
+Якщо одиницю було вбито вона оживе. Реінкарнація має <ACrn,Cool4> сек. відновлення.
 }
 
 STRING 875
@@ -3980,17 +3981,17 @@ STRING 903
 
 STRING 904
 {
-Flame Strike
+Вогняний вибух
 }
 
 STRING 905
 {
-Peons build regular Horde buildings.
+Активація режиму будівниства простих споруд Орди.
 }
 
 STRING 906
 {
-Regular Buildings
+Прості споруди
 }
 
 STRING 907
@@ -4000,12 +4001,12 @@ Construction Set
 
 STRING 908
 {
-Advanced Buildings
+Передові споруди
 }
 
 STRING 909
 {
-Peons build advanced Horde buildings.
+Активація режиму будівниства передових споруд Орди.
 }
 
 STRING 910
@@ -4165,7 +4166,7 @@ Second Breath
 
 STRING 941
 {
-Command Aura
+Аура командира
 }
 
 STRING 942
@@ -4175,12 +4176,12 @@ Gives extra damage to the attacks of nearby friendly units.
 
 STRING 943
 {
-Command Aura
+Аура командира
 }
 
 STRING 944
 {
-Command Aura
+Аура командира
 }
 
 STRING 945
@@ -4200,7 +4201,7 @@ Gives extra damage to the attacks of nearby friendly units.
 
 STRING 948
 {
-Warrior's Taunt
+Провокація воїна
 }
 
 STRING 949
@@ -4385,7 +4386,7 @@ STRING 985
 
 STRING 986
 {
-Heavy Burden
+Важко-навантажений
 }
 
 STRING 987
@@ -5496,7 +5497,7 @@ STRING 1216
 
 STRING 1217
 {
-Rampage
+Буйство
 }
 
 STRING 1218
@@ -5506,12 +5507,12 @@ Q
 
 STRING 1219
 {
-Learn Rampage - [|cffffcc00Level %d|r]
+Вивчити Буйство - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1220
 {
-Rampage - [|cffffcc00Level 1|r]
+Буйство - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1221
@@ -5526,49 +5527,49 @@ STRING 1222
 
 STRING 1223
 {
-Unleashes a series of 4 brutal strikes damaging the target with each blow.
+Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду.
 
-Number of Strikes: 4
-Damage per Strike: Attack +15 / Attack +25 / Attack +40
+Кількість ударів: 4
+Шкода від кожного удару: Атака +15 од. / Атака +25 од./ Атака +40 од.
 }
 
 STRING 1224
 {
-Unleashes a series of 4 brutal strikes damaging the target with each blow.
+Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду. 
 
-Number of Strikes: |cffffcc004|r
-Damage per Strike: |cffffcc00Attack +15|r |cff808080/ Attack +25 / Attack +40|r
+Кількість ударів: 4
+Шкода від кожного удару: |cffffcc00Атака+15 од.|r |cff808080/ Атака +25 од. / Атака +40 од.|r
 }
 
 STRING 1225
 {
-Rampage - [|cffffcc00Level 2|r]
+Буйство - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1226
 {
-Rampage - [|cffffcc00Level 3|r]
+Буйство - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1227
 {
-Unleashes a series of 4 brutal strikes damaging the target with each blow.
+Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду. 
 
-Number of Strikes: |cffffcc004|r
-Damage per Strike: |cff808080Attack +15 /|r |cffffcc00Attack +25|r|cff808080 / Attack +40|r
+Кількість ударів: cffffcc004|r
+Шкода від кожного удару: |cffffcc00Атака +15 од.|r |cff808080/ Атака +25 од. / Атака +40 од.|r
 }
 
 STRING 1228
 {
-Unleashes a series of 4 brutal strikes damaging the target with each blow.
+Серія з 4 жорстоких ударів по цілі, кожен з яких завдає шкоду. 
 
-Number of Strikes: |cffffcc004|r
-Damage per Strike: |cff808080Attack +15 / Attack +25 /|r |cffffcc00Attack +40|r
+Кількість ударів: cffffcc004|r
+Шкода від кожного удару: |cffffcc00Атака +15 од.|r |cff808080/ Атака +25 од. / Атака +40 од.|r
 }
 
 STRING 1229
 {
-Bloodthirst
+Кровожерливість
 }
 
 STRING 1230
@@ -5578,58 +5579,74 @@ STRING 1230
 
 STRING 1231
 {
-Learn Bloodthirst - [|cffffcc00Level %d|r]
+Вивчити Кровожерливіст - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1232
 {
-Bloodthirst - [|cffffcc00Level 1|r]
+Кровожерливість - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1233
 {
-Bloodthirst - [|cffffcc00Level 2|r]
+Кровожерливість - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1234
 {
-Bloodthirst - [|cffffcc00Level 3|r]
+Кровожерливість - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1235
 {
-Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
-If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я.
 
-Life per Kill: 4% / 7% / 10%
-Rampage Damage to Healing: 20% / 30% / 40%
+У випадку коли від рук Мейма гине ворожий герой, то кількість здоров'я яку він відновлює вдвічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство» |r то при використанні здібності |cffffcc00«Каліцтво» |r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: 4% / 7% / 10%
+Здоров'я за вбивство героїв: 8% / 14% / 20%
+Зцілення за шкоду від «Буйство»: 20% / 30% / 40%
 }
 
 STRING 1236
 {
-Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
-If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я.
 
-Life per Kill: |cffffcc004% |r|cff808080/ 7% / 10%|r
-Rampage Damage to Healing: |cffffcc0020% |r|cff808080/ 30% / 40%|r
+У випадку коли від рук Мейма гине ворожий герой, то кількість здоров'я яку він відновлює вдвічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство» |r то при використанні здібності |cffffcc00«Каліцтво» |r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: |cffffcc004% |r|cff808080/ 7% / 10%|r
+Здоров'я за вбивство героїв: |cffffcc008% |r / 14% / 20%|r
+Зцілення за шкоду від «Буйство»: |cffffcc0020% |r|cff808080/ 30% / 40%|r
 }
 
 STRING 1237
 {
-Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
-If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я.
 
-Life per Kill: |cff8080803% /|r |cffffcc007%|r |cff808080/ 10%|r
-Rampage Damage to Healing: |cff80808020% /|r |cffffcc0030%|r |cff808080/ 40%|r
+У випадку коли від рук Мейма гине ворожий герой, то кількість здоровʼя яку він відновлює вдвічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство» |r то при використанні здібності |cffffcc00«Каліцтво» |r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: 4% / |cffffcc007% |cff808080/ 10%|r
+Здоров'я за вбивство героїв: 8% / |cffffcc0014% |cff808080/ 20%|r
+Зцілення за шкоду від «Буйство»: 20% / |cffffcc0030% |cff808080 / 40%|r
 }
 
 STRING 1238
 {
-Maim will quench his thirst for blood by killing (organic) enemies, restoring a portion of his missing Health (double values for killing a Hero).
-If the hero uses |cffffcc00Rampage |ron a target affected by |cffffcc00Maim|r, some of the damage will be converted to healing.
+Вбиваючи живих істот, Мейм втамовує свою спрагу до крові, і таким чином відновлює певний % здоров'я. 
 
-Life per Kill: |cff8080804% / 7% /|r |cffffcc0010%|r
-Rampage Damage to Healing: |cff80808020% / 30% /|r |cffffcc0040%|r
+У випадоку коли від рук Мейма гине ворожий герой, то кількість здоров'я яке він відновлює вдічі більша.
+
+Якщо ціль знаходиться під ефектом |cffffcc00«Буйство» |r то при використанні здібності |cffffcc00«Каліцство» |r частина шкоди, що наноситься буде зцілювати Мейма.
+
+Здоров'я за вбивство живих істот: 4% / 7% / |cffffcc0010%|cff808080|r
+Здоров'я за вбивство героїв: 8% / 14% / |cffffcc0020%|cff808080|r
+Зцілення за шкоду від «Буйство»: 20% / 30% / |cffffcc0040%|cff808080|r
 }
 
 STRING 1239
@@ -5639,17 +5656,17 @@ W
 
 STRING 1240
 {
-Recklessness
+Безрозсудність
 }
 
 STRING 1241
 {
-Recklessness
+Безрозсудність
 }
 
 STRING 1242
 {
-Learn Recklessness
+Вивчити Безрозсудність
 }
 
 STRING 1243
@@ -5659,27 +5676,29 @@ STRING 1243
 
 STRING 1244
 {
-Enters a state of reckless fury, increasing mana regeneration and all damage done at a cost of reduced defences.
-Damage bonus also applies to |cffffcc00Rampage |rstrikes and |cffffcc00Maim |rinitial damage.
+Мейм нехтуючи своїм захистом, вивільнює всю свою лють і входить у стан безрозсудства у якому збільшується вся його шкода і швидкість відновлення мани.
 
-Duration: 30s
-Damage Bonus: +50%
-Armor Loss: -5
+Шкода яку отримають цілі від |cffffcc00«Буйство» |r та |cffffcc00«Кровожерливість» |r також збільшується.
+
+Зниження власної броні: - 5 од.
+Шкода: +50%
+Тривалість: 30 сек.
 }
 
 STRING 1245
 {
-Enters a state of reckless fury, increasing mana regeneration and all damage done at a cost of reduced defences.
-Damage bonus also applies to |cffffcc00Rampage |rstrikes and |cffffcc00Maim |rinitial damage.
+Мейм нехтуючи своїм захистом, вивільнює всю свою лють і входить у стан безрозсудства у якому збільшується вся його шкода і швидкість відновлення мани.
 
-Duration: |cffffcc0030s|r
-Damage Bonus: |cffffcc00+50%|r
-Armor Loss: |cffffcc00-5|r
+Шкода яку отримають цілі від |cffffcc00«Буйство» |r та |cffffcc00«Кровожерливість» |r також збільшується.
+
+Тривалість |cffffcc0030 сек.|r
+Шкода: |cffffcc00+50%|r
+Зниження влансої броні: |cffffcc00-5 од.|r
 }
 
 STRING 1246
 {
-Maim
+Каліцтво
 }
 
 STRING 1247
@@ -5699,58 +5718,58 @@ E
 
 STRING 1250
 {
-Learn Maim - [|cffffcc00Level %d|r]
+Вивчити каліцтво - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1251
 {
-Maim - [|cffffcc00Level 1|r]
+Каліцтво - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1252
 {
-Maim - [|cffffcc00Level 2|r]
+Каліцтво - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1253
 {
-Maim - [|cffffcc00Level 3|r]
+Каліцтво - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1254
 {
-Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
 
-Duration: 10 / 20 / 30
-AoE Damage: 50 / 75 / 100
-Damage per Second: 15
+Тривалість кровотечі: 10 сек. / 20 сек. / 30 сек.
+Шкода по області: 50 од. / 75 од. / 100 од.
+Шкода в секунду: 15 од.
 }
 
 STRING 1255
 {
-Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
 
-Duration: |cffffcc0010 |r|cff808080/ 20 / 30|r
-AoE Damage: |cffffcc0050|r |cff808080/ 75 / 100|r
-Damage per Second: |cffffcc0015|r
+Тривалість кровотечі: |cffffcc0010 сек. |r|cff808080/ 20 сек. / 30 сек.|r
+Шкода по області: |cffffcc0050 од.|r |cff808080/ 75 од. / 100 од.|r
+Шкода в секунду:|cffffcc0015 од.|r
 }
 
 STRING 1256
 {
-Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
 
-Duration: |cff80808010 /|r |cffffcc0020 |r|cff808080/ 30|r
-AoE Damage: |cff80808050 /|r |cffffcc0075|r |cff808080/ 100|r
-Damage per Second: |cffffcc0015|r
+Тривалість кровотечі: |cff80808010 сек. /|r |cffffcc0020  сек. |r|cff808080/ 30  сек.|r
+Шкода по області: |cff80808050 од. /|r |cffffcc0075 од.|r |cff808080/ 100 од.|r
+Шкода в секунду: |cffffcc0015 од.|r
 }
 
 STRING 1257
 {
-Brutally slashes nearly enemies damaging them and causing them to bleed over time.
+Мейм жорсткого ріже ворогів та каліче їх, викликаючи кровотечу яка чинить періодичну шкоду.
 
-Duration: |cff80808010 / 20 /|r |cffffcc0030|r
-AoE Damage: |cff80808050 / 75 /|r |cffffcc00100|r
-Damage per Second: |cffffcc0015|r
+Тривалість кровотечі: |cff80808010 сек. / 20 сек. /|r |cffffcc0030 сек.|r
+Шкода по області: |cff80808050 од. / 75 од. /|r |cffffcc00100 од.|r
+Шкода в секунду: |cffffcc0015|r
 }
 
 STRING 1258
@@ -5950,64 +5969,63 @@ Q
 
 STRING 1298
 {
-Chain Heal
+Ланцюг зцілення
 }
 
 STRING 1299
 {
-Learn Chain Heal - [|cffffcc00Level %d|r]
+Вивчити ланцюг зцілення - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1300
 {
-Chain Heal - [|cffffcc00Level 1|r]
+Ланцюг зцілення - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1301
 {
-Chain Heal - [|cffffcc00Level 2|r]
+Ланцюг зцілення - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1302
 {
-Chain Heal - [|cffffcc00Level 3|r]
+Ланцюг зцілення - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1303
 {
-Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
 
-Targets: <AOhw,DataB1> / <AOhw,DataB2> / <AOhw,DataB3>
-Healing: <AOhw,DataA1> / <AOhw,DataA2> / <AOhw,DataA3>
+Зцілює цілей: <AOhw,DataB1> / <AOhw,DataB2> / <AOhw,DataB3>
+Зцілює од. здоров'я: <AOhw,DataA1> / <AOhw,DataA2> / <AOhw,DataA3>
 }
 
 STRING 1304
 {
-Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
 
-Targets: |cffffcc00<AOhw,DataB1>|r |cff808080/ <AOhw,DataB2> / <AOhw,DataB3>|r
-Healing: |cffffcc00<AOhw,DataA1>|r |cff808080/ <AOhw,DataA2> / <AOhw,DataA3>|r
+Зцілює цілей: |cffffcc00<AOhw,DataB1>|r |cff808080/ <AOhw,DataB2> / <AOhw,DataB3>|r
+Зцілює од. здоров'я: |cffffcc00<AOhw,DataA1>|r |cff808080/ <AOhw,DataA2> / <AOhw,DataA3>|r
 }
 
 STRING 1305
 {
-Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
+Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
 
-Targets: |cff808080<AOhw,DataB1> / <AOhw,DataB2> /|r |cffffcc00<AOhw,DataB3>|r
-Healing: |cff808080<AOhw,DataA1> / <AOhw,DataA2> /|r |cffffcc00<AOhw,DataA3>|r
+Зцілює цілей: |cff808080<AOhw,DataB1> / <AOhw,DataB2> /|r |cffffcc00<AOhw,DataB3>|r
+Зцілює од. здоров'я: |cff808080<AOhw,DataA1> / <AOhw,DataA2> /|r |cffffcc00<AOhw,DataA3>|r
 }
 
 STRING 1306
 {
-Calls forth a wave of healing waters, that bounces to nearby friendlies. Each bounce heals less damage.
-
-Targets: |cff808080<AOhw,DataB1> /|r |cffffcc00<AOhw,DataB2>|r |cff808080/ <AOhw,DataB3>|r
-Healing: |cff808080<AOhw,DataA1> /|r |cffffcc00<AOhw,DataA2>|r |cff808080/ <AOhw,DataA3>|r
+Зулугед направляє на ціль хвилю цілющих вод, яка відстрибує на декількох дружніх одиниць. Хвиля після кожного стрибка зцілює менше здоров'я.
+Зцілює цілей: |cff808080<AOhw,DataB1> /|r |cffffcc00<AOhw,DataB2>|r |cff808080/ <AOhw,DataB3>|r
+Зцілює од. здоров'я: |cff808080<AOhw,DataA1> /|r |cffffcc00<AOhw,DataA2>|r |cff808080/ <AOhw,DataA3>|r
 }
 
 STRING 1307
 {
-Feral Leap
+Дикий стрибок
 }
 
 STRING 1308
@@ -6027,27 +6045,27 @@ STRING 1310
 
 STRING 1311
 {
-Learn Feral Leap - [|cffffcc00Level %d|r]
+Вивчити дикий стрибок - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1312
 {
-Feral Leap - [|cffffcc00Level 1|r]
+Дикий стрибок - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1313
 {
-Feral Leap - [|cffffcc00Level 2|r]
+Дикий стрибок - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1314
 {
-Feral Leap - [|cffffcc00Level 3|r]
+Дикий стрибок - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1315
 {
-Teleports the Shaman a short distance, allowing him to move in and out of combat.
+За допомогою сил природи переносить шамана на коротку відстань.
 }
 
 STRING 1316
@@ -6062,7 +6080,7 @@ Teleports the Shaman a short distance, allowing him to move in and out of combat
 
 STRING 1318
 {
-Call of the Elements
+Поклик стихій
 }
 
 STRING 1319
@@ -6072,12 +6090,12 @@ R
 
 STRING 1320
 {
-Learn Call of the Elements
+Вивчити поклик стихій
 }
 
 STRING 1321
 {
-Call of the Elements
+Поклик стихій
 }
 
 STRING 1322
@@ -6092,21 +6110,21 @@ STRING 1323
 
 STRING 1324
 {
-Zuluhed tries to commune with the Elements, summoning a random spirit to fight on his side.
+Зулугед волає до стихій, викликаючи одного з елементалів який б'ється на боці шамана.
 
-Duration: 120s
+Тривалість: 120 сек.
 }
 
 STRING 1325
 {
-Zuluhed tries to commune with the Elements, summoning a random spirit to fight on his side.
+Зулугед волає до стихій, викликаючи одного з елементалів який б'ється на боці шамана.
 
-Duration: |cffffcc00120s|r
+Тривалість: |cffffcc00120 сек.|r
 }
 
 STRING 1326
 {
-Lightning Strike
+Удар блискавкою
 }
 
 STRING 1327
@@ -6116,12 +6134,12 @@ E
 
 STRING 1328
 {
-Learn Lighting Strike
+Вивчити удар блискавкою - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1329
 {
-Lightning Strike - [|cffffcc00Level 1|r]
+Удар блискавкою - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1330
@@ -6136,36 +6154,36 @@ STRING 1331
 
 STRING 1333
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
 
-Stun Duration: |cffffcc003 |r|cff808080/ 4 / 5|r
-Damage: |cffffcc00100 |r|cff808080/ 150 / 200|r
+Тривалість приголомшення: |cffffcc003 сек. |r|cff808080/ 4 сек. / 5 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 150 од. / 200 од.|r
 }
 
 STRING 1334
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
 
-Stun Duration: |cff8080803 /|r |cffffcc004 |r|cff808080/ 5|r
-Damage: |cff808080100 /|r |cffffcc00150 |r|cff808080/ 200|r
+Тривалість приголомшення: |cff8080803 сек. /|r |cffffcc004 сек. |r|cff808080/ 5 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00150 од. |r|cff808080/ 200 од.|r
 }
 
 STRING 1335
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
 
-Stun Duration: |cff8080803 / 4 /|r |cffffcc005|r
-Damage: |cff808080100 / 150 /|r |cffffcc00200|r
+Тривалість приголомшення: |cff8080803 сек. / 4 сек. /|r |cffffcc005 сек.|r
+Шкода: |cff808080100 / 150 /|r |cffffcc00200|r
 }
 
 STRING 1336
 {
-Lightning Strike - [|cffffcc00Level 2|r]
+Удар блискавкою - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1337
 {
-Lightning Strike - [|cffffcc00Level 3|r]
+Удар блискавкою - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1340
@@ -6185,7 +6203,7 @@ STRING 1342
 
 STRING 1343
 {
-Healing Spray
+Поток зцілення
 }
 
 STRING 1344
@@ -6200,7 +6218,7 @@ Q
 
 STRING 1346
 {
-Slams the ground, dealing <ACt2,DataA1> points of damage and slowing the movement and attack rate of nearby enemy units and structures.
+Потужний удар по землі, який наносить <ACt2,DataA1> од. шкоди та сповільнює усі цілі навколо, а також зменшує швидкість пересування ворожих одиниць і швидкість атаки як ворожих одиниць так і споруд.
 }
 
 STRING 1347
@@ -7116,27 +7134,27 @@ STRING 1509
 
 STRING 1510
 {
-Locust Jar
+Глечик сарани
 }
 
 STRING 1511
 {
-Learn Locust Jar - [|cffffcc00Level %d|r]
+Вивчити глечик сарани - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1512
 {
-Locust Jar - [|cffffcc00Level 1|r]
+Глечик сарани - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1513
 {
-Locust Jar - [|cffffcc00Level 2|r]
+Глечик сарани - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1514
 {
-Locust Jar - [|cffffcc00Level 3|r]
+Глечик сарани - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1515
@@ -7156,39 +7174,39 @@ STRING 1517
 
 STRING 1518
 {
-Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+Зул'джин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул'джину.
 
-Duration: 14s / 17s / 20s
-Number of Locusts: 4 / 5 / 6
+Тривалість: 14 сек. / 17 сек. / 20 сек.
+Кількість сарани: 4 шт. / 5 шт. / 6 шт.
 }
 
 STRING 1519
 {
-Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+Зул'джин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул'джину.
 
-Duration: |cffffcc0014s |r|cff808080/ 17s / 20s|r
-Number of Locusts: |cffffcc004 |r|cff808080/ 5 / 6|r
+Тривалість: |cffffcc0014 сек. |r|cff808080/ 17 сек. / 20 сек.|r
+Кількість сарани: |cffffcc004 шт. |r|cff808080/ 5 шт. / 6 шт.|r
 }
 
 STRING 1520
 {
-Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+Зул'джин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул’джину.
 
-Duration: |cff80808014s /|r |cffffcc0017s |r|cff808080/ 20s|r
-Number of Locusts: |cff8080804 /|r |cffffcc005 |r|cff808080/ 6|r
+Тривалість: |cff80808014 сек. /|r |cffffcc0017 сек. |r|cff808080/ 20 сек.|r
+Кількість сарани:|cff8080804 /|r |cffffcc005 |r|cff808080/ 6|r
 }
 
 STRING 1521
 {
-Throws a jar filled with ravenous locusts at the target location. The locusts will gnaw at nearby enemies, restoring a small amount of mana to Zul'jin with each bite.
+Зул'джин кидає у обране місце глечик наповнений ненажерливою сараною. Сарана гризе ворогів, з кожним усусом відновлюючи невелику кількість мани Зул'джину.
 
-Duration: |cff80808014s / 17s /|r |cffffcc0020s|r
-Number of Locusts: |cff8080804 / 5 /|r |cffffcc006|r
+Тривалість: |cff80808014 сек. / 17 сек. /|r |cffffcc0020 сек.|r
+Кількість сарани:|cff8080804 шт. / 5 шт. /|r |cffffcc006 шт.|r
 }
 
 STRING 1522
 {
-Grievous Throw
+Травмуючий кидок
 }
 
 STRING 1523
@@ -7208,123 +7226,123 @@ STRING 1525
 
 STRING 1526
 {
-Learn Grievous Throw - [|cffffcc00Level %d|r]
+Вивчити Травмуючий кидок - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1527
 {
-Grievous Throw - [|cffffcc00Level 1|r]
+Травмуючий кидок - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1528
 {
-Grievous Throw - [|cffffcc00Level 2|r]
+Травмуючий кидок - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1529
 {
-Grievous Throw - [|cffffcc00Level 3|r]
+Травмуючий кидок - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1530
 {
-Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+Зул'джин що сили жбурляє по цілі сокиру та приголомшує її, чинить значну шкоду і викликає кровотечу.
 
-|cffe6cc80¨You want axe?¨|r
+|cffe6cc80¨Сорику хош?¨|r
 
-Duration: 5s
-Initial Damage: 75 / 150 / 225
-Damage per Second: 20 / 35 / 50
+Тривалість: 5 сек.
+Початкова шкода: 75 од. / 150 од. / 225 од.
+Шкода в секунду від кровотечі: 20 од. / 35 од. / 50 од.
 }
 
 STRING 1531
 {
-Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+Зул'джин що сили жбурляє по цілі сокиру та приголомшує її, чинить значну шкоду і викликає кровотечу.
 
-|cffe6cc80¨You want axe?¨|r
+|cffe6cc80¨Сокиру хош?¨|r
 
-Duration: |cffffcc005s|r
-Initial Damage: |cffffcc0075 |r|cff808080/ 150 / 225|r
-Damage per Second: |cffffcc0020 |r|cff808080/ 35 / 50|r
+Тривалість: |cffffcc005 сек.|r
+Початкова шкода: |cffffcc00 75 од. |r|cff808080/ 150 од. / 225 од.|r
+Шкода в секунду від кровотечі: |cffffcc0020 од. |r|cff808080/ 35 од. / 50 од.|r
 }
 
 STRING 1532
 {
-Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+Зул'джин що сили жбурляє по цілі сокиру та приголомшує її, чинить значну шкоду і викликає кровотечу.
 
-|cffe6cc80¨You want axe?¨|r
+|cffe6cc80¨Сокиру хош?¨|r
 
-Duration: |cffffcc005s|r
-Initial Damage: |cff80808075 /|r |cffffcc00150 |r|cff808080/ 225|r
-Damage per Second: |cff80808020 /|r |cffffcc0035 |r|cff808080/ 50|r
+Тривалість: |cffffcc005 сек.|r
+Початкова шкода:  |cff80808075 од. /|r |cffffcc00150 од. |r|cff808080/ 225 од.|r
+Шкода в секунду від кровотечі: |cff80808020 од. /|r |cffffcc0035 од. |r|cff808080/ 50 од.|r
 }
 
 STRING 1533
 {
-Zul'jin viciously throws an axe, dealing direct damage, making the target bleed over time and stunning it.
+Зул'джин жорстоко кидає сокиру, завдаючи цілі прямої шкоди, змушує ціль кровоточити та приголомшує ії.
 
-|cffe6cc80¨You want axe?¨|r
+|cffe6cc80¨Сокиру хош?¨|r
 
-Duration: |cffffcc005s|r
-Initial Damage: |cff80808075 / 150 /|r |cffffcc00225|r
-Damage per Second: |cff80808020 / 35 /|r |cffffcc0050|r
+Тривалість: |cffffcc005 сек.|r
+Початкова шкода: |cff80808075 од./|r |cffffcc00150 од. |r|cff808080/ 225 од.|r
+Шкода в секунду від кровотечі:|cff80808020 од. /|r |cffffcc0035 од. |r|cff808080/ 50 од.|r
 }
 
 STRING 1534
 {
-Regeneration
+Регенерація
 }
 
 STRING 1535
 {
-Regeneration - [|cffffcc00Level 1|r]
+Регенерація - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1536
 {
-Regeneration - [|cffffcc00Level 2|r]
+Регенерація - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1537
 {
-Regeneration - [|cffffcc00Level 3|r]
+Регенерація - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1538
 {
-Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
 
-HP/s: |cffffc80030 |r|cffc0c0c0/ 35 / 40|r
-Duration: |cffffc80010|r
+Здоров'я в сек.: |cffffc80030 од. |r|cffc0c0c0/ 35 од. / 40 од.|r
+Тривалість: |cffffc80010 сек.|r
 }
 
 STRING 1539
 {
-Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
 
-HP/s: |cffc0c0c030 /|r |cffffc80035 |r|cffc0c0c0/ 40|r
-Duration: |cffffc80010|r
+Здоров'я в сек.: |cffc0c0c030 од. /|r |cffffc80035 од. |r|cffc0c0c0/ 40 од.|r
+Тривалість: |cffffc80010|r
 }
 
 STRING 1540
 {
-Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
 
-HP/s: |cffc0c0c030 / 35 /|r |cffffc80040|r
-Duration: |cffffc80010|r
+Здоров'я в сек.: |cffc0c0c030 од. / 35 од. /|r |cffffc80040 од.|r
+Тривалість: |cffffc80010|r
 }
 
 STRING 1541
 {
-Channeling his regenerative powers, Zul'jin quickly restoreing health over time.
+Використовуючи свої регенеративні здібності, Зул'джин швидко відновдює запас свого здоровʼя.
 
-HP/s: 30 / 35 / 40
-Duration: 10
+Здоров'я в сек.: 0 од. / 35 од. / 40 од.
+Тривалість: 10 сек.
 }
 
 STRING 1542
 {
-Learn Regeneration - [|cffffcc00Level %d|r]
+Вивчити Реґенерація - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1543
@@ -7354,7 +7372,7 @@ STRING 1547
 
 STRING 1548
 {
-Grievous Throw
+Травмуючий кидок
 }
 
 STRING 1549
@@ -7893,12 +7911,12 @@ Entropic Frenzy
 
 STRING 1666
 {
-Fel Spikes
+Шипи скверни
 }
 
 STRING 1667
 {
-Fel Spikes
+Шипи скверни
 }
 
 STRING 1669
@@ -8130,7 +8148,7 @@ STRING 1713
 
 STRING 1714
 {
-Elite Armory
+Елітна зброя
 }
 
 STRING 1715
@@ -8145,7 +8163,7 @@ Elite Armory
 
 STRING 1718
 {
-Increases weapon damage.
+Збільшує шкоду яку наносять рубайла клану Чорнозубого вищиру.
 }
 
 STRING 1719
@@ -8183,12 +8201,12 @@ STRING 1724
 
 STRING 1725
 {
-Heavy Hammers
+Важкі молоти
 }
 
 STRING 1726
 {
-Heavy Hammers
+Важкі молоти
 }
 
 STRING 1727
@@ -8198,33 +8216,33 @@ R
 
 STRING 1728
 {
-Taz'dingo!
+Таз'дінґо!
 }
 
 STRING 1729
 {
-Learn Taz'dingo!
+Вивчити Таз'дінґо
 }
 
 STRING 1730
 {
-Taz'dingo!
+Таз'дінґо!
 }
 
 STRING 1731
 {
-Zul'jin goes berserk, letting out a mighty warcry going berserk. Zul'jin will have increased attack and movement speed, and be immune to all damage.
+Зул'джин вигукує могутній бойович клич та входить у стан берсерка. Швидкість атаки та руху Зул'джина підвищується, а також він отримує імунітет від будь-яких атак.
 
-Attack / Speed: |cffffc800+100%|r
-Duration: |cffffc80030|r
+Атака/Швидкість: |cffffc800 од. + 100%|r
+Тривалість: |cffffc80030 сек.|r
 }
 
 STRING 1732
 {
-Zul'jin goes berserk, letting out a mighty warcry going berserk. Zul'jin will have increased attack and movement speed, and be immune to all damage.
+Зул'джин вигукує могутній бойович клич та входить у стан берсерка. Швидкість атаки та руху Зул'джина підвищується, а також він отримує імунітет від будь-яких атак.
 
-Attack / Speed: |cffffc800+100%|r
-Duration: |cffffc80030|r
+Швидкість атаки: |cffffc800+ 100%|r
+Тривалість: |cffffc80030 сек.|r
 }
 
 STRING 1733
@@ -8581,7 +8599,7 @@ Rampage
 
 STRING 1826
 {
-Runes
+Руни
 }
 
 STRING 1827
@@ -8602,17 +8620,17 @@ Warrior's Taunt
 
 STRING 1830
 {
-The Attack is decreased.
+Шкода збільшена.
 }
 
 STRING 1831
 {
-Command Aura
+Аура командира
 }
 
 STRING 1832
 {
-Attack increased.
+Шкода збільшена.
 }
 
 STRING 1833
@@ -8652,7 +8670,7 @@ This unit was hit by wartior's strike. It bleeds out.
 
 STRING 1840
 {
-Retribution Aura
+Аура відплати
 }
 
 STRING 1843
@@ -8667,7 +8685,7 @@ Unit was shot and bleeds.
 
 STRING 1845
 {
-Heavy Burden
+Важко-навантажений
 }
 
 STRING 1847
@@ -8752,7 +8770,7 @@ This unit heared the Warchief's warcry; it will distribute some of the damage it
 
 STRING 1863
 {
-Maim
+Каліцтво
 }
 
 STRING 1864
@@ -8762,17 +8780,17 @@ STRING 1864
 
 STRING 1865
 {
-This unit is Maimed; it will take damage over time.
+Ціль покалічено; вона отримує періодичну шкоду.
 }
 
 STRING 1866
 {
-Recklessness
+Безрозсудність
 }
 
 STRING 1868
 {
-This unit has Recklessness; its attack rate and movement speed are increased, however damage takes is also increased.
+Ця одиниця у стані безрозсудності; її швидкість атаки та пересування збільшені, але також збільшена шкода від ворогів.
 }
 
 STRING 1869
@@ -9027,7 +9045,7 @@ STRING 1919
 
 STRING 1920
 {
-Grievous Throw
+Травмуючий кидок
 }
 
 STRING 1921
@@ -9037,7 +9055,7 @@ STRING 1921
 
 STRING 1922
 {
-This unit was hit by Grievus Throw; it will take damage over time and move more slowly.
+Ця одиниця була покалічена; Протягом часу вона буде отримувати шкоду і пересуватись повільно.
 }
 
 STRING 1923
@@ -9047,12 +9065,12 @@ STRING 1923
 
 STRING 1924
 {
-Taz'dingo!
+Таз'дінґо!
 }
 
 STRING 1925
 {
-Zul'jin has increased attack and movement speed, and be immune to all damage.
+Швидкість атаки та руху Зул'джина підвищується, а також він отримує імунітет від будь-яких атак.
 }
 
 STRING 1926
@@ -9852,12 +9870,12 @@ STRING 2090
 
 STRING 2091
 {
-Paladin Training
+Тренування паладинів
 }
 
 STRING 2092
 {
-Paladin Training
+Тренування паладинів
 }
 
 STRING 2093
@@ -11232,67 +11250,67 @@ STRING 2370
 
 STRING 2371
 {
-Initiate
+Початківець
 }
 
 STRING 2372
 {
-Novice
+Новачок
 }
 
 STRING 2373
 {
-Warlord
+Воєвода
 }
 
 STRING 2374
 {
-General
+Генерал
 }
 
 STRING 2375
 {
-Grand Master
+Гранд Мастер
 }
 
 STRING 2376
 {
-Commander
+Командир
 }
 
 STRING 2377
 {
-Champion
+Чемпіон
 }
 
 STRING 2378
 {
-Overseer
+Наглядач
 }
 
 STRING 2379
 {
-Captain
+Капітан
 }
 
 STRING 2380
 {
-Shaman
+Шаман
 }
 
 STRING 2381
 {
-Slasher
+М'ясник
 }
 
 STRING 2382
 {
-Apprentice
+Учень
 }
 
 STRING 2383
 {
-Pupil
+Стажер
 }
 
 STRING 2384
@@ -11457,7 +11475,7 @@ Summons an invisible and immovable Rune that explodes enemy land units around it
 
 STRING 2424
 {
-Runes
+Руни
 }
 
 STRING 2425
@@ -11894,12 +11912,12 @@ STRING 2516
 
 STRING 2517
 {
-Tunnel Entrance
+Вхід у тонель
 }
 
 STRING 2518
 {
-Tunnel Exit
+Вихід з тонелю
 }
 
 STRING 2519
@@ -12063,17 +12081,17 @@ Unit is slowed down.
 
 STRING 2550
 {
-Burden of Greed
+Ярмо жадібності
 }
 
 STRING 2551
 {
-Burden of Greed
+Ярмо жадібності
 }
 
 STRING 2552
 {
-This unit is walking through gold pile, his movement speed is slowed.
+Ледве пересуває ноги крокуючи по купі золота; швидкість пересування значно знижена.
 }
 
 STRING 2553
@@ -12123,7 +12141,7 @@ Dark Iron Curse Removed
 
 STRING 2562
 {
-Zuluhed cannot use his Feral Leap ability because of the ancient curse in this area.
+Зулугед не може використовувати свою здібність «Дикий стрибок», бо у цьому підземеллі діє стародавнє прокляття «Темного заліза».
 }
 
 STRING 2563
@@ -12243,12 +12261,12 @@ STRING 2588
 
 STRING 2589
 {
-Frozen
+Заморозка
 }
 
 STRING 2590
 {
-This unit is frozen. It can't be used.
+Ця одиниця заморожена і не може бути використана.
 }
 
 STRING 2591
@@ -12283,7 +12301,7 @@ Sacred Blessing
 
 STRING 2597
 {
-This unit is under the effects of Retribuition Aura; melee units that attack it will take damage.
+Ця одиниця знаходиться під впливом аури відплати; вороги які наносять атаки у ближньому бою будуть отримувати шкоду.
 }
 
 STRING 2598
@@ -12538,7 +12556,7 @@ STRING 2647
 
 STRING 2648
 {
-Holy Aura
+Свята аура
 }
 
 STRING 2649
@@ -12798,12 +12816,12 @@ A holy light that can heal a friendly living unit or self for <AHhb,DataA3>.
 
 STRING 2700
 {
-Aura of Blood
+Кривава аура
 }
 
 STRING 2701
 {
-Aura of Blood
+Кривава аура
 }
 
 STRING 2702
@@ -12813,12 +12831,12 @@ STRING 2702
 
 STRING 2703
 {
-Valor Aura
+Аура мужності
 }
 
 STRING 2704
 {
-Valor Aura
+Аура мужності
 }
 
 STRING 2705
@@ -12833,17 +12851,17 @@ Exorcism
 
 STRING 2707
 {
-Holy Aura
+Свята аура
 }
 
 STRING 2708
 {
-Holy Aura
+Свята аура
 }
 
 STRING 2709
 {
-This unit is under the effects of Holy Aura; it has an increased hit point regeneration.
+Ця одиниця знаходиться під впливом святої аури; швидкість відновлення здоров'я підвищена.
 }
 
 STRING 2710
@@ -12898,7 +12916,7 @@ Blessing (Effect)
 
 STRING 2720
 {
-Valor Aura
+Аура мужності
 }
 
 STRING 2721
@@ -12908,12 +12926,12 @@ STRING 2721
 
 STRING 2722
 {
-This unit is under the effects of Valor Aura; it has increased attack damage.
+Ця одиниця знаходиться під впливом аури мужності; шкода яку вона наносить збільшена.
 }
 
 STRING 2723
 {
-Valor Aura
+Аура мужності
 }
 
 STRING 2724
@@ -12963,7 +12981,7 @@ Causes rains of acid to pour down in a large area, healing damaging units for <A
 
 STRING 2733
 {
-Whirlwinds
+Вихори
 }
 
 STRING 2734
@@ -12973,17 +12991,17 @@ STRING 2734
 
 STRING 2735
 {
-Whirlwinds
+Вихори
 }
 
 STRING 2736
 {
-Summons a fierce controllable Whirlwinds that slows enemy units' movement speed, randomly tosses enemy ground units into the air and damages enemy buildings. |nLasts <ANto,Dur1> seconds.
+Прикликає люті вихори які сповільнюють швидкість руху ворожих одиниць, підкидають у повітря випадкові ворожі наземні одиниці й роблять шкоду ворожим спорудам. |nДіє <ANto,Dur1> сек.
 }
 
 STRING 2737
 {
-Summons a fierce controllable Whirlwinds that slows enemy units' movement speed, randomly tosses enemy ground units into the air and damages enemy buildings. |nLasts <ANto,Dur1> seconds.
+Прикликає люті вихори які сповільнюють швидкість руху ворожих одиниць, підкидають у повітря випадкові ворожі наземні одиниці й роблять шкоду ворожим спорудам. |nДіє <ANto,Dur1> сек.
 }
 
 STRING 2738
@@ -12993,7 +13011,7 @@ Learn Whirlwinds
 
 STRING 2739
 {
-Stone Skin
+Кам'яна шкіра
 }
 
 STRING 2740
@@ -13008,12 +13026,12 @@ STRING 2741
 
 STRING 2742
 {
-Flame Strike
+Вогняний вибух
 }
 
 STRING 2743
 {
-Acid Rain
+Кислотний дощ
 }
 
 STRING 2744
@@ -13023,12 +13041,12 @@ R
 
 STRING 2745
 {
-Learn Acid Rain
+Learn Кислотний дощ
 }
 
 STRING 2746
 {
-Acid Rain
+Кислотний дощ
 }
 
 STRING 2747
@@ -13043,22 +13061,22 @@ STRING 2748
 
 STRING 2749
 {
-Causes rains of Poison to pour down in a large area, damaging enemy units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds.
+У обраній області починає йти кислотний дощ, що завдає ворожим цілям <AEtq,DataA1> од. шкоди в сек. |nДіє <AEtq,Dur1> сек.
 }
 
 STRING 2750
 {
-Causes rains of Poison to pour down in a large area, damaging enemy units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds.
+У обраній області починає йти кислотний дощ, що завдає ворожим цілям <AEtq,DataA1> од. шкоди в сек. |nДіє <AEtq,Dur1> сек.
 }
 
 STRING 2751
 {
-Acid Rain
+Кислотний дощ
 }
 
 STRING 2753
 {
-Acid Rain
+Кислотний дощ
 }
 
 STRING 2756
@@ -13068,7 +13086,7 @@ STRING 2756
 
 STRING 2757
 {
-Summon Beasts
+Прикликати звірів
 }
 
 STRING 2758
@@ -13078,7 +13096,7 @@ STRING 2758
 
 STRING 2759
 {
-Summon Beasts
+Прикликати звірів
 }
 
 STRING 2760
@@ -13088,12 +13106,12 @@ The defiled forest Runestone made the local beasts insane and agressive. You can
 
 STRING 2761
 {
-Summon insane beasts that will attack your enemies.
+Прикликати зграю диких звірів які будуть битися на вашому боці
 }
 
 STRING 2762
 {
-Summon Beasts
+Прикликати звірів
 }
 
 STRING 2763
@@ -13118,7 +13136,7 @@ Decreases nearby troll units' movement speed by <ACua,DataA1,%>% and life regene
 
 STRING 2767
 {
-Acid Rain
+Кислотний дощ
 }
 
 STRING 2768
@@ -13143,7 +13161,7 @@ This unit is under the effects of Trolls Weakness; it has a decreased movement s
 
 STRING 2772
 {
-Acid Rain
+Кислотний дощ
 }
 
 STRING 2774
@@ -13178,12 +13196,12 @@ The artifact hungers for your soul, better deliver it quickly.
 
 STRING 2780
 {
-Dark Empowerment
+Темне підсилення
 }
 
 STRING 2781
 {
-Some strange ritual seems to greatly empower the traitors.
+Якийсь темний ритуал який значно підсилює зрадників.
 }
 
 STRING 2782
@@ -13318,7 +13336,7 @@ STRING 2807
 
 STRING 2808
 {
-Dark Empowerment
+Темне підсилення
 }
 
 STRING 2809
@@ -13542,7 +13560,7 @@ STRING 2855
 
 STRING 2856
 {
-Bloodvine
+Кривава лоза
 }
 
 STRING 2857
@@ -13552,17 +13570,21 @@ Purchase Bloodvine
 
 STRING 2858
 {
-A shimmering red plant.
+Яскраво червона рослина.
 }
 
 STRING 2859
 {
-Razor sharp spikes grow from the bodies of Fel infused Stormreaver orcs, dealing damage to melee attackers. After Research "For The Horde" the damage increases.
+Гострі немов бритва шипи ростуть з наповнених скверною тіл орків клану Бушуючого шторму. Шипи роблять додаткову шкоду ворогам у ближньому бою. 
+
+Після покращення «За Орду!» шкода збільшується.
 }
 
 STRING 2860
 {
-Razor sharp spikes grow from the bodies of Fel infused Stormreaver orcs, dealing damage to melee attackers. After Research "For The Horde" the damage increases.
+Гострі немов бритва шипи ростуть з наповнених скверною тіл орків клану Бушуючого шторму. Шипи роблять додаткову шкоду ворогам у ближньому бою. 
+
+Після покращення «За Орду!» шкода збільшується.
 }
 
 STRING 2861
@@ -13758,12 +13780,12 @@ Ogre Juggernaut
 
 STRING 2902
 {
-Wildhammer Thane
+Тан Дикого молоту
 }
 
 STRING 2904
 {
-This unit is carrying resource, his movement speed is slowed.
+Ця одиниця переносить ресурси, тому її швидкість пересування знижена.
 }
 
 STRING 2905
@@ -13955,7 +13977,7 @@ Duration: 60
 
 STRING 2940
 {
-Increases the armor of all friendly units in an area by 2  for 30 seconds.
+Збільшує броню всіх дружніх цілей на 2 од. протягом 30 сек.
 }
 
 STRING 2941
@@ -14192,7 +14214,9 @@ STRING 2997
 
 STRING 2998
 {
-Short distance teleportation that allows the Shaman to move in and out of combat. |n|n|cffffcc00Level 1|r - <AEbl,Cool1> second cooldown, <AEbl,Cost1> mana. |n|cffffcc00Level 2|r - <AEbl,Cool2> second cooldown, <AEbl,Cost2> mana. |n|cffffcc00Level 3|r - <AEbl,Cool3> second cooldown, <AEbl,Cost3> mana.
+Телепортує шамана на коротку відстань.
+|n|n|cffffcc00Рівень 1|r - <AEbl,Cool1> сек. відновлення, <AEbl,Cost1> од. мани. |n|cffffcc00Рівень 2|r - <AEbl,Cool2> сек. відновлення, <AEbl,Cost2> од. мани.
+|n|cffffcc00Рівень3|r - <AEbl,Cool3> сек. відновлення, <AEbl,Cost3> од. мани.
 }
 
 STRING 3001
@@ -14256,10 +14280,10 @@ Damage Bonus: |cff80808010% /|r|cffffcc00 20% |cff808080/ 30%|r
 
 STRING 3010
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі.
 
-Stun Duration: 3 / 4 / 5
-Damage: 150 / 175 / 200
+Тривалість приголомшення: 3 сек. / 4 сек. / 5 сек.
+Шкода: 150 од. / 175 од. / 250 од.
 }
 
 STRING 3011
@@ -14324,7 +14348,7 @@ Shirt of Knowledge
 
 STRING 3023
 {
-Anduin Lothar
+Андуїн Лотар
 }
 
 STRING 3024
