@@ -15,7 +15,7 @@ LoreCraftDesigns
 
 STRING 10
 {
-Nation of Stromgarde
+Люди Стромварту
 }
 
 STRING 11
@@ -25,7 +25,7 @@ Cinematic Dummy
 
 STRING 15
 {
-Dwarves of Ironforge
+Дворфи Стальгорна
 }
 
 STRING 16
@@ -52,13 +52,13 @@ S
 STRING 77
 // Units: e601 (Ballista), Name (Name)
 {
-Ballista
+Баліста
 }
 
 STRING 98
 // Units: n60G (Snake), Name (Name)
 {
-Snake
+Змія
 }
 
 STRING 112
@@ -70,7 +70,7 @@ STRING 112
 STRING 117
 // Units: h602 (Miner), Name (Name)
 {
-Miner
+Шахтар
 }
 
 STRING 118
@@ -88,7 +88,7 @@ Train Miner
 STRING 120
 // Units: h603 (Guardsman), Name (Name)
 {
-Guardsman
+Вартовий
 }
 
 STRING 121
@@ -118,7 +118,7 @@ STRING 130
 STRING 145
 // Units: h607 (Dwarven Cannon), Name (Name)
 {
-Dwarven Cannon
+Дворфійська гармата
 }
 
 STRING 146
@@ -134,9 +134,9 @@ Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground
 }
 
 STRING 149
-// Units: n606 (Orc Tent), Name (Name)
+// Units: n606 (Orc Намет), Name (Name)
 {
-Orc Tent
+Orc Намет
 }
 
 STRING 164
@@ -148,19 +148,19 @@ C
 STRING 172
 // Units: n60C (Scout Post), Name (Name)
 {
-Scout Post
+Ороче оборонне укріплення
 }
 
 STRING 173
 // Units: n60C (Scout Post), Tip (Tooltip - Basic)
 {
-Scout Post
+Ороче оборонне укріплення
 }
 
 STRING 174
 // Units: n60C (Scout Post), Description (Description)
 {
-Orcish Scout Post
+Ороче оборонне укріплення
 }
 
 STRING 203
@@ -190,7 +190,7 @@ STRING 422
 STRING 423
 // Units: h61D (Settlement), Name (Name)
 {
-Settlement
+Поселення
 }
 
 STRING 424
@@ -202,7 +202,7 @@ Build Settlement
 STRING 448
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 449
@@ -214,7 +214,7 @@ Just a mallard
 STRING 455
 // Units: h61O (Mountain Cavalier), Name (Name)
 {
-Mountain Cavalier
+Гірський наїзник
 }
 
 STRING 456
@@ -238,47 +238,47 @@ Orcish Stone Wall
 STRING 478
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Стіна з шипами
 }
 
 STRING 479
 // Doodads: D61D (Spike Wall), Name (Name)
 {
-Spike Wall
+Стіна з шипами
 }
 
 STRING 487
 // Destructibles: B00U (Spirit), Name (Name)
 {
-Spirit
+Дух
 }
 
 STRING 488
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 489
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 490
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 491
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 492
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -328,7 +328,7 @@ Spiders
 STRING 573
 // Units: h60T (Clansman), Name (Name)
 {
-Clansman
+Клановець
 }
 
 STRING 574
@@ -352,7 +352,7 @@ Versatile foot soldier. |n|n|cffffcc00Attacks land units.|r
 STRING 578
 // Units: h60U (Forgeguard), Name (Name)
 {
-Forgeguard
+Вартовий наковальні
 }
 
 STRING 579
@@ -376,7 +376,7 @@ STRING 585
 STRING 588
 // Units: h61T (Anvilguard), Name (Name)
 {
-Anvilguard
+Вартовий наковальні
 }
 
 STRING 589
@@ -394,7 +394,7 @@ Thane
 STRING 648
 // Units: h61W (Mountaineer), Name (Name)
 {
-Mountaineer
+Гірський піхотинець
 }
 
 STRING 656
@@ -418,7 +418,7 @@ Provides food, which increases the maximum number of units that can be trained. 
 STRING 665
 // Units: h61Z (Sawmill), Name (Name)
 {
-Sawmill
+Пилорама
 }
 
 STRING 666
@@ -574,7 +574,7 @@ Old Tomb
 STRING 971
 // Destructibles: B62T (Egg), Name (Name)
 {
-Egg
+Яйце кроколіска
 }
 
 STRING 976
@@ -604,7 +604,7 @@ STRING 983
 STRING 999
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Скриня
 }
 
 STRING 1000
@@ -814,7 +814,7 @@ Railroad
 STRING 1104
 // Destructibles: B00A (Vine Trap), Name (Name)
 {
-Vine Trap
+Пастка з лози
 }
 
 STRING 1113
@@ -1172,7 +1172,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 2530
 {
-Unholy
+Нечестивість
 }
 
 STRING 2531
@@ -1244,7 +1244,7 @@ STRING 2547
 STRING 2548
 // Units: o001 (Savage), Name (Name)
 {
-Savage
+Дикун з клану Кривавої очниці
 }
 
 STRING 2549
@@ -1256,7 +1256,7 @@ Train Savage
 STRING 2550
 // Units: njg1 (Bog Beast), Name (Name)
 {
-Bog Beast
+Болотяний звір
 }
 
 STRING 2551
@@ -1268,7 +1268,7 @@ Summon Bog Beast
 STRING 2552
 // Units: njgb (Enraged Bog Beast), Name (Name)
 {
-Enraged Bog Beast
+Розлючений  болотяний звір
 }
 
 STRING 2553
@@ -1280,7 +1280,7 @@ Summon Enraged Bog Beast
 STRING 2554
 // Units: njga (Huge Bog Beast), Name (Name)
 {
-Huge Bog Beast
+Великий болотяний звір
 }
 
 STRING 2555
@@ -1292,7 +1292,7 @@ Summon Huge Bog Beast
 STRING 2559
 // Units: n00T (Stalker), Name (Name)
 {
-Stalker
+Сталкер з клану Кривавої очниці
 }
 
 STRING 2560
@@ -1316,7 +1316,7 @@ STRING 2564
 STRING 2565
 // Units: o002 (Slave), Name (Name)
 {
-Slave
+Раб
 }
 
 STRING 2566
@@ -1538,7 +1538,7 @@ STRING 2627
 STRING 2628
 // Units: ncpn (Forlorn Spirit), Name (Name)
 {
-Forlorn Spirit
+Самотній дух
 }
 
 STRING 2631
@@ -1550,7 +1550,7 @@ STRING 2631
 STRING 2636
 // Units: n00W (Angwe), Name (Name)
 {
-Angwe
+Анґве легендарний ґанкер
 }
 
 STRING 2637
@@ -1700,7 +1700,7 @@ WETLAND_Collum
 STRING 2694
 // Items: I00A (Stranglekelp), Name (Name)
 {
-Stranglekelp
+Удавник
 }
 
 STRING 2695
@@ -1730,13 +1730,13 @@ STRING 2711
 STRING 2716
 // Units: n00Y (Ma's Ghost), Name (Name)
 {
-Ma's Ghost
+Привид Ма
 }
 
 STRING 2717
 // Units: n00Z (Horrorjaw Jr), Name (Name)
 {
-Horrorjaw Jr
+"Щелепи Кошмару" молодший
 }
 
 STRING 2718
@@ -1769,7 +1769,7 @@ STRING 2722
 STRING 2723
 // Units: e002 (Vengefull spirit), Name (Name)
 {
-Vengefull spirit
+Мстивий дух
 }
 
 STRING 2724
@@ -1780,28 +1780,28 @@ STRING 2724
 
 STRING 2725
 {
-Blackrock Clan
+Клан Чорного Каменю
 }
 
 STRING 2727
 {
-Blacktoothgrin Clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 2728
 {
-Dragonmaw Clan
+Клан Драконової Пащі
 }
 
 STRING 2729
 {
-Bleeding Hollow Clan
+Клан Кривавої Очниці
 }
 
 STRING 2730
 // Units: n011 (Ma's Grave), Name (Name)
 {
-Ma's Grave
+Могила Ма
 }
 
 STRING 2731
@@ -1879,13 +1879,13 @@ STRING 2796
 STRING 2812
 // Units: Nfir (Elemental), Name (Name)
 {
-Elemental
+Елементаль
 }
 
 STRING 2901
 // Units: Nfir (Elemental), Propernames (Proper Names)
 {
-Fire Elemental
+Елементаль вогню
 }
 
 STRING 2905
@@ -1914,33 +1914,33 @@ Wetland Canopy Tree
 
 STRING 2912
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 2913
 {
-Blacktoothgrin Clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 2922
 {
-|cffff0000WARNING|r 
-You have chosen the north road. You cannot go to south now.
+|cffff0000УВАГА|r 
+Ви обрали йти правою стежиною, що веде на ПІВНІЧ. Шлях ліворуч тепер недоступний.
 }
 
 STRING 2924
 {
-Choose the way
+ОБЕРІТЬ ЯКИМ ШЛЯХОМ ЙТИ
 }
 
 STRING 2925
 {
-Go Left
+ЛІВОРУЧ ЧЕРЕЗ ТАБІР ЛЮДЕЙ СТОРМВАРТУ
 }
 
 STRING 2926
 {
-Go Right
+ПРАВОРУЧ ЧЕРЕЗ ТАБІР ДВОРФІВ
 }
 
 STRING 3038
@@ -1950,20 +1950,20 @@ STRING 3038
 
 STRING 3041
 {
-|cffffcc00MAIN QUEST FAILED|r
-You are late, sun has risen, but Cho'gall had'nt reached the camp.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Запізно, сонце зійшло, але Чо'ґалл так і не досяг табору клану Кривавої очниці
 }
 
 STRING 3042
 {
-|cffffcc00MAIN QUEST FAILED|r
-Utok died.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Уток загинув.
 }
 
 STRING 3043
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your hero died.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Ваш герой загинув.
 }
 
 STRING 3069
@@ -2077,7 +2077,7 @@ Dragonfly swarm
 STRING 3142
 // Items: I00B (Tome of War), Name (Name)
 {
-Tome of War
+Том війни
 }
 
 STRING 3143
@@ -2095,7 +2095,7 @@ Increases the weapon mastery of your units.
 STRING 3145
 // Items: I00B (Tome of War), Description (Description)
 {
-Improves weapon mastery.
+Покращує майстерність володіння зброєю.
 }
 
 STRING 3148
@@ -2183,8 +2183,8 @@ STRING 3186
 
 STRING 3190
 {
-|cffff0000WARNING|r 
-You have chosen the south road. You cannot go to north now.
+|cffff0000УВАГА|r 
+Ви обрали йти лівою стежиною, що веде на ПІВДЕНЬ. Шлях праворуч тепер недоступний.
 }
 
 STRING 3191
@@ -2202,7 +2202,7 @@ STRING 3192
 STRING 3309
 // Units: O616 (Chieftain), Propernames (Proper Names)
 {
-Kilrogg Deadeye
+Кілроґ Мертве Око
 }
 
 STRING 3316
@@ -2220,7 +2220,7 @@ Revive Chieftain
 STRING 3318
 // Units: O616 (Chieftain), Name (Name)
 {
-Chieftain
+Отаман
 }
 
 STRING 3339
@@ -2243,7 +2243,7 @@ Fire Pit (Pathless)
 
 STRING 3432
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3433
@@ -2270,7 +2270,7 @@ They have |cff00ff00envenomed spears|r that poison their enemies.
 STRING 3479
 // Units: ndrj (Slime), Name (Name)
 {
-Slime
+Слиз
 }
 
 STRING 3481
@@ -2287,12 +2287,12 @@ Distant Land Wallpaper Highlands
 
 STRING 3499
 {
-Twilight's Hammer Clan
+Клан Сутінкового Молота
 }
 
 STRING 3500
 {
-Blacktooth grin Clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 3501
@@ -2309,8 +2309,8 @@ Chieftain
 
 STRING 3514
 {
-|cffffcc00SECRET FOUND|r
-Secret mission unlocked.
+|cffffcc00ЗНАЙДЕНО СЕКРЕТ|r
+Розблоковано секретне завдання.
 }
 
 STRING 3518
@@ -2348,61 +2348,59 @@ Wanted Scroll
 
 STRING 3531
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3532
 {
-The powerful Ogre-mage Cho'gall has been given the task of inspecting Horde oil facilities in Khaz Modan. Bring him to the Bleeding Hollow camp before dawn.
+Могутній оґр-маг Чо'ґалл отримав завдання від вождя, перевірити стан нафтової інфраструктури орди у Хаз Модані. Супроводіть його в безпеці у табір Кривавої очниці до світанку.
 }
 
 STRING 3533
 {
-Escort Cho'gall to the camp before the dawn
+Супроводіть Чо'ґалла у табір до світанку
 }
 
 STRING 3534
 {
-Cho'gall must survive
+Чо'ґалл має вижити.
 }
 
 STRING 3535
 {
-Zuluhed must survive
+Зулугед має вижити.
 }
 
 STRING 3538
 {
-SUN RISES AT 6 AM.
+Світанок о 06:00
 }
 
 STRING 3539
 {
-Current Time (in hours):
+Поточний час (в годинах):
 }
 
 STRING 3540
 {
-Current Time:
+Поточний час:
 }
 
 STRING 3541
 {
-|cffffcc00MAIN QUEST|r 
-Cho'gall
-  - Escort Cho'gall to the camp before the dawn
-  - Cho'gall must survive
-  - Zuluhed must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Чо'ґалл
+- Супроводіть Чо'ґалла у табір до світанку
+- Чоʼґалл та Зулугед мають вижити
 }
 
 STRING 3542
 {
-|cffffcc00MAIN QUEST|r 
-Cho'gall
-  - Escort Cho'gall to the camp before the dawn
-  - Cho'gall must survive
-  - Zuluhed must survive
-  - Utok must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Чо'ґалл
+- Супроводіть Чо'ґалла у табір до світанку
+- Чо'ґалл та Зулугед та Уток мають вижити
+- Уток має вижити"
 }
 
 STRING 3549
@@ -2414,141 +2412,141 @@ The Wetlands is a vast, cold swampy region north of Ironforge. Mists cloak the g
 
 STRING 3551
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Cho'gall
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Чо'ґалл
 }
 
 STRING 3552
 {
-|c0000FF00Watch the clock, half of the night has passed.|r
+|c0000FF00Слідкуйте за часом, половина ночі вже пройшла.|r
 }
 
 STRING 3554
 {
-|c00FF7F00You are running out of time! The sun rises in two hours!|r
+|c00FF7F00Покваптесь! Світанок за дві години!|r
 }
 
 STRING 3556
 {
-|c00FF7F00You are running out of time! The sun rises in an hour!|r
+|c00FF7F00Не зволікайте! Світанок за годину!|r
 }
 
 STRING 3558
 {
-|c00FF7F00You are running out of time! Sunrise is in half an hour!|r
+|c00FF7F00Час збігає! Світанок за пів години!|r
 }
 
 STRING 3560
 {
-|cffff0000You are running out of time! Sun has almost risen!|r
+|cffff0000Часу майже немає, світанок ось ось!|r
 }
 
 STRING 3564
 {
-|cffffcc00MAIN QUEST|r 
-Grim Batol
-- Reach Grim Batol.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r 
+Ґрім-Батол
+- Дійдіть до Ґрім-Батолу.
 }
 
 STRING 3565
 {
-Grim Batol
+Ґрім-Батол
 }
 
 STRING 3566
 {
-Follow Kilrogg Deadeye and reach Grim Batol gate to enter the Highlands.
+Слідуйте за Кілроґом Мертве Око до брами Ґрім-Батолу аби увійти у нагір'я.
 }
 
 STRING 3567
 {
-Reach Grim Batol
+Дістанеться до Ґрім-Батолу
 }
 
 STRING 3568
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Grim Batol
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Ґрім Батол
 }
 
 STRING 3575
 {
-Prisoners
+Бранці
 }
 
 STRING 3576
 {
-The humans have captured some of our brethren. Slaughter the pinkskins and set our warriors free.  
+Люди взяли в полон наших побратимів. Вбийте рожевошкірих та звільніть наших воїнів.
 }
 
 STRING 3577
 {
-Free 4 Prisoners
+Звільніть 4х бранців
 }
 
 STRING 3578
 {
-Free 6 Prisoners
+Звільність 6 бранців
 }
 
 STRING 3579
 {
-|cffffcc00OPTIONAL QUEST|r
-Prisoners
-  - Free 6 Prisoners
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|
+Бранці
+  - Звільніть 6 бранців
 }
 
 STRING 3582
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Prisoners
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Бранці
 }
 
 STRING 3583
 {
-|cffffcc00OPTIONAL QUEST|r
-Prisoners
-  - Free 4 Prisoners
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|
+Бранці
+  - Звільніть 4 бранців
 }
 
 STRING 3587
 {
-|cffffcc00OPTIONAL QUEST|r
-The Beast
-  - Get rid of the Beast
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Звірюка
+  - Позбудьтеся звіра
 }
 
 STRING 3591
 {
-Return to the Savage
+Поверніться до дикуна
 }
 
 STRING 3592
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-The Beast
-  - |cff808080Get rid of the Beast (Completed)|r
-  - Return to the Savage
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Звірюка
+|cff808080- Позбудьтеся звірюки (Завершено)|r
+- Поверніться до дикуна з клану Кривавої очниці
 }
 
 STRING 3593
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-The Beast
-|cff808080- Get rid of the Beast. (Completed).|r
-|cff808080- Get back for reward. (Completed).|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Звірюка
+|cff808080- Позбудьтеся звірюки. (Завершено).|r
+|cff808080- Поверніться до дикуна з клану Кривавої очниці. (Завершено).|r
 }
 
 STRING 3594
 {
-|cff32cd32HINT|r
-The Tome of War increased combat mastery of your units. Now they have level 1 of attack and defend upgrades.
+|cff32cd32ПІДКАЗКА|r
+Том війни збільшує бойові навички всіх ваших одиниць окрім героїв. Тепер вони мають +1 рівень покращення атаки та захисту.
 }
 
 STRING 3595
 {
-|cff8080ffNEW HERO|r
-Cho’gall is a powerful ogre mage, Initiate of the Fifth Circle of the Shadow Council and Chieftain of the Twilight's Hammer clan. He was spared execution alongside his master Gul’dan and must now prove his worth to the Horde. 
+|cff8080ffНОВИЙ ГЕРОЙ|r
+Чо'ґалл — могутній оґр-маг, посвячений п'ятого кола Ради Тіней і Вождь клану Сутінкового Молота. Орґрім Молот Згуби помилував Чо'ґалла та його повелителя Ґул'дана, і тепер він служить Орді аби довести свою вірність.
 }
 
 STRING 3596
@@ -2567,28 +2565,28 @@ The Bleeding Hollow clan under  the cunning leadership of their chieftain Kilrog
 
 STRING 3601
 {
-The Beast
+Звірюка
 }
 
 STRING 3602
 {
-The Swamp Beast has killed a lot of Bleeding Hollow orcs in the area. Find a way to get rid of the animal.
+Болотяна звірюка вбила багато орків з клану Кривавої очниці у цьому місці. Знайдіть спосіб позбутися звіра.
 }
 
 STRING 3603
 {
-Get rid of the Beast
+Позбудьтеся звірюки
 }
 
 STRING 3606
 {
-Orcs left to rescue:
+Лишилося визволити окрів:
 }
 
 STRING 3607
 // Items: I0L0 (WC2Orc06Zuluhed1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3610
@@ -2606,7 +2604,7 @@ WC2Orc06Zuluhed1
 STRING 3612
 // Items: I0L1 (WC2Orc06Zuluhed2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3613
@@ -2624,7 +2622,7 @@ WC2Orc06Zuluhed2
 STRING 3615
 // Items: I0L2 (WC2Orc06Zuluhed3), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3616
@@ -2642,7 +2640,7 @@ WC2Orc06Zuluhed3
 STRING 3618
 // Items: I0L3 (WC2Orc06Zuluhed4), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3619
@@ -2660,7 +2658,7 @@ WC2Orc06Zuluhed4
 STRING 3621
 // Items: I0L4 (WC2Orc06Zuluhed5), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3622
@@ -2678,13 +2676,13 @@ WC2Orc06Zuluhed5
 STRING 3624
 // Items: I0L5 (WC2Orc06Zuluhed6), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3625
 // Items: I0L5 (WC2Orc06Zuluhed6), Description (Description)
 {
-Greetings Cho’gall… it seems that your clan no longer follows our traditions, their armor is outlandish and their demeanor seems… off…
+Вітаю Чо'ґалле… дивлюсь ваш клан більше не дотримується наших традицій, обладунки твоїх воїнів якісь дивні, і поведінка теж… якась…
 }
 
 STRING 3626
@@ -2696,13 +2694,13 @@ WC2Orc06Zuluhed6
 STRING 3627
 // Items: I0L6 (WC2Orc06Zuluhed7), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3628
 // Items: I0L6 (WC2Orc06Zuluhed7), Description (Description)
 {
-Spirits give me patience… Let's get this over with…
+О духи, дайте мені терпіння… Давайте до справ…
 }
 
 STRING 3629
@@ -2714,13 +2712,13 @@ WC2Orc06Zuluhed7
 STRING 3630
 // Items: I0L7 (WC2Orc06Zuluhed8), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3631
 // Items: I0L7 (WC2Orc06Zuluhed8), Description (Description)
 {
-The night’s veil will help us pass through these lands mostly unseen, but we must reach Grim Batol before the sun rises. Let us move out.
+Під покровом ночі, зможемо пройти ці землі, майже непомітно. Ми маємо дійти до Ґрім Батолу до світанку. Тож рушаймо.
 }
 
 STRING 3632
@@ -2732,13 +2730,13 @@ WC2Orc06Zuluhed8
 STRING 3633
 // Items: I0L8 (WC2Orc06Zuluhed9), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3634
 // Items: I0L8 (WC2Orc06Zuluhed9), Description (Description)
 {
-I feel it too, Kilrogg… I would have liked to investigate this further, but exploring the place will have to wait. Cho’gall… are you ready to continue your trip from here?
+Я теж це відчуваю, Кілрог… І я б хотів дослідити це більше, але дослідження цього місця має зачекати. Чо'ґалл… ти готовий продовжити свою подорож звідси?
 }
 
 STRING 3635
@@ -2750,13 +2748,13 @@ WC2Orc06Zuluhed9
 STRING 3636
 // Items: I0L9 (WC2Orc06Zuluhed10), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3637
 // Items: I0L9 (WC2Orc06Zuluhed10), Description (Description)
 {
-You’re not alone Kilrogg, I felt strange powers emanating from him… powers that are neither fel or arcane… but something more…
+Ти не один Кілрогґ, я відчуваю якісь дивні сили від нього…  але це ані скверна, ані потаємна магія… це щось інше…
 }
 
 STRING 3638
@@ -2768,7 +2766,7 @@ WC2Orc06Zuluhed10
 STRING 3639
 // Items: I0LA (WC2Orc06Zuluhed11), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3641
@@ -2780,13 +2778,13 @@ WC2Orc06Zuluhed11
 STRING 3642
 // Items: I0LB (WC2Orc06Zuluhed12), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3643
 // Items: I0LB (WC2Orc06Zuluhed12), Description (Description)
 {
-And I uh… have a mystery to solve...
+І ще… мені треба розгадати одну загадку…
 }
 
 STRING 3644
@@ -2798,13 +2796,13 @@ WC2Orc06Zuluhed12
 STRING 3645
 // Items: I0LC (WC2Orc06Zuluhed_AllianceCatapult1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3646
 // Items: I0LC (WC2Orc06Zuluhed_AllianceCatapult1), Description (Description)
 {
-It would be lovely destroying the Alliance with their own weapons…
+Було б чудово знищити Альянс їх власною зброєю…
 }
 
 STRING 3647
@@ -2816,13 +2814,13 @@ WC2Orc06Zuluhed_AllianceCatapult1
 STRING 3648
 // Items: I0LD (WC2Orc06Zuluhed_BHollowLastCamp1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3649
 // Items: I0LD (WC2Orc06Zuluhed_BHollowLastCamp1), Description (Description)
 {
-Aah we’re finally here...
+Нарешті ми тут…
 }
 
 STRING 3650
@@ -2834,13 +2832,13 @@ WC2Orc06Zuluhed_BHollowLastCamp1
 STRING 3651
 // Items: I0LE (WC2Orc06Zuluhed_BHollowLastCamp2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3652
 // Items: I0LE (WC2Orc06Zuluhed_BHollowLastCamp2), Description (Description)
 {
-You really need a lesson in manners…Ogre.
+Тобі варто повчитися манерам… Оґре.
 }
 
 STRING 3653
@@ -2852,13 +2850,13 @@ WC2Orc06Zuluhed_BHollowLastCamp2
 STRING 3654
 // Items: I0LF (WC2Orc06Zuluhed_BHollowMinicamp1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3655
 // Items: I0LF (WC2Orc06Zuluhed_BHollowMinicamp1), Description (Description)
 {
-Throm'ka warriors! Seems like a lot of you were wounded.
+Тром-ка воїни! Здається, багатьох з вас було поранено.
 }
 
 STRING 3656
@@ -2870,13 +2868,13 @@ WC2Orc06Zuluhed_BHollowMinicamp1
 STRING 3657
 // Items: I0LG (WC2Orc06Zuluhed_BHollowMinicamp2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3658
 // Items: I0LG (WC2Orc06Zuluhed_BHollowMinicamp2), Description (Description)
 {
-Very well, warrior, we are not in the business of letting friends rot in Alliance cages.
+Дуже добре воїне. Не в наших інтересах лишати друзів гнити в клітках Альянсу.
 }
 
 STRING 3659
@@ -2888,13 +2886,13 @@ WC2Orc06Zuluhed_BHollowMinicamp2
 STRING 3660
 // Items: I0LH (WC2Orc06Zuluhed_BrokenBridge1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3661
 // Items: I0LH (WC2Orc06Zuluhed_BrokenBridge1), Description (Description)
 {
-These bridges weren’t built for ogres, we need to be careful next time.
+Схоже що ці мости не були розраховані на оґрів, треба бути обачнішими далі.
 }
 
 STRING 3662
@@ -2906,13 +2904,13 @@ WC2Orc06Zuluhed_BrokenBridge1
 STRING 3663
 // Items: I0LI (WC2Orc06Zuluhed_ChooseWay1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3664
 // Items: I0LI (WC2Orc06Zuluhed_ChooseWay1), Description (Description)
 {
-Hmmmm… the path forks in different directions. We must choose which path to take to Grim Batol, as we cannot risk splitting up.
+Хмммм…  далі стежина розходиться у різні боки. Треба обрати яким як саме ми підемо до Ґрім-Батолу, бо розділятися це досить ризиковано.
 }
 
 STRING 3665
@@ -2924,13 +2922,13 @@ WC2Orc06Zuluhed_ChooseWay1
 STRING 3666
 // Items: I0LJ (WC2Orc06Zuluhed_ChooseWay2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3667
 // Items: I0LJ (WC2Orc06Zuluhed_ChooseWay2), Description (Description)
 {
-Both paths are dangerous, but we cannot wait.
+Обидва шляхи небезпечні, але нема часу зволікати.
 }
 
 STRING 3668
@@ -2942,13 +2940,13 @@ WC2Orc06Zuluhed_ChooseWay2
 STRING 3669
 // Items: I0LK (WC2Orc06Zuluhed_CrocoliskQuest1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3670
 // Items: I0LK (WC2Orc06Zuluhed_CrocoliskQuest1), Description (Description)
 {
-At ease, young blood, what has happened to you?
+Спокійно юначе, що з тобою трапилось?
 }
 
 STRING 3671
@@ -2960,13 +2958,13 @@ WC2Orc06Zuluhed_CrocoliskQuest1
 STRING 3672
 // Items: I0LL (WC2Orc06Zuluhed_CrocoliskQuest2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3673
 // Items: I0LL (WC2Orc06Zuluhed_CrocoliskQuest2), Description (Description)
 {
-There you are…you’re no demon though…just a poor creature protecting it’s land, but…the lives you have taken should not go unavenged.
+Ось ти… і ти зовсім не демон… Просто загнана у кут тварина яка захищала свою територію, але… те що ти забрала життя не має лишитися безкарним.
 }
 
 STRING 3674
@@ -2978,13 +2976,13 @@ WC2Orc06Zuluhed_CrocoliskQuest2
 STRING 3675
 // Items: I0LM (WC2Orc06Zuluhed_CrocoliskQuest3), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3676
 // Items: I0LM (WC2Orc06Zuluhed_CrocoliskQuest3), Description (Description)
 {
-Hmm.. what should I do? Heal you and leave you in peace or avenge my brethren? What do the spirits ask of me?
+Хмм… що ж я маю зробити? Вилікувати тебе і лишити тебе в мирі або помститися за моїх братів? Що духи підкажуть мені?
 }
 
 STRING 3677
@@ -2996,13 +2994,13 @@ WC2Orc06Zuluhed_CrocoliskQuest3
 STRING 3678
 // Items: I0LN (WC2Orc06Zuluhed_CrocoliskQuest4), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3679
 // Items: I0LN (WC2Orc06Zuluhed_CrocoliskQuest4), Description (Description)
 {
-The beast will trouble you no more, young blood, rest now and rejoin our warriors when you can.
+Звір більше не потурбує тебе, юначе, відпочивай і коли зможеш долучайся до наших воїнів.
 }
 
 STRING 3680
@@ -3014,13 +3012,13 @@ WC2Orc06Zuluhed_CrocoliskQuest4
 STRING 3681
 // Items: I0LO (WC2Orc06Zuluhed_CrocoliskQuest5), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3682
 // Items: I0LO (WC2Orc06Zuluhed_CrocoliskQuest5), Description (Description)
 {
-We will get you back to your chieftain, warrior.
+Ми поврнемо вас до вашого отамана воїне.
 }
 
 STRING 3683
@@ -3032,13 +3030,13 @@ WC2Orc06Zuluhed_CrocoliskQuest5
 STRING 3684
 // Items: I0LP (WC2Orc06Zuluhed_Figurine1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3685
 // Items: I0LP (WC2Orc06Zuluhed_Figurine1), Description (Description)
 {
-Ah, another part of the figurine... these must be the wings of a dragon. If I just press here… There! It is assembled!
+Ааа, ось і останній фрагмент для фігурки дракона… це мають бути крила дракона. І якщо і натиснути тут… Ага ось воно! Фігурка зібрана!
 }
 
 STRING 3686
@@ -3050,13 +3048,13 @@ WC2Orc06Zuluhed_Figurine1
 STRING 3687
 // Items: I0LQ (WC2Orc06Zuluhed_ForlornSpirit1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3688
 // Items: I0LQ (WC2Orc06Zuluhed_ForlornSpirit1), Description (Description)
 {
-A spirit! What happened to you, why do you haunt this place?
+Невпокоєний дух! Що трапилось з тобою, що ти борониш це місце?
 }
 
 STRING 3689
@@ -3068,13 +3066,13 @@ WC2Orc06Zuluhed_ForlornSpirit1
 STRING 3690
 // Items: I0LR (WC2Orc06Zuluhed_ForlornSpirit2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3691
 // Items: I0LR (WC2Orc06Zuluhed_ForlornSpirit2), Description (Description)
 {
-Such a cruel fate.. if we release all your friends, will your spirit then be at peace?
+Жорстка доля тебе спіткала… якщо ми звільнемо твоїх друзів, то чи впокоїшся ти?
 }
 
 STRING 3692
@@ -3086,13 +3084,13 @@ WC2Orc06Zuluhed_ForlornSpirit2
 STRING 3693
 // Items: I0LS (WC2Orc06Zuluhed_RuinsTopLeft1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3694
 // Items: I0LS (WC2Orc06Zuluhed_RuinsTopLeft1), Description (Description)
 {
-Hmmmm, whoever made this camp must have been very busy unearthing artifacts from this ancient stronghold.
+Хммм, той, хто звів цей табір, мабуть, був дуже зайнятий розкопуванням артефактів з цієї стародавньої фортеці.
 }
 
 STRING 3695
@@ -3104,13 +3102,13 @@ WC2Orc06Zuluhed_RuinsTopLeft1
 STRING 3696
 // Items: I0LT (WC2Orc06Zuluhed_RuinsTopRight1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3697
 // Items: I0LT (WC2Orc06Zuluhed_RuinsTopRight1), Description (Description)
 {
-These are very old ruins, impressive. The style and might of these dwarves rival the draenei and even the ogres of Goria.
+Це дуже старі руїни, вражаюче. Стиль та сила цих дворфів може бути порівняно з дренеями або навіть з оґрами Ґорії що на Дренорі.
 }
 
 STRING 3698
@@ -3122,13 +3120,13 @@ WC2Orc06Zuluhed_RuinsTopRight1
 STRING 3699
 // Items: I0LU (WC2Orc06Zuluhed_TormentedSoul1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3700
 // Items: I0LU (WC2Orc06Zuluhed_TormentedSoul1), Description (Description)
 {
-Rest in peace…tormented soul…
+Спочивай у мирі… змучена душа…
 }
 
 STRING 3701
@@ -3140,7 +3138,7 @@ WC2Orc06Zuluhed_TormentedSoul1
 STRING 3702
 // Items: I0LV (WC2Orc06Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3703
@@ -3158,7 +3156,7 @@ WC2Orc06Utok1
 STRING 3705
 // Items: I0LW (WC2Orc06Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3706
@@ -3176,7 +3174,7 @@ WC2Orc06Utok2
 STRING 3708
 // Items: I0LX (WC2Orc06Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3709
@@ -3194,7 +3192,7 @@ WC2Orc06Utok3
 STRING 3711
 // Items: I0LZ (WC2Orc06Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3712
@@ -3212,7 +3210,7 @@ WC2Orc06Utok4
 STRING 3714
 // Items: I0Lz (WC2Orc06Utok5), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3715
@@ -3230,13 +3228,13 @@ WC2Orc06Utok5
 STRING 3717
 // Items: I0Ly (WC2Orc06Utok6), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3718
 // Items: I0Ly (WC2Orc06Utok6), Description (Description)
 {
-Chieftains, calm down! We are all on the same side here!
+Отамани, давайте заспокоїмось. Ми всі на одному боці!
 }
 
 STRING 3719
@@ -3248,13 +3246,13 @@ WC2Orc06Utok6
 STRING 3720
 // Items: I0LY (WC2Orc06Utok7), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3721
 // Items: I0LY (WC2Orc06Utok7), Description (Description)
 {
-As you say… What can you tell us about your mission?
+Саме так… Що ви можете сказати про наше завдання тут?
 }
 
 STRING 3722
@@ -3266,13 +3264,13 @@ WC2Orc06Utok7
 STRING 3723
 // Items: I0Lx (WC2Orc06Utok8), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3724
 // Items: I0Lx (WC2Orc06Utok8), Description (Description)
 {
-Magnificent…to think these midgets are capable of building such gigantic architecture.
+Неймовірно… хто б міг подумати, що ці карлики спроможні побудувати таку архітектуру.
 }
 
 STRING 3725
@@ -3284,13 +3282,13 @@ WC2Orc06Utok8
 STRING 3726
 // Items: I0Lw (WC2Orc06Utok9), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3727
 // Items: I0Lw (WC2Orc06Utok9), Description (Description)
 {
-Chieftains, now that our mission here is complete, I am tasked with returning to Maim as soon as possible. I will need to make use of one of your zeppelins, Kilrogg.
+Отамане, оскільки зараз наше завдання завершене, мені доручено якомога швидше повернутися до Мейма Чорнорука. Мені потрібно буде скористатися одним із твоїх дирижаблів, отамане Кілроґ.
 }
 
 STRING 3728
@@ -3302,13 +3300,13 @@ WC2Orc06Utok9
 STRING 3729
 // Items: I0Lv (WC2Orc06Utok_Ambush1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3730
 // Items: I0Lv (WC2Orc06Utok_Ambush1), Description (Description)
 {
-Ambush! Slay them all!
+Засідка! Переріжте їх усіх!
 }
 
 STRING 3731
@@ -3320,13 +3318,13 @@ WC2Orc06Utok_Ambush1
 STRING 3732
 // Items: I0Lu (WC2Orc06Utok_BrokenBridge1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3733
 // Items: I0Lu (WC2Orc06Utok_BrokenBridge1), Description (Description)
 {
-Damn it …we needed those catapults.
+Прокляття… нам були потрібні ці катапульти.
 }
 
 STRING 3734
@@ -3338,13 +3336,13 @@ WC2Orc06Utok_BrokenBridge1
 STRING 3735
 // Items: I0Lt (WC2Orc06Utok_ChooseWay1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3736
 // Items: I0Lt (WC2Orc06Utok_ChooseWay1), Description (Description)
 {
-Sunrise isn’t far off… we must make up our minds quickly.
+Світанок вже скоро… треба вирішувати швидко.
 }
 
 STRING 3737
@@ -3356,13 +3354,13 @@ WC2Orc06Utok_ChooseWay1
 STRING 3738
 // Items: I0Ls (WC2Orc06Utok_ChooseWay2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3739
 // Items: I0Ls (WC2Orc06Utok_ChooseWay2), Description (Description)
 {
-What are those?!
+Це ще, що таке?
 }
 
 STRING 3740
@@ -3380,7 +3378,7 @@ Angwe
 STRING 3742
 // Items: I0Lr (WC2Orc06Angwee_EasterEgg1), Description (Description)
 {
-If you see any Alliance Scum, let me know...
+Повідомте мене якщо ви десь побачите це сміття з Альянсу…
 }
 
 STRING 3743
@@ -3392,13 +3390,13 @@ WC2Orc06Angwee_EasterEgg1
 STRING 3744
 // Items: I0Lq (WC2Orc06THammerGrunt1), Tip (Tooltip - Basic)
 {
-Fanatic
+Фанатик з клану Сутінкового Молота
 }
 
 STRING 3745
 // Items: I0Lq (WC2Orc06THammerGrunt1), Description (Description)
 {
-Such insolence! Want me to slice his tongue, Chieftain Cho’gall?
+Яке нахабство! Отамане Чо’ґалле, хочеш я виріжу йому язика?
 }
 
 STRING 3746
@@ -3410,13 +3408,13 @@ WC2Orc06THammerGrunt1
 STRING 3747
 // Items: I0Lp (WC2Orc06BHollowGrunt_CrocoliskQuest1), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3748
 // Items: I0Lp (WC2Orc06BHollowGrunt_CrocoliskQuest1), Description (Description)
 {
-Come filth! You will not find an…huh? Chieftain Zuluhed of the Dragonmaw? How is this possible?
+Давай потворо! Ти тут знайдеш свою смер… ааа? Отамане Зулугеде з клану Драконової Пащі? Як це можливо?
 }
 
 STRING 3749
@@ -3428,13 +3426,13 @@ WC2Orc06BHollowGrunt_CrocoliskQuest1
 STRING 3750
 // Items: I0Lo (WC2Orc06BHollowGrunt_CrocoliskQuest2a), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану кривавої очниці
 }
 
 STRING 3751
 // Items: I0Lo (WC2Orc06BHollowGrunt_CrocoliskQuest2a), Description (Description)
 {
-We were..fighting those damnable dwarves when this gigantic beast came out of the shadows and slaughtered everyone, orc and dwarf alike.
+Мій загін… ми вели бої з цими клятими дворфами, а потім ця кремезна тварюка вийшла з темряви та вбила усіх, орків, дворфів, геть усіх.
 }
 
 STRING 3752
@@ -3446,13 +3444,13 @@ WC2Orc06BHollowGrunt_CrocoliskQuest2a
 STRING 3753
 // Items: I0Ln (WC2Orc06BHollowGrunt_CrocoliskQuest2b), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3754
 // Items: I0Ln (WC2Orc06BHollowGrunt_CrocoliskQuest2b), Description (Description)
 {
-It was bigger than any Draenor Basilisk that I’ve ever seen, scales white as snow and hard as rocks…
+Вона була більше за будь-якого басиліска якого я бачив на Дренорі. Очі жовті наче сонце, а луска темна і тверда наче скеля.
 }
 
 STRING 3755
@@ -3464,13 +3462,13 @@ WC2Orc06BHollowGrunt_CrocoliskQuest2b
 STRING 3756
 // Items: I0Lm (WC2Orc06BHollowGrunt_CrocoliskQuest2c), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3757
 // Items: I0Lm (WC2Orc06BHollowGrunt_CrocoliskQuest2c), Description (Description)
 {
-…teeth sharp as daggers. I was..the only survivor, I managed to crawl my way out from it’s reach…please, avenge our fallen brethren… find this demon and kill it!
+…зуби гострі як мечі. Я був… я єдиний хто вижив, і зміг врятуватися від тієї істоти. Прошу, помститися за наших полеглих побратимів. знайди цього демона і вбий його!
 }
 
 STRING 3758
@@ -3482,13 +3480,13 @@ WC2Orc06BHollowGrunt_CrocoliskQuest2c
 STRING 3759
 // Items: I0Ll (WC2Orc06BHollowGrunt_CrocoliskQuest3), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3760
 // Items: I0Ll (WC2Orc06BHollowGrunt_CrocoliskQuest3), Description (Description)
 {
-Thank you, Chieftain, please accept this token of my appreciation.
+Дякую тобі, отамане, будь ласка, прийми цей тотем на знак моєї вдячності.
 }
 
 STRING 3761
@@ -3500,13 +3498,13 @@ WC2Orc06BHollowGrunt_CrocoliskQuest3
 STRING 3762
 // Items: I0Lk (WC2Orc06BHollowGrunt_FinalCamp1), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3763
 // Items: I0Lk (WC2Orc06BHollowGrunt_FinalCamp1), Description (Description)
 {
-Zuluhed the Whacked!? I am glad that you have arrived safe and sound. Today is a great day for the Horde! We have killed all of those pathetic human weaklings… Once we have rested, we will turn our wrath on those spineless dwarves to the south…
+Зулугед змучений?! Я радий що ти прибув цілим і неушкодженим. Сьогодні великий день для Орди! Ми вбили всіх нікчемних людей… Як тільки відпочинемо, направимо наш гнів на тих безхребетних дворфів що на півдні…
 }
 
 STRING 3764
@@ -3518,13 +3516,13 @@ WC2Orc06BHollowGrunt_FinalCamp1
 STRING 3765
 // Items: I0Lj (WC2Orc06BHollowGrunt_FinalCamp1a), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3766
 // Items: I0Lj (WC2Orc06BHollowGrunt_FinalCamp1a), Description (Description)
 {
-Zuluhed the Whacked!? I am glad that you have arrived safe and sound. Today is a great day for the Horde! We have killed all of those spineless dwarves to the south… Once we have rested, we will turn our wrath on those pathetic human weaklings…
+Зулугед змучений?! Я радий що ти прибув цілим і неушкодженим. Сьогодні великий день для Орди! Ми вбили всіх нікчемних дворфів… Як тільки відпочинемо, направимо наш гнів на тих безхребетних людей що на півночі…
 }
 
 STRING 3767
@@ -3536,13 +3534,13 @@ WC2Orc06BHollowGrunt_FinalCamp1a
 STRING 3768
 // Items: I0Li (WC2Orc06BHollowGrunt_FirstQuest1), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3769
 // Items: I0Li (WC2Orc06BHollowGrunt_FirstQuest1), Description (Description)
 {
-Greetings Chieftains! We’ve been expecting you!
+Вітаю отамани! Ми чекали на вас!
 }
 
 STRING 3770
@@ -3554,13 +3552,13 @@ WC2Orc06BHollowGrunt_FirstQuest1
 STRING 3771
 // Items: I0Lg (WC2Orc06BHollowGrunt_FirstQuest3), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3772
 // Items: I0Lh (WC2Orc06BHollowGrunt_FirstQuest2), Description (Description)
 {
-We’ve been fighting the humans and their scummy dwarven allies day and night for weeks now… our numbers have been decreasing fast and many of our warriors have been captured. If you help us free our brethren, we will gladly join your cause!
+Протягом тижнів, день і ніч ми вели запеклі бої з людьми та цим дворфійськими сміттям яке з ними в союзі… але досить швидко нас меншало і багатьох наших воїнів взяли в полон. Якщо ти допоможеш нам звільнити побратимів, то ми з радістю доєднаємось до вашої справи!
 }
 
 STRING 3773
@@ -3572,13 +3570,13 @@ WC2Orc06BHollowGrunt_FirstQuest2
 STRING 3774
 // Items: I0Lf (WC2Orc06BHollowGrunt_Free1), Tip (Tooltip - Basic)
 {
-Savage
+Дикун з клану Кривавої Очниці
 }
 
 STRING 3775
 // Items: I0Lg (WC2Orc06BHollowGrunt_FirstQuest3), Description (Description)
 {
-Lok'tar Ogar! Chieftain Kilrogg will be most pleased with your aid!
+Лок'тар Оґар, Отаман Кілрог буде дуже вдячний за вашу допомогу.
 }
 
 STRING 3776
@@ -3602,13 +3600,13 @@ WC2Orc06BHollowGrunt_Free1
 STRING 3780
 // Items: I0Lc (WC2Orc06BHollowGrunt_Outnumbered1), Tip (Tooltip - Basic)
 {
-Savage
+Звільнений дикун з клану Кривавої Очниці
 }
 
 STRING 3781
 // Items: I0Le (WC2Orc06BHollowGrunt_Free2), Description (Description)
 {
-Aaah it’s good to be free!
+Аааа, як гарно бути на волі!
 }
 
 STRING 3782
@@ -3620,13 +3618,13 @@ WC2Orc06BHollowGrunt_Free2
 STRING 3783
 // Items: I0Lb (WC2Orc06BHollowGrunt_YoursToCommand1), Tip (Tooltip - Basic)
 {
-Savage
+Звільненний дикун з клану Кривавої Очниці
 }
 
 STRING 3784
 // Items: I0Lc (WC2Orc06BHollowGrunt_Outnumbered1), Description (Description)
 {
-We were outnumbered… many of us fought with honor, but the rest were captured… some managed to escape. Thank you for saving us, we owe you our lives.
+Нас переважали… багато з нас билися з честю, але решта потрапили в полон… декому вдалося втекти. Дякуємо, що врятували нас, ми завдячуємо вам життям.
 }
 
 STRING 3785
@@ -3638,7 +3636,7 @@ WC2Orc06BHollowGrunt_Outnumbered1
 STRING 3787
 // Items: I0Lb (WC2Orc06BHollowGrunt_YoursToCommand1), Description (Description)
 {
-We are yours to command.
+Чекаємо на твої накази.
 }
 
 STRING 3788
@@ -3650,13 +3648,13 @@ WC2Orc06BHollowGrunt_YoursToCommand1
 STRING 3789
 // Items: I0La (WC2Orc06ForlornSpirit1), Tip (Tooltip - Basic)
 {
-Forlorn
+Невпокоєний дух
 }
 
 STRING 3790
 // Items: I0La (WC2Orc06ForlornSpirit1), Description (Description)
 {
-Zuluhed?, I… I ran away, we were attacked, put in chains…… and I ran away, without freeing my fellow brethren… I failed them.
+Зулугед? Я… Я втік! На нас напали, поневолили і закували в  ланцюги… а потім мені вдалося втіки, але я… я лишив своїх побратимів… Я їх зрадив.
 }
 
 STRING 3791
@@ -3668,13 +3666,13 @@ WC2Orc06ForlornSpirit1
 STRING 3792
 // Items: I1La (WC2Orc06ForlornSpirit2), Tip (Tooltip - Basic)
 {
-Forlorn
+Самотній дух
 }
 
 STRING 3793
 // Items: I1La (WC2Orc06ForlornSpirit2), Description (Description)
 {
-Yes, yes it would be…..please free them…
+Так, так, це було б… будь ласка, звільни їх…
 }
 
 STRING 3794
@@ -3686,13 +3684,13 @@ WC2Orc06ForlornSpirit2
 STRING 3795
 // Items: I1Lb (WC2Orc06Kilrogg_EnterCamp1), Tip (Tooltip - Basic)
 {
-Kilrogg Deadeye
+Кілроґ Мертве Око
 }
 
 STRING 3796
 // Items: I1Lb (WC2Orc06Kilrogg_EnterCamp1), Description (Description)
 {
-Aaaah Chieftain Zuluhed! It is a great pleasure to welcome a fellow old warrior to my camp. We’ve been expecting you.
+Ааа отамане Зулугед! Це велика честь вітати поважного старого шамана у моєму таборі! Ми чекали на тебе.
 }
 
 STRING 3797
@@ -3704,13 +3702,13 @@ WC2Orc06Kilrogg_EnterCamp1
 STRING 3798
 // Items: I1Lc (WC2Orc06Kilrogg_EnterCamp2), Tip (Tooltip - Basic)
 {
-Kilrogg Deadeye
+Кілроґ Мертве Око
 }
 
 STRING 3799
 // Items: I1Lc (WC2Orc06Kilrogg_EnterCamp2), Description (Description)
 {
-Whatever you say, brute… follow me to the ramp, the dwarven city of Grim Batol lies right above us.
+Як скажеш, звірюко… Йдемо до входу, дварфійське місто Ґрім-Батол просто перед нами.
 }
 
 STRING 3800
@@ -3722,13 +3720,13 @@ WC2Orc06Kilrogg_EnterCamp2
 STRING 3801
 // Items: I1Ld (WC2Orc06Kilrogg1), Tip (Tooltip - Basic)
 {
-Kilrogg Deadeye
+Кілроґ Мертве Око
 }
 
 STRING 3802
 // Items: I1Ld (WC2Orc06Kilrogg1), Description (Description)
 {
-True, this place feels cursed however… my warriors did not dare to enter…
+То є правда, але це місце відчувається проклятим… мої воїни не наважилися увійти…
 }
 
 STRING 3803
@@ -3740,13 +3738,13 @@ WC2Orc06Kilrogg1
 STRING 3804
 // Items: I1Le (WC2Orc06Kilrogg2), Tip (Tooltip - Basic)
 {
-Kilrogg Deadeye
+Кілроґ Мертве Око
 }
 
 STRING 3805
 // Items: I1Le (WC2Orc06Kilrogg2), Description (Description)
 {
-I can’t imagine what Doomhammer sees in that Sorcerer… I do not trust him one bit.
+Навіть не можу уявити, що Молот Згуби побачив у цьому "чарівнику"… Я йому не довіряю анітрохи.
 }
 
 STRING 3806
@@ -3758,13 +3756,13 @@ WC2Orc06Kilrogg2
 STRING 3807
 // Items: I1Lf (WC2Orc06Kilrogg3), Tip (Tooltip - Basic)
 {
-Kilrogg Deadeye
+Кілроґ Мертве Око
 }
 
 STRING 3808
 // Items: I1Lf (WC2Orc06Kilrogg3), Description (Description)
 {
-Of course, young shaman, you may have it.
+Звісно юний шамане, бери.
 }
 
 STRING 3809
@@ -3776,13 +3774,13 @@ WC2Orc06Kilrogg3
 STRING 3810
 // Items: I1Lg (WC2Orc06Knight_StromgardeCamp1), Tip (Tooltip - Basic)
 {
-Captain
+Капітан з Стромварту
 }
 
 STRING 3811
 // Items: I1Lg (WC2Orc06Knight_StromgardeCamp1), Description (Description)
 {
-Men! We’re under attack! Destroy these monsters in the name of our king! For Stromgarde! For Trollbane!
+Люди! На нас напали. Іменем короля знищіть цих чудовиськ. За Стромварт! За Тролебоя!
 }
 
 STRING 3812
@@ -3794,13 +3792,13 @@ WC2Orc06Knight_StromgardeCamp1
 STRING 3813
 // Items: I1Lh (WC2Orc06DironCaptain_encounter1), Tip (Tooltip - Basic)
 {
-Dwarf Ghost
+Привид двофра
 }
 
 STRING 3814
 // Items: I1Lh (WC2Orc06DironCaptain_encounter1), Description (Description)
 {
-For the Dark Iron!
+За клан Темного Заліза!
 }
 
 STRING 3815
@@ -3812,13 +3810,13 @@ WC2Orc06DironCaptain_encounter1
 STRING 3816
 // Items: I1Li (WC2Orc06DwarfKnight_IronforgeCamp1), Tip (Tooltip - Basic)
 {
-Dwarf
+Дворф
 }
 
 STRING 3817
 // Items: I1Li (WC2Orc06DwarfKnight_IronforgeCamp1), Description (Description)
 {
-The Greenskins are back! Fight for ya lives ladies!
+Зеленошкірі повернулися! Давайте дівчатка, бийтеся за своє життя!
 }
 
 STRING 3818
@@ -3830,13 +3828,13 @@ WC2Orc06DwarfKnight_IronforgeCamp1
 STRING 3819
 // Items: I1Lj (WC2Orc06Footman_StromgardeCamp1), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець з Стромварту
 }
 
 STRING 3820
 // Items: I1Lj (WC2Orc06Footman_StromgardeCamp1), Description (Description)
 {
-The Orcs are here!
+Орки вже тут!
 }
 
 STRING 3821
@@ -3848,13 +3846,14 @@ WC2Orc06Footman_StromgardeCamp1
 STRING 3822
 // Items: I1Lk (WC2Orc06Chogall1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3823
 // Items: I1Lk (WC2Orc06Chogall1), Description (Description)
 {
-|cffffcc00Cho:|r Greetings. We have been expecting you for some time, little orcs. |n|cffffcc00Gall:|r And it took you long enough to arrive. We have been rotting here in this festering PUTRID swamp for days!
+|cffffcc00Чо:|r Вітаємо. Ми вже давненько на вас чекаємо, орченята. 
+|n|cffffcc00Ґалл:|r Щось ви довго барилися аби прибути. Ми вже кілька днів гниємо в цьому смердючому болоті!
 }
 
 STRING 3824
@@ -3866,13 +3865,13 @@ WC2Orc06Chogall1
 STRING 3825
 // Items: I1Ll (WC2Orc06Chogall2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3826
 // Items: I1Ll (WC2Orc06Chogall2), Description (Description)
 {
-|cffffcc00Cho:|r No… that will not be required, but the unbeliever better mind his words in the future! We are sworn to the Warchief just as much as any other clan.|n|cffffcc00Gall:|r Unless you want to press this matter? Doomhammer would not be pleased if you endangered the unity of the Horde by acting rashly…
+|cffffcc00Чо:|r Ні… в цьому нема потреби, але непосвяченим варто було б обдумувати свої слова на майбутнє. Наш клан присягнув вождю як у всі інші.|n|cffffcc00Ґалл:|r  Ти ж не хочеш поставити це під сумнів? Молот Згуби буде дуже не задоволений якщо ти поставиш під загрозу єдність орди своїми необачними діями…
 }
 
 STRING 3827
@@ -3884,13 +3883,13 @@ WC2Orc06Chogall2
 STRING 3828
 // Items: I1Lm (WC2Orc06Chogall3), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3829
 // Items: I1Lm (WC2Orc06Chogall3), Description (Description)
 {
-|cffffcc00Cho:|r Yes! We don’t have time for these base exchanges! |n|cffffcc00Gall:|r We’re all ‘friends’ and soldiers for the Warchief, afterall.
+|cffffcc00Чо:|r Так! У нас нема часу на цей обмін люб'язностями! |n|cffffcc00Ґалл:|r В решті решт ми всі "друзі" і слугуємо вождю.
 }
 
 STRING 3830
@@ -3902,13 +3901,13 @@ WC2Orc06Chogall3
 STRING 3831
 // Items: I1Ln (WC2Orc06Chogall4), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3832
 // Items: I1Ln (WC2Orc06Chogall4), Description (Description)
 {
-|cffffcc00Cho:|r We are to head through these dangerous swamps to the dwarven stronghold of Grim Batol. The Bleeding Hollow clan awaits us there. After that we will depart to the eastern shores to inspect our oil refineries.
+|cffffcc00Чо:|r Нам треба пройти через ці небезпечні болота до дворфійської фортеці Ґрім-Батол. Там на нас чекає клан Кривавої Очниці. Після цього вирушимо на східні береги, щоб оглянути наші нафтопереробні заводи.
 }
 
 STRING 3833
@@ -3920,13 +3919,13 @@ WC2Orc06Chogall4
 STRING 3834
 // Items: I1Lo (WC2Orc06Chogall5), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3835
 // Items: I1Lo (WC2Orc06Chogall5), Description (Description)
 {
-|cffffcc00Gall:|r However, one problem stands in our way. Humans and dwarves roam this place in great numbers, and we don’t have the time to attack them directly.
+|cffffcc00Ґалл:|r Втім, є одна проблема яка стоїть у нас на шляху. Люди та дворфи кочують цією місцевістю у великій кількості, окрім того, оскільки у нас обмаль часу ми не зможемо отаборитися, аби мати час перебити їх усіх…
 }
 
 STRING 3836
@@ -3938,13 +3937,13 @@ WC2Orc06Chogall5
 STRING 3837
 // Items: I1Lp (WC2Orc06Chogall6), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3838
 // Items: I1Lp (WC2Orc06Chogall6), Description (Description)
 {
-|cffffcc00Cho:|r Yes, Zuluhed… the refineries have to meet their quotas, or our Warchief will have our heads. |n|cffffcc00Gall:|r Then all of us will rejoin the void.
+|cffffcc00Чо:|r Так, Зулугеде… нафтопереробні заводи мають обробити необхідний обсяг нафти, або вождь відрубає наші голови. |n|cffffcc00Ґалл:|r І тоді ми всі повернемось в пустоту.
 }
 
 STRING 3839
@@ -3956,13 +3955,13 @@ WC2Orc06Chogall6
 STRING 3840
 // Items: I1Lq (WC2Orc06Chogall_BHollowCamp1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3841
 // Items: I1Lq (WC2Orc06Chogall_BHollowCamp1), Description (Description)
 {
-|cffffcc00Cho:|r The dwarves? HA! We have already slain them all! |n|cffffcc00Gall:|r They have been devoured by the void!
+|cffffcc00Чо:|r Дворфи? Ха! Ми вже вбили їх усіх! |n|cffffcc00Ґалл:|r Вони були пожерті пустотою!
 }
 
 STRING 3842
@@ -3974,13 +3973,13 @@ WC2Orc06Chogall_BHollowCamp1
 STRING 3843
 // Items: I1Lr (WC2Orc06Chogall_BHollowCamp1a), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3844
 // Items: I1Lr (WC2Orc06Chogall_BHollowCamp1a), Description (Description)
 {
-|cffffcc00Cho:|r HA! We have already slain them all! |n|cffffcc00Gall:|r They have been devoured by the void!
+|cffffcc00Чо:|r Людей? Ха! Ми вже вбили їх усіх! |n|cffffcc00Ґалл:|r Вони були пожерті пустотою!
 }
 
 STRING 3845
@@ -3992,13 +3991,13 @@ WC2Orc06Chogall_BHollowCamp1a
 STRING 3846
 // Items: I1Ls (WC2Orc06Chogall_BHollowCamp2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3847
 // Items: I1Ls (WC2Orc06Chogall_BHollowCamp2), Description (Description)
 {
-|cffffcc00Cho:|r You mean that you’ve been expecting us, old orc! The Warchief gave this mission to us, not to them!
+|cffffcc00Чо:|r Ти мав на увазі, що чекаєш нас, старий орк! Вождь доручив це завдання нам, а не їм.
 }
 
 STRING 3848
@@ -4010,13 +4009,13 @@ WC2Orc06Chogall_BHollowCamp2
 STRING 3849
 // Items: I1Lt (WC2Orc06Chogall_BrokenBridge1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3850
 // Items: I1Lt (WC2Orc06Chogall_BrokenBridge1), Description (Description)
 {
-|cffffcc00Cho:|r Ahh this damn swamp, get us out here brother!
+|cffffcc00Чо:|r Кляті болота, вибираймось звідси брате!
 }
 
 STRING 3851
@@ -4028,13 +4027,13 @@ WC2Orc06Chogall_BrokenBridge1
 STRING 3852
 // Items: I1Lu (WC2Orc06Chogall_BrokenBridge2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3853
 // Items: I1Lu (WC2Orc06Chogall_BrokenBridge2), Description (Description)
 {
-|cffffcc00Cho:|r That's better!
+|cffffcc00Чо:|r Так краще!
 }
 
 STRING 3854
@@ -4046,13 +4045,13 @@ WC2Orc06Chogall_BrokenBridge2
 STRING 3855
 // Items: I1Lv (WC2Orc06Chogall_Crosspath1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3856
 // Items: I1Lv (WC2Orc06Chogall_Crosspath1), Description (Description)
 {
-|cffffcc00Gall:|r Ha-ha-ha-ha-ha!|n|cffffcc00Cho:|r Don’t be afraid, little orc. This spell is called  ”The eye of Kilrogg” and was originally practiced by the Bleeding Hollow ritualists. We have perfected this spell, and now it will show us the way forward.
+|cffffcc00cГалл:|r Хa-хa-хa-хa-хa!|n|cffffcc00Чо:|r Не варто боятися, маленький орк. Це закляття зветься "Око Кілроґа", і спочатку його практикували орки з клану кривавої очниці. Ми вдосконалили це закляття, і тепер воно покаже нам дорогу далі.
 }
 
 STRING 3857
@@ -4064,13 +4063,13 @@ WC2Orc06Chogall_Crosspath1
 STRING 3858
 // Items: I1Lw (WC2Orc06Chogall_Crosspath2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3859
 // Items: I1Lw (WC2Orc06Chogall_Crosspath2), Description (Description)
 {
-|cffffcc00Gall:|r  The road leading to the right passes through a camp of seasoned dwarven warriors. We do not think that they will be happy to see us.
+|cffffcc00Ґалл:|r Стежина праворуч лежить через табір досвідчених дворфійських воїнів. Ми не думаємо що вони будуть дуже щасливі від зустрічі з нами.
 }
 
 STRING 3860
@@ -4082,13 +4081,13 @@ WC2Orc06Chogall_Crosspath2
 STRING 3861
 // Items: I1Lx (WC2Orc06Chogall_Crosspath3), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3862
 // Items: I1Lx (WC2Orc06Chogall_Crosspath3), Description (Description)
 {
-|cffffcc00Cho:|r  If we go to the left, we will have to wade through a host of Stromgarde troops. Their arrows could be very dangerous to us.
+||cffffcc00Чо:|r Якщо рушимо стежиною ліворуч, треба буде пройти через війська людей Стомварту. Їх лучники досить небезпечні.
 }
 
 STRING 3863
@@ -4100,13 +4099,13 @@ WC2Orc06Chogall_Crosspath3
 STRING 3864
 // Items: I1Ly (WC2Orc06Chogall_Stromgarde_Ironforge1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3865
 // Items: I1Ly (WC2Orc06Chogall_Stromgarde_Ironforge1), Description (Description)
 {
-|cffffcc00Cho:|r That is a great victory for the Horde! The warchief will be pleased! We killed so many! |cffffcc00Gall:|r Yes… we did, YESS WE DID!
+|cffffcc00Чо:|r Славетна перемога для Орди! Вождь буде задоволений! Ми вбили багатьох! |cffffcc00Ґалл:|r Таааак… ми вбили, ТАК МИ ВБИЛИ!
 }
 
 STRING 3866
@@ -4118,19 +4117,19 @@ WC2Orc06Chogall_Stromgarde_Ironforge1
 STRING 3867
 // Units: h61U (Ghost), Name (Name)
 {
-Ghost
+Привид двофра
 }
 
 STRING 3868
 // Items: I1lP (WC2Orc06Chogall_Ambush1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3869
 // Items: I1lP (WC2Orc06Chogall_Ambush1), Description (Description)
 {
-|cffffcc00Cho:|r Bah! These Human scum have been a nuisance for weeks! |cffffcc00Gall:|r Yes! Yes! Their souls must be devoured!
+|cffffcc00Чо:|r Бам! Це людське сміття докучало нам протягом тижнів! |cffffcc00Ґалл:|r Так! Так! Треба пожерти їх душі!
 }
 
 STRING 3870
@@ -4142,25 +4141,25 @@ WC2Orc06Chogall_Ambush1
 STRING 3872
 // Items: I0Lh (WC2Orc06BHollowGrunt_FirstQuest2), Tip (Tooltip - Basic)
 {
-Orc
+Звільненний дикун з клану Кривавої Очниці
 }
 
 STRING 3873
 // Items: I0Lf (WC2Orc06BHollowGrunt_Free1), Description (Description)
 {
-Throm'ka Chieftain! Thank you for your aid.
+Тром'ка Отмане, дякую за твою допомогу.
 }
 
 STRING 3874
 // Items: I0LA (WC2Orc06Zuluhed11), Description (Description)
 {
-I will stay here for a while, Kilrogg, as my old bones are in need of some rest.
+Я поки лишусь тут на якийсь час Кілроґ, бо мої старі кістки потребують відпочинку після таких пригод.
 }
 
 STRING 3875
 // Units: o61U (Defense Tower), Name (Name)
 {
-Defense Tower
+Дворфійська оборонна вежа
 }
 
 STRING 3876
