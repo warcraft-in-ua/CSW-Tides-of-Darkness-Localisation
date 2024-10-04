@@ -20,16 +20,16 @@ STRING 240
 
 STRING 241
 {
-Dragonmaw clan
+Клан Драконової Пащі
 }
 
 STRING 255
 {
-|cffffcc00MAIN QUEST|r
-Dragon Soul
-  - Secure the Artifact
-  - Exit the cave
-  - Зулугед Змучений must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Душа дракона
+  - Знайдіть артефакт
+  - Знайдіть вихід з печер
+  - Зулугед має вижити
 }
 
 STRING 267
@@ -45,7 +45,7 @@ STRING 303
 
 STRING 306
 {
-Goblins
+Ґобліни
 }
 
 STRING 307
@@ -182,7 +182,7 @@ Train Miner
 STRING 407
 // Units: h603 (Guardsman), Name (Name)
 {
-Guardsman
+Гвардієць
 }
 
 STRING 408
@@ -218,7 +218,7 @@ STRING 417
 STRING 418
 // Units: n603 (Shadowforge Golem), Name (Name)
 {
-Shadowforge Golem
+Тінегорновий голем
 }
 
 STRING 419
@@ -230,7 +230,7 @@ Build Shadowforge Golem
 STRING 432
 // Units: h607 (Dwarven Cannon), Name (Name)
 {
-Dwarven Cannon
+Дварфійська гармата
 }
 
 STRING 433
@@ -246,9 +246,9 @@ Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground
 }
 
 STRING 436
-// Units: n606 (Orc Tent), Name (Name)
+// Units: n606 (Orc Намет), Name (Name)
 {
-Orc Tent
+Orc Намет
 }
 
 STRING 487
@@ -290,7 +290,7 @@ STRING 704
 STRING 705
 // Units: h61D (Settlement), Name (Name)
 {
-Settlement
+Поселення
 }
 
 STRING 712
@@ -326,7 +326,7 @@ Just a mallard
 STRING 737
 // Units: h61O (Mountain Cavalier), Name (Name)
 {
-Mountain Cavalier
+Гірський піхотинець
 }
 
 STRING 738
@@ -342,7 +342,7 @@ Train Mountain Cavalier
 }
 
 STRING 740
-// Units: n00K (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: n00K (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Troll)
 }
@@ -356,41 +356,41 @@ Orcish Stone Wall
 STRING 760
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Стіна з шипами
 }
 
 STRING 761
 // Doodads: D61D (Spike Wall), Name (Name)
 {
-Spike Wall
+Стіна з шипами
 }
 
 STRING 770
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 771
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 772
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 773
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 774
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -404,7 +404,7 @@ Tumbleweed
 STRING 785
 // Units: O61T (Dragon Queen), Name (Name)
 {
-Dragon Queen
+Королева драконів
 }
 
 STRING 787
@@ -428,19 +428,19 @@ Raven
 STRING 853
 // Units: n60Z (Spiders), Name (Name)
 {
-Spiders
+Павуки
 }
 
 STRING 854
 // Units: n60Z (Spiders), Tip (Tooltip - Basic)
 {
-Spiders
+Павуки
 }
 
 STRING 870
 // Units: h61T (Anvilguard), Name (Name)
 {
-Anvilguard
+Вартовий ковальні
 }
 
 STRING 871
@@ -458,13 +458,13 @@ STRING 929
 STRING 930
 // Units: h61W (Mountaineer), Name (Name)
 {
-Mountaineer
+Гірський піхотинець
 }
 
 STRING 938
 // Units: o61S (Bunker), Name (Name)
 {
-Bunker
+Бункер
 }
 
 STRING 939
@@ -488,7 +488,7 @@ STRING 945
 STRING 947
 // Units: h61Z (Sawmill), Name (Name)
 {
-Sawmill
+Лісопильня
 }
 
 STRING 948
@@ -500,85 +500,85 @@ Build Sawmill
 STRING 951
 // Units: h618 (Pack Ram), Name (Name)
 {
-Pack Ram
+Транспортний баран
 }
 
 STRING 952
-// Units: n61O (Wild Ram), Name (Name)
+// Units: n61O (Дикий баран), Name (Name)
 {
-Wild Ram
+Дикий баран
 }
 
 STRING 953
-// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+// Units: n61O (Дикий баран), EditorSuffix (Name - Editor Suffix)
 {
 (Gray)
 }
 
 STRING 954
-// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+// Units: n61O (Дикий баран), Tip (Tooltip - Basic)
 {
 Invoke Ram
 }
 
 STRING 955
-// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+// Units: n61O (Дикий баран), Ubertip (Tooltip - Extended)
 {
-Wild Ram. It can be dangerous!
+Дикий баран. It can be dangerous!
 }
 
 STRING 956
-// Units: n61P (Wild Ram), Name (Name)
+// Units: n61P (Дикий баран), Name (Name)
 {
-Wild Ram
+Дикий баран
 }
 
 STRING 957
-// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+// Units: n61P (Дикий баран), EditorSuffix (Name - Editor Suffix)
 {
 (Black)
 }
 
 STRING 958
-// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+// Units: n61P (Дикий баран), Tip (Tooltip - Basic)
 {
 Invoke Ram
 }
 
 STRING 959
-// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+// Units: n61P (Дикий баран), Ubertip (Tooltip - Extended)
 {
-Wild Ram. It can be dangerous!
+Дикий баран. It can be dangerous!
 }
 
 STRING 960
-// Units: n61Q (Wild Ram), Name (Name)
+// Units: n61Q (Дикий баран), Name (Name)
 {
-Wild Ram
+Дикий баран
 }
 
 STRING 961
-// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+// Units: n61Q (Дикий баран), EditorSuffix (Name - Editor Suffix)
 {
 (Brown)
 }
 
 STRING 962
-// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+// Units: n61Q (Дикий баран), Tip (Tooltip - Basic)
 {
 Invoke Ram
 }
 
 STRING 963
-// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+// Units: n61Q (Дикий баран), Ubertip (Tooltip - Extended)
 {
-Wild Ram. It can be dangerous!
+Дикий баран. It can be dangerous!
 }
 
 STRING 1008
 // Units: n00C (Tavern), Name (Name)
 {
-Tavern
+Корчма
 }
 
 STRING 1030
@@ -668,13 +668,13 @@ Big Door
 STRING 1203
 // Destructibles: B62R (Old Tomb), Name (Name)
 {
-Old Tomb
+Стародавня могила
 }
 
 STRING 1205
 // Destructibles: B62T (Egg), Name (Name)
 {
-Egg
+Яйце
 }
 
 STRING 1209
@@ -794,7 +794,7 @@ STRING 1230
 STRING 1232
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Скриня
 }
 
 STRING 1233
@@ -1538,13 +1538,13 @@ Cinematic Head Pointer
 STRING 2808
 // Units: n00Y (Eagle), Name (Name)
 {
-Eagle
+Орел
 }
 
 STRING 2928
 // Units: n02U (Wyrm Hunter), Tip (Tooltip - Basic)
 {
-Train Hunter
+Тренувати мисливця на драконів
 }
 
 STRING 2968
@@ -1772,7 +1772,7 @@ Wooden Floor Tol Barad
 STRING 3089
 // Destructibles: B01Z (Cannon Shells), Name (Name)
 {
-Cannon Shells
+Гарматні снаряди
 }
 
 STRING 3090
@@ -2191,7 +2191,7 @@ Dungeon Column Massive
 
 STRING 3445
 {
-Dark Iron Clan
+Клан Темного Заліза
 }
 
 STRING 3446
@@ -2202,12 +2202,12 @@ Horde
 STRING 3454
 // Units: h609 (Goblin Engineer), Name (Name)
 {
-Goblin Engineer
+Ґоблінський інженер
 }
 
 STRING 3545
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 3546
@@ -2242,7 +2242,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 3552
 {
-Unholy
+Нечестивість
 }
 
 STRING 3561
@@ -2254,7 +2254,7 @@ Build Boat
 STRING 3574
 // Units: e002 (Mine Cart), Name (Name)
 {
-Mine Cart
+Візок шахтаря
 }
 
 STRING 3575
@@ -2644,7 +2644,7 @@ Pathing Blocker (Ground) (ExtramifddleLarge)
 STRING 3641
 // Units: n02H (Captured Outpost), Name (Name)
 {
-Captured Outpost
+Захоплений форпост
 }
 
 STRING 3647
@@ -2776,7 +2776,7 @@ STRING 3684
 STRING 3688
 // Destructibles: B61A (Gold Cart), Name (Name)
 {
-Gold Cart
+Візок золота
 }
 
 STRING 3689
@@ -2788,37 +2788,37 @@ STRING 3689
 STRING 3694
 // Units: n02I (Lesser Air Elemental), Name (Name)
 {
-Lesser Air Elemental
+Малий елементаль повітря
 }
 
 STRING 3695
 // Units: n02J (Greater Air Elemental), Name (Name)
 {
-Greater Air Elemental
+Великий елементаль повітря
 }
 
 STRING 3697
 // Units: n02M (Enraged Air Elemental), Name (Name)
 {
-Enraged Air Elemental
+Розлючений елементаль повітря
 }
 
 STRING 3698
 // Items: I000 (Totem of Wind), Name (Name)
 {
-Totem of Wind
+Тотем повітря
 }
 
 STRING 3699
 // Items: I000 (Totem of Wind), Description (Description)
 {
-A totem.
+Тотем.
 }
 
 STRING 3700
 // Items: I000 (Totem of Wind), Tip (Tooltip - Basic)
 {
-Mysterious artifact.
+Загадковий артефакт.
 }
 
 STRING 3714
@@ -2836,7 +2836,7 @@ STRING 3715
 STRING 3716
 // Destructibles: B029 (Ancient Chest), Name (Name)
 {
-Ancient Chest
+Стародавня скриня
 }
 
 STRING 3717
@@ -2854,13 +2854,13 @@ STRING 3719
 STRING 3724
 // Units: n033 (Guard), Name (Name)
 {
-Guard
+Стародавній вартовий
 }
 
 STRING 3732
 // Destructibles: B02A (Old Tomb), Name (Name)
 {
-Old Tomb
+Стародавня могила
 }
 
 STRING 3733
@@ -2872,25 +2872,25 @@ STRING 3733
 STRING 3734
 // Destructibles: B02B (Gem Pedestal), Name (Name)
 {
-Gem Pedestal
+П'єдестал для дорогоцінного каменю
 }
 
 STRING 3736
 // Items: I003 (Dwarven Ring of Power), Name (Name)
 {
-Dwarven Ring of Power
+Дворфійський перстень сили
 }
 
 STRING 3738
 // Items: I003 (Dwarven Ring of Power), Tip (Tooltip - Basic)
 {
-Dwarven Ring.
+Дворфійський перстень.
 }
 
 STRING 3743
 // Units: n02P (Dwarven Lord), Name (Name)
 {
-Dwarven Lord
+Дворфійський лорд
 }
 
 STRING 3745
@@ -2919,7 +2919,7 @@ Geyser Carvern (Pathless)
 
 STRING 3756
 {
-Elementals
+Елементалі
 }
 
 STRING 3757
@@ -2942,13 +2942,13 @@ Dragonmaw Clan
 STRING 3779
 // Items: I004 (Fire Essence), Name (Name)
 {
-Fire Essence
+Есенція вогню
 }
 
 STRING 3780
 // Items: I004 (Fire Essence), Description (Description)
 {
-Quest Item.
+Предмет необхідний для завдання.
 }
 
 STRING 3781
@@ -2990,7 +2990,7 @@ Axe Door
 STRING 3790
 // Units: Ntin (Tinker), Propernames (Proper Names)
 {
-Vincent the Turncoat
+Вінсент Перебіжчик
 }
 
 STRING 3799
@@ -3139,7 +3139,7 @@ Skeleton Prop
 STRING 3853
 // Destructibles: B02I (Ancient Urn), Name (Name)
 {
-Ancient Urn
+Стародавня урна
 }
 
 STRING 3854
@@ -3151,7 +3151,7 @@ STRING 3854
 STRING 3855
 // Destructibles: B02J (Ancient Urn), Name (Name)
 {
-Ancient Urn
+Стародавня урна
 }
 
 STRING 3856
@@ -3163,7 +3163,7 @@ STRING 3856
 STRING 3857
 // Destructibles: B02K (Clay Pot), Name (Name)
 {
-Clay Pot
+Глиняний горщик
 }
 
 STRING 3858
@@ -3222,7 +3222,7 @@ Remains Scorched (Default)
 
 STRING 3868
 {
-Ogres
+Оґри зрадники
 }
 
 STRING 3869
@@ -3245,13 +3245,13 @@ STRING 3871
 STRING 3876
 // Units: O007 (Ancient Dragon), Propernames (Proper Names)
 {
-Orastrasz
+Орастраж
 }
 
 STRING 3878
 // Units: O008 (Ancient Dragon), Propernames (Proper Names)
 {
-Orastrasz
+Орастраж
 }
 
 STRING 3924
@@ -3358,13 +3358,13 @@ Redridge Fissure 1
 STRING 3973
 // Units: O61G (Dragon Queen), Propernames (Proper Names)
 {
-Alexstrasza
+Алекстраза
 }
 
 STRING 3974
 // Units: O61T (Dragon Queen), Propernames (Proper Names)
 {
-Alexstrasza
+Алекстраза
 }
 
 STRING 3999
@@ -3379,24 +3379,24 @@ STRING 4000
 
 STRING 4008
 {
-|cffffcc00OPTIONAL QUEST|r
-Dwarves
-  - Destroy the dwarven camp
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Дворфи
+  - Знищіть дворфійський табір
 }
 
 STRING 4017
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Recruit Ogres
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Вербовка оґрів
 }
 
 STRING 4067
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Dragon Soul
-  - |cff808080Secure the Artifact (Completed)|r
-  - Exit the cave
-  - Зулугед Змучений must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Душа дракона
+  - |cff808080Знайдіть артефакт (Завершено)|r
+  - Знайдіть вихід з печер
+  - Зулугед має вижити
 }
 
 STRING 4071
@@ -3412,13 +3412,13 @@ STRING 4072
 STRING 4073
 // Units: nspp (Wild Pig), Name (Name)
 {
-Wild Pig
+Дикий кабан
 }
 
 STRING 4074
 // Units: n036 (Eagle), Name (Name)
 {
-Eagle
+Орел
 }
 
 STRING 4098
@@ -3428,14 +3428,14 @@ Unable to target Ogres.
 
 STRING 4104
 {
-|cffffcc00MISSION FAILED|r
-The Guardian
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+Вартовий
 }
 
 STRING 4120
 {
-|cff32cd32HINT|r
-Алекстраза will not attack your camp anymore. Its time to defeat her right at her nest!
+|cff32cd32ПІДКАЗКА|r
+Алексатраза більше не буде атакувати ваш табір. Настав час вирушити у її гніздо і підкорити рід багряних драконів
 }
 
 STRING 4125
@@ -3447,25 +3447,25 @@ Geyser (pathless)
 STRING 4128
 // Units: o006 (Goblin Boat), Name (Name)
 {
-Goblin Boat
+Ґоблінський човен
 }
 
 STRING 4129
 // Units: o001 (Goblin Boat), Name (Name)
 {
-Goblin Boat
+Ґоблінський човен
 }
 
 STRING 4130
 // Units: O007 (Ancient Dragon), Name (Name)
 {
-Ancient Dragon
+Древній дракон
 }
 
 STRING 4132
 // Units: O008 (Ancient Dragon), Name (Name)
 {
-Ancient Dragon
+Древній дракон
 }
 
 STRING 4134
@@ -3603,19 +3603,19 @@ STRING 4189
 STRING 4191
 // Units: h00E (Gold Coin), Name (Name)
 {
-Gold Coin
+Золота монета
 }
 
 STRING 4192
 // Units: h00E (Gold Coin), Tip (Tooltip - Basic)
 {
-Gold Coin
+Золота монета
 }
 
 STRING 4195
 // Units: ngbl (Goblin Blaster), Tip (Tooltip - Basic)
 {
-Hire Blaster
+Найняти «Бластер»
 }
 
 STRING 4196
@@ -3627,13 +3627,13 @@ STRING 4196
 STRING 4206
 // Units: h00F (Dragon Egg), Name (Name)
 {
-Dragon Egg
+Яйце дракона
 }
 
 STRING 4207
 // Units: h00G (Dragon Egg), Name (Name)
 {
-Dragon Egg
+Яйце дракона
 }
 
 STRING 4208
@@ -3645,7 +3645,7 @@ STRING 4208
 STRING 4212
 // Units: ngbl (Goblin Blaster), Ubertip (Tooltip - Extended)
 {
-Medium ranged unit made of iron. |n|n|cffffcc00Attacks air and land units.|r
+Бойова одиниця середньої дальності зроблена з заліза. |n|n|cffffcc00Може атакувати наземні та повітряні цілі.|r
 }
 
 STRING 4217
@@ -3669,7 +3669,7 @@ STRING 4219
 STRING 4220
 // Units: ugho (Corrupted Halfling), Name (Name)
 {
-Corrupted Halfling
+Збожеволілий гобіт
 }
 
 STRING 4221
@@ -3698,7 +3698,7 @@ STRING 4229
 
 STRING 4235
 {
-Red Dragonflight
+Рід багряних драконів
 }
 
 STRING 4236
@@ -3728,7 +3728,7 @@ Rocks (REDRIDGE)
 STRING 4240
 // Items: mgtk (Goblin Key), Name (Name)
 {
-Goblin Key
+Ґоблінський ключ
 }
 
 STRING 4241
@@ -3740,28 +3740,29 @@ Purchase Goblin Key
 STRING 4243
 // Items: mgtk (Goblin Key), Description (Description)
 {
-Goblin Key
+Ґоблінський ключ
 }
 
 STRING 4244
 // Units: n02U (Wyrm Hunter), Ubertip (Tooltip - Extended)
 {
-Versitile orc ranged warrior, effective against air units.
-Abilities: Defend - Marksmaship - Improved Ranged Weapons - Ensnare
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: Захищатися — Влучність — Покращена зброя дальнього бою — Оплутати
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 4245
 {
-|cff8080ffNEW HERO|r
-Nekros Skullcrusher. Orcish Warlock. Skillfull caster that can greatly weaken enemies with his curses and "Fear" ability. 
+|cff8080ffНОВИЙ ГЕРОЙ|r
+Некрос Дробитель Черепів. Могутній орк чорнокнижник який здатен суттєво послабити ворогів своїми прокляттями та здібностю «Страх».
 }
 
 STRING 4246
 {
-|cff8080ffNEW SEMI-HERO|r
-Тарбек. Ruthless and violent slave master that has ambitions to become warchiefs second in command. Envious of Utok Scratcher's talent and glory. 
+|cff8080ffНОВИЙ НАПІВГЕРОЙ|r
+Капітан «Тарбек». Безжальний та жорстокий рабовласник який має амбіції стати правою рукою вождя. Заздрить славі та талантам які має Уток Дряпач.
 }
 
 STRING 4249
@@ -3773,224 +3774,223 @@ STRING 4249
 STRING 4251
 // Units: nSZW (Hatch), Name (Name)
 {
-Hatch
+Люк
 }
 
 STRING 4252
 {
-Dragon Soul
+Душа дракона
 }
 
 STRING 4253
 {
-The Mysterious Чорний дракон claims that the ancient artifact is the key to enslave the Red Dragons and their queen, find it and claim it for the horde!
+Загадковий чорний дракон стверджує, що древній артефакт є ключем до підкорення багряних драконів та їх королеви, в ім'я Орди треба його знайти!
 }
 
 STRING 4254
 {
-Secure the Artifact
+Знайдіть артефакт
 }
 
 STRING 4255
 {
-Зулугед Змучений must survive
+Зулугед має вижити
 }
 
 STRING 4256
 {
-Blastin’ with the Goblin
+Ґоблінський підрив
 }
 
 STRING 4257
 {
-In order to delve deeper into the cave and open the ancient door, Зулугед Змучений must acquire a fire essence from a fire elemental and retrieve it back to Vincent to make a special kind of bomb.
+Аби пройти далі у печери необхідно відкрити стародавні двері, Зулугед добути есенцію вогню принести її Вінсенту аби той міг зробити спеціальну потужну бомбу.
 
 }
 
 STRING 4258
 {
-Recover a Fire Essence for Vincent the Turncoat
+Знайдіть есенцію вогню для Вінсента Перебіжчика
 }
 
 STRING 4260
 {
-|cffffcc00MAIN QUEST|r
-Blastin’ with the Goblin
-  - Recover a Fire Essence for Vincent the Turncoat
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Ґоблінський підрив
+  - Знайдіть есенцію вогню для Вінсета Перебіжчика
 }
 
 STRING 4261
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Blastin’ with the Goblin
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Ґоблінський підрив
 }
 
 STRING 4269
 {
-|cffffcc00MAIN QUEST|r
-The Guardian
-  - Defeat Orastrasz
-  - Зулугед Змучений must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Вартовий
+  - Переможіть Орастража
+  - Зулугед має вижити
 }
 
 STRING 4270
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-The Guardian
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Вартовий
 }
 
 STRING 4271
 {
-The Guardian
+Вартовий
 }
 
 STRING 4272
 {
-The ancient Dragon is guarding the artifact. Kill him in order to safely leave the chamber.
+Древній дракон захищає артефакт. Вбийте його аби безпечно вибратись звідси.
 }
 
 STRING 4273
 {
-Defeat Orastrasz
+Переможіть Орастража
 }
 
 STRING 4274
 {
-Зулугед Змучений must survive
+Зулугед має вижити
 }
 
 STRING 4282
 {
-|cffffcc00MAIN QUEST|r
-Mother of Dragons
-  - Enslave Alexstrasza
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Мати драконів
+  - Підкоріть Алекстразу
 }
 
 STRING 4283
 {
-Mother of Dragons
+Мати драконів
 }
 
 STRING 4284
 {
-Reach the lair of Dragonqueen and prove your power over her kin. Use Dragon Soul artifact to enslave her dragons and turn them against their own mother. This is the only way to defeat her!
+Вам необхідно дійти до лігва королеви та підкорити рід багряних драконів. За допомогою артефакту «Душа дракона» підкорюйте всіх драконів на своєму шляхи аби повернути їх проти своєї ж матері. Це єдиний спосіб перемогти її!
 }
 
 STRING 4285
 {
-Enslave Alexstrasza
+Підкоріть Алекстразу
 }
 
 STRING 4286
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Mother of Dragons
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Мати драконів
 }
 
 STRING 4287
 {
-Recruit Ogres
+Вербовка оґрів
 }
 
 STRING 4288
 {
-The cowardly ogre tribes of the previous war had abandoned the horde during it’s time of need, and have settled in these remote mountains, find their camps and remind them of the Horde’s supremacy once again. 
+У часи першої війни племена оґрів виявилися боягузами, бо втекли у той момент коли були дуже потрібні Орді. Вони осіли у цих горах, знайдіть їх табори та нагадайте їм про те кому вони мають служити.
 }
 
 STRING 4289
 {
-Subjugate Ogres
+Завербуйте місцевих оґрів
 }
 
 STRING 4291
 {
-|cffffcc00OPTIONAL QUEST|r
-Recruit Ogres
-  - Subjugate Ogres
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Підкорення оґрів
+  - Знайдіть та завербуйте місцевих оґрів
 }
 
 STRING 4292
 {
-|cffffcc00TECHTREE UNLOCKED|r
-You can build Ogre Mound and hire Ogres for your army.
+|cffffcc00ДОСТУПНІ НОВІ СПОРУДИ|r
+Ви можете побудувати «Пагорб Огрів» і тренувати оґрів у свою армію.
 }
 
 STRING 4293
 {
-Dwarves
+Дворфи
 }
 
 STRING 4294
 {
-The Dwarves of Ironforge have established an archaeological camp in the mountains, and your presence have been made known to them, you must destroy their camp before you subjugate the Dragonqueen or all will be undone.
+Дворфи Стальгорну облаштували тут у горах свій археологічний табір, ваша присутність не лишилась непомітною з їхнього боку. Вам необхідно знищити їх табір та вбити їх усіх, до того як ви займетеся підкоренням королеви драконів, оскільки вони можуть завадити вашим планам.
 }
 
 STRING 4295
 {
-Destroy the dwarven camp
+Знищіть табір дворфів
 }
 
 STRING 4297
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Dwarven Camp
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Табір дворфів
 }
 
 STRING 4299
 {
-|cffff0000WARNING|r
-The Curse of the Dark Iron Dwarves prevents Зулугед Змучений from using his ability "Feral Leap".
+|cffff0000УВАГА|r
+Через прокляття дворфів з клану Темного заліза, Зулугед не зможе використовувати свою здібність «Дикий стрибок» у цих печерах.
 }
 
 STRING 4301
 {
-|cff32cd32HINT|r
-Dragon Soul can be recharged by killing organic units.
-The killed unit must have |cffd47832"Seed of Corruption"|r curse on it. 
+|cff32cd32ПІДКАЗКА|r
+«Душу дракона» можна перезаряджати вбиваючи живих істот.
+Аби отримати заряд артефакту, на живій істоті в момент смерті має бути прокляття |cffd47832«Зернина порчі»|.
 
-|cff87ceebOne charge equals 3 absorbed souls.|r
+|cff87ceebОдин заряд потребує 5 поглинутих душ.|r"
 }
 
 STRING 4304
 {
-|cff00ffffDragon Soul gained charge|r
-
+|cff00ffffДуша дракона отримала заряд|r
 }
 
 STRING 4307
 {
-|cff87ceebSoul is drained into the artifact|r
+|cff87ceebДуша живої істоти була поглинута артефактом|r
 }
 
 STRING 4308
 {
-|cff32cd32HINT|r
-Зулугед Змучений can use Goblin Train station to return to the Goblin Town.
-|cff32cd32Right Click on the Cart to use it.|r
+|cff32cd32ПІДКАЗКА|r
+Зулугед може скористатися «Ґоблінським потягом», щоб швидко повернутися у містечко ґоблінів.
+|cff32cd32Клікніть на візок аби сісти у нього.|r
 }
 
 STRING 4311
 {
-|cff87ceebREINFORCEMENT|r
-You can hire Goblin Shredders and Blasters in the Goblin Laboratory.
+|cff87ceebПІДКРІПЛЕННЯr
+За певну плату у ґоблінській лабораторії ви можете винайняти ґоблінські шредери та бластери.
 }
 
 STRING 4312
 {
-Exit the cave
+Знайдіть вихід з печер
 }
 
 STRING 4313
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Dragon Soul
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Душа дракона
 }
 
 STRING 4314
 {
-|cffffcc00MAIN QUEST FAILED|r
-The Dragon Queen
-- |cffff0000 Your camp is destroyed.|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Королева драконів
+- |cffff0000 Ваш табір зруйновано.|r
 }
 
 STRING 4315
@@ -4002,19 +4002,19 @@ STRING 4315
 STRING 4316
 // Items: I1Li (WC2Orc06SAlexstrasza3), Description (Description)
 {
-Vile creature… I….will cooperate… for now.
+Підла істото… я… підкорюся… прийнані зараз
 }
 
 STRING 4320
 {
-|cffff0000WARNING|r
-Алекстраза is planning to attack your base. Be cautious!
+|cffff0000УВАГА|r
+Алекстраза зі своїми драконами готується атакувати ваш табір. Будьте на чеку!
 }
 
 STRING 4321
 {
-|cff32cd32HINT|r
-Goblin vacuum tunnels work only in one direction.
+|cff32cd32ПІДКАЗКА|r
+Ґоблінські вакуумні тунелі працюють лише в одному напрямку.
 }
 
 STRING 4322
@@ -4488,7 +4488,7 @@ STRING 4400
 STRING 4401
 // Items: I0Lq (WC2Orc06SZuluhed_Camp1), Description (Description)
 {
-Nekros, I have something for you...
+Некросе, я маю дещо для тебе…
 }
 
 STRING 4402
@@ -4554,7 +4554,7 @@ WC2Orc06SZuluhed_RunesOnDoor1
 STRING 4412
 // Items: I0Lu (WC2Orc06SNekros1), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4413
@@ -4572,7 +4572,7 @@ WC2Orc06SNekros1
 STRING 4415
 // Items: I0Lv (WC2Orc06SNekros2), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4416
@@ -4590,7 +4590,7 @@ WC2Orc06SNekros2
 STRING 4418
 // Items: I0Lw (WC2Orc06SNekros3), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4419
@@ -4608,7 +4608,7 @@ WC2Orc06SNekros3
 STRING 4421
 // Items: I0Lx (WC2Orc06SNekros4), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4422
@@ -4626,7 +4626,7 @@ WC2Orc06SNekros4
 STRING 4424
 // Items: I0Ly (WC2Orc06SNekros5), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4425
@@ -4644,13 +4644,13 @@ WC2Orc06SNekros5
 STRING 4427
 // Items: I0Lz (WC2Orc06SNekros6), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4428
 // Items: I0Lz (WC2Orc06SNekros6), Description (Description)
 {
-The Queen and her kind remain arrogant… even now they still think that we are beneath them… an error that I shall correct presently.
+Королева і її дракони все ще чинять опір… навіть зараз вони все ще думають, що ми їм не рівня… зараз я це виправлю.
 }
 
 STRING 4429
@@ -4662,13 +4662,13 @@ WC2Orc06SNekros6
 STRING 4430
 // Items: I0LZ (WC2Orc06SNekros7), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4431
 // Items: I0LZ (WC2Orc06SNekros7), Description (Description)
 {
-Oh, but you will! Warriors!  Encourage the ‘Queen’ to cooperate….
+Ооо, ще і як будете! Агов воїни! Заохотьте, "Королеву" до кооперації…
 }
 
 STRING 4432
@@ -4680,13 +4680,13 @@ WC2Orc06SNekros7
 STRING 4433
 // Items: I0LA (WC2Orc06SNekros8), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4434
 // Items: I0LA (WC2Orc06SNekros8), Description (Description)
 {
-Shut your mouth, beast! The more you resist, the more of your children we slay… their lives depend on your compliance… obey, or watch them die!
+Стилу свою пащу тварино. Що більше ти опираєшся, то більше буде вбито твоїх дітей… їхні життя залежать від твоєї поступливості. Скорися, або дивись як вони дохнуть!
 }
 
 STRING 4435
@@ -4698,13 +4698,13 @@ WC2Orc06SNekros8
 STRING 4436
 // Items: I0LB (WC2Orc06SNekros9), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4437
 // Items: I0LB (WC2Orc06SNekros9), Description (Description)
 {
-Тарбек, report our success to the Warchief, and tell Зулугед Змучений that I have a gift for him.
+Тарбек, можеш доповісти вождю про наші успіхи, і перекажи Зулугеду, що я маю дарунок для нього.
 }
 
 STRING 4438
@@ -4716,13 +4716,13 @@ WC2Orc06SNekros9
 STRING 4439
 // Items: I0LC (WC2Orc06SNekros10), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4440
 // Items: I0LC (WC2Orc06SNekros10), Description (Description)
 {
-I will take the ‘prize’ to Grim Batol. I don’t want to attract any unwanted attention. That cursed dwarven city is the last place they’ll look for her.
+Я візьму нашу "здобич" до Ґрім-Батолу. Не хочу привертати небажану увагу. Останнє місце у світі, де її шукатимуть це у проклятому місті дворфів.
 }
 
 STRING 4441
@@ -4734,7 +4734,7 @@ WC2Orc06SNekros10
 STRING 4442
 // Items: I0LE (WC2Orc06SNekros_OgreQuest1), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4443
@@ -4752,7 +4752,7 @@ WC2Orc06SNekros_OgreQuest1
 STRING 4445
 // Items: I0LD (WC2Orc06SNekros_AlexieAttack1), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4446
@@ -4770,13 +4770,13 @@ WC2Orc06SNekros_AlexieAttack1
 STRING 4448
 // Items: I0LF (WC2Orc06SNekros_BossFight1), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4449
 // Items: I0LF (WC2Orc06SNekros_BossFight1), Description (Description)
 {
-You speak too much…Queen mother! You will obey!
+Ти занадто багато говориш… Королева-мати! Але ти підкоришся!
 }
 
 STRING 4450
@@ -4788,13 +4788,13 @@ WC2Orc06SNekros_BossFight1
 STRING 4451
 // Items: I0LG (WC2Orc06SNekros_BossFight2), Tip (Tooltip - Basic)
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 4452
 // Items: I0LG (WC2Orc06SNekros_BossFight2), Description (Description)
 {
-Enough! Tremble and despair! The ‘Demon Soul’ commands you to bow low, Dragonqueen! Bow before your new master!
+Годі! Скорися нарешті! «Душа дракона» наказує тобі низько вклонитися, королева драконів! Вклоняйся перед своїм новим господарем!
 }
 
 STRING 4453
@@ -4855,7 +4855,6 @@ STRING 4467
 // Items: I0LM (WC2Orc06SVincentGoblin_QuestComplete2), Description (Description)
 {
 Бачиш но, вхід який ми щойно розпакували, веде до внутрішніх залів, які були побудовані дворфами клану Темного заліза, багато років тому. А ці чуваки не були відомі тим що зустрічали гостей з хлібом та сіллю! Я думаю там попереду щось могутнє і… жахливе. Але не парся, мої хлопаки тобі допоможуть. Використовуй їх з розумом, старий!
-
 }
 
 STRING 4468
@@ -4945,7 +4944,7 @@ STRING 4481
 STRING 4482
 // Items: I0LR (WC2Orc06STharbek5), Description (Description)
 {
-Magnificent! I am greatly honored to witness such an immensely powerful creature bowing low before you Nekros. I must commend you on your efforts.
+Просто неймовірно! Для мене честь бути свідком того, як ця велична істота кориться та схиляється перед тобою, Некорсе. Змушений зізнатися я вражений твоїми зусиллями.
 }
 
 STRING 4483
@@ -4963,7 +4962,7 @@ STRING 4484
 STRING 4485
 // Items: I0LS (WC2Orc06STharbek6), Description (Description)
 {
-Where will you go?
+Буде зроблено. Але ти куди рушиш?
 }
 
 STRING 4486
@@ -4999,7 +4998,7 @@ STRING 4490
 STRING 4491
 // Items: I0LU (WC2Orc06STharbek_OgreQuest2), Description (Description)
 {
-The Horde are your true masters. Ogres, live with this fact!
+Ви слугуєте Орді! Пам'ятайте це Оґри,!
 }
 
 STRING 4492
@@ -5035,7 +5034,7 @@ STRING 4496
 STRING 4497
 // Items: I0LW (WC2Orc06STharbek_DwarfComplete1), Description (Description)
 {
-Finally we got rid of those beardlings… at least I hope we did…
+Нарешті ми позбулися цих бородачів… сподіваюсь що позбулися…
 }
 
 STRING 4498
@@ -5047,13 +5046,13 @@ WC2Orc06STharbek_DwarfComplete1
 STRING 4499
 // Items: I0LX (WC2Orc06SOgre_OgreQuest1), Tip (Tooltip - Basic)
 {
-Ogre
+Оґр
 }
 
 STRING 4500
 // Items: I0LX (WC2Orc06SOgre_OgreQuest1), Description (Description)
 {
-No beat me, I serve you…
+Не треба битися, я буду слугувати…
 }
 
 STRING 4501
@@ -5065,13 +5064,13 @@ WC2Orc06SOgre_OgreQuest1
 STRING 4502
 // Items: I0LY (WC2Orc06SOgre_OgreQuest2), Tip (Tooltip - Basic)
 {
-Two-Headed Ogre
+Двоголовий оґр
 }
 
 STRING 4503
 // Items: I0LY (WC2Orc06SOgre_OgreQuest2), Description (Description)
 {
-No beat us, we serve you…
+Не бий нас, ми слугуватимемо…
 }
 
 STRING 4504
@@ -5083,14 +5082,13 @@ WC2Orc06SOgre_OgreQuest2
 STRING 4505
 // Items: I1LA (WC2Orc06SDwarfKnight_Encounter1), Tip (Tooltip - Basic)
 {
-Cavalier
+Дворф кавалерист
 }
 
 STRING 4506
 // Items: I1LA (WC2Orc06SDwarfKnight_Encounter1), Description (Description)
 {
-Slaughter them boys! Show no mercy because ye will receive none!
-Вбивайте їх хлопці! Ніякого милосердя, бо вони його не проявлять
+Вбивайте їх хлопці! Ніякого милосердя, бо вони його не проявлять!
 }
 
 STRING 4507
@@ -5102,7 +5100,7 @@ WC2Orc06SDwarfKnight_Encounter1
 STRING 4508
 // Items: I1LB (WC2Orc06SDwarfFootman_Encounter1), Tip (Tooltip - Basic)
 {
-Guardsman
+Вартовий
 }
 
 STRING 4509
@@ -5120,7 +5118,7 @@ WC2Orc06SDwarfFootman_Encounter1
 STRING 4511
 // Items: I1LC (WC2Orc06SDwarfCaptain_Encounter1), Tip (Tooltip - Basic)
 {
-Guardsman
+Гвардієць
 }
 
 STRING 4512
@@ -5174,7 +5172,7 @@ WC2Orc10Kobold1
 STRING 4520
 // Items: I1LF (WC2Orc06SOrastrasz_Encounter1), Tip (Tooltip - Basic)
 {
-Red Dragon
+Багряний дракон
 }
 
 STRING 4521
@@ -5192,7 +5190,7 @@ WC2Orc06SOrastrasz_Encounter1
 STRING 4523
 // Items: I1LG (WC2Orc06SOrastrasz_Encounter2), Tip (Tooltip - Basic)
 {
-Red Dragon
+Багряний дракон
 }
 
 STRING 4524
@@ -5210,7 +5208,7 @@ WC2Orc06SOrastrasz_Encounter2
 STRING 4526
 // Items: I1LH (WC2Orc06SOrastrasz_BossFight1), Tip (Tooltip - Basic)
 {
-Orastrasz
+Орастраж
 }
 
 STRING 4527
@@ -5228,7 +5226,7 @@ WC2Orc06SOrastrasz_BossFight1
 STRING 4529
 // Items: I1LI (WC2Orc06SOrastrasz_BossFight2), Tip (Tooltip - Basic)
 {
-Orastrasz
+Орастраж
 }
 
 STRING 4530
@@ -5558,7 +5556,7 @@ STRING 4583
 STRING 4584
 // Items: I1Lb (WC2Orc06SAlexstrasza_BossFight1), Description (Description)
 {
-It is time to put an end to your mortal insolence, invader!
+Настав час покласти край твоїй зухвалості, смертний!
 }
 
 STRING 4585
@@ -5576,7 +5574,7 @@ STRING 4586
 STRING 4587
 // Items: I1Lc (WC2Orc06SAlexstrasza_BossFight2), Description (Description)
 {
-I will not…be subjugated! Behold the power of life!
+Я не… не скорюся! Споглядай силу життя!
 }
 
 STRING 4588
@@ -5594,7 +5592,7 @@ STRING 4589
 STRING 4590
 // Items: I1Le (WC2Orc06SAlexstrasza_BossFight3), Description (Description)
 {
-No! You will not break my will! Demon spawn!
+Ні! Ти не зламаєш мою волу! Демонське відріддя!
 }
 
 STRING 4591
@@ -5630,7 +5628,7 @@ STRING 4595
 STRING 4596
 // Items: I1Lg (WC2Orc06SAlexstrasza1), Description (Description)
 {
-We will NOT serve you, never!
+Ми ніколи не будемо служити вам, ніколи!
 }
 
 STRING 4597
@@ -5648,7 +5646,7 @@ STRING 4598
 STRING 4599
 // Items: I1Lh (WC2Orc06SAlexstrasza2), Description (Description)
 {
-No! you..you will pay for this… I swear it!
+Ні! ти… заплатиш за це… присягаюся!
 }
 
 STRING 4600
@@ -5666,7 +5664,7 @@ WC2Orc06SAlexstrasza3
 STRING 4604
 // Items: I1Lj (WC2Orc06SFireElemental1), Tip (Tooltip - Basic)
 {
-Fire Elemental
+Елементаль вогню
 }
 
 STRING 4605
@@ -5750,7 +5748,7 @@ STRING 4617
 STRING 4618
 // Units: o61U (Defense Tower), Name (Name)
 {
-Defense Tower
+Дворфійська оборонна вежа
 }
 
 STRING 4619
@@ -5781,36 +5779,36 @@ STRING 4623
 STRING 4624
 // Items: mgtk (Goblin Key), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Quest Item|r |n|nA key from Mechanical door.
+|cffffcc00Предмет необхідний для завдання|r |n|nКлюч від механічних дверей.
 }
 
 STRING 4625
 // Items: engs (Enchanted Gemstone), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Quest Item|r |n|nSeems like this gemstone can be used to unlock some magical barrier.
+|cffffcc00Предмет необхідний для завдання|r |n|nСхоже, що цей дорогоцінний камінь може бути використаний, щоб розблокувати якийсь магічний бар'єр.
 }
 
 STRING 4626
 // Items: I60U (Dragon Soul), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Quest Item|r |n|nGolden disc with Carved Dragon head. Requires consuming 3 souls of living creatures to gain charge.
+|cffffcc00Предмет необхідний для завдання|r |n|nЗолотий диск на якому викарбувана голова дракона. Аби його зарядити треба що він поглинув 3 душі живих створінь.
 }
 
 STRING 4627
 // Items: I000 (Totem of Wind), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Quest Item|r |n|nCan be used in a circle of Power.
+|cffffcc00Предмет необхідний для завдання|r |n|nМоже бути використаний у колі сили..
 }
 
 STRING 4628
 // Items: I003 (Dwarven Ring of Power), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Quest Item|r |n|nRing that was worn by a Dark Dwarven Lord. Increases the Strength, Agility and Intelligence of the Hero by 1 when worn.
+|cffffcc00Предмет необхідний для завдання|r |n|nПерстень який носив один з темних дворфійських лордів. Збільшує силу, спритність та інтелект героя на 1 од.
 }
 
 STRING 4629
 // Items: I004 (Fire Essence), Ubertip (Tooltip - Extended)
 {
-|cffffcc00Quest Item|r |n|nAn essence of Fire Elemental.
+|cffffcc00Предмет необхідний для завдання|r |n|n Есенція з вогняного елементаля.
 }
 
