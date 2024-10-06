@@ -275,20 +275,21 @@ Z
 
 STRING 64
 {
-Build Goblin Zeppelin
+Побудувати Дирижабль ґоблінів
 }
 
 STRING 65
 {
-Goblin Zeppelin
+Дирижабль ґоблінів
 }
 
 STRING 66
 {
-Goblin aircraft suitable for scouting and detecting invisible units, as well as aerial combat. Can be upgraded to attack land units with bombs.
-Abilities: Telescope - Zeppelin Bombs
+Дирижабль ґоблінів, ідеально підходить для розвідки та виявлення невидимих цілей, також може чинити шкоду по цілях у повітрі.
 
-|cffffcc00Attacks air units.|r
+Може бути оснащений бомбами для атак по наземним цілям.
+
+Здібності: «Телескоп», «Бомби на дирижаблях»
 }
 
 STRING 67
@@ -358,12 +359,12 @@ Single use, explosive team of goblin sappers. Particularly effective against bui
 
 STRING 79
 {
-Goblin Alchemist
+Майстерня ґобліна алхіміка
 }
 
 STRING 80
 {
-Build Goblin Alchemist
+Побудувати Майстерню ґобліна алхіміка
 }
 
 STRING 81
@@ -373,9 +374,10 @@ L
 
 STRING 82
 {
-The maniacal and brilliant Goblin Alchemists are masters of volatile chemicals, explosives and strange mechanical devices.
-Trains: Goblin Zeppelins - Goblin Sappers
-Research: Zeppelin Bombs
+До маніакальності геніальні ґобліни алхіміки є неперевершеними майстрами летких хімікатів, вибухівки та дивних механічних пристроїв.
+
+Тренування: «Дирижабль ґоблінів» - «Ґобліни сапери»
+Дослідження: «Бомби на дирижаблях»"
 }
 
 STRING 83
@@ -385,14 +387,14 @@ STRING 83
 
 STRING 84
 {
-Build Temple of the Damned
+Побудувати храм проклятих
 }
 
 STRING 85
 {
-A temple that no living thing dares to enter. Dark necromantic rituals are used here to imbue fallen Knights' remains with the souls of Necrolytes.
-Trains: Death Knights
-Research: Death Knight Upgrade - Skeletal Longevity - Unholy Sentry
+Храм до якого жодна жива істота не наважується увійти. Тут використовуються темні некромантичні ритуали, щоб наділити рештки полеглих лицарів душами некролітів
+Тренування: Лицарі Смерті
+Дослідження: Здібності для лицарів смерті - Довголіття скелетів - Нечестива варта
 }
 
 STRING 86
@@ -402,17 +404,17 @@ STRING 86
 
 STRING 87
 {
-Oil Tanker
+Нафтовий танкер
 }
 
 STRING 88
 {
-Vessel for building Oil Rigs to harvest and transport oil necessary for construction of fleets.
+Човен який необхідний для будівництва нафтових платформ і видобутку та транспортування нафти, яка необхідна для будівництва флоту, деяких інших споруд та покращень.
 }
 
 STRING 89
 {
-Build Oil Tanker
+Побудувати нафтовий танкер
 }
 
 STRING 90
@@ -422,17 +424,17 @@ STRING 90
 
 STRING 91
 {
-Oil Platform
+Нафтова платформа
 }
 
 STRING 92
 {
-Build Oil Platform
+Побудувати Нафтову платформу
 }
 
 STRING 93
 {
-The Oil Platform needs to be built on Oil Patches in order for oil to be harvested and refined. Oil Tankers are used to build these Oil Platforms as well as ferry the oil back to a Shipyard or Oil Refinery where it can be processed and put to use.
+Аби почати видобуток нафти, необхідно спочатку звести нафтову платформу на нафтовому родовищі. Нафтові танкери використовуються як для будівництва нафтових платформ, так і для доставлення нафти у корабельню або у нафтопереробний завод.
 }
 
 STRING 94
@@ -472,7 +474,7 @@ Ogre
 
 STRING 100
 {
-Train Ogre
+Тренувати Оґра
 }
 
 STRING 101
@@ -482,11 +484,12 @@ O
 
 STRING 102
 {
-The Ogres are the monstrous two-headed allies of the Orcs that were brought through the Portal by the Warlock Gul'dan after the First War.
-Abilities: Pillage
-Upgraded to: Ogre Magi
+Оґри це кремезні двоголові союзники орків, які пройшли разом з Ґул'даном через темний портал після першої війни.
 
-|cffffcc00Attacks land units.|r
+Здібності: «Грабіж»
+Може бути покращений до: Оґр-маг
+
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 103
@@ -496,12 +499,12 @@ STRING 103
 
 STRING 104
 {
-Apprentice, Adept, Master
+Учень, Адепт, Майстер
 }
 
 STRING 105
 {
-- Bloodlust,- Bloodlust|n- Eye of Kilrogg,- Bloodlust|n- Eye of Kilrogg|n- Runes
+- Кровожерливість,- Кровожерливість|n- Око Кілроґа,- Кровожерливість|n- Око Кілроґа|n- Руни
 }
 
 STRING 106
@@ -511,15 +514,16 @@ M
 
 STRING 107
 {
-The Ogre Magi were originally a small band of extremely loyal Ogre enforcers, transformed by Gul'dan into scheming and malicious sorcerers.
-Abilities: Bloodlust - Eye of Kilrogg - Runes - Pillage
+Колись раніше в оґри-маги була посвячена лише маленька група звичайних оґрів які були до фанатизму віддані Ґул'дану, в рамках своїх мерзенних експериментів він навчив своїх посіпак основам темних чар.
 
-|cffffcc00Attacks land units.|r
+Здібності: Кровожерливість- Око Кілроґа - Руни - Грабіж
+
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 108
 {
-Train Ogre Magi
+Тренувати Оґра-мага
 }
 
 STRING 109
@@ -529,7 +533,7 @@ STRING 109
 
 STRING 110
 {
-Eye of Kilrogg
+Око Кілроґа
 }
 
 STRING 111
@@ -670,20 +674,21 @@ STRING 135
 
 STRING 136
 {
-Guard Tower
+Вартова вежа
 }
 
 STRING 137
 {
-Upgrade to Guard Tower
+Перебудувати у вартову вежу
 }
 
 STRING 138
 {
-Defensive structure, effective against air units. Expands the sight bounds.
-Abilities: Unholy Sentry
+Захисна споруда, вкрай ефективна проти повітряних цілей. Збільшує зону видимості.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: Нечестива варта
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 139
@@ -693,7 +698,7 @@ STRING 139
 
 STRING 140
 {
-War Turtle
+Бойова черепаха
 }
 
 STRING 141
@@ -708,32 +713,31 @@ STRING 142
 
 STRING 143
 {
-Train War Turtle
+Тренувати Бойову черепаху
 }
 
 STRING 144
 {
-These Giant sea Turtles are native to the southern seas and were captured by the Stormreaver clan. Can submerge beneath the waves and keep watch on enemy forces above the surface.
-Abilities: Telescope - Submerge
+Ці велетенські морські істоти походять з південних морів Пандарії, де вони й були приручені кланом Бурхливої Бурі. Можуть занурюватися під воду та атакувати цілі на поверхні, а також виявляють невидимі морські цілі.
 
-|cffffcc00Attacks naval units and naval buildings.|r
+|cffffcc00Здатні атакувати цілі у морі та споруди які виходять до моря.|r
 
-|cffffcc00Requires|r 800 |cffffcc00Oil.|r
+|cffffcc00Потребує|r 800 од. |cffffcc00нафти.|r
 }
 
 STRING 145
 {
-Oil Tanker
+Нафтовий танкер
 }
 
 STRING 146
 {
-Build Oil Tanker
+Побудувати нафтовий танкер
 }
 
 STRING 147
 {
-Vessel for building Oil Rigs to harvest and transport oil necessary for construction of fleets.
+Човен який необхідний для будівництва нафтових платформ і видобутку та транспортування нафти, яка необхідна для будівництва флоту, деяких інших споруд та покращень.
 }
 
 STRING 148
@@ -748,17 +752,16 @@ Khadgar
 
 STRING 150
 {
-Train War Turtle
+Тренувати бойову черепаху
 }
 
 STRING 151
 {
-These Giant sea Turtles are native to the southern seas and were captured by the Stormreaver clan. Can submerge beneath the waves and keep watch on enemy forces above the surface.
-Abilities: Telescope - Submerge
+Ці велетенські морські істоти походять з південних морів Пандарії, де вони й були приручені кланом Бурхливої Бурі. Можуть занурюватися під воду та атакувати цілі на поверхні, а також виявляють невидимі морські цілі.
 
-|cffffcc00Attacks naval units and naval buildings.|r
+|cffffcc00Здатні атакувати цілі у морі та споруди які виходять до моря.|r
 
-|cffffcc00Requires|r 800 |cffffcc00Oil.|r
+|cffffcc00Потребує|r 800 од. |cffffcc00нафти.|r
 }
 
 STRING 152
@@ -768,7 +771,7 @@ S
 
 STRING 153
 {
-War Turtle
+Бойова черепаха
 }
 
 STRING 154
@@ -823,10 +826,11 @@ STRING 162
 
 STRING 163
 {
-Powerful defensive structure, effective gatherings of land units. Expands the sight bounds.
-Abilities: Unholy Sentry
+Потужна захисна споруда, вкрай ефективна проти скупчень ворожих цілей та флоту. Збільшує зону видимості.
 
-|cffffcc00Attacks land units.|r
+Здібності: Нечестива варта
+
+|cffffcc00Атакує тільки наземні цілі.|r
 }
 
 STRING 164
@@ -999,7 +1003,7 @@ STRING 196
 
 STRING 197
 {
-Stables
+Конюшні
 }
 
 STRING 198
@@ -1009,7 +1013,7 @@ Horses for the cavalry are housed here. Provides access to training Knights and 
 
 STRING 199
 {
-Build Stables
+Build Конюшні
 }
 
 STRING 200
@@ -1019,20 +1023,21 @@ STRING 200
 
 STRING 201
 {
-Blacksmith
+Ковальня
 }
 
 STRING 202
 {
-Gives access to upgrades for armor and weapons.
-Research: Sharpened Melee Weapons - Reinforced Armor - Heavy Projectiles - Burning Oil
+Дає змогу покращувати броню та зброю.
 
-|cffffcc00Requires|r 100 |cffffcc00Oil|r.
+Покращення: Заточка зброї» — «Посилення броні» — «Важкі снаряди» — «Палаючі снаряди»
+
+|cffffcc00Потребує|r 100 од.|cffffcc00нафти|r.
 }
 
 STRING 203
 {
-Build Blacksmith
+Побудувати ковальню
 }
 
 STRING 204
@@ -1042,12 +1047,12 @@ STRING 204
 
 STRING 205
 {
-Foundry
+Ливарня
 }
 
 STRING 206
 {
-Build Foundry
+Побудувати Ливарню
 }
 
 STRING 207
@@ -1057,10 +1062,11 @@ F
 
 STRING 208
 {
-Foundry is instrumental in creating the massive armor plates and lethal cannons.
-Research: Brass Cannons - Brass Plating 
+За допомогою ливарного виробництва відливають пластини з металу які слугують для обшивки кораблів і підвищення їхньої броні, а також для відлиття смертоносних гармат.
 
-|cffffcc00Requires|r 400 |cffffcc00Oil.|r
+Покращення: «Латунні гармати» - «Латунна обшивка»
+
+|cffffcc00Необхідно|r 400 од. |cffffcc00нафти.|r
 }
 
 STRING 209
@@ -1070,20 +1076,21 @@ STRING 209
 
 STRING 210
 {
-Oil Refinery
+Нафтопереробний завод
 }
 
 STRING 211
 {
-The Oil Refinery uses the large, arching pipelines on either side of the main structure to pump oil from the Tankers into its processing holds.
-Research: Bigger Tanks
+Нафтопереробний завод використовує великі дугоподібні трубопроводи з обох боків основної конструкції для перекачування нафти з танкерів у свої у резервуари для подальної переробки.
 
-|cffffcc00Requires|r 200 |cffffcc00Oil.|r
+Дослідження: Більші бочки
+
+|cffffcc00Потрібно|r 200 од. |cffffcc00нафти.|r
 }
 
 STRING 212
 {
-Build Oil Refinery
+Побудувати нафтопереробний завод
 }
 
 STRING 213
@@ -1173,12 +1180,12 @@ Upgraded to: Elven Ranger
 
 STRING 227
 {
-A sturdy transport ship capable of carrying units over the sea.  |n|n|cffffcc00Requires|r 500 |cffffcc00Oil|r.
+Дає змогу перевозити наземні одиниці морем.|n|n|cffffcc00Потребує|р 500 од. |cffffcc00Нафти|r.
 }
 
 STRING 228
 {
-Build Transport Ship
+Побудувати транспортний човен
 }
 
 STRING 229
@@ -1341,12 +1348,12 @@ STRING 254
 
 STRING 255
 {
-Gnomish Inventor
+Майстерня гнома винахідника
 }
 
 STRING 256
 {
-Gnomish Inventor
+Майстерня гнома винахідника
 }
 
 STRING 257
@@ -1374,12 +1381,12 @@ STRING 260
 
 STRING 261
 {
-Elven Lumber Mill
+Ельфійська лісопильня
 }
 
 STRING 262
 {
-Elven Lumber Mill
+Ельфійська лісопильня
 }
 
 STRING 263
@@ -1412,7 +1419,7 @@ STRING 267
 
 STRING 268
 {
-Church
+Церква
 }
 
 STRING 269
@@ -1423,7 +1430,7 @@ Research: Paladin Initiation - Paladin Upgrade
 
 STRING 270
 {
-Build Church
+Build Церква
 }
 
 STRING 271
@@ -1489,10 +1496,10 @@ STRING 280
 
 STRING 281
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 282
@@ -1541,12 +1548,12 @@ C
 
 STRING 290
 {
-Catapult
+Катапульта
 }
 
 STRING 291
 {
-Build Catapult
+Побудувати катапульту
 }
 
 STRING 292
@@ -1556,10 +1563,11 @@ STRING 292
 
 STRING 293
 {
-Long-range siege weaponry. Devastating against buildings and effective against gatherings of land units, but is slow and vulnerable.
-Abilities: Burning Oil
+Далекобійна облогова зброя яка вкрай ефективна проти споруд і скупчень ворожих підрозділів. Головні недолітки це повільне пересування і велика вразливість особливо проти ворогів ближнього бою.
 
-|cffffcc00Attacks land units and trees.|r 
+Можливе покращення: Палаючі снаряди
+
+|cffffcc00Атакує наземні цілі та дерева.|r
 }
 
 STRING 294
@@ -1579,7 +1587,7 @@ STRING 296
 
 STRING 297
 {
-Build Transport Ship
+Побудувати транспортний човен
 }
 
 STRING 298
@@ -1599,7 +1607,7 @@ Troll Destroyer
 
 STRING 301
 {
-Build Troll Destroyer
+Побудувати руйнівника тролів
 }
 
 STRING 302
@@ -1609,11 +1617,11 @@ R
 
 STRING 303
 {
-A versatile attack ship capable at protecting the fleet against air units.
+Універсальний ударний корабель, здатний захищати флот навіть від повітряних цілей.
 
-|cffffcc00Attacks land, naval and air units.|r
+|cffffcc00Атакує сухопутні, морські та повітряні цілі.|r
 
-|cffffcc00Requires|r 700 |cffffcc00Oil.|r
+|cffffcc00Потребує|r 700 од. |cffffcc00Нафти.|r
 }
 
 STRING 304
@@ -1623,12 +1631,13 @@ STRING 304
 
 STRING 307
 {
-Massive battleship good at destroying enemy ships and bombarding buildings from the sea.
-Abilities: Broadside - Incendiary Shells
+Великий бойовий корабель, знищує ворожі одиниці на морі та може бомбардувати будівлі на березі.
 
-|cffffcc00Attacks land and naval units.|r
+Здібності: Бортовий залп — Запальні снаряди
 
-|cffffcc00Requires|r 1000 |cffffcc00Oil.|r
+|cffffcc00Атакує наземні та морські цілі.|r
+
+|cffffcc00Необхідно|r 1000 од. |cffffcc00Нафти.|r
 }
 
 STRING 308
@@ -1689,8 +1698,9 @@ D
 
 STRING 318
 {
-Constructs naval fleet vessels and serves as a drop-off point for oil gathering.
-Trains: Oil Tankers - Transport Ships - Troll Destroyers - Ogre Juggernauts - War Turtles
+У корабельні будується флот, а також вона слугує як точка здачі нафти.
+
+Можна побудувати: «Нафтовий танкер» - «Транспортний човен» - «Руйнівник тролів» - «Джаґґернаут оґрів» - «Бойова черепаха»"
 }
 
 STRING 319
@@ -1712,11 +1722,13 @@ STRING 322
 
 STRING 323
 {
-Scouting structure. Expands the sight bounds.
-Abilities: Unholy Sentry
-Upgrades to: Guard Tower or Cannon Tower.
+Розвідницька вежа споруда яка не обладнана зброєю. Збільшує зону видимості навколо себе. 
 
-|cffffcc00Can't attack units.|r
+Здібності: Нечестива варта
+
+Може бути перебудована у: «Вартова вежа» або «Гарматна вежа»
+
+|cffffcc00Не може атакувати жодні цілі.|
 }
 
 STRING 324
@@ -1726,12 +1738,12 @@ STRING 324
 
 STRING 325
 {
-Pig Farm
+Свиноферма
 }
 
 STRING 326
 {
-Build Pig Farm
+Побудувати Свиноферму
 }
 
 STRING 327
@@ -1741,7 +1753,7 @@ P
 
 STRING 328
 {
-Provides food, which increases the maximum number of units that can be trained.
+Забезпечує армію їжею, та збільшує максимальну кількість одиниць яку можна мати одночасно у війську.
 }
 
 STRING 329
@@ -1751,17 +1763,17 @@ STRING 329
 
 STRING 330
 {
-Ogre Mound
+Оґрівський пагорб
 }
 
 STRING 331
 {
-Build Ogre Mound
+Побудувати Оґрівський пагорб
 }
 
 STRING 332
 {
-A foul stench permeates from this gruesome lair. Remains of slain (hopefuly) enemies hand on crude chains, showing that only Ogres are welcome here. Provides access to training Ogres and later Ogre Magi.
+Огидний та мерзенний сморід йде з цього жахливого лігва. Залишки вбитих(з надією, що вони вже не страждають) ворогів грубо прикуті ланцюгами, натякаючи, що це місце виключно для Оґрів. Наявність цього пагорбу дає змогу тренувати у бараках, Оґрів та Оґрів-магів.
 }
 
 STRING 333
@@ -1771,18 +1783,19 @@ STRING 333
 
 STRING 334
 {
-Troll Lumber Mill
+Лісопильня тролів
 }
 
 STRING 335
 {
-Build Troll Lumber Mill
+Побудувати Лісопильню тролів
 }
 
 STRING 336
 {
-Serves as a drop-off point for harvested lumber.
-Research: Lumber Saw Upgrade - Troll Berserker Training - Sharpened Throwing Axes - Berserker Regeneration - Berserker Sight - Lighter Axes - Ensnare
+Слугує пунктом здачі деревини.
+
+Покращення: «Покращена деревообробка» - «Ініціація у берсерків» - «Загострені сокири» - «Регенерація берсерка» - «Пильність берсерка» - «Легші сокири» - «Окутати»"
 }
 
 STRING 337
@@ -1792,9 +1805,9 @@ STRING 337
 
 STRING 338
 {
-Primary troop production building.
-Trains: Grunts - Troll Axethrowers/Berserkers -  Catapults
-Research: For the Horde!
+Бараки є ключовою спорудою для тренування війська.
+Дозволяє тренувати «Рубайл», «Тролів сокриметів» або «Берсерків» а також будувати «Катапульти»
+Покращення: «За Орду!»
 }
 
 STRING 339
@@ -1804,8 +1817,8 @@ STRING 339
 
 STRING 340
 {
-An altar of dark worship, where Ogres are initiated to become the cunning Ogre Magi.
-Research: Ogre Magi Initiation - Ogre Magi Upgrade
+Вівтар темного поклоніння, де Оґри проходять обряд ініціації, аби стати Оґрами-магами.
+Покращення: «Ініціація в оґрів-магів», «Покращення оґрів-магів»"
 }
 
 STRING 341
@@ -1815,12 +1828,13 @@ STRING 341
 
 STRING 342
 {
-Primary structure, used to train Peons and receive gathered resources.
-Research: Pillage - Better Pickaxes
+Ключова споруда Орди, використовується для тренування робочої сили, та як точка збору зібраних ресурсів.
 
-|cffffcc00Revives wounded heroes.|r
+Дослідження: Грабіж - Кращі шахтарські кирки
 
-|cffffcc00Requires|r 500 |cffffcc00Oil|r.
+|cffffcc00Дозволяє оживляти полеглих героїв.|r
+
+|cffffcc00Потребує|r 500 од. |cffffcc00нафти|r.
 }
 
 STRING 343
@@ -1830,11 +1844,12 @@ STRING 343
 
 STRING 344
 {
-Primary structure, used to train Peons and receive gathered resources.
-Upgrades to: Fortress
-Research: Pillage
+Ключова споруда Орди, використовується для тренування робочої сили, та як точка збору зібраних ресурсів.
 
-|cffffcc00Revives wounded heroes.|r
+Може бути перебудована у фортецю
+Дослідження: Грабіж
+
+|cffffcc00Дозволяє оживляти полеглих героїв.|r
 }
 
 STRING 345
@@ -1911,12 +1926,12 @@ STRING 359
 
 STRING 360
 {
-Goldmine
+Золота шахта
 }
 
 STRING 361
 {
-Goldmine
+Золота шахта
 }
 
 STRING 362
@@ -1931,12 +1946,12 @@ STRING 363
 
 STRING 364
 {
-Goldmine
+Золота шахта
 }
 
 STRING 365
 {
-Goldmine
+Золота шахта
 }
 
 STRING 366
@@ -1986,18 +2001,18 @@ Oil resourse patch
 
 STRING 375
 {
-Foundry
+Ливарня
 }
 
 STRING 376
 {
-Build Foundry
+Побудувати Ливарню
 }
 
 STRING 377
 {
 Foundry is instrumental in creating the massive armor plates and lethal cannons.
-Research: Brass Cannons - Brass Plating 
+Research: Латунні гармати - Латунна обшивка 
 
 |cffffcc00Requires|r 400 |cffffcc00Oil.|r
 }
@@ -2159,22 +2174,22 @@ STRING 407
 
 STRING 408
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 409
 {
-Revive Gul'dan
+Оживити Ґул'дана
 }
 
 STRING 410
 {
-Revive Gul'dan
+Оживити Ґул'дана
 }
 
 STRING 411
 {
-Warlock
+Чорнокнижник
 }
 
 STRING 412
@@ -2189,9 +2204,9 @@ STRING 413
 
 STRING 414
 {
-The first and most powerful orcish Warlock, Gul'dan possesses incredible Fel power at a cost of great demonic corruption. His power is only seconded by his ambitions and schemes.
+Перший і наймогутнішим чорнокнижник серед орків, Ґул'дан володіє неймовірною силою скверни, але ця ж сила його і спотворила. Його сила поступається лише його амбіціям та задумам.
 
-|cffffcc00Attacks land and air units.|r
+|cffffcc00Може атакувати наземні та повітряні цілі.|r
 }
 
 STRING 416
@@ -2276,10 +2291,10 @@ STRING 433
 
 STRING 434
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 436
@@ -2344,10 +2359,10 @@ Hire Orc Pirate
 
 STRING 449
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 450
@@ -2442,10 +2457,10 @@ Train Blackhand Guard
 
 STRING 467
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 468
@@ -2592,10 +2607,10 @@ STRING 499
 
 STRING 500
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 501
@@ -2615,10 +2630,10 @@ STRING 503
 
 STRING 504
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 505
@@ -2628,7 +2643,7 @@ STRING 505
 
 STRING 506
 {
-Basic worker unit. Can harvest gold and lumber, build structures, and Repair.  |n|n|cffffcc00Attacks land units and trees.|r
+Основна робоча одиниця. Може добувати золото та рубити ліс, зводити та ремонтувати споруди, а також лагодити дружні механічні одиниці. |n|n|cffffcc00Атакує наземні цілі та дерева.|r
 }
 
 STRING 507
@@ -2638,7 +2653,7 @@ STRING 507
 
 STRING 508
 {
-Basic worker unit. Can harvest gold and lumber, build structures, and Repair.  |n|n|cffffcc00Attacks land units and trees.|r
+Основна робоча одиниця. Може добувати золото та рубити ліс, зводити та ремонтувати споруди, а також лагодити дружні механічні одиниці. |n|n|cffffcc00Атакує наземні цілі та дерева.|r
 }
 
 STRING 509
@@ -2773,10 +2788,10 @@ STRING 534
 
 STRING 536
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 537
@@ -2926,22 +2941,22 @@ STRING 660
 
 STRING 661
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 662
 {
-Ogre Magi
+Оґр маг
 }
 
 STRING 663
 {
-Revive Cho'gall
+Оживити Чо'ґалла
 }
 
 STRING 664
 {
-Revive Cho'gall
+Оживити Чо'ґалла
 }
 
 STRING 665
@@ -2990,8 +3005,9 @@ STRING 672
 
 STRING 673
 {
-Serves as a drop-off point for harvested lumber.
-Research: Lumber Saw Upgrade - Sharpened Ranged Weapons - Marksmanship - Improved Ranged Weapons - Ensnare
+Слугує пунктом здачі деревини.
+
+Покращення: «Покращена деревообробка» - «Загострена зброя дального бою» - «Влучна стрільба» - «Покращена зброя дального бою» - «Окутати»
 }
 
 STRING 674
@@ -3064,17 +3080,17 @@ STRING 686
 
 STRING 689
 {
-Head of Gul'dan
+Голова Ґул'дана
 }
 
 STRING 690
 {
-Bag with a head
+Сумка з головою.
 }
 
 STRING 692
 {
-This is the head of Gul'dan.
+Це голова зрадника Ґул'дана.
 }
 
 STRING 693
@@ -3569,12 +3585,12 @@ STRING 820
 
 STRING 821
 {
-Eye of Kilrogg
+Око Кілроґа
 }
 
 STRING 822
 {
-Summons an Eye of Kilrog, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur1> seconds.
+Викликає на деякий час «Око Кілроґа», яке можна використовувати для розвідки.|nОко здатне бачити невидимі цілі. |nІснує <AEst,Dur1> сек.
 }
 
 STRING 823
@@ -4111,7 +4127,7 @@ Land Mine
 
 STRING 930
 {
-Eye of Kilrog
+Око Кілроґа
 }
 
 STRING 931
@@ -4121,7 +4137,7 @@ STRING 931
 
 STRING 932
 {
-Summons an Eye of Kilrog, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur1> seconds.
+Викликає на деякий час «Око Кілроґа», яке можна використовувати для розвідки.|nОко здатне бачити невидимі цілі. |nІснує <AEst,Dur1> сек.
 }
 
 STRING 933
@@ -4131,7 +4147,7 @@ STRING 933
 
 STRING 934
 {
-Eye of Kilrogg
+Око Кілроґа
 }
 
 STRING 935
@@ -4686,7 +4702,7 @@ Snowcap
 
 STRING 1046
 {
-Stables
+Конюшні
 }
 
 STRING 1047
@@ -4706,7 +4722,7 @@ Snowcap
 
 STRING 1050
 {
-Church
+Церква
 }
 
 STRING 1051
@@ -4821,7 +4837,7 @@ C
 
 STRING 1076
 {
-Life Tap
+Життєвідвод
 }
 
 STRING 1077
@@ -4831,10 +4847,10 @@ STRING 1077
 
 STRING 1078
 {
-Restore mana at the cost of life.
+Відновлення мани ціною здоров'я.
 
-Health cost: |cffffc800-20%|r
-Mana respored: |cffffc80020%|r
+Кількість забираємого здоров'я: |cffffc800-20%|р
+Кількість відновленої мани: |cffffc80020%|r
 }
 
 STRING 1079
@@ -4959,7 +4975,7 @@ Rune Tablet
 
 STRING 1110
 {
-Submerge
+Зануритись
 }
 
 STRING 1111
@@ -5009,22 +5025,22 @@ STRING 1119
 
 STRING 1120
 {
-Surface
+На поверхню
 }
 
 STRING 1121
 {
-War Turtle bobs up to water surface.
+Бойова черепаха спливає на поверхню
 }
 
 STRING 1122
 {
-War Turtle goes down underwater, becoming invisible for hostile units.
+Бойова черепаха занурюється під воду, що робить її невидимою для ворожих підрозділів.
 }
 
 STRING 1123
 {
-Submerge
+Зануритись
 }
 
 STRING 1124
@@ -5402,7 +5418,7 @@ Damage: |cff808080100 / 225 /|r |cffffcc00350|r
 
 STRING 1200
 {
-For the Horde!
+За Орду!
 }
 
 STRING 1201
@@ -5417,7 +5433,7 @@ Learn For the Horde!
 
 STRING 1203
 {
-For the Horde!
+За Орду!
 }
 
 STRING 1204
@@ -5487,7 +5503,7 @@ STRING 1214
 
 STRING 1215
 {
-For the Horde!
+За Орду!
 }
 
 STRING 1216
@@ -6491,12 +6507,12 @@ STRING 1396
 
 STRING 1397
 {
-Unholy Sentry
+Нечестива варта
 }
 
 STRING 1398
 {
-Unholy Sentry
+Нечестива варта
 }
 
 STRING 1399
@@ -6595,7 +6611,7 @@ Increases the hit point regeneration rate of Berserkers.
 
 STRING 1417
 {
-Sundering
+Розкол
 }
 
 STRING 1418
@@ -6605,22 +6621,22 @@ STRING 1418
 
 STRING 1419
 {
-Sundering - [|cffffcc00Level 1|r]
+Розкол - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1420
 {
-Sundering - [|cffffcc00Level 2|r]
+Розкол - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1421
 {
-Sundering - [|cffffcc00Level 3|r]
+Розкол - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1422
 {
-Learn Sundering - [|cffffcc00Level %d|r]
+Вивчити Розкол - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1423
@@ -6635,34 +6651,34 @@ Q
 
 STRING 1425
 {
-Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+Розколює землю по прямій лінії, роблячи шкоду ворожим наземним цілям та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
 
-Duration: 2s / 3s / 4s
-Damage: 150 / 225 / 300
+Тривалість: 2 сек. / 3 сек. / 4 сек.
+Шкода: 150 од. / 225 од. / 300 од.
 }
 
 STRING 1426
 {
-Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+Розколює землю по прямій лінії, роблячи шкоду ворожим наземним цілям та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
 
-Duration: |cffffcc002s |r|cff808080/ 3s / 4s|r
-Damage: |cffffcc00150 |r|cff808080/ 225 / 300|r
+Тривалість: |cffffcc002 сек. |r|cff808080/ 3 сек. / 4 сек.|r
+Шкода: |cffffcc00150 од. |r|cff808080/ 225 од. / 300 од.|r
 }
 
 STRING 1427
 {
-Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+Розколює землю по прямій лінії, роблячи шкоду ворожим наземним цілям та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
 
-Duration: |cff8080802s /|r |cffffcc003s |r|cff808080/ 4s|r
-Damage: |cff808080150 /|r |cffffcc00225 |r|cff808080/ 300|r
+Тривалість: |cff8080802 сек. /|r |cffffcc003 сек. |r|cff808080/ 4 сек.|r
+Шкода: |cff808080150 од. /|r |cffffcc00225  од.|r|cff808080/ 300 од.|r
 }
 
 STRING 1428
 {
-Shatters the earth in a straight line, dealing damage to ground units and structures. Caught enemies will be hurled into the air and stunned.
+Розколює землю по прямій лінії, ноносячи шкоду наземним війська та спорудам. Підкидує та приголомшує цілі які опиняються у зоні ураження.
 
-Duration: |cff8080802s / 3s /|r |cffffcc004s|r
-Damage: |cff808080150 / 225 /|r |cffffcc00300|r
+Тривалість: |cff8080802 сек. / 3 сек. /|r |cffffcc004 сек.|r
+Шкода: |cff808080150 од. / 225 од. /|r |cffffcc00300 од.|r
 }
 
 STRING 1429
@@ -6672,38 +6688,46 @@ W
 
 STRING 1430
 {
-Gives a chance that an attack will do bonus damage and stun an opponent.
+|cffe6cc80ПАСИВНА|r
 
-Duration: 2s
-Bonus Damage: 20 / 35 / 50
-Chance: 20% / 30% / 40%
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: 2 сек.
+Додаткова шкода: 20 од. / 35 од. / 50 од.
+Шанс: 20% / 30% / 40%
 }
 
 STRING 1431
 {
-Gives a chance that an attack will do bonus damage and stun an opponent.
+|cffe6cc80ПАСИВНА|r
 
-Duration: |cffffcc002s|r
-Bonus Damage: |cffffcc0020 |r|cff808080/ 35 / 50|r
-Chance: |cffffcc0020% |r|cff808080/ 30% / 40%|r
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: |cffffcc002 сек.|r
+Додаткова шкода: |cffffcc0020 од. |r|cff808080/ 35 од. / 50 од.|r
+Шанс: |cffffcc0020% |r|cff808080/ 30% / 40%|r
 }
 
 STRING 1432
 {
-Gives a chance that an attack will do bonus damage and stun an opponent.
+|cffe6cc80ПАСИВНА|r
 
-Duration: |cffffcc002s|r
-Bonus Damage: |cff80808020 /|r |cffffcc0035 |r|cff808080/ 50|r
-Chance: |cff80808020% /|r |cffffcc0030% |r|cff808080/ 40%|r
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: |cffffcc002 сек.|r
+Додаткова шкода: |cff80808020 од. /|r |cffffcc0035 од. |r|cff808080/ 50 од.|r
+Шанс: |cff80808020% /|r |cffffcc0030% |r|cff808080/ 40%|r
 }
 
 STRING 1433
 {
-Gives a chance that an attack will do bonus damage and stun an opponent.
+|cffe6cc80ПАСИВНА|r
 
-Duration: |cffffcc002s|r
-Bonus Damage: |cff80808020 / 35 /|r |cffffcc0050|r
-Chance: |cff80808020% / 30% /|r |cffffcc0040%|r
+Дає шанс, що Чо'ґалл завдасть цілі додаткової шкоди та приголомшить її.
+
+Тривалість: |cffffcc002 сек|r
+Додаткова шкода: |cff80808020 од. / 35 од. /|r |cffffcc0050 од.|r
+Шанс: |cff80808020% / 30% /|r |cffffcc0040%|r
 }
 
 STRING 1434
@@ -6713,59 +6737,59 @@ STRING 1434
 
 STRING 1435
 {
-Void Tendrils
+Щупальця безодні
 }
 
 STRING 1436
 {
-Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+З під землі з'являються темні щупальця, які кожну секунду чинять шкоду цілі, і також забирають в неї можливість рухатись та атакувати.
 
-Duration: 9s / 24s / 36s
-Damage per Second: 15 / 20 / 25
+Тривалість: 9 сек. / 24 сек. / 36 сек.
+Шкода у секунду: 15 од. / 20 од. / 25 од.
 }
 
 STRING 1437
 {
-Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+З під землі з'являються темні щупальця, які кожну секунду чинять шкоду цілі, і також забирають в неї можливість рухатись та атакувати.
 
-Duration: |cffffcc009s |r|cff808080/ 24s / 36s|r
-Damage per Second: |cffffcc0015 |r|cff808080/ 20 / 25|r
+Тривалість: |cffffcc009 сек. |r|cff808080/ 24 сек. / 36 сек.|r
+Шкода у секунду: |cffffcc0015 од. |r|cff808080/ 20 од. / 25 од.|r
 }
 
 STRING 1438
 {
-Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+З під землі з'являються темні щупальця, які кожну секунду чинять шкоду цілі, і також забирають в неї можливість рухатись та атакувати.
 
-Duration: |cff8080809s /|r |cffffcc0024s |r|cff808080/ 36s|r
-Damage per Second: |cff80808015 /|r |cffffcc0020 |r|cff808080/ 25|r
+Тривалість: |cff8080809 сек. /|r |cffffcc0024 сек. |r|cff808080/ 36 сек.|r
+Шкода у секунду:: |cff80808015 од./|r |cffffcc0020 од. |r|cff808080/ 25 од.|r
 }
 
 STRING 1439
 {
-Summons shadowy tendrils from the ground, temporarily immobilizing, disarming and damaging the target.
+З під землі з'являються темні щупальця, які кожну секунду чинять шкоду цілі, і також забирають в неї можливість рухатись та атакувати.
 
-Duration: |cff8080809s / 24s /|r |cffffcc0036s|r
-Damage per Second: |cff80808015 / 20 /|r |cffffcc0025|r
+Тривальість: |cff8080809 сек. / 24 сек. /|r |cffffcc0036 сек.|r
+Шкода у секунду: |cff80808015 од. / 20 од. /|r |cffffcc0025 од.|r
 }
 
 STRING 1440
 {
-Learn Void Tendrils - [|cffffcc00Level %d|r]
+Вивчити Шупальця безодні - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1441
 {
-Void Tendrils - [|cffffcc00Level 1|r]
+Щупальця безодні - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1442
 {
-Void Tendrils - [|cffffcc00Level 2|r]
+Щупальця безодні - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1443
 {
-Void Tendrils - [|cffffcc00Level 3|r]
+Щупальця безодні - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1444
@@ -6775,7 +6799,7 @@ STRING 1444
 
 STRING 1445
 {
-Crushing Madness
+Нищівне божевілля
 }
 
 STRING 1446
@@ -6785,12 +6809,12 @@ R
 
 STRING 1447
 {
-Learn Crushing Madness
+Вивчити Нищівне божевілля
 }
 
 STRING 1448
 {
-Crushing Madness
+Нищівне божевілля
 }
 
 STRING 1449
@@ -6805,7 +6829,7 @@ STRING 1450
 
 STRING 1453
 {
-Chaos Bolt
+Стріла Хаосу
 }
 
 STRING 1454
@@ -6815,12 +6839,12 @@ Q
 
 STRING 1455
 {
-Learn Chaos Bolt - [|cffffcc00Level %d|r]
+Вивчити Стріла хаосу - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1456
 {
-Chaos Bolt - [|cffffcc00Level 1|r]
+Стріла хаосу - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1457
@@ -6835,44 +6859,44 @@ STRING 1458
 
 STRING 1459
 {
-Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
 
-Damage: 200 / 400 / 600
-Healing: 300 / 600 / 900
+Шкода по цілі: 200 од. / 400 од. / 600 од.
+Відновлення здоров'я інфернала: 300 од. / 600 од. / 900 од.
 }
 
 STRING 1460
 {
-Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
 
-Damage: |cffffcc00200 |r|cff808080/ 400 / 600|r
-Healing: |cffffcc00300 |r|cff808080/ 600 / 900|r
+Шкода по цілі: |cffffcc00200 од. |r|cff808080/ 400 од. / 600 од.|r
+Відновлення здоров'я інфернала: |cffffcc00300 од. |r|cff808080/ 600  од./ 900 од.|r
 }
 
 STRING 1461
 {
-Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
 
-Damage: |cff808080200 /|r |cffffcc00400 |r|cff808080/ 600|r
-Healing: |cff808080300 /|r |cffffcc00600 |r|cff808080/ 900|r
+Шкода по цілі: |cff808080200 од. /|r |cffffcc00400 од. |r|cff808080/ 600 од.|r
+Відновлення здоров'я інфернала: |cff808080300 од. /|r |cffffcc00600 од. |r|cff808080/ 900 од.|r
 }
 
 STRING 1462
 {
-Unleashes a devastating blast of chaos, dealing massive damage to an enemy target or structure. Chaos Bolt can also be used to restore health to an enslaved Infernal.
+Вивільняє нищівну стрілу хаосу, яка чинити велику шкоду по ворожій цілі або споруді. Стріла хаосу також може бути направлена на інфернала, щоб відновити його запас здоров'я.
 
-Damage: |cff808080200 / 400 /|r |cffffcc00600|r
-Healing: |cff808080300 / 600 /|r |cffffcc00900|r
+Шкода по цілі: |cff808080200 од. / 400 од. /|r |cffffcc00600 од.|r
+Відновлення здоров'я інфернала: |cff808080300 од. / 600 од. /|r |cffffcc00900 од.|r
 }
 
 STRING 1463
 {
-Chaos Bolt - [|cffffcc00Level 2|r]
+Стріла хаосу - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1464
 {
-Chaos Bolt - [|cffffcc00Level 3|r]
+Стріла хаосу - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1465
@@ -6887,22 +6911,22 @@ W
 
 STRING 1467
 {
-Inferno - [|cffffcc00Level 1|r]
+Інфернал - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1468
 {
-Inferno - [|cffffcc00Level 2|r]
+Інфернал - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1469
 {
-Inferno - [|cffffcc00Level 3|r]
+Інфернал - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1470
 {
-Learn Inferno - [|cffffcc00Level %d|r]
+Вивчити Інфернал - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1471
@@ -6912,38 +6936,38 @@ STRING 1471
 
 STRING 1472
 {
-Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоровʼя.
 
-Duration: 60s / 90s / 120s
-Cooldown: 120s / 90s / 60s
-Impact Damage: 50 / 75 / 100
+Тривалість життя інферналу: 60 сек./ 90 сек./ 120 сек.
+Відновлення: 120 сек. / 90 сек. / 60 сек.
+Шкода від приземлення: 50 од. / 75 од. / 100 од.
 }
 
 STRING 1473
 {
-Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоров'я.
 
-Duration: |cffffcc0060s |r|cff808080/ 90s / 120s|r
-Cooldown: |cffffcc00120s |r|cff808080/ 90s / 60s|r
-Impact Damage: |cffffcc0050 |r|cff808080/ 75 / 100|r
+Тривалість життя інферналу: |cffffcc0060 сек. |r|cff808080/ 90 сек. / 120 сек.|r
+Відновлення: |cffffcc00120 сек. |r|cff808080/ 90 сек. / 60 сек.|r
+Шкода від приземлення: |cffffcc0050 од. |r|cff808080/ 75 од. / 100 од.|r
 }
 
 STRING 1474
 {
-Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоров'я.
 
-Duration: |cff80808060s /|r |cffffcc0090s |r|cff808080/ 120s|r
-Cooldown: |cff808080120s /|r |cffffcc0090s |r|cff808080/ 60s|r
-Impact Damage: |cff80808050 /|r |cffffcc0075 |r|cff808080/ 100|r
+Тривалість життя інферналу: |cff80808060 сек. /|r |cffffcc0090 сек. |r|cff808080/ 120 сек.|r
+Відновлення: |cff808080120 сек. /|r |cffffcc0090 сек. |r|cff808080/ 60 сек.|r
+Шкода від приземлення: |cff80808050 од. /|r |cffffcc0075 од. |r|cff808080/ 100 од.|r
 }
 
 STRING 1475
 {
-Calls an Infernal down from the sky, dealing damage and stunning enemy land units in an area. The Infernal is unstable and will loose health over time.
+Ґул'дан викликає інфернала який падає просто з неба, роблячи шкоду та приголомшуючи цілі у зоні свого приземлення. Інфернал дуже нестабільний і з часом почне втрачати здоров'я.
 
-Duration: |cff80808060s / 90s /|r |cffffcc00120s|r
-Cooldown: |cff808080120s / 90s /|r |cffffcc0060s|r
-Impact Damage: |cff80808050 / 75 /|r |cffffcc00100|r
+Тривалість життя інферналу: |cff80808060s / 90s /|r |cffffcc00120s|r
+Відновлення: |cff808080120s / 90s /|r |cffffcc0060s|r
+Шкода від приземлення: |cff80808050 / 75 /|r |cffffcc00100|r
 }
 
 STRING 1476
@@ -6963,63 +6987,63 @@ STRING 1478
 
 STRING 1479
 {
-Soul Drain
+Спустошення душі
 }
 
 STRING 1480
 {
-Learn Soul Drain - [|cffffcc00Level %d|r]
+Вивчити спустошення душі - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1481
 {
-Soul Drain - [|cffffcc00Level 1|r]
+Спустошення душі - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1482
 {
-Soul Drain - [|cffffcc00Level 2|r]
+Спустошення душі - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1483
 {
-Soul Drain - [|cffffcc00Level 3|r]
+Спустошення душі - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1484
 {
-Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+Ґул'дан починає витягувати з цілі душу, що дозволяє йому поновити своє здоров'я, та ману якщо вона є у цілі. 
 
-Duration: 3s
-Health per Second: 70 / 110 / 150
-Mana per Second: 30 / 60 / 90
+Тривалість: 3 сек.
+Здоров'я у сек.: 70 од.  / 110 од.  / 150 од. 
+Мани у сек.: 30 од. / 60 од. / 90 од. 
 }
 
 STRING 1485
 {
-Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+Витягання душі з цілі, дозволяє Ґул'дану витягти здоров'я цілі та ману якщо вона є у цілі. 
 
-Duration: |cffffcc003s|r
-Health per Second: |cffffcc0070 |r|cff808080/ 110 / 150|r
-Mana per Second: |cffffcc0030 |r|cff808080/ 60 / 90|r
+Тривалість: |cffffcc003 сек.|r
+Кількість здоровʼя якє витягається за секунду: |cffffcc0070 од. |r|cff808080/ 110 од. / 150 од.|r
+Кількість мани яка витягається за секунду: |cffffcc0030 од. |r|cff808080/ 60 од. / 90 од.|r
 }
 
 STRING 1486
 {
-Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+Витягання душі з цілі, дозволяє Ґул'дану витягти здоров'я цілі та ману якщо вона є у цілі. 
 
-Duration: |cffffcc003s|r
-Health per Second: |cff80808070 /|r |cffffcc00110 |r|cff808080/ 150|r
-Mana per Second: |cff80808030 /|r |cffffcc0060 |r|cff808080/ 90|r
+Тривалість: |cffffcc003 сек.|r
+Кількість здоров'я якє витягається за секунду:: |cff80808070 од. /|r |cffffcc00110 од. |r|cff808080/ 150 од.|r
+Кількість мани яка витягається за секунду: |cff80808030 од. /|r |cffffcc0060 од. |r|cff808080/ 90 од.|r
 }
 
 STRING 1487
 {
-Drains the soul from the enemy, making Gul'dan absorb the target's life and mana (if available).
+Витягання душі з цілі, дозволяє Ґул'дану витягти здоров'я цілі та ману якщо вона є у цілі. 
 
-Duration: |cffffcc003s|r
-Health per Second: |cff80808070 / 110 /|r |cffffcc00150|r
-Mana per Second: |cff80808030 / 60 /|r |cffffcc0090|r
+Тривалість: |cffffcc003 сек.|r
+Кількість здоров'я якє витягається за секунду: |cff80808070  од./ 110 од. /|r |cffffcc00150 од.|r
+Кількість мани яка витягається за секунду: |cff80808030 од. / 60 од. /|r |cffffcc0090 од.|r
 }
 
 STRING 1488
@@ -7044,27 +7068,27 @@ R
 
 STRING 1492
 {
-Learn Hand of Gul'dan
+Вивчити Долоня Ґул'дана
 }
 
 STRING 1493
 {
-Hand of Gul'dan
+Долоня Ґул'дана
 }
 
 STRING 1494
 {
-Summons Fel Volcano. Makes the ground tremble and break, causing <AOeq,DataB1> damage per second to buildings and slowing units by <AOeq,DataC1,%>% within the area of effect. Lasts <AOeq,Dur1> seconds.
+Ґул'дан викликає вулкан скверни. У обраній області земля тремтить та ламається, наносячи спорудам <AOeq,DataB1> од. шкоди у сек., також знижує швидкість ворожих цілей на <AOeq,DataC1,%>% у зоні ураження. Триває <AOeq,Dur1> сек.
 }
 
 STRING 1495
 {
-Summons Fel Volcano. Makes the ground tremble and break, causing <AOeq,DataB1> damage per second to buildings and slowing units by <AOeq,DataC1,%>% within the area of effect. |nLasts <AOeq,Dur1> seconds.
+Ґул'дан викликає вулкан скверни. У обраній області земля тремтить та ламається, наносячи спорудам <AOeq,DataB1> од. шкоди у сек., також знижує швидкість ворожих цілей на <AOeq,DataC1,%>% у зоні ураження. Триває <AOeq,Dur1> сек.
 }
 
 STRING 1496
 {
-Chaos Bolt
+Стріла Хаосу
 }
 
 STRING 1497
@@ -7074,22 +7098,22 @@ STRING 1497
 
 STRING 1498
 {
-Chaos Bolt - [|cffffcc00Level 1|r]
+Стріла хаосу - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1499
 {
-Chaos Bolt - [|cffffcc00Level 2|r]
+Стріла хаосу - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1500
 {
-Chaos Bolt - [|cffffcc00Level 3|r]
+Стріла хаосу - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1501
 {
-Chaos Bolt
+Стріла Хаосу
 }
 
 STRING 1502
@@ -7382,7 +7406,7 @@ STRING 1549
 
 STRING 1550
 {
-Inferno
+Інфернал
 }
 
 STRING 1551
@@ -7752,7 +7776,7 @@ STRING 1613
 
 STRING 1614
 {
-Uses incendiary ammunition shells, causing them to light the target area on fire and burn enemy units.
+Використання запальних снарядів, що підпалюють зону ураження та носять шкоду від вогню ворожим цілям.
 }
 
 STRING 1615
@@ -7762,12 +7786,12 @@ STRING 1615
 
 STRING 1616
 {
-Incendiary Ammo
+Запальні снаряди
 }
 
 STRING 1617
 {
-Incendiary Ammo
+Запальні снаряди
 }
 
 STRING 1632
@@ -7931,7 +7955,7 @@ STRING 1670
 
 STRING 1671
 {
-Additionally increases the damage of ranged weapons by <Remk,base1>.
+Додатково збільшує шкоду від зброї дального бою на <Remk,base1> од.
 }
 
 STRING 1672
@@ -7956,17 +7980,17 @@ STRING 1675
 
 STRING 1676
 {
-Lighter Axes
+Легші сокири
 }
 
 STRING 1677
 {
-Lighter Axes
+Легші сокири
 }
 
 STRING 1678
 {
-Drenches the ammo in burning oil, causing them to light the ground on fire and burn enemy units.
+Снаряди підпалюють землю у зоні ураження, таким чином ворожі одиниці отримують додаткову шкоду від вогню.
 }
 
 STRING 1679
@@ -8006,7 +8030,7 @@ STRING 1685
 
 STRING 1686
 {
-Additionally increases the damage of ranged weapons by <Remk,base1>.
+Додатково збільшує шкоду від зброї дального бою на <Remk,base1> од.
 }
 
 STRING 1687
@@ -8138,7 +8162,7 @@ STRING 1711
 
 STRING 1712
 {
-Allows Zeppelin to attack land units and Buildings.
+Дирижаблі отримують змогу атакувати споруди та наземні одиниці.
 }
 
 STRING 1713
@@ -8740,7 +8764,7 @@ This unit sees the Warbanner of the Horde; it has increased attack damage.
 
 STRING 1857
 {
-For the Horde!
+За Орду!
 }
 
 STRING 1858
@@ -8755,7 +8779,7 @@ STRING 1859
 
 STRING 1860
 {
-For the Horde!
+За Орду!
 }
 
 STRING 1861
@@ -9020,7 +9044,7 @@ This unit has been shocked by Cho'gall's Sundering.
 
 STRING 1915
 {
-Void Tendrils
+Щупальця безодні
 }
 
 STRING 1916
@@ -9030,7 +9054,7 @@ STRING 1916
 
 STRING 1917
 {
-This unit has been hit by Void Tendrils; it cannot move and takes damage over time.
+Ця одиниця була схоплена щупальцями безодні; вона не може рухатись і періодично отримує шкоду.
 }
 
 STRING 1918
@@ -9270,12 +9294,12 @@ Allows Goblin Zeppelins to attack land units.
 
 STRING 1968
 {
-Zeppelin Bombs
+Бомби на дирижаблях
 }
 
 STRING 1969
 {
-Research Zeppelin Bombs
+Дослідження: Бомби на дирижаблях
 }
 
 STRING 1970
@@ -9345,32 +9369,32 @@ STRING 1982
 
 STRING 1983
 {
-Ogre Magi Training
+Покращення Оґрів-магів
 }
 
 STRING 1984
 {
-Superior Ogre Magi Training
+Максимальне покращення Оґрів-магів
 }
 
 STRING 1985
 {
-Ogre Magi Training
+Покращення Оґрів-магів
 }
 
 STRING 1986
 {
-Superior Ogre Magi Training
+Максимальне покращення Оґрів-магів
 }
 
 STRING 1987
 {
-Increases Ogre Magi's mana capacity and regeneration, and teaches them the |cffffcc00Eye of Kilrogg|r ability.
+Збільшує запас мани Оґрів-магів і прискорює швидкість її відновлення, також навчає здібності |cffffcc00«Око Кілроґа»|r.
 }
 
 STRING 1988
 {
-Further increases Ogre Magi's mana capacity and regeneration, and teaches them the |cffffcc00Runes|r ability.
+Максимально збільшує запас мани Оґрів-магів і ще більше прискорює швидкість її відновлення, також навчає здібності |cffffcc00Руни|r
 }
 
 STRING 1989
@@ -9390,17 +9414,17 @@ rauv
 
 STRING 1992
 {
-Berserker Sight
+Пильність берсерка
 }
 
 STRING 1993
 {
-Berserker Sight
+Пильність берсерка
 }
 
 STRING 1994
 {
-Gives Berserkers the ability to see as far at night as they do during the day.
+Берсерки бачать уночі так само далеко, як і вдень.
 }
 
 STRING 1995
@@ -9410,17 +9434,17 @@ STRING 1995
 
 STRING 1996
 {
-Lighter Axes
+Легші сокири
 }
 
 STRING 1997
 {
-Lighter Axes
+Легші сокири
 }
 
 STRING 1998
 {
-Increases the attack range of Troll Berserkers.
+Збільшує дальніть атаки тролів берсерків.
 }
 
 STRING 1999
@@ -9435,47 +9459,47 @@ artillery
 
 STRING 2001
 {
-Heavy Projectiles
+Важкі снаряди
 }
 
 STRING 2002
 {
-Sulfur Projectiles
+Сульфурові снаряди
 }
 
 STRING 2003
 {
-Further increases the siege attack damage of Catapults.
+Ще більше збільшує шкоду яку наносять катапульти.
 }
 
 STRING 2004
 {
-Further increases the siege attack damage of Catapults.
+Максимально збільшує шкоду яку наносять катапульти.
 }
 
 STRING 2005
 {
-Iron Projectiles
+Залізні снаряди
 }
 
 STRING 2006
 {
-Increases the siege attack damage of Catapults.
+Збільшує шкоду яку наносять катапульти.
 }
 
 STRING 2007
 {
-Heavy Projectiles
+Важкі снаряди
 }
 
 STRING 2008
 {
-Sulfur Projectiles
+Сульфурові снаряди
 }
 
 STRING 2009
 {
-Iron Projectiles
+Залізні снаряди
 }
 
 STRING 2010
@@ -9495,7 +9519,7 @@ STRING 2012
 
 STRING 2013
 {
-Steel Plating
+Сталева обшивка
 }
 
 STRING 2014
@@ -9515,27 +9539,27 @@ Further increases armor of Destroyers, Battleships, Transports and Submarines.
 
 STRING 2017
 {
-Brass Plating
+Латунна обшивка
 }
 
 STRING 2018
 {
-Iron Plating
+Залізна обшивка
 }
 
 STRING 2019
 {
-Brass Plating
+Латунна обшивка
 }
 
 STRING 2020
 {
-Iron Plating
+Залізна обшивка
 }
 
 STRING 2021
 {
-Steel Plating
+Сталева обшивка
 }
 
 STRING 2022
@@ -9555,32 +9579,32 @@ STRING 2024
 
 STRING 2025
 {
-Brass Cannons
+Латунні гармати
 }
 
 STRING 2026
 {
-Iron Cannons
+Залізні гармати
 }
 
 STRING 2027
 {
-Steel Cannons
+Сталеві гармати
 }
 
 STRING 2028
 {
-Steel Cannons
+Сталеві гармати
 }
 
 STRING 2032
 {
-Iron Cannons
+Залізні гармати
 }
 
 STRING 2033
 {
-Brass Cannons
+Латунні гармати
 }
 
 STRING 2034
@@ -9910,27 +9934,27 @@ STRING 2098
 
 STRING 2099
 {
-Brass Cannons
+Латунні гармати
 }
 
 STRING 2100
 {
-Iron Cannons
+Залізні гармати
 }
 
 STRING 2101
 {
-Steel Cannons
+Сталеві гармати
 }
 
 STRING 2102
 {
-Iron Cannons
+Залізні гармати
 }
 
 STRING 2103
 {
-Steel Cannons
+Сталеві гармати
 }
 
 STRING 2104
@@ -9945,7 +9969,7 @@ Further increases the damage of Elven Destroyers, Battleships and Submarines.  |
 
 STRING 2106
 {
-Brass Cannons
+Латунні гармати
 }
 
 STRING 2107
@@ -9970,32 +9994,32 @@ STRING 2110
 
 STRING 2111
 {
-Brass Plating
+Латунна обшивка
 }
 
 STRING 2112
 {
-Iron Plating
+Залізна обшивка
 }
 
 STRING 2113
 {
-Steel Plating
+Сталева обшивка
 }
 
 STRING 2116
 {
-Brass Plating
+Латунна обшивка
 }
 
 STRING 2117
 {
-Iron Plating
+Залізна обшивка
 }
 
 STRING 2118
 {
-Steel Plating
+Сталева обшивка
 }
 
 STRING 2120
@@ -10030,17 +10054,17 @@ STRING 2125
 
 STRING 2126
 {
-Bigger Tanks
+Більші бочки
 }
 
 STRING 2127
 {
-Bigger Tanks
+Більші бочки
 }
 
 STRING 2128
 {
-Increases the barrel capacity of Oil Tankers, allowing them to get additional 25 barrels of oil upon transportation.
+Збільшені бочки для нафтових танкерів, які дозволяют доставляти додатково 25 од. нафти за раз.
 }
 
 STRING 2129
@@ -10065,12 +10089,12 @@ STRING 2132
 
 STRING 2133
 {
-Better Pickaxes
+Кращі шахтарські кирки
 }
 
 STRING 2134
 {
-Better Pickaxes
+Кращі шахтарські кирки
 }
 
 STRING 2135
@@ -10095,12 +10119,12 @@ STRING 2138
 
 STRING 2139
 {
-Lumber Saw Upgrade
+Покращена деревообробка
 }
 
 STRING 2140
 {
-Lumber Saw Upgrade
+Покращена деревообробка
 }
 
 STRING 2141
@@ -10135,7 +10159,7 @@ Better Pickaxes
 
 STRING 2147
 {
-Peons bring additional 25 gold pieces upon harvesting.
+Видобуток золота батраками збільшується на 25 од.
 }
 
 STRING 2148
@@ -10155,17 +10179,17 @@ STRING 2150
 
 STRING 2151
 {
-Lumber Saw Upgrade
+Покращена деревообробка
 }
 
 STRING 2152
 {
-Lumber Saw Upgrade
+Покращена деревообробка
 }
 
 STRING 2153
 {
-Peons bring additional 25 lumber pieces upon harvesting.
+Видобуток деревини батраками збільшується на 25 од.
 }
 
 STRING 2154
@@ -10180,7 +10204,7 @@ STRING 2155
 
 STRING 2156
 {
-Bigger Tanks
+Більші бочки
 }
 
 STRING 2157
@@ -10190,12 +10214,12 @@ T
 
 STRING 2158
 {
-Bigger Tanks
+Більші бочки
 }
 
 STRING 2159
 {
-Increases the barrel capacity of Oil Tankers, allowing them to get additional 25 barrels of oil upon transportation.
+Збільшені бочки для нафтових танкерів, які дозволяют доставляти додатково 25 од. нафти за раз.
 }
 
 STRING 2160
@@ -10290,17 +10314,17 @@ STRING 2177
 
 STRING 2178
 {
-Increases the piercing attack damage of orcish Archers and Spearthrowers.
+Збільшує шкоду від атак орків лучників та списометальників.
 }
 
 STRING 2179
 {
-Further increases the piercing attack damage of orcish Archers and Spearthrowers.
+Ще збільшує шкоду від атак орків лучників та списометальників.
 }
 
 STRING 2180
 {
-Further increases the piercing attack damage of orcish Archers and Spearthrowers.
+Максимально збільшує шкоду від атак орків лучників та списометальників.
 }
 
 STRING 2181
@@ -10320,32 +10344,32 @@ STRING 2183
 
 STRING 2184
 {
-Sharpened Ranged Weapons
+Заточена зброя дальнього бою
 }
 
 STRING 2185
 {
-Iron Ranged Weapons
+Залізна зброя дального бою
 }
 
 STRING 2186
 {
-Steel Ranged Weapons
+Сталева зброя дального бою
 }
 
 STRING 2187
 {
-Steel Ranged Weapons
+Сталева зброя дального бою
 }
 
 STRING 2188
 {
-Iron Ranged Weapons
+Залізна зброя дального бою
 }
 
 STRING 2189
 {
-Sharpened Ranged Weapons
+Заточена зброя дальнього бою
 }
 
 STRING 2191
@@ -10355,12 +10379,12 @@ STRING 2191
 
 STRING 2192
 {
-Upgrades Troll Axethrowers to Troll Berserkers.
+Покращує тролів сокирокидів до тролів берсерків
 }
 
 STRING 2193
 {
-Troll Berserker Training
+Ініціація у берсерків
 }
 
 STRING 2194
@@ -10370,7 +10394,7 @@ STRING 2194
 
 STRING 2195
 {
-Troll Berserker Training
+Ініціація у берсерків
 }
 
 STRING 2196
@@ -10425,17 +10449,17 @@ STRING 2205
 
 STRING 2206
 {
-Berserker Regeneration
+Регенерація берсерка
 }
 
 STRING 2207
 {
-Berserker Regeneration
+Регенерація берсерка
 }
 
 STRING 2208
 {
-Makes Troll Berserkers regain lost health at a fater rate.
+Тролі берсерки швидше відновлють втрачене здоров'я.
 }
 
 STRING 2209
@@ -10460,17 +10484,17 @@ rlev
 
 STRING 2213
 {
-Improves the fighting capabilities of Grunts from all Orcish Clans, unlocking their special abilities.
+Покращує бойові навички рубайл усіх орочих кланів, відкриваючи їх додаткові здібності.
 }
 
 STRING 2214
 {
-For the Horde!
+За Орду!
 }
 
 STRING 2215
 {
-For the Horde!
+За Орду!
 }
 
 STRING 2216
@@ -10480,7 +10504,7 @@ STRING 2216
 
 STRING 2217
 {
-Upgrades the projectiles of Catapults and Ogre Juggernauts, causing their attacks to burn the impact area.
+Покращує снаряди катапульт та джаґернаутів оґрів, місце в яке вони влучають снаряди починає горіти та чинити шкоду.
 }
 
 STRING 2218
@@ -10490,7 +10514,7 @@ STRING 2218
 
 STRING 2219
 {
-Teaches Troll Berserkers the |cffffcc00Ensnare|r ability.
+Навчає тролів берсерків здібності |cffffcc00Оплутати|r.
 }
 
 STRING 2220
@@ -10500,52 +10524,52 @@ STRING 2220
 
 STRING 2221
 {
-Ensnare
+Оплутати
 }
 
 STRING 2222
 {
-Further increases the armor of Grunts, Ogres, and Ogre-Mages.
+Ще більше посилює броню рубайл, оґрів та оґрів-магів
 }
 
 STRING 2223
 {
-Further increases the armor of Grunts, Ogres, and Ogre-Mages.
+Максимально посилює броню рубайл, оґрів та оґрів-магів
 }
 
 STRING 2224
 {
-Increases the armor of Grunts, Ogres, and Ogre-Mages.
+Посилює броню рубайл, оґрів та оґрів-магів.
 }
 
 STRING 2225
 {
-Steel Armor
+Сталева броня
 }
 
 STRING 2226
 {
-Iron Armor
+Залізна броня
 }
 
 STRING 2227
 {
-Reinforced Armor
+Зміцнена броня
 }
 
 STRING 2228
 {
-Steel Armor
+Сталева броня
 }
 
 STRING 2229
 {
-Iron Armor
+Залізна броня
 }
 
 STRING 2230
 {
-Reinforced Armor
+Зміцнена броня
 }
 
 STRING 2231
@@ -10565,47 +10589,47 @@ STRING 2233
 
 STRING 2234
 {
-Further increases the melee attack damage of Grunts, Ogres and Ogre-Mages.
+Ще більше збільшує кілкість шкоди яку наносять у ближньому бою рубайла, оґри та оґри-маги
 }
 
 STRING 2235
 {
-Further increases the melee attack damage of Grunts, Ogres and Ogre-Mages.
+Максимально збільшує кілкість шкоди яку наносять у ближньому бою рубайла, оґри та оґри-маги
 }
 
 STRING 2236
 {
-Increases the melee attack damage of Grunts, Ogres and Ogre-Mages.
+Збільшує кількість шкоди яку наносять у ближньому бою рубайла, оґри та оґри-маги.
 }
 
 STRING 2237
 {
-Steel Melee Weapons
+Зброя ближнього бою зі сталі
 }
 
 STRING 2238
 {
-Steel Melee Weapons
+Зброя ближнього бою зі сталі
 }
 
 STRING 2239
 {
-Iron Melee Weapons
+Зброя ближнього бою з заліза
 }
 
 STRING 2240
 {
-Sharpened Melee Weapons
+Заточена зброя ближнього бою
 }
 
 STRING 2241
 {
-Iron Melee Weapons
+Зброя ближнього бою з заліза
 }
 
 STRING 2242
 {
-Sharpened Melee Weapons
+Заточена зброя ближнього бою
 }
 
 STRING 2243
@@ -10625,7 +10649,7 @@ STRING 2245
 
 STRING 2246
 {
-Causes Peons, Grunts, and Ogres attacks to gain resources when hitting enemy buildings.
+Коли батраки й рубайла з усіх кланів, а також оґри роблять шкоду ворожим спорудам ви будете отримувати ресурси.
 }
 
 STRING 2247
@@ -10645,47 +10669,47 @@ STRING 2249
 
 STRING 2250
 {
-Further increases the piercing attack damage of Troll Axethrowers and Troll Berserkers.
+Максимально збільшує шкоду від атак тролів та берсерків.
 }
 
 STRING 2251
 {
-Further increases the piercing attack damage of Troll Axethrowers and Troll Berserkers.
+Ще більше збільшує шкоду від атак тролів та берсерків.
 }
 
 STRING 2252
 {
-Sharpened Throwing Axes
+Загострені сокири
 }
 
 STRING 2253
 {
-Iron Throwing Axes
+Металеві сокири
 }
 
 STRING 2254
 {
-Steel Throwing Axes
+Сталеві сокири
 }
 
 STRING 2255
 {
-Increases the piercing attack damage of Troll Axethrowers and Troll Berserkers.
+Збільшує шкоду від атак тролів та берсерків.
 }
 
 STRING 2256
 {
-Steel Throwing Axes
+Сталеві сокири
 }
 
 STRING 2257
 {
-Iron Throwing Axes
+Металеві сокири
 }
 
 STRING 2258
 {
-Sharpened Throwing Axes
+Загострені сокири
 }
 
 STRING 2259
@@ -10705,12 +10729,12 @@ STRING 2261
 
 STRING 2262
 {
-Ogre Magi Initiation
+Ініціація у Оґрів-магів
 }
 
 STRING 2263
 {
-Initiates the brutish Ogres to become ruthless and cunning Ogre Magi.
+Ритуал посвячення кремезних Оґрів у нещадних та підступних Оґрів-магів.
 }
 
 STRING 2264
@@ -10720,7 +10744,7 @@ O
 
 STRING 2265
 {
-Ogre Magi Initiation
+Ініціація у Оґрів-магів
 }
 
 STRING 2266
@@ -10740,7 +10764,7 @@ Unholy Sentry
 
 STRING 2269
 {
-Provides orcish towers with the ability to detect invisible units.
+Дає змогу орочим вежам здатність бачити невидимі війська.
 }
 
 STRING 2270
@@ -10760,7 +10784,7 @@ Improved Ranged Weapons
 
 STRING 2273
 {
-Increases the attack range of orcish Archers and Spearthrowers.
+Збільшує дальність атаки орків лучників та списометальників.
 }
 
 STRING 2274
@@ -10770,7 +10794,7 @@ STRING 2274
 
 STRING 2275
 {
-Teaches orcish Archers and Spearthrowers the |cffffcc00Ensnare|r ability.
+Навчає орків лучників та списометальників здібності |cffffcc00Оплутати|r.
 }
 
 STRING 2276
@@ -10780,7 +10804,7 @@ STRING 2276
 
 STRING 2277
 {
-Ensnare
+Оплутати
 }
 
 STRING 2278
@@ -10845,12 +10869,12 @@ STRING 2289
 
 STRING 2290
 {
-Iron Melee Weapons
+Зброя ближнього бою з заліза
 }
 
 STRING 2291
 {
-Steel Melee Weapons
+Зброя ближнього бою зі сталі
 }
 
 STRING 2292
@@ -10865,12 +10889,12 @@ Mithril Melee Weapons
 
 STRING 2294
 {
-Steel Melee Weapons
+Зброя ближнього бою зі сталі
 }
 
 STRING 2295
 {
-Iron Melee Weapons
+Зброя ближнього бою з заліза
 }
 
 STRING 2296
@@ -10905,12 +10929,12 @@ STRING 2301
 
 STRING 2302
 {
-Iron Armor
+Залізна броня
 }
 
 STRING 2303
 {
-Steel Armor
+Сталева броня
 }
 
 STRING 2304
@@ -10925,12 +10949,12 @@ Mithril Armor
 
 STRING 2306
 {
-Steel Armor
+Сталева броня
 }
 
 STRING 2307
 {
-Iron Armor
+Залізна броня
 }
 
 STRING 2308
@@ -11725,7 +11749,7 @@ STRING 2478
 
 STRING 2479
 {
-Battle report
+Військовий звіт
 }
 
 STRING 2480
@@ -11735,12 +11759,12 @@ Purchase Sealed Letter
 
 STRING 2481
 {
-Our reports hold that the Bleeding Hollow Clan presses hard against Ironforge. We must continue harassing the orcish supply lines across all of Khaz Modan to ensure they do not succeed. Give em hell, boys!
+Згідно з нашими звітами орчий клан Кривавої Очниці сильно тисне на Стальгорн. Зі свого боку нам треба продовжувати відрізати орків від постачання та припасів по всьому Каз-Модану, аби бути певними що вони не зможуть дотиснути Стальгорн. Влаштуйте цим зеленошкірим справжнє пекло, хлопці!
 }
 
 STRING 2482
 {
-Ironforge Sealed Scroll
+Запечатаний сувій зі Стальгорна
 }
 
 STRING 2483
@@ -11755,17 +11779,17 @@ Purchase Battle report
 
 STRING 2485
 {
-We've received news from the Warchief. Zuluhed and Cho'gall are to be expected withing the coming moons. If you were to see them, Follow your duty as warriors of the Horde and bring them to me. - Kilrogg
+Ми отримали новини від вождя. Зулугед та Чо'ґалл прибудуть найближчих часом. Якщо ви їх побачите, виконайте свій обов'язок воїнів Орди та приведіть їх до мене. - Кілроґ Мертве Око.
 }
 
 STRING 2486
 {
-Killrogg's letter
+Лист від Кілроґа
 }
 
 STRING 2487
 {
-Bloodied Letter
+Окривавлений лист
 }
 
 STRING 2488
@@ -11775,17 +11799,17 @@ Purchase Bloodied Letter
 
 STRING 2489
 {
-To Vincent, I hope you're doing well, your Nephews and I can't wait to see you! Thanks again for the flowers, their golden petals brings us colors and joy in these dark times. To help you through your way back, I hope these boots will help you get to us faster. - Sarah
+Вінсенте, я сподіваюся, що в тебе все добре, ми з твоїми племінниками з нетерпінням чекаємо на нашу з тобою зустріч! Ще раз дякую за квіти, їхні золоті пелюстки приносять у наше життя світло та радість у ці темні часи. Я сподіваюся, що ці черевики допоможуть тобі якнайшвидше повернутися додому. - Сара
 }
 
 STRING 2490
 {
-A Letter stained by blood
+Заплямований кров'ю лист
 }
 
 STRING 2491
 {
-Journal page
+Сторінка з щоденника
 }
 
 STRING 2492
@@ -11795,18 +11819,18 @@ Purchase Sealed Letter
 
 STRING 2493
 {
-Whelscare Journal entry:
-We've received a tip from my cousin Bergen to dig here, but we found nothing, but... my gut is telling me up in the North west we'll find something grand.
+Запис у журналі «Вісник Азероту»:
+Ми отримали підказку від мого двоюрідного брата Берґена копати тут, але ми щось так нічого і не знайшли, але… моя інтуїція підказує мені, що на північному заході ми знайдемо щось грандіозне.
 }
 
 STRING 2494
 {
-Scribble notes on a sheet of paper
+Нотатка на папері
 }
 
 STRING 2495
 {
-Scribbled note
+Нотатка
 }
 
 STRING 2496
@@ -11816,23 +11840,23 @@ Purchase Scribbled note
 
 STRING 2497
 {
-Sad spirit, haunted mind, 
-|nLonely soul of the forsaken land
-|nHe cried and mourned
-|nHe fought and died, dispit his own pride
-|nMany have seen him
-|nFor he cries at night On the hill up west
-|nBeware for he is no human, Beware
+Сумний дух, і розум на який полюють
+|nСамотня душа, у покинутій землі
+|nВін плакав і страждав
+|nВін боровся і загинув, він власну гордість зневажав,
+|nНа західнім пагорбі, багато хто бачив там його,
+|nБо він кричав і плакав, і в день і в ніч
+|nСтережіться від нього, бо він не є людина, стережіться 
 }
 
 STRING 2498
 {
-Soldier's poem
+Солдатський вірш
 }
 
 STRING 2499
 {
-Sealed Letter
+Запечатаний лист
 }
 
 STRING 2500
@@ -11842,17 +11866,17 @@ Purchase Sealed Letter
 
 STRING 2501
 {
-This war ruined everything... travelling by the road isn't safe anymore, Too many guards or these damn green skins... I hope you'll understand, I had no choice but to hide the bounty behind Ma's grave. Good luck, and stay off the road!
+Ця клята війна все зруйнувала… подорожувати просто дорогою вже небезпечно, дуже багато вартових або цих клятих зеленошкірих… Сподіваюсь ти зрозумієш, у мене не було іншого вибору окрім як сховати нагороду за могилою Ма. Успіхів і прошу тримайся якомога далі від дороги!
 }
 
 STRING 2502
 {
-A sealed scroll  full of blood
+Запечатаний сувій у крові
 }
 
 STRING 2503
 {
-Wanted Bounty
+Розшук
 }
 
 STRING 2504
@@ -11862,7 +11886,7 @@ Purchase Wanted Bounty
 
 STRING 2505
 {
-A dangerous pack of Gnolls has been disruppting trading routes for many weeks now. One of our scout may have spotted their hideout to the east while searching for Orcs activities.
+Небезпечна організована злочинна група ґнолів вже багато тижнів вештається на торгових шляхах. Один з наших розвідників під час пошуку орків, бачив притон ґнолів на сході.
 }
 
 STRING 2506
@@ -11872,7 +11896,7 @@ STRING 2506
 
 STRING 2507
 {
-War Orders
+Бойові накази
 }
 
 STRING 2508
@@ -11882,12 +11906,12 @@ Purchase War Orders
 
 STRING 2510
 {
-Killrogg's letter
+Лист від Кілроґа
 }
 
 STRING 2511
 {
-War Orders
+Бойові накази
 }
 
 STRING 2512
@@ -11897,7 +11921,7 @@ Purchase War Orders
 
 STRING 2514
 {
-Doomhammer's letter
+Лист від Молота Згуби
 }
 
 STRING 2515
@@ -11932,11 +11956,11 @@ Build Destroyer
 
 STRING 2521
 {
-A versatile attack ship capable at protecting the fleet against air units.
+Універсальний ударний корабель, здатний захищати флот навіть від повітряних цілей.
 
-|cffffcc00Attacks land, naval and air units.|r
+|cffffcc00Атакує сухопутні, морські та повітряні цілі.|r
 
-|cffffcc00Requires|r 700 |cffffcc00Oil.|r
+|cffffcc00Потребує|r 700 од. |cffffcc00Нафти.|r
 }
 
 STRING 2522
@@ -11951,22 +11975,22 @@ R
 
 STRING 2524
 {
-Goblin Rockets
+Ґоблінські ракети.
 }
 
 STRING 2525
 {
-Bombards an area with rockets, dealing up to 25 damage to nearby enemy land units and stunning them for 1 second. |nContains <gobm,uses> charges.
+Обстрілює територію ракетами, завдаючи до 25 од. шкоди наземним цілям, що знаходяться поблизу, і оглушуючи їх на 1 сек. |nКількість снарядів: <gobm,uses>.
 }
 
 STRING 2526
 {
-Purchase Goblin Rockets
+Придбати ґоблінські ракети
 }
 
 STRING 2527
 {
-Goblin Rockets.
+Ґоблінські ракети.
 }
 
 STRING 2528
@@ -12246,7 +12270,7 @@ STRING 2582
 
 STRING 2586
 {
-Seems like this gemstone can be used to unlock some magical barrier.
+Здається цей дорогоцінний камінь може бути використано для усунення магічного бар'єру.
 }
 
 STRING 2587
@@ -13231,7 +13255,7 @@ STRING 2786
 
 STRING 2787
 {
-Void Tendrils
+Щупальця безодні
 }
 
 STRING 2788
@@ -13241,7 +13265,7 @@ STRING 2788
 
 STRING 2789
 {
-This unit has been hit by Void Tendrils; it cannot move and takes damage over time.
+This unit has been hit by Щупальця безодні; it cannot move and takes damage over time.
 }
 
 STRING 2790
@@ -13351,7 +13375,7 @@ Earth Shield
 
 STRING 2811
 {
-Void Tendrils
+Щупальця безодні
 }
 
 STRING 2812
@@ -13535,7 +13559,7 @@ Causes Riflemen within the Bunker to leave it.
 
 STRING 2850
 {
-Upgrades the projectiles of Catapults and Ogre Juggernauts, causing their attacks to burn the impact area.
+Покращує снаряди катапульт та джаґернаутів оґрів, місце в яке вони влучають снаряди починає горіти та чинити шкоду.
 }
 
 STRING 2852
@@ -13607,11 +13631,13 @@ Attack Speed Bonus: |cffffcc00+50% |r
 
 STRING 2864
 {
-Primary structure, used to train Peons and receive gathered resources.
-Upgrades to: Fortress
-Research: Pillage
+Ключова споруда Орди, використовується для тренування робочої сили, та як точка збору зібраних ресурсів.
 
-|cffffcc00Revives wounded heroes.|r |n|n|cffffcc00Requires|r 200 |cffffcc00Oil|r.
+Може бути перебудована у фортецю
+Дослідження: Грабіж
+
+|cffffcc00Дозволяє оживляти полеглих героїв.|r
+|n|n|cffffcc00Потребує|r 200 од. |cffffcc00Нафти|r.
 }
 
 STRING 2867
@@ -13684,32 +13710,34 @@ STRING 2884
 
 STRING 2885
 {
-There's report of Stromgarde troops amassing down south. They seem to be ploting an attack against us soon. By nightfall go with your most trusted warriors and sneak by the river bed. Slice their repulsive troat while they sleep when they least expect it. If you succed, these dwarves scums down south should be next - Kilrogg.
+Ми маємо інформацію, що війська Стормварту збираються на півдні. Схоже на те що вони готуються напасти на нас скоро. Як стане темно рушайте зі своїми ліпшими воїнами до русла річки, до людського табору. Переріжте їхні горлянки поки вони сплять і найменше цього очікують. Якщо це вдасться, тоді дворфійське сміття має спіткати така сама доля - Кілрог.
 }
 
 STRING 2886
 {
-You must meet with Zuluhed in wetlands and reach Kilrogg by the Foot of Grimbatol. Your warchief commands you to do so. - Tharbek
+Ви маєете зустрітеся з Зулугедом у Заболотті та дійти до табору Кілроґа, що у підніжжя Ґрім-Батолу. Це наказ вождя. - Капітан Тарбек
 }
 
 STRING 2887
 {
-The Hammer of Twilight appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage and become mad.
-Targets with Madness can miss their attacks, are unable to cast spells and will move slower.
+У небі з'являється сутінковий молот, який за декілька сек. падає на землю. Ворожі цілі, які потрапляють у радіус ураження отримують велику шкоду та божеволіють.
 
-Cast Time: 5s
-Madness Duration: 20s
-Damage: 300
+У стані божевілля, вони починають промахуватись у деяких своїх атаках, а також не можуть чарувати закляття і рухаються значно повільніше.
+
+Час застосування: 5 сек.
+Тривалість божевілля: 20 сек.
+Шкода: 300 од.
 }
 
 STRING 2888
 {
-The Hammer of Twilight appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage and become mad.
-Targets with Madness can miss their attacks, are unable to cast spells and will move slower.
+У небі з'являється сутінковий молот, який за декілька сек. падає на землю. Ворожі цілі, які потрапляють у радіус ураження отримують велику шкоду та божеволіють.
 
-Cast Time: |cffffcc005s|r
-Madness Duration: |cffffcc0020s|r
-Damage: |cffffcc00300|r
+У стані божевілля, вони починають промахуватись у деяких своїх атаках, а також не можуть чарувати закляття і рухаються значно повільніше.
+
+Час застосування: |cffffcc005 сек.|r
+Тривалість божевілля: |cffffcc0020 сек.|r
+Шкода: |cffffcc00300 од.|r
 }
 
 STRING 2889
@@ -13755,27 +13783,27 @@ Grants |cffffc80020%|r chance to deal |cffffc800200%|r damage on attack.
 
 STRING 2894
 {
-Increases damage of Destroyers, Juggernauts and War Turtles.  |n|n|cffffcc00Requires|r 1000 |cffffcc00Oil|r.
+Збільшує шкоду яку наносить бойовий флот орди [Руйнівники тролів, джаґґернаути оґрів та бойові черепахи]|n|n|cffffcc00Потрубує|r 1000 од. |cffffcc00нафти|r.
 }
 
 STRING 2895
 {
-Further increases damage of Destroyers, Juggernauts and War Turtles.  |n|n|cffffcc00Requires|r 2000 |cffffcc00Oil|r.
+Ще більше збільшує шкоду яку наносить бойовий флот орди [Руйнівники тролів, джаґґернаути оґрів та бойові черепахи]|n|n|cffffcc00Потрубує|r 2000 од. |cffffcc00нафти|r.
 }
 
 STRING 2896
 {
-Further increases damage of Destroyers, Juggernauts and War Turtles.  |n|n|cffffcc00Requires|r 3000 |cffffcc00Oil|r.
+Максимально збільшує шкоду яку наносить бойовий флот орди [Руйнівники тролів, джаґґернаути оґрів та бойові черепахи]|n|n|cffffcc00Потрубує|r 3000 од. |cffffcc00нафти|r.
 }
 
 STRING 2900
 {
-Build Ogre Juggernaut
+Побудувати Джаґґернаут Оґрів
 }
 
 STRING 2901
 {
-Ogre Juggernaut
+Джаґґернаут Оґрів
 }
 
 STRING 2902
@@ -14115,12 +14143,12 @@ Rage
 
 STRING 2971
 {
-This head stands as a testament to all who dare to oppose the indomitable will of the Orcish Horde. Let traitors bear witness and despair. Has Unholy Aura effect.
+Ця відрубана голова є нагадування всім тим хто наважиться протистояти незламній волі Орди орків. Нехай зрадники бачать що їх чекає. Має ефект нечестивої аури.
 }
 
 STRING 2972
 {
-Broadside Shot
+Залп з усіх знарядь
 }
 
 STRING 2973
@@ -14130,7 +14158,7 @@ STRING 2973
 
 STRING 2974
 {
-Broadside Shot
+Залп з усіх знарядь
 }
 
 STRING 2978
@@ -14241,7 +14269,7 @@ Green Ivy
 
 STRING 3005
 {
-Fires additional cannons on nearby enemies. Each shell does <AEfk,DataA1> damage. |n|nEffective range - 600. |nCooldown - 30 seconds.
+Вогонь з додаткових гармат по ворогах що поблизу. Кожен постріл завдає <AEfk,DataA1> шкоди. |nЧас відновлення - 30 сек.
 }
 
 STRING 3006
@@ -14288,17 +14316,17 @@ STRING 3010
 
 STRING 3011
 {
-Further increases armor of Orc Transports, Destroyers and Juggernauts.
+Латунна обшивка збільшує броню флоту орди [Транспортних човнів, руйнівники тролів, джаґґернаутів оґрів та бойових черепах]
 }
 
 STRING 3012
 {
-Further increases armor of Orc Transports, Destroyers and Juggernauts.
+Залізна обшивка ще більше збільшує броню флоту орди [Транспортних човнів, руйнівники тролів, джаґґернаутів оґрів та бойових черепах]
 }
 
 STRING 3013
 {
-Increases armor of Orc Transports, Destroyers and Juggernauts.
+Сталева обшивка максимально збільшує броню флоту орди [Транспортних човнів, руйнівники тролів, джаґґернаутів оґрів та бойових черепах]
 }
 
 STRING 3014
