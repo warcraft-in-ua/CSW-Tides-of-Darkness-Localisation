@@ -1,6 +1,6 @@
 ﻿STRING 1
 {
-CSW - Tides of Darkness - Кампанія Орків
+CSW - Tides of Darkness - Кампанія Орків v.1.05 [UA 0.9.0]
 }
 
 STRING 2
@@ -17,9 +17,11 @@ STRING 5
 {
 Шість років минуло після того, як орки під час подій першої війни захопили фортецю Штормовія.
 
-Орду очолив новий вождь, Орґрім Молот Згуби який переміг у Мак`Ґора Чорнорука Руйнівника.
+Орду очолив новий вождь, Орґрім Молот Згуби який переміг у Мак'Ґора Чорнорука Руйнівника.
 
-В обʼєднаній орді всі клани значно зміцнилися та розвинулись, і головне що їх зараз об'єднує це бажання нового вождя підкорити Азерот, та вполювати ті залишки людей та їх союзників, що лишилися.
+В об'єднаній орді всі клани значно зміцнилися та розвинулись, і головне що їх зараз об'єднує це бажання нового вождя підкорити Азерот, та вполювати ті залишки людей та їх союзників, що лишилися.
+
+Переклад українською WarCraft.in.ua
 }
 
 STRING 8
@@ -99,7 +101,7 @@ STRING 22
 
 STRING 23
 {
-Wetlands
+Заболоття
 }
 
 STRING 24
@@ -174,7 +176,7 @@ STRING 38
 
 STRING 39
 {
-Квел’Талас
+Квел'Талас
 }
 
 STRING 40
@@ -185,7 +187,6 @@ STRING 40
 STRING 41
 {
 Облога Зул'Аману
-
 }
 
 STRING 42
@@ -619,29 +620,29 @@ Abilities: Healing - Holy Vision - Exorcism
 
 STRING 125
 {
-Warchief
+Вождь Орди
 }
 
 STRING 126
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 127
 {
-Revive Orgrim Doomhammer
+Оживити Орґріма Молота Згуби
 }
 
 STRING 128
 {
-Revive Orgrim Doomhammer
+Оживити Орґріма Молота Згуби
 }
 
 STRING 129
 {
-Claiming his title as the Warchief of the Horde after defeating Blackhand the Destroyer in Mak'gora, Orgrim Doomhammer now seeks to rid the Horde of it's former corruption and to conquer this world.
+Орґрім став новим вождем орди після того, як переміг Чорнорука Руйнівника у Мак'Ґора. Зараз він прагне позбавити свою орду від прокляття демонів і завоювати Азерот.
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 130
@@ -808,7 +809,7 @@ Abilities: Телескоп - Submerge
 
 STRING 159
 {
-Tharbek
+Тарбек
 }
 
 STRING 160
@@ -818,12 +819,12 @@ STRING 160
 
 STRING 161
 {
-Grunt,Slave Master,Lieutenant,Captain,Commander
+Рубайло,Рабовласник,Лейтенант,Капітан,Командир
 }
 
 STRING 162
 {
-- Resistant Skin,- Resistant Skin|n- Whiplash,- Resistant Skin|n- Whiplash|n- Throw a Spear,- Resistant Skin|n- Whiplash|n- Throw a Spear|n- Cleaving Attack,- Resistant Skin|n- Whiplash|n- Throw a Spear|n- Cleaving Attack|n- Intimidating Shout 
+- Resistant Skin,- Resistant Skin|n- Whiplash,- Resistant Skin|n- Whiplash|n- Throw a Spear,- Resistant Skin|n- Whiplash|n- Throw a Spear|n- Cleaving Attack,- Resistant Skin|n- Whiplash|n- Throw a Spear|n- Cleaving Attack|n- Залякуючий крик 
 }
 
 STRING 163
@@ -859,12 +860,12 @@ Single use, explosive Dwarf demolition squad. Particularly effective against bui
 
 STRING 168
 {
-Могущественный оркский колдун, ученик Гуль-Дана, после смерти восставший как рыцарь Тьмы. |n|n|cffffcc00Может атаковать наземные и воздушные цели.|r
+Могутній орк чорнокнижник, відданий учень Ґул'дана, був перерождений в яості першого лицаря смерті.|n|n|cffffcc00Може атакувати наземні та повітряні цілі.|r
 }
 
 STRING 169
 {
-Teron Gorefiend
+Терон Кровобіс
 }
 
 STRING 170
@@ -874,12 +875,12 @@ STRING 170
 
 STRING 171
 {
-Revive Teron Gorefiend
+Оживити Терона Кровобіса
 }
 
 STRING 172
 {
-Revive Teron Gorefiend
+Оживити Терона Кровобіса
 }
 
 STRING 173
@@ -926,17 +927,17 @@ Warchief
 
 STRING 181
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 182
 {
-Revive Orgrim Doomhammer
+Оживити Орґріма Молота Згуби
 }
 
 STRING 183
 {
-Revive Orgrim Doomhammer
+Оживити Орґріма Молота Згуби
 }
 
 STRING 184
@@ -946,9 +947,9 @@ W
 
 STRING 185
 {
-Claiming his title as the Warchief of the Horde after defeating Blackhand the Destroyer in Mak'gora, Orgrim Doomhammer now seeks to rid the Horde of it's former corruption and to conquer this world.
+Орґрім став новим вождем орди після того, як переміг Чорнорука Руйнівника у Мак'Ґора. Зараз він прагне позбавити свою орду від прокляття демонів і завоювати Азерот.
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 186
@@ -1107,7 +1108,7 @@ STRING 214
 
 STRING 215
 {
-Peasant
+Селянин
 }
 
 STRING 216
@@ -1870,7 +1871,7 @@ STRING 346
 
 STRING 348
 {
-Dragon Aspect
+Дракон аспект
 }
 
 STRING 349
@@ -1972,12 +1973,12 @@ STRING 367
 
 STRING 368
 {
-Goldmine
+Золота шахта
 }
 
 STRING 369
 {
-Goldmine
+Золота шахта
 }
 
 STRING 370
@@ -2030,7 +2031,7 @@ STRING 378
 
 STRING 379
 {
-Refinery
+Нафтопереробний завод
 }
 
 STRING 380
@@ -2053,7 +2054,7 @@ STRING 382
 
 STRING 383
 {
-Peasant
+Селянин
 }
 
 STRING 384
@@ -2118,17 +2119,17 @@ Land Mine
 
 STRING 396
 {
-Nekros Skullcrusher
+Некрос Череполам
 }
 
 STRING 397
 {
-Revive Nekros Skullcrusher
+Оживити Некроса Череполама
 }
 
 STRING 398
 {
-Former Shaman second-in-command of the Dragonmaw Clan, Nekros is has become a poweful Warlock who specializes in curses and shadow magic.
+Некрос колишній шаман і заступник отамана клану Драконової Пащі, зараз став могутнім чорнокнижником який спеціалізується на темній магії та прокляттях.
 }
 
 STRING 399
@@ -2227,7 +2228,7 @@ STRING 418
 
 STRING 419
 {
-Dragon Aspect
+Дракон Аспект 
 }
 
 STRING 420
@@ -2496,7 +2497,7 @@ STRING 472
 
 STRING 473
 {
-Rune of Lightning
+Руни блискавки
 }
 
 STRING 474
@@ -2516,7 +2517,7 @@ Train Defender
 
 STRING 477
 {
-Garona
+Ґарона Напіворчиха
 }
 
 STRING 481
@@ -2526,22 +2527,22 @@ STRING 481
 
 STRING 482
 {
-Warlord
+Воєвода
 }
 
 STRING 483
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 484
 {
-Revive Eitrigg
+Оживити Айтріґа
 }
 
 STRING 485
 {
-Revive Eitrigg
+Оживити Айтріґа
 }
 
 STRING 486
@@ -2847,7 +2848,7 @@ STRING 639
 
 STRING 641
 {
-Warbanner
+Бойовий прапор
 }
 
 STRING 642
@@ -2857,7 +2858,7 @@ STRING 642
 
 STRING 643
 {
-Warbanner
+Бойовий прапор
 }
 
 STRING 644
@@ -2952,7 +2953,7 @@ STRING 661
 
 STRING 662
 {
-Оґр маг
+Оґр-маг
 }
 
 STRING 663
@@ -3023,7 +3024,7 @@ STRING 674
 
 STRING 675
 {
-Lumber Mill
+Лісопильня ельфів
 }
 
 STRING 676
@@ -3116,7 +3117,7 @@ V
 
 STRING 696
 {
-Chest with Gold
+Скриня з золотом
 }
 
 STRING 700
@@ -3131,7 +3132,7 @@ STRING 705
 
 STRING 706
 {
-A shard of a Runestone
+Уламок рунічного каменю
 }
 
 STRING 707
@@ -3590,7 +3591,7 @@ R
 
 STRING 817
 {
-Ogre Magi
+Оґр-маг
 }
 
 STRING 818
@@ -3600,7 +3601,7 @@ STRING 818
 
 STRING 819
 {
-Eye of Killrog
+Око Кілроґа
 }
 
 STRING 820
@@ -4286,12 +4287,12 @@ STRING 955
 
 STRING 956
 {
-Poison Arrows
+Отруйні стріли
 }
 
 STRING 957
 {
-Poison Arrows
+Отруйні стріли
 }
 
 STRING 958
@@ -4396,27 +4397,27 @@ STRING 978
 
 STRING 979
 {
-Change Stance
+Змінити позицію
 }
 
 STRING 980
 {
-Dragon moves on its feet on the ground.
+Дракон приземляється на землю і пересувається на лапах.
 }
 
 STRING 981
 {
-Will land
+Приземлитися
 }
 
 STRING 982
 {
-Take Wing
+Злетіти
 }
 
 STRING 983
 {
-Dragon takes wing and flies in the sky.
+Дракон злітає у небо.
 }
 
 STRING 984
@@ -4461,7 +4462,7 @@ Snowcap
 
 STRING 992
 {
-Pig Farm
+Свиноферма
 }
 
 STRING 993
@@ -4481,7 +4482,7 @@ Snowcap
 
 STRING 996
 {
-Troll Lumber Mill
+Лісопильня тролів
 }
 
 STRING 997
@@ -4811,7 +4812,7 @@ STRING 1064
 
 STRING 1065
 {
-Зцілює себе на 500 од. здоровʼя за 3 сек.
+Зцілює себе на 500 од. здоров'я за 3 сек.
 }
 
 STRING 1066
@@ -4821,12 +4822,12 @@ W
 
 STRING 1067
 {
-Зцілює себе на 600 од. здоровʼя за 2 сек.
+Зцілює себе на 600 од. здоров'я за 2 сек.
 }
 
 STRING 1068
 {
-Зцілює себе на 700 од. здоровʼя за 1 сек.
+Зцілює себе на 700 од. здоров'я за 1 сек.
 }
 
 STRING 1069
@@ -4851,7 +4852,7 @@ STRING 1072
 
 STRING 1073
 {
-Life Tap
+Життєвідвод
 }
 
 STRING 1074
@@ -4999,7 +5000,7 @@ Void Rune - [|cffffcc00Level 1|r]
 
 STRING 1109
 {
-Rune Tablet
+Табличка з рунами
 }
 
 STRING 1110
@@ -5269,7 +5270,7 @@ Advanced Skyrie training allows to Take Wing in the middle of the fight to retre
 
 STRING 1163
 {
-Throw a Spear
+Метнути спис
 }
 
 STRING 1164
@@ -5284,7 +5285,7 @@ Throw a Spear
 
 STRING 1166
 {
-A spear that is thrown at an enemy unit, causing <ACtb,DataA1> points of damage and stunning the target for <ACtb,Dur1> seconds.
+Тарбек щосили кидає у ціль спис, який наносить <ACtb,DataA1> од. шкоди та приголомшує її на <ACtb,Dur1> сек.
 }
 
 STRING 1167
@@ -5333,22 +5334,22 @@ STRING 1177
 
 STRING 1178
 {
-Warbanner
+Бойовий прапор
 }
 
 STRING 1179
 {
-Warbanner - [|cffffcc00Level 1|r]
+Бойовий прапор - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1180
 {
-Warbanner - [|cffffcc00Level 2|r]
+Бойовий прапор - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1181
 {
-Warbanner - [|cffffcc00Level 3|r]
+Бойовий прапор - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1182
@@ -5358,48 +5359,48 @@ STRING 1182
 
 STRING 1183
 {
-Learn Warbanner - [|cffffcc00Level %d|r]
+Вивчити Бойовий прапор - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1184
 {
-Places a Warbanner which increases the damage done by all nearby allies.
+Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо.
 
-Duration: 60s
-Damage Bonus: 10% / 20% / 30%
+Тривалість: 60 сек.
+Додаткова шкода: 10% / 20% / 30%
 }
 
 STRING 1187
 {
-Places a Warbanner which increases the damage done by all nearby allies.
+Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо.
 
-Duration: |cffffcc0060s|r
-Damage Bonus: |cff80808010% /|r |cff80808020% /|r |cffffcc0030%|r
+Тривалість: |cffffcc0060 сек.|r
+Додаткова шкода: |cff80808010% /|r |cffffcc0020%|r |cff808080/ 30%|r
 }
 
 STRING 1188
 {
-Blackhand's Fang
+Сокира «Ікло чорнорука»
 }
 
 STRING 1189
 {
-Learn Blackhand's Fang - [|cffffcc00Level %d|r]
+Вивчити Ікло чорнорука - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1190
 {
-Blackhand's Fang - [|cffffcc00Level 1|r]
+Ікло чорнорука - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1191
 {
-Blackhand's Fang - [|cffffcc00Level 2|r]
+Ікло чорнорука - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1192
 {
-Blackhand's Fang - [|cffffcc00Level 3|r]
+Ікло чорнорука - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1193
@@ -5419,34 +5420,34 @@ E
 
 STRING 1196
 {
-Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
 
-Duration: 5s
-Damage: 100 / 225 / 350
+Тривалість приголомшення: 5 сек.
+Шкода: 100 од./ 225 од. / 350 од.
 }
 
 STRING 1197
 {
-Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
 
-Duration: |cffffcc005s|r
-Damage: |cffffcc00100 |r|cff808080/ 225 / 350|r
+Тривалість приголомшення:|cffffcc005 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 225 од. / 350 од.|r
 }
 
 STRING 1198
 {
-Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
 
-Duration: |cffffcc005s|r
-Damage: |cff808080100 /|r |cffffcc00225 |r|cff808080/ 350|r
+Тривалість приголомшення: |cffffcc005 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00225 од. |r|cff808080/ 350 од.|r
 }
 
 STRING 1199
 {
-Throws one of his trophy axes at an enemy. Causes damage and stuns the target.
+Орґрім жбурляє у ціль одну з своїх трофейних сокир які він здобув після перемоги над Чорноруком. Удар настільки потужний, що окрім значної шкоди тимчасово приголомшує ціль.
 
-Duration: |cffffcc005s|r
-Damage: |cff808080100 / 225 /|r |cffffcc00350|r
+Твивалість приголомшення: |cffffcc005 сек.|r
+Шкода: |cff808080100 од. / 225 од. /|r |cffffcc00350 од.|r
 }
 
 STRING 1200
@@ -5461,7 +5462,7 @@ STRING 1201
 
 STRING 1202
 {
-Learn For the Horde!
+Вивчити За Орду!
 }
 
 STRING 1203
@@ -5471,22 +5472,24 @@ STRING 1203
 
 STRING 1204
 {
-Lets out the mightly Warchief's rallying cry. Nearby allies will be reinvigurated and share damage taken.
-Additionally, nearby enemies will flee in fear.
+Вождь робить потужний бойовий вигук, від якого вороги навколо розбігаються у страху, а союзні одиниці відновлюють здоров'я.
 
-Duration: 30s
-Heal: 200
-Damage Shared: 50%
+Також всі союзники навколо вождя розділяють порівну між собою половину шкоди що отримують.
+
+Тривалість: 30 сек.
+Зцілення: 200 од.
+Кількість розділеної шкоди: 50%
 }
 
 STRING 1205
 {
-Lets out the mightly Warchief's rallying cry. Nearby allies will be reinvigurated and share damage taken.
-Additionally, nearby enemies will flee in fear.
+Вождь робить потужний бойовий вигук, від якого вороги навколо розбігаються у страху, а союзні одиниці відновлюють здоров'я.
 
-Duration: |cffffcc0030s|r
-Heal: |cffffcc00200|r
-Damage Shared: |cffffcc0050%|r
+Також всі союзники навколо вождя розділяють порівну між собою половину шкоди що отримують.
+
+Тривалість: |cffffcc0030 сек.|r
+Зцілення: |cffffcc00200 од.|r
+Кілість розділеної шкоди: |cffffcc0050%|r
 }
 
 STRING 1206
@@ -5521,12 +5524,12 @@ Warbanner
 
 STRING 1212
 {
-Adds a damage increase to the attacks of nearby friendly units.
+Збільшує всю шкоду яку наносять союзні війська навколо.
 }
 
 STRING 1213
 {
-Adds a damage increase to the attacks of nearby friendly units.
+Збільшує всю шкоду яку наносять союзні війська навколо.
 }
 
 STRING 1214
@@ -5628,7 +5631,7 @@ STRING 1230
 
 STRING 1231
 {
-Вивчити Кровожерливіст - [|cffffcc00Рівень %d|r]
+Вивчити Кровожерливість - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1232
@@ -5767,7 +5770,7 @@ E
 
 STRING 1250
 {
-Вивчити каліцтво - [|cffffcc00Рівень %d|r]
+Вивчити Каліцтво - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1251
@@ -5878,7 +5881,7 @@ E
 
 STRING 1269
 {
-Вивчити злам - [|cffffcc00Рівень %d|r]
+Вивчити Злам - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1270
@@ -5928,7 +5931,7 @@ STRING 1278
 
 STRING 1279
 {
-Вивчити сердце гори
+Вивчити Сердце гори
 }
 
 STRING 1280
@@ -5963,7 +5966,7 @@ Q
 
 STRING 1287
 {
-Вивчити роздирання - |cffffcc00Рівень %d|r]
+Вивчити Роздирання - |cffffcc00Рівень %d|r]
 }
 
 STRING 1288
@@ -6023,7 +6026,7 @@ STRING 1298
 
 STRING 1299
 {
-Вивчити ланцюг зцілення - [|cffffcc00Рівень %d|r]
+Вивчити Ланцюг зцілення - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1300
@@ -6094,7 +6097,7 @@ STRING 1310
 
 STRING 1311
 {
-Вивчити дикий стрибок - [|cffffcc00Рівень %d|r]
+Вивчити Дикий стрибок - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1312
@@ -6119,12 +6122,12 @@ STRING 1315
 
 STRING 1316
 {
-Teleports the Shaman a short distance, allowing him to move in and out of combat.
+За допомогою сил природи переносить шамана на коротку відстань.
 }
 
 STRING 1317
 {
-Teleports the Shaman a short distance, allowing him to move in and out of combat.
+За допомогою сил природи переносить шамана на коротку відстань.
 }
 
 STRING 1318
@@ -6183,7 +6186,7 @@ E
 
 STRING 1328
 {
-Вивчити удар блискавкою - [|cffffcc00Рівень %d|r]
+Вивчити Удар блискавкою - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1329
@@ -6302,7 +6305,7 @@ Q
 
 STRING 1353
 {
-Feral Leap
+STRING 1307
 }
 
 STRING 1354
@@ -6322,7 +6325,7 @@ Q
 
 STRING 1357
 {
-Lightning Strike
+Удар блискавкою
 }
 
 STRING 1358
@@ -6357,7 +6360,7 @@ Learn Call of the Elements
 
 STRING 1364
 {
-Lightning Strike - [|cffffcc00Level 1|r]
+Удар блискавкою - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1365
@@ -6372,44 +6375,44 @@ STRING 1366
 
 STRING 1367
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі.
 
-Stun Duration: 3 / 4 / 5
-Damage: 100 / 150 / 200
+Тривалість приголомшення: 3 сек. / 4 сек. / 5 сек.
+Шкода: 150 од. / 175 од. / 200 од.
 }
 
 STRING 1368
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
 
-Stun Duration: |cffffcc003 |r|cff808080/ 4 / 5|r
-Damage: |cffffcc00100 |r|cff808080/ 150 / 200|r
+Тривалість приголомшення: |cffffcc003 сек. |r|cff808080/ 4 сек. / 5 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 150 од. / 200 од.|r
 }
 
 STRING 1369
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
 
-Stun Duration: |cff8080803 /|r |cffffcc004 |r|cff808080/ 5|r
-Damage: |cff808080100 /|r |cffffcc00150 |r|cff808080/ 200|r
+Тривалість приголомшення: |cff8080803 сек. /|r |cffffcc004 сек. |r|cff808080/ 5 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00150 од. |r|cff808080/ 200 од.|r
 }
 
 STRING 1370
 {
-Strikes the area with lightning, dealing damage and stunning targets.
+Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі. 
 
-Stun Duration: |cff8080803 / 4 /|r |cffffcc005|r
-Damage: |cff808080100 / 150 /|r |cffffcc00200|r
+Тривалість приголомшення: |cff8080803 сек. / 4 сек. /|r |cffffcc005 сек.|r
+Шкода: |cff808080100 / 150 /|r |cffffcc00200|r
 }
 
 STRING 1371
 {
-Lightning Strike - [|cffffcc00Level 2|r]
+Удар блискавкою - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1372
 {
-Lightning Strike - [|cffffcc00Level 3|r]
+Удар блискавкою - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1373
@@ -6629,7 +6632,7 @@ STRING 1413
 
 STRING 1414
 {
-Dragon attacks light the ground on fire and burn enemy units.
+Атаки дракона підпалюють землю та спалюють ворожі цілі.
 }
 
 STRING 1415
@@ -7081,7 +7084,7 @@ STRING 1487
 
 STRING 1488
 {
-Hand of Gul'dan
+Долоня Ґулʼдана
 }
 
 STRING 1489
@@ -7181,7 +7184,7 @@ STRING 1507
 
 STRING 1508
 {
-Hand of Gul'dan
+Долоня Ґулʼдана
 }
 
 STRING 1509
@@ -7449,7 +7452,7 @@ STRING 1551
 
 STRING 1552
 {
-Sundering
+Розкол
 }
 
 STRING 1553
@@ -7459,7 +7462,7 @@ STRING 1553
 
 STRING 1554
 {
-Seed of Corruption
+Зернина порчі
 }
 
 STRING 1555
@@ -7474,22 +7477,22 @@ Q
 
 STRING 1557
 {
-Learn Seed of Corruption - [|cffffcc00Level %d|r]
+Вивчити Зернина порчі - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1558
 {
-Seed of Corruption - [|cffffcc00Level 1|r]
+Зернина порчі - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1559
 {
-Seed of Corruption - [|cffffcc00Level 2|r]
+Зернина порчі - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1560
 {
-Seed of Corruption - [|cffffcc00Level 3|r]
+Зернина порчі - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1561
@@ -7499,47 +7502,47 @@ STRING 1561
 
 STRING 1562
 {
-Embeds a demon seed in the enemy target slowing it and causing large damage over time.
+Вживляє у ціль прокляту демоном зернину, уповільнюючи її та періодично завдаючи.
 
-|cffffcc00Refreshes the cooldown of Corruption.|r
+|cffffcc00Також оновлює час дії «Прокляття».|r
 
-Duration: 15s / 21s / 30s
-Damage every 3 seconds: 20 / 40 / 60
+Тривалість: 15 сек. / 21 сек. /30 сек.
+Шкода раз 3 сек.: 20 од. / 40 од. / 60 од.
 }
 
 STRING 1563
 {
-Embeds a demon seed in the enemy target slowing it and causing large damage over time.
+Вживляє у ціль прокляту демоном зернину, уповільнюючи її та періодично завдаючи.
 
-|cffffcc00Refreshes the cooldown of Corruption.|r
+|cffffcc00Також оновлює час дії «Прокляття».|r
 
-Duration: |cffffcc0015s |r/|cff808080 21s / 30s|r
-Damage every 3 seconds: |cffffcc0020 |r|cff808080/ 40 / 60|r
+Тривалість: |cffffcc0015 сек. |r/|cff808080  сек. / 30 сек.|r
+Шкода раз 3 сек.: |cffffcc0020 од. |r|cff808080/ 40 од. / 60 од.|r
 }
 
 STRING 1564
 {
-Embeds a demon seed in the enemy target slowing it and causing large damage over time.
+Вживляє у ціль прокляту демоном зернину, уповільнюючи її та періодично завдаючи.
 
-|cffffcc00Refreshes the cooldown of Corruption.|r
+|cffffcc00Також оновлює час дії «Прокляття».|r
 
-Duration: |cff80808015s /|r |cffffcc0021s |r|cff808080/ 30s|r
-Damage every 3 seconds: |cff80808020 /|r |cffffcc0040 |r|cff808080/ 60|r
+Тривалість: |cff80808015 сек. /|r |cffffcc0021 сек.|r|cff808080/ 30 сек.|r
+Шкода раз в 3 сек.: |cff80808020 од. /|r |cffffcc0040 од. |r|cff808080/ 60 од.|r
 }
 
 STRING 1565
 {
-Embeds a demon seed in the enemy target slowing it and causing large damage over time.
+Вживляє у ціль прокляту демоном зернину, уповільнюючи її та періодично завдаючи.
 
-|cffffcc00Refreshes the cooldown of Corruption.|r
+|cffffcc00Також оновлює час дії «Прокляття».|r
 
-Duration: |cff80808015s / 21s /|r |cffffcc0030s|r
-Damage every 3 seconds:|cff808080 20 / 40 /|r |cffffcc0060|r
+Тривалість: |cff80808015 сек. / 21 сек. /|r |cffffcc0030 сек.|r
+Шкода раз 3 сек.:|cff808080 20 од. / 40 од. /|r |cffffcc00 од.|r
 }
 
 STRING 1566
 {
-Corruption
+Прокляття
 }
 
 STRING 1567
@@ -7559,22 +7562,22 @@ STRING 1569
 
 STRING 1570
 {
-Corruption - [|cffffcc00Level 1|r]
+Прокляття - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1571
 {
-Corruption - [|cffffcc00Level 2|r]
+Прокляття - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1572
 {
-Corruption - [|cffffcc00Level 3|r]
+Прокляття - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1573
 {
-Learn Corruption - [|cffffcc00Level %d|r]
+Вивчити Прокляття - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1574
@@ -7584,39 +7587,39 @@ W
 
 STRING 1575
 {
-Corrupts the target causing damage over time.
+Наводить на ціль прокляття, якє періодично наносить шкоду
 
-Duration: 15s / 21s / 30s
-Damage per Second: 5 / 10 / 15
+Тривалість: 15 сек. / 21 сек. / 30 сек.
+Шкоди в секунду: 5 од. / 10 од. / 15 од.
 }
 
 STRING 1576
 {
-Corrupts the target causing damage over time.
+Наводить на ціль прокляття, якє періодично наносить шкоду
 
-Duration: |cffffcc0015s |r|cff808080/ 21s / 30s|r
-Damage per Second: |cffffcc005 |r|cff808080/ 10 / 15|r
+Тривалість: |cffffcc0015 сек. |r|cff808080/ 21  сек. / 30 сек.|r
+Шкоди в секунду: |cffffcc005 од. |r|cff808080/ 10 од. / 15 од.|r
 }
 
 STRING 1577
 {
-Corrupts the target causing damage over time.
+Наводить на ціль прокляття, якє періодично наносить шкоду
 
-Duration: |cff80808015s /|r |cffffcc0021s |r|cff808080/ 30s|r
-Damage per Second: |cff8080805 /|r |cffffcc0010 |r|cff808080/ 15|r
+Тривалість: |cff80808015 сек./|r |cffffcc0021 сек. |r|cff808080/ 30 сек.|r
+Шкоди в секунду: |cff8080805 од. /|r |cffffcc0010 од. |r|cff808080/ 15 од.|r
 }
 
 STRING 1578
 {
-Corrupts the target causing damage over time.
+Наводить на ціль прокляття,  яке періодично наносить шкоду
 
-Duration: |cff80808015s / 21s /|r |cffffcc0030s|r
-Damage per Second: |cff8080805 / 10 /|r |cffffcc0015|r
+Тривалість: |cff80808015 сек. / 21 сек. /|r |cffffcc0030 сек.|r
+Шкоди в секунду: |cff8080805  од./ 10 од. /|r |cffffcc0015 од.|r
 }
 
 STRING 1579
 {
-Fear
+Страх
 }
 
 STRING 1580
@@ -7636,55 +7639,55 @@ E
 
 STRING 1583
 {
-Learn Fear - [|cffffcc00Level %d|r]
+Вивчити Страх - [|cffffcc00Рівень %d|r]
 }
 
 STRING 1584
 {
-Fear - [|cffffcc00Level 1|r]
+Страх - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1585
 {
-Fear - [|cffffcc00Level 2|r]
+Страх - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1586
 {
-Fear - [|cffffcc00Level 3|r]
+Страх - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1587
 {
-Strikes fear in the enemy, making it unable to cast spells or attack. The target will run if damaged.
+Залякує ворожу ціль, позбавляючи її можливості чарувати закляття та атакувати. Якщо цілі буде нанесена шкода, то вона почне тікати.
 
-Duration: 15s / 30s / 45s
+Тривалість: 15 сек. / 30 сек. /45 сек.
 }
 
 STRING 1588
 {
-Strikes fear in the enemy, making it unable to cast spells or attack. The target will run if damaged.
+Залякує ворожу ціль, позбавляючи її можливості чарувати закляття та атакувати. Якщо цілі буде нанесена  шкода, то вона почне тікати.
 
-Duration: |cffffcc0015s |r|cff808080/ 30s / 45s|r
+Тривалість: |cffffcc0015 сек. |r|cff808080/ 30 сек. / 45 сек.|r
 }
 
 STRING 1589
 {
-Strikes fear in the enemy, making it unable to cast spells or attack. The target will run if damaged.
+Залякує ворожу ціль, позбавляючи її можливості чарувати закляття та атакувати. Якщо цілі буде нанесена  шкода, то вона почне тікати.
 
-Duration: |cff80808015s /|r |cffffcc0030s |r|cff808080/ 45s|r
+Тривалість: |cff80808015сек. /|r |cffffcc0030 сек. |r|cff808080/ 45 сек.|r
 }
 
 STRING 1590
 {
-Strikes fear in the enemy, making it unable to cast spells or attack. The target will run if damaged.
+Залякує ворожу ціль, позбавляючи її можливості чарувати закляття та атакувати. Якщо цілі буде нанесена  шкода, то вона почне тікати.
 
-Duration: |cff80808015s / 30s /|r |cffffcc0045s|r
+Тривалість: |cff80808015 сек. / 30 сек. /|r |cffffcc0045 сек.|r
 }
 
 STRING 1591
 {
-Cursed Ground
+Проклята земля
 }
 
 STRING 1592
@@ -7694,12 +7697,12 @@ R
 
 STRING 1593
 {
-Learn Cursed Ground
+Вивичити Проклята земля
 }
 
 STRING 1594
 {
-Cursed Ground
+Проклята земля
 }
 
 STRING 1595
@@ -7714,27 +7717,27 @@ STRING 1596
 
 STRING 1597
 {
-Shadowy energies errupt from the ground, causing massive damage to all enemies caught. The damage will be increased based on total amount of curses in the area.
+Вивільнює з під землі енергію тіней, яка чинить величезну шкоду усім ворогам в зоні ураження. Шкоду буде збільшено залежно від кількості проклять у зоні ураження.
 
-(Curses are: Seed of Corruption, Corruption, Fear)
+Прокляття: «Страх»,«Прокляття»,«Зернина порчі»
 
-Initial Damage: 200
-Damage per Curse: +50
+Шкода: 200 од.
+Додаткова шкода за кожне прокляття: +50%
 }
 
 STRING 1598
 {
-Shadowy energies errupt from the ground, causing massive damage to all enemies caught. The damage will be increased based on total amount of curses in the area.
+Вивільнює з під землі енергію тіней, яка чинить величезну шкоду усім ворогам в зоні ураження. Шкоду буде збільшено залежно від кількості проклять у зоні ураження.
 
-(Curses are: Seed of Corruption, Corruption, Fear)
+Прокляття: «Страх»,«Прокляття»,«Зернина порчі»
 
-Initial Damage: |cffffcc00200|r
-Damage per Curse: |cffffcc00+50|r
+Шкода:|cffffcc00200 од.|r
+Додаткова шкода за кожне прокляття: |cffffcc00+50%|r
 }
 
 STRING 1599
 {
-Corruption
+Прокляття
 }
 
 STRING 1600
@@ -7871,7 +7874,7 @@ STRING 1639
 
 STRING 1640
 {
-Doomstrike
+Удар Згуби
 }
 
 STRING 1641
@@ -7881,7 +7884,7 @@ STRING 1641
 
 STRING 1642
 {
-Doomstrike
+Удар Згуби
 }
 
 STRING 1643
@@ -7891,12 +7894,12 @@ Q
 
 STRING 1644
 {
-Learn Doomstrike
+Вивчити Удар Згуби
 }
 
 STRING 1645
 {
-Doomstrike - [|cffffcc00Level 1|r]
+Удар Згуби - [|cffffcc00Рівень 1|r]
 }
 
 STRING 1646
@@ -7911,36 +7914,36 @@ STRING 1647
 
 STRING 1649
 {
-Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
 
-Duration: |cffffcc001s|r
-Damage: |cffffcc00100 |r|cff808080/ 175 / 250|r
+Тривалість приголомшення: |cffffcc003 сек. |r|cff808080/ 4 сек. / 5 сек.|r
+Шкода: |cffffcc00100 од. |r|cff808080/ 175 од. / 250 од.|r
 }
 
 STRING 1650
 {
-Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
 
-Duration: |cffffcc001s|r
-Damage: |cff80808050 /|r |cffffcc00100 |r|cff808080/ 150|r
+Тривалість приголомшення: |cff8080803 сек. /|r |cffffcc004 сек. |r|cff8080801/ 5 сек.|r
+Шкода: |cff808080100 од. /|r |cffffcc00175 од. |r|cff8080801/ 250 од.|r
 }
 
 STRING 1651
 {
-Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
 
-Duration: |cffffcc001s|r
-Damage: |cff80808050 / 100 /|r |cffffcc00150|r
+Тривалість приголомшення: |cff8080803 сек. / 4 сек. /|r |cffffcc005 сек.|r
+Шкода: |cff808080100 од. / 175 од. /|r |cffffcc00250 од.|r
 }
 
 STRING 1652
 {
-Doomstrike - [|cffffcc00Level 2|r]
+Удар Згуби - [|cffffcc00Рівень 2|r]
 }
 
 STRING 1653
 {
-Doomstrike - [|cffffcc00Level 3|r]
+Удар Згуби - [|cffffcc00Рівень 3|r]
 }
 
 STRING 1654
@@ -8102,7 +8105,7 @@ STRING 1693
 {
 Одиниця переходить у стан нестримної люті, та наносить атаки на <Absk,DataB1,%>% швидше, але в той самий час отримує на <Absk,DataC1,%>% більше шкоди. 
 
-Тривалість: |cffffcc0015 сек.|р"
+Тривалість: |cffffcc0015 сек.|р
 }
 
 STRING 1694
@@ -8185,12 +8188,12 @@ STRING 1708
 
 STRING 1709
 {
-Zeppelin Bombs
+Бомби на дирижаблях
 }
 
 STRING 1710
 {
-Zeppelin Bombs
+Бомби на дирижаблях
 }
 
 STRING 1711
@@ -8220,7 +8223,7 @@ STRING 1715
 
 STRING 1716
 {
-Elite Armory
+Елітна зброя
 }
 
 STRING 1718
@@ -8314,7 +8317,7 @@ STRING 1733
 
 STRING 1734
 {
-Shadow Orb
+Сфера тіні
 }
 
 STRING 1735
@@ -8379,12 +8382,14 @@ STRING 1746
 
 STRING 1747
 {
-Intimidating Shout
+Залякуючий крик
 }
 
 STRING 1748
 {
-Tharbek's battle shout reduces nearby enemy units' attack damage by <Acht,DataA1,%>% for <Acht,Dur1> seconds. It also discourages melee enemies to attack him for <Acht,Dur1> seconds.
+Бойовий вигук Тарбека залякує ворогів навколо, зменшуючи їх шкоду на <Acht,DataA1,%>% од. протягом <Acht,Dur1> сек.
+
+Вороги лякаються настільки, що не здатні атакувати Тарбека у ближньому бою, протягом <Acht,Dur1> сек.
 }
 
 STRING 1749
@@ -8399,7 +8404,7 @@ R
 
 STRING 1751
 {
-Intimidating Shout
+Залякуючий крик
 }
 
 STRING 1752
@@ -8414,7 +8419,7 @@ STRING 1755
 
 STRING 1756
 {
-Whiplash
+Удар батогом
 }
 
 STRING 1757
@@ -8424,7 +8429,7 @@ Q
 
 STRING 1758
 {
-Whiplash
+Удар батогом
 }
 
 STRING 1760
@@ -8434,7 +8439,7 @@ Q
 
 STRING 1763
 {
-[|cffffcc00W|r] |cff00ff00Bonebreaker|r - |cff808080Level %d|r
+[|cffffcc00W|r] |cff00ff00Костолом|r - |cff808080Рівень %d|r
 }
 
 STRING 1771
@@ -8469,7 +8474,7 @@ Disarms melee enemies for <ACsi,Dur1> seconds.
 
 STRING 1777
 {
-Intimidating Shout
+Залякуючий крик
 }
 
 STRING 1778
@@ -8479,7 +8484,7 @@ STRING 1778
 
 STRING 1779
 {
-Intimidating Shout
+Залякуючий крик
 }
 
 STRING 1780
@@ -8494,7 +8499,7 @@ STRING 1781
 
 STRING 1782
 {
-Whiplash
+Удар батогом
 }
 
 STRING 1783
@@ -8539,7 +8544,7 @@ STRING 1793
 
 STRING 1794
 {
-Tharbek strikes with such force that <ACce,DataA1,%>% of his damage strikes through to enemies near the primary attacked unit.
+Тарбек завдає удар з такою силою, що <ACce,DataA1,%>% шкоди передаються ворогам поряд з основною ціллю.
 }
 
 STRING 1795
@@ -8656,7 +8661,7 @@ This warrior is under the influence of the "Rampage" spell. It is immune to magi
 
 STRING 1825
 {
-Rampage
+Буйство
 }
 
 STRING 1826
@@ -8797,7 +8802,7 @@ STRING 1855
 
 STRING 1856
 {
-This unit sees the Warbanner of the Horde; it has increased attack damage.
+Ця одиниця побачисла бойовий прапор Орди; шкода від атак збільшена.
 }
 
 STRING 1857
@@ -8807,7 +8812,7 @@ STRING 1857
 
 STRING 1858
 {
-This unit is terrified of the horde's warcry, it will deal less damage and has reduced armor.
+Ця одиниця налякана бойовим криком орди, тому завдає менше шкоди та має зменшену броню.
 }
 
 STRING 1859
@@ -8827,7 +8832,7 @@ STRING 1861
 
 STRING 1862
 {
-This unit heared the Warchief's warcry; it will distribute some of the damage it takes across other affected allies.
+Ця одиниця почула бойовий вигук вождя; шкода яку вона отримує буде розділена проміж іншими одиницями які теж почули вигук.
 }
 
 STRING 1863
@@ -8857,7 +8862,7 @@ STRING 1868
 
 STRING 1869
 {
-Blackrock & Roll
+Блекрок-н-рол
 }
 
 STRING 1870
@@ -8887,7 +8892,7 @@ STRING 1874
 
 STRING 1875
 {
-Heart of the Mountain
+Серце гори
 }
 
 STRING 1876
@@ -9057,7 +9062,7 @@ STRING 1909
 
 STRING 1910
 {
-Hand of Gul'dan
+Долоня Ґул'дана
 }
 
 STRING 1911
@@ -9077,7 +9082,7 @@ STRING 1913
 
 STRING 1914
 {
-This unit has been shocked by Cho'gall's Sundering.
+Ця одиниця була приголомшена від розколу Чо'ґалла.
 }
 
 STRING 1915
@@ -9097,7 +9102,7 @@ STRING 1917
 
 STRING 1918
 {
-Hand of Gul'dan
+Долоня Ґул'дана
 }
 
 STRING 1919
@@ -9142,7 +9147,7 @@ STRING 1926
 
 STRING 1927
 {
-Cursed Ground
+Проклята земля
 }
 
 STRING 1928
@@ -9152,7 +9157,7 @@ STRING 1928
 
 STRING 1929
 {
-Seed of Corruption
+Зернина порчі
 }
 
 STRING 1930
@@ -9162,12 +9167,12 @@ STRING 1930
 
 STRING 1931
 {
-This unit was cursed by Seed of Corruption; it will take damage over time and move more slowly.
+На цю одиницю накладено "Зернину порчі"; Вона отримує періодичну шкоду і рухається повільніше.
 }
 
 STRING 1932
 {
-Corruption
+Прокляття
 }
 
 STRING 1933
@@ -9177,7 +9182,7 @@ STRING 1933
 
 STRING 1934
 {
-This unit has been cursed by Corruption. It is being damaged over time.
+На цю одиницю накладено "Проклятя"; Вона отримує періодичну шкоду.
 }
 
 STRING 1935
@@ -9187,12 +9192,12 @@ STRING 1935
 
 STRING 1936
 {
-Fear
+Страх
 }
 
 STRING 1937
 {
-This unit is Feared; it cannot preform attacks or spells and will run from combat.
+На цю одиницю накладено "Срах"; Вона не може наносити шкоду і чарувати закляття.
 }
 
 STRING 1938
@@ -9222,7 +9227,7 @@ This unit has Entropic Frenzy; its attack rate is increased, but it takes damage
 
 STRING 1945
 {
-Zeppelin Bombs
+Бомби на дирижаблях
 }
 
 STRING 1946
@@ -9242,17 +9247,17 @@ STRING 1948
 
 STRING 1949
 {
-Intimidating Shout
+Залякуючий крик
 }
 
 STRING 1950
 {
-Intimidating Shout
+Залякуючий крик
 }
 
 STRING 1951
 {
-This unit has heard the Intimidating Shout; melee unable to attack, rest deals less damage for a duration.
+Ця одиниця почула залякуючий крик; не може наносити атаки у ближньому бою, інші типи атак наносять менше шкоди.
 }
 
 STRING 1952
@@ -9312,7 +9317,7 @@ Madness
 
 STRING 1964
 {
-This unit was hit by a Twilight Madness; it has reduced movement speed and a chance to miss on attacks.
+Ця одиниця знаходиться під впливом "Нищівне божевілля"; Одиниця промахується у деяких своїх атаках, рухається значно повільніше.
 }
 
 STRING 1965
@@ -9327,7 +9332,7 @@ STRING 1966
 
 STRING 1967
 {
-Allows Goblin Zeppelins to attack land units.
+Дирижаблі отримують змогу атакувати споруди та наземні одиниці.
 }
 
 STRING 1968
@@ -10192,7 +10197,7 @@ STRING 2145
 
 STRING 2146
 {
-Better Pickaxes
+Кращі шахтарські кирки
 }
 
 STRING 2147
@@ -10792,12 +10797,12 @@ STRING 2266
 
 STRING 2267
 {
-Unholy Sentry
+Нечестива варта
 }
 
 STRING 2268
 {
-Unholy Sentry
+Нечестива варта
 }
 
 STRING 2269
@@ -10847,7 +10852,7 @@ STRING 2277
 
 STRING 2278
 {
-Increases damage of orcish Archers and Spearthrowers.
+Збільшує шкоду орків лучників та списометальників.
 }
 
 STRING 2279
@@ -11382,42 +11387,42 @@ ratx
 
 STRING 2385
 {
-Tharbek Training
+Підвищення рівня Тарбека
 }
 
 STRING 2386
 {
-Tharbek Training
+Підвищення рівня Тарбека
 }
 
 STRING 2387
 {
-Tharbek Training
+Підвищення рівня Тарбека
 }
 
 STRING 2388
 {
-Tharbek Training
+Підвищення рівня Тарбека
 }
 
 STRING 2389
 {
-Slave Master
+Рабовласник
 }
 
 STRING 2390
 {
-Lieutenant
+Лейтинант
 }
 
 STRING 2391
 {
-Increases Tharbek's mana capacity, mana regeneration rate, hit points, and attack rate.
+Збільшує швидкість акати Тарбека, а також кількість його здоров'я та мани, і швидкість їх відновлення.
 }
 
 STRING 2392
 {
-Increases Tharbek's mana capacity, mana regeneration rate, hit points, and attack rate.
+Збільшує швидкість акати Тарбека, а також кількість його здоров'я та мани, і швидкість їх відновлення.
 }
 
 STRING 2393
@@ -11427,17 +11432,17 @@ STRING 2393
 
 STRING 2394
 {
-Increases Tharbek's mana capacity, mana regeneration rate, hit points, and attack rate.
+Збільшує швидкість акати Тарбека, а також кількість його здоров'я та мани, і швидкість їх відновлення.
 }
 
 STRING 2395
 {
-Increases Tharbek's mana capacity, mana regeneration rate, hit points, and attack rate.
+Збільшує швидкість акати Тарбека, а також кількість його здоров'я та мани, і швидкість їх відновлення.
 }
 
 STRING 2396
 {
-Captain
+Капітан
 }
 
 STRING 2397
@@ -11452,7 +11457,7 @@ STRING 2398
 
 STRING 2400
 {
-Death and Decay
+Смерть і занепад
 }
 
 STRING 2401
@@ -11502,12 +11507,12 @@ STRING 2409
 
 STRING 2410
 {
-Broken Black Dragon Totem
+Зламаний тотем чорного дракона
 }
 
 STRING 2411
 {
-Black dragon Statue, made from Obsidian. But it lacks some details.
+Статуетка чорного дракон,  зроблена з обсидіану. Бракує деяких частин.
 }
 
 STRING 2412
@@ -11815,7 +11820,7 @@ STRING 2482
 
 STRING 2483
 {
-Battle report
+Військовий звіт
 }
 
 STRING 2484
@@ -12131,7 +12136,7 @@ STRING 2545
 
 STRING 2546
 {
-Burden of Greed
+Ярмо жадібності
 }
 
 STRING 2547
@@ -12191,7 +12196,7 @@ Dark Iron Curse Removed
 
 STRING 2558
 {
-Zuluhed cannot use his Feral Leap ability because of the ancient curse in this area.
+Зулугед не може використовувати свою здібність «Дикий стрибок», бо у цьому підземеллі діє стародавнє прокляття «Темного заліза».
 }
 
 STRING 2559
@@ -13500,7 +13505,7 @@ STRING 2827
 
 STRING 2828
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 2829
@@ -13615,7 +13620,7 @@ Bag
 
 STRING 2853
 {
-Bag With Guldans Head
+Сумка з головою.
 }
 
 STRING 2854
@@ -13659,7 +13664,7 @@ STRING 2860
 
 STRING 2861
 {
-Fel Spikes
+Шипи скверни
 }
 
 STRING 2862
@@ -13698,10 +13703,10 @@ STRING 2868
 
 STRING 2869
 {
-Orgrim slams the ground in front of him, damaging and shortly stunning enemies hit.
+Орґрім робить потужний удар по землі, наносячи шкоду та приголомшуючи всіх ворогів навколо себе.
 
-Stun Duration: 3 / 4 / 5
-Damage: 100 / 175 / 250
+Тривалість приголомшення: 3 сек. / 4 сек. / 5 сек.
+Шкода: 100 од. / 175 од. / 250 од.
 }
 
 STRING 2870
@@ -13806,7 +13811,7 @@ STRING 2890
 
 STRING 2891
 {
-Elite Armory
+Елітна зброя
 }
 
 STRING 2892
@@ -13882,91 +13887,97 @@ STRING 2906
 
 STRING 2907
 {
-Bonebreaker
+Костолом
 }
 
 STRING 2908
 {
-Attacks ferociously an enemy at close range, dealing massive damage and knocking him back. The target is stunned for few seconds.
+Жорстоко атакує ціль з близької відстані, роблячи їй колосальну шкоду і відкидаючи її назад. Також ціль буде приголомшена протягом декількох сек.
 
-|cff00ff00Level 1 - |r200 damage
-|cff00ff00Level 2 - |r350 damage
-|cff00ff00Level 3 - |r500 damage
+|cff00ff00Рівень 1 - |r200 од. шкоди
+|cff00ff00Рівень 2 - |r350 од. шкоди
+|cff00ff00Рівень 3 - |r500 од. шкоди
 }
 
 STRING 2909
 {
-Bonebreaker - [|cffffcc00Level 1|r]
+Костолом - [|cffffcc00Рівень 1|r]
 }
 
 STRING 2910
 {
-Bonebreaker - [|cffffcc00Level 2|r]
+Костолом - [|cffffcc00Рівень 2|r]
 }
 
 STRING 2911
 {
-Bonebreaker - [|cffffcc00Level 3|r]
+Костолом - [|cffffcc00Рівень 3|r]
 }
 
 STRING 2912
 {
-Attacks an enemy at close range, dealing <XAE1:AHtb,DataA1> damage. The target is knocked back and stunned for <XAE1:AHtb,Dur1> second.
+Атака ворожих цілей які знаходяться на ближній відстані, наносячи <XAE1:AHtb,DataA1> од. шкоди. 
+
+Відкидає цілі назад та приголомшує їх на <XAE1:AHtb,Dur1> сек.
 }
 
 STRING 2913
 {
-Attacks an enemy at close range, dealing <XAE1:AHtb,DataA2> damage. The target is knocked back and stunned for <XAE1:AHtb,Dur2> seconds.
+Атака ворожих цілей які знаходяться на ближній відстані, наносячи <XAE1:AHtb,DataA2> од. шкоди. 
+
+Відкидає цілі назад та приголомшує їх на <XAE1:AHtb,Dur2> сек.
 }
 
 STRING 2914
 {
-Attacks an enemy at close range, dealing <XAE1:AHtb,DataA3> damage. The target is knocked back and stunned for <XAE1:AHtb,Dur3> seconds.
+Атака ворожих цілей які знаходяться на ближній відстані, наносячи <XAE1:AHtb,DataA3> од. шкоди. 
+
+Відкидає цілі назад та приголомшує їх на <XAE1:AHtb,Dur3> сек.
 }
 
 STRING 2915
 {
-Axe Swing - [|cffffcc00Level 1|r]
+Розмах сокирою - [|cffffcc00Рівень 1|r]
 }
 
 STRING 2916
 {
-Axe Swing - [|cffffcc00Level 2|r]
+Розмах сокирою - [|cffffcc00Рівень 2|r]
 }
 
 STRING 2917
 {
-Axe Swing - [|cffffcc00Level 3|r]
+Розмах сокирою - [|cffffcc00Рівень 3|r]
 }
 
 STRING 2918
 {
-Axe swing that deals <XAE2,DataA1> damage to each enemy unit in a cone.
+Розмах сокирою який робить <XAE2,DataA1> од. шкоди всім цілям у радіусі розмаху.
 }
 
 STRING 2919
 {
-Axe swing that deals <XAE2,DataA2> damage to each enemy unit in a cone.
+Розмах сокирою який робить <XAE2,DataA2> од. шкоди всім цілям у радіусі розмаху.
 }
 
 STRING 2920
 {
-Axe swing that deals <XAE2,DataA3> damage to each enemy unit in a cone.
+Розмах сокирою який робить <XAE2,DataA3> од. шкоди всім цілям у радіусі розмаху.
 }
 
 STRING 2921
 {
-Learn Axe Swing - [|cffffcc00Level %d|r]
+Вивчити Розмах сокирою- [|cffffcc00Рівень %d|r]
 }
 
 STRING 2922
 {
-Axe swing that damages enemies in a line. |n|n|cffffcc00Level 1|r - <XAE2,DataA1> damage per unit. |n|cffffcc00Level 2|r - <XAE2,DataA2> damage per unit. |n|cffffcc00Level 3|r - <XAE2,DataA3> damage per unit.
+Розмах сокирою який наносить шкоду всім цілям у радіусі розмаху. |n|n|cffffcc00Рівень 1|r - <XAE2,DataA1> од. шкоди кожній цілі. |n|cffffcc00Рівень 2|r - <XAE2,DataA2>  од. шкоди кожній цілі. |n|cffffcc00Рівень 3|r - <XAE2,DataA3> од. шкоди кожній цілі.
 }
 
 STRING 2923
 {
-Axe Swing
+Розмах сокирою
 }
 
 STRING 2924
@@ -14309,7 +14320,7 @@ STRING 3002
 
 STRING 3003
 {
-Tharbek uses his whip to deal up to 150 damage to each land unit in a line. |n |n |cffe6cc80¨The whip teaches!¨|r  |n |n Decreases movement speed of enemy units. |n |n Increases movement speed of allied units.  |n  |n Cannot be targeted at Hero.
+Тарбек б'є своїм батогом, і наносить 150 од. шкоди всім цілям по лінії ураження.|n |n |cffe6cc80«Батогом і тварину можна навчити!»|r |n |nЗменшує швидкість пересування уражених цілей. |n |nУ випадку ураження дружніх цілей, підвищує швидкість їх пересування. |n |nНе може бути використано проти героя.
 }
 
 STRING 3004
@@ -14342,18 +14353,18 @@ STRING 3007
 
 STRING 3008
 {
-Places a Warbanner which increases the damage done by all nearby allies.
+Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо. 
 
-Duration: |cffffcc0060s|r
-Damage Bonus: |cffffcc0010% |cff808080/|r |cff80808020%|r |cff808080/ 30%|r
+Тривалість:|cffffcc0060 сек.|r
+Додаткова шкода: |cffffcc0010% |cff808080/|r |cff80808020%|r |cff808080/ 30%|r
 }
 
 STRING 3009
 {
-Places a Warbanner which increases the damage done by all nearby allies.
+Встановлення на землю бойового прапора, який збільшує всю шкоду яку наносять союзні війська навколо. 
 
-Duration: |cffffcc0060s|r
-Damage Bonus: |cff80808010% /|r|cffffcc00 20% |cff808080/ 30%|r
+Тривалість:|cffffcc0060 сек.|r
+Додаткова шкода: |cff80808010% /|r|cffffcc00 20% |cff808080/ 30%|r
 }
 
 STRING 3010
@@ -14361,7 +14372,7 @@ STRING 3010
 Вражає обрану область блискавкою, завдаючи шкоди та приголомшуючи цілі.
 
 Тривалість приголомшення: 3 сек. / 4 сек. / 5 сек.
-Шкода: 150 од. / 175 од. / 250 од.
+Шкода: 150 од. / 175 од. / 200 од.
 }
 
 STRING 3011
