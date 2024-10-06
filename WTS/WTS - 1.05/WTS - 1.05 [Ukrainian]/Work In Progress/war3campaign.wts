@@ -299,7 +299,7 @@ STRING 67
 
 STRING 68
 {
-Death Knight
+Лицар смерті
 }
 
 STRING 69
@@ -309,25 +309,26 @@ K
 
 STRING 70
 {
-Train Death Knight
+Прикликати лицаря смерті
 }
 
 STRING 71
 {
-- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind
+- Дотик пітьми|n- Підняти мерців,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність,- Дотик пітьми|n- Підняти мерців|n- Обличчя смерті|n-Нечестива броня|n- Смерть і занепад|n- Поспішність|n- Смерч
 }
 
 STRING 72
 {
-Initiate, Adept, Master, Necromancer
+Посвячений, Адепт, Володар, Некромант
 }
 
 STRING 73
 {
-Deadly spellcaster and master of necromancy and shadow magic.
-Abilities: Raise Dead - Death Coil - Unholy Armor - Haste - Death and Decay - Whirlwind
+Смертоносний чарівник, майстер некромантії та магії тіні.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: Підняти мерців - Обличчя смерті - Нечестива броня - Поспішність - Смерть і занепад - Смерч
+
+|cffffcc00Атакує наземні та повітряні цілі.|r"
 }
 
 STRING 74
@@ -342,19 +343,20 @@ STRING 75
 
 STRING 76
 {
-Goblin Sappers
+Загін ґоблінів саперів
 }
 
 STRING 77
 {
-Train Goblin Sappers
+Тренувати Загін ґоблінів саперів
 }
 
 STRING 78
 {
-Single use, explosive team of goblin sappers. Particularly effective against buildings.
+Загін ґоблінів самогубців одноразового використання.
+Вкрай ефективні проти споруд.
 
-|cffffcc00Attacks land units and trees.|r 
+|cffffcc00Атакують наземні цілі та дерева.|r
 }
 
 STRING 79
@@ -444,7 +446,7 @@ STRING 94
 
 STRING 95
 {
-Submarine
+Підводний човен
 }
 
 STRING 96
@@ -460,7 +462,7 @@ Build Submarine
 STRING 98
 {
 This watertight vessel can submerge beneath the waves and surreptitiously keep watch on enemy forces above the surface.
-Abilities: Telescope - Submerge
+Abilities: Телескоп - Submerge
 
 |cffffcc00Attacks naval units and naval buildings.|r
 
@@ -469,7 +471,7 @@ Abilities: Telescope - Submerge
 
 STRING 99
 {
-Ogre
+Оґр
 }
 
 STRING 100
@@ -543,7 +545,7 @@ STRING 111
 
 STRING 112
 {
-Mage
+Маг
 }
 
 STRING 113
@@ -571,12 +573,12 @@ STRING 116
 
 STRING 117
 {
-Ballista
+Баліста
 }
 
 STRING 118
 {
-Build Ballista
+Побудувати балісту
 }
 
 STRING 119
@@ -589,12 +591,12 @@ Abilities: Penetrating Bolts
 
 STRING 120
 {
-Paladin
+Паладин
 }
 
 STRING 121
 {
-Initiate, Adept, Holy man
+Початківець, Адепт, Святий
 }
 
 STRING 122
@@ -781,7 +783,7 @@ STRING 154
 
 STRING 155
 {
-Submarine
+Підводний човен
 }
 
 STRING 156
@@ -797,7 +799,7 @@ STRING 157
 STRING 158
 {
 This watertight vessel can submerge beneath the waves and surreptitiously keep watch on enemy forces above the surface.
-Abilities: Telescope - Submerge
+Abilities: Телескоп - Submerge
 
 |cffffcc00Attacks naval units and naval buildings.|r
 
@@ -840,7 +842,7 @@ STRING 164
 
 STRING 165
 {
-Demolition Squad
+Підривний загін
 }
 
 STRING 166
@@ -966,7 +968,7 @@ Halduron Brightwing
 
 STRING 189
 {
-Kings Guard
+Королівська варта
 }
 
 STRING 190
@@ -1132,19 +1134,19 @@ Upgrades to: Paladin
 STRING 219
 {
 Fast moving gnomish flying machine. Excellent at scouting and reveiling invisible units as well as effective against air units in combat. Can be upgraded to attack land units with bombs.
-Abilities: Telescope - Flying Machine Bombs
+Abilities: Телескоп - Flying Machine Bombs
 
 |cffffcc00Attacks air units.|r
 }
 
 STRING 220
 {
-Gnomish Flying Machine
+Гелікоптер гномів
 }
 
 STRING 221
 {
-Train Gnomish Flying Machine
+Побудувати гелікоптер гномів
 }
 
 STRING 222
@@ -1157,7 +1159,7 @@ Abilities: Storm Hammers, Ironfeathers
 
 STRING 223
 {
-Elven Archer
+Ельфійський лучник
 }
 
 STRING 224
@@ -1167,7 +1169,7 @@ R
 
 STRING 225
 {
-Elven Archer
+Ельфійський лучник
 }
 
 STRING 226
@@ -1190,12 +1192,12 @@ STRING 228
 
 STRING 229
 {
-Elven Destroyer
+Руйнівник ельфів
 }
 
 STRING 230
 {
-Build Destroyer
+Руйнівник ельфів
 }
 
 STRING 231
@@ -1210,7 +1212,7 @@ Abilities: Penetrating Bolt
 
 STRING 232
 {
-Battleship
+Лінкор
 }
 
 STRING 233
@@ -1230,7 +1232,7 @@ Abilities: Broadside
 
 STRING 235
 {
-Ranger
+Слідопит
 }
 
 STRING 236
@@ -1371,7 +1373,7 @@ STRING 258
 STRING 259
 {
 Serves as a drop-off point for harvested lumber.
-Research: Lumber Saw Upgrade - Steel Arrows - Marksmanship - Improved Ranged Weapons - Ensnare
+Research: Lumber Saw Upgrade - Steel Arrows - Marksmanship - Покращена зброя дальнього бою - Ensnare
 }
 
 STRING 260
@@ -1602,12 +1604,12 @@ STRING 299
 
 STRING 300
 {
-Troll Destroyer
+Руйнівник тролів
 }
 
 STRING 301
 {
-Побудувати руйнівника тролів
+Побудувати Руйнівника тролів
 }
 
 STRING 302
@@ -1647,20 +1649,23 @@ STRING 308
 
 STRING 309
 {
-Dragon
+Багряний дракон
 }
 
 STRING 310
 {
-Train Dragon
+Тренувати багряного дракона
 }
 
 STRING 311
 {
-The Dragons represent the single most powerful force within the Horde. Their devastating flame can level any number of enemy troops, while their powerful wings allow them to tirelessly soar through the skies.
-Abilities: Dragonfire, Ironscale
+Багряні дракони є одними з наймогутніших істот які були підкорені та приручені Одрою та слугують у її інтересах.
 
-|cffffcc00Attacks land and air units.|r 
+Їх нищівне полум'я здатне впоратись майже з будь-якою кількістю ворожих військ, а їхні могутні крила дозволяють їм невтомно та швидко пересуватись небом.
+
+Здібності: «Полум'я дракона», «Залізна луска»
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 312
@@ -1670,20 +1675,21 @@ STRING 312
 
 STRING 313
 {
-Versatile axe-thrower, effective against air units.
-Abilities: Berserk - Ambush - Berserker Regeneration - Berserker Sight - Lighter Axes - Ensnare
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: «Берсерк» - «Засідка» - «Регенерація берсерка» - «Пильність берсерка» - «Легші сокири» - «Оплутати»
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 314
 {
-Troll Berserker
+Троль берсерк
 }
 
 STRING 315
 {
-Train Troll Berserker
+Тренувати троля берсерка
 }
 
 STRING 316
@@ -1712,7 +1718,7 @@ STRING 321
 {
 Captured and ensorcelled by magiks contrived by the Dragonmaw clan, the great Dragon is kept in a constant state of weakness and pain.
 Trains: Dragons
-Research: Ironscale
+Research: Залізна луска
 }
 
 STRING 322
@@ -1869,7 +1875,7 @@ Dragon Aspect
 
 STRING 349
 {
-Deathwing
+Смертекрил
 }
 
 STRING 350
@@ -2062,12 +2068,12 @@ Basic worker unit. Can harvest gold and lumber, build structures and Repair. |n|
 
 STRING 386
 {
-Undead
+Невмерлий
 }
 
 STRING 387
 {
-Summon Undead
+Прикликати невмерлого
 }
 
 STRING 388
@@ -2097,7 +2103,7 @@ Mystic elven artifact
 
 STRING 393
 {
-Archer
+Лучник
 }
 
 STRING 394
@@ -2211,7 +2217,7 @@ STRING 414
 
 STRING 416
 {
-Alextraza
+Алекстраза
 }
 
 STRING 418
@@ -2226,7 +2232,7 @@ Dragon Aspect
 
 STRING 420
 {
-Deathwing
+Смертекрил
 }
 
 STRING 421
@@ -2261,12 +2267,12 @@ Oooze
 
 STRING 427
 {
-Orc Bowman
+Орк лучник
 }
 
 STRING 428
 {
-Train Orc Bowman
+Тренувати орка лучника
 }
 
 STRING 429
@@ -2299,7 +2305,7 @@ STRING 434
 
 STRING 436
 {
-Alextraza
+Алекстраза
 }
 
 STRING 437
@@ -2344,7 +2350,7 @@ STRING 444
 
 STRING 446
 {
-Orc Pirate
+Орк пірат
 }
 
 STRING 447
@@ -2354,7 +2360,7 @@ STRING 447
 
 STRING 448
 {
-Hire Orc Pirate
+Найняти Орка пірата
 }
 
 STRING 449
@@ -2447,7 +2453,7 @@ STRING 464
 
 STRING 465
 {
-Blackhand Guard
+Охоронець чорнорука
 }
 
 STRING 466
@@ -2480,7 +2486,7 @@ STRING 470
 
 STRING 471
 {
-Rune of Blood
+Руна крові
 }
 
 STRING 472
@@ -2500,7 +2506,7 @@ STRING 474
 
 STRING 475
 {
-Defender
+Захистник
 }
 
 STRING 476
@@ -2821,12 +2827,12 @@ Train Guard Dog
 
 STRING 636
 {
-Hunter
+Списометальник
 }
 
 STRING 637
 {
-Train Hunter
+Тренувати списометальника
 }
 
 STRING 638
@@ -2866,7 +2872,7 @@ STRING 645
 
 STRING 646
 {
-Air Elemental
+Елементаль повітря
 }
 
 STRING 647
@@ -2876,17 +2882,17 @@ STRING 647
 
 STRING 648
 {
-Summon Elemental
+Прикликати елементаль
 }
 
 STRING 649
 {
-Enraged Air Elemental that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r
+Enraged Air Елементаль that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 650
 {
-Earth Elemental
+Елементаль землі
 }
 
 STRING 651
@@ -2896,12 +2902,12 @@ STRING 651
 
 STRING 652
 {
-Summon Elemental
+Прикликати елементаль
 }
 
 STRING 653
 {
-Fire Elemental
+Елементаль вогню
 }
 
 STRING 654
@@ -2911,12 +2917,12 @@ STRING 654
 
 STRING 655
 {
-Summon Elemental
+Прикликати елементаль
 }
 
 STRING 656
 {
-Water Elemental
+Елементаль води
 }
 
 STRING 657
@@ -2926,7 +2932,7 @@ STRING 657
 
 STRING 658
 {
-Summon Elemental
+Прикликати елементаль
 }
 
 STRING 659
@@ -3050,7 +3056,7 @@ STRING 680
 
 STRING 681
 {
-Kor'kron Guard
+Кор'кронський вартовий
 }
 
 STRING 682
@@ -3060,7 +3066,7 @@ Train Kor'kron
 
 STRING 683
 {
-Ward of Ula'Tek
+Оберіг Ула'Тек
 }
 
 STRING 684
@@ -3140,100 +3146,116 @@ STRING 708
 
 STRING 709
 {
-Doomhammer
+Молот Згуби
 }
 
 STRING 710
 {
-Doomhammer
+Молот згуби
 }
 
 STRING 711
 {
-|cffff8c00Artifact|r
-Increases the attack damage by 20 and gives the chance to Bash the taget.
+|cffff8c00Артефакт|r
+Підвищує шкоду від кожної атаки на 20 од. та дає шанс додатково вдарити ціль.
 
-|cffffcc00History|r
-|cffffdeadThrough blood the weapon shall pass, as surely as night begets day, Until the elements cry unheard, and pride turns to unbridled rage. The last of the line shall deliver salvation and doom upon his kind. Honor will be undone and all will be lost, before it is found again. A stranger will raise the hammer high, and with it justice shall reign.|r
+|cffffcc00Історія|r
+Цей молот є символом та древня сімейна реліквія яка колись була відлита з магми елементалів на Дренорі. Він передавався від батька до сина, і одного дня перейшов до Орґріма від його батька Телкара.
+
+Орґрім знав пророцтво про молот, і знав що колись молот покине родину Молотів згуби, заради порятунку орків.
+
+|cffffdeadЯк світанок настає після ночі, так зброя має бути окроплена кровʼю.
+Доки стихії не закричать не почуто, і доки гордість не буде перетворена в лють.
+Останній у роді своєму, принесе спасіння і смерть народу своєму.
+І честь буде втрачена як і все що здобуто було, поки не буде молот віднайдений знову.
+І як підніме чужинець його над собою, так запанує справедливість навколо.|r
 }
 
 STRING 712
 {
-|cffff8c00Artifact|r
-Increases the attack damage by 20 and gives the chance to Bash the taget.
+|cffff8c00Артефакт|r
+Підвищує шкоду від кожної атаки на 20 од. та дає шанс додатково вдарити ціль.
 
-|cffffcc00History|r
-|cffffdeadThrough blood the weapon shall pass, as surely as night begets day, Until the elements cry unheard, and pride turns to unbridled rage. The last of the line shall deliver salvation and doom upon his kind. Honor will be undone and all will be lost, before it is found again. A stranger will raise the hammer high, and with it justice shall reign.|r
+|cffffcc00Історія|r
+Цей молот є символом та древня сімейна реліквія яка колись була відлита з магми елементалів на Дренорі. Він передавався від батька до сина, і одного дня перейшов до Орґріма від його батька Телкара.
+
+Орґрім знав пророцтво про молот, і знав що колись молот покине родину Молотів згуби, заради порятунку орків.
+
+|cffffdeadЯк світанок настає після ночі, так зброя має бути окроплена кровʼю.
+Доки стихії не закричать не почуто, і доки гордість не буде перетворена в лють.
+Останній у роді своєму, принесе спасіння і смерть народу своєму.
+І честь буде втрачена як і все що здобуто було, поки не буде молот віднайдений знову.
+І як підніме чужинець його над собою, так запанує справедливість навколо.|r
 }
 
 STRING 733
 {
-Dragon Head
+Голова дракона
 }
 
 STRING 734
 {
-Dragon Head
+Голова дракона
 }
 
 STRING 735
 {
-Obsidian Dragon head
+Головна дракона з обсидіану
 }
 
 STRING 736
 {
-Piece of Dragon Statue
+Шматочок статуетки дракона
 }
 
 STRING 737
 {
-Black Dragon Totem
+Тотем чорного дракона
 }
 
 STRING 738
 {
-Statue of the Black Dragon
+Статуетка чорного дракона
 }
 
 STRING 739
 {
-Black Dragon Totem
+Тотем чорного дракона
 }
 
 STRING 740
 {
-Black dragon Statue, made from Obsidian.
+Статуетка чорного дракона, яка зроблена з обсидіану.
 }
 
 STRING 741
 {
-Dragon Body
+Тулуб дракона
 }
 
 STRING 742
 {
-Piece of Dragon Statue
+Шматочок статуетки дракона
 }
 
 STRING 743
 {
-Dragon Body
+Тулуб дракона
 }
 
 STRING 744
 {
-Obsidian Dragon Body
+Тулуб дракона з обсидіану
 }
 
 STRING 745
 {
-Dragon Foot
+Лапа дракона
 }
 
 STRING 746
 {
-Obsidian Dragon foot
+Лапа дракона з обсидіану
 }
 
 STRING 747
@@ -3243,37 +3265,37 @@ Pice of dragon Statue
 
 STRING 748
 {
-Dragon Foot
+Лапа дракона
 }
 
 STRING 749
 {
-Dragon Wing
+Крила дракона
 }
 
 STRING 750
 {
-Dragon Wing
+Крила дракона
 }
 
 STRING 751
 {
-Piece of Dragon Statue
+Шматочок статуетки дракона
 }
 
 STRING 752
 {
-Obsidian Fragon Wing
+Крила дракона з обсидіану
 }
 
 STRING 753
 {
-Dragon Soul
+Душа дракона
 }
 
 STRING 754
 {
-Mystical Artifact.
+Загадковий артефакт від якого віє темною енергією.
 }
 
 STRING 755
@@ -3283,32 +3305,32 @@ Artifact.
 
 STRING 756
 {
-Golden disc with Carved Dragon head.
+Золотий диск на якому викарбувана голова дракона.
 }
 
 STRING 761
 {
-Telescope
+Телескоп
 }
 
 STRING 762
 {
-Purchase Telescope
+Придбати "Телескоп"
 }
 
 STRING 763
 {
-Reveals a targeted area. Invisible units are also revealed by the Telescopes effect. |nLasts <AIta,Dur1> seconds.
+Показує що відбувається у обраній ділянці, в тому числі виявляючи невидимі цілі. |nДіє <AIta,Dur1> сек.
 }
 
 STRING 764
 {
-Blackhand Arms
+Клинки Чорнорука
 }
 
 STRING 765
 {
-Blackhand Arms
+Клинки Чорнорука
 }
 
 STRING 768
@@ -3336,37 +3358,37 @@ STRING 770
 
 STRING 771
 {
-Rune Tablet
+Табличка з рунами
 }
 
 STRING 772
 {
-Rune Tablet
+Табличка з рунами
 }
 
 STRING 773
 {
-A stone tablet containing powerful runes and spells.
+Кам'яна табличка на якій містяться потужні закляття та магічні руни.
 }
 
 STRING 774
 {
-A stone tablet containing powerful runes and spells.
+Кам'яна табличка на якій містяться потужні закляття та магічні руни.
 }
 
 STRING 775
 {
-Keg of Strong Ale
+Пінта міцного еля
 }
 
 STRING 776
 {
-Purchase Ale
+Придбати пінту міцного еля
 }
 
 STRING 777
 {
-Boosts unit combat damage. But intoxicates with Alcohol.
+Пришвидшує швидкість атаки, але викликає сп'яніння.
 }
 
 STRING 780
@@ -3386,50 +3408,50 @@ STRING 782
 
 STRING 783
 {
-The Woolomancer's Charge 
+Заряд Вулуманта
 }
 
 STRING 784
 {
-The Woolomancer's Charge 
+Заряд Вулуманта
 }
 
 STRING 785
 {
-Allows wielder to cast polymorph spell.
+Дозволяє власнику використовувати заклинання поліморфу.
 }
 
 STRING 786
 {
-Cote "Shepherd" Metcalf was unable to unlock the secrets of this mysterious bleating staff. |n|cffffcc00Artifact.|r
+Загадковий посох секрети якого так і не були розкриті.|n|cffffcc00Артефакт.|r
 }
 
 STRING 787
 {
-Doomplate
+Обладунки Згуби
 }
 
 STRING 788
 {
-Doomplate
+Обладунки Згуби
 }
 
 STRING 789
 {
-|cffff8c00Artifact|r
-Increases the heroe's armor by 5, strength by 6 and wards him against enemy spells every 40 seconds.
+|cffff8c00Артефакт|r
+Збільшує броню власника на 5 од, силу на 6 од. і захищає його від ворожих заклять кожні 40 сек.
 
-|cffffcc00History|r
-|cffffdeadAfter Orgrim became the Warchief of the Horde, this unique set of armor was forged in Draenor. The plate is said to be infused with dark magic, providing its wearer with increased strength, resilience, and a fearsome presence on the battlefield.|r
+|cffffcc00Історія|r
+Після того як Орґрім став вождем, цей комплект обладунків був викуваний у Дренорі в єдиному екземплярі. Ходять чутки що коли їх кували, то їх наповнили темною магією, яка дивним чином захищає власника від ворожих заклять.|r
 }
 
 STRING 790
 {
-|cffff8c00Artifact|r
-Increases the heroe's armor by 5, strength by 6 and wards him against enemy spells every 40 seconds.
+|cffff8c00Артефакт|r
+Збільшує броню власника на 5 од, силу на 6 од. і захищає його від ворожих заклять кожні 40 сек.
 
-|cffffcc00History|r
-|cffffdeadAfter Orgrim became the Warchief of the Horde, this unique set of armor was forged in Draenor. The plate is said to be infused with dark magic, providing its wearer with increased strength, resilience, and a fearsome presence on the battlefield.|r
+|cffffcc00Історія|r
+Після того як Орґрім став вождем, цей комплект обладунків був викуваний у Дренорі в єдиному екземплярі. Ходять чутки що коли їх кували, то їх наповнили темною магією, яка дивним чином захищає власника від ворожих заклять.|r
 }
 
 STRING 791
@@ -3459,30 +3481,30 @@ Ancient Turtle Shell
 
 STRING 796
 {
-Divination Bones
+Кістки для ворожби
 }
 
 STRING 797
 {
-Divination Bones
+Кістки для ворожби
 }
 
 STRING 798
 {
-|cffff8c00Artifact|r
-Protects the wearer from a harmful spell every minute. Additionally gives a chance to evade attacks.
+|cffff8c00Артефакт|r
+Кожну хвилину захищають власника від ворожих заклять. Додатково дає шанс уникнути ворожих атак.
 
-|cffffcc00History|r
-|cffffdeadNekros practices the fortune telling art known as bone rolling. He believes that he rolled his fate long, long ago...|r
+|cffffcc00Історія|r
+|cffffdeadНекрос практикує ворожбу через кидання кісток. Він вірить що колись давним-давно вони передрекли його долю.|r
 }
 
 STRING 799
 {
-|cffff8c00Artifact|r
-Protects the wearer from a harmful spell every minute. Additionally gives a chance to evade attacks.
+|cffff8c00Артефакт|r
+Кожну хвилину захищають власника від ворожих заклять. Додатково дає шанс уникнути ворожих атак.
 
-|cffffcc00History|r
-|cffffdeadNekros practices the fortune telling art known as bone rolling. He believes that he rolled his fate long, long ago...|r
+|cffffcc00Історія|r
+|cffffdeadНекрос практикує ворожбу через кидання кісток. Він вірить що колись давним-давно вони передрекли його долю.|r
 }
 
 STRING 800
@@ -3492,26 +3514,28 @@ Tasty Hydra Egg
 
 STRING 801
 {
-Stone Figurine
+Фігурка з каменю
 }
 
 STRING 802
 {
-Stone Figurine
+Фігурка з каменю
 }
 
 STRING 805
 {
-Shadow Orb
+Сфера тіні
 }
 
 STRING 806
 {
-|cffff8c00Artifact|r
-Increases attack damage by 10, armor by 3 and grants enhanced hit point regeneration. Can raise undead from corpses.
+|cffff8c00Артефакт|r
+Збільшує шкоду від атак на 10 од. та броню на 3 од. і також покращує відновлення здоров'я.
 
-|cffffcc00History|r
-|cffffdeadThis artifact was imbued with special powers by the Orc Shadow Council.|r
+Може слугувати, щоб підіймати немертвих з трупів.
+
+|cffffcc00Історія|r
+|cffffdead Цей артефакт, був наділений особливими силами орками чорнокнижниками з тіньової ради.|r
 }
 
 STRING 807
@@ -3525,7 +3549,7 @@ Increases attack damage by 10, armor by 3 and grants enhanced hit point regenera
 
 STRING 808
 {
-Ward of Ula'Tek
+Оберіг Ула'Тек
 }
 
 STRING 811
@@ -3535,7 +3559,7 @@ Shrooms
 
 STRING 812
 {
-Whirlwind
+Смерч
 }
 
 STRING 813
@@ -3545,17 +3569,18 @@ STRING 813
 
 STRING 814
 {
-This focusing of the winds of the underworld causes any caught within to be cast about with great force and violence. Bones are easily shattered and mainsails are quickly snapped within the torrents of these fierce winds.
-(Most effective against structures and air units.)
+Це зосередження вітрів підземного світу під контролем лицаря смері, нищить з великою силою та жорстокістю все що потрапляє у них. Кісти живих істот ламаються немов сухі гілки, а вітрила човнів рвуться наче папір в потоках цих лютих вітрів.
 
-Duration: |cffffcc00<Aply,Dur1>s|r
-Damage (Buildings, Ships, Air): |cffffcc0050/s|r
-Damage (Ground): |cffffcc0020/s|r
+Вкрай ефективно діє проти споруд та повітряних цілей.
+
+Тривалість: |cffffcc00<Aply,Dur1> сек.|r
+Шкода в сек. (Споруди, Човни, Повітряні одиниці): |cffffcc0050 од.|r
+Шкода в сек. (Наземні одиниці): |cffffcc0020 од.|r
 }
 
 STRING 815
 {
-Whirlwind
+Смерч
 }
 
 STRING 816
@@ -3673,7 +3698,7 @@ E
 
 STRING 837
 {
-Paladin
+Паладин
 }
 
 STRING 838
@@ -3703,7 +3728,7 @@ W
 
 STRING 843
 {
-Unholy Armor
+Нечестива броня
 }
 
 STRING 844
@@ -3713,7 +3738,7 @@ STRING 844
 
 STRING 845
 {
-Unholy Armor
+Нечестива броня
 }
 
 STRING 846
@@ -3723,27 +3748,27 @@ W
 
 STRING 847
 {
-This ancient Necromantic spell transforms a portion of the recipient's life force into an unearthly, phantasmal suit of armor. This spectral armor then absorbs some of the spell damage directed at its wearer for a limited amount of time. 
+Стародавнє некромантичне заклинання яке перетворює частину життєвої сили цілі в неземну нечестиву броню. Цей спектральний обладунок поглинає шкоду від ворожих заклять.
 
-Duration: |cffffcc00<Aply,Dur1>s|r
-Magic Shield: |cffffcc00<Aam2,DataC1>|r
+Тривалість: |cffffcc00<Aply,Dur1> сек.|r
+Поглинає магічної шкоди: |cffffcc00<Aam2,DataC1> од.|r
 }
 
 STRING 848
 {
-Haste
+Поспішність
 }
 
 STRING 849
 {
-Haste
+Поспішність
 }
 
 STRING 850
 {
-By magically increasing the speed at which a body generates vital energy, the caster may bestow great speed to any being for a short time.
+За допомогою темної магії збільшує швидкість, з якою тіло істоти генерує життєву енергію, що суттєво збільшує швидкість її пересування та атаки на короткий проміжок часу.
 
-Duration: |cffffcc00<Aply,Dur1>s|r
+Тривалість: |cffffcc00<Aply,Dur1> сек.|r
 }
 
 STRING 851
@@ -3758,12 +3783,12 @@ T
 
 STRING 853
 {
-Death Coil
+Обличчя смерті
 }
 
 STRING 854
 {
-Death Coil
+Обличчя смерті
 }
 
 STRING 855
@@ -3778,7 +3803,10 @@ Q
 
 STRING 857
 {
-Dark energy that drains the life-force from any who come in contact with it. |nAbsorbs the life essence of a target enemy unit by taking <ACdr,DataA1> hit points per second from it and giving them to the caster. |nLasts <ACdr,Dur1> seconds.
+Закляття темної енергії, яке витягає життєву силу з усіх, хто з нею контактує.|nЛицар смерті поглинає життєву сутність з ворожої одиниці.
+
+|nЗдоров'я в сек.: <ACdr,DataA1> од.
+|nТривалість: <ACdr,Dur1> сек.
 }
 
 STRING 858
@@ -3788,11 +3816,12 @@ STRING 858
 
 STRING 859
 {
-The aphotic, swirling clouds conjured by the Death Knights can cause anything within their path to rot and decompose. The vapor created by Decay can consume flesh and bone, be it friend of foe.
-(Does reduced damage against structures)
+Лицар смерті викликає темні хмари, які в свою чергу викликають гниття та розкладання плоті. Хмари поглинають все живе у зоні ураження, а також роблять невелику шкоду спорудам.
 
-Duration: |cffffcc00<AUdd,Dur1>s|r
-Damage per Second: |cffffcc00<SNdd,DataA1,%>%|r
+|cffe6cc80ВРАЖАЄ ВОРОЖНІ І ДРУЖНІ ОДИНИЦІ|r
+
+Тривалість: |cffffcc00<AUdd,Dur1> .сек|r
+Шкода в секунду: |cffffcc00<SNdd,DataA1,%>%|r
 }
 
 STRING 860
@@ -3802,12 +3831,12 @@ E
 
 STRING 861
 {
-Death and Decay
+Смерть і занепад
 }
 
 STRING 862
 {
-Death and Decay
+Смерть і занепад
 }
 
 STRING 863
@@ -3817,12 +3846,12 @@ STRING 863
 
 STRING 864
 {
-Telescope
+Телескоп
 }
 
 STRING 865
 {
-Telescope (|cffffcc00I|R)
+Телескоп (|cffffcc00I|R)
 }
 
 STRING 866
@@ -4890,7 +4919,7 @@ Banner Stormreaver
 
 STRING 1086
 {
-Rune of Blood
+Руна крові
 }
 
 STRING 1087
@@ -4910,7 +4939,7 @@ STRING 1091
 
 STRING 1094
 {
-Rune of Blood
+Руна крові
 }
 
 STRING 1096
@@ -5265,7 +5294,7 @@ W
 
 STRING 1168
 {
-Rune of Blood
+Руна крові
 }
 
 STRING 1169
@@ -5285,7 +5314,11 @@ STRING 1173
 
 STRING 1175
 {
-Summons an invisible and immovable Rune that explodes enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |nThe trap lasts <Asta,Dur1> seconds. |nThe stun lasts <Asta,DataD1> seconds.
+Ставить на землю руну крові що непомітна для ворогів. Руна вибухає та чинить шкоду всім ворожі цілям навколо.
+
+Руна активується тільки у випадку коли до неї наближається сухопутна ворожа ціль.
+
+Якщо під час вибуху руни, у зоні її ураженні є інші руни, то вони зникнуть.|nРуна <Asta,Dur1> сек. |nПриголомшення триває <Asta,DataD1> сек.
 }
 
 STRING 1176
@@ -6254,7 +6287,7 @@ W
 
 STRING 1350
 {
-Reduces all attacks on the Earth Elemental by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage.
+Зменшує всю шкоду що отримує елементаль землі на <Assk,DataC1> од. Шкода не може бути менше аніж <Assk,DataB1> од.
 }
 
 STRING 1351
@@ -6299,7 +6332,7 @@ STRING 1358
 
 STRING 1359
 {
-Elemental Attack
+Елементаль Attack
 }
 
 STRING 1360
@@ -6309,7 +6342,7 @@ STRING 1360
 
 STRING 1361
 {
-Earth Shield
+Земляний щит
 }
 
 STRING 1362
@@ -6381,7 +6414,7 @@ Lightning Strike - [|cffffcc00Level 3|r]
 
 STRING 1373
 {
-Earth Shield
+Земляний щит
 }
 
 STRING 1374
@@ -6581,7 +6614,7 @@ Q
 
 STRING 1411
 {
-Dragon Fire
+Полум'я дракона
 }
 
 STRING 1412
@@ -6591,7 +6624,7 @@ STRING 1412
 
 STRING 1413
 {
-Dragon Fire
+Полум'я дракона
 }
 
 STRING 1414
@@ -6606,7 +6639,7 @@ STRING 1415
 
 STRING 1416
 {
-Increases the hit point regeneration rate of Berserkers.
+Пришвидшує відновлення здоров'я берсерків.
 }
 
 STRING 1417
@@ -7726,12 +7759,12 @@ The Mages have the ability to discharge lightning from their hands. These swift 
 
 STRING 1604
 {
-Touch of Darkness
+Дотик пітьми
 }
 
 STRING 1605
 {
-Touch of Darkness
+Дотик пітьми
 }
 
 STRING 1606
@@ -7741,7 +7774,9 @@ STRING 1606
 
 STRING 1607
 {
-By enveloping their truncheons with the dark essence of Fel, the Death Knights are able to deplete vital energies from those they lash out against. Does additional magic damage against units.
+Посохи лицарів смерті окутані темною сутністю скверни, що дає їм змогу витягати життеву силу з ворогів.
+
+Наносить додаткову магічну шкоду цілям.
 }
 
 STRING 1608
@@ -7796,17 +7831,17 @@ STRING 1617
 
 STRING 1632
 {
-Ironscale
+Залізна луска
 }
 
 STRING 1633
 {
-Ironscale
+Залізна луска
 }
 
 STRING 1634
 {
-Upgrades the scale of Dragons so that they have Large armor, as well as increases armor points.
+Поліпшення луски таким чином, що вона стає більш твердою, і відповідно підвищує броню драконів.
 }
 
 STRING 1635
@@ -7910,7 +7945,7 @@ Doomstrike - [|cffffcc00Level 3|r]
 
 STRING 1654
 {
-Poison Arrows
+Отруйні стріли
 }
 
 STRING 1655
@@ -8015,12 +8050,12 @@ STRING 1682
 
 STRING 1683
 {
-Improved Ranged Weapons
+Покращена зброя дальнього бою
 }
 
 STRING 1684
 {
-Improved Ranged Weapons
+Покращена зброя дальнього бою
 }
 
 STRING 1685
@@ -8045,12 +8080,12 @@ STRING 1688
 
 STRING 1689
 {
-Rage
+Лють
 }
 
 STRING 1690
 {
-Rage
+Лють
 }
 
 STRING 1691
@@ -8065,7 +8100,9 @@ Q
 
 STRING 1693
 {
-Causes this unit to attack <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage. Lasts 15 seconds.
+Одиниця переходить у стан нестримної люті, та наносить атаки на <Absk,DataB1,%>% швидше, але в той самий час отримує на <Absk,DataC1,%>% більше шкоди. 
+
+Тривалість: |cffffcc0015 сек.|р"
 }
 
 STRING 1694
@@ -8085,9 +8122,10 @@ C
 
 STRING 1697
 {
-This dark magik is the final legacy of the Orc Necrolytes who were destroyed shortly after the First War. The Death Knight can animate corpses of the newly dead and then command these monstrosities to attack their enemies.
+Це таємне закляття є останнім спадком орків некролітів «Темної ради» які були знищені незабаром після першої війни. Лицар смерті може оживляти тіла полеглих воїнів, а потім наказувати їм атакувати ворогів.
 
-Duration: |cffffcc00<Aply,Dur1>s|r
+Тривалість життя : |cffffcc00<Aply,Dur1>сек.|r
+
 }
 
 STRING 1698
@@ -8112,12 +8150,12 @@ STRING 1701
 
 STRING 1702
 {
-Telescope
+Телескоп
 }
 
 STRING 1703
 {
-Telescope
+Телескоп
 }
 
 STRING 1704
@@ -8197,20 +8235,20 @@ STRING 1719
 
 STRING 1720
 {
-Darkplate
+Темні лати
 }
 
 STRING 1721
 {
-Darkplate
+Темні лати
 }
 
 STRING 1722
 {
-The Kor'kron are equiped with armor from the same forges as the Warchief Doomplate. This armor greatly reducing all damage taken. Attacks cannot be reduced below a treshhold.
+Кор'крони носять броню яка кувалась я тих самих кузнях що й «Обладунки Згуби» вождя. Така броня значно знижує всю отримувану шкоду, але не позбавляє від неї повністю.
 
-Damage Reduction: |cffffcc00<Assk,DataC1>|r
-Minimal Damage Taken: |cffffcc00<Assk,DataB1>|r
+Зменшення шкоди: |cffffcc00<Assk,DataC1>|r
+Мінімально отримувана шкода: |cffffcc00<Assk,DataB1>|r
 }
 
 STRING 1723
@@ -8286,12 +8324,12 @@ STRING 1735
 
 STRING 1736
 {
-Ward of Ula'Tek
+Оберіг Ула'Тек
 }
 
 STRING 1737
 {
-Ward of Ula'Tek
+Оберіг Ула'Тек
 }
 
 STRING 1738
@@ -8301,17 +8339,17 @@ STRING 1738
 
 STRING 1739
 {
-Dragon Fire
+Полум'я дракона
 }
 
 STRING 1740
 {
-Dragon Fire
+Полум'я дракона
 }
 
 STRING 1741
 {
-Dragon attacks light the ground on fire and burn enemy units.
+Атаки дракона підпалюють землю та спалюють ворожі цілі.
 }
 
 STRING 1742
@@ -8506,7 +8544,7 @@ Tharbek strikes with such force that <ACce,DataA1,%>% of his damage strikes thro
 
 STRING 1795
 {
-Summon Water Elemental
+Summon Water Елементаль
 }
 
 STRING 1796
@@ -8516,12 +8554,12 @@ STRING 1796
 
 STRING 1797
 {
-Elemental
+Елементаль
 }
 
 STRING 1798
 {
-Summon Air Elemental
+Summon Air Елементаль
 }
 
 STRING 1799
@@ -8531,12 +8569,12 @@ STRING 1799
 
 STRING 1800
 {
-Elemental
+Елементаль
 }
 
 STRING 1801
 {
-Summon Earth Elemental
+Summon Earth Елементаль
 }
 
 STRING 1802
@@ -8546,12 +8584,12 @@ STRING 1802
 
 STRING 1803
 {
-Elemental
+Елементаль
 }
 
 STRING 1804
 {
-Summon Fire Elemental
+Summon Елементаль вогню
 }
 
 STRING 1805
@@ -8561,7 +8599,7 @@ STRING 1805
 
 STRING 1806
 {
-Elemental
+Елементаль
 }
 
 STRING 1813
@@ -8602,12 +8640,12 @@ STRING 1821
 
 STRING 1822
 {
-Movement and attack speed increased.
+Швидкість пересування та атаки збільшена.
 }
 
 STRING 1823
 {
-Haste
+Поспішність
 }
 
 STRING 1824
@@ -8719,12 +8757,12 @@ STRING 1847
 
 STRING 1848
 {
-Unholy Armor
+Нечестива броня
 }
 
 STRING 1849
 {
-This unit has Unholy Armor; it cannot be targeted by spells. It can be dispelled.
+Ця одиниця має нечестиву броню; вона не може бути атакована закляттями. Але броню можна зняти розсіювальним закляттям.
 }
 
 STRING 1850
@@ -8734,12 +8772,12 @@ STRING 1850
 
 STRING 1851
 {
-Unholy Armor
+Нечестива броня
 }
 
 STRING 1852
 {
-This unit has Unholy Armor; damage spells must destroy the shell to affect the unit.
+Ця одиниця має нечестиву броню; вона не може бути атакована закляттями. Але броню можна зняти розсіювальним закляттям.
 }
 
 STRING 1853
@@ -8864,7 +8902,7 @@ STRING 1877
 
 STRING 1878
 {
-Earth Shield
+Земляний щит
 }
 
 STRING 1879
@@ -8874,12 +8912,12 @@ STRING 1879
 
 STRING 1880
 {
-This unit has Earth Shield; its armor and life regeneration is increased.
+Ціль знаходиться під захистом земляного щита; Броня та швидкість відновлення здоров'я збільшені.
 }
 
 STRING 1881
 {
-Elemental
+Елементаль
 }
 
 STRING 1882
@@ -8889,7 +8927,7 @@ STRING 1882
 
 STRING 1883
 {
-This Elemental is mighty.
+This Елементаль is mighty.
 }
 
 STRING 1884
@@ -8899,7 +8937,7 @@ STRING 1884
 
 STRING 1885
 {
-Whirlwind
+Смерч
 }
 
 STRING 1886
@@ -8959,12 +8997,12 @@ STRING 1897
 
 STRING 1898
 {
-Whirlwind
+Смерч
 }
 
 STRING 1899
 {
-This unit is caught within a Whirlwind; its movement speed has been reduced temporarily.
+Ця одиниця знаходиться під впливом смерчу; швидкість руху тимчасово знижена.
 }
 
 STRING 1900
@@ -8989,12 +9027,12 @@ This unit has been hit by Fireball; it will take damage over time.
 
 STRING 1904
 {
-Dragon Fire
+Полум'я дракона
 }
 
 STRING 1905
 {
-This unit is caught in a dragon fire; it will take damage over time.
+Ця одиниця знаходиться під полум'ям дракона; вона буде отримувати періодичну шкоду.
 }
 
 STRING 1906
@@ -9004,7 +9042,7 @@ STRING 1906
 
 STRING 1907
 {
-Dragon Fire
+Полум'я дракона
 }
 
 STRING 1908
@@ -9159,12 +9197,12 @@ This unit is Feared; it cannot preform attacks or spells and will run from comba
 
 STRING 1938
 {
-This unit is in a Rage; it will deal more damage, but also take more damage from attacks.
+Ця одиниця знаходиться у стані люті; вона наносить більше шкоди, але в той час отримуєш більше шкоди від ворожих атак.
 }
 
 STRING 1939
 {
-Rage
+Лють
 }
 
 STRING 1940
@@ -9194,7 +9232,7 @@ STRING 1946
 
 STRING 1947
 {
-Undead
+Невмерлий
 }
 
 STRING 1948
@@ -9304,47 +9342,47 @@ STRING 1969
 
 STRING 1970
 {
-Death Knight Training
+Навчання лицарів смерті
 }
 
 STRING 1971
 {
-Superior Death Knight Training
+Подальше навчання лицарів смерті
 }
 
 STRING 1972
 {
-Death Knight Training
+Навчання лицарів смерті
 }
 
 STRING 1973
 {
-Superior  Knight Training 
+Подальше навчання лицарів смерті
 }
 
 STRING 1974
 {
-Increases Death Knights' mana capacity and regeneration, and teaches them the |cffffcc00Unholy Armor|r and |cffffcc00Death Coil|r ability.
+Збільшує кількість мани та швидкість її відновлення, а також навчає лицарів смерті закляттям |cffffcc00Нечестива броня|r і |cffffcc00Обличчя смерті|r
 }
 
 STRING 1975
 {
-Further increases Death Knights' mana capacity and regeneration, and teaches them the |cffffcc00Haste|r and |cffffcc00Death and Decay|r ability.
+Додатково збільшує кількість мани та швидкість її відновлення, а також навчає лицарів смерті закляттям |cffffcc00Квапливість|r і |cffffcc00Смерть і занепад|r
 }
 
 STRING 1976
 {
-The Supreme Death Knight Training
+Верхновне навчання лицарів смерті
 }
 
 STRING 1977
 {
-The Supreme Death Knight Training
+Верхновне навчання лицарів смерті
 }
 
 STRING 1978
 {
-Further increases Death Knights' mana capacity and regeneration, and teaches them the |cffffcc00Whirlwind|r ability.
+Максимально збільшує кількість мани та швидкість її відновлення, а також навчає лицарів смерті закляттю |cffffcc00Смерч|r
 }
 
 STRING 1979
@@ -10399,17 +10437,17 @@ STRING 2195
 
 STRING 2196
 {
-Ironscale
+Залізна луска
 }
 
 STRING 2197
 {
-Ironscale
+Залізна луска
 }
 
 STRING 2198
 {
-Increases the armor of Dragons and improves it to Large, making it more resitant against piercing damage.
+Підвищення броні драконів, що робить їх більш стійкими проти ворожих атак дальнього бою.
 }
 
 STRING 2199
@@ -10659,7 +10697,7 @@ STRING 2247
 
 STRING 2248
 {
-Increases the duration of raised Undead by <Rusl,base1> seconds.
+Подовжує життя піднятих скелетів на <Rusl,base1> сек.
 }
 
 STRING 2249
@@ -10774,12 +10812,12 @@ STRING 2270
 
 STRING 2271
 {
-Improved Ranged Weapons
+Покращена зброя дальнього бою
 }
 
 STRING 2272
 {
-Improved Ranged Weapons
+Покращена зброя дальнього бою
 }
 
 STRING 2273
@@ -11039,12 +11077,12 @@ STRING 2323
 
 STRING 2324
 {
-Improved Ranged Weapons
+Покращена зброя дальнього бою
 }
 
 STRING 2325
 {
-Improved Ranged Weapons
+Покращена зброя дальнього бою
 }
 
 STRING 2326
@@ -11429,37 +11467,37 @@ STRING 2402
 
 STRING 2403
 {
-Rune of Earth Binding
+Руна прив'язки землі
 }
 
 STRING 2404
 {
-Purchase Rune of Earth Binding
+Придбати Руну прив'язки землі
 }
 
 STRING 2405
 {
-Summons an Earth Elemental.
+Прикликає елементаля землі.
 }
 
 STRING 2406
 {
-Summons an Earth Elemental to fight for you. |nLasts <AIfr,Dur1> seconds.
+Прикликає елементаля землі який б'ється на вашому боці протягом <AIfr,Dur1> сек.
 }
 
 STRING 2407
 {
-Item Earth Elemental Summon
+Item Earth Елементаль Summon
 }
 
 STRING 2408
 {
-Broken Black Dragon Totem
+Зламаний тотем чорного дракона
 }
 
 STRING 2409
 {
-Broken Statue of the Black Dragon
+Зламана статуетка чорного дракона
 }
 
 STRING 2410
@@ -11494,7 +11532,11 @@ A pistol shot at enemy unit, causing <ACtb,DataA1> points of damage and stunning
 
 STRING 2421
 {
-Summons an invisible and immovable Rune that explodes enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |nThe trap lasts <Asta,Dur1> seconds. |nThe stun lasts <Asta,DataD1> seconds.
+Ставить на землю руну крові, що непомітна для ворогів. Руна вибухає та чинить шкоду всім ворожі цілям навколо.
+
+Руна активується тільки у випадку коли до неї наближається сухопутна ворожа ціль.
+
+Якщо під час вибуху руни, у зоні її ураженні є інші руни, то вони зникнуть.|nРуна <Asta,Dur1> сек. |nПриголомшення триває <Asta,DataD1> сек.
 }
 
 STRING 2424
@@ -11544,27 +11586,31 @@ STRING 2434
 
 STRING 2435
 {
-Drenches units in alcohol, causing their movement speed to be reduced, attack speed <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage.
+При використанні настає сильне сп'яніння, що зменшує швидкість пересування, але підвищує на <Absk,DataB1,%>% швидкість атаки. Під час дії ефекту "сп'яніння" одиниця буде отримувати на <Absk,DataC1,%>% більше шкоди.
 }
 
 STRING 2436
 {
-Summons an invisible and immovable rune that stuns enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |nThe trap lasts <Asta,Dur1> seconds. |nThe stun lasts <Asta,DataD1> seconds.
+Ставить на землю руну блискавки, що непомітна для ворогів. Руна вибухає і приголомшує всі ворожі цілі навколо.
+
+Руна активується тільки у випадку коли до неї наближається сухопутна ворожа ціль.
+
+Якщо під час вибуху  руни, у зоні її ураженні є інші руни, то вони зникнуть.|nРуна <Asta,Dur1> сек. |nПриголомшення триває <Asta,DataD1> сек.
 }
 
 STRING 2437
 {
-Runes of Lightning
+Руни блискавки
 }
 
 STRING 2438
 {
-Runes of Lightning
+Руни блискавки
 }
 
 STRING 2440
 {
-Rune of Blood
+Руна крові
 }
 
 STRING 2443
@@ -11639,22 +11685,22 @@ STRING 2456
 
 STRING 2457
 {
-The Crocolisk Egg
+Яйце кроколіска
 }
 
 STRING 2458
 {
-Purchase Crocolisk Egg
+Purchase Egg
 }
 
 STRING 2459
 {
-Summons a Crocolisk Devourer to fight for you. |nLasts <AIfd,Dur1> seconds.
+Прикликає Кроколіска пожирача який буде битися на вашому боці протягом <AIfd,Dur1> сек.
 }
 
 STRING 2460
 {
-Summons a Crocolisk Devourer.
+Прикликає Кроколіска пожирача.
 }
 
 STRING 2461
@@ -11664,7 +11710,7 @@ STRING 2461
 
 STRING 2462
 {
-Item Crocolisk Summon
+Item Summon
 }
 
 STRING 2463
@@ -11684,12 +11730,12 @@ Stranglekelp
 
 STRING 2466
 {
-Crocolisk
+STRING 2470
 }
 
 STRING 2467
 {
-Crocolisk
+STRING 2470
 }
 
 STRING 2468
@@ -11699,12 +11745,12 @@ Amphibious, reptilian predator found in coastal waters. |n|n|cffffcc00Attacks la
 
 STRING 2469
 {
-Crocolisk Devourer
+Кроколіск Пожирач
 }
 
 STRING 2470
 {
-Crocolisk
+STRING 2470
 }
 
 STRING 2471
@@ -11714,12 +11760,12 @@ Amphibious, reptilian predator found in coastal waters. |n|n|cffffcc00Attacks la
 
 STRING 2472
 {
-Envenomed Crocolisk
+Кроколіск
 }
 
 STRING 2473
 {
-Crocolisk
+STRING 2470
 }
 
 STRING 2474
@@ -11729,12 +11775,12 @@ Amphibious, reptilian predator found in coastal waters. |n|n|cffffcc00Attacks la
 
 STRING 2475
 {
-Swamp Crocolisk
+Болотяний кроколіск
 }
 
 STRING 2476
 {
-Crocolisk
+Кроколіск
 }
 
 STRING 2477
@@ -12000,27 +12046,27 @@ STRING 2528
 
 STRING 2529
 {
-Change Stance
+Змінити позицію
 }
 
 STRING 2530
 {
-Dragon moves on its feet on the ground.
+Дракон приземляється на землю і пересувається на лапах.
 }
 
 STRING 2531
 {
-Will land
+Приземлитися
 }
 
 STRING 2532
 {
-Take Wing
+Злетіти
 }
 
 STRING 2533
 {
-Dragon takes wing and flies in the sky.
+Дракон злітає у небо.
 }
 
 STRING 2534
@@ -12175,7 +12221,7 @@ STRING 2563
 
 STRING 2564
 {
-Ghost
+Привид
 }
 
 STRING 2565
@@ -12190,17 +12236,17 @@ Summon Dragoon
 
 STRING 2567
 {
-Dragon Soul Recharged
+«Душа дракона» готова до використання
 }
 
 STRING 2568
 {
-Dragon Soul Recharged
+«Душа дракона» готова до використання
 }
 
 STRING 2569
 {
-The artifact should be charged with the living essence of creatures.
+Артефакт має бути заряджений душами живих створінь.
 }
 
 STRING 2570
@@ -12985,7 +13031,7 @@ STRING 2728
 
 STRING 2729
 {
-Alexandros Mograine
+Александрос Морґрейн
 }
 
 STRING 2730
@@ -13200,22 +13246,22 @@ Cinematic Item
 
 STRING 2776
 {
-Hungering Artifact
+Ненажерливий артефакт
 }
 
 STRING 2777
 {
-Hungering Artifact
+Ненажерливий артефакт
 }
 
 STRING 2778
 {
-The artifact hungers for your soul, better deliver it quickly.
+Відчувається як цей предмет прагне пожерти вашу душу, краще доставити його якомога швидше.
 }
 
 STRING 2779
 {
-The artifact hungers for your soul, better deliver it quickly.
+Відчувається як цей предмет прагне пожерти вашу душу, краще доставити його якомога швидше.
 }
 
 STRING 2780
@@ -13245,7 +13291,7 @@ STRING 2784
 
 STRING 2785
 {
-Earth Shield
+Земляний щит
 }
 
 STRING 2786
@@ -13370,7 +13416,7 @@ STRING 2809
 
 STRING 2810
 {
-Earth Shield
+Земляний щит
 }
 
 STRING 2811
@@ -13440,16 +13486,16 @@ STRING 2825
 
 STRING 2826
 {
-Aluneth, Greatstaff of the Magna
+Алунет, великий посох Маґни
 }
 
 STRING 2827
 {
-|cffff8c00Artifact|r
-Imbues the wielder with arcane power, increasing the Intelligence by +10 and mana pool by +200.
+|cffff8c00Артефакт|r
+Наділяє власника сильною таємної магії, збільшуючи інтелект на +10 од. і запас мани на +200 од.
 
-|cffffcc00History|r
-|cffffdeadThis powerful arcane artifact was wielded by Aegwynn, a guardian of Tirisfal.|r
+|cffffcc00Історія|r
+|cffffdeadЦим могутнім артефактом з магією потаємних знань колись володіла Еґвінн, вартівник Тірісфалю.|r
 }
 
 STRING 2828
@@ -13623,10 +13669,10 @@ STRING 2862
 
 STRING 2863
 {
-Twillight's Hammer cultists enter an entropic state of frenzy, having an increased attack speed.
+Окультист клану Сутінкового Молота входить у стан фанатичного божевілля, в цей момент швидкість його атак суттєво збільшується.
 
-Duration: |cffffcc00<Afzy,Dur1>s |r
-Attack Speed Bonus: |cffffcc00+50% |r
+Тривалість: |cffffcc00<Afzy,Dur1>.сек |r
+Швидкість атаки: |cffffcc00+50% |r
 }
 
 STRING 2864
@@ -13642,12 +13688,12 @@ STRING 2864
 
 STRING 2867
 {
-Dragonqueen
+Королева драконів
 }
 
 STRING 2868
 {
-Dragonqueen
+Королева драконів
 }
 
 STRING 2869
@@ -13742,20 +13788,20 @@ STRING 2888
 
 STRING 2889
 {
-|cffff8c00Artifact|r
-Protects a friendly target with an Earth Shield, increasing its armor and health regeneration. Increases the Intelligence of the Hero by 6 when carried.
+|cffff8c00Артефакт|r
+Захищає дружню ціль щитом землі, збільшуючи її броню та відновлення здоров'я.Коли одягнуто збільшує інтелект героя на 6 од.
 
-|cffffcc00History|r
-|cffffdeadDespite turning into a warlock, Zuluhed sought to return to his shamanistic ways. The elementals of Draenor abandoned him, yet the spirits of this world strangely heed his call.|r
+|cffffcc00Історія|r
+|cffffdeadНе дивлячись на те що Зулугед на Дренорі, став практикувати темні чари та пішов шляхом чорнокнижника, від все ще прагнув повернутися до того з чого починав, і покращувати свої навички шаманізму. Духи Дренору покинули його та не відповідають на його поклики, але духи Азероту дивним чином коряться його шаманським навичкам…|r
 }
 
 STRING 2890
 {
-|cffff8c00Artifact|r
-Protects a friendly target with an Earth Shield, increasing its armor and health regeneration. Increases the Intelligence of the Hero by 6 when carried.
+|cffff8c00Артефакт|r
+Захищає дружню ціль щитом землі, збільшуючи її броню та відновлення здоров'я.Коли одягнуто збільшує інтелект героя на 6 од.
 
-|cffffcc00History|r
-|cffffdeadDespite turning into a warlock, Zuluhed sought to return to his shamanistic ways. The elementals of Draenor abandoned him, yet the spirits of this world strangely heed his call.|r
+|cffffcc00Історія|r
+|cffffdeadНе дивлячись на те що Зулугед на Дренорі, став практикувати темні чари та пішов шляхом чорнокнижника, від все ще прагнув повернутися до того з чого починав, і покращувати свої навички шаманізму. Духи Дренору покинули його та не відповідають на його поклики, але духи Азероту дивним чином коряться його шаманським навичкам…|r
 }
 
 STRING 2891
@@ -13765,20 +13811,20 @@ Elite Armory
 
 STRING 2892
 {
-|cffff8c00Artifact|r
-Grants |cffffc80020%|r chance to deal |cffffc800200%|r damage on attack.
+|cffff8c00Артефакт|r
+Дає |cffffc80020%|r шанс нанести |cffffc800200%|r шкоди при атаці.
 
-|cffffcc00History|r
-|cffffdeadThese blades were forged for Maim Blackhand by the Blackrock clan, he still holds them as a reminder of where he came from.|r
+|cffffcc00Історія|r
+|cffffdeadЦі клинки були викувані ковалями клану чорного каменю особисто для Мейма Чорнорука, тож він досі береже їх як нагадування про те хто він та звідки.|r
 }
 
 STRING 2893
 {
-|cffff8c00Artifact|r
-Grants |cffffc80020%|r chance to deal |cffffc800200%|r damage on attack.
+|cffff8c00Артефакт|r
+Дає |cffffc80020%|r шанс нанести |cffffc800200%|r шкоди при атаці.
 
-|cffffcc00History|r
-|cffffdeadThese blades were forged for Maim Blackhand by the Blackrock clan, he still holds them as a reminder of where he came from.|r
+|cffffcc00Історія|r
+|cffffdeadЦі клинки були викувані ковалями клану чорного каменю особисто для Мейма Чорнорука, тож він досі береже їх як нагадування про те хто він та звідки.|r
 }
 
 STRING 2894
@@ -14123,7 +14169,7 @@ STRING 2966
 
 STRING 2967
 {
-Rage
+Лють
 }
 
 STRING 2968
@@ -14133,12 +14179,14 @@ Q
 
 STRING 2969
 {
-Causes this unit to attack <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage. Lasts 15 seconds.
+Одиниця переходить у стан нестримної люті, та наносить атаки на <Absk,DataB1,%>% швидше, але в той самий час отримує на <Absk,DataC1,%>% більше шкоди. 
+
+Тривалість: |cffffcc0015 сек.|р
 }
 
 STRING 2970
 {
-Rage
+Лють
 }
 
 STRING 2971
@@ -14213,26 +14261,28 @@ STRING 2993
 
 STRING 2994
 {
-Versatile orc ranged warrior, effective against air units.
-Abilities: Poison Arrows - Marksmanship - Improved Ranged Weapons - Ensnare
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: Отруйні стріли — Влучність — Покращена зброя дальнього бою — Оплутати
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 2995
 {
 Versatile orc ranged warrior, effective against air units.
-Abilities: Poison Arrows - Marksmanship - Improved Ranged Weapons - Ensnare
+Abilities: Poison Arrows - Marksmanship - Покращена зброя дальнього бою - Ensnare
 
 |cffffcc00Attacks land and air units.|r
 }
 
 STRING 2996
 {
-Versatile orc ranged warrior, effective against air units.
-Abilities: Defend - Marksmanship - Improved Ranged Weapons - Ensnare
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: Захищатися — Влучність — Покращена зброя дальнього бою — Оплутати
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 2997
@@ -14274,20 +14324,20 @@ STRING 3005
 
 STRING 3006
 {
-|cffff8c00Artifact|r
-Increases mana regeneration. Summons a snake ward that will attack nearby enemies and detect invisible units.
+|cffff8c00Арефакт|r
+Пришвидшує відновлення мани. Прикликає оберіг змії який атакує ворогів та може виявляти невидимі одиниці.
 
-|cffffcc00History|r
-|cffffdeadThe shrine of the serpent goddess Ula'Tek, who is widely worshiped by the Forest Trolls, is located in Zul'Aman. To summon her fully, one would require unimainable amounts of sacrifices, but with enough bloodshed one may commune with her...|r
+|cffffcc00Історія|r
+|cffffdeadСвятиня богині-змії Ула'Тек, якій широко поклоняються лісові тролі у Зул'Амані. Щоб прикликати її у цей світ, необхідно принести неймовірну кількість жертв, але за достатньої кількості жертовної крові можна спілкуватися з нею….|r
 }
 
 STRING 3007
 {
-|cffff8c00Artifact|r
-Passively increases mana regeneration. Summons a snake ward that will attack nearby enemies and detect invisible units.
+|cffff8c00Арефакт|r
+Пришвидшує відновлення мани. Прикликає оберіг змії який атакує ворогів та може виявляти невидимі одиниці.
 
-|cffffcc00History|r
-|cffffdeadThe shrine of the serpent goddess Ula'Tek, who is widely worshiped by the Forest Trolls, is located in Zul'Aman. To summon her fully, one would require unimainable amounts of sacrifices, but with enough bloodshed one may commune with her...|r
+|cffffcc00Історія|r
+|cffffdeadСвятиня богині-змії Ула'Тек, якій широко поклоняються лісові тролі у Зул'Амані. Щоб прикликати її у цей світ, необхідно принести неймовірну кількість жертв, але за достатньої кількості жертовної крові можна спілкуватися з нею….|r
 }
 
 STRING 3008
