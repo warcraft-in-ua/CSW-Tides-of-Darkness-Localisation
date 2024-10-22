@@ -1304,108 +1304,106 @@ Unholy
 
 STRING 2839
 {
-Fenris Isle
+Острів Фенріс
 }
 
 STRING 2840
 {
-Fenris Isle stands between you and our ultimate price. Eliminate our enemies, seize the island and establish a strong foothold. Only then can we lay siege to the capital city itself. 
+Острів Фенріс, це останне що стоїть між вами та вашею метою. Знищіть всіх ворогів, візьміть під контроль острів та закріпіться на ньому. Тільки після цього буде змога почати облогу столиці.
 }
 
 STRING 2843
 {
-Capture Fenris Island.
+Захопити острів Фенріс.
 }
 
 STRING 2844
 {
-Lordaeron Harbour
+Порт Лордерону
 }
 
 STRING 2845
 {
-The remnants of Lordaeron’s naval forces threaten our invasion of the capital. This cannot be allowed - eliminate them!
+Залишки морських сил Лордерону загрожують нашому вторгненню до столиці. Цього не можна допустити – знищіть їх!
 }
 
 STRING 2846
 {
-Destroy Shipyards.
+Знищіть людські корабельні.
 }
 
 STRING 2847
 {
-Sack the Capital
+Розграбувати столицю
 }
 
 STRING 2848
 {
-The Capital of Lordaeron stands before you. All that you have done has led you to this moment. Seize your destiny and earn your place in the chronicles of the Horde. Burn everything to the ground! Slaughter everyone who stands in your way!
+Столиця Лордерону просто перед вам. Все, що було зроблено до цього, вело до цієї миті. Візьміть долю у свої руки й викарбуйте назавжди, своє місце у історії Орди. Спаліть місто  вщент, та вбийте кожного хто стане у вас на шляху!
 }
 
 STRING 2849
 {
-Destroy Barracks
+Знищіть казарми
 }
 
 STRING 2850
 {
-Destroy Mage Tower
+Знищіть вежу магів
 }
 
 STRING 2851
 {
-Destroy Gryphon Aviary
+Знищіть вольєр грифонів
 }
 
 STRING 2852
 {
-Destroy Stables
+Знищіть конюшні
 }
 
 STRING 2853
 {
-Destroy Town Hall
+Знищіть ратушу
 }
 
 STRING 2854
 {
-Destroy Keep
+Знищіть фортецю
 }
 
 STRING 2855
 {
-Destroy Castle
+Знищіть замок
 }
 
 STRING 2856
 {
-|cffffcc00MAIN QUEST|r
-Fenris Isle
- - Capture Fenris Island.
- - Orgrim must survive.
-
+ |cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+ Острів Фенріс
+  - Захопіть острів Фенріс.
+  - Орґрім має вижити.
 }
 
 STRING 2857
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Fenris Island
-
+|cffffcc00ОГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Острів Фенріс
 }
 
 STRING 2858
 {
-Tons of Gold
+Гори золота
 }
 
 STRING 2859
 {
-Plunder the treasuries in the capital city.
+Розграбуйте всі скарбниці людської столиці.
 }
 
 STRING 2860
 {
-Plunder tresuries.
+Розграбуйте столичні скарбниці.
 }
 
 STRING 2861
@@ -1434,10 +1432,9 @@ Sack the Capital
 
 STRING 2863
 {
-|cffffcc00OPTIONAL QUEST|r
-Tons of Gold
- - Plunder Treasuries
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Гори золота
+- Розграбуйте всі скарбниці
 }
 
 STRING 2864
@@ -1721,12 +1718,12 @@ Cinematic Head Pointer
 
 STRING 2954
 {
-Destroy Foundry.
+Знищіть ливарню
 }
 
 STRING 2955
 {
-Destroy Refinery.
+Знищіть нафтопереробний завод
 }
 
 STRING 2957
@@ -1815,9 +1812,8 @@ Lordaeron City Building
 
 STRING 2971
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Tons of Gold
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Гори золота
 }
 
 STRING 2972
@@ -1869,34 +1865,31 @@ STRING 3033
 
 STRING 3058
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Lordaeron Harbour
-|cffc0c0c0 - Destroy Shipyards (completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Порт Лордерону
+|cffc0c0c0 - Знищити людські корабельні (Завершено)|r
 }
 
 STRING 3059
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Lordaeron Harbour
-|cffc0c0c0 - Destroy Shipyards (completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Порт Лордерону
+|cffc0c0c0 - Знищити людські корабельні (Завершено)|r
 }
 
 STRING 3060
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Lordaeron Harbour
-|cffc0c0c0 - Destroy Refinery (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Порт Лордерону
+|cffc0c0c0- Знищити нафтопереробний завод (Завершено)|r
 
 }
 
 STRING 3061
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Lordaeron Harbour
-|cffc0c0c0 - Destroy Foundry (completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Порт Лордерону
+|cffc0c0c0 - Знищіть ливарню (Завершено)|r
 }
 
 STRING 3064
@@ -1908,37 +1901,37 @@ Sack the Capital
 
 STRING 3065
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Mage Tower (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть вежу магів (Завершено)|r
 }
 
 STRING 3068
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Stables (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть конюшні (Завершено)|r
 }
 
 STRING 3069
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Town Hall (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть ратушу (Завершено)|r
 }
 
 STRING 3070
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Keep (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть фортецю (Завершено)|r
 }
 
 STRING 3071
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Castle (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть замок (Завершено)|r
 }
 
 STRING 3073
@@ -2366,16 +2359,15 @@ Guldans Head
 
 STRING 3202
 {
-Orgrim must survive.
+Орґрім має вижити.
 }
 
 STRING 3203
 {
-|cffffcc00MAIN QUEST FAILED|r
-Fenris Island
- - Capture Fenris Island
-|cffff0000 - Orgrim must survive (Failed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+ Острів Фенріс
+  - Захопити острів Фенріс
+  -|cffff0000 - Орґрім має вижити (Провалено)|r
 }
 
 STRING 3204
@@ -2988,12 +2980,12 @@ Zuluhed
 
 STRING 3394
 {
-The Cross Island
+Хрестовий острів
 }
 
 STRING 3395
 {
-The Violet CItadel on the Cross island is the harbor and gate guard of the Dalaran Nation. Kill the Archmage Keeper and sack the citadel in order to open the way to Dalaran itself!
+Лілова Цитадель на Хрестовому острові є портом і входом до королівства Даларан. Вбийте вартового архімага і розграбуйте цитадель, щоб прокласти шлях у сам Даларан!
 }
 
 STRING 3396
@@ -3003,12 +2995,12 @@ Destroy Arcane Observatories (0/3)
 
 STRING 3397
 {
-Kill the Archmage
+Вбити архімага
 }
 
 STRING 3398
 {
-Destroy the Violet CItadel
+Знищити Лілову цитадель
 }
 
 STRING 3399
@@ -3302,9 +3294,8 @@ Sack the Capital
 
 STRING 3757
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Lordaeron Harbour
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Порт Лордерону
 }
 
 STRING 3758
