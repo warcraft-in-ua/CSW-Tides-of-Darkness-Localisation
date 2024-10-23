@@ -98,7 +98,7 @@ Magistrate
 STRING 282
 // Units: nwc1 (Cage), Name (Name)
 {
-Cage
+Клітка
 }
 
 STRING 283
@@ -140,7 +140,7 @@ M
 STRING 325
 // Units: e601 (Ballista), Name (Name)
 {
-Ballista
+Баліста
 }
 
 STRING 360
@@ -158,7 +158,7 @@ STRING 366
 STRING 368
 // Units: h603 (Guardsman), Name (Name)
 {
-Guardsman
+Вартовий Стальгорну
 }
 
 STRING 369
@@ -218,7 +218,7 @@ STRING 448
 STRING 479
 // Units: h60I (Stables), Name (Name)
 {
-Stables
+Конюшні
 }
 
 STRING 480
@@ -230,17 +230,17 @@ Secondary troop production building. Trains Knights and Paladins. |nAlso contain
 STRING 505
 // Units: H60W (Paladin), Propernames (Proper Names)
 {
-Uther
+Утер
 }
 
 STRING 516
-// Units: h006 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+// Units: h006 (Лордероньска сторожева вежа), Tip (Tooltip - Basic)
 {
 Guard Tower (|cffffcc00G|r)
 }
 
 STRING 517
-// Units: h006 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+// Units: h006 (Лордероньска сторожева вежа), Ubertip (Tooltip - Extended)
 {
 Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
 }
@@ -248,7 +248,7 @@ Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
 STRING 521
 // Units: h611 (Gryphon Aviary), Name (Name)
 {
-Gryphon Aviary
+Вольєр грифонів
 }
 
 STRING 522
@@ -266,7 +266,7 @@ Trains Gryphon Riders. |nAlso contains the Storm Hammer upgrade.
 STRING 524
 // Units: h612 (Mage Tower), Name (Name)
 {
-Mage Tower
+Вежа магів
 }
 
 STRING 525
@@ -284,7 +284,7 @@ Trains Mages of Dalaran. |nAlso contains spell upgrades for them.
 STRING 528
 // Units: h613 (Gnomish Inventor), Name (Name)
 {
-Gnomish Inventor
+Мастерня гнома винахідника
 }
 
 STRING 529
@@ -302,13 +302,13 @@ Produces Flying Machines and Demolition Squads. |nAlso contains Machine Bombs up
 STRING 537
 // Units: h617 (Church), Name (Name)
 {
-Church
+Церква
 }
 
 STRING 538
 // Units: h617 (Church), Ubertip (Tooltip - Extended)
 {
-Churches are places of worship where the citizens of Lordaeron seek spiritual enlightenment. 
+Churches are places of worship where the Городянинs of Lordaeron seek spiritual enlightenment. 
 }
 
 STRING 539
@@ -320,7 +320,7 @@ Build Church
 STRING 540
 // Units: h61B (Keep), Name (Name)
 {
-Keep
+Фортеця
 }
 
 STRING 561
@@ -356,7 +356,7 @@ STRING 690
 STRING 691
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 692
@@ -368,7 +368,7 @@ Just a mallard
 STRING 698
 // Units: h61O (Mountain Cavalier), Name (Name)
 {
-Mountain Cavalier
+Гірський піхотинець
 }
 
 STRING 700
@@ -390,7 +390,7 @@ STRING 707
 }
 
 STRING 708
-// Units: n02G (Zuluhed), EditorSuffix (Name - Editor Suffix)
+// Units: n02G (Зулугед Змучений), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic)
 }
@@ -398,25 +398,25 @@ STRING 708
 STRING 731
 // Units: h620 (Tent), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 732
 // Units: h620 (Tent), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 733
 // Units: h621 (Tent), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 734
 // Units: h621 (Tent), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 735
@@ -476,31 +476,31 @@ STRING 774
 STRING 775
 // Units: n62A (Shark), Name (Name)
 {
-Shark
+Акула
 }
 
 STRING 776
 // Units: n62A (Shark), Tip (Tooltip - Basic)
 {
-Shark
+Акула
 }
 
 STRING 777
 // Units: n62B (Purple Shark), Name (Name)
 {
-Purple Shark
+Рожева акула
 }
 
 STRING 778
 // Units: n62B (Purple Shark), Tip (Tooltip - Basic)
 {
-Shark
+Акула
 }
 
 STRING 790
 // Units: h60F (Human Cannon), Name (Name)
 {
-Human Cannon
+Людська гармата
 }
 
 STRING 793
@@ -530,7 +530,7 @@ Spiders
 STRING 831
 // Units: h61T (Anvilguard), Name (Name)
 {
-Anvilguard
+Вартовий наковальні
 }
 
 STRING 856
@@ -546,7 +546,7 @@ STRING 857
 }
 
 STRING 947
-// Units: h007 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+// Units: h007 (Лордероньска сторожева вежа), Ubertip (Tooltip - Extended)
 {
 Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
 }
@@ -560,7 +560,7 @@ Tavern
 STRING 1101
 // Destructibles: LTex (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 1126
@@ -578,7 +578,7 @@ Shrooms
 STRING 1128
 // Destructibles: B615 (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 1129
@@ -620,13 +620,13 @@ STRING 1149
 STRING 1164
 // Destructibles: B62R (Old Tomb), Name (Name)
 {
-Old Tomb
+Стара могила
 }
 
 STRING 1165
 // Destructibles: B62S (Altar With the Book), Name (Name)
 {
-Altar With the Book
+Вівтар з книгою
 }
 
 STRING 1168
@@ -666,7 +666,7 @@ TreePlanter
 }
 
 STRING 1192
-// Destructibles: B00S (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00S (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (2)
 }
@@ -680,7 +680,7 @@ Lighthouse
 STRING 1194
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Скриня
 }
 
 STRING 1195
@@ -840,9 +840,9 @@ Animated Bushes
 }
 
 STRING 1312
-// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+// Doodads: D69Q (Даларанська споруда Pathless), Name (Name)
 {
-Dalaran Building Pathless
+Даларанська споруда Pathless
 }
 
 STRING 1313
@@ -1159,12 +1159,12 @@ Lordaeron Roof Tiles
 
 STRING 2685
 {
-Nation of Azeroth
+Люди Азероту
 }
 
 STRING 2686
 {
-Nation of Lordaeron
+Люди Лордерону
 }
 
 STRING 2687
@@ -1198,73 +1198,73 @@ STRING 2750
 
 STRING 2778
 {
-|c003366FFREINFORCEMENT|r
-- Grunts and battleships that returned from the lost islands are now under your command.
+|c003366FFПІДКРІПЛЕННЯ|r
+- Рубайла та бойові кораблі, що повернулися з Загублених островів тепер під вашим командуванням.
 }
 
 STRING 2788
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2789
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2790
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2791
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2792
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2793
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2794
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2795
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2796
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2797
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2798
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2799
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2803
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 2804
@@ -1299,7 +1299,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 2810
 {
-Unholy
+Нечестивість
 }
 
 STRING 2839
@@ -1408,26 +1408,25 @@ STRING 2860
 
 STRING 2861
 {
-|cffffcc00MAIN QUEST|r
-Lordaeron Harbour
- - Destroy Shipyards
- - Destroy Refinery
- - Destroy Foundry
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Порт Лордерону
+ - Знищіть корабельню
+ - Знищіть нафтопереробний завод 
+ - Знищіть ливарню 
 }
 
 STRING 2862
 {
-|cffffcc00MAIN QUEST|r
-Sack the Capital
-- Destroy Barracks
-- Destroy Mage Towers
-- Destroy Gryphon Aviary
-- Destroy Stables
-- Destroy Town Hall
-- Destroy Keep
-- Destroy Castle
-- Destroy Church
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Розграбувати столицю
+- Знищіть казарми
+- Знищіть вежу магів
+- Знищіть вольєр грифонів
+- Знищіть конюшні
+- Знищіть ратушу
+- Знищіть фортецю
+- Знищіть замок
+- Знищіть церкву
 }
 
 STRING 2863
@@ -1506,7 +1505,7 @@ STRING 2874
 STRING 2875
 // Units: n008 (City clock tower), Name (Name)
 {
-City clock tower
+Міська годинникова вежа
 }
 
 STRING 2876
@@ -1524,7 +1523,7 @@ STRING 2877
 STRING 2878
 // Units: n009 (City clock tower), Name (Name)
 {
-City clock tower
+Міська годинникова вежа
 }
 
 STRING 2879
@@ -1542,7 +1541,7 @@ STRING 2880
 STRING 2881
 // Units: n00A (City clock tower), Name (Name)
 {
-City clock tower
+Міська годинникова вежа
 }
 
 STRING 2882
@@ -1560,7 +1559,7 @@ STRING 2883
 STRING 2884
 // Units: n00B (City clock tower), Name (Name)
 {
-City clock tower
+Міська годинникова вежа
 }
 
 STRING 2885
@@ -1596,7 +1595,7 @@ STRING 2890
 STRING 2891
 // Units: n00G (Inn), Name (Name)
 {
-Inn
+Трактир
 }
 
 STRING 2892
@@ -1608,7 +1607,7 @@ Build Inn
 STRING 2893
 // Units: h003 (Granary), Name (Name)
 {
-Granary
+Житниця
 }
 
 STRING 2894
@@ -1620,7 +1619,7 @@ Build Granary
 STRING 2895
 // Units: h004 (Windmill), Name (Name)
 {
-Windmill
+Млин
 }
 
 STRING 2896
@@ -1632,7 +1631,7 @@ Build Wimdmill
 STRING 2897
 // Units: n00H (Barn), Name (Name)
 {
-Barn
+Амбар
 }
 
 STRING 2898
@@ -1650,7 +1649,7 @@ Chapel
 STRING 2901
 // Destructibles: B00N (Food Supplies), Name (Name)
 {
-Food Supplies
+Продовольчі запаси
 }
 
 STRING 2902
@@ -1667,7 +1666,7 @@ STRING 2903
 
 STRING 2904
 {
-Blackrock clan
+Клан Чорного Каменю
 }
 
 STRING 2909
@@ -1702,12 +1701,12 @@ Hookah
 
 STRING 2918
 {
-Blacktoothgrin clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 2919
 {
-Dragonmaw clan
+Клан Драконової Пащі
 }
 
 STRING 2928
@@ -1729,85 +1728,85 @@ STRING 2955
 STRING 2957
 // Destructibles: B60F (Thoradin Statue), Name (Name)
 {
-Thoradin Statue
+Статуя Торадіна
 }
 
 STRING 2958
-// Units: n00M (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n00M (Будівля міста Лордерон), EditorSuffix (Name - Editor Suffix)
 {
 1
 }
 
 STRING 2959
-// Units: n00M (Lordaeron City Building), Name (Name)
+// Units: n00M (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2960
-// Units: n00N (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n00N (Будівля міста Лордерон), EditorSuffix (Name - Editor Suffix)
 {
 2
 }
 
 STRING 2961
-// Units: n00N (Lordaeron City Building), Name (Name)
+// Units: n00N (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2962
-// Units: n00O (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n00O (Будівля міста Лордерон), EditorSuffix (Name - Editor Suffix)
 {
 3
 }
 
 STRING 2963
-// Units: n00O (Lordaeron City Building), Name (Name)
+// Units: n00O (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2964
-// Units: n00P (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n00P (Будівля міста Лордерон), EditorSuffix (Name - Editor Suffix)
 {
 4
 }
 
 STRING 2965
-// Units: n00P (Lordaeron City Building), Name (Name)
+// Units: n00P (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2966
-// Units: n00Q (Lordaeron City Building), Name (Name)
+// Units: n00Q (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2967
-// Units: n00R (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n00R (Будівля міста Лордерон), EditorSuffix (Name - Editor Suffix)
 {
 5
 }
 
 STRING 2968
-// Units: n00R (Lordaeron City Building), Name (Name)
+// Units: n00R (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2969
-// Units: n00S (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n00S (Будівля міста Лордерон), EditorSuffix (Name - Editor Suffix)
 {
 6
 }
 
 STRING 2970
-// Units: n00S (Lordaeron City Building), Name (Name)
+// Units: n00S (Будівля міста Лордерон), Name (Name)
 {
-Lordaeron City Building
+Будівля міста Лордерон
 }
 
 STRING 2971
@@ -1836,29 +1835,29 @@ Gunny Bag
 
 STRING 3016
 {
-The Horde
+Сили Орди
 }
 
 STRING 3027
-// Units: h006 (Lordaeron Guard Tower), Name (Name)
+// Units: h006 (Лордероньска сторожева вежа), Name (Name)
 {
-Lordaeron Guard Tower
+Лордероньска сторожева вежа
 }
 
 STRING 3028
-// Units: h007 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+// Units: h007 (Лордероньска сторожева вежа), Tip (Tooltip - Basic)
 {
 Guard Tower (|cffffcc00G|r)
 }
 
 STRING 3030
-// Units: h007 (Lordaeron Guard Tower), Name (Name)
+// Units: h007 (Лордероньска сторожева вежа), Name (Name)
 {
-Lordaeron Guard Tower
+Лордероньска сторожева вежа
 }
 
 STRING 3033
-// Units: h007 (Lordaeron Guard Tower), EditorSuffix (Name - Editor Suffix)
+// Units: h007 (Лордероньска сторожева вежа), EditorSuffix (Name - Editor Suffix)
 {
 (Fat)
 }
@@ -1894,9 +1893,9 @@ STRING 3061
 
 STRING 3064
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Barracks (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть казарми (Завершено)|r
 }
 
 STRING 3065
@@ -1935,25 +1934,25 @@ STRING 3071
 }
 
 STRING 3073
-// Units: n00U (Lordaeron Woman), Name (Name)
+// Units: n00U (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3074
-// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00U (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 1)
 }
 
 STRING 3075
-// Units: n00V (Lordaeron Woman), Name (Name)
+// Units: n00V (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3076
-// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00V (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 2)
 }
@@ -1979,263 +1978,263 @@ STRING 3079
 STRING 3080
 // Units: n00Y (Eagle), Name (Name)
 {
-Eagle
+Орел
 }
 
 STRING 3081
-// Units: n00Z (Citizen), Name (Name)
+// Units: n00Z (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3082
-// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00Z (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3083
-// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00Z (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (A)
 }
 
 STRING 3084
-// Units: n010 (Citizen), Name (Name)
+// Units: n010 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3085
-// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n010 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3086
-// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n010 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (B)
 }
 
 STRING 3087
-// Units: n011 (Citizen), Name (Name)
+// Units: n011 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3088
-// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n011 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3089
-// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n011 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (C)
 }
 
 STRING 3090
-// Units: n012 (Citizen), Name (Name)
+// Units: n012 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3091
-// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n012 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3092
-// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n012 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (D)
 }
 
 STRING 3093
-// Units: n013 (Citizen), Name (Name)
+// Units: n013 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3094
-// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n013 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3095
-// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n013 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (E)
 }
 
 STRING 3096
-// Units: n014 (Citizen), Name (Name)
+// Units: n014 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3097
-// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n014 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3098
-// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n014 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (F)
 }
 
 STRING 3099
-// Units: n015 (Citizen), Name (Name)
+// Units: n015 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3100
-// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n015 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3101
-// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n015 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (G)
 }
 
 STRING 3102
-// Units: n016 (Citizen), Name (Name)
+// Units: n016 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3103
-// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n016 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3104
-// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n016 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (H)
 }
 
 STRING 3105
-// Units: n017 (Citizen), Name (Name)
+// Units: n017 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3106
-// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n017 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3107
-// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n017 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (I)
 }
 
 STRING 3108
-// Units: n018 (Citizen), Name (Name)
+// Units: n018 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3109
-// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n018 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3110
-// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n018 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (J)
 }
 
 STRING 3111
-// Units: n019 (Citizen), Name (Name)
+// Units: n019 (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3112
-// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n019 (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3113
-// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n019 (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (K)
 }
 
 STRING 3114
-// Units: n01A (Lordaeron Woman), Name (Name)
+// Units: n01A (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3115
-// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n01A (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 3)
 }
 
 STRING 3116
-// Units: n01B (Lordaeron Woman), Name (Name)
+// Units: n01B (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3117
-// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n01B (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 4)
 }
 
 STRING 3118
-// Units: n01C (Lordaeron Woman), Name (Name)
+// Units: n01C (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3119
-// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n01C (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 5)
 }
 
 STRING 3120
-// Units: n01D (Lordaeron Woman), Name (Name)
+// Units: n01D (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3121
-// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n01D (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 6)
 }
 
 STRING 3122
-// Units: n01E (Lordaeron Woman), Name (Name)
+// Units: n01E (Жителька Лордерону), Name (Name)
 {
-Lordaeron Woman
+Жителька Лордерону
 }
 
 STRING 3123
-// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n01E (Жителька Лордерону), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 7)
 }
@@ -2253,91 +2252,91 @@ STRING 3125
 }
 
 STRING 3126
-// Units: n01H (Old Citizen), Name (Name)
+// Units: n01H (Літній городянин), Name (Name)
 {
-Old Citizen
+Літній городянин
 }
 
 STRING 3127
-// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n01H (Літній городянин), EditorSuffix (Name - Editor Suffix)
 {
 (A)
 }
 
 STRING 3128
-// Units: n01I (Old Citizen), Name (Name)
+// Units: n01I (Літній городянин), Name (Name)
 {
-Old Citizen
+Літній городянин
 }
 
 STRING 3129
-// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n01I (Літній городянин), EditorSuffix (Name - Editor Suffix)
 {
 (B)
 }
 
 STRING 3130
-// Units: n01J (Old Citizen), Name (Name)
+// Units: n01J (Літній городянин), Name (Name)
 {
-Old Citizen
+Літній городянин
 }
 
 STRING 3131
-// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n01J (Літній городянин), EditorSuffix (Name - Editor Suffix)
 {
 (C)
 }
 
 STRING 3132
-// Units: n01K (Old Citizen), Name (Name)
+// Units: n01K (Літній городянин), Name (Name)
 {
-Old Citizen
+Літній городянин
 }
 
 STRING 3133
-// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n01K (Літній городянин), EditorSuffix (Name - Editor Suffix)
 {
 (D)
 }
 
 STRING 3134
-// Units: n01L (Old Citizen), Name (Name)
+// Units: n01L (Літній городянин), Name (Name)
 {
-Old Citizen
+Літній городянин
 }
 
 STRING 3135
-// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n01L (Літній городянин), EditorSuffix (Name - Editor Suffix)
 {
 (E)
 }
 
 STRING 3136
-// Units: n01M (Citizen), Name (Name)
+// Units: n01M (Городянин), Name (Name)
 {
-Citizen
+Городянин
 }
 
 STRING 3137
-// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+// Units: n01M (Городянин), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Городянин. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3138
-// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n01M (Городянин), EditorSuffix (Name - Editor Suffix)
 {
 (L)
 }
 
 STRING 3141
 {
-Militia
+Міська варта
 }
 
 STRING 3142
 {
-We'll fight for Lordaeron! Get your swords!
+Ми будемо битися за Лордерон! Мечі до бою!
 }
 
 STRING 3183
@@ -2372,231 +2371,231 @@ STRING 3203
 
 STRING 3204
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 3211
 {
-Kirin Tor
+Сили Кірін-Тору
 }
 
 STRING 3214
-// Destructibles: XTbd (Dalaran Building), Name (Name)
+// Destructibles: XTbd (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3215
-// Destructibles: B00S (Dalaran Building), Name (Name)
+// Destructibles: B00S (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3217
-// Destructibles: B00T (Dalaran Building), Name (Name)
+// Destructibles: B00T (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3218
-// Destructibles: B00T (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00T (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (3)
 }
 
 STRING 3219
-// Destructibles: B00U (Dalaran Building), Name (Name)
+// Destructibles: B00U (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3220
-// Destructibles: B00U (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00U (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (4)
 }
 
 STRING 3221
-// Destructibles: B00V (Dalaran Building), Name (Name)
+// Destructibles: B00V (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3222
-// Destructibles: B00V (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00V (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (5)
 }
 
 STRING 3223
-// Destructibles: B00W (Dalaran Building), Name (Name)
+// Destructibles: B00W (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3224
-// Destructibles: B00W (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00W (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (6)
 }
 
 STRING 3225
-// Destructibles: B00X (Dalaran Building), Name (Name)
+// Destructibles: B00X (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3226
-// Destructibles: B00X (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00X (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (7)
 }
 
 STRING 3227
-// Destructibles: B00Y (Dalaran Building), Name (Name)
+// Destructibles: B00Y (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3228
-// Destructibles: B00Y (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B00Y (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (8)
 }
 
 STRING 3229
-// Destructibles: B010 (Dalaran Building), Name (Name)
+// Destructibles: B010 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3231
-// Destructibles: B011 (Dalaran Building), Name (Name)
+// Destructibles: B011 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3232
-// Destructibles: B010 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B010 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (10)
 }
 
 STRING 3233
-// Destructibles: B012 (Dalaran Building), Name (Name)
+// Destructibles: B012 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3234
-// Destructibles: B011 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B011 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (11)
 }
 
 STRING 3235
-// Destructibles: B013 (Dalaran Building), Name (Name)
+// Destructibles: B013 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3236
-// Destructibles: B012 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B012 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (12)
 }
 
 STRING 3237
-// Destructibles: B014 (Dalaran Building), Name (Name)
+// Destructibles: B014 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3238
-// Destructibles: B013 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B013 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (13)
 }
 
 STRING 3239
-// Destructibles: B015 (Dalaran Building), Name (Name)
+// Destructibles: B015 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3240
-// Destructibles: B014 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B014 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (14)
 }
 
 STRING 3241
-// Destructibles: B016 (Dalaran Building), Name (Name)
+// Destructibles: B016 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3242
-// Destructibles: B015 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B015 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (15)
 }
 
 STRING 3243
-// Destructibles: B017 (Dalaran Building), Name (Name)
+// Destructibles: B017 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3244
-// Destructibles: B016 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B016 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (16)
 }
 
 STRING 3245
-// Destructibles: B018 (Dalaran Building), Name (Name)
+// Destructibles: B018 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3246
-// Destructibles: B017 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B017 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (17)
 }
 
 STRING 3247
-// Destructibles: B019 (Dalaran Building), Name (Name)
+// Destructibles: B019 (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3248
-// Destructibles: B018 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B018 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (18)
 }
 
 STRING 3249
-// Destructibles: B01A (Dalaran Building), Name (Name)
+// Destructibles: B01A (Даларанська споруда), Name (Name)
 {
-Dalaran Building
+Даларанська споруда
 }
 
 STRING 3250
-// Destructibles: B019 (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B019 (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (19)
 }
 
 STRING 3251
 {
-Nation of Dalaran
+Люди Даларану
 }
 
 STRING 3253
-// Destructibles: B01A (Dalaran Building), EditorSuffix (Editor Suffix)
+// Destructibles: B01A (Даларанська споруда), EditorSuffix (Editor Suffix)
 {
 (20)
 }
@@ -2610,7 +2609,7 @@ DivineShield
 STRING 3255
 // Units: h61P (Violet Citadel), Name (Name)
 {
-Violet Citadel
+Лілова Цитадель
 }
 
 STRING 3256
@@ -2620,314 +2619,314 @@ Build Violet Citadel
 }
 
 STRING 3257
-// Units: n01P (Dalaran City Building), Name (Name)
+// Units: n01P (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3258
-// Units: n01Q (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01Q (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 1
 }
 
 STRING 3259
-// Units: n01Q (Dalaran City Building), Name (Name)
+// Units: n01Q (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3260
-// Units: n01R (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01R (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 2
 }
 
 STRING 3261
-// Units: n01R (Dalaran City Building), Name (Name)
+// Units: n01R (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3262
-// Units: n01S (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01S (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 3
 }
 
 STRING 3263
-// Units: n01S (Dalaran City Building), Name (Name)
+// Units: n01S (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3264
-// Units: n01T (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01T (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 4
 }
 
 STRING 3265
-// Units: n01T (Dalaran City Building), Name (Name)
+// Units: n01T (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3266
-// Units: n01U (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01U (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 5
 }
 
 STRING 3267
-// Units: n01U (Dalaran City Building), Name (Name)
+// Units: n01U (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3268
-// Units: n01V (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01V (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 6
 }
 
 STRING 3269
-// Units: n01V (Dalaran City Building), Name (Name)
+// Units: n01V (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3270
-// Units: n01W (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01W (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 7
 }
 
 STRING 3271
-// Units: n01W (Dalaran City Building), Name (Name)
+// Units: n01W (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3272
-// Units: n01X (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01X (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 8
 }
 
 STRING 3273
-// Units: n01X (Dalaran City Building), Name (Name)
+// Units: n01X (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3274
-// Units: n01Y (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01Y (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 9
 }
 
 STRING 3275
-// Units: n01Y (Dalaran City Building), Name (Name)
+// Units: n01Y (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3276
-// Units: n01Z (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n01Z (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 10
 }
 
 STRING 3277
-// Units: n01Z (Dalaran City Building), Name (Name)
+// Units: n01Z (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3278
-// Units: n020 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n020 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 11
 }
 
 STRING 3279
-// Units: n020 (Dalaran City Building), Name (Name)
+// Units: n020 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3280
-// Units: n021 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n021 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 12
 }
 
 STRING 3281
-// Units: n021 (Dalaran City Building), Name (Name)
+// Units: n021 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3282
-// Units: n022 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n022 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 13
 }
 
 STRING 3283
-// Units: n022 (Dalaran City Building), Name (Name)
+// Units: n022 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3284
-// Units: n023 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n023 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 14
 }
 
 STRING 3285
-// Units: n023 (Dalaran City Building), Name (Name)
+// Units: n023 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3286
-// Units: n024 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n024 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 15
 }
 
 STRING 3287
-// Units: n024 (Dalaran City Building), Name (Name)
+// Units: n024 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3288
-// Units: n025 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n025 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 16
 }
 
 STRING 3289
-// Units: n025 (Dalaran City Building), Name (Name)
+// Units: n025 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3290
-// Units: n026 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n026 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 17
 }
 
 STRING 3291
-// Units: n026 (Dalaran City Building), Name (Name)
+// Units: n026 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3292
-// Units: n027 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n027 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 18
 }
 
 STRING 3293
-// Units: n027 (Dalaran City Building), Name (Name)
+// Units: n027 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3294
-// Units: n028 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n028 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 19
 }
 
 STRING 3295
-// Units: n028 (Dalaran City Building), Name (Name)
+// Units: n028 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3296
-// Units: n029 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n029 (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 20
 }
 
 STRING 3297
-// Units: n029 (Dalaran City Building), Name (Name)
+// Units: n029 (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3298
-// Units: n02A (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n02A (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 21
 }
 
 STRING 3299
-// Units: n02A (Dalaran City Building), Name (Name)
+// Units: n02A (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3300
-// Units: n02B (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n02B (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 22
 }
 
 STRING 3301
-// Units: n02B (Dalaran City Building), Name (Name)
+// Units: n02B (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3302
-// Units: n02C (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n02C (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 23
 }
 
 STRING 3303
-// Units: n02C (Dalaran City Building), Name (Name)
+// Units: n02C (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3304
-// Units: n02D (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n02D (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 24
 }
 
 STRING 3305
-// Units: n02D (Dalaran City Building), Name (Name)
+// Units: n02D (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3306
-// Units: n02E (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+// Units: n02E (Даларанська споруда), EditorSuffix (Name - Editor Suffix)
 {
 25
 }
 
 STRING 3307
-// Units: n02E (Dalaran City Building), Name (Name)
+// Units: n02E (Даларанська споруда), Name (Name)
 {
-Dalaran City Building
+Даларанська споруда
 }
 
 STRING 3308
 {
-Order of Death Knights
+Орден Лицарів Смерті
 }
 
 STRING 3309
@@ -2939,7 +2938,7 @@ STRING 3309
 STRING 3310
 // Units: h00A (Dalaran Guard), Name (Name)
 {
-Dalaran Guard
+Далараньский вартовий
 }
 
 STRING 3312
@@ -2951,7 +2950,7 @@ Log Doodad
 STRING 3313
 // Units: H00B (The Wholoomancer), Name (Name)
 {
-The Wholoomancer
+Вуломант
 }
 
 STRING 3314
@@ -2963,7 +2962,7 @@ Antonidas Statue
 STRING 3319
 // Units: e001 (Mana Stone), Name (Name)
 {
-Mana Stone
+Камінь мани
 }
 
 STRING 3320
@@ -2973,9 +2972,9 @@ Build Mana Stone
 }
 
 STRING 3325
-// Units: n02G (Zuluhed), Name (Name)
+// Units: n02G (Зулугед Змучений), Name (Name)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3394
@@ -2990,7 +2989,7 @@ STRING 3395
 
 STRING 3396
 {
-Destroy Arcane Observatories (0/3)
+Знищено обсерваторій потаємних знань (0/3)
 }
 
 STRING 3397
@@ -3005,117 +3004,108 @@ STRING 3398
 
 STRING 3399
 {
-Rend must survive
+Ренд має вижити
 }
 
 STRING 3400
 {
-Maim must survive
+Мейм має вижити
 }
 
 STRING 3401
 {
-Zuluhed must survive
+Зулугед має вижити
 }
 
 STRING 3402
 {
-|cffffcc00MAIN QUEST|r
-The Cross Island
-- Destroy Arcane Observatories
-- Kill the Archmage
-- Destroy the Violet Citadel
-- Rend must survive
-- Maim must survive
-- Zuluhed must survive
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Хрестовий острів
+   - Знищити обсерваторії потаємних знань
+   - Вбити архімага
+   - Знищити Лілову цитадель
+   - Ренд, Мейм та Зулугед мають вижити 
 }
 
 STRING 3403
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Cross Island
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Хрестовый острів
 }
 
 STRING 3404
 {
-|cffffcc00MAIN QUEST UPDATED|r
-The Cross Island
-|cffc0c0c0- Destroy Arcane Observatories (completed)|r
-- Kill the Archmage
-- Destroy the Violet Citadel
-- Rend must survive
-- Maim must survive
-- Zuluhed must survive
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Хрестовий острів
+|cffc0c0c0- Знищити обсерваторії потаємних знань (Завершено)|r
+   - Вбити архімага
+   - Знищити Лілову цитадель
+   - Ренд, Мейм та Зулугед мають вижити 
 }
 
 STRING 3405
 {
-|cffffcc00MAIN QUEST UPDATED|r
-The Cross Island
-|cffc0c0c0- Destroy Arcane Observatories (completed)|r
-|cffc0c0c0- Kill the Archmage (completed)|r
-- Destroy the Violet Citadel
-- Rend must survive
-- Maim must survive
-- Zuluhed must survive
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Хрестовий острів
+|cffc0c0c0- Знищити обсерваторії потаємних знань (Завершено)|r
+|cffc0c0c0- Вбити архімага (Завершено)|r
+   - Знищити Лілову цитадель
+   - Ренд, Мейм та Зулугед мають вижити 
 }
 
 STRING 3407
 {
-Destroy Arcane Observatories (1/3)
+Знищено обсерваторій потаємних знань (1/3)
 }
 
 STRING 3408
 {
-Destroy Arcane Observatories (2/3)
+Знищено обсерваторій потаємних знань (2/3)
 }
 
 STRING 3409
 {
-Destroy Arcane Observatories (3/3)
+Знищено обсерваторій потаємних знань (3/3)
 }
 
 STRING 3410
 {
-Destroy Arcane Observatories (3/3)
+Знищено обсерваторій потаємних знань (3/3)
 }
 
 STRING 3411
 {
-Destroy Arcane Observatories (2/3)
+Знищено обсерваторій потаємних знань (2/3)
 }
 
 STRING 3412
 {
-Destroy Arcane Observatories (1/3)
+Знищено обсерваторій потаємних знань (1/3)
 }
 
 STRING 3413
 {
-Destroy Arcane Observatories (3/3)
+Знищено обсерваторій потаємних знань (3/3)
 }
 
 STRING 3414
 {
-Destroy Arcane Observatories (2/3)
+Знищено обсерваторій потаємних знань (2/3)
 }
 
 STRING 3415
 {
-Destroy Arcane Observatories (1/3)
+Знищено обсерваторій потаємних знань (1/3)
 }
 
 STRING 3416
 {
-Arcane Observatories
+Обсерваторії потаємних знань 
 }
 
 STRING 3417
 {
-Destroyed
+Знищено
 }
 
 STRING 3420
@@ -3133,13 +3123,13 @@ Dalaran Stairs
 STRING 3426
 // Units: Hamg (Archmage), Propernames (Proper Names)
 {
-Norlan
+Норлан
 }
 
 STRING 3448
 // Units: H00B (The Wholoomancer), Propernames (Proper Names)
 {
-Shorka
+Шорка (aka Shorka)
 }
 
 STRING 3449
@@ -3157,13 +3147,13 @@ STRING 3450
 STRING 3452
 // Units: n02H (Maim), Name (Name)
 {
-Maim
+Мейм
 }
 
 STRING 3453
 // Units: n02J (Utok), Name (Name)
 {
-Utok
+Уток Дряпач
 }
 
 STRING 3454
@@ -3222,37 +3212,35 @@ Blackrock Grunt
 
 STRING 3506
 {
-|cffffcc00MAIN QUEST FAILED|r
-The Cross Island
-|cffff0000- Rend must survive (failed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Хрестовий острів
+|cffff0000- Ренд має вижити (Провалено)|r
 }
 
 STRING 3507
 {
-|cffffcc00MAIN QUEST FAILED|r
-The Cross Island
-|cffff0000- Maim must survive (failed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Хрестовий острів
+|cffff0000- Мейм має вижити (Провалено)|r"
 }
 
 STRING 3508
 {
-|cffffcc00MAIN QUEST FAILED|r
-The Cross Island
-|cffff0000- Zuluhed must survive (failed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Хрестовий острів
+|cffff0000- Зулугед має вижити (Провалено)|r
 }
 
 STRING 3658
 // Units: n02P (Doomhammer), Name (Name)
 {
-Doomhammer
+Молот Згуби
 }
 
 STRING 3720
 {
-|cff00ff00HINT|r
-Zuluhed cannot use his "Feral Leap" ability on the cross island.
+|cff00ff00ПІДКАЗКА|r
+Через захисну ауру магів Кірін-тора Зулугед не зможе використовувати здібність «Дикий стрибок» на Хрестовому острові.
 }
 
 STRING 3751
@@ -3263,33 +3251,33 @@ Wallpaper
 
 STRING 3752
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Dragons - are the Ultimate Weapon provided by Dragonmaw clan. In Dragon Roost you can train Red Dragons and research upgrades for them.
+|cffffcc00ДОСТУПНІ НОВІ ОДИНИЦІ|r
+Багряні дракони - Найпотужніші звірі в лавах Орди, надані кланом Драконової Пащі. Побудувавши «Сідало дракона» там ви зможете тренувати і покращувати багрянихх драконів.
 }
 
 STRING 3753
 {
-Destroy Church
+Знищіть церкву
 }
 
 STRING 3754
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Church (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть церкву (Завершено)|r
 }
 
 STRING 3755
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Sack the Capital
-|cffc0c0c0- Destroy Gryphon Aviary (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Розграбувати столицю
+|cffc0c0c0- Знищіть вольєр грифонів (Завершено)|r
 }
 
 STRING 3756
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Sack the Capital
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Розграбувати столицю
 }
 
 STRING 3757
@@ -3312,19 +3300,19 @@ STRING 3759
 
 STRING 3760
 {
-Lordaeron Citizens
+Городяни Лордерону
 }
 
 STRING 3761
 // Items: I0LA (WC2Orc14Orgrim1), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3762
 // Items: I0LA (WC2Orc14Orgrim1), Description (Description)
 {
-Good. We need to capture Fenris island and build a base near the goldmine. After we accomplish that, our assault on the capital can finally begin.
+Добре. Маємо захопити острів Фенріс і розгорнути там табір біля золотокопальні. Після цього нарешті почнемо облогу столиці.
 }
 
 STRING 3763
@@ -3336,13 +3324,13 @@ WC2Orc14Orgrim1
 STRING 3764
 // Items: I0LB (WC2Orc14Orgrim2), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3765
 // Items: I0LB (WC2Orc14Orgrim2), Description (Description)
 {
-Dragonmaw and Blacktooth grin sails… the carriers of my vengeance return at last.
+А ось і клани Драконової Пащі та Чорнозубого Вищиру… носії моєї помсти нарешті повернулися.
 }
 
 STRING 3766
@@ -3354,13 +3342,13 @@ WC2Orc14Orgrim2
 STRING 3767
 // Items: I0LC (WC2Orc14Orgrim3), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3768
 // Items: I0LC (WC2Orc14Orgrim3), Description (Description)
 {
-Give report, now.. 
+Доповідайте…
 }
 
 STRING 3769
@@ -3372,13 +3360,13 @@ WC2Orc14Orgrim3
 STRING 3770
 // Items: I0LD (WC2Orc14Orgrim4), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3771
 // Items: I0LD (WC2Orc14Orgrim4), Description (Description)
 {
-Good… my misguided mercy has now been rectified. This will be a reminder to anyone who would dare oppose my rule.
+Добре… моя помилка з милістю, тепер виправлена. Це буде нагадуванням для кожного хто наважиться йти проти мого правління.
 }
 
 STRING 3772
@@ -3390,13 +3378,13 @@ WC2Orc14Orgrim4
 STRING 3773
 // Items: I0LE (WC2Orc14Orgrim5), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3774
 // Items: I0LE (WC2Orc14Orgrim5), Description (Description)
 {
-They are all untrustworthy traitors… but you are right, Rend. The strength of our armies have decreased dramatically, though it pains me greatly to admit it. One way or the other, the future of the Horde will be decided today. Put those ogres in the vanguard… their debt to us will be repaid in blood. As for the rest of them - the Death Knights will watch over them until I decide their fate.
+Всі вони зрадники яким не можна довіряти… але ти правий, Ренде. Міць наших армій суттєво знизилась, якби боляче мені не було це визнавати. Тим чи іншим чином, майбутнє Орди вирішиться сьогодні. Оґрів з клану Сутінкового Молота, поставте у першу лінію перед нашими військами… вони відплатять свої борги кров'ю. Що стосується решти, нехай Лицарі Смерті наглядають за ними, доки я не вирішу їхню долю.
 }
 
 STRING 3775
@@ -3408,13 +3396,13 @@ WC2Orc14Orgrim5
 STRING 3776
 // Items: I0LF (WC2Orc14Orgrim6), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3777
 // Items: I0LF (WC2Orc14Orgrim6), Description (Description)
 {
-Teron Gorefiend struggles with the siege of Dalaran to the south.  I want you to throw all the forces that you have against that city. Rend and Maim will go with you.
+Терон Кровобіс має певні труднощі з облогою Даларану на півдні. Я хочу, аби ви кинули всі свої сили проти  міста чаклунів. Ренд і Мейм підуть з тобою.
 }
 
 STRING 3778
@@ -3426,7 +3414,7 @@ WC2Orc14Orgrim6
 STRING 3779
 // Items: I0LG (WC2Orc14Orgrim7), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3781
@@ -3438,13 +3426,13 @@ WC2Orc14Orgrim7
 STRING 3782
 // Items: I0LH (WC2Orc14Orgrim8), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3783
 // Items: I0LH (WC2Orc14Orgrim8), Description (Description)
 {
-Yes! Today the last bastions of humanity will burn in dragon fire. Go now!
+Саме так! Сьогодні останній людський бастіон у вогні драконів. А тепер рушайте!
 }
 
 STRING 3784
@@ -3456,13 +3444,13 @@ WC2Orc14Orgrim8
 STRING 3785
 // Items: I0LI (WC2Orc14Orgrim9), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3786
 // Items: I0LI (WC2Orc14Orgrim9), Description (Description)
 {
-Utok! You will stay here with me. I want you to scribe the glorious moment when the walls of Lordaeron fall to our furious armies! We end this… today! Rise up Sons of the Horde! Blood and glory awaits us!
+Уток! Ти залишишся тут зі мною. Я хочу, щоб ти занотував ту славетну мить, коли стіни Лордерону впадуть перед нашими лютими арміями! Ми закінчимо це… сьогодні! Підведіться сини Орди! Кров і слава чекають на нас!
 }
 
 STRING 3787
@@ -3474,13 +3462,13 @@ WC2Orc14Orgrim9
 STRING 3788
 // Items: I0LJ (WC2Orc14Orgrim10), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3789
 // Items: I0LJ (WC2Orc14Orgrim10), Description (Description)
 {
-We need to end the remnants of Lordaeron’s pathetic fleet.  Destroy the harbour and use it as a location for our siege weapons and ground troops to attack the city.
+Треба покласти край залишкам нікчемного флоту Лордерону. Зачистимо гавань і використаємо її як плацдарм для наших облогових знарядь та наших військ для нападу на місто.
 }
 
 STRING 3790
@@ -3492,13 +3480,13 @@ WC2Orc14Orgrim10
 STRING 3791
 // Items: I0LK (WC2Orc14Orgrim11), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3792
 // Items: I0LK (WC2Orc14Orgrim11), Description (Description)
 {
-We have come too far to be denied by arrows and wall defenses… Rise up my mighty Horde! Glory and riches awaits you beyond these walls! Shred them to pieces my warriors, and take what is rightfully yours!
+Ми вже зайшли занадто далеко, аби нас спинили стріли оборонців що на стінах. Підведись моя могутня Орда. За цими стінами вас чекають скарби та слава. Воїни розірвіть їх на шматки, і візьміть те, що належить вам по праву!
 }
 
 STRING 3793
@@ -3510,13 +3498,13 @@ WC2Orc14Orgrim11
 STRING 3794
 // Items: I0LL (WC2Orc14Orgrim12), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3795
 // Items: I0LL (WC2Orc14Orgrim12), Description (Description)
 {
-The alabaster parapets of Lordaeron's capital loom before us in the distance. The proud, defiant armies of the Alliance stand resolute in their final, fleeting moments. All that remains is the shrill, clarion call to battle and the fulfillment of our destiny. The tides of darkness are now at hand!
+І ось вдалині перед нами вже маячать шпилі будівель столиці Лордерону. Горді та зухвалі армії Альянсу рішуче тримаються в останні та швидкоплинні миті свого існування. Все що залишилось це останній заклик до бою, гучний та пронизливий крик, аби ми виконали наше призначення. Припливи пітьми вже поруч!
 }
 
 STRING 3796
@@ -3528,13 +3516,13 @@ WC2Orc14Orgrim12
 STRING 3797
 // Items: I0LM (WC2Orc14Orgrim13), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3798
 // Items: I0LM (WC2Orc14Orgrim13), Description (Description)
 {
-Good, We shall start the attack now!
+Добре, тоді розпочинаймо просто зараз!
 }
 
 STRING 3799
@@ -3546,13 +3534,13 @@ WC2Orc14Orgrim13
 STRING 3800
 // Items: I0LN (WC2Orc14Orgrim14), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3801
 // Items: I0LN (WC2Orc14Orgrim14), Description (Description)
 {
-Just as planned!
+Як і було заплановано!
 }
 
 STRING 3802
@@ -3564,7 +3552,7 @@ WC2Orc14Orgrim14
 STRING 3803
 // Items: I0LO (WC2Orc14Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3805
@@ -3576,13 +3564,13 @@ WC2Orc14Rend1
 STRING 3806
 // Items: I0LP (WC2Orc14Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3807
 // Items: I0LP (WC2Orc14Rend2), Description (Description)
 {
-Gul’dan’s betrayal has cost so much… In light of this fact we thought it wisest to deliver them to your court, instead of slaughtering them outright.
+Зрада Ґул'дана обійшлася нам досить дорого… Враховуючи наші втрати, ми подумали буде мудріше доставити бранців на твій суд, а не просто вбити.
 }
 
 STRING 3808
@@ -3594,13 +3582,13 @@ WC2Orc14Rend2
 STRING 3809
 // Items: I0LQ (WC2Orc14Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3810
 // Items: I0LQ (WC2Orc14Rend3), Description (Description)
 {
-Wouldn't we be more useful against the capital city?
+Хіба ми б не були більш користі тут, при облозі столиці?
 }
 
 STRING 3811
@@ -3612,13 +3600,13 @@ WC2Orc14Rend3
 STRING 3812
 // Items: I0LR (WC2Orc14Rend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3813
 // Items: I0LR (WC2Orc14Rend4), Description (Description)
 {
-And after that we can sack the citadel itself!
+А після цього вже зможемо знищити саму цитадель!
 }
 
 STRING 3814
@@ -3630,13 +3618,13 @@ WC2Orc14Rend4
 STRING 3815
 // Items: I0LS (WC2Orc14Rend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3816
 // Items: I0LS (WC2Orc14Rend5), Description (Description)
 {
-What was that?
+Що це було?
 }
 
 STRING 3817
@@ -3648,13 +3636,13 @@ WC2Orc14Rend5
 STRING 3818
 // Items: I0LT (WC2Orc14Maim1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3819
 // Items: I0LT (WC2Orc14Maim1), Description (Description)
 {
-Yes, Warchief. They surrendered after we destroyed their fleet and slaughtered their leaders.
+Так, вождь. Вони здалися після того, як ми знищили їхній флот і вбили їхніх ватажків.
 }
 
 STRING 3820
@@ -3666,13 +3654,13 @@ WC2Orc14Maim1
 STRING 3821
 // Items: I0LU (WC2Orc14Maim2), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3822
 // Items: I0LU (WC2Orc14Maim2), Description (Description)
 {
-I will have great pleasure to slice him into pieces!
+З великою радістю порубаю його на шматки!
 }
 
 STRING 3823
@@ -3684,13 +3672,13 @@ WC2Orc14Maim2
 STRING 3824
 // Items: I0LV (WC2Orc14Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3825
 // Items: I0LV (WC2Orc14Utok1), Description (Description)
 {
-There should be several ways to launch assaults against the city. Let’s use zeppelins to scout the shoreline.
+Має бути декілька шляхів аби почати облогу міста. Скористаємося ґоблінськими дирижаблями аби розвідати берегову лінію.
 }
 
 STRING 3826
@@ -3702,13 +3690,13 @@ WC2Orc14Utok1
 STRING 3827
 // Items: I0LW (WC2Orc14Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3828
 // Items: I0LW (WC2Orc14Utok2), Description (Description)
 {
-Warchief, the walls are heavily fortified and we are losing many warriors to elven archers and ballistas.
+Вождь, стіни досить сильно укріплені ми маємо великі втрати через лучників та балісти.
 }
 
 STRING 3829
@@ -3720,13 +3708,13 @@ WC2Orc14Utok2
 STRING 3830
 // Items: I0LX (WC2Orc14Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3831
 // Items: I0LX (WC2Orc14Utok3), Description (Description)
 {
-What is the best tactic we can use to aid him?
+Яку найкращу тактику ми можемо застосувати, щоб допомогти йому?
 }
 
 STRING 3832
@@ -3738,13 +3726,13 @@ WC2Orc14Utok3
 STRING 3833
 // Items: I0LY (WC2Orc14Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3834
 // Items: I0LY (WC2Orc14Utok4), Description (Description)
 {
-We need to use our forces wisely. Ships and Towers are protecting the island.
+Треба з мудрістю використовувати наші сили. Їхні кораблі та вежі захищають острів.
 }
 
 STRING 3835
@@ -3756,13 +3744,13 @@ WC2Orc14Utok4
 STRING 3836
 // Items: I0LZ (WC2Orc14Utok5), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3837
 // Items: I0LZ (WC2Orc14Utok5), Description (Description)
 {
-I will report to the warchief about our success here.
+Я доповім вождю про наш успіх тут.
 }
 
 STRING 3838
@@ -3774,13 +3762,13 @@ WC2Orc14Utok5
 STRING 3839
 // Items: I0La (WC2Orc14Utok6), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3840
 // Items: I0La (WC2Orc14Utok6), Description (Description)
 {
-Don’t push it, ‘Captain Tharbek’, the Warchief does not tolerate soldiers who disobey their superiors, now fall to command!
+Не розхитуй човна «капітане Тарбек». Вождь не терпить коли солдати не коряться своїм командирам, тому виконуй наказ!
 }
 
 STRING 3841
@@ -3792,13 +3780,13 @@ WC2Orc14Utok6
 STRING 3842
 // Items: I0Lb (WC2Orc14Utok7), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3843
 // Items: I0Lb (WC2Orc14Utok7), Description (Description)
 {
-Warchief! The cross island has fallen under the might of the Horde!
+Вождь! Хрестовий острів пав під міццю орди!
 }
 
 STRING 3844
@@ -3810,13 +3798,13 @@ WC2Orc14Utok7
 STRING 3845
 // Items: I0Lc (WC2Orc14Tharbek1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3846
 // Items: I0Lc (WC2Orc14Tharbek1), Description (Description)
 {
-Warchief, the strike force awaits your command.
+Вождь, штурмові сили чекають твого наказу.
 }
 
 STRING 3847
@@ -3828,13 +3816,13 @@ WC2Orc14Tharbek1
 STRING 3848
 // Items: I0Ld (WC2Orc14Tharbek2), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3849
 // Items: I0Ld (WC2Orc14Tharbek2), Description (Description)
 {
-Faster you lazy maggot! The siege of the capital begins at dawn… if you are not ready by then, the Warchief will have your hides!
+Швидше давай ти ледачий хробак! Облога буде розпочата на світанку… Якщо не будете готові до того часу, Вождь зніме з вас шкуру!
 }
 
 STRING 3850
@@ -3846,13 +3834,13 @@ WC2Orc14Tharbek2
 STRING 3851
 // Items: I0Le (WC2Orc14Tharbek3), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3852
 // Items: I0Le (WC2Orc14Tharbek3), Description (Description)
 {
-Warchief, The camp and supplies are ready for the attack on the Capital!
+Вождь, табір облаштовано і ми маємо достатню кількість ресурсів аби розпочати облогу на столиці!
 }
 
 STRING 3853
@@ -3864,13 +3852,13 @@ WC2Orc14Tharbek3
 STRING 3854
 // Items: I0Lf (WC2Orc14Tharbek4), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3855
 // Items: I0Lf (WC2Orc14Tharbek4), Description (Description)
 {
-Today, I will finally prove to the Warchief who's the better Orc…Scratcher!
+Сьогодні, я нарешті доведу вождю, хто є кращим орком… Дряпач!
 }
 
 STRING 3856
@@ -3882,13 +3870,13 @@ WC2Orc14Tharbek4
 STRING 3857
 // Items: I0Lg (WC2Orc14Tharbek5), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3858
 // Items: I0Lg (WC2Orc14Tharbek5), Description (Description)
 {
-Soon, ‘Commander Scratcher’, soon..
+Скоро «командире Дряпач», скоро…
 }
 
 STRING 3859
@@ -3900,13 +3888,13 @@ WC2Orc14Tharbek5
 STRING 3860
 // Items: I0Lh (WC2Orc14Zuluhed1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3861
 // Items: I0Lh (WC2Orc14Zuluhed1), Description (Description)
 {
-Greetings Warchief. We lost many good warriors, but your will is fulfilled.
+Вітаю тебе вождь. Ми втратили багато воїнів, але твоя воля виконана.
 }
 
 STRING 3862
@@ -3918,13 +3906,13 @@ WC2Orc14Zuluhed1
 STRING 3863
 // Items: I0Li (WC2Orc14Zuluhed2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3864
 // Items: I0Li (WC2Orc14Zuluhed2), Description (Description)
 {
-What is our next objective, Warchief?
+Що далі вождь?
 }
 
 STRING 3865
@@ -3936,13 +3924,13 @@ WC2Orc14Zuluhed2
 STRING 3866
 // Items: I0Lj (WC2Orc14Zuluhed3), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3867
 // Items: I0Lj (WC2Orc14Zuluhed3), Description (Description)
 {
-It is good that we have saved our greatest weapon for just this moment - Dragons! A flock of them just joined in from the hatcheries of the Dragonmaw!
+Вкрай добре, що ми зберегли нашу найпотужнішу зброю до цього моменту - Драконів! Якраз маємо зграю, яка щойно доєдналися до нас з гнізд Драконової Пащі!
 }
 
 STRING 3868
@@ -3954,13 +3942,13 @@ WC2Orc14Zuluhed3
 STRING 3869
 // Items: I0Lk (WC2Orc14Zuluhed4), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3870
 // Items: I0Lk (WC2Orc14Zuluhed4), Description (Description)
 {
-I can see the Cross island - the key point of the Dalarans' defense. Teron Gorefiend has started the attack, but his forces are progressing slowly.
+Я бачу Хрестовий острів — ключову точку оборони Даларану. Терон Кровобіс вже почав атаку, але його сили просуваються повільно.
 }
 
 STRING 3871
@@ -3972,13 +3960,13 @@ WC2Orc14Zuluhed4
 STRING 3872
 // Items: I0Ll (WC2Orc14Zuluhed5), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3873
 // Items: I0Ll (WC2Orc14Zuluhed5), Description (Description)
 {
-There are three arcane observatories that are shielding the hearth of the island - Violet citadel. If we destroy them, the kirin tor defenders will lose their magical shielding.
+Там є три магічні обсерваторії, які захищають серце острова - Лілову цитадель. Якщо знищимо обсерваторії захисники Кірін-Тору втратять свій магічний захист.
 }
 
 STRING 3874
@@ -3990,13 +3978,13 @@ WC2Orc14Zuluhed5
 STRING 3875
 // Items: I0Lm (WC2Orc14Zuluhed6), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3876
 // Items: I0Lm (WC2Orc14Zuluhed6), Description (Description)
 {
-The citadel is protected by the spell conjured by the archmage. First, we need to kill him.
+Цитадель захищена сильним закляттям архімага. Спочатку нам треба його вбити.
 }
 
 STRING 3877
@@ -4008,13 +3996,13 @@ WC2Orc14Zuluhed6
 STRING 3878
 // Items: I0Ln (WC2Orc14Zuluhed7), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3879
 // Items: I0Ln (WC2Orc14Zuluhed7), Description (Description)
 {
-Dragons will burn the defenses and prepare the site for our ground troops' arrival.
+Дракони спалять всю оборону та підготують ділянку для висадки наших військ.
 }
 
 STRING 3880
@@ -4026,13 +4014,13 @@ WC2Orc14Zuluhed7
 STRING 3881
 // Items: I0Lo (WC2Orc14Zuluhed8), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3882
 // Items: I0Lo (WC2Orc14Zuluhed8), Description (Description)
 {
-Humans...
+Люди…
 }
 
 STRING 3883
@@ -4044,13 +4032,13 @@ WC2Orc14Zuluhed8
 STRING 3884
 // Items: I0Lp (WC2Orc14Gorefiend1), Tip (Tooltip - Basic)
 {
-Teron Gorefiend
+Терон Кровобіс
 }
 
 STRING 3885
 // Items: I0Lp (WC2Orc14Gorefiend1), Description (Description)
 {
-Your petty magick can’t stop us, mage.
+Твоя нікчемна магія не спинить нас, маг.
 }
 
 STRING 3886
@@ -4062,13 +4050,13 @@ WC2Orc14Gorefiend1
 STRING 3887
 // Items: I0Lq (WC2Orc14Gorefiend2), Tip (Tooltip - Basic)
 {
-Teron Gorefiend
+Терон Кровобіс
 }
 
 STRING 3888
 // Items: I0Lq (WC2Orc14Gorefiend2), Description (Description)
 {
-Good. The Dragonmaw and Blacktooth grin forces arrived at perfect timing. We will go south and prepare for the siege of the city.
+Добре. Клани Драконової Пащі та Чорнозубого Вищиру прибули якраз вчасно. Рушимо на південь і підготуємось до облоги міста.
 }
 
 STRING 3889
@@ -4080,13 +4068,13 @@ WC2Orc14Gorefiend2
 STRING 3890
 // Items: I0Lr (WC2Orc14Archmage01), Tip (Tooltip - Basic)
 {
-Archmage
+Архімаг Норлан
 }
 
 STRING 3891
 // Items: I0Lr (WC2Orc14Archmage01), Description (Description)
 {
-You shall not pass, twisted undead creature!
+Ти не пройдеш, спотворена немертва істота!
 }
 
 STRING 3892
@@ -4098,13 +4086,13 @@ WC2Orc14Archmage01
 STRING 3893
 // Items: I0Ls (WC2Orc14Retera1), Tip (Tooltip - Basic)
 {
-Retera the Whoolomancer
+Ретера Вуломант
 }
 
 STRING 3894
 // Items: I0Ls (WC2Orc14Retera1), Description (Description)
 {
-Thank you for freeing me from this prison, strangers, the Kirin Tor doesn't respect ambitious wizards like me.
+Дякую, що звільнили мене з цієї в'язниці, незнайомці, Кірін-Тор не поважає таких амбітних чаклунів, як я.
 }
 
 STRING 3895
@@ -4116,13 +4104,13 @@ WC2Orc14Retera1
 STRING 3896
 // Items: I0Lt (WC2Orc14Retera2), Tip (Tooltip - Basic)
 {
-Retera the Whoolomancer
+Ретера Вуломант
 }
 
 STRING 3897
 // Items: I0Lt (WC2Orc14Retera2), Description (Description)
 {
-They thought my experiments were too bold, I was punished for it, regardless, I'm done with this place, to hell with all of you!
+Вони вважали мої експерименти занадто сміливими, і за це мене було покарано. У будь-якому разі я не збираюсь тут більше лишатись, до біса всіх вас!
 }
 
 STRING 3898
@@ -4134,13 +4122,13 @@ WC2Orc14Retera2
 STRING 3899
 // Items: I0Lu (WC2Orc14Uther1), Tip (Tooltip - Basic)
 {
-Uther
+Утер
 }
 
 STRING 3900
 // Items: I0Lu (WC2Orc14Uther1), Description (Description)
 {
-You will be safe there child, don't be afraid, the light will protect you, and  your mother and siblings will have need of you in the halls below. Your duty is to them. Now go.
+Ти будеш там в безпеці дитино, не варто боятися… Твоя мати з твоїми братами та сестрами вже там і чекають на тебе, тобі потрібно бути поряд з ними. Світло захистить вас. А тепер йди.
 }
 
 STRING 3901
@@ -4152,13 +4140,13 @@ WC2Orc14Uther1
 STRING 3902
 // Items: I0Lv (WC2Orc14Uther2), Tip (Tooltip - Basic)
 {
-Uther
+Утер
 }
 
 STRING 3903
 // Items: I0Lv (WC2Orc14Uther2), Description (Description)
 {
-Good, order archers to mount the defense on the parapets, Lordaeron will not fall today!
+Добре, накажіть лучникам стати в оборону на стінах, Лордерон сьогодні не паде!
 }
 
 STRING 3904
@@ -4170,13 +4158,13 @@ WC2Orc14Uther2
 STRING 3905
 // Items: I0Lw (WC2Orc14Uther3), Tip (Tooltip - Basic)
 {
-Uther
+Утер
 }
 
 STRING 3906
 // Items: I0Lw (WC2Orc14Uther3), Description (Description)
 {
-Demon worshipping fanatics, be purged by the light!
+Фанатики, що поклоняються демонам, ви будете очищені світлом!
 }
 
 STRING 3907
@@ -4188,13 +4176,13 @@ WC2Orc14Uther3
 STRING 3908
 // Items: I0Lx (WC2Orc14Uther4), Tip (Tooltip - Basic)
 {
-Uther
+Утер
 }
 
 STRING 3909
 // Items: I0Lx (WC2Orc14Uther4), Description (Description)
 {
-Men! Defend the city at all costs!
+Люди! Захистіть місто за будь-яку ціну!
 }
 
 STRING 3910
@@ -4206,13 +4194,13 @@ WC2Orc14Uther4
 STRING 3911
 // Items: I0Lz (WC2Orc14Uther5), Tip (Tooltip - Basic)
 {
-Uther
+Утер
 }
 
 STRING 3912
 // Items: I0Lz (WC2Orc14Uther5), Description (Description)
 {
-You shall not take this city!
+Вам не взяти це місто!
 }
 
 STRING 3913
@@ -4224,13 +4212,13 @@ WC2Orc14Uther5
 STRING 3914
 // Items: I1LA (MuradinTaunt2), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Мурадін Бронзобородий
 }
 
 STRING 3915
 // Items: I1LA (MuradinTaunt2), Description (Description)
 {
-I've met gnomes that are tougher than you!
+Я зустрічав гномів які сильніші за тебе!
 }
 
 STRING 3916
@@ -4242,13 +4230,13 @@ MuradinTaunt2
 STRING 3917
 // Items: I1LB (MuradinTaunt1), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Мурадін Бронзобородий
 }
 
 STRING 3918
 // Items: I1LB (MuradinTaunt1), Description (Description)
 {
-Aw, is that the best you can do?!
+Ха, і це краще, що ти можеш?
 }
 
 STRING 3919
@@ -4260,7 +4248,7 @@ MuradinTaunt1
 STRING 3920
 // Items: I1LC (MuradinWarcry1), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Мурадін Бронзобородий
 }
 
 STRING 3922
@@ -4272,13 +4260,13 @@ MuradinWarcry1
 STRING 3923
 // Items: I1LD (MuradinYesAttack1), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Мурадін Бронзобородий
 }
 
 STRING 3924
 // Items: I1LD (MuradinYesAttack1), Description (Description)
 {
-For Khaz Modan!
+За Каз-Модан!
 }
 
 STRING 3925
@@ -4290,13 +4278,13 @@ MuradinYesAttack1
 STRING 3926
 // Items: ITLE (MuradinYesAttack2), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Мурадін Бронзобородий
 }
 
 STRING 3927
 // Items: ITLE (MuradinYesAttack2), Description (Description)
 {
-For the Bronzebeards!
+За Бронзобородих!
 }
 
 STRING 3928
@@ -4308,13 +4296,13 @@ MuradinYesAttack2
 STRING 3929
 // Items: I1LF (MuradinYesAttack3), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Мурадін Бронзобородий
 }
 
 STRING 3930
 // Items: I1LF (MuradinYesAttack3), Description (Description)
 {
-Take this, you bastard!
+Скуштуй це, потворо!
 }
 
 STRING 3931
@@ -4326,13 +4314,13 @@ MuradinYesAttack3
 STRING 3932
 // Items: I1LG (WC2Orc14Captain1), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 3933
 // Items: I1LG (WC2Orc14Captain1), Description (Description)
 {
-Sir Uther, we have locked the gates and prepared the ballistas.
+Сір Утер, ми зачинили міську браму, і підготували балісти.
 }
 
 STRING 3934
@@ -4344,13 +4332,13 @@ WC2Orc14Captain1
 STRING 3935
 // Items: I1LH (WC2Orc14ChildTimmy1), Tip (Tooltip - Basic)
 {
-Timmy
+Маленький Тіммі
 }
 
 STRING 3936
 // Items: I1LH (WC2Orc14ChildTimmy1), Description (Description)
 {
-I don't wanna go to the catacombs, it’s scary…
+Я не хочу до катакомб, там дуже моторошно…
 }
 
 STRING 3937
@@ -4362,13 +4350,13 @@ WC2Orc14ChildTimmy1
 STRING 3938
 // Items: I1LI (GoblinSapperYes3), Tip (Tooltip - Basic)
 {
-Goblin Sappers
+Загін ґоблінів саперів
 }
 
 STRING 3939
 // Items: I1LI (GoblinSapperYes3), Description (Description)
 {
-I'll be a blast!
+Зараз рване!
 }
 
 STRING 3940
@@ -4386,37 +4374,37 @@ STRING 3941
 STRING 3942
 // Units: nwzr (Wizard), Name (Name)
 {
-Wizard
+Чаклун
 }
 
 STRING 3943
 // Units: nwzg (Senior Wizard), Name (Name)
 {
-Senior Wizard
+Верховний чаклун
 }
 
 STRING 3944
 // Units: nwzd (Dalaran Wizard), Name (Name)
 {
-Dalaran Wizard
+Даларанський чаклун
 }
 
 STRING 3945
 // Items: I0LG (WC2Orc14Orgrim7), Description (Description)
 {
-No, Rend. The Violet Citadel of Dalaran serves as sanctum and heaven to the mages of the Kirin Tor. Once Lordaeron has fallen, Dalaran will be the last and the most dangerous barrier between the Horde and the subjugation of humanity.
+Ні, Ренде. Лілова Цитадель Даларану служить святилищем і є просто раєм для магів Кірін-Тора. Після падіння Лордерону, Даларан стане останнім і найнебезпечнішим бар'єром між Ордою та остаточним підкоренням людських королівств.
 }
 
 STRING 3946
 // Items: I1LC (MuradinWarcry1), Description (Description)
 {
-Beards, blood, booze and thunder!
+Бороди, кров, ель та грім!
 }
 
 STRING 3947
 // Items: I0LO (WC2Orc14Rend1), Description (Description)
 {
-Warchief, we have captured some survivors from the Twilight’s hammer and the Stormreaver clans. They’re begging for your forgiveness.
+Вождь ми також взяли в полон вцілілих з кланів Сутінкового Молота та Бурхливої Бурі. Вони благають про твоє прощення.
 }
 
 STRING 3948
@@ -4448,42 +4436,42 @@ STRING 3952
 STRING 3953
 // Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Name (Name)
 {
-Observatories Destroyed
+Знищено обсерваторій
 }
 
 STRING 3954
 // Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Tip (Tooltip)
 {
-Observatories Destroyed
+Знищено обсерваторій
 }
 
 STRING 3955
 // Upgrades: RM61 (Spirit Walker Adept Training,Spirit Walker Master Training), Ubertip (Tooltip - Extended)
 {
-Zuluhed cannot use his Feral Leap ability because of the protective spell cast by Dalaran Wizards.
+Зулугед Змучений cannot use his Feral Leap ability because of the protective spell cast by Dalaran Wizards.
 }
 
 STRING 3956
 // Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
 {
-Suspicious Crow
+Підозрілий ворон
 }
 
 STRING 3957
 // Items: IQL0 (Bonecrusher), Description (Description)
 {
-Brute
+Рубайло
 }
 
 STRING 3958
 // Items: IQL0 (Bonecrusher), Name (Name)
 {
-Bonecrusher
+Кістколам
 }
 
 STRING 3959
 // Items: IQL0 (Bonecrusher), Ubertip (Tooltip - Extended)
 {
-Dolly
+Вівця Доллі
 }
 
