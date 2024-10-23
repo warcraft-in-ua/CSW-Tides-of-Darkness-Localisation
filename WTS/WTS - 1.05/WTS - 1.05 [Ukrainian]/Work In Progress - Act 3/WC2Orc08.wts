@@ -15,26 +15,26 @@ STRING 236
 
 STRING 246
 {
-Runestone
+Рунічний камінь
 }
 
 STRING 249
 {
-|cffffcc00MAIN QUEST|r
-Runestone
-  - Destroy the Human Castle
-  - Secure the Runestone
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Рунічний камінь
+- Зруйнуйте людський замок
+- Доставте  Ґул'дана до рунічного каменю
 }
 
 STRING 250
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Runestone
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Рунічний камінь
 }
 
 STRING 264
 {
-Stormreaver Clan
+Клан Бурхливої Бурі
 }
 
 STRING 373
@@ -44,7 +44,7 @@ Chapter Eight: The Runestone at Caer Darrow
 
 STRING 376
 {
-Alliance of Lordaeron
+Альянс Лордерону
 }
 
 STRING 377
@@ -65,7 +65,7 @@ Neutral
 STRING 485
 // Units: n604 (Dwarf Axethrower), Name (Name)
 {
-Dwarf Axethrower
+Дворф Сокирокид
 }
 
 STRING 486
@@ -83,13 +83,13 @@ T
 STRING 488
 // Units: n604 (Dwarf Axethrower), Ubertip (Tooltip - Extended)
 {
-Ловкий метатель топоров. |n|n|cffffcc00Способен атаковать наземные и воздушные цели.|r
+A skilled axe thrower. |n|n|cffffcc00Able to attack ground and air targets.|r
 }
 
 STRING 798
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 799
@@ -105,63 +105,63 @@ Spike Wall
 }
 
 STRING 838
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 839
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 840
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 841
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 842
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
 
 STRING 883
-// Units: n62A (Shark), Name (Name)
+// Units: n62A (Акула), Name (Name)
 {
-Shark
+Акула
 }
 
 STRING 884
-// Units: n62A (Shark), Tip (Tooltip - Basic)
+// Units: n62A (Акула), Tip (Tooltip - Basic)
 {
-Shark
+Акула
 }
 
 STRING 885
-// Units: n62B (Purple Shark), Name (Name)
+// Units: n62B (Purple Акула), Name (Name)
 {
-Purple Shark
+Рожева акула
 }
 
 STRING 886
-// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+// Units: n62B (Purple Акула), Tip (Tooltip - Basic)
 {
-Shark
+Акула
 }
 
 STRING 984
-// Destructibles: LTex (Barrel with Oil), Name (Name)
+// Destructibles: LTex (Діжка з нафтою), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 990
@@ -177,9 +177,9 @@ Shrooms
 }
 
 STRING 992
-// Destructibles: B615 (Barrel with Oil), Name (Name)
+// Destructibles: B615 (Діжка з нафтою), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 993
@@ -219,7 +219,7 @@ City Stairs
 }
 
 STRING 1019
-// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+// Destructibles: B615 (Діжка з нафтою), EditorSuffix (Editor Suffix)
 {
 No Path
 }
@@ -460,7 +460,7 @@ Rack Weapon Orc
 
 STRING 2083
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 2084
@@ -491,13 +491,13 @@ Must build upon Oil Patch.
 STRING 2089
 // Units: H003 (Elven Archmage), Name (Name)
 {
-Elven Archmage
+Ельфійський архімаг
 }
 
 STRING 2090
 // Units: H003 (Elven Archmage), Propernames (Proper Names)
 {
-Eldin Sunstrider,Tanin Hawkwing,Lorn Bloodseeker,Aldos Firestar,Gilaras Drakeson,Hale Magefire,Kath'ranis Remar,Tyoril Sunchaser,Sylvos Windrunner,Tenris Mirkblood,Marakanis Starfury,Geldor Earthfire,Halendor Burnkin,Kelen the Destroyer
+Елдін Сонячний мандрівник, Танін Крило Яструба, Лорн Кровожерливий, Олдос Вогнезірка, Гіларас Дрейксон, Хал Магопламья, Катраніс Ремар, Тіоріл Сонцелов, Сильвос Вітробіг, Тенріс Мракокров, Мараканіс Зіркова Лють,Гелдор Землевогонь,Халендор Пекучий,Келен Руйнівник
 }
 
 STRING 2091
@@ -533,7 +533,7 @@ Rack Alchemy Orc
 STRING 2116
 // Units: nwc2 (Cage), Name (Name)
 {
-Cage
+Клітка
 }
 
 STRING 2117
@@ -582,84 +582,84 @@ Unholy
 
 STRING 2511
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Lost Turtles
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Загублені черепахи
 }
 
 STRING 2525
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Now you can train War Turtles in the shipyard.
+|cffffcc00У КОРАБЕЛЬНІ ДОСТУПНІ НОВІ ОДИНИЦІ|r
+Ви тепер можете тренувати «Бойових черепах»
 }
 
 STRING 2574
 {
-Locate War Turtles
+Знайдіть бойових черепах
 }
 
 STRING 2584
 {
-Wildhammer Clan
+Клан Дикого Молота
 }
 
 STRING 2683
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2684
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2685
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2686
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2687
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2688
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2689
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2690
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2692
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2694
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2697
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2698
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2787
@@ -705,13 +705,13 @@ One
 STRING 2903
 // Units: n00D (Raven), Name (Name)
 {
-Raven
+Ворон
 }
 
 STRING 2966
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Fortress. Build from the obsidian melted in the Blackrock spire, the Fortress unlocks access to the highest tier of naval cannon upgrades.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНОD|r
+«Фортеця» будується з вулканічного скла, що плавиться у Чорнокамінному Шпилі. Фортеця відкриває доступ до максимального рівня покращень флоту Орди.
 }
 
 STRING 2967
@@ -734,14 +734,14 @@ AltarRamp
 
 STRING 2971
 {
-|cffffcc00TECHTREE ALTERATION|r
-Orc Archer - Stormreaver clan uses orc archers for their ranged attacks. Upgrades can be found in the Warmill.
+|cffffcc00АЛЬТЕРНАТИВНЕ ДЕРЕВО ТЕХНОЛОГІЙ|r
+«Орк лучник» - Основна одиниця дальнього бою у клані Бурхгливої Бурі. Можуть бути покращені у «Військовій виробні.
 }
 
 STRING 2972
 {
-|cff8080ffNEW HEROES|r
-Gul'dan - warlock of the Stormreaver Clan. Powerful caster, that is able to summon demons, syphon life and use fel enery agains his enemies.
+|cff8080ffНОВИЙ ГЕРОЙ|r
+Ґул'дан - чорнокнижник клану Бурхгливої Бурі. Могутній заклинатель, який здатний прикликати демонів, витягувати життєву силу і використовувати енергію скверни проти своїх ворогів.
 }
 
 STRING 2976
@@ -752,105 +752,107 @@ Winter Canopy Bush
 
 STRING 2977
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Burning Oil - the attacks of catapults and Ogre Juggernauts will ignite area around enemies. This upgrade can be found in blacksmith.
+|cffffcc00НОВЕ ПОКРАЩЕННЯ|r
+«Палаючі снаряди» - Завдяки, цьому покращенню атаки катапульт та джаґґернаутів оґрів підпалюють землю у зоні ураження. Покращення може бути зроблене у ковальні.
 }
 
 STRING 2979
 {
-|cffffcc00TECHTREE ALTERATION|r
-Enforcer - Stormreaver clan grunts are fel intoxicated orcs that have spikes on their back that can cause additional damage to enemies.
+|cffffcc00АЛЬТЕРНАТИВНЕ ДЕРЕВО ТЕХНОЛОГІЙ|r
+«Каратель» - Це рубайло з клану бушуючого шторму. Їх піддали сильному впливу скверни, вони мають шипи на спині які завдають додаткової шкоди ворогам.
 }
 
 STRING 2980
 {
-Lost Turtles
+Загублені черепахи
 }
 
 STRING 2981
 {
-The stormreaver clan had sent war turtles to aid Gul'dan in his assault on Caer Darrow. But for some reason these creatures were lost in the lake. Find them and return to your base.
+Клан Бурхливої Бурі відправив бойових черепах на поміч Ґул'дану в його нападі на Каєр-Дерроу. Але за якихось причин ці тварини з південних морів загубилися у прісних водах цього озера. Знайдіть їх аби доєднати до своєї армії.
 }
 
 STRING 2982
 {
-Locate War Turtles (0 of 6 Located)
+Знайдіть всіх бойових черепах (0 з 6 знайдено)
 }
 
 STRING 2983
 {
-Runestone
+Рунічний камінь
 }
 
 STRING 2984
 {
-Gul'dan, hoping to sow the seeds of chaos among the Human and Elven allies, has located a mysterious Elven artifact near the Keep of Caer Darrow. This huge, monolithic Runestone is guarded by a Human Castle on the small island located in the middle of Darrowmere Lake. You must destroy the forces that guard this relic and gain control of the Runestone for use by the Horde.
+Ґул'дан, хоче посіяти хаос між людьми та їхніми союзниками, для цього він знайшов таємничий ельфійський артефакт біля фортеці Каєр-Дерроу. 
+
+Цей величезний монолітний рунічний камінь охороняється силами людського замку, що на острові посеред озера Дерроумер. Необхідні знищити всі ворожі сили, аби отримати доступ до рунічного каменю і використати його силу на користь Орді.
 }
 
 STRING 2985
 {
-Destroy the Human Castle
+Зруйнуйте людський замок
 }
 
 STRING 2986
 {
-Secure the Runestone
+Доставте Ґул'дана до рунічного каменю
 }
 
 STRING 2989
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Runestone
-  -|c007d7d7d Destroy the Human Castle (Completed)|r
-  - Secure the Runestone
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Рунічний камень
+  -|c007d7d7d Знищіть людський замок (Завершено)|r
+   - Доставте Ґул'дана до рунічного каменю
 }
 
 STRING 2992
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Runestone
-  - Destroy the Human Castle
-  -|c007d7d7d Secure the Runestone (Completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Рунічний камінь
+  - Знищіть людський замок
+  -|c007d7d7d Доставте Ґул'дана до рунічного каменю (Завершено)|r
 }
 
 STRING 2993
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Ogre Juggernaut. This heavily armed ship will become your trump card in naval battles with the Alliance. It requires Fortress.
+|cffffcc00ДОСТУПНА НОВА БОЙОВА ОДИНИЦЯ|r
+«Джаґґернаут оґрів» - Цей добре озброєний корабель стане вашим козирем у морських боях з Альянсом. Для будівництва необхідна «фортеця».
 }
 
 STRING 2999
 {
-Lost Turtles
+Загублені черепахи
 }
 
 STRING 3000
 {
-Turtles Located:
+Черепах знайдено:
 }
 
 STRING 3001
 {
-|cff00ff00HINT:|r
-The turtles are hiding beneath the water surface. They could be spotted either by zeppelin or by another turtle.
+|cff00ff00ПІДКАЗКА:|r
+Черепахи ховаються десь під водою. Їх можна помітити або за допомогою дирижабля або за допомогою іншої черепахи.
 }
 
 STRING 3002
 {
-|cffffcc00OPTIONAL QUEST|r
-Lost Turtles
-  - Locate War Turtles (0 of 6 Located)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Загублені черепахи
+  - Знайдіть бойових черепах (0 з 6 знайдено)
 }
 
 STRING 3003
 {
-|cffffcc00SECRET FOUND|r
-Hidden mission unlocked!
+|cffffcc00ЗНАЙДЕНО СЕКРЕТ|r
+Розблоковано секретне завдання!
 }
 
 STRING 3004
 {
-Several weeks later Gul'dan presented his new Ogre-magi to Doomhammer...
+Через декілька тижнів Ґул'дан презентує своїх нових оґрів магів Молоту Згуби…
 }
 
 STRING 3005
@@ -892,13 +894,13 @@ Wooden Floor Tol Barad
 STRING 3011
 // Items: I0La (WC2Orc08Guldan1), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3012
 // Items: I0La (WC2Orc08Guldan1), Description (Description)
 {
-Arrgh...another failed experiment!
+Арґґх… ще один невдалий експеримент!
 }
 
 STRING 3013
@@ -910,13 +912,13 @@ WC2Orc08Guldan1
 STRING 3014
 // Items: I0Lb (WC2Orc08Guldan2), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3015
 // Items: I0Lb (WC2Orc08Guldan2), Description (Description)
 {
-Aaaaah, the Warchief’s little pet, are you too soft to appreciate my craftsmanship? Do these sights make your stomach turn?
+Ааааа, домашній цуцик вождя, ти дуже ніжний аби оцінити мою майстерність? Чи тобі живіт скрутило від цих видовищ?
 }
 
 STRING 3016
@@ -928,13 +930,13 @@ WC2Orc08Guldan2
 STRING 3017
 // Items: I0Lc (WC2Orc08Guldan3), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3018
 // Items: I0Lc (WC2Orc08Guldan3), Description (Description)
 {
-The Warchief himself set me to purpose, and all that I do here is done in his name and with his blessing...
+Вождь якраз і доручив мені цим зайнятись, і все, що тут відбувається я роблю від його імені та з його дозволу…
 }
 
 STRING 3019
@@ -946,13 +948,13 @@ WC2Orc08Guldan3
 STRING 3020
 // Items: I0Ld (WC2Orc08Guldan5), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3021
 // Items: I0Ld (WC2Orc08Guldan5), Description (Description)
 {
-Now, return to your ‘scratching' and leave me to my work, I am expecting someone!
+Тому, займайся тихенько своїми «дряпаннями» і не заважай мені працювати, я очікую декого!
 }
 
 STRING 3022
@@ -964,13 +966,13 @@ WC2Orc08Guldan5
 STRING 3023
 // Items: I0Le (WC2Orc08Guldan4), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3024
 // Items: I0Le (WC2Orc08Guldan4), Description (Description)
 {
-Were you not his plaything, I would have repurposed that witless soul of yours long ago...
+Якби ти не був його тваринкою, я б вже давно витяг твою жалюгідну душу та використав її для діла…
 }
 
 STRING 3025
@@ -982,13 +984,13 @@ WC2Orc08Guldan4
 STRING 3026
 // Items: I0Lf (WC2Orc08Guldan6), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3027
 // Items: I0Lf (WC2Orc08Guldan6), Description (Description)
 {
-Excellent, my apprentices. Now, listen closely.
+Чудово,учню мій. А тепер слухай уважно.
 }
 
 STRING 3028
@@ -1000,13 +1002,13 @@ WC2Orc08Guldan6
 STRING 3029
 // Items: I0Lg (WC2Orc08Guldan8), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3030
 // Items: I0Lg (WC2Orc08Guldan8), Description (Description)
 {
-Their warriors are deadly and their walls are strong, but it is all built on magic, and therein lies their weakness.
+Їхні воїни небезпечні, а стіни високі та міцні, але все це побудовано на магії, і саме в цьому їхня слабкість.
 }
 
 STRING 3031
@@ -1018,13 +1020,13 @@ WC2Orc08Guldan8
 STRING 3032
 // Items: I0Lh (WC2Orc08Guldan7), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3033
 // Items: I0Lh (WC2Orc08Guldan7), Description (Description)
 {
-Just to the north lies the elven kingdom of Quel’Thalas. The Warchief intends to destroy it.
+Трохи на північ лежить ельфійське королівство Квел'Талас. Вождь має намір його знищити.
 }
 
 STRING 3034
@@ -1036,13 +1038,13 @@ WC2Orc08Guldan7
 STRING 3035
 // Items: I0Li (WC2Orc08Guldan9), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3036
 // Items: I0Li (WC2Orc08Guldan9), Description (Description)
 {
-At the center of this lake is an Island housing a powerful relic of the elves, an enchanted runestone, shimmering with arcane energies.
+Тут посеред озера на острові знаходиться могутня реліквія ельфів. Зачарований рунічний камінь, який мерехтить від таємних енергій.
 }
 
 STRING 3037
@@ -1054,13 +1056,13 @@ WC2Orc08Guldan9
 STRING 3038
 // Items: I0Lj (WC2Orc08Guldan10), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3039
 // Items: I0Lj (WC2Orc08Guldan10), Description (Description)
 {
-The runestone and this region is guarded by Alliance troops. If we manage to break the Alliance here and capture the monolith, we will achieve two goals at once…
+Рунічний камінь і вся ця місцевість охороняється військами Альянсу. Якщо нам вдасться розбити Альянс тут і захопити моноліт, то ми вб'ємо одразу двох зайців…
 }
 
 STRING 3040
@@ -1072,13 +1074,13 @@ WC2Orc08Guldan10
 STRING 3041
 // Items: I0Lk (WC2Orc08Guldan11), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3042
 // Items: I0Lk (WC2Orc08Guldan11), Description (Description)
 {
-Exactly...
+Саме так…
 }
 
 STRING 3043
@@ -1090,13 +1092,13 @@ WC2Orc08Guldan11
 STRING 3044
 // Items: I0Ll (WC2Orc08Guldan12), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3045
 // Items: I0Ll (WC2Orc08Guldan12), Description (Description)
 {
-To capture the runestone, I will need to come into direct contact with it. Bring me to the Monolith once you have cleared the island of those pale dogs.
+Щоб заволодіти силою рунічного каменю, мені потрібно буде увійти в прямий контакт з ним. Я маю дістатися до моноліту, як тільки острів буде очищено від тих блідих собак.
 }
 
 STRING 3046
@@ -1108,13 +1110,13 @@ WC2Orc08Guldan12
 STRING 3047
 // Items: I0Lm (WC2Orc08Guldan13), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3048
 // Items: I0Lm (WC2Orc08Guldan13), Description (Description)
 {
-These puny creatures are so frail, but they will serve us well in death.
+Ці нікчемні істоти такі тендітні, але вони добре послужать нам навіть мертивими.
 }
 
 STRING 3049
@@ -1126,13 +1128,13 @@ WC2Orc08Guldan13
 STRING 3050
 // Items: I0Ln (WC2Orc08Guldan14), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3051
 // Items: I0Ln (WC2Orc08Guldan14), Description (Description)
 {
-Build more ships, we must break the Alliance fleet!
+Будуйте більше кораблів, ми маємо розбити флот Альянсу!
 }
 
 STRING 3052
@@ -1144,13 +1146,13 @@ WC2Orc08Guldan14
 STRING 3053
 // Items: I0Lo (WC2Orc08Guldan15), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3054
 // Items: I0Lo (WC2Orc08Guldan15), Description (Description)
 {
-Gnomish submarines? What manner of joke is this? Use our goblin zeppelins to track them down, and send those halflings to a watery grave!
+Підводні човни гномів? Це, що жарт? Терміново потрібні ґоблінські дирижаблі аби бачити їх під водою.Якщо ховаються у воді, то там і будуть поховані.
 }
 
 STRING 3055
@@ -1162,13 +1164,13 @@ WC2Orc08Guldan15
 STRING 3056
 // Items: I0Lp (WC2Orc08Guldan16), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3057
 // Items: I0Lp (WC2Orc08Guldan16), Description (Description)
 {
-Oh, I will, little elf, I will...
+Ооо ще і як оскверню, маленький ельфе, ще і як оскверню…
 }
 
 STRING 3058
@@ -1180,13 +1182,13 @@ WC2Orc08Guldan16
 STRING 3059
 // Items: I0Lq (WC2Orc08Guldan17), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3060
 // Items: I0Lq (WC2Orc08Guldan17), Description (Description)
 {
-The Stormreaver Clan dispatched War Turtles to aid us against the Alliance navy... why are they not here?
+Клан Бурхливої Бурі відправив бойових черепах нам на допомогу проти флоту Альянсу… чому їх досі тут немає?
 }
 
 STRING 3061
@@ -1198,13 +1200,13 @@ WC2Orc08Guldan17
 STRING 3062
 // Items: I0Lr (WC2Orc08Guldan18), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3063
 // Items: I0Lr (WC2Orc08Guldan18), Description (Description)
 {
-Enough excuses! You will find our turtles, Scratcher, or I will report your failure to the Warchief myself...
+Досить цих виправдань! Ти знайдеш наших черепах, Дряпач або я особисто доповім вождю про твою нездатність бути хоч в чомусь корисним…
 }
 
 STRING 3064
@@ -1216,13 +1218,13 @@ WC2Orc08Guldan18
 STRING 3065
 // Items: I0Ls (WC2Orc08Guldan19), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3066
 // Items: I0Ls (WC2Orc08Guldan19), Description (Description)
 {
-See to it that you do.. it would be a shame if your title has made you weak in the face of true labour, Overseer...
+Ну то до справи… Бо буде прикро якщо твій титул «дряпача» зробив тебе здатним лише пером дряпати, і немічним до справжньої роботи, Уток Дряпач-Наглядач.
 }
 
 STRING 3067
@@ -1234,13 +1236,13 @@ WC2Orc08Guldan19
 STRING 3068
 // Items: I0Lt (WC2Orc08Guldan20), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3069
 // Items: I0Lt (WC2Orc08Guldan20), Description (Description)
 {
-The ritual has begun.
+Ритуал розпочато.
 }
 
 STRING 3070
@@ -1252,13 +1254,13 @@ WC2Orc08Guldan20
 STRING 3071
 // Items: I0Lu (WC2Orc08Guldan21), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3072
 // Items: I0Lu (WC2Orc08Guldan21), Description (Description)
 {
-Although the Monolith was destroyed during the ritual, its fragments still emit powerful magic. Collect these fragments and use them to build the altars of great power… with them we shall forge what the Gorian Empire could not… an entire legion of Ogre-magi!
+Хоч моноліт було знищено під час ритуалу, його фрагменти все ще випромінюють потужну магію. Зберіть ці фрагменти та використовуйте їх, щоб побудувати вівтарі великої сили… з ними ми викуємо те, що Ґоріанська імперія оґрів не змогла… ми матимемо легіон Оґрів-магів!
 }
 
 STRING 3073
@@ -1270,13 +1272,13 @@ WC2Orc08Guldan21
 STRING 3074
 // Items: I0Lv (WC2Orc08Guldan22), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3075
 // Items: I0Lv (WC2Orc08Guldan22), Description (Description)
 {
-As you can see, Warchief, my warlocks and I can still contribute to the Horde.
+Як бачиш вождь, я та мої чорнокнижники все ще можемо бути у корисними Орді.
 }
 
 STRING 3076
@@ -1288,13 +1290,13 @@ WC2Orc08Guldan22
 STRING 3077
 // Items: I0Lw (WC2Orc08Guldan23), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3078
 // Items: I0Lw (WC2Orc08Guldan23), Description (Description)
 {
-It will be done, Warchief.
+Буде зроблено, вождь.
 }
 
 STRING 3079
@@ -1306,13 +1308,13 @@ WC2Orc08Guldan23
 STRING 3080
 // Items: I0Lx (WC2Orc08Guldan24), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3081
 // Items: I0Lx (WC2Orc08Guldan24), Description (Description)
 {
-I won’t, Doomhammer, this time I won’t...
+Не повторю Молоте Згуби, поки що не повторю…
 }
 
 STRING 3082
@@ -1324,13 +1326,13 @@ WC2Orc08Guldan24
 STRING 3083
 // Items: I0Ly (WC2Orc08Guldan25), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3084
 // Items: I0Ly (WC2Orc08Guldan25), Description (Description)
 {
-Good as I exactly planned for.
+Все саме так як я і планував.
 }
 
 STRING 3085
@@ -1342,13 +1344,13 @@ WC2Orc08Guldan25
 STRING 3086
 // Items: I0Lz (WC2Orc08Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3087
 // Items: I0Lz (WC2Orc08Utok1), Description (Description)
 {
-How many prisoners must you waste on these despicable tests, Warlock?
+Чорнокнижнику, скільки ще полонених ти змарнуєш на ці свої «експерименти»?
 }
 
 STRING 3088
@@ -1360,13 +1362,13 @@ WC2Orc08Utok1
 STRING 3089
 // Items: I0LA (WC2Orc08Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3090
 // Items: I0LA (WC2Orc08Utok2), Description (Description)
 {
-Surely the Warchief does not tolerate these vile acts! I will be repo...
+Певен, що вождь не потерпить всі мерзенні речі! Я допові…
 }
 
 STRING 3091
@@ -1378,13 +1380,13 @@ WC2Orc08Utok2
 STRING 3092
 // Items: I0LB (WC2Orc08Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3093
 // Items: I0LB (WC2Orc08Utok3), Description (Description)
 {
-This mine has nearly been cleared out already, send out scouts and find a new Goldmine.
+У цій шахті майже не лишилось золота, відправте розвідників, треба знайти нову.
 }
 
 STRING 3094
@@ -1396,13 +1398,13 @@ WC2Orc08Utok3
 STRING 3095
 // Items: I0LC (WC2Orc08Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3096
 // Items: I0LC (WC2Orc08Utok4), Description (Description)
 {
-These rivers are ill suited for the great beasts of the Southern Seas... they must have been slowed down and lost track of our ships...
+Ці холодні річки погано підходять для великих звірів з південних морів… мабуть, вони сповільнилися і втратили слід наших кораблів…
 }
 
 STRING 3097
@@ -1414,13 +1416,13 @@ WC2Orc08Utok4
 STRING 3098
 // Items: I0LE (WC2Orc08Utok5), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3099
 // Items: I0LE (WC2Orc08Utok5), Description (Description)
 {
-I will find them, Gul’dan.
+Я знайду їх, Ґул'дане.
 }
 
 STRING 3100
@@ -1432,13 +1434,13 @@ WC2Orc08Utok5
 STRING 3101
 // Items: I0LD (WC2Orc08Utok6), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3102
 // Items: I0LD (WC2Orc08Utok6), Description (Description)
 {
-That warlock is starting to vex me greatly...
+Щось цей чорнокнижник починає мене дуже дратувати…
 }
 
 STRING 3103
@@ -1450,13 +1452,13 @@ WC2Orc08Utok6
 STRING 3104
 // Items: I0LF (WC2Orc08Utok7), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3105
 // Items: I0LF (WC2Orc08Utok7), Description (Description)
 {
-There they are! This should get that accursed Warlock off my back,these mighty beasts will aid us greatly in securing these waters.
+А ось і вони! Це має мене позбавити від докучань чорнокнижника. До того ж ці могутні звірі допоможуть нам в обороні у цих водах.
 }
 
 STRING 3106
@@ -1468,13 +1470,13 @@ WC2Orc08Utok7
 STRING 3107
 // Items: I0LG (WC2Orc08Utok8), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3108
 // Items: I0LG (WC2Orc08Utok8), Description (Description)
 {
-Wildhammer Dwarves? What are they doing here?
+Дворфи клану Дикого Молота? Що вони тут роблять?
 }
 
 STRING 3109
@@ -1486,13 +1488,14 @@ WC2Orc08Utok8
 STRING 3110
 // Items: I0LH (WC2Orc08ChoGall1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3111
 // Items: I0LH (WC2Orc08ChoGall1), Description (Description)
 {
-|cffffcc00Cho:|r Master, we have brought this Juggernaut to aid you. |n|cffffcc00Gall:|r What is the plan for the Stormreaver troops in this region?
+|cffffcc00Чо:|r Володарю, ми подбали аби доставити цей джаґґернаут для допомоги нам тут.
+|cffffcc00Ґалл:|r Які будуть накази для клану Бурхгливої Бурі у цьому регіоні?
 }
 
 STRING 3112
@@ -1504,13 +1507,13 @@ WC2Orc08ChoGall1
 STRING 3113
 // Items: I0LI (WC2Orc08ChoGall2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3114
 // Items: I0LI (WC2Orc08ChoGall2), Description (Description)
 {
-|cffffcc00Cho:|r Yes... |n|cffffcc00Gall:|r We can feel it from here...
+|cffffcc00Чо:|r Так… |n|cffffcc00Ґалл:|r Ми відчуваємо його навіть звідси…
 }
 
 STRING 3115
@@ -1522,13 +1525,14 @@ WC2Orc08ChoGall2
 STRING 3116
 // Items: I0LJ (WC2Orc08ChoGall3), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3117
 // Items: I0LJ (WC2Orc08ChoGall3), Description (Description)
 {
-|cffffcc00Cho:|r Learn much about the magics of Quel’Thalas… |n|cffffcc00Gall:|r ...and gather the magics here for The Horde!
+|cffffcc00Чо:|r Треба дізнатися більше магію Квел'Таласу…
+|cffffcc00Ґалл:|r …і зібрати всю її на користь Орди!
 }
 
 STRING 3118
@@ -1540,13 +1544,13 @@ WC2Orc08ChoGall3
 STRING 3119
 // Items: I0LK (WC2Orc08ChoGall4), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3120
 // Items: I0LK (WC2Orc08ChoGall4), Description (Description)
 {
-|cffffcc00Cho:|r The Alliance is attacking! |cffffcc00Gall:|r Defend the camp!
+|cffffcc00Чо:|r Альянс напав на нас! |cffffcc00Ґалл:|r Обороняйте табір!
 }
 
 STRING 3121
@@ -1558,13 +1562,13 @@ WC2Orc08ChoGall4
 STRING 3122
 // Items: I0LL (WC2Orc08ChoGall5), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3123
 // Items: I0LL (WC2Orc08ChoGall5), Description (Description)
 {
-|cffffcc00Cho:|r Burn their ships! |cffffcc00Gall:|r Burn them all!
+|cffffcc00Cho:|r Спалити їхні човни! |cffffcc00Gall:|r Спалити їх усіх!
 }
 
 STRING 3124
@@ -1576,13 +1580,13 @@ WC2Orc08ChoGall5
 STRING 3125
 // Items: I0LM (WC2Orc08ChoGall6), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3126
 // Items: I0LM (WC2Orc08ChoGall6), Description (Description)
 {
-|cffffcc00Cho:|r These new Ogre-magi are very impressive master. |n|cffffcc00Gall:|r Their cunning and cruelty is now comparible only with yours!
+|cffffcc00Чо:|r Господарю ці нові оґри-маги неймовірно вражають. |n|cffffcc00Ґалл:|r Їхні хитрість і жорстокість поступаються лише твоїм!
 }
 
 STRING 3127
@@ -1594,13 +1598,13 @@ WC2Orc08ChoGall6
 STRING 3128
 // Items: I0LN (WC2Orc08Doomhammer1), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3129
 // Items: I0LN (WC2Orc08Doomhammer1), Description (Description)
 {
-Quite impressive, warlock. I haven’t seen Ogre-magi in such numbers since the days of the Gorian Empire.
+Досить вражаюче, чорнокнижнику. Я не бачив оґрів магів у такій кількості з часів Ґоріанської імперії на Дренорі.
 }
 
 STRING 3130
@@ -1612,13 +1616,13 @@ WC2Orc08Doomhammer1
 STRING 3131
 // Items: I0LO (WC2Orc08Doomhammer2), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3132
 // Items: I0LO (WC2Orc08Doomhammer2), Description (Description)
 {
-I want you to send these mighty brutes to all orcish forces in the region. They will be of great use as we escalate our assault on Lordaeron and Quel’Thalas.
+Я хочу, щоб ти відправив цих кремезних велетнів у всі орочі табори, що у цьому регіоні. Вони будуть вкрай корисні під час наших просувань до Лордерону та Квел'Таласу.
 }
 
 STRING 3133
@@ -1630,13 +1634,13 @@ WC2Orc08Doomhammer2
 STRING 3134
 // Items: I0LP (WC2Orc08Doomhammer3), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3135
 // Items: I0LP (WC2Orc08Doomhammer3), Description (Description)
 {
-But remember, Gul’dan, my eyes are still upon you and your clan. You and your creations are to remain utterly loyal to me. Do not repeat the mistakes of the past, or suffer the consequences.
+Але пам'ятай… Ґул'дане, мої очі все ще спостерігають за тобою і твоїм кланом. Ти та твої творіння маєте лишатися безперечно відданими мені. Не повторюй помилок минулого, або постраждаєш від наслідків.
 }
 
 STRING 3136
@@ -1648,13 +1652,13 @@ WC2Orc08Doomhammer3
 STRING 3137
 // Items: I0LQ (WC2Orc08ElfArchmage1), Tip (Tooltip - Basic)
 {
-Elven Mage
+Ельфійський архімаг
 }
 
 STRING 3138
 // Items: I0LQ (WC2Orc08ElfArchmage1), Description (Description)
 {
-You will never desecrate this sacred site, Demon Spawn!
+Ти ніколи не оскверниш це священне місце, демонське відріддя!
 }
 
 STRING 3139
@@ -1666,13 +1670,13 @@ WC2Orc08ElfArchmage1
 STRING 3140
 // Items: I0LR (WC2Orc08Wildhammer1), Tip (Tooltip - Basic)
 {
-Wildhammer Dwarf
+Дворф з клану Дикого Молота
 }
 
 STRING 3141
 // Items: I0LR (WC2Orc08Wildhammer1), Description (Description)
 {
-What! we’re being attacked by the Green-skin savages! defend the camp laddies!
+Що?! Зеленошкірі дикуни на нас напали! Захищайте табір дівчатка!
 }
 
 STRING 3142
@@ -1702,25 +1706,25 @@ Animated Bushes_vt
 STRING 3147
 // Units: n60T (Beast Mound), Name (Name)
 {
-Beast Mound
+Лігво сасквочей
 }
 
 STRING 3148
 // Units: n60T (Beast Mound), Tip (Tooltip - Basic)
 {
-Beast Mound
+Лігво сасквочей
 }
 
 STRING 3149
 // Items: I1LA (WC2Orc10THgrunt3), Tip (Tooltip - Basic)
 {
-Enforcer
+Каратель
 }
 
 STRING 3150
 // Items: I1LA (WC2Orc10THgrunt3), Description (Description)
 {
-We have captured the place of Power!
+Ми захопили місце сили!
 }
 
 STRING 3151
@@ -1758,47 +1762,47 @@ STRING 3156
 STRING 3157
 // Items: IQL0 (Lost Turtles), Tip (Tooltip - Basic)
 {
-  - Locate War Turtles (
+  - Знайти бойових черепах (
 }
 
 STRING 3158
 // Items: IQL0 (Lost Turtles), Ubertip (Tooltip - Extended)
 {
- of 6 Located)
+ з 6 знайдено)
 }
 
 STRING 3159
 // Items: IQL0 (Lost Turtles), Description (Description)
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
 }
 
 STRING 3160
 // Items: IQL0 (Lost Turtles), Name (Name)
 {
-Lost Turtles
+Загублені черепахи
 }
 
 STRING 3161
 // Items: IQL1 (Friendly target has to be an Infernal.), Name (Name)
 {
-Friendly target has to be an Infernal.
+Тільки інфернал може бути використаний в якості дружньої цілі.
 }
 
 STRING 3162
 // Items: IQL1 (Friendly target has to be an Infernal.), Description (Description)
 {
-Locate War Turtles (
+Знайти бойових черепах (
 }
 
 STRING 3163
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your camp is destroyed.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Ваш табір зруйновано.
 }
 
 STRING 3164
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
