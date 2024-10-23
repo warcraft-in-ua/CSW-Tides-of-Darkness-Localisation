@@ -26,7 +26,7 @@ STRING 283
 
 STRING 297
 {
-Shadow Council Remnants
+Залишки Тіньвої Ради
 }
 
 STRING 330
@@ -42,7 +42,7 @@ Orcish Horde
 
 STRING 407
 {
-Twilight's Hammer clan
+Клан Сутінкового Молота
 }
 
 STRING 410
@@ -92,7 +92,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 465
 {
-Unholy
+Нечестивість
 }
 
 STRING 466
@@ -110,7 +110,7 @@ S
 STRING 478
 // Units: nwc1 (Cage), Name (Name)
 {
-Cage
+Клітка
 }
 
 STRING 479
@@ -179,7 +179,7 @@ Attacks land units.
 STRING 795
 // Units: O999 (Warlord), Propernames (Proper Names)
 {
-Dal'Rend Blackhand
+Дел'Ренд Чорнорук
 }
 
 STRING 796
@@ -245,7 +245,7 @@ Shaman (|cffffcc00S|r)
 STRING 851
 // Units: O998 (Shaman), Ubertip (Tooltip - Extended)
 {
-Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+A mystic hero who excels in ranged combat and reconnaissance. Can learn Chain Lightning, Long Sight, Spirit Wolf, and Earthquake.|n|n|cffffcc00Attacks ground and air targets.|r
 }
 
 STRING 882
@@ -263,13 +263,13 @@ Orcish Stone Wall
 STRING 913
 // Units: n00P (Beholder), Name (Name)
 {
-Beholder
+Споглядач
 }
 
 STRING 917
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Укріплення з шипів
 }
 
 STRING 990
@@ -281,13 +281,13 @@ Dummy
 STRING 1010
 // Units: n60Z (Spiders), Name (Name)
 {
-Spiders
+Павуки
 }
 
 STRING 1011
 // Units: n60Z (Spiders), Tip (Tooltip - Basic)
 {
-Spiders
+Павуки
 }
 
 STRING 1050
@@ -299,13 +299,13 @@ Dummy
 STRING 1072
 // Units: n617 (Felguard), Name (Name)
 {
-Felguard
+Страж скверни
 }
 
 STRING 1074
-// Units: n61A (Felhunter), Name (Name)
+// Units: n61A (Мисливець скверни), Name (Name)
 {
-Felhunter
+Мисливець скверни
 }
 
 STRING 1296
@@ -339,7 +339,7 @@ Platform
 }
 
 STRING 1326
-// Destructibles: B00V (Urn), EditorSuffix (Editor Suffix)
+// Destructibles: B00V (Стародавня урна), EditorSuffix (Editor Suffix)
 {
 (2)
 }
@@ -383,7 +383,7 @@ Long Cliff Bridge
 STRING 1357
 // Destructibles: B62T (Egg), Name (Name)
 {
-Egg
+Яйце
 }
 
 STRING 1362
@@ -1206,7 +1206,7 @@ Fake Sky Ashenvale
 STRING 3225
 // Units: n00E (Highborne Ghost), Name (Name)
 {
-Highborne Ghost
+Привид високородного ельфа
 }
 
 STRING 3226
@@ -1222,7 +1222,7 @@ Suspicious Dirt Pile
 }
 
 STRING 3228
-// Units: n61A (Felhunter), EditorSuffix (Name - Editor Suffix)
+// Units: n61A (Мисливець скверни), EditorSuffix (Name - Editor Suffix)
 {
 (ToS)
 }
@@ -1230,7 +1230,7 @@ STRING 3228
 STRING 3234
 // Units: n00F (Doomguard), Name (Name)
 {
-Doomguard
+Страж згуби
 }
 
 STRING 3310
@@ -1272,7 +1272,7 @@ ToS Column Thicc
 STRING 3320
 // Units: n00G (Highborne Ghost), Name (Name)
 {
-Highborne Ghost
+Привид високородного ельфа
 }
 
 STRING 3322
@@ -1282,37 +1282,37 @@ STRING 3322
 }
 
 STRING 3323
-// Abilities: A889 (Seduction), Tip (Tooltip - Normal)
+// Abilities: A889 (Спокуса), Tip (Tooltip - Normal)
 {
-Seduction
+Спокуса
 }
 
 STRING 3324
-// Abilities: A889 (Seduction), Name (Name)
+// Abilities: A889 (Спокуса), Name (Name)
 {
-Seduction
+Спокуса
 }
 
 STRING 3325
-// Buffs/Effects: BSNP (Seduction), EditorName (Name (Editor Only))
+// Buffs/Effects: BSNP (Спокуса), EditorName (Name (Editor Only))
 {
-Seduction
+Спокуса
 }
 
 STRING 3326
-// Buffs/Effects: BSNP (Seduction), EditorSuffix (Editor Suffix)
+// Buffs/Effects: BSNP (Спокуса), EditorSuffix (Editor Suffix)
 {
 (Pause)
 }
 
 STRING 3327
-// Buffs/Effects: BSNS (Seduction), EditorName (Name (Editor Only))
+// Buffs/Effects: BSNS (Спокуса), EditorName (Name (Editor Only))
 {
-Seduction
+Спокуса
 }
 
 STRING 3328
-// Buffs/Effects: BSNS (Seduction), EditorSuffix (Editor Suffix)
+// Buffs/Effects: BSNS (Спокуса), EditorSuffix (Editor Suffix)
 {
 (Stun)
 }
@@ -1349,12 +1349,12 @@ ToS Stairs 0
 
 STRING 3335
 {
-Burning Legion
+Палаючий Легіон
 }
 
 STRING 3336
 {
-Highborne Ghosts
+Привиди високородних ельфів
 }
 
 STRING 3337
@@ -1412,181 +1412,181 @@ STRING 3345
 STRING 3346
 // Items: I001 (Mysterious Fragment), Name (Name)
 {
-Mysterious Fragment
+Фрагмент загадкового артефакту
 }
 
 STRING 3347
 // Items: I001 (Mysterious Fragment), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3348
 // Items: I001 (Mysterious Fragment), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3349
 // Items: I003 (Mysterious Fragment +1), Name (Name)
 {
-Mysterious Fragment +1
+Загадковий фрагмент +1
 }
 
 STRING 3350
 // Items: I003 (Mysterious Fragment +1), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +1.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 1 од.
 }
 
 STRING 3351
 // Items: I003 (Mysterious Fragment +1), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3352
 // Items: I005 (Mysterious Fragment +2), Name (Name)
 {
-Mysterious Fragment +2
+Загадковий фрагмент +2
 }
 
 STRING 3353
 // Items: I005 (Mysterious Fragment +2), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +2.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 2 од.
 }
 
 STRING 3354
 // Items: I005 (Mysterious Fragment +2), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3355
 // Items: I006 (Mysterious Fragment +3), Name (Name)
 {
-Mysterious Fragment +3
+Загадковий фрагмент +3
 }
 
 STRING 3356
 // Items: I006 (Mysterious Fragment +3), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +3.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 3 од.
 }
 
 STRING 3357
 // Items: I006 (Mysterious Fragment +3), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3358
 // Items: I007 (Mysterious Fragment +4), Name (Name)
 {
-Mysterious Fragment +4
+Загадковий фрагмент +4
 }
 
 STRING 3359
 // Items: I007 (Mysterious Fragment +4), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +4.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 4 од.
 }
 
 STRING 3360
 // Items: I007 (Mysterious Fragment +4), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3361
 // Items: I008 (Mysterious Fragment +5), Name (Name)
 {
-Mysterious Fragment +5
+Загадковий фрагмент +5
 }
 
 STRING 3362
 // Items: I008 (Mysterious Fragment +5), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +5.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 5 од.
 }
 
 STRING 3363
 // Items: I008 (Mysterious Fragment +5), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3364
 // Items: I009 (Mysterious Fragment +6), Name (Name)
 {
-Mysterious Fragment +6
+Загадковий фрагмент +6
 }
 
 STRING 3365
 // Items: I009 (Mysterious Fragment +6), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +6.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 6 од.
 }
 
 STRING 3366
 // Items: I009 (Mysterious Fragment +6), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3367
 // Items: I00A (Mysterious Fragment +7), Name (Name)
 {
-Mysterious Fragment +7
+Загадковий фрагмент +7
 }
 
 STRING 3368
 // Items: I00A (Mysterious Fragment +7), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +7.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 7 од.
 }
 
 STRING 3369
 // Items: I00A (Mysterious Fragment +7), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3370
 // Items: I00B (Mysterious Fragment +8), Name (Name)
 {
-Mysterious Fragment +8
+Загадковий фрагмент +8
 }
 
 STRING 3371
 // Items: I00B (Mysterious Fragment +8), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +8.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 8 од.
 }
 
 STRING 3372
 // Items: I00B (Mysterious Fragment +8), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3373
 // Items: I00C (Mysterious Fragment +9), Name (Name)
 {
-Mysterious Fragment +9
+Загадковий фрагмент +9
 }
 
 STRING 3374
 // Items: I00C (Mysterious Fragment +9), Ubertip (Tooltip - Extended)
 {
-A fragment of the mysterious and powerful Artifact. It increases the wielder's damage by +9.
+Фрагмент загадкового і могутнього артефакту. Збільшує атаку власника на 9 од.
 }
 
 STRING 3375
 // Items: I00C (Mysterious Fragment +9), Description (Description)
 {
-A fragment of the mysterious and powerful Artifact.
+Фрагмент загадкового та могутнього артефакту.
 }
 
 STRING 3379
@@ -1658,7 +1658,7 @@ Gore 2
 STRING 3399
 // Units: n00K (Tomb Guard), Name (Name)
 {
-Tomb Guard
+Страж гробниці
 }
 
 STRING 3400
@@ -1682,13 +1682,13 @@ STRING 3402
 STRING 3403
 // Units: h003 (Restless Priestess), Name (Name)
 {
-Restless Priestess
+Неупокоєна жриця
 }
 
 STRING 3404
 // Units: n00I (Restless Sentry), Name (Name)
 {
-Restless Sentry
+Неупокоєний вартовий
 }
 
 STRING 3405
@@ -1838,25 +1838,25 @@ STRING 3430
 STRING 3431
 // Units: n00N (Unstable Portal), Name (Name)
 {
-Unstable Portal
+Нестабільний портал
 }
 
 STRING 3432
 // Units: n00L (Faldorei Broodmother), Name (Name)
 {
-Faldorei Broodmother
+Мати виводка Фелдорай
 }
 
 STRING 3433
 // Units: n00M (Tomb Stalker), Name (Name)
 {
-Tomb Stalker
+Ловець гробниці
 }
 
 STRING 3434
 // Units: n00H (Spider Eggs), Name (Name)
 {
-Spider Eggs
+Яйця павуків
 }
 
 STRING 3435
@@ -1898,7 +1898,7 @@ STRING 3440
 STRING 3441
 // Units: n00O (Tomb Crawler), Name (Name)
 {
-Tomb Crawler
+Повзун із гробниці
 }
 
 STRING 3442
@@ -1914,31 +1914,31 @@ Spooders
 }
 
 STRING 3447
-// Destructibles: B00U (Urn), Name (Name)
+// Destructibles: B00U (Стародавня урна), Name (Name)
 {
-Urn
+Стародавня урна
 }
 
 STRING 3448
-// Destructibles: B00U (Urn), EditorSuffix (Editor Suffix)
+// Destructibles: B00U (Стародавня урна), EditorSuffix (Editor Suffix)
 {
 (1)
 }
 
 STRING 3449
-// Destructibles: B00V (Urn), Name (Name)
+// Destructibles: B00V (Стародавня урна), Name (Name)
 {
-Urn
+Стародавня урна
 }
 
 STRING 3451
-// Destructibles: B00W (Urn), Name (Name)
+// Destructibles: B00W (Стародавня урна), Name (Name)
 {
-Urn
+Стародавня урна
 }
 
 STRING 3452
-// Destructibles: B00W (Urn), EditorSuffix (Editor Suffix)
+// Destructibles: B00W (Стародавня урна), EditorSuffix (Editor Suffix)
 {
 (3)
 }
@@ -1958,7 +1958,7 @@ STRING 3459
 STRING 3460
 // Units: n00Q (Pirate Den), Name (Name)
 {
-Pirate Den
+Лігво піратів
 }
 
 STRING 3461
@@ -1986,9 +1986,9 @@ Wall Banner Twilights Hammer
 }
 
 STRING 3468
-// Destructibles: B00X (- Felhunter), Name (Name)
+// Destructibles: B00X (- Мисливець скверни), Name (Name)
 {
-- Felhunter
+- Мисливець скверни
 }
 
 STRING 3469
@@ -2078,7 +2078,7 @@ STRING 3489
 STRING 3490
 // Units: H004 (Grand Magna), Propernames (Proper Names)
 {
-Aegwynn
+Ейґвін
 }
 
 STRING 3491
@@ -2114,279 +2114,279 @@ STRING 3495
 STRING 3540
 // Items: I0Li (WC2Orc13Zuluhed_Runes2), Description (Description)
 {
-A powerful artifact... there is no doubt about that. It could be related to the fallen Titan’s power.
+Це дуже могутній артефакт… в цьому нема сумнівів. Він може бути пов'язаний з силою полеглого титана.
 }
 
 STRING 3544
 // Items: I0LN (WC2Orc13Rend_PirateEncounter1), Description (Description)
 {
-Aah the Seadogs, ever the opportunists! Very well, we can use reinforcements.
+Ооо морські вовки, найманці які за золото готові хоч за чорта лисого битися! Можемо використати їх як підкріплення
 }
 
 STRING 3581
 {
-Fragments Found  |cffffffff10/10|r
+Фрагментів знайдено |cffffffff10/10|r
 }
 
 STRING 3582
 {
-Fragments Found  |cffffffff9/10|r
+Фрагментів знайдено |cffffffff9/10|r
 }
 
 STRING 3583
 {
-Fragments Found  |cffffffff8/10|r
+Фрагментів знайдено |cffffffff8/10|r
 }
 
 STRING 3584
 {
-Fragments Found  |cffffffff7/10|r
+Фрагментів знайдено |cffffffff7/10|r
 }
 
 STRING 3585
 {
-Fragments Found  |cffffffff6/10|r
+Фрагментів знайдено |cffffffff6/10|r
 }
 
 STRING 3586
 {
-Fragments Found  |cffffffff5/10|r
+Фрагментів знайдено |cffffffff5/10|r
 }
 
 STRING 3587
 {
-Fragments Found  |cffffffff4/10|r
+Фрагментів знайдено |cffffffff4/10|r
 }
 
 STRING 3588
 {
-Fragments Found  |cffffffff3/10|r
+Фрагментів знайдено |cffffffff3/10|r
 }
 
 STRING 3589
 {
-Fragments Found  |cffffffff2/10|r
+Фрагментів знайдено |cffffffff2/10|r
 }
 
 STRING 3590
 {
-Fragments Found  |cffffffff1/10|r
+Фрагментів знайдено |cffffffff1/10|r
 }
 
 STRING 3591
 {
-|cffffcc00MISSION FAILED|r
-A hero has been slain.
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+Вашого героя було вбито.
 }
 
 STRING 3592
 {
-Find the Artifact Fragments
+Знайдіть фрагменти загадкового артефакту
 }
 
 STRING 3593
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Mysterious Artifact
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Загадковий артефакт
 }
 
 STRING 3606
 {
-Find the Artifact Fragments (3 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (3 з 10 знайдено)
 }
 
 STRING 3608
 {
-Find the Artifact Fragments (2 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (2 з 10 знайдено)
 }
 
 STRING 3609
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (2 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (2 з 10 знайдено)
 }
 
 STRING 3610
 {
-|cffffcc00OPTIONAL QUEST|r
-Mysterious Artifact
-  - Find the Artifact Fragments (1 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (1 з 10 знайдено)
 }
 
 STRING 3611
 {
-Mysterious Artifact
+Загадковий артефакт
 }
 
 STRING 3612
 {
-You found a fragment of an incredibly powerful and ancient Artifact. You feel that it is linked with the fate of this place.
-If you collect all 10 shards of this artifact it will grow stronger and the truth will be revealed...
+Ви знайшли фрагмент надзвичайно могутнього та стародавнього артефакту. Ви відчуваєте, що він пов'язаний із долею цього місця.
+Якщо ви зберете 10 фрагментів цього артефакту, він відновить свою міць, і розкриє правду…
 }
 
 STRING 3613
 {
-Find the Artifact Fragments (1 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (1 з 10 знайдено)
 }
 
 STRING 3620
 {
-|cffffcc00MAIN QUEST FAILED|r
-Escape from the Tomb
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Втекти з гробниці
 }
 
 STRING 3621
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Escape from the Tomb
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Втекти з гробниці
 }
 
 STRING 3622
 {
-|cffffcc00MAIN QUEST|r
-Escape from the Tomb
-  - Bring Zuluhed to the tomb entrance
-  - Zuluhed must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Втекти з гробниці
+  - Довести Зулугеда до входу гробниці
+  - Зулугед має вижити
 }
 
 STRING 3623
 {
-The Tomb of Sargeras
+Гробниця Сарґераса
 }
 
 STRING 3624
 {
-With all demons of the tomb awaken and ready to attack, time is running out. Zuluhed must use his Leap ability to reach the surface and escape before the tomb becomes his own.
+Часу обмаль: Всі демони в гробниці прокинулись і готові до бою. Зулугед має використовувати свою здатність Дикий стрибок, щоб як умога швидше досягти поверхні й втекти, перш ніж ця гробниця стане його власною.
 }
 
 STRING 3625
 {
-Bring Zuluhed to the tomb entrance
+Доведіть Зулугеда до входу у гробницю
 }
 
 STRING 3626
 {
-Zuluhed must survive
+Зулугед має вижити
 }
 
 STRING 3627
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-The Search for Gul'dan
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Пошуки Ґул'дана
 }
 
 STRING 3628
 {
-|cffffcc00MAIN QUEST|r
-The Search for Gul'dan
-  - Find Gul'dan
-  - The heroes must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Пошуки Ґул'дана
+  - Знайдіть Ґул'дана
+  - Всі ваші герої мають вижити
 }
 
 STRING 3629
 {
-The Search for Gul'dan
+Пошуки Ґул'дана
 }
 
 STRING 3630
 {
-Gul'dan's nefarious plans have led him deep into the Tomb of Sargeras. You must find the Traitor and discover what he's up to.
+Мерзенні плани Ґул'дана привели його у самі глибини гробниці Сарґераса. Вам необхідно знайти зрадника і розкрити його задуми.
 }
 
 STRING 3631
 {
-Find Gul'dan
+Знайдіть Ґул'дана
 }
 
 STRING 3632
 {
-The heroes must survive
+Всі герої мають вижити
 }
 
 STRING 3633
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (3 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (3 з 10 знайдено)  
 }
 
 STRING 3634
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (4 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (4 з 10 знайдено)
 }
 
 STRING 3635
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (5 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (5 з 10 знайдено)
 }
 
 STRING 3636
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (6 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (6 з 10 знайдено)
 }
 
 STRING 3637
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (7 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (7 з 10 знайдено)
 }
 
 STRING 3638
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (8 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (8 з 10 знайдено)
 }
 
 STRING 3639
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Mysterious Artifact
-  - Find the Artifact Fragments (9 of 10 Found)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Загадковий артефакт
+  - Знайдіть фрагменти артефакту (9 з 10 знайдено)
 }
 
 STRING 3640
 {
-Find the Artifact Fragments (4 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (4 з 10 знайдено)
 }
 
 STRING 3641
 {
-Find the Artifact Fragments (5 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (5 з 10 знайдено)
 }
 
 STRING 3642
 {
-Find the Artifact Fragments (6 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (6 з 10 знайдено)
 }
 
 STRING 3643
 {
-Find the Artifact Fragments (7 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (7 з 10 знайдено)
 }
 
 STRING 3644
 {
-Find the Artifact Fragments (8 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (8 з 10 знайдено)
 }
 
 STRING 3645
 {
-Find the Artifact Fragments (9 of 10 Found)
+Знайдіть фрагменти загадкового артефакту (9 з 10 знайдено)
 }
 
 STRING 3654
 // Units: n00S (Pit Lord), Name (Name)
 {
-Pit Lord
+Владика пекельної безодні
 }
 
 STRING 3655
@@ -2396,27 +2396,27 @@ STRING 3655
 
 STRING 3656
 {
-Tomb Guardians
+Вартові гробниці
 }
 
 STRING 3657
 {
-Shadow Council Remnants
+Залишки Тіньвої Ради
 }
 
 STRING 3658
 {
-Twilight's Hammer Clan
+Клан Сутінкового Молота
 }
 
 STRING 3659
 {
-Highborne Ghosts
+Привиди високородних ельфів
 }
 
 STRING 3661
 {
-Time Remaining
+У Зулугеда вистачить сил ще на:
 }
 
 STRING 3666
@@ -2426,22 +2426,22 @@ STRING 3666
 
 STRING 3669
 {
-Defeat Rakmar Sharpfang
+Перемогти Ракмара Гостроклика
 
 }
 
 STRING 3670
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Escape from the Tomb
-  - Defeat Rakmar Sharpfang
-  - Zuluhed must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Втекти з гробниці
+  - Ракмара Гостроклика
+  - Зулугед має вижити
 }
 
 STRING 3672
 // Units: U006 (Death Knight), Propernames (Proper Names)
 {
-Rakmar Sharpfang
+Ракмар Гостроклик
 }
 
 STRING 3675
@@ -2505,13 +2505,13 @@ Causes a bladestorm of destructive force around the Blademaster, rendering him i
 }
 
 STRING 3686
-// Units: n00U (Felhunter), Name (Name)
+// Units: n00U (Мисливець скверни), Name (Name)
 {
-Felhunter
+Мисливець скверни
 }
 
 STRING 3687
-// Units: n00U (Felhunter), EditorSuffix (Name - Editor Suffix)
+// Units: n00U (Мисливець скверни), EditorSuffix (Name - Editor Suffix)
 {
 (Escape)
 }
@@ -2585,7 +2585,7 @@ STRING 3712
 STRING 3713
 // Units: H004 (Grand Magna), Name (Name)
 {
-Grand Magna
+Верховна Маґна  
 }
 
 STRING 3714
@@ -2757,7 +2757,7 @@ Tent
 
 STRING 3752
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 3768
@@ -2779,7 +2779,7 @@ STRING 3783
 }
 
 STRING 3786
-// Abilities: A889 (Seduction), EditorSuffix (Editor Suffix)
+// Abilities: A889 (Спокуса), EditorSuffix (Editor Suffix)
 {
 (Succubus)
 }
@@ -2787,19 +2787,19 @@ STRING 3786
 STRING 3787
 // Buffs/Effects: B99I (Dark Presence), EditorName (Name (Editor Only))
 {
-Dark Presence
+Темна присутність
 }
 
 STRING 3788
 // Buffs/Effects: B99I (Dark Presence), Bufftip (Tooltip)
 {
-Dark Presence
+Темна присутність
 }
 
 STRING 3789
 // Buffs/Effects: B99I (Dark Presence), Buffubertip (Tooltip - Extended)
 {
-You feel a terrible dark presence suppressing you...
+Ви відчуваєте, як жахлива темна присутність пригнічує вас…
 }
 
 STRING 3790
@@ -2809,7 +2809,7 @@ Water Plane HD
 }
 
 STRING 3791
-// Abilities: A889 (Seduction), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A889 (Спокуса), Ubertip (Tooltip - Normal - Extended)
 {
 Puts a target enemy unit to charmed stun for <ACsl,Dur1> seconds. A charmed unit can be awoken by attacking it.
 }
@@ -2817,13 +2817,13 @@ Puts a target enemy unit to charmed stun for <ACsl,Dur1> seconds. A charmed unit
 STRING 3792
 // Buffs/Effects: BSND (), Bufftip (Tooltip)
 {
-Seduction
+Спокуса
 }
 
 STRING 3793
 // Buffs/Effects: BSND (), Buffubertip (Tooltip - Extended)
 {
-This unit is seduced, it cannot move, attack, or cast spells. Attacking it will wake it up.
+Ця одиниця знаходиться у стані спокуси, вона не може рухатись, атакувати чи читати закляття. Нанесення шкоді одиниці зіб'є стан спокуси.
 }
 
 STRING 3794
@@ -2877,7 +2877,7 @@ Maim Blackhand
 STRING 3802
 // Items: I0LA (WC2Orc13Maim1), Description (Description)
 {
-Enough talk! The honorless scum must pay for this!
+Годі теревенити! Це сміття без честі має заплатити за все!
 }
 
 STRING 3803
@@ -2895,7 +2895,7 @@ Maim Blackhand
 STRING 3805
 // Items: I0LB (WC2Orc13Maim_Shreds1), Description (Description)
 {
-Our work here is finished! We must get out of here brother!
+Наша робота тут зроблена! Треба вшиватися брате!
 }
 
 STRING 3806
@@ -2913,7 +2913,7 @@ Maim Blackhand
 STRING 3808
 // Items: I0LC (WC2Orc13Maim1_SpiderBoss1), Description (Description)
 {
-Wha..what is this thing!? Kill it! Kill it fast!
+Що… Що це за тварюка!? Вбити! Вбити її негайно!
 }
 
 STRING 3809
@@ -2949,7 +2949,7 @@ Maim Blackhand
 STRING 3814
 // Items: I0LE (WC2Orc13Maim1_SpidersTrigger1), Description (Description)
 {
-Ugh! I hate spiders, kill 'em fast!
+Угмм! Ненавиджу павуків, вбити їх, швидко!
 }
 
 STRING 3815
@@ -2967,7 +2967,7 @@ Maim Blackhand
 STRING 3817
 // Items: I0LF (WC2Orc13Maim1_SpidersTrigger2), Description (Description)
 {
-Ugh...
+Угрхх…
 }
 
 STRING 3818
@@ -2985,7 +2985,7 @@ Rend Blackhand
 STRING 3820
 // Items: I0LG (WC2Orc13Rend1), Description (Description)
 {
-I have faced many great enemies throughout my life, Zuluhed. Ogres, Arakkoa, and once even a Genesaur... none gave me pause... but whatever is waiting for us down there...
+Протягом свого життя я зустрічав багато сильних ворогів Зулугеде. Оґри, Араккоа, одного разу навіть з напівбогом Генезотавром… ніхто з них мене не спинив… але те що чекає нас тут це…
 }
 
 STRING 3821
@@ -3003,7 +3003,7 @@ Rend Blackhand
 STRING 3823
 // Items: I0LH (WC2Orc13Rend2), Description (Description)
 {
-Agreed, few things can make orcs scream like that... this... this is wrong...
+Згоден, не так багато речей можуть змусити орків верещати наче свині… це… це все не правильно…
 }
 
 STRING 3824
@@ -3021,7 +3021,7 @@ Rend Blackhand
 STRING 3826
 // Items: I0LI (WC2Orc13Rend_Shreds1), Description (Description)
 {
-The Warlock has been torn to shreds! And whoever killed him has caught the attention of every demon in this place! They’re coming!
+Чорнокнижника розірвали на шматки! І той, хто його вбив, привернув увагу демонів, всіх до одного, що тут є! Вони йдуть!
 }
 
 STRING 3827
@@ -3039,7 +3039,7 @@ Rend Blackhand
 STRING 3829
 // Items: I0LJ (WC2Orc13Rend_GrabHead1), Description (Description)
 {
-Feel free Zuluhed… grab it and let’s go!
+Добре Зулугеде… хапай її швиденько і пішли!
 }
 
 STRING 3830
@@ -3057,7 +3057,7 @@ Rend Blackhand
 STRING 3832
 // Items: I0LK (WC2Orc13Rend_Farewell1), Description (Description)
 {
-Dammit! Zuluhed! We can’t reach you! But I see a tunnel that might lead to the exit!
+Прокляття! Зулугеде! Нам тебе не дістатися! Але я бачу прохід який може вести до виходу!
 }
 
 STRING 3833
@@ -3075,7 +3075,7 @@ Rend Blackhand
 STRING 3835
 // Items: I0LL (WC2Orc13Rend_Farewell2), Description (Description)
 {
-Very well... Zuluhed. Aka’magosh! See you on the surface!
+Добре тоді… Зулугеде. Ака'маґош! Зустрінемось на поверхні!
 }
 
 STRING 3836
@@ -3093,7 +3093,7 @@ Rend Blackhand
 STRING 3838
 // Items: I0LM (WC2Orc13Rend_OrcScreams1), Description (Description)
 {
-Poor mangy dogs... this is what happens when you follow a crazed power-hungry warlock...
+Нещасті облізлі собаки… ось що буває коли слідкуєш за божевільним владолюбним чорнокнижником…
 }
 
 STRING 3839
@@ -3123,7 +3123,7 @@ Rend Blackhand
 STRING 3844
 // Items: I0LO (WC2Orc13Rend_Rune1), Description (Description)
 {
-Again he mentioned this mysterious eye. What could it be?
+Він знову згадав це таємниче око. Що це може бути?
 }
 
 STRING 3845
@@ -3141,7 +3141,7 @@ Rend Blackhand
 STRING 3847
 // Items: I0LP (WC2Orc13Rend_SpidersTrigger1), Description (Description)
 {
-Ah, look brother, more spiders to fight!
+О брате, ти глянь, тут ще павуки!
 }
 
 STRING 3848
@@ -3159,7 +3159,7 @@ Rend Blackhand
 STRING 3850
 // Items: I0LQ (WC2Orc13Rend_THammer1), Description (Description)
 {
-Stand down, crazed dog! We are not Demons!
+Заспокойся, скажена собака! Ми не демони!
 }
 
 STRING 3851
@@ -3177,7 +3177,7 @@ Rend Blackhand
 STRING 3853
 // Items: I0LR (WC2Orc13Rend_WarlockServants1), Description (Description)
 {
-Servants of the Warlock, kill them all!
+Слуги чорнокнижника, вбити їх усіх!
 }
 
 STRING 3854
@@ -3195,7 +3195,7 @@ Zuluhed
 STRING 3856
 // Items: I0LS (WC2Orc13Zuluhed1), Description (Description)
 {
-What is wrong? You seem to be on edge...
+Ренде, щось не так? Ти виглядаєш напруженим…
 }
 
 STRING 3857
@@ -3213,7 +3213,7 @@ Zuluhed
 STRING 3859
 // Items: I0LT (WC2Orc13Zuluhed2), Description (Description)
 {
-There is no shame in fearing the unnatural, Rend. Steel yourself by remembering that we will face the horrors of this place together... whatever happens, you will not stand alone.
+Нема сорому в тому аби боятися неприродного, Ренде. Нехай тебе укріпить те, що з жахами цього місця ми зіштовхнемося разом… що б не трапилось, ти не лишишся один.
 }
 
 STRING 3860
@@ -3231,7 +3231,7 @@ Zuluhed
 STRING 3862
 // Items: I0LU (WC2Orc13Zuluhed3), Description (Description)
 {
-Hmmm... These are orcish runes. No doubt Gul'dan means to use them to find his way out again.
+Хммм… Це орчі руни. Нема сумнів, що Ґул'дан мав на меті використати їх щоб знайду дорогу назад.
 }
 
 STRING 3863
@@ -3249,7 +3249,7 @@ Zuluhed
 STRING 3865
 // Items: I0LV (WC2Orc13Zuluhed4), Description (Description)
 {
-Interesting... he describes his arrival to the tomb...
+Цікаво… він описує в них свій прихід до гробниці…
 }
 
 STRING 3866
@@ -3267,7 +3267,7 @@ Zuluhed
 STRING 3868
 // Items: I0LW (WC2Orc13Zuluhed5), Description (Description)
 {
-There is no telling what kind of power Gul'dan and his minions have awakened in this place. We should be careful.
+Невідомо, яку силу Ґул'дан і та його посіпаки пробудили в цьому місці. Нам варто бути вкрай обачними.
 }
 
 STRING 3869
@@ -3285,7 +3285,7 @@ Zuluhed
 STRING 3871
 // Items: I0LX (WC2Orc13Zuluhed_GrabHead1), Description (Description)
 {
-Hold on! The Warchief commanded us to bring him Gul’dan’s head, otherwise he will not believe us!
+Почекайте но! Вождь наказав не повертатися без голови Ґул'дана, якщо повернемось без неї, він не повірить, що зрадник мертвий.
 }
 
 STRING 3872
@@ -3303,7 +3303,7 @@ Zuluhed
 STRING 3874
 // Items: I0LY (WC2Orc13Zuluhed_GrabHead2), Description (Description)
 {
-Go with the Wind, Rend. I will find my own way to the surface!
+Ренде, Мейме, йдіть з вітром. Я самотужки знайду шлях на поверхню!
 }
 
 STRING 3875
@@ -3321,7 +3321,7 @@ Zuluhed
 STRING 3877
 // Items: I0LZ (WC2Orc13Zuluhed_RakmarEncounter1), Description (Description)
 {
-That was close, I think they lost my trail.
+Це було близько, я думаю, вони втратили мій слід.
 }
 
 STRING 3878
@@ -3339,7 +3339,7 @@ Zuluhed
 STRING 3880
 // Items: I0La (WC2Orc13Zuluhed_RakmarEncounter2), Description (Description)
 {
-Rakmar? Rakmar Sharpfang? I almost didn’t recognize you!
+Ракмар? Ракмар Гостроклик? Я ледве впізнав тебе!
 }
 
 STRING 3881
@@ -3357,7 +3357,7 @@ Zuluhed
 STRING 3883
 // Items: I0Lb (WC2Orc13Zuluhed_RakmarEncounter3), Description (Description)
 {
-Your master is no more, Death Knight! He was slaughtered by the very powers he had sworn to serve... I have his head right here!
+Твого господаря більше немає, лицар смерті! Він був вбитий, тими самим силами яким він присягнув… Його голова у мене тут!
 }
 
 STRING 3884
@@ -3375,7 +3375,7 @@ Zuluhed
 STRING 3886
 // Items: I0Lc (WC2Orc13Zuluhed_RakmarEncounter4), Description (Description)
 {
-Your allegiance belongs to the Horde. Submit to it or die where you stand!
+Ваш клан присягнув Орди. Підкорись або помреш на місці!
 }
 
 STRING 3887
@@ -3393,7 +3393,7 @@ Zuluhed
 STRING 3889
 // Items: I0Ld (WC2Orc13Zuluhed_Final1), Description (Description)
 {
-May this place crumble and return to the seas... forever.
+Нехай це місце буде зруйновано і повернеться в морські глибини… назавжди.
 }
 
 STRING 3890
@@ -3411,7 +3411,7 @@ Zuluhed
 STRING 3892
 // Items: I0Le (WC2Orc13Zuluhed_GhostElves1), Description (Description)
 {
-Those must be the spirits of the people who once inhabited these lands... they do indeed appear to be elves, fascinating! Be watchful... these restless spirits are vengeful.
+Схоже що це невпокоєні духи того народу який колись населяв ці землі… Насправді вони дуже вхожі на ельфів, це неймовірно! Будьте уважні… ці неупокоєні духи можуть жадати помсти.
 }
 
 STRING 3893
@@ -3429,7 +3429,7 @@ Zuluhed
 STRING 3895
 // Items: I0Lf (WC2Orc13Zuluhed_GuldanLocation1), Description (Description)
 {
-I can hear a voice beyond the gate... It's Gul'dan!
+Я чую голос за цією брамою… Це Ґул'дан!
 }
 
 STRING 3896
@@ -3447,7 +3447,7 @@ Zuluhed
 STRING 3898
 // Items: I0Lg (WC2Orc13Zuluhed_Run1), Description (Description)
 {
-I am no match for these crazed demons! I must make my way to the surface at once!
+Марно і намагатися подолати всіх цих божевільних демонів. Треба хутко дістатися поверхні. Адже сил в мене не багато!
 }
 
 STRING 3899
@@ -3465,7 +3465,7 @@ Zuluhed
 STRING 3901
 // Items: I0Lh (WC2Orc13Zuluhed_Runes1), Description (Description)
 {
-More runes... these should help us find him!
+Ще руни… Вони допоможуть нам знайти його!
 }
 
 STRING 3902
@@ -3495,7 +3495,7 @@ Zuluhed
 STRING 3907
 // Items: I0Lj (WC2Orc13Zuluhed_SpiderBossKilled1), Description (Description)
 {
-That was a tough fight... Maim? Are you alright big guy?
+Це був не простий бій… Мейме? Ти як здорованю?
 }
 
 STRING 3908
@@ -3513,7 +3513,7 @@ Zuluhed
 STRING 3910
 // Items: I0Lk (WC2Orc13Zuluhed_Staff1), Description (Description)
 {
-This is a fragment of a staff, it radiates magical power... I will take it.
+Схоже це уламок якогось посоха, він випромінює магічну силу… Треба його взяти.
 }
 
 STRING 3911
@@ -3531,7 +3531,7 @@ Zuluhed
 STRING 3913
 // Items: I0Ll (WC2Orc13Zuluhed_Staff2), Description (Description)
 {
-Finally! The last piece of the Staff! The guardian's Artifact will serve us well.
+Нарешті! Останній фрагмент посоха! Артефакт вартівника нам добре послужить.
 }
 
 STRING 3914
@@ -3549,7 +3549,7 @@ Zuluhed
 STRING 3916
 // Items: I0Lm (WC2Orc13Zuluhed_Vision1), Description (Description)
 {
-Ah... a vision... a powerful guardian of this world... she defeated the fallen Titan...  split her staff when she locked the tomb!
+Ааа… видіння… могутній вартівник цього світу… саме вона перемогла полеглого титана… вона розколола свій посох на шматочки, коли зачиняла гробницю!
 }
 
 STRING 3917
@@ -3567,7 +3567,7 @@ Gul'dan
 STRING 3919
 // Items: I0Ln (WC2Orc13Guldan1), Description (Description)
 {
-Finally! At long last! I will claim my just reward!
+Нарешті! В решті решт! Я отримаю свою нагороду!
 }
 
 STRING 3920
@@ -3585,7 +3585,7 @@ Gul'dan
 STRING 3922
 // Items: I0Lo (WC2Orc13Guldan2), Description (Description)
 {
-Who’s that?! Sargeras? Is that you?!
+Хто це?! Сарґерас? Чи це ти?!
 }
 
 STRING 3923
@@ -3603,7 +3603,7 @@ Gul'dan
 STRING 3925
 // Items: I0Lp (WC2Orc13Guldan3), Description (Description)
 {
-You?! But I watched you die!
+Ти?! Але я бачив як ти помер!
 }
 
 STRING 3926
@@ -3621,7 +3621,7 @@ Gul'dan
 STRING 3928
 // Items: I0Lq (WC2Orc13Guldan4), Description (Description)
 {
-Not that it matters... feel free to witness the moment of my greatest triumph, little magi, but stand in my way... and I will gladly return you to the jaws of death!
+Хоча це вже не важливо… Стань свідком мого величного тріумфу, маленький чарівник. Але якщо ти станеш у мене на заваді, я з радістю поверну тебе в обійми смерті!
 }
 
 STRING 3929
@@ -3639,7 +3639,7 @@ Gul'dan
 STRING 3931
 // Items: I0Lr (WC2Orc13Guldan5), Description (Description)
 {
-Pitiful!? I will show you the meaning of...
+Жалюгідна?! Я зараз тобі покажу хто тут жа…
 }
 
 STRING 3932
@@ -3657,7 +3657,7 @@ Gul'dan
 STRING 3934
 // Items: I0Ls (WC2Orc13Guldan6), Description (Description)
 {
-Doomhammer? But I don't unders...
+Молот Згуби? Але я не розумі…
 }
 
 STRING 3935
@@ -3675,7 +3675,7 @@ Gul'dan
 STRING 3937
 // Items: I0Lt (WC2Orc13Visage_Guldan1), Description (Description)
 {
-Have you forgotten who you were, Gul’dan? Frail, weak and the dog of your clan. I have not forgotten, little Warlock, because it is all that you have ever been... weak!
+Ти забув ким ти був, Ґул'дане? Слабкою та кволою собакою у своєму клані. Я не забув, маленький чорнокнижнику тому, що це все чим ти завжди був… нікчемністю!
 }
 
 STRING 3938
@@ -3693,7 +3693,7 @@ Gul'dan
 STRING 3940
 // Items: I0Lu (WC2Orc13Guldan7), Description (Description)
 {
-No... I'm... I'm...
+Ні… я… я…
 }
 
 STRING 3941
@@ -3711,7 +3711,7 @@ Gul'dan
 STRING 3943
 // Items: I0Lv (WC2Orc13Guldan8), Description (Description)
 {
-No... Impossible...
+Ні… Неможливо…
 }
 
 STRING 3944
@@ -3729,7 +3729,7 @@ Gul'dan
 STRING 3946
 // Items: I0Lw (WC2Orc13Guldan9), Description (Description)
 {
-I... I am... your humble servant, mighty Sargeras! Yes, I am here to break your chains... an agent not of this world... all shall know your glory! And together we will...
+Я… я твій… твій покірний слуга, могутній Сарґерасе! Так, я прийшов аби розірвати твої окови… я прибув з іншого світу… всі мають знати твою славу! І разом ми…
 }
 
 STRING 3947
@@ -3747,7 +3747,7 @@ Gul'dan
 STRING 3949
 // Items: I0Lx (WC2Orc13Guldan10), Description (Description)
 {
-But Master! I beg of you! I have done all that you’ve asked!
+Але володарю! Благаю тебе! Я зробив все, що ти просив!
 }
 
 STRING 3950
@@ -3765,7 +3765,7 @@ Gul'dan
 STRING 3952
 // Items: I0Ly (WC2Orc13Guldan11), Description (Description)
 {
-No! I am Gul'dan! I am darkness incarnate... It cannot end... like this...
+Ні! Я Ґул'дан! Я саме втілення темряви… Я не можу закінчити ось так…
 }
 
 STRING 3953
@@ -3783,7 +3783,7 @@ Mysterious Voice
 STRING 3955
 // Items: I0Lz (WC2Orc13Sargeras1), Description (Description)
 {
-Gul'dan...
+Ґул'дане…
 }
 
 STRING 3956
@@ -3801,7 +3801,7 @@ Sargeras
 STRING 3958
 // Items: I1LA (WC2Orc13Sargeras2), Description (Description)
 {
-Insolent worm! You dare swear fealty in the hour of your greatest failure?! I was freed the moment you entered this tomb, weakling, gaze now upon the might of doom unchained!
+Нахабний хробак! Ти смієш присягати на вірність у момент твоєї найбільшої невдачі?! Я став вільним у той момент, коли ти увійшов до гробниці, жалюгідна істота. А тепер споглядай на згубу, яка звільнилася від оков.
 }
 
 STRING 3959
@@ -3819,7 +3819,7 @@ Sargeras
 STRING 3961
 // Items: I1LB (WC2Orc13Sargeras3), Description (Description)
 {
-So spineless... so puny! Fuel to the flame you once controlled! May your cindered husk become a boon... to correct the course that you derailed!
+Такий безхребетний… такий нікчемний! Ти лише суха гілка для того вогню, яким ти колись керував! Нехай твоя обпечена обгоріла від цього ж вогню оболонка послужить для відновлення шляху… того шляху яким все має йти, того шляху з якого ти зійшов!
 }
 
 STRING 3962
@@ -3849,7 +3849,7 @@ Medivh
 STRING 3967
 // Items: I1LD (WC2Orc13Visage_Medivh2), Description (Description)
 {
-Oh, foolish, pitiful creature... there is so much you do not know, so much you do not understand.
+Ох, дурна жалюгідна істота… скільки ти всього ще не знаєш, скільки всього ти ще не розумієш.
 }
 
 STRING 3968
@@ -3879,7 +3879,7 @@ Orgrim Doomhammer
 STRING 3973
 // Items: I1LF (WC2Orc13Visage_Doomhammer1), Description (Description)
 {
-Treasonous filth! You have never been loyal to anyone but yourself. Your arrogance has blinded you, and has left yourself weak against those who truly tower above you!
+Зрадницький непотріб! Ти ніколи не відданими нікому, окрім себе самого. Твоя гордість засліпила тебе, і зробила тебе слабким проти тих хто по-справжньому величніший за тебе!
 }
 
 STRING 3974
@@ -3897,7 +3897,7 @@ Ner'zhul
 STRING 3976
 // Items: I1LG (WC2Orc13Visage_Nerzhul1), Description (Description)
 {
-You delivered your people to the demons... only to end up humbled and humiliated!
+Ти принизив і зрадив свій же народ на користь демонів… І ось зрештую ти сам принижений і зраджений!
 }
 
 STRING 3977
@@ -3909,13 +3909,13 @@ WC2Orc13Visage_Nerzhul1
 STRING 3978
 // Items: I1LH (WC2Orc13Visage_Awegynn1), Tip (Tooltip - Basic)
 {
-Aegwynn
+Ейґвін
 }
 
 STRING 3979
 // Items: I1LH (WC2Orc13Visage_Awegynn1), Description (Description)
 {
-In centuries past, I destroyed this foul avatar and sealed it in this tomb to be forgotten by history... no being of this world could ever open it. Yet my victory was not complete...
+Багато століть тому, я знищила цей мерзенний аватар і замурувала його у цій гробниці, аби стерти його з історії… щоб жодна істота цього світу не змогла ані знайти, ані відчинити гробницю. Але моя перемога була не повною…
 }
 
 STRING 3980
@@ -3927,13 +3927,13 @@ WC2Orc13Visage_Awegynn1
 STRING 3981
 // Items: I1LI (WC2Orc13Visage_Awegynn2), Tip (Tooltip - Basic)
 {
-Aegwynn
+Ейґвін
 }
 
 STRING 3982
 // Items: I1LI (WC2Orc13Visage_Awegynn2), Description (Description)
 {
-For when I felled him, his foul essence seeped into my soul... an unholy parasite gnawing ever so slowly, until he corrupted my womb and my child...
+Після того як він був переможений, його мерзенна сутність якимось чином просочилася в мою душу… Нечестивий паразит, який повільно з'їдав мене з середини, аж поки він не осквернив моє лоно і моє дитя…
 }
 
 STRING 3983
@@ -3951,7 +3951,7 @@ Rakmar Sharpfang
 STRING 3985
 // Items: I1LJ (WC2Orc13Rakmar_Encounter1), Description (Description)
 {
-You’re not going anywhere... Zuluhed.
+Нікуди ти не підеш… Зулугеде.
 }
 
 STRING 3986
@@ -3969,7 +3969,7 @@ Rakmar Sharpfang
 STRING 3988
 // Items: I1LK (WC2Orc13Rakmar_Encounter2), Description (Description)
 {
-I’m born anew, shaman! I now have more power than you could ever imagine. Praise be to Gul’dan’s gift!
+Я переродився, шамане! І тепер маю більше сили аніж ти можеш уявити. Хвала дарункам Ґул'дана!
 }
 
 STRING 3989
@@ -3987,7 +3987,7 @@ Rakmar Sharpfang
 STRING 3991
 // Items: I1LL (WC2Orc13Rakmar_Encounter3), Description (Description)
 {
-Such is the price of power! I will lead whatever’s left of the Stormreavers and find new glory!
+Це є ціною за таку силу! Я тоді сам очолю і прославлю те що лишилося від клану Бурхливої Бурі!
 }
 
 STRING 3992
@@ -4005,7 +4005,7 @@ Rakmar Sharpfang
 STRING 3994
 // Items: I1LM (WC2Orc13Rakmar_Encounter4), Description (Description)
 {
-My allegiance is my own, Shaman! Come then... show me what you’ve got!
+Я присягнув сам собі, шамане! Давай но… покажи мені, що можеш!
 }
 
 STRING 3995
@@ -4023,7 +4023,7 @@ Rakmar Sharpfang
 STRING 3997
 // Items: I1LN (WC2Orc13Rakmar_death1), Description (Description)
 {
-I... present my soul to the dark masters.
+Я… віддаю свою душу темним володарям.
 }
 
 STRING 3998
@@ -4035,13 +4035,13 @@ WC2Orc13Rakmar_death1
 STRING 3999
 // Items: I1LO (WC2Orc13Fanatic_THammer1), Tip (Tooltip - Basic)
 {
-Fanatic
+Фанатик
 }
 
 STRING 4000
 // Items: I1LO (WC2Orc13Fanatic_THammer1), Description (Description)
 {
-Brothers! The Servants of the Nether have returned!
+Браття! Слуги пустоти повернулися!
 }
 
 STRING 4001
@@ -4053,13 +4053,13 @@ WC2Orc13Fanatic_THammer1
 STRING 4002
 // Items: I1LP (WC2Orc13Fanatic_THammer3), Tip (Tooltip - Basic)
 {
-Fanatic
+Фанатик
 }
 
 STRING 4003
 // Items: I1LP (WC2Orc13Fanatic_THammer3), Description (Description)
 {
-Demon spawn! Your crusade will fail against the all-consuming void!
+Демонське поріддя! Ви не пройдете, ви зазнаєте поразки проти всепоглинаючої порожнечі!
 }
 
 STRING 4004
@@ -4071,13 +4071,13 @@ WC2Orc13Fanatic_THammer3
 STRING 4005
 // Items: I1LQ (WC2Orc13GruntPirate_Encounter1), Tip (Tooltip - Basic)
 {
-Orc Pirate
+Орк пірат
 }
 
 STRING 4006
 // Items: I1LQ (WC2Orc13GruntPirate_Encounter1), Description (Description)
 {
-Oi, you there! If you share with us the treasures you found here, we'll fight for you!
+Агов, ви там! Якщо поділитися з нами скарбами, які ви тут знайшли, ми охоче доєднаємось до вас!
 }
 
 STRING 4007
@@ -4095,7 +4095,7 @@ Faldorei Queen
 STRING 4009
 // Items: I1LR (ToSFaldoreiQueen1), Description (Description)
 {
-Ah... I gift fit for a queen.
+Ааа… А ось і подарунок гідний королеви.
 }
 
 STRING 4010
@@ -4113,7 +4113,7 @@ Faldorei Queen
 STRING 4012
 // Items: I1LS (ToSFaldoreiQueen2), Description (Description)
 {
-Come, my children! Feast on their bones!
+Йдіть, діти мої! Поласуйте їхнімі кістками!
 }
 
 STRING 4013
@@ -4131,7 +4131,7 @@ Faldorei Queen
 STRING 4015
 // Items: I1LT (ToSFaldoreiQueen3), Description (Description)
 {
-Hgnh... my prize... it grows heavy..
+Аргххх… мій подарунок… виявився не по мені…
 }
 
 STRING 4016
@@ -4149,7 +4149,7 @@ Pit Lord
 STRING 4018
 // Items: I1LU (S03OverlordOne10), Description (Description)
 {
-Turn back, you mortals! None may defile Tomb of Sargeras!
+Відступіть, смертні! Ніхто не посміє осквернити гробницю Сарґераса!
 }
 
 STRING 4019
@@ -4161,13 +4161,13 @@ S03OverlordOne10
 STRING 4020
 // Items: I1LC (WC2Orc13Visage_Medivh1), Description (Description)
 {
-Did Kil’jaeden's betrayal teach you nothing, little orc?
+Хіба зрада Кіл'джедена тебе так нічому і не навчила, маленький орк?
 }
 
 STRING 4021
 // Items: I1LE (WC2Orc13Visage_Medivh3a), Description (Description)
 {
-We often wondered what became of Kil’jaeden’s little puppets... of Mannoroth’s favorite pets... and there you were, broken, confused and so pathetically desperate...
+Нам часто було цікаво, що в решті решт траплялося з ляльками Кіл'джедена… з улюбленими тваринками Маннорота… і ось воно, ти розбитий, розгублений та у жалюгідному відчаї…
 }
 
 STRING 4022
