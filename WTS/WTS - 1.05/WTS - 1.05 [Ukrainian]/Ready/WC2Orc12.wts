@@ -20,122 +20,121 @@ STRING 283
 
 STRING 291
 {
-|cffffcc00SECRET AREA DISCOVERED|r
-You have found an ancient library.
+|cffffcc00ЗНАЙДЕНА СЕКРЕТНА ЗОНА|r
+Ви знайшли стародавню бібліотекую
 }
 
 STRING 292
 {
-Search for Gul'dan
+У пошуках Ґул'дана
 }
 
 STRING 293
 {
-Gul'dan is located somewhere on these islands. You must find him.
+Ґул'дан знаходиться десь на цих островах. Ви маєте знайти його.
 }
 
 STRING 294
 {
-Find Gul'dan.
+Знайдіть Ґул'дана.
 }
 
 STRING 295
 {
-|cffffcc00MAIN QUEST|r
-Search for Gul'dan
- - Find Gul'dan
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+У пошуках Ґул'дана
+  - Знайти Ґул'дана
 }
 
 STRING 296
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Search for Gul'dan
-|cffc0c0c0 - Find Gul'dan (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+ У пошуках Ґул'дана
+  -|cffc0c0c0 - Знайти Ґул'дана (Завершено)|r
 }
 
 STRING 297
 {
-Shadow Council Remnants
+Залишки Тіньової Ради
 }
 
 STRING 298
 {
-If you want Drak'thul to come to your side and help find Gul'dan, you must destroy the Shadow Council warlocks camp. Drak'thul fears revenge if he betrays Gul'dan. He wants to protect himself with the help of an artifact owned by his fellow warlocks.
+Якщо ви хочете, щоб Дрек'тул допоміг вам знайти Ґул'дана, вам потрібно знищити табір чорнокнижників Тіньової Ради. Дрек'тул боїться їхньої помсти, якщо він зрадить Ґул'дана. Він хоче захистити себе за допомогою артефакту, що зараз у чорнокнижників.
 }
 
 STRING 299
 {
-Destroy Shadow Council camp
+Знищіть табір Тіньвої ради.
 }
 
 STRING 300
 {
-Bring the artifact to Drak'thul.
+Принесіть артефакт Дрек'тулу.
 }
 
 STRING 301
 {
-|cffffcc00OPTIONAL QUEST|r 
-Shadow Council
- - Destroy Shadow Council camp
- - Bring the artifact dead to Drak'thul
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Тіньова Рада
+  - Знищіть табір Тіньової Ради
+  - Принесіть артефакт Дрек'тулу
 }
 
 STRING 302
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r 
-Shadow Council
-|cffc0c0c0 - Destroy Shadow Council camp (completed)|r
- - Bring the artifact to Drak'thul
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Тіньова Рада
+|cffc0c0c0 - Знищіть табір Тіньової Ради (Завершено)|r
+  - Принесіть артефакт Дрек'тулу
 }
 
 STRING 303
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r 
-Shadow Council
-|cffc0c0c0 - Destroy Shadow Council camp (completed)|r
-|cffc0c0c0 - Bring the artifact to Drak'thul (completed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Тіньова Рада
+  |cffc0c0c0 - Знищіть табір Тіньової Ради (Завершено)|r
+  |cffc0c0c0 - Принесіть артефакт Дрек'тулу (Завершено)|r
 }
 
 STRING 304
 {
-The Tomb of Sargeras
+Гробниця Серґареса
 }
 
 STRING 305
 {
-Gul'dan hid in the Tomb of Sargeras. To follow him, you must defeat Cho'gall and his Twilight Hammer cultists that are guarding the entrance.
+Ґул'дан переховується десь у гробниці Сарґераса. Аби увійти у гробницю та знайти його, вам необхідно перемоги Чо'ґалла та його посіпак з клану Сутінкового Молота які охороняють вхід.
 }
 
 STRING 306
 {
-Defeat Cho'gall near the tomb entrance.
+Здолайте Чо'ґалла біля входу у гробницю.
 }
 
 STRING 307
 {
-|cffffcc00MAIN QUEST|r
-The Tomb of Sargeras
- - Defeat Cho'gall near the tomb entrance
- - Maim must survive
- - Rend must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+ Гробниця Сарґераса
+  - Переможіть Чо'ґалла біля входу у гробницю
+  - Мейм та Ренд мають вижити
 }
 
 STRING 308
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-The Tomb of Sargeras
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+ Гробниця Серґареса
 }
 
 STRING 309
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your base is destroyed
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРАВАЛЕНО|r
+Ваш табір знищено
 }
 
 STRING 353
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 406
@@ -145,12 +144,12 @@ Orcish Horde
 
 STRING 407
 {
-Twilight's Hammer clan
+Клан Сутінкового Молота
 }
 
 STRING 408
 {
-Stormreaver clan
+Клан Бурхливої Бурі
 }
 
 STRING 410
@@ -164,69 +163,69 @@ Traitors
 }
 
 STRING 414
-// Units: n61Y (Drak'thul's hut), Name (Name)
+// Units: n61Y (Дрек'тул's hut), Name (Name)
 {
-Drak'thul's hut
+Хатинка Дрек'тула
 }
 
 STRING 438
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 439
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 440
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 441
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 442
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 443
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 444
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 445
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 446
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 447
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 448
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 449
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 457
@@ -236,7 +235,7 @@ Cinematic Dummy
 
 STRING 458
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 459
@@ -271,7 +270,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 465
 {
-Unholy
+Нечестивість
 }
 
 STRING 467
@@ -343,7 +342,7 @@ Magistrate
 STRING 478
 // Units: nwc1 (Cage), Name (Name)
 {
-Cage
+Клітка
 }
 
 STRING 479
@@ -397,7 +396,7 @@ Spellcasting warrior of the Ogre Legion. Can cast Bloodlust. Can learn "Eye of K
 STRING 528
 // Units: O001 (Ogre Magi), Propernames (Proper Names)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 530
@@ -433,7 +432,7 @@ STRING 644
 STRING 801
 // Units: O002 (Shaman), Propernames (Proper Names)
 {
-Zuluhed the Whacked
+Зулугед Змучений
 }
 
 STRING 802
@@ -463,7 +462,7 @@ Shaman (|cffffcc00S|r)
 STRING 846
 // Units: O007 (Shaman), Propernames (Proper Names)
 {
-Zuluhed the Whacked
+Зулугед Змучений
 }
 
 STRING 847
@@ -487,7 +486,7 @@ Revive Shaman (|cffffcc00S|r)
 STRING 851
 // Units: O002 (Shaman), Ubertip (Tooltip - Extended)
 {
-Герой-мистик, мастер дальнего боя и разведки. Может изучить «Цепную молнию», «Дальнее зрение», «Дух волка» и «Землетрясение».|n|n|cffffcc00Атакует наземные и воздушные цели.|r
+A mystic hero who excels in ranged combat and reconnaissance. Can learn Chain Lightning, Long Sight, Spirit Wolf, and Earthquake.|n|n|cffffcc00Attacks ground and air targets.|r
 }
 
 STRING 852
@@ -517,31 +516,31 @@ Orcish Stone Wall
 STRING 917
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Стіна з шипами
 }
 
 STRING 971
 // Units: n62A (Shark), Name (Name)
 {
-Shark
+Акула
 }
 
 STRING 972
 // Units: n62A (Shark), Tip (Tooltip - Basic)
 {
-Shark
+Акула
 }
 
 STRING 973
 // Units: n62B (Purple Shark), Name (Name)
 {
-Purple Shark
+Рожева акула
 }
 
 STRING 974
 // Units: n62B (Purple Shark), Tip (Tooltip - Basic)
 {
-Shark
+Акула
 }
 
 STRING 990
@@ -583,7 +582,7 @@ STRING 1053
 STRING 1066
 // Units: O005 (Ogre Magi), Propernames (Proper Names)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 1068
@@ -605,7 +604,7 @@ Ogre Magi (|cffffcc00O|r)
 }
 
 STRING 1225
-// Units: n61Y (Drak'thul's hut), EditorSuffix (Name - Editor Suffix)
+// Units: n61Y (Дрек'тул's hut), EditorSuffix (Name - Editor Suffix)
 {
 (Campaign)
 }
@@ -613,7 +612,7 @@ STRING 1225
 STRING 1296
 // Destructibles: LTex (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 1317
@@ -628,10 +627,10 @@ STRING 1318
 Shrooms
 }
 
-STRING 1319
+
 // Destructibles: B615 (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 1320
@@ -655,7 +654,7 @@ Old Tomb
 STRING 1357
 // Destructibles: B62T (Egg), Name (Name)
 {
-Egg
+Яйце
 }
 
 STRING 1362
@@ -685,7 +684,7 @@ STRING 1369
 STRING 1385
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Скриня
 }
 
 STRING 1395
@@ -781,7 +780,7 @@ Wheat
 STRING 1621
 // Doodads: D6GR (Shark), Name (Name)
 {
-Shark
+Акула
 }
 
 STRING 1636
@@ -830,7 +829,7 @@ Cinemaitc
 
 STRING 2848
 {
-Blacktoothgrin Clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 2851
@@ -1130,7 +1129,7 @@ Ancient Dragon Turtle
 STRING 2911
 // Destructibles: DEGG (Egg), Name (Name)
 {
-Egg
+Яйце
 }
 
 STRING 2912
@@ -1142,7 +1141,7 @@ STRING 2912
 STRING 2915
 // Units: O006 (Ogre Magi), Propernames (Proper Names)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 2917
@@ -1220,7 +1219,7 @@ STRING 2943
 STRING 2948
 // Units: n007 (Orb of Fire), Name (Name)
 {
-Orb of Fire
+Сфера вогню
 }
 
 STRING 2968
@@ -1232,7 +1231,7 @@ Old God Eye
 STRING 2969
 // Destructibles: B00C (Old God Tentacle), Name (Name)
 {
-Old God Tentacle
+Щупальце древнього бога
 }
 
 STRING 2970
@@ -1262,7 +1261,7 @@ STRING 3162
 STRING 3209
 // Units: n008 (Twilight Cultist), Name (Name)
 {
-Twilight Cultist
+Сутінковий сектант
 }
 
 STRING 3210
@@ -1310,13 +1309,13 @@ Fake Sky Ashenvale
 STRING 3225
 // Units: n00E (Highborne Ghost), Name (Name)
 {
-Highborne Ghost
+Привид ельфа торговця
 }
 
 STRING 3226
 // Destructibles: B00D (Ghost), Name (Name)
 {
-Ghost
+Привид
 }
 
 STRING 3227
@@ -1339,31 +1338,31 @@ Doomguard
 
 STRING 3241
 {
-Twilight orcs
+Сутінкові орки
 }
 
 STRING 3242
 {
-Twilight Hammer base guards Gul'dans forces near the tomb. Destroy it in order to get close to the Warlock.
+Війська клану Сутінкового Молота охороняють сили Ґулʼдана біля гробниці. Знищіть їх, аби підібратися до чорнокнижника зрадника.
 }
 
 STRING 3243
 {
-Destroy Twilight Hammer base.
+Знищіть табір клану Сутінкового Молота.
 }
 
 STRING 3244
 {
-|cffffcc00MAIN QUEST|r
-Twilight orcs
- - Destroy Twilight Hammer base
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+ Сутінкові орки
+  - Знищіть табір клану Сутінкового Молота
 }
 
 STRING 3245
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Twilight orcs
-|cffc0c0c0 - Destroy Twilight Hammer base (completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+ Сутінкові орки
+  - Знищіть табір клану Сутінкового Молота (Завершено)
 }
 
 STRING 3301
@@ -1378,18 +1377,18 @@ Blackhand brats will NOT be healed by cheat
 
 STRING 3305
 {
-Rend must survive.
+Ренд має вижити.
 }
 
 STRING 3306
 {
-Maim must survive.
+Мейм має вижити.
 }
 
 STRING 3307
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your hero has fallen
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Вашого героя вбито
 }
 
 STRING 3309
@@ -1406,18 +1405,18 @@ ToS Gate
 
 STRING 3329
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 3334
 {
-|cffffcc00Gall:|r Burn them all!
+|cffffcc00Ґалл:|r Спалити їх усіх!
 }
 
 STRING 3335
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Unholy Centry. This research can make your Towers detect hidden enemy units, such as War Turtles. Available in the Temple of the Damned.
+|cffffcc00ДОСТУПНО НОВЕ ПОКРАЩЕННЯ|r
+«Нечестива варта» робить ваші оборонні вежі здатними бачити невидимих ворогів, таких як бойові черепахи. Покращення можна зробити у «Храмі проклятих»
 }
 
 STRING 3336
@@ -1426,13 +1425,13 @@ STRING 3336
 }
 
 STRING 3337
-// Units: oUC1 (Utok Scratcher), Name (Name)
+// Units: oUC1 (Уток Дряпач), Name (Name)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3338
-// Units: oUC1 (Utok Scratcher), EditorSuffix (Name - Editor Suffix)
+// Units: oUC1 (Уток Дряпач), EditorSuffix (Name - Editor Suffix)
 {
 (Boss Fight)
 }
@@ -1440,7 +1439,7 @@ STRING 3338
 STRING 3339
 // Items: I0LA (WC2Orc12Maim1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3340
@@ -1458,13 +1457,13 @@ WC2Orc12Maim1
 STRING 3342
 // Items: I0LB (WC2Orc12Maim2), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3343
 // Items: I0LB (WC2Orc12Maim2), Description (Description)
 {
-Great idea. Kill him.
+Гарна ідея. Вбити його.
 }
 
 STRING 3344
@@ -1476,13 +1475,13 @@ WC2Orc12Maim2
 STRING 3345
 // Items: I0LC (WC2Orc12Maim3), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3346
 // Items: I0LC (WC2Orc12Maim3), Description (Description)
 {
-I’ll cut you into pieces, you two-headed pile of fat!!!
+Ах ти ж двоголова свиня, я на сало тебе поріжу!
 }
 
 STRING 3347
@@ -1494,13 +1493,13 @@ WC2Orc12Maim3
 STRING 3348
 // Items: I0LD (WC2Orc12Maim4), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3349
 // Items: I0LD (WC2Orc12Maim4), Description (Description)
 {
-Is he dead? We need to be sure!
+Він точно мертвий? Треба переконатися!
 }
 
 STRING 3350
@@ -1512,13 +1511,13 @@ WC2Orc12Maim4
 STRING 3351
 // Items: I0LE (WC2Orc12Maim5), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3352
 // Items: I0LE (WC2Orc12Maim5), Description (Description)
 {
-Arghhh! Damn it! I wanted that head!
+Аргггх! Чортівня! Я хотів цю голову!
 }
 
 STRING 3353
@@ -1530,7 +1529,7 @@ WC2Orc12Maim5
 STRING 3354
 // Items: I0LF (WC2Orc12Rend8), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3355
@@ -1542,7 +1541,7 @@ STRING 3355
 STRING 3356
 // Items: I0LF (WC2Orc12Rend8), Description (Description)
 {
-What in the...
+Почекай, що за…
 }
 
 STRING 3357
@@ -1554,7 +1553,7 @@ WC2Orc12Rend8
 STRING 3358
 // Items: I0LG (WC2Orc12Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3359
@@ -1572,7 +1571,7 @@ WC2Orc12Rend1
 STRING 3361
 // Items: I0LH (WC2Orc12Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3362
@@ -1590,7 +1589,7 @@ WC2Orc12Rend2
 STRING 3364
 // Items: I0LJ (WC2Orc12Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3365
@@ -1608,13 +1607,13 @@ WC2Orc12Rend3
 STRING 3367
 // Items: I0LK (WC2Orc12Rend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3370
 // Items: I0LL (WC2Orc12Rend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3371
@@ -1632,13 +1631,13 @@ WC2Orc12Rend4
 STRING 3373
 // Items: I0LN (WC2Orc12Rend6), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3374
 // Items: I0LL (WC2Orc12Rend5), Description (Description)
 {
-Wait brother! He may know where Gul'dan is.
+Почекай брате! Можливо він знає де Ґул'дан.
 }
 
 STRING 3375
@@ -1650,19 +1649,19 @@ WC2Orc12Rend5
 STRING 3376
 // Items: I0LO (WC2Orc12Rend7), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3379
 // Items: I0LP (WC2Orc12Rend9), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3380
 // Items: I0LN (WC2Orc12Rend6), Description (Description)
 {
-There’s the demon ridden dogs! Slaughter them in the name of the Horde!
+Це якісь демонічні собаки! Виріжте їх іменем Орди!
 }
 
 STRING 3381
@@ -1674,13 +1673,13 @@ WC2Orc12Rend6
 STRING 3382
 // Items: I0LQ (WC2Orc12Rend10), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3383
 // Items: I0LO (WC2Orc12Rend7), Description (Description)
 {
-These shamans have far more strength in them than someone so plump and lazy as you, ogre filth!
+Ці «шаманчики» мають значно більше сили, аніж у такого кремезного довбня як ти!
 }
 
 STRING 3384
@@ -1692,13 +1691,13 @@ WC2Orc12Rend7
 STRING 3385
 // Items: I0LR (WC2Orc12Rend11), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3386
 // Items: I0LP (WC2Orc12Rend9), Description (Description)
 {
-Steel yourself brother! We end this heretical filth now!
+Тримайся брате! Покінчимо з цим еретичним шматком сала просто зараз!
 }
 
 STRING 3387
@@ -1710,7 +1709,7 @@ WC2Orc12Rend9
 STRING 3389
 // Items: I0LQ (WC2Orc12Rend10), Description (Description)
 {
-Agreed brother... I take one head and you take the other!
+Згоден брате… Я відріжу одну голову, а ти іншу!
 }
 
 STRING 3390
@@ -1722,7 +1721,7 @@ WC2Orc12Rend10
 STRING 3392
 // Items: I0LR (WC2Orc12Rend11), Description (Description)
 {
-We will get them later, now go!
+Відріжемо обидві згодом, зараз треба йти!
 }
 
 STRING 3393
@@ -1734,7 +1733,7 @@ WC2Orc12Rend11
 STRING 3394
 // Items: I0LS (WC2Orc12Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3395
@@ -1752,7 +1751,7 @@ WC2Orc12Utok1
 STRING 3397
 // Items: I0LT (WC2Orc12Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3398
@@ -1770,13 +1769,13 @@ WC2Orc12Utok2
 STRING 3400
 // Items: I0LU (WC2Orc12Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3401
 // Items: I0LU (WC2Orc12Utok3), Description (Description)
 {
-Take his head in the name of the Warchief!
+Іменем вождя, відтяти йому голову!
 }
 
 STRING 3402
@@ -1788,14 +1787,13 @@ WC2Orc12Utok3
 STRING 3403
 // Items: I0LV (WC2Orc12Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3404
 // Items: I0LV (WC2Orc12Utok4), Description (Description)
 {
-Rend! Maim!
-
+Ренде, Мейме!
 }
 
 STRING 3405
@@ -1807,7 +1805,7 @@ WC2Orc12Utok4
 STRING 3406
 // Items: I0LW (WC2Orc12Zuluhed1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3407
@@ -1825,7 +1823,7 @@ WC2Orc12Zuluhed1
 STRING 3409
 // Items: I0LX (WC2Orc12Zuluhed2), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3410
@@ -1843,7 +1841,7 @@ WC2Orc12Zuluhed2
 STRING 3412
 // Items: I0LY (WC2Orc12Zuluhed3), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3413
@@ -1861,7 +1859,7 @@ WC2Orc12Zuluhed3
 STRING 3415
 // Items: I0LZ (WC2Orc12Zuluhed4), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3416
@@ -1879,13 +1877,13 @@ WC2Orc12Zuluhed4
 STRING 3418
 // Items: I0La (WC2Orc12Zuluhed5), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3419
 // Items: I0La (WC2Orc12Zuluhed5), Description (Description)
 {
-You used to be a shaman, Drak'thul. Is this dark path worth dying for?
+Дрек'туле, ти ж маєш бути шаманом. Чи вартий цей темний шлях аби померти за нього?
 }
 
 STRING 3420
@@ -1897,13 +1895,13 @@ WC2Orc12Zuluhed5
 STRING 3421
 // Items: I0Lb (WC2Orc12Zuluhed6), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3422
 // Items: I0Lb (WC2Orc12Zuluhed6), Description (Description)
 {
-But now you are weak, and we are the strong. Tell us where Gul'dan is hiding and we will spare your life.
+Але зараз ти слабкий, а ми сильні. Скажи нам де саме Ґул'дан і ми збережемо тобі життя.
 }
 
 STRING 3423
@@ -1915,13 +1913,13 @@ WC2Orc12Zuluhed6
 STRING 3424
 // Items: I0Lc (WC2Orc12Zuluhed7), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3425
 // Items: I0Lc (WC2Orc12Zuluhed7), Description (Description)
 {
-The traitors are dead... and here is the artifact, as promised.
+Всі зрадники мертві… а ось і обіцяний артефакт.
 }
 
 STRING 3426
@@ -1933,13 +1931,13 @@ WC2Orc12Zuluhed7
 STRING 3427
 // Items: I0Ld (WC2Orc12Zuluhed8), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3428
 // Items: I0Ld (WC2Orc12Zuluhed8), Description (Description)
 {
-A Dark Titan?
+Темного титана?
 }
 
 STRING 3429
@@ -1951,13 +1949,13 @@ WC2Orc12Zuluhed8
 STRING 3430
 // Items: I0Le (WC2Orc12Zuluhed9), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3431
 // Items: I0Le (WC2Orc12Zuluhed9), Description (Description)
 {
-Gul'dan is insane! His obsession with power will destroy this world as it did Draenor! Onwards warriors! We end this now!
+Ґул'дан божевільний! Його одержимість силою знищить цей світ так само, як він знищив Дренор! Вперед воїни! Ми негайно покладемо цьому край!
 }
 
 STRING 3432
@@ -1969,13 +1967,13 @@ WC2Orc12Zuluhed9
 STRING 3433
 // Items: I0Lf (WC2Orc12Zuluhed10), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3434
 // Items: I0Lf (WC2Orc12Zuluhed10), Description (Description)
 {
-Gul'dan! I knew that we would find him! Lok'tar, warriors!
+А ось і Ґул'дан. Я знав що ми знайдемо його. Лок'тар, воїни!
 }
 
 STRING 3435
@@ -1987,13 +1985,13 @@ WC2Orc12Zuluhed10
 STRING 3436
 // Items: I0Lg (WC2Orc12Zuluhed11), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3437
 // Items: I0Lg (WC2Orc12Zuluhed11), Description (Description)
 {
-Sons of Blackhand, I will aid you!
+Сини Чорнорука, я допоможу вам!
 }
 
 STRING 3438
@@ -2005,13 +2003,13 @@ WC2Orc12Zuluhed11
 STRING 3439
 // Items: I0Lh (WC2Orc12Zuluhed12), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3440
 // Items: I0Lh (WC2Orc12Zuluhed12), Description (Description)
 {
-Rend, Maim! The powers that Cho'gall controlls is beyond any of us, kill him fast before he unleashed unspeakable horrors upon us!
+Ренде, Мейне! Сила якою володіє Чо'ґалл, більша аніж всі ми можемо навіть уявити. Якомога швидше вбийте його, доки він не вивільнив на нас всі ті жахи якими володіє.
 }
 
 STRING 3441
@@ -2023,13 +2021,13 @@ WC2Orc12Zuluhed12
 STRING 3442
 // Items: I0Lj (WC2Orc12Zuluhed13), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3443
 // Items: I0Lj (WC2Orc12Zuluhed13), Description (Description)
 {
-We have no time for this! Utok, return to the base and heal your wounds... keep the ships in check until we return.
+Ми не маємо на це часу! Утоке, повертайся у табір та відновись… Тримай човни на готові до нашого повернення.
 }
 
 STRING 3444
@@ -2041,13 +2039,13 @@ WC2Orc12Zuluhed13
 STRING 3445
 // Items: I0Lk (WC2Orc12Zuluhed14), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3446
 // Items: I0Lk (WC2Orc12Zuluhed14), Description (Description)
 {
-Hmm... these ruins might hold some secret treasure.
+Хммм… ці руїни можуть приховувати скарби.
 }
 
 STRING 3447
@@ -2059,13 +2057,13 @@ WC2Orc12Zuluhed14
 STRING 3448
 // Items: I0Ll (WC2Orc12Drakthul1), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3449
 // Items: I0Ll (WC2Orc12Drakthul1), Description (Description)
 {
-Zuluhed! Hah! So we’ve ended up on opposite sides... What will you do? Cut my throat and leave me to die?
+Зулугеде! Хах! Що ж здається в решті решт ми опинилися по різні боки… І що ти зробиш? Переріжеш мені горло та лишиш помирати?
 }
 
 STRING 3450
@@ -2077,13 +2075,13 @@ WC2Orc12Drakthul1
 STRING 3451
 // Items: I0Lm (WC2Orc12Drakthul2), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3452
 // Items: I0Lm (WC2Orc12Drakthul2), Description (Description)
 {
-I don’t wish to die Zuluhed, but I obeyed Gul'dan because... because the weak must follow the strong.
+Я не хочу помирати Зулугеде, але я слугую Ґул'дану, тому що… Тому що слабкий має кориться сильному.
 }
 
 STRING 3453
@@ -2095,7 +2093,7 @@ WC2Orc12Drakthul2
 STRING 3454
 // Items: I0Ln (WC2Orc12Drakthul3), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3456
@@ -2107,13 +2105,13 @@ WC2Orc12Drakthul3
 STRING 3457
 // Items: I0Lo (WC2Orc12Drakthul4), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3458
 // Items: I0Lo (WC2Orc12Drakthul4), Description (Description)
 {
-Thank you... Gul'dan's power is vast, these very islands were raised by him to find an ancient tomb...  the final resting place of a monstrous Dark Titan. It is this Titan’s terrible power that Gul’dan now seeks...
+Дякую… Ґул'дан має неймовірну силу, ці острови були підняті ним з морського дна аби знайти стародавню гробницю. Місце останнього спочинку жахливого темного титана. І саме силу цього титана Ґул'дан зараз шукає…
 }
 
 STRING 3459
@@ -2125,7 +2123,7 @@ WC2Orc12Drakthul4
 STRING 3460
 // Items: I0Lp (WC2Orc12Drakthul5), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3462
@@ -2137,13 +2135,13 @@ WC2Orc12Drakthul5
 STRING 3463
 // Items: I0Lq (WC2Orc12Drakthul6), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3464
 // Items: I0Lq (WC2Orc12Drakthul6), Description (Description)
 {
-North of here is a great tower... that is the tomb I spoke of. It is there that you will find Gul'dan. It is there that you will most likely meet your end. You’ve got what you wanted, now leave me in peace... I would like to live what is left of my life in solitude.
+На північ звідси є велика вежа… це гробниця, про яку я казав. Саме там ви знайдете Ґул'дана. І Саме там ви, скоріше за все, знайдете свою смерть. Що ж, ви отримали чого хотіли, а тепер облиште мене… Я хотів би на самоті прожити залишок свого життя.
 }
 
 STRING 3465
@@ -2155,13 +2153,13 @@ WC2Orc12Drakthul6
 STRING 3466
 // Items: I0Lr (WC2Orc12Drakthul7), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3467
 // Items: I0Lr (WC2Orc12Drakthul7), Description (Description)
 {
-Go away.
+Йди геть.
 }
 
 STRING 3468
@@ -2173,13 +2171,13 @@ WC2Orc12Drakthul7
 STRING 3469
 // Items: I0Ls (WC2Orc12Drakthul8), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3470
 // Items: I0Ls (WC2Orc12Drakthul8), Description (Description)
 {
-Heh. You think me a foolish old orc, frail and ready to be put to the wolves? I was communicating with demons when you were in swaddling blankets.
+Хех. Думаєте я орк, що схибився, якого можна віддати на поживу вовкам? Я спілкувався з демонами, ще коли ви під стіл пішки ходили.
 }
 
 STRING 3471
@@ -2191,13 +2189,13 @@ WC2Orc12Drakthul8
 STRING 3472
 // Items: I0Lt (WC2Orc12Drakthul9), Tip (Tooltip - Basic)
 {
-Drak'thul
+Дрек'тул
 }
 
 STRING 3473
 // Items: I0Lt (WC2Orc12Drakthul9), Description (Description)
 {
-I wish to be alone, until darkness overtakes me at last.
+Я бажаю побути на самоті, поки пітьма в решті решт не поглине мене.
 }
 
 STRING 3474
@@ -2209,13 +2207,13 @@ WC2Orc12Drakthul9
 STRING 3475
 // Items: I0Lu (WC2Orc12Guldan1), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3476
 // Items: I0Lu (WC2Orc12Guldan1), Description (Description)
 {
-The Door is open! At last!
+Двері відкрито! Нарешті!
 }
 
 STRING 3477
@@ -2227,13 +2225,13 @@ WC2Orc12Guldan1
 STRING 3478
 // Items: I0Lv (WC2Orc12Guldan2), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3479
 // Items: I0Lv (WC2Orc12Guldan2), Description (Description)
 {
-Cho'gall, stay and guard the entrance. Kill anyone who tries to come after us. The rest of you, come with me!
+Чо'ґалле, лишайся тут і охороняй вхід. Вбивай усіх хто спробує увійти після нас. Всі інші, йдіть за мною!
 }
 
 STRING 3480
@@ -2245,13 +2243,13 @@ WC2Orc12Guldan2
 STRING 3481
 // Items: I0Lw (WC2Orc12ChoGall1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3482
 // Items: I0Lw (WC2Orc12ChoGall1), Description (Description)
 {
-|cffffcc00Cho:|r As you say, master.
+|cffffcc00Чо:|r Як скажеш, володарю.
 }
 
 STRING 3483
@@ -2263,13 +2261,13 @@ WC2Orc12ChoGall1
 STRING 3484
 // Items: I0Lx (WC2Orc12ChoGall2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3485
 // Items: I0Lx (WC2Orc12ChoGall2), Description (Description)
 {
-|cffffcc00Cho:|r Not so fast, little Shamans... |n|cffffcc00Gall:|r You have to go through us first!
+|cffffcc00Чо:|r Не так швидко, маленькі шаманчики… |n|cffffcc00Ґалл:|r Спочатку вам доведеться мати справу з нами!
 }
 
 STRING 3486
@@ -2281,13 +2279,13 @@ WC2Orc12ChoGall2
 STRING 3487
 // Items: I0Ly (WC2Orc12ChoGall3a), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3488
 // Items: I0Ly (WC2Orc12ChoGall3a), Description (Description)
 {
-|cffffcc00Cho:|r Aah, the Blackhand brats... |n|cffffcc00Gall:|r The two impotent sons of Blackhand. Aah, Maim, if only your wits could match that forehead of yours... maybe then you might have offered some challenge.
+|cffffcc00Чо:|r Ааа, двоє синів Чорнорука… |n|cffffcc00Ґалл:|r Двоє нікчем Чорнорука. Ооо, Мейме, аби твій розум був такий самий як і сила… то може ти й міг би кинути нам виклик.
 }
 
 STRING 3489
@@ -2299,13 +2297,13 @@ WC2Orc12ChoGall3a
 STRING 3490
 // Items: I0Lz (WC2Orc12ChoGall3b), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3491
 // Items: I0Lz (WC2Orc12ChoGall3b), Description (Description)
 {
-|cffffcc00Gall:|r And Rend... you may have some of your father's cunning, but what use is that when even your sister could break you like a twig? No wonder the Horde believes that you two were naught but dirty toddlers when Blackhand ordered his warlocks to age you.
+|cffffcc00Ґалл:|r І Ренд… може ти й спадкував хитрість та підступність свого батька, але який в тому сенс якщо навіть твоя дохла сестричка Ґризельда, могла зламати тебе наче суху гілку? Не дивно, що в Орді вірять, що ви двоє були всього-на-всього нікчемними малюками, коли ваш батько Чорнорук, наказав своїм чорнокнижниками постарити вас, за допомогою магії скверни.
 }
 
 STRING 3492
@@ -2317,13 +2315,13 @@ WC2Orc12ChoGall3b
 STRING 3493
 // Items: I1LA (WC2Orc12ChoGall4), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3494
 // Items: I1LA (WC2Orc12ChoGall4), Description (Description)
 {
-|cffffcc00Gall:|r The jaws of death close in upon you.
+|cffffcc00Ґалл:|r Щелепи смерті стискають вас.
 }
 
 STRING 3495
@@ -2335,13 +2333,13 @@ WC2Orc12ChoGall4
 STRING 3496
 // Items: I1LB (WC2Orc12ChoGall5), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3497
 // Items: I1LB (WC2Orc12ChoGall5), Description (Description)
 {
-|cffffcc00Gall:|r Flames and Fury.
+|cffffcc00Ґалл:|r Вогонь та лють.
 }
 
 STRING 3498
@@ -2353,13 +2351,13 @@ WC2Orc12ChoGall5
 STRING 3499
 // Items: I1LC (WC2Orc12ChoGall7), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3500
 // Items: I1LC (WC2Orc12ChoGall7), Description (Description)
 {
-None impede the wrath of Cho'gall!
+Ніхто не завадить гніву Чо'ґалла!
 }
 
 STRING 3501
@@ -2371,13 +2369,13 @@ WC2Orc12ChoGall7
 STRING 3502
 // Items: I1LD (WC2Orc12ChoGall8), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3503
 // Items: I1LD (WC2Orc12ChoGall8), Description (Description)
 {
-|cffffcc00Cho:|r Your bones will snap!
+|cffffcc00Чо:|r Ми потрощимо ваші кістки!
 }
 
 STRING 3504
@@ -2389,13 +2387,13 @@ WC2Orc12ChoGall8
 STRING 3505
 // Items: I1LE (WC2Orc12ChoGall9), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3506
 // Items: I1LE (WC2Orc12ChoGall9), Description (Description)
 {
-|cffffcc00Gall:|r Ahahaha!
+|cffffcc00Ґалл:|r Ахахаха!
 }
 
 STRING 3507
@@ -2407,13 +2405,13 @@ WC2Orc12ChoGall9
 STRING 3508
 // Items: I1LF (WC2Orc12ChoGall10), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3509
 // Items: I1LF (WC2Orc12ChoGall10), Description (Description)
 {
-|cffffcc00Cho:|r Enough! The maddening shrieks of the dark gods shall tear your souls apart!. |cffffcc00Gall:|r Behold the might of our true masters!
+|cffffcc00Чо:|r Досить! Крики темних богів, розірвуть ваші нікчемні душі на шматки! |cffffcc00Ґалл:|r Споглядайте силу нашого справжнього володаря!
 }
 
 STRING 3510
@@ -2425,13 +2423,13 @@ WC2Orc12ChoGall10
 STRING 3511
 // Items: I1LG (WC2Orc12ChoGall11), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3512
 // Items: I1LG (WC2Orc12ChoGall11), Description (Description)
 {
-|cffffcc00Cho:|r All shall serve!. |cffffcc00Gall:|r All shall feed the insatiable hunger of the gods!
+|cffffcc00Чо:|rВсі мають слугувати! |cffffcc00Ґалл:|r Всі мають утамувати голод темного бога!
 }
 
 STRING 3513
@@ -2443,13 +2441,13 @@ WC2Orc12ChoGall11
 STRING 3514
 // Items: I1LH (PeonPissed4), Tip (Tooltip - Basic)
 {
-Peon
+Батрак
 }
 
 STRING 3515
 // Items: I1LH (PeonPissed4), Description (Description)
 {
-Me not that kind of orc!
+Це не той орк якого ти шукаєш!
 }
 
 STRING 3516
@@ -2461,13 +2459,13 @@ PeonPissed4
 STRING 3517
 // Items: I1LI (WC2Orc12Cultist1), Tip (Tooltip - Basic)
 {
-Ogre Cultist
+Оґр сектант
 }
 
 STRING 3518
 // Items: I1LI (WC2Orc12Cultist1), Description (Description)
 {
-Die in the Masters name!
+Помріть іменем володаря!
 }
 
 STRING 3519
@@ -2479,13 +2477,13 @@ WC2Orc12Cultist1
 STRING 3520
 // Items: I1LJ (WC2Orc12Cultist2), Tip (Tooltip - Basic)
 {
-Ogre Cultist
+Оґр сектант
 }
 
 STRING 3521
 // Items: I1LJ (WC2Orc12Cultist2), Description (Description)
 {
-Succumb to Fear!
+Підкоріться страху!
 }
 
 STRING 3522
@@ -2497,13 +2495,13 @@ WC2Orc12Cultist2
 STRING 3523
 // Items: I1LK (WC2Orc12Cultist3), Tip (Tooltip - Basic)
 {
-Ogre Cultist
+Оґр сектант
 }
 
 STRING 3524
 // Items: I1LK (WC2Orc12Cultist3), Description (Description)
 {
-Your dreams will be shattered
+Ваші плани буде зруйновано!
 }
 
 STRING 3525
@@ -2515,7 +2513,7 @@ WC2Orc12Cultist3
 STRING 3527
 // Items: I1lx (WC2Orc12Grunt1), Description (Description)
 {
-No more will I submit to Orgrim’s Hammer only rule! I’ll cleave your heart with my axe!
+Ніколи більше я не буду виконувати накази Молота Згуби. Всі ви зараз отримаєте від мене по сокирі в серце!
 }
 
 STRING 3528
@@ -2527,37 +2525,37 @@ WC2Orc12Grunt1
 STRING 3529
 // Units: O001 (Ogre Magi), Name (Name)
 {
-Ogre Magi
+Оґр маг
 }
 
 STRING 3530
 // Units: O005 (Ogre Magi), Name (Name)
 {
-Ogre Magi
+Оґр маг
 }
 
 STRING 3531
 // Units: O006 (Ogre Magi), Name (Name)
 {
-Ogre Magi
+Оґр маг
 }
 
 STRING 3532
 // Items: I0Ln (WC2Orc12Drakthul3), Description (Description)
 {
-I fear the Shadow Council's wrath, Zuluhed. But if you destroy them, then I will tell you everything! They are channeling a terrible ritual on the nearby island... kill them, and bring me the artifact that they are using.
+Я боюся гніву Тіньової ради, Зулугеде. Але якщо ви знищене їх, я вам все розкажу. Вони роблять жахливі ритуали на острові неподалік… Вбийте їх, і принесіть мені той артефакт, що вони використовують.
 }
 
 STRING 3533
 // Items: I0Lp (WC2Orc12Drakthul5), Description (Description)
 {
-He was called... Sargeras, the Lord of an endless legion of demons. It is told that Sargeras was defeated and his tomb sunk beneath the ocean waves, many centuries ago. It was Sargeras’ demons that enabled Gul’dan to become what he is. It was Sargeras’ demons who helped empower our chieftains all those years ago. All that we are, everything that we have done, can be traced to him.
+Його звали…  Сарґерас, повелитель нескінченних демонських легіонів. Кажуть, що колись Сарґерас був переможений, і його гробниця затонула багато століть тому. Саме демони Сарґераса перетворили Ґул'дана у те чим він зараз є. І саме демони Сарґераса зміцнити наших отаманів багато років тому. Усе, чим зараз ми є, усе чого ми досягли ми завдячуємо йому.
 }
 
 STRING 3534
 // Items: I1lx (WC2Orc12Grunt1), Tip (Tooltip - Basic)
 {
-Blackrock Traitor
+Зрадник з клану Чорного Каменю
 }
 
 STRING 3535
@@ -2583,12 +2581,12 @@ STRING 3538
 STRING 3539
 // Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
 {
-Blackrock Traitor
+Зрадник з клану Чорного Каменю
 }
 
 STRING 3540
 // Items: IQL0 (Bonecrusher), Name (Name)
 {
-Bonecrusher
+Кістколам
 }
 
