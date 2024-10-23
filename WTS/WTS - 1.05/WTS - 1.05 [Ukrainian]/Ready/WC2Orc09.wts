@@ -19,21 +19,21 @@ STRING 20
 }
 
 STRING 72
-// Units: o006 (Utok Scratcher), Name (Name)
+// Units: o006 (Уток Дряпач), Name (Name)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 78
 // Units: o007 (Troll Berserker), Name (Name)
 {
-Troll Berserker
+Троль Берсерк
 }
 
 STRING 145
 // Units: H00F (Paladin), Propernames (Proper Names)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 159
@@ -84,7 +84,7 @@ AttackGroundTyr
 STRING 170
 // Units: N00B (Warlord), Propernames (Proper Names)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 196
@@ -94,7 +94,7 @@ Horde
 
 STRING 197
 {
-Alliance
+Сили Альянсу
 }
 
 STRING 205
@@ -106,7 +106,7 @@ S
 STRING 235
 // Units: n009 (Ogre), Name (Name)
 {
-Ogre
+Оґр
 }
 
 STRING 237
@@ -118,7 +118,7 @@ O
 STRING 238
 // Units: n00A (Ogre Magi), Casterupgradename (Caster Upgrade Names)
 {
-Apprentice, Adept, Master
+Учень, Адепт, Майстер
 }
 
 STRING 239
@@ -136,13 +136,13 @@ M
 STRING 248
 // Units: e002 (Ballista), Name (Name)
 {
-Ballista
+Баліста
 }
 
 STRING 250
 // Units: h009 (Paladin), Name (Name)
 {
-Paladin
+Паладин
 }
 
 STRING 253
@@ -160,7 +160,7 @@ Powerful mounted warrior. Can heal units. Can learn 'Far Sight' and 'Exorcism'. 
 STRING 256
 // Items: I1LC (TaurenReady1), Tip (Tooltip - Basic)
 {
-Ogre Magi
+Оґр-маг
 }
 
 STRING 283
@@ -196,7 +196,7 @@ C
 STRING 364
 // Units: h00C (Ranger), Name (Name)
 {
-Ranger
+Ельф рейнджер
 }
 
 STRING 365
@@ -214,7 +214,7 @@ STRING 371
 STRING 389
 // Units: O008 (Warlord), Name (Name)
 {
-Warlord
+Воєвода
 }
 
 STRING 390
@@ -254,45 +254,49 @@ Train Ranger
 }
 
 STRING 464
-// Units: o002 (Toiler), Ubertip (Tooltip - Extended)
+// Units: o002 (Трудяга), Ubertip (Tooltip - Extended)
 {
-Basic worker unit. Can harvest gold and lumber, build structures, and Repair.  |n|n|cffffcc00Attacks land units and trees.|r
+Основна робоча одиниця. Може добувати золото та рубити ліс, будувати споруди та лагодити як споруди, так і механічні цілі. |n|n|cffffcc00Атакує наземні цілі та дерева.|r
 }
 
 STRING 466
 // Units: oTA1 (Troll Axethrower), Name (Name)
 {
-Troll Axethrower
+Троль Сокирокид
 }
 
 STRING 467
 // Units: oTA1 (Troll Axethrower), Tip (Tooltip - Basic)
 {
-Train Troll Axethrower
+Тренувати Троля Сокирокида
 }
 
 STRING 468
 // Units: oTA1 (Troll Axethrower), Ubertip (Tooltip - Extended)
 {
-Versatile axe-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Berserker, which has the Berserk ability and increased stats. |n|n|cffffcc00Attacks land and air units.|r 
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
+
+Можливе покращення: Троль берсерк
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 470
 // Units: oTA0 (Catapult), Name (Name)
 {
-Catapult
+Катапульта
 }
 
 STRING 471
 // Units: oTA0 (Catapult), Tip (Tooltip - Basic)
 {
-Build Catapult
+Побудувати катапульту
 }
 
 STRING 520
 // Units: O008 (Warlord), Propernames (Proper Names)
 {
-Dal'Rend Blackhand
+Dal'Ренд Чорнорук
 }
 
 STRING 521
@@ -316,13 +320,13 @@ Warlord (|cffffcc00R|r)
 STRING 561
 // Units: h00A (Archer), Name (Name)
 {
-Archer
+Лучник
 }
 
 STRING 602
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 603
@@ -340,41 +344,41 @@ Orcish Stone Wall
 STRING 633
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Шипована стіна
 }
 
 STRING 634
 // Doodads: D61D (Spike Wall), Name (Name)
 {
-Spike Wall
+Шипована стіна
 }
 
 STRING 643
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 644
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 645
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 646
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 647
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -1138,13 +1142,13 @@ STRING 1493
 STRING 1494
 // Abilities: A624 (Frozen), Name (Name)
 {
-Frozen
+Заморозка
 }
 
 STRING 1495
 // Abilities: A624 (Frozen), Tip (Tooltip - Normal)
 {
-This unit is Frozen
+Ця одиниця заморожена і не може бути використана.
 }
 
 STRING 2440
@@ -1155,19 +1159,19 @@ STRING 2440
 
 STRING 2442
 {
-Nation of Stromgarde
+Люди Стромварту
 }
 
 STRING 2443
 // Units: e003 (Destroyer), Name (Name)
 {
-Destroyer
+Руйнівник
 }
 
 STRING 2444
 // Units: h627 (Cleric), Name (Name)
 {
-Cleric
+Священнослужитель
 }
 
 STRING 2446
@@ -1191,7 +1195,7 @@ STRING 2448
 STRING 2449
 // Destructibles: B000 (Castle Gate), Name (Name)
 {
-Castle Gate
+Брама замку
 }
 
 STRING 2451
@@ -1202,72 +1206,72 @@ STRING 2451
 
 STRING 2453
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2454
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2455
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2456
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2457
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2458
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2459
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2460
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2461
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2462
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2463
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2464
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2465
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 2466
 {
-Unable to use Oil Rig.
+На цьому родовищі вже побудована нафтова платформа.
 }
 
 STRING 2467
@@ -1288,7 +1292,7 @@ Must target an Oil Patch.
 STRING 2470
 // Units: nmg1 (Murloc Hut), Name (Name)
 {
-Murloc Hut
+Хижа мурлока
 }
 
 STRING 2471
@@ -1310,7 +1314,7 @@ STRING 2502
 }
 
 STRING 2512
-// Units: o006 (Utok Scratcher), Ubertip (Tooltip - Extended)
+// Units: o006 (Уток Дряпач), Ubertip (Tooltip - Extended)
 {
 Apprentice shaman and chronicler. |n|n|cffffcc00Attacks land units.|r
 }
@@ -1318,7 +1322,7 @@ Apprentice shaman and chronicler. |n|n|cffffcc00Attacks land units.|r
 STRING 2528
 // Units: nth0 (Troll Hut), Name (Name)
 {
-Troll Hut
+Хатинка троля
 }
 
 STRING 2529
@@ -1330,7 +1334,7 @@ Build Troll Hut
 STRING 2530
 // Units: nth1 (Troll Hut), Name (Name)
 {
-Troll Hut
+Хатинка троля
 }
 
 STRING 2531
@@ -1365,10 +1369,10 @@ Snowpile
 
 STRING 2537
 {
-|cffffcc00MAIN QUEST FAILED|r
-Camp:
-- Locate the Blacktooth Grin camp.
-|cffff0000- Rend must survive (Failed).|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Табір:
+- Знайдіть табір клану Чорнозубого Вищиру.
+|cffff0000- Ренд має вижити (Провалено).|r
 }
 
 STRING 2539
@@ -1434,7 +1438,7 @@ STRING 2598
 STRING 2605
 // Units: nfsp (Forest Troll Witch Doctor), Name (Name)
 {
-Forest Troll Witch Doctor
+Лісовий троль знахар
 }
 
 STRING 2606
@@ -1452,7 +1456,7 @@ Hurls fiery missiles.Can heal units. Can cast Abolish Magic. |n|n|cffffcc00Attac
 STRING 2608
 // Units: nfsh (Forest Troll Dark Shaman), Name (Name)
 {
-Forest Troll Dark Shaman
+Лісовий троль темний шаман
 }
 
 STRING 2609
@@ -1476,7 +1480,7 @@ STRING 2611
 STRING 2615
 // Units: n006 (Gnoll Warlord), Name (Name)
 {
-Gnoll Warlord
+Воєвода ґнолів
 }
 
 STRING 2623
@@ -1502,7 +1506,7 @@ STRING 2654
 }
 
 STRING 2655
-// Units: o002 (Toiler), EditorSuffix (Name - Editor Suffix)
+// Units: o002 (Трудяга), EditorSuffix (Name - Editor Suffix)
 {
 (Amphibious)
 }
@@ -1514,7 +1518,7 @@ STRING 2657
 }
 
 STRING 2660
-// Units: n008 (Toiler), EditorSuffix (Name - Editor Suffix)
+// Units: n008 (Трудяга), EditorSuffix (Name - Editor Suffix)
 {
 (Amphibious Advanced)
 }
@@ -1526,7 +1530,7 @@ STRING 2664
 }
 
 STRING 2667
-// Units: o006 (Utok Scratcher), EditorSuffix (Name - Editor Suffix)
+// Units: o006 (Уток Дряпач), EditorSuffix (Name - Editor Suffix)
 {
 (Amphibious)
 }
@@ -1858,13 +1862,13 @@ Fence
 STRING 2789
 // Units: H00D (Dalaran Mage), Name (Name)
 {
-Dalaran Mage
+Архімаг Даларану
 }
 
 STRING 2790
 // Units: H00D (Dalaran Mage), Propernames (Proper Names)
 {
-Aran Spellweaver
+Аран Чаропліт
 }
 
 STRING 2799
@@ -1875,7 +1879,7 @@ Cinematic Turtle
 
 STRING 2807
 {
-Next Caravan:
+Наступний кортеж:
 }
 
 STRING 2809
@@ -1892,7 +1896,7 @@ STRING 2811
 
 STRING 2814
 {
-|cffff0000Caravan left the bay!|r
+|cffff0000Увага, кортеж покинув затоку!|r
 }
 
 STRING 2821
@@ -1903,35 +1907,35 @@ STRING 2821
 
 STRING 2845
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Berserker Potion
-  -|cff808080 Find the Bloodvine (Completed)|r
-  -|cff808080 Bring it to the Goblin Alchemist (Completed)|r
-  - Transform your Trolls into Berserkers
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Зілля берсерку
+  -|cff808080 Знайдіть криваву лозу (Завершено)|r
+  -|cff808080 Принесіть її у лабараторію ґобліна алхіміка (Завершено)|r
+  - Перетворіть ваших тролів на берсерків
 }
 
 STRING 2850
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-The Razing of Tyr's Hand
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Відтяти долоню Тиру
 }
 
 STRING 2851
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Hold the Line
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Тримати оборону
 }
 
 STRING 2853
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Berserker Potion
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Зілля берсерку
 }
 
 STRING 2883
 {
-|cff00ff00HINT|r
-The Goblin Alchemist lab should be build by your own peons.
+|cff00ff00ПІДКАЗКА|r
+Лабараторія ґобліна алхіміка має бути побудована саме вашими батраками.
 }
 
 STRING 2887
@@ -1954,36 +1958,36 @@ Pathing Blocker (BuildingX)
 
 STRING 2964
 {
-Order of Silver Hand
+Орден Срібної Десниці
 }
 
 STRING 2974
 // Units: o001 (Brute), Name (Name)
 {
-Brute
+Рубайло
 }
 
 STRING 2975
 // Units: o001 (Brute), Tip (Tooltip - Basic)
 {
-Train Brute
+Тренувати рубайла
 }
 
 STRING 2979
 {
-Witherbark Tribe
+Плем'я Зів'ялої Кори
 }
 
 STRING 2980
 // Units: H00G (Lord), Name (Name)
 {
-Lord
+Лорд
 }
 
 STRING 2981
 // Units: H00G (Lord), Propernames (Proper Names)
 {
-Mathias Valdemar
+Матіас Вальдемар
 }
 
 STRING 2982
@@ -2007,7 +2011,7 @@ Revive Lord
 STRING 2985
 // Units: h006 (Guard), Name (Name)
 {
-Guard
+Вартовий
 }
 
 STRING 2986
@@ -2031,13 +2035,13 @@ This unit is under the effects of Retribuition Aura; melee units that attack it 
 STRING 3013
 // Units: H00H (Lord), Name (Name)
 {
-Lord
+Лорд
 }
 
 STRING 3014
 // Units: H00H (Lord), Propernames (Proper Names)
 {
-Mathias Valdemar
+Матіас Вальдемар
 }
 
 STRING 3015
@@ -2066,24 +2070,24 @@ STRING 3018
 
 STRING 3046
 {
-A few hours later...
+Декілька годин потому…
 }
 
 STRING 3049
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Now you can make upgrades for Ogre Magi in the Altar of Storms.
+|cffffcc00ДОСТУПНІ НОВІ ПОКРАЩЕННЯ|r
+Ви можете перетворити ваших оґрів на оґрів-магів замовивши вдосконалення у «Вівтарі штормів»
 }
 
 STRING 3059
 {
-|cffffcc00MAIN QUEST FAILED|r
-Too many caravans have left the bay.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Занадто багато кортежів з підкріпленням покинуло затоку.
 }
 
 STRING 3108
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 3112
@@ -2105,24 +2109,23 @@ STRING 3114
 }
 
 STRING 3115
-// Units: o002 (Toiler), Name (Name)
+// Units: o002 (Трудяга), Name (Name)
 {
-Toiler
+Трудяга
 }
 
 STRING 3116
-// Units: n008 (Toiler), Name (Name)
+// Units: n008 (Трудяга), Name (Name)
 {
-Toiler
+Трудяга
 }
 
 STRING 3118
 // Units: o001 (Brute), Ubertip (Tooltip - Extended)
 {
-Brutish Orc warrior.
-Abilities: For the Horde! - Pillage
-
-|cffffcc00Attacks land units.|r
+Жорстокий орк воїн ближнього бою.
+Здібності: За Орду! - Грабіж
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 3119
@@ -2132,55 +2135,58 @@ STRING 3119
 }
 
 STRING 3120
-// Units: o002 (Toiler), Tip (Tooltip - Basic)
+// Units: o002 (Трудяга), Tip (Tooltip - Basic)
 {
-Train Toiler
+Тренувати трудягу
 }
 
 STRING 3121
-// Units: n008 (Toiler), Tip (Tooltip - Basic)
+// Units: n008 (Трудяга), Tip (Tooltip - Basic)
 {
-Train Toiler
+Тренувати трудягу
 }
 
 STRING 3122
 // Units: n009 (Ogre), Tip (Tooltip - Basic)
 {
-Train Ogre
+Тренувати оґра
 }
 
 STRING 3123
 // Units: n009 (Ogre), Ubertip (Tooltip - Extended)
 {
-The Ogres are the monstrous two-headed allies of the Orcs that were brought through the Portal by the Warlock Gul'dan after the First War.
-Abilities: Pillage
-Upgraded to: Ogre Magi
+Оґри це кремезні двоголові союзники орків, які пройшли разом з Ґул'даном через темний портал після першої війни.
 
-|cffffcc00Attacks land units.|r
+Здібності: «Грабіж»
+Може бути покращений до: Оґр-маг
+
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 3124
 // Units: n00A (Ogre Magi), Ubertip (Tooltip - Extended)
 {
-The Ogre Magi were originally a small band of extremely loyal Ogre enforcers, transformed by Gul'dan into scheming and malicious sorcerers.
-Abilities: Bloodlust - Eye of Kilrogg - Runes - Pillage
+Колись раніше в оґри-маги була посвячена лише маленька група звичайних оґрів які були до фанатизму віддані Ґул'дану, в рамках своїх мерзенних експериментів він навчив своїх посіпак основам темних чар.
 
-|cffffcc00Attacks land units.|r
+Здібності: Кровожерливість- Око Кілроґа - Руни - Грабіж
+
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 3125
 // Units: n00A (Ogre Magi), Tip (Tooltip - Basic)
 {
-Train Ogre Magi
+Тренувати оґра-мага
 }
 
 STRING 3126
 // Units: o007 (Troll Berserker), Ubertip (Tooltip - Extended)
 {
-Versatile axe-thrower, effective against air units.
-Abilities: Berserk - Ambush - Berserker Regeneration - Berserker Sight - Lighter Axes - Ensnare
+Універсальний воїн дальнього бою, ефективний проти повітряних цілей.
 
-|cffffcc00Attacks land and air units.|r
+Здібності: «Берсерк» - «Засідка» - «Регенерація берсерка» - «Пильність берсерка» - «Легші сокири» - «Піймати»
+
+|cffffcc00Атакує наземні та повітряні цілі.|r
 }
 
 STRING 3127
@@ -2192,26 +2198,27 @@ STRING 3127
 STRING 3128
 // Units: o007 (Troll Berserker), Tip (Tooltip - Basic)
 {
-Train Troll Berserker
+Тренувати троля берсерка
 }
 
 STRING 3130
 // Units: oTA0 (Catapult), Ubertip (Tooltip - Extended)
 {
-Long-range siege weaponry. Devastating against buildings and effective against gatherings of land units, but is slow and vulnerable.
-Abilities: Burning Oil
+Далекобійна облогова зброя яка вкрай ефективна проти споруд і скупчень ворожих підрозділів. Головні недолітки це повільне пересування і велика вразливість особливо проти ворогів ближнього бою.
 
-|cffffcc00Attacks land units and trees.|r 
+Можливе покращення: «Палаючі снаряди»
+
+|cffffcc00Атакує наземні цілі та дерева.|r
 }
 
 STRING 3131
-// Units: o006 (Utok Scratcher), Casterupgradename (Caster Upgrade Names)
+// Units: o006 (Уток Дряпач), Casterupgradename (Caster Upgrade Names)
 {
-Grunt,Initiate,Novice,Pupil,Apprentice,Slasher,Shaman,Captain,Overseer,Champion,Commander,Grand Master,General,Warlord
+Рубайло,Початківець,Новачок,Стажер,Учень,М'ясник,Шаман,Капітан,Наглядач,Чемпіон,Командир,Великий Майстер,Генерал,Воєвода
 }
 
 STRING 3132
-// Units: o006 (Utok Scratcher), Casterupgradetip (Caster Upgrade Tips)
+// Units: o006 (Уток Дряпач), Casterupgradetip (Caster Upgrade Tips)
 {
 - Resistant Skin,- Resistant Skin|n- Lighning Bolt,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival,- Resistant Skin|n- Lighning Bolt|n- Mend Wounds|n- Purge|n- Spirit Revival
 }
@@ -2219,7 +2226,7 @@ STRING 3132
 STRING 3133
 // Units: O008 (Warlord), Ubertip (Tooltip - Extended)
 {
-Son of the former Warchief of the Horde, Blackhand the Destroyer, Dal'rend Blackhand is a cunning and mightly warrior, known for his strategic mind... and amitions to leadership.
+Son of the former Warchief of the Horde, Blackhand the Destroyer, Dal'Ренд Чорнорук is a cunning and mightly warrior, known for his strategic mind... and amitions to leadership.
 
 |cffffcc00Attacks land units.|r
 }
@@ -2227,13 +2234,13 @@ Son of the former Warchief of the Horde, Blackhand the Destroyer, Dal'rend Black
 STRING 3134
 // Units: N00B (Warlord), Revivetip (Tooltip - Revive)
 {
-Revieve Maim Blackhand
+Revieve Мейм Чорнорук
 }
 
 STRING 3135
 // Units: N00B (Warlord), Ubertip (Tooltip - Extended)
 {
-Son of the former Warchief of the Horde, Blackhand the Destroyer, Maim Blackhand is an exceptionally brutal warrior, but often lacks patience and strategy.
+Son of the former Warchief of the Horde, Blackhand the Destroyer, Мейм Чорнорук is an exceptionally brutal warrior, but often lacks patience and strategy.
 
 |cffffcc00Attacks land units.|r
 }
@@ -2253,7 +2260,7 @@ Train Captain
 STRING 3138
 // Units: h009 (Paladin), Casterupgradename (Caster Upgrade Names)
 {
-Initiate, Adept, Holy man
+Посвячений, Адепт, Святий
 }
 
 STRING 3139
@@ -2354,510 +2361,510 @@ STRING 3151
 
 STRING 3152
 {
-Blacktooth Grin clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 3153
 {
-Witted Bark Tribe
+Плем'я Кмітливої Кори
 }
 
 STRING 3154
 {
-Camp
+Табір
 }
 
 STRING 3155
 {
-Find Maim and the Blacktooth Grin Camp and begin the siege of Tyr's Bay fortress.
+Знайдіть Мейма, він має бути у таборі клану Чорнозубого Вищиру. Потім розпочинайте осаду фортеці Тиру що у затоці.
 }
 
 STRING 3156
 {
-Locate the Blacktooth Grin camp
+Знайдіть табір клану Чорнозубого Вищиру
 }
 
 STRING 3157
 {
-Rend must survive
+Ренд має вижити
 }
 
 STRING 3159
 {
-|cffffcc00MAIN QUEST|r
-Camp
-  - Locate the Blacktooth Grin camp
-  - Rend must survive
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Табір
+  - Знайдіть табір клану Чорнозубого Вищиру
+  - Ренд має вижити
 }
 
 STRING 3161
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Camp
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Табір
 }
 
 STRING 3163
 {
-Alliance Navy
+Флот Альянсу
 }
 
 STRING 3164
 {
-Clear the bay of Alliance ships and destroy their shipyards, refineries, and foundries.
+Зачистіть затоку від флоту Альянсу та знищіть їхні корабельні, нафтопереробні заводи та ливарні.
 }
 
 STRING 3165
 {
-Destroy Alliance Shipyards
+Знищіть корабельні Альянсу
 }
 
 STRING 3166
 {
-Destroy Alliance Foundries
+Знищіть ливарні Альянсу
 }
 
 STRING 3167
 {
-Destroy Alliance Refineries
+Знищіть нафтопереробні заводи Альянсу
 }
 
 STRING 3168
 {
-Destroy the Supply Caravans
+Знищуйте всі каравани з припасами
 }
 
 STRING 3170
 {
-Caravans Fled:
+Кортежів виїхало:
 }
 
 STRING 3177
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Alliance Navy
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Флот Альянсу
 }
 
 STRING 3190
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
-|c00959697 - Destroy Alliance shipyards (Completed)|r
- - Destroy Alliance foundries
- - Destroy Alliance refineries
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+|c00959697 - Знищіть корабельні Альянсу (Завершено)|r
+- Знищіть ливарні Альянсу
+- Знищіть нафтопереробні заводи Альянсу
 }
 
 STRING 3191
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
-|c00959697 - Destroy Alliance foundries (Completed)|r
- - Destroy Alliance refineries
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than four caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+- Знищіть корабельні Альянсу
+|c00959697 - Знищіть ливарні Альянсу (Завершено)|r
+- Знищіть нафтопереробні заводи Альянсу
+- Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+- Не більше ніж чотири кортежі має покинути затоку
 }
 
 STRING 3192
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
-|c00959697 - Destroy Alliance foundries (Completed)|r
- - Destroy Alliance refineries
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than three caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+|c00959697 - Знищіть ливарні Альянсу (Завершено)|r
+ - Знищіть нафтопереробні заводи Альянсу 
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж три кортежі має покинути затоку
 }
 
 STRING 3193
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
-|c00959697 - Destroy Alliance foundries (Completed)|r
- - Destroy Alliance refineries
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than two caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+ - Знищіть ливарні Альянсу
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж два кортежі має покинути затоку
 }
 
 STRING 3194
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
- - Destroy Alliance foundries
-|c00959697 - Destroy Alliance refineries (Completed)|r
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than four caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+ - Знищіть ливарні Альянсу
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж чотири кортежі має покинути затоку
 }
 
 STRING 3195
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
- - Destroy Alliance foundries
-|c00959697 - Destroy Alliance refineries (Completed)|r
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than three caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+ - Знищіть ливарні Альянсу
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж три кортежі має покинути затоку
 }
 
 STRING 3196
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
- - Destroy Alliance foundries
-|c00959697 - Destroy Alliance refineries (Completed)|r
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than two caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+ - Знищіть ливарні Альянсу
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж два кортежі має покинути затоку 
 }
 
 STRING 3197
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
-|c00959697 - Destroy Alliance shipyards (Completed)|r
-|c00959697 - Destroy Alliance foundries (Completed)|r
- - Destroy Alliance refineries
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+|c00959697 - Знищіть корабельні Альянсу (Завершено)|r
+|c00959697 - Знищіть ливарні Альянсу (Завершено)|r
+- Знищіть нафтопереробні заводи Альянсу
 }
 
 STRING 3198
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
-|c00959697 - Destroy Alliance shipyards (Completed)|r
- - Destroy Alliance foundries
-|c00959697 - Destroy Alliance refineries (Completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+|c00959697  - Знищіть корабельні Альянсу (Завершено)|r
+- Знищіть ливарні Альянсу (Завершено)
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
 }
 
 STRING 3199
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
-|c00959697 - Destroy Alliance foundries (Completed)|r
-|c00959697 - Destroy Alliance refineries (Completed)|r
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than four caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+|c00959697 - Знищіть ливарні Альянсу (Завершено)|r
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж чотири кортежі має покинути затоку
 }
 
 STRING 3200
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
-|c00959697 - Destroy Alliance foundries (Completed)|r
-|c00959697 - Destroy Alliance refineries (Completed)|r
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than three caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+|c00959697 - Знищіть ливарні Альянсу (Завершено)|r
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж три кортежі має покинути затоку
 }
 
 STRING 3201
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Alliance Navy
- - Destroy Alliance shipyards
-|c00959697 - Destroy Alliance foundries (Completed)|r
-|c00959697 - Destroy Alliance refineries (Completed)|r
- - Destroy the human supply caravans being sent to Quel’Thalas 
- - No more than two caravans can leave the bay
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Флот Альянсу
+ - Знищіть корабельні Альянсу
+|c00959697 - Знищіть ливарні Альянсу (Завершено)|r
+|c00959697 - Знищіть нафтопереробні заводи Альянсу (Завершено)|r
+ - Знищуйте людські кортежі з припасами які прямують до Квел'Таласу
+ - Не більше ніж два кортежі має покинути затоку
 }
 
 STRING 3205
 {
-The Razing of Tyr's Hand
+Відтяти долоню Тиру
 }
 
 STRING 3206
 {
-The Stromgarde Citadel overlooking Tyr's Bay is a direct threat to our naval presence in this region. Raze the citadel and slaughter its defenders!
+Фортеця Стромварт яка виходить прямо на затоку Тиру представляє загрозу нашим військово-морським силам у цьому регіоні. Знищіть цитадель та вбийте її захисників!
 }
 
 STRING 3207
 {
-Destroy Stromgarde Citadel
+Знищіть фортецю Стромварт 
 }
 
 STRING 3208
 {
-Kill the Mage
+Вбийте даларанського мага
 }
 
 STRING 3218
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3219
 // _HD.w3mod/Sound/Dialogue/WC2Orc09/WC2Orc09Utok9.flac
 {
-Chieftains! Some sort of magic has frozen our fleet! The bay is solid ice!
+Отамани! Якісь чари заморозили увесь наш флот! Вся затока зараз це -  суцільна крига!
 }
 
 STRING 3220
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3221
 // _HD.w3mod/Sound/Dialogue/WC2Orc09/WC2Orc09Rend9.flac
 {
-To hell with the ships! We will march on the keep on foot... straight across the ice!
+До чорта кораблі! Підемо на фортецю пішки… прямо по кризі!
 }
 
 STRING 3222
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3223
 // _HD.w3mod/Sound/Dialogue/WC2Orc09/WC2Orc09Maim6.flac
 {
-Let us crush the humans and their pathetic allies!
+Знищимо людей та їх нікчемних союзників!
 }
 
 STRING 3224
 {
-|cffffcc00MAIN QUEST|r
-The Razing of Tyr's Hand
-  - Destroy Stromgarde Citadel
-  - Kill the Mage
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Відтяти долоню Тиру
+  - Знищіть фортецю Стромварт 
+  - Вбийте даларанського мага
 }
 
 STRING 3225
 {
-|c0000FF00HINT:|r Now your troops can move on ice covered water. Ships and coastal structures are no longer available.
+|c0000FF00ПІДКАЗКА:|r Ваші наземні війська можуть пересуватися кригою. Кораблі, бойові черепахи та всі берегові споруди більше недоступні для використання.
 }
 
 STRING 3226
 {
-|cffffcc00MAIN QUEST UPDATE|r
-The Razing of Tyr's Hand
-  -|cff808080 Destroy Stromgarde (Completed)|r
-  - Kill the Mage
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Відтяти долоню Тиру
+  -|cff808080 Знищіть фортецю Стромварт (Завершено)|r
+  - Вбийте даларанського мага
 }
 
 STRING 3227
 {
-|cffffcc00MAIN QUEST UPDATE|r
-The Razing of Tyr's Hand
-  - Destroy Stromgarde Citadel
-  -|cff808080 Kill the Mage (Completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Відтяти долоню Тиру
+  - Знищіть фортецю Стромварт 
+  -|cff808080 Вбийте даларанського мага (Завершено)|r
 }
 
 STRING 3228
 {
-Hold the Line
+Тримати оборону
 }
 
 STRING 3229
 {
-The Alliance is sending its forces to retake Tyr's Keep on the Island. Stand your ground until your peons can finish construction of our Fortress!
+Альянс відправляє свої сили до острова аби відбити назад фортецю Тиру. Вам треба тримати оборону поки ваші батраки не закінчать будівництво фортеці.
 }
 
 STRING 3230
 {
-Hold the line until the Shipyard is built
+Тримайте оборону поки не буде побудована фортеця
 
 }
 
 STRING 3231
 {
-Hold the line until the Fortress is built
+Тримайте оборону поки не буде побудована фортеця
 }
 
 STRING 3236
 {
-|cffffcc00MAIN QUEST|r
-Hold the Line
-  - Hold the line until the Fortress is built
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Тримати оборону
+- Тримати оборону поки не буде завершено будування фортеці
 }
 
 STRING 3240
 {
-Construction Progress:
+Стан будівнитсва:
 }
 
 STRING 3241
 {
-Shipyard (in progress)
+Корабельня (будується)
 }
 
 STRING 3242
 {
-Fortress (in progress)
+Фортеця (будується)
 }
 
 STRING 3243
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Hold the Line
-  -|cff808080 Hold the line until the Shipyard is built (Completed)|r
-  - Hold the line until the Fortress is built
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Тримати оборону
+  -|cff808080 Тримати оборону поки корабельня не буде зведена (Завершено)|r
+  - Тримати оборону поки фортеця не буде зведена 
 }
 
 STRING 3244
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Hold the Line
-  - Hold the line until the Shipyard is built
-  -|cff808080 Hold the line until the Fortress is built (Completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Тримати оборону
+  - Тримати оборону поки корабельня не буде зведена
+  -|cff808080 Тримати оборону поки фортеця не буде зведена (Завершено)|r
 }
 
 STRING 3247
 {
-Fortress (Completed)
+Фортеця (Завершено)
 }
 
 STRING 3251
 {
-Shipyard (Completed)
+Корабельня (Завершено)
 }
 
 STRING 3258
 {
-Ogre Magi
+Оґр-маг
 }
 
 STRING 3259
 {
-An ogre-magi envoy of Cho'gall has brought a fragment of the Caer Darrow Runestone to this region. Find him, and you will be able to build an Altar of Storms and turn your ogres into powerful Ogre-Mages.
+Чо'ґалл відправив підкріплення, одного оґра-мага який мав доставити у ці землі фрагмент рунічного каменю з Каєр-Дерроу. Знайдіть його і зможете побудувати вівтар штормів, який дасть вам змогу перетворювати оґрів у могутніх оґрів-магів.
 }
 
 STRING 3260
 {
-Find the Runestone Shard
+Знайдіть фрагмент рунічного каменю
 }
 
 STRING 3261
 {
-Build an Altar of Storms
+Побудуйте вівтар штормів
 }
 
 STRING 3262
 {
-Transform your Ogres into Ogre Mages
+Перетворіть оґрів у оґрів-магів
 }
 
 STRING 3263
 {
-|cffffcc00OPTIONAL QUEST|r
-Ogre Magi
-  - Find the Runestone Shard
-  - Build an Altar of Storms
-  - Transform your Ogres into Ogre Mages
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Оґр-маг
+  - Знайдіть фрагмент рунічного каменю
+  - Побудуйте вівтар штормів
+  - Перетворіть своїх оґрів у оґрів-магів
 }
 
 STRING 3264
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Ogre Magi
-  -|cff808080 Find the Runestone Shard (Completed)|r
-  - Build an Altar of Storms
-  - Transform your Ogres into Ogre Mages
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Оґр-маг
+  -|cff808080 Знайдіть фрагмент рунічного каменю  (Завершено)|r
+  - Побудуйте вівтар штормів
+  - Перетворіть своїх огрів у огрів-магів
 }
 
 STRING 3265
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Ogre Magi
-  -|cff808080 Find the Runestone Shard (Completed)|r
-  -|cff808080 Build an Altar of Storms (Completed)|r
-  - Transform your Ogres into Ogre Mages
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Оґр-маг
+  -|cff808080 Знайдіть фрагмент рунічного каменю (Завершено)|r
+  -|cff808080 Побудуйте вівтар штормів (Завершено)|r
+  - Перетворіть своїх огрів у огрів-магів  
 }
 
 STRING 3267
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Ogre Magi
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Оґр-маг
 }
 
 STRING 3268
 {
-Berserker Potion
+Зілля берсерку
 }
 
 STRING 3269
 {
-Our Amani allies have revealed a way to make their warriors even more powerful. Find the bloodvine, bring it to the goblin alchemist and add the mighty berserkers to your ranks.
+Наші союзники Амані поділилися секретом, як їхні воїни стають більш могутніми та безжальними. Знайдіть квітку кривавої лози, та принесіть її у лабораторію ґобліна алхіміка, це дозволить нам мати у своєму війську могутніх берсерків.
 }
 
 STRING 3270
 {
-Find the Bloodvine
+Знайдіть криваву лозу
 }
 
 STRING 3271
 {
-Bring it to the Goblin Alchemist
+Принесіть її у лабараторію ґобліна алхіміка
 }
 
 STRING 3272
 {
-Transform your Trolls into Berserkers
+Перетворіть ваших тролів на берсерків
 }
 
 STRING 3274
 {
-|cffffcc00OPTIONAL QUEST|r
-Berserker Potion
-  - Find the Bloodvine
-  - Bring it to the Goblin Alchemist
-  - Transform your Trolls into Berserkers
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Зілля берсерку
+  - Знайдіть криваву лозу
+  - Принесіть її у лабараторію ґобліна алхіміка
+  - Перетворіть ваших тролів на берсерків
 }
 
 STRING 3275
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-Berserker Potion
-  -|cff808080 Find the Bloodvine (Completed)|r
-  - Bring it to the Goblin Alchemist
-  - Transform your Trolls into Berserkers
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Зілля берсерку
+-|cff808080 Знайдіть криваву лозу (Завершено)|r
+- Принесіть її у лабораторію ґобліна алхіміка
+- Перетворіть ваших тролів на берсерків
 }
 
 STRING 3276
 {
-|cffffcc00TECHTREE UNLOCKED|r
-Troll Berserker upgrade is now available.
+|cffffcc00ДОСТУПНІ НОВІ ПОКРАЩЕННЯ|r
+Ваші тролі тепер можуть бути покращені до берсерків.
 }
 
 STRING 3277
 {
-|cff32cd32HINT|r
-Use catapults to destroy the gate of the fortress.
+|cff32cd32ПІДКАЗКА|r
+Зруйнуйте вхідну браму фортеці за допомогою катапульт
 }
 
 STRING 3280
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your Camp is destroyed.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Ваш табір знищено.
 }
 
 STRING 3285
 {
-Blacktooth Grin Clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 3286
 {
-Frozen
+Заморожено
 }
 
 STRING 3287
 {
-Blacktooth Grin Clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 3288
 // Abilities: ASat (Construction Set), Unubertip (Tooltip - Turn Off - Extended)
 {
-Peons build regular Horde buildings.
+Активація режиму будівниства простих споруд Орди.
 }
 
 STRING 3289
 // Abilities: ASat (Construction Set), Untip (Tooltip - Turn Off)
 {
-Regular Buildings
+Прості споруди
 }
 
 STRING 3290
@@ -2869,13 +2876,13 @@ Construction Set
 STRING 3291
 // Abilities: ASat (Construction Set), Tip (Tooltip - Normal)
 {
-Advanced Buildings
+Передові споруди
 }
 
 STRING 3292
 // Abilities: ASat (Construction Set), Ubertip (Tooltip - Normal - Extended)
 {
-Peons build advanced Horde buildings.
+Активація режиму будівниства передових споруд Орди.
 }
 
 STRING 3293
@@ -2887,13 +2894,13 @@ STRING 3293
 STRING 3297
 // Items: I0L0 (WC2Orc09Saidan1), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3298
 // Items: I0L0 (WC2Orc09Saidan1), Description (Description)
 {
-Greetings Sir! I am glad that the Magocracy of Dalaran has sent reinforcements to Tyr's Hand.
+Вітаю сір! Я радий, що вища рада магів Даларану надіслала підкріплення до Десниці Тиру.
 }
 
 STRING 3299
@@ -2905,13 +2912,13 @@ WC2Orc09Saidan1
 STRING 3300
 // Items: I0L1 (WC2Orc09Saidan2), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3301
 // Items: I0L1 (WC2Orc09Saidan2), Description (Description)
 {
-Indeed. We have already sent a squadron of our best men to destroy the orcish camp.
+Це справді так. Ми вже відправили загін наших найкращих людей, аби знищити табір орків.
 }
 
 STRING 3302
@@ -2923,13 +2930,13 @@ WC2Orc09Saidan2
 STRING 3303
 // Items: I0L2 (WC2Orc09Saidan3), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3304
 // Items: I0L2 (WC2Orc09Saidan3), Description (Description)
 {
-Good. Make sure that all of the ships are loaded with grain and supplies at maximum capacity.
+Добре. Переконайтеся, що всі кораблі завантажені на максимум як зерном так і припасами.
 }
 
 STRING 3305
@@ -2941,13 +2948,13 @@ WC2Orc09Saidan3
 STRING 3306
 // Items: I0L3 (WC2Orc09Saidan4), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3307
 // Items: I0L3 (WC2Orc09Saidan4), Description (Description)
 {
-I know, but when Stromgarde fell we also lost most of our fleet. Without these supplies, we will be unable to enlist archers and destroyers from our elven allies. We will be defenseless
+Я розумію, але коли Стромварт пав, ми також втратили більшу частину нашого флоту. Без постачання цих припасів ми не зможемо залучити наших ельфійських союзників. Ми будемо беззахисні.
 }
 
 STRING 3308
@@ -2959,13 +2966,13 @@ WC2Orc09Saidan4
 STRING 3309
 // Items: I0L5 (WC2Orc09Saidan5), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3310
 // Items: I0L5 (WC2Orc09Saidan5), Description (Description)
 {
-We will provide for them later. Now, focus on setting up the caravans.
+Подбаємо про них пізніше. Зосередьтися на підготовці караванів.
 }
 
 STRING 3311
@@ -2977,13 +2984,13 @@ WC2Orc09Saidan5
 STRING 3312
 // Items: I0L6 (WC2Orc09Saidan6), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3313
 // Items: I0L6 (WC2Orc09Saidan6), Description (Description)
 {
-By the Light! The orcs have destroyed the shipyards!
+Іменем світла! Орки зруйнували наші корабельні!
 }
 
 STRING 3314
@@ -2995,13 +3002,13 @@ WC2Orc09Saidan6
 STRING 3315
 // Items: I0L7 (WC2Orc09Saidan7), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3316
 // Items: I0L7 (WC2Orc09Saidan7), Description (Description)
 {
-But my Lord... how will we cross the bay?
+Але мілорде… Як ми перетнемо затоку без кораблів?
 }
 
 STRING 3317
@@ -3013,13 +3020,13 @@ WC2Orc09Saidan7
 STRING 3318
 // Items: I0L8 (WC2Orc09Saidan8), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3319
 // Items: I0L8 (WC2Orc09Saidan8), Description (Description)
 {
-Lord Valdemar, I…I tried my best to hold the bay, but those unholy savages were ruthless.
+Лорде Вальдемаре, я… я зробив усе аби утримати затоку, але цих нечестивих дикунів було не стримати.
 }
 
 STRING 3320
@@ -3031,13 +3038,13 @@ WC2Orc09Saidan8
 STRING 3321
 // Items: I0L9 (WC2Orc09Saidan9), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3322
 // Items: I0L9 (WC2Orc09Saidan9), Description (Description)
 {
-I’m with you… I will not hide here while men die for me!
+Я піду з тобою … Не можу тут ховатися, поки гинуть люди захищаючи мене!
 }
 
 STRING 3323
@@ -3049,13 +3056,13 @@ WC2Orc09Saidan9
 STRING 3324
 // Items: I0L4 (WC2Orc09Saidan10), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3325
 // Items: I0L4 (WC2Orc09Saidan10), Description (Description)
 {
-Light save us…
+Світло захистить нас…
 }
 
 STRING 3326
@@ -3067,13 +3074,13 @@ WC2Orc09Saidan10
 STRING 3327
 // Items: I0LA (WC2Orc09Saidan11), Tip (Tooltip - Basic)
 {
-Saidan Dathrohan
+Сейден Датроган
 }
 
 STRING 3328
 // Items: I0LA (WC2Orc09Saidan11), Description (Description)
 {
-Fight with the light’s blessing, lord Valdemar, and give those beasts the justice they deserve!
+Бийтеся з благословенням світла, лорде Вальдемаре, і дайте цим звірам те на що вони справді заслуговують!
 }
 
 STRING 3329
@@ -3085,13 +3092,13 @@ WC2Orc09Saidan11
 STRING 3330
 // Items: I0LB (WC2Orc09Mage1), Tip (Tooltip - Basic)
 {
-Archmage
+Аран Чаропліт
 }
 
 STRING 3331
 // Items: I0LB (WC2Orc09Mage1), Description (Description)
 {
-Greetings Captain. I have information that the Horde is gathering naval forces in the region and may try to cut our supply lines to Quel'thalas. This must not happen.
+Вітаю капітане. Я маю інформацію що Орда збирає військово-морські сили в цьому регіоні та може спробувати перерізати наші лінії постачання до Квел'Таласу. Цього не має статися.
 }
 
 STRING 3332
@@ -3103,13 +3110,13 @@ WC2Orc09Mage1
 STRING 3333
 // Items: I0LC (WC2Orc09Mage2), Tip (Tooltip - Basic)
 {
-Archmage
+Аран Чаропліт
 }
 
 STRING 3334
 // Items: I0LC (WC2Orc09Mage2), Description (Description)
 {
-Good. I will remain in the tower and provide arcane support for your troops if needed.
+Добре. Я буду на вежі, аби забезпечити магічну підтримку вашому війську, у випадку якщо це буде потрібно.
 }
 
 STRING 3335
@@ -3121,13 +3128,13 @@ WC2Orc09Mage2
 STRING 3336
 // Items: I0LD (WC2Orc09Mage3), Tip (Tooltip - Basic)
 {
-Archmage
+Аран Чаропліт
 }
 
 STRING 3337
 // Items: I0LD (WC2Orc09Mage3), Description (Description)
 {
-Those filthy creatures will pay for their arrogance! Gather your men, we're going on the offensive!
+Ці мерзенні створіння поплатяться за свою нахабність! Збирайте людей, ми йдемо в наступ!
 }
 
 STRING 3338
@@ -3139,13 +3146,13 @@ WC2Orc09Mage3
 STRING 3339
 // Items: I0LE (WC2Orc09Mage4), Tip (Tooltip - Basic)
 {
-Archmage
+Аран Чаропліт
 }
 
 STRING 3340
 // Items: I0LE (WC2Orc09Mage4), Description (Description)
 {
-You won't need your ships, Captain. I will freeze both the bay and the very blood of these savages!
+Вам не знадобляться кораблі, капітане. Я заморожу як затоку, так і кров цих дикунів!
 }
 
 STRING 3341
@@ -3157,13 +3164,13 @@ WC2Orc09Mage4
 STRING 3342
 // Items: I0LF (WC2Orc09Footman1), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 3343
 // Items: I0LF (WC2Orc09Footman1), Description (Description)
 {
-Good day, sir. We have started to gather the winter crops from the local populace as requested. They are being loaded onto the ships as we speak.
+Доброго дня, сір. Ми почали збирати сільськогосподарські культури від місцевого населення для постачання у Квел'Талас. Прямо зараз їх вантажать на кораблі.
 }
 
 STRING 3344
@@ -3175,13 +3182,13 @@ WC2Orc09Footman1
 STRING 3345
 // Items: I0LG (WC2Orc09Footman2), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 3346
 // Items: I0LG (WC2Orc09Footman2), Description (Description)
 {
-Sir, if I may speak freely... I have concerns about this order. We are taking the very last grain that the peasants have. If we follow through with this, then they will be starving in a matter of months.
+Сір, відверто кажучи… мене хвилює цей наказ. Ми забираємо фактично останнє зерно, яке є у селян. Якщо ми продовжимо так і далі, то через кілька місяців їм банально нічого буде їсти.
 }
 
 STRING 3347
@@ -3193,13 +3200,13 @@ WC2Orc09Footman2
 STRING 3348
 // Items: I0LH (WC2Orc09Footman3), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 3349
 // Items: I0LH (WC2Orc09Footman3), Description (Description)
 {
-But the peasants...
+Але селяни…
 }
 
 STRING 3350
@@ -3211,13 +3218,13 @@ WC2Orc09Footman3
 STRING 3351
 // Items: I0LI (O07FootmanA1101), Tip (Tooltip - Basic)
 {
-Footman
+Піхотинець
 }
 
 STRING 3352
 // Items: I0LI (O07FootmanA1101), Description (Description)
 {
-Orcs! Arm yourselves!
+Орки! До зброї!
 }
 
 STRING 3353
@@ -3229,13 +3236,13 @@ O07FootmanA1101
 STRING 3354
 // Items: I0LJ (WC2Orc09RegionalDefender1), Tip (Tooltip - Basic)
 {
-Regional Defender
+Вартовий
 }
 
 STRING 3355
 // Items: I0LJ (WC2Orc09RegionalDefender1), Description (Description)
 {
-Your Holiness, the Horde has captured the Stromgarde keep in the bay!
+Ваша святосте, Орда захопила фортецю Стромварт у затоці!
 }
 
 STRING 3356
@@ -3247,13 +3254,13 @@ WC2Orc09RegionalDefender1
 STRING 3357
 // Items: I0LK (WC2Orc09Cleric1), Tip (Tooltip - Basic)
 {
-Archbishop Jonas
+Архієпископ Джонас
 }
 
 STRING 3358
 // Items: I0LK (WC2Orc09Cleric1), Description (Description)
 {
-We must inform Lord Valdemar at once!
+Треба негайно повідомити лорда Вальдемара!
 }
 
 STRING 3359
@@ -3265,13 +3272,13 @@ WC2Orc09Cleric1
 STRING 3360
 // Items: I0LL (WC2Orc09ElvenRanger1), Tip (Tooltip - Basic)
 {
-Elven Ranger
+Ельфійський лучник
 }
 
 STRING 3361
 // Items: I0LL (WC2Orc09ElvenRanger1), Description (Description)
 {
-Pretty smart for an orc...
+Досить розумний, як для орка...
 }
 
 STRING 3362
@@ -3283,7 +3290,7 @@ WC2Orc09ElvenRanger1
 STRING 3363
 // Items: I0LM (WC2Orc09TrollTaunt01), Tip (Tooltip - Basic)
 {
-Berserker
+Троль берсерк
 }
 
 STRING 3365
@@ -3295,13 +3302,13 @@ WC2Orc09TrollTaunt01
 STRING 3366
 // Items: I0LN (WC2Orc09TrollTaunt02), Tip (Tooltip - Basic)
 {
-Forest Troll
+Троль берсерк
 }
 
 STRING 3367
 // Items: I0LN (WC2Orc09TrollTaunt02), Description (Description)
 {
-Taz'Dingo!
+Таз'дінґо!
 }
 
 STRING 3368
@@ -3313,13 +3320,13 @@ WC2Orc09TrollTaunt02
 STRING 3369
 // Items: I0LO (WC2Orc09Berserker1), Tip (Tooltip - Basic)
 {
-Berserker
+Троль берсерк
 }
 
 STRING 3370
 // Items: I0LO (WC2Orc09Berserker1), Description (Description)
 {
-Hello mon. Zul'jin be sending his greetings. He told us ya might be needing some help here.
+Здравстуй воїне. Зул'джин надсилає свої вітання. Він казав, що вам тут може знадобитися поміч.
 }
 
 STRING 3371
@@ -3331,13 +3338,13 @@ WC2Orc09Berserker1
 STRING 3372
 // Items: I0LP (WC2Orc09Rend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3373
 // Items: I0LP (WC2Orc09Rend1), Description (Description)
 {
-Finally, we have arrived. I believe the Blacktooth Grin camp is on the other side of the island.
+Нарешті ми прибули. Сподіваюсь що табір клану Чорнозубого Вищиру на іншому кінці острова.
 }
 
 STRING 3374
@@ -3349,13 +3356,13 @@ WC2Orc09Rend1
 STRING 3375
 // Items: I0LQ (WC2Orc09Rend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3376
 // Items: I0LQ (WC2Orc09Rend2), Description (Description)
 {
-It is indeed, which is why we must make haste. I have lost faith in my feeble-minded brother’s ability to command our forces here. He barely avoided punishment after his failure at Dun Modr.
+То є правда, тому нам треба поспішати. Я зневірився в тому що мій недоумкуватий брат здатен керувати нашими військами тут. Це просто диво що він уникнув покарання після невдачі у Дун-Модрі.
 }
 
 STRING 3377
@@ -3367,13 +3374,13 @@ WC2Orc09Rend2
 STRING 3378
 // Items: I0LR (WC2Orc09Rend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3379
 // Items: I0LR (WC2Orc09Rend3), Description (Description)
 {
-Defend yourselves! Slay the archers!
+Захищайтеся! Повбивайте лучників!
 }
 
 STRING 3380
@@ -3385,13 +3392,13 @@ WC2Orc09Rend3
 STRING 3381
 // Items: I0LS (WC2Orc09Rend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3382
 // Items: I0LS (WC2Orc09Rend4), Description (Description)
 {
-Your arrival saved our lives, mighty Amani. Truly, your worth to the Horde and fighting skills are beyond question. How did you gain such a strength and ferocity?
+Ваша поява врятувала нам життя, могутній Амані. На правду, ви заслуговуєте бути в Орді, бо бойові навички тролів поза будь-яких питань. Але я ще не бавив такої люті та сили у тролів.
 }
 
 STRING 3383
@@ -3403,13 +3410,13 @@ WC2Orc09Rend4
 STRING 3384
 // Items: I0LT (WC2Orc09Rend6), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3385
 // Items: I0LT (WC2Orc09Rend6), Description (Description)
 {
-Oh brother... everytime you’re tasked with a mission of your own you always almost ruin it!
+Ох брате… щоразу коли тобі доручають якесь діло, ти просто у кроці від того, щоб все зіпсувати!
 }
 
 STRING 3386
@@ -3421,13 +3428,13 @@ WC2Orc09Rend6
 STRING 3387
 // Items: I0LU (WC2Orc09Rend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3388
 // Items: I0LU (WC2Orc09Rend5), Description (Description)
 {
-Then we need to find that plant Immediately. Thank you, mighty berserker.
+Тоді нам потрібно негайно знайти цю рослину. Дякую тобі, могутній берсерку.
 }
 
 STRING 3389
@@ -3439,13 +3446,13 @@ WC2Orc09Rend5
 STRING 3390
 // Items: I0LV (WC2Orc09Rend7), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3391
 // Items: I0LV (WC2Orc09Rend7), Description (Description)
 {
-The Warchief is watching our every move you blundering idiot... your constant rashness is putting us both at risk!
+Вождь спостерігає за кожним нашим кроком безглуздий невіглас. Вітер у твоїй голові, може викликати бурю на нас обох.
 }
 
 STRING 3392
@@ -3457,13 +3464,13 @@ WC2Orc09Rend7
 STRING 3393
 // Items: I0LW (WC2Orc09Rend9), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3394
 // Items: I0LW (WC2Orc09Rend9), Description (Description)
 {
-To hell with the ships! We will march on the keep on foot... straight across the ice!
+До чорта кораблі! Підемо на фортецю пішки… прямо по кризі!
 }
 
 STRING 3395
@@ -3475,13 +3482,13 @@ WC2Orc09Rend9
 STRING 3396
 // Items: I0LX (WC2Orc09Rend10), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3397
 // Items: I0LX (WC2Orc09Rend10), Description (Description)
 {
-Hold the line you maggots! We captured this keep and will not be losing it to these humans!
+Тримайте оборону хробаки! Ця фортеця вже наша і ми не втратимо її!
 }
 
 STRING 3398
@@ -3493,13 +3500,13 @@ WC2Orc09Rend10
 STRING 3399
 // Items: I0LY (WC2Orc09Rend11), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3400
 // Items: I0LY (WC2Orc09Rend11), Description (Description)
 {
-Utok has built quite the reputation for himself in this war... he may be completely loyal to Doomhammer, but I don’t doubt his service to the Horde for a second. He’s a brave warrior, despite our differences.
+Уток створив собі непогану репутацію під час цієї війни… можливо він цілком відданий лише Молоту Згуби, але у мене нема сумнівів що він слугує на благо Орди. Він хоробрий воїн, хоча і по іншому дивиться на речі.
 }
 
 STRING 3401
@@ -3511,13 +3518,13 @@ WC2Orc09Rend11
 STRING 3402
 // Items: I0LZ (WC2Orc09Rend12), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3403
 // Items: I0LZ (WC2Orc09Rend12), Description (Description)
 {
-Likewise Maim. You and I share the blood and heritage of our father. One day, we will rule the horde and neither Doomhammer nor any of his pets will stand in our way. Now, let’s have our well earned feast!
+Мене теж Мейме. Ми поділяємо як кров, так і спадщину нашого батька. Одного дня ми будемо правити ордою і ні Молот Згуби, ні будь-хто з його тваринок не буде стояти на нашому шляху. А тепер давай відсвяткуймо!
 }
 
 STRING 3404
@@ -3529,13 +3536,13 @@ WC2Orc09Rend12
 STRING 3405
 // Items: I0La (WC2Orc09Maim1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3406
 // Items: I0La (WC2Orc09Maim1), Description (Description)
 {
-Aaah the Alliance scum has sent us more sheep to carve up, slaughter them boys.
+Ааа це сміття під назвою Альянс надіслали нам ще більше овець на забиття, переріжте їх усіх хлопці.
 }
 
 STRING 3407
@@ -3547,13 +3554,13 @@ WC2Orc09Maim1
 STRING 3408
 // Items: I0Lb (WC2Orc09Maim2), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3409
 // Items: I0Lb (WC2Orc09Maim2), Description (Description)
 {
-I could have solved that problem on my own, Rend! Stop blaming me!
+Яб і сам впоравався, Ренде. Досить цькувати мене!
 }
 
 STRING 3410
@@ -3565,13 +3572,13 @@ WC2Orc09Maim2
 STRING 3411
 // Items: I0Lc (WC2Orc09Maim4), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3412
 // Items: I0Lc (WC2Orc09Maim4), Description (Description)
 {
-Scratcher... the Stormreaver clan has sent an Ogre Magi to reinforce the Blacktooth Grin camp. Have you seen him?
+Дряпач… Клан Бурхливої Бурі відправив нам на допомогу оґра-мага. Ти десь бачив його?
 }
 
 STRING 3413
@@ -3583,13 +3590,13 @@ WC2Orc09Maim4
 STRING 3414
 // Items: I0Ld (WC2Orc09Maim5), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3415
 // Items: I0Ld (WC2Orc09Maim5), Description (Description)
 {
-Then secure the island and find that beast! We need his arcane support here.
+Тоді укріпімо оборону табору і знайдемо цю тварюку! Її темні чари стануть нам тут у нагоді.
 }
 
 STRING 3416
@@ -3601,13 +3608,13 @@ WC2Orc09Maim5
 STRING 3417
 // Items: I0Le (WC2Orc09Maim6), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3418
 // Items: I0Le (WC2Orc09Maim6), Description (Description)
 {
-Let us crush the humans and their pathetic allies!
+Знищимо людей та їх нікчемних союзників!
 }
 
 STRING 3419
@@ -3619,13 +3626,13 @@ WC2Orc09Maim6
 STRING 3420
 // Items: I0Lf (WC2Orc09Maim7), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3421
 // Items: I0Lf (WC2Orc09Maim7), Description (Description)
 {
-They will regret ever setting foot on this island!
+Вону пожалкують, що навіть ступили на цей острів!
 }
 
 STRING 3422
@@ -3637,13 +3644,13 @@ WC2Orc09Maim7
 STRING 3423
 // Items: I0Lg (WC2Orc09Maim8), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3424
 // Items: I0Lg (WC2Orc09Maim8), Description (Description)
 {
-That shaman has become too arrogant, brother.
+Щось, як на мене, брате цей шаман став зарозумним.
 }
 
 STRING 3425
@@ -3655,13 +3662,13 @@ WC2Orc09Maim8
 STRING 3426
 // Items: I0Lh (WC2Orc09Maim9), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3427
 // Items: I0Lh (WC2Orc09Maim9), Description (Description)
 {
-That may be, but Rend… thank you for aiding me in this battle. Sometimes I can’t stand you, but fighting alongside you fills my heart with passion.
+Може Ренде, може. У будь-якому раді я вдячний тобі за допомогу в цій битві. Іноді я терпіти тебе не можу, але коли ми пліч-о-пліч вирізаємо собак альянсу це наповнює моє серце радістю.
 }
 
 STRING 3428
@@ -3673,13 +3680,13 @@ WC2Orc09Maim9
 STRING 3429
 // Items: I0Li (WC2Orc09Maim10), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Мейм Чорнорук
 }
 
 STRING 3430
 // Items: I0Li (WC2Orc09Maim10), Description (Description)
 {
-Yeah, a feast is what we need after a good battle!
+Так, це саме те, що потрібно після славетної битви!
 }
 
 STRING 3431
@@ -3691,13 +3698,13 @@ WC2Orc09Maim10
 STRING 3432
 // Items: I0Lk (WC2Orc09Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3433
 // Items: I0Lk (WC2Orc09Utok1), Description (Description)
 {
-Our scouts report that Tyr's Bay is filled with Alliance troops, both ground and naval. It is fortunate that we managed to make landfall without being noticed.
+Наші розвідники доповідають що Затока Тиру заповнена військами Альянсу, причому як на землі, так і на морі. Нам пощастило, що ми висадились непоміченими.
 }
 
 STRING 3434
@@ -3709,13 +3716,13 @@ WC2Orc09Utok1
 STRING 3435
 // Items: I0Lm (WC2Orc09Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3436
 // Items: I0Lm (WC2Orc09Utok2), Description (Description)
 {
-Then we'd best get moving.
+Тоді нам краще рухатися.
 }
 
 STRING 3437
@@ -3727,13 +3734,13 @@ WC2Orc09Utok2
 STRING 3438
 // Items: I0Ln (WC2Orc09Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3439
 // Items: I0Ln (WC2Orc09Utok3), Description (Description)
 {
-Chieftain, this gorge is a perfect place for an ambush.
+Отамане, ця ущелина виглядає просто ідеальне місце для засідки.
 }
 
 STRING 3440
@@ -3745,13 +3752,13 @@ WC2Orc09Utok3
 STRING 3441
 // Items: I0Lo (WC2Orc09Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3442
 // Items: I0Lo (WC2Orc09Utok4), Description (Description)
 {
-Hey you there! Gather these two peons and make sure that they repair all the buildings.
+Агов воїне, візьми цих двох батраків і прослідкуй, аби вони полагодили всі споруди.
 }
 
 STRING 3443
@@ -3763,13 +3770,13 @@ WC2Orc09Utok4
 STRING 3444
 // Items: I0Lp (WC2Orc09Utok5), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3445
 // Items: I0Lp (WC2Orc09Utok5), Description (Description)
 {
-And what are you looking at? We need a working oil rig! Enough slacking!
+А ви на що вилупились? Нам потрібна робоча нафтова свердловина. До роботи!
 }
 
 STRING 3446
@@ -3781,13 +3788,13 @@ WC2Orc09Utok5
 STRING 3447
 // Items: I0Lq (WC2Orc09Utok6), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3448
 // Items: I0Lq (WC2Orc09Utok6), Description (Description)
 {
-Hmmm... it seems like humans are going to send ships with supplies to Quel'Thalas. We should put an end to that.
+Хмм… схоже люди готують до відправки кораблі з припасами довговухим у Квел'Талас. Треба покласти цьому край.
 }
 
 STRING 3449
@@ -3799,13 +3806,13 @@ WC2Orc09Utok6
 STRING 3450
 // Items: I0Lr (WC2Orc09Utok7), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3451
 // Items: I0Lr (WC2Orc09Utok7), Description (Description)
 {
-No, he must have been on the other ship.
+Ні, він, мабуть, був на іншому човні.
 }
 
 STRING 3452
@@ -3817,13 +3824,13 @@ WC2Orc09Utok7
 STRING 3453
 // Items: I0Ls (WC2Orc09Utok8), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3454
 // Items: I0Ls (WC2Orc09Utok8), Description (Description)
 {
-It will be done.
+Буде зроблено.
 }
 
 STRING 3455
@@ -3835,13 +3842,13 @@ WC2Orc09Utok8
 STRING 3456
 // Items: I0Lt (WC2Orc09Utok9), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3457
 // Items: I0Lt (WC2Orc09Utok9), Description (Description)
 {
-Chieftains! Some sort of magic has frozen our fleet! The bay is solid ice!
+Отамани! Якісь чари заморозили увесь наш флот! Вся затока зараз це -  суцільна крига!
 }
 
 STRING 3458
@@ -3853,13 +3860,13 @@ WC2Orc09Utok9
 STRING 3459
 // Items: I0Lu (WC2Orc09Utok10), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3460
 // Items: I0Lu (WC2Orc09Utok10), Description (Description)
 {
-Lok'tar Ogar!
+Лок'тар Оґар!
 }
 
 STRING 3461
@@ -3871,13 +3878,13 @@ WC2Orc09Utok10
 STRING 3462
 // Items: I0Lv (WC2Orc09Utok11), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3463
 // Items: I0Lv (WC2Orc09Utok11), Description (Description)
 {
-I will inform the Warchief of our victory against the Stromgarde remnants here. It is best that you stay here and await his orders... and try not to fight with each other. You are both valuable to the Horde and our Warchief.
+Я повідомлю вождя про нашу перемогу над залишками людей Стромварту. Поки лишайтесь тут і чекайте його наказів… і спробуйте не повбивати один одного. Ви вдвох маєте цінність для як Орди та для вождя особисто.
 }
 
 STRING 3464
@@ -3889,13 +3896,13 @@ WC2Orc09Utok11
 STRING 3465
 // Items: I0Lw (WC2Orc09Valdelmar1), Tip (Tooltip - Basic)
 {
-Mathias Valdemar
+Матіас Вальдемар
 }
 
 STRING 3466
 // Items: I0Lw (WC2Orc09Valdelmar1), Description (Description)
 {
-You’ve fought bravely, my lord Saidan, I will take my men and hold the line for as long as it’s needed.
+Ви мужньо билися, лорде Сайдане, я візьму своїх людей і буду утримувати позиції стільки, скільки буде потрібно.
 }
 
 STRING 3467
@@ -3907,13 +3914,13 @@ WC2Orc09Valdelmar1
 STRING 3468
 // Items: I0Lx (WC2Orc09Valdelmar2), Tip (Tooltip - Basic)
 {
-Mathias Valdemar
+Матіас Вальдемар
 }
 
 STRING 3469
 // Items: I0Lx (WC2Orc09Valdelmar2), Description (Description)
 {
-No Sir Saidan! You are far too important to be in the vanguard… you’re wounded and too weak to fight. Live to fight another day…
+Ні сіре Сайдане! Ви занадто важливі, аби йти у бій в перших рядах… ви поранений і ще надто слабкі, щоб битися. Ви мажете вижити сьогодні, аби битися в майбутніх битвах…
 }
 
 STRING 3470
@@ -3925,13 +3932,13 @@ WC2Orc09Valdelmar2
 STRING 3471
 // Items: I0Ly (WC2Orc09Valdelmar3), Tip (Tooltip - Basic)
 {
-Mathias Valdemar
+Матіас Вальдемар
 }
 
 STRING 3472
 // Items: I0Ly (WC2Orc09Valdelmar3), Description (Description)
 {
-Once you have gathered your strength, travel ahead and inform lord Uther of what has transpired here. The Alliance needs to send reinforcements!
+Коли будете готові, вирушайте вперед і повідомте лорду Утеру про те, що тут сталося. Альянс має надіслати підкріплення!
 }
 
 STRING 3473
@@ -3943,13 +3950,13 @@ WC2Orc09Valdelmar3
 STRING 3474
 // Items: I0Lz (GruntTownAttack1), Tip (Tooltip - Basic)
 {
-Brute
+Рубайло
 }
 
 STRING 3475
 // Items: I0Lz (GruntTownAttack1), Description (Description)
 {
-They're destroying our city!
+Вони нищать наш табір!
 }
 
 STRING 3476
@@ -3961,13 +3968,13 @@ GruntTownAttack1
 STRING 3477
 // Items: I1LA (WC2Orc09Grunt1), Tip (Tooltip - Basic)
 {
-Brute
+Рубайло
 }
 
 STRING 3478
 // Items: I1LA (WC2Orc09Grunt1), Description (Description)
 {
-Yes, master!
+Так, володарю!
 }
 
 STRING 3479
@@ -3979,13 +3986,13 @@ WC2Orc09Grunt1
 STRING 3480
 // Items: I1LB (PeonReady101), Tip (Tooltip - Basic)
 {
-Toiler
+Трудяга
 }
 
 STRING 3481
 // Items: I1LB (PeonReady101), Description (Description)
 {
-Ready to work.
+Готовий до роботи.
 }
 
 STRING 3482
@@ -4003,7 +4010,7 @@ TaurenReady1
 STRING 3485
 // Abilities: S00E (Ogre Magi), Name (Name)
 {
-Ogre Magi
+Оґр-маг
 }
 
 STRING 3486
@@ -4063,19 +4070,19 @@ STRING 3494
 STRING 3495
 // Items: I1LC (TaurenReady1), Description (Description)
 {
-We're ready Master!
+Ми готові володарю!
 }
 
 STRING 3496
 // Items: I1L0 (WC2Orc09Berserker2), Tip (Tooltip - Basic)
 {
-Berserker
+Троль Берсерк
 }
 
 STRING 3497
 // Items: I1L0 (WC2Orc09Berserker2), Description (Description)
 {
-I went through a sacred ritual of initiation. If you can find a bloodvine plant and give it to the goblin alchemist - our witch doctor can share his ingredients to brew a potion that will transform all of our axe throwers into berserkers.
+Ми маємо такі лють та силу, бо пройшли ритуал ініціації. Якщо вам вдасться знайти криваву лозу на цьому острові, і обробити її у ґоблінській лабораторії то наш знахар зможе поділитися інгредієнтами для зілля, яке робить з тролів могутніх берсерків.
 }
 
 STRING 3498
@@ -4099,18 +4106,18 @@ Snow_vt
 STRING 3502
 // Units: ngz3 (Giant Bear), Name (Name)
 {
-Giant Bear
+Велетенський ведмідь
 }
 
 STRING 3503
 // Items: I0LM (WC2Orc09TrollTaunt01), Description (Description)
 {
-Vengeance for Zul'jin!
+За Зул'джина!
 }
 
 STRING 3504
 {
-Fortress will be completed in:
+Фортеця буде зведена через:
 }
 
 STRING 3505
@@ -4142,107 +4149,106 @@ STRING 3509
 STRING 3510
 // Items: IQL0 (Alliance Navy), Tip (Tooltip - Basic)
 {
-  - Destroy Alliance Shipyards
+  - Знищіть корабельні Альянсу
 }
 
 STRING 3511
 // Items: IQL0 (Alliance Navy), Ubertip (Tooltip - Extended)
 {
-  - Destroy Alliance Foundries
+  - Знищіть ливарні Альянсу
 }
 
 STRING 3512
 // Items: IQL0 (Alliance Navy), Description (Description)
 {
-|cffffcc00MAIN QUEST|r
+|cffffcc00ГОЛОВНЕ ЗАВДВАННЯ|r
 }
 
 STRING 3513
 // Items: IQL0 (Alliance Navy), Name (Name)
 {
-Alliance Navy
+Флот Альянсу
 }
 
 STRING 3514
 // Items: IQL1 (  - Destroy the Supply Caravans), Tip (Tooltip - Basic)
 {
-  - No more than 
+  - Не більше ніж
 }
 
 STRING 3515
 // Items: IQL1 (  - Destroy the Supply Caravans), Ubertip (Tooltip - Extended)
 {
-  - Destroy Alliance Refineries
+  - Знищіть нафтопереробні заводи Альянсу
 }
 
 STRING 3516
 // Items: IQL1 (  - Destroy the Supply Caravans), Description (Description)
 {
- Caravans may flee
+ кортежів може виїхати
 }
 
 STRING 3517
 // Items: IQL1 (  - Destroy the Supply Caravans), Name (Name)
 {
-  - Destroy the Supply Caravans
+  - Знищіть каравани з припасами
 }
 
 STRING 3518
 // Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Tip (Tooltip - Basic)
 {
-  -|cff808080 Destroy Alliance Foundries (Completed)|r
+  -|cff808080 Знищіть ливарні Альянсу (Завершено)|r
 }
 
 STRING 3519
 // Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Ubertip (Tooltip - Extended)
 {
-  -|cff808080 Destroy Alliance Refineries (Completed)|r
+  -|cff808080 Знищіть нафтопереробні заводи Альянсу (Завершено)|r
 }
 
 STRING 3520
 // Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Description (Description)
 {
-|cffffcc00MAIN QUEST UPDATE|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
 }
 
 STRING 3521
 // Items: IQL2 (  -|cff808080 Destroy Alliance Shipyards (Completed)|r), Name (Name)
 {
-  -|cff808080 Destroy Alliance Shipyards (Completed)|r
+  -|cff808080 Знищіть корабельні Альянсу (Завершено)|r
 }
 
 STRING 3522
 // Items: IQL3 (Drunkard), Name (Name)
 {
-Drunkard
+П'яниця
 }
 
 STRING 3523
 // Items: IQL3 (Drunkard), Description (Description)
 {
-No more than 
+Не більше ніж
 }
 
 STRING 3524
 {
-|cffffcc00MAIN QUEST FAILED|r
-Hold the Line
- - Your Army is defeated!
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Тримати оборону
+ - Ваші війська знищено!
 }
 
 STRING 3526
 {
-Caravan on its way
+Кортеж відплив
 }
 
 STRING 3528
 {
-Caravan on its way
+Кортеж відплив
 }
 
 STRING 3529
 {
-Caravan on its way
+Кортеж відплив
 }
 
