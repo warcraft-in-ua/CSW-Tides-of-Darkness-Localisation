@@ -15,27 +15,27 @@ LoreCraftDesigns
 
 STRING 8
 {
-Nation of Lordaeron
+Люди Лордерону
 }
 
 STRING 9
 {
-Vilebark Tribe
+Плем'я Зловісної Кори
 }
 
 STRING 10
 {
-Wildhammer Villagers
+Клан Дикого Молота
 }
 
 STRING 11
 {
-High Elves
+Вищі ельфи
 }
 
 STRING 12
 {
-Witherbark Tribe
+Плем'я Зів'ялої Кори
 }
 
 STRING 13
@@ -63,31 +63,31 @@ S
 STRING 24
 // Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
 {
-Увеличение запасов маны и здоровья, силы атаки и скорости регенерации маны магов, а также обучение их заклинанию ''Невидимость''.
+Increasing mana and health reserves, strength and regeneration speed of many magicians, as well as teaching them the “Invisibility” spell.
 }
 
 STRING 25
 // Units: Hblm (Elven Mage), Name (Name)
 {
-Elven Mage
+Ельф маг
 }
 
 STRING 26
 // Units: nchp (Magistrate), Name (Name)
 {
-Magistrate
+Маґістрат
 }
 
 STRING 27
 // Destructibles: B004 (Cage), Name (Name)
 {
-Cage
+Клітка для полонених
 }
 
 STRING 67
 // Units: e601 (Ballista), Name (Name)
 {
-Ballista
+Баліста
 }
 
 STRING 102
@@ -99,7 +99,7 @@ STRING 102
 STRING 123
 // Units: n604 (Axe Thrower), Name (Name)
 {
-Axe Thrower
+Дворф сокирокид
 }
 
 STRING 124
@@ -141,25 +141,25 @@ Powerful far-range cannon, but slow and voulnerable.|n|n|cffffcc00Attacks ground
 STRING 162
 // Units: n60C (Scout Post), Name (Name)
 {
-Scout Post
+Сторожовий пост
 }
 
 STRING 163
 // Units: n60C (Scout Post), Tip (Tooltip - Basic)
 {
-Scout Post
+Сторожовий пост
 }
 
 STRING 164
 // Units: n60C (Scout Post), Description (Description)
 {
-Orcish Scout Post
+Орочий сторожовий пост
 }
 
 STRING 221
 // Units: o60A (Wildhammer Catapult), Name (Name)
 {
-Wildhammer Catapult
+Катапульта дворфів
 }
 
 STRING 222
@@ -177,7 +177,7 @@ Primary defensive structure. |n|n|cffffcc00Attacks land and air units.|r
 STRING 431
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 432
@@ -189,7 +189,7 @@ Just a mallard
 STRING 433
 // Units: h61K (Judicator), Name (Name)
 {
-Judicator
+Суддя
 }
 
 STRING 434
@@ -213,7 +213,7 @@ STRING 436
 STRING 437
 // Units: h61N (Aviary), Name (Name)
 {
-Aviary
+Пташник
 }
 
 STRING 441
@@ -231,7 +231,7 @@ STRING 442
 STRING 443
 // Units: o61K (Voodoo Altar), Name (Name)
 {
-Voodoo Altar
+Вівтар вуду
 }
 
 STRING 444
@@ -249,41 +249,41 @@ Orcish Stone Wall
 STRING 461
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Шипована стіна
 }
 
 STRING 462
 // Doodads: D61D (Spike Wall), Name (Name)
 {
-Spike Wall
+Шипована стіна
 }
 
 STRING 471
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 472
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 473
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 474
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 475
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -327,19 +327,19 @@ Raven
 STRING 553
 // Units: n60Z (Spiders), Name (Name)
 {
-Spiders
+Павуки
 }
 
 STRING 554
 // Units: n60Z (Spiders), Tip (Tooltip - Basic)
 {
-Spiders
+Павуки
 }
 
 STRING 555
 // Units: h60T (Clansman), Name (Name)
 {
-Clansman
+Дворф воїн
 }
 
 STRING 556
@@ -363,7 +363,7 @@ Versatile foot soldier. |n|n|cffffcc00Attacks land units.|r
 STRING 566
 // Units: h61I (Stonemason), Name (Name)
 {
-Stonemason
+Каменяр
 }
 
 STRING 567
@@ -387,7 +387,7 @@ Basic worker unit. Can harvest gold and lumber, build structures and Repair. |n|
 STRING 574
 // Units: e60G (Hermit), Name (Name)
 {
-Hermit
+Відлюдник
 }
 
 STRING 575
@@ -405,7 +405,7 @@ Train Hermit
 STRING 577
 // Units: e60H (Wildhammer Druid), Name (Name)
 {
-Wildhammer Druid
+Друїд з клану Дикого Молота
 }
 
 STRING 578
@@ -417,7 +417,7 @@ STRING 578
 STRING 579
 // Units: e60K (Stormcaller), Name (Name)
 {
-Stormcaller
+Буревісник
 }
 
 STRING 580
@@ -441,17 +441,17 @@ STRING 582
 STRING 595
 // Units: n007 (Wolf), Name (Name)
 {
-Wolf
+Вовк
 }
 
 STRING 623
-// Units: h61V (Thane), Name (Name)
+// Units: h61V (Тан), Name (Name)
 {
-Thane
+Тан
 }
 
 STRING 624
-// Units: h61V (Thane), EditorSuffix (Name - Editor Suffix)
+// Units: h61V (Тан), EditorSuffix (Name - Editor Suffix)
 {
 (Wildhammer)
 }
@@ -543,7 +543,7 @@ STRING 676
 STRING 677
 // Units: h60A (Longhouse), Name (Name)
 {
-Longhouse
+Вежа
 }
 
 STRING 678
@@ -567,7 +567,7 @@ STRING 680
 STRING 681
 // Units: h61M (Forge), Name (Name)
 {
-Forge
+Ковальня доврфів
 }
 
 STRING 682
@@ -579,7 +579,7 @@ STRING 682
 STRING 683
 // Units: h626 (Watch Tower), Name (Name)
 {
-Watch Tower
+Дварфійська дозорна вежа
 }
 
 STRING 685
@@ -597,7 +597,7 @@ Build Watch Tower
 STRING 687
 // Units: h629 (Hinterlands Den), Name (Name)
 {
-Hinterlands Den
+Лігво відлюдників
 }
 
 STRING 688
@@ -619,15 +619,15 @@ STRING 690
 }
 
 STRING 691
-// Units: h62A (Cottage), Name (Name)
+// Units: h62A (Дворфійський котедж), Name (Name)
 {
-Cottage
+Дворфійський котедж
 }
 
 STRING 692
-// Units: h62A (Cottage), Tip (Tooltip - Basic)
+// Units: h62A (Дворфійський котедж), Tip (Tooltip - Basic)
 {
-Build Cottage
+Build Дворфійський котедж
 }
 
 STRING 693
@@ -639,7 +639,7 @@ STRING 693
 STRING 694
 // Units: h62B (Mead Hall), Name (Name)
 {
-Mead Hall
+Дворфійська медова зала
 }
 
 STRING 695
@@ -657,7 +657,7 @@ STRING 696
 STRING 697
 // Units: h62C (Highland Manor), Name (Name)
 {
-Highland Manor
+Високогірна садиба
 }
 
 STRING 698
@@ -673,7 +673,7 @@ Upgrade to Highland Manor to enable the production of additional types of struct
 }
 
 STRING 700
-// Units: n61N (Cottage), EditorSuffix (Name - Editor Suffix)
+// Units: n61N (Дворфійський котедж), EditorSuffix (Name - Editor Suffix)
 {
 (Wildhammer)
 }
@@ -681,7 +681,7 @@ STRING 700
 STRING 701
 // Units: h62G (Aerie Keep), Name (Name)
 {
-Aerie Keep
+Фортеця Ейрі
 }
 
 STRING 702
@@ -697,9 +697,9 @@ Upgrade to Aerie Keep to enable the production of additional types of structures
 }
 
 STRING 704
-// Units: n61N (Cottage), Name (Name)
+// Units: n61N (Дворфійський котедж), Name (Name)
 {
-Cottage
+Дворфійський котедж
 }
 
 STRING 705
@@ -711,13 +711,13 @@ STRING 705
 STRING 706
 // Units: n61R (Tavern), Name (Name)
 {
-Tavern
+Дворфійська корчма
 }
 
 STRING 708
 // Units: n61S (Amanishi Guardian), Name (Name)
 {
-Amanishi Guardian
+Вартовий амані
 }
 
 STRING 709
@@ -729,7 +729,7 @@ Hire Amanishi Guardian
 STRING 722
 // Units: n61T (Gryphon), Name (Name)
 {
-Gryphon
+Грифон
 }
 
 STRING 723
@@ -747,7 +747,7 @@ STRING 724
 STRING 795
 // Destructibles: LTex (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 816
@@ -765,7 +765,7 @@ Shrooms
 STRING 818
 // Destructibles: B615 (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 819
@@ -789,7 +789,7 @@ Vines
 STRING 830
 // Destructibles: B60P (Cavern), Name (Name)
 {
-Cavern
+Печера
 }
 
 STRING 831
@@ -819,13 +819,13 @@ Fire
 STRING 854
 // Destructibles: B62R (Old Tomb), Name (Name)
 {
-Old Tomb
+Стара могила
 }
 
 STRING 856
 // Destructibles: B62T (Egg), Name (Name)
 {
-Egg
+Яйце грифона
 }
 
 STRING 861
@@ -879,7 +879,7 @@ Fallen Winter Tree
 STRING 884
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Скриня
 }
 
 STRING 885
@@ -1340,7 +1340,7 @@ Transforms the Druid back into a dwarf.
 
 STRING 2341
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 2342
@@ -1374,27 +1374,27 @@ You can Revive your hero at the Great Hall.
 }
 
 STRING 2348
-// Destructibles: B000 (Fence short), Name (Name)
+// Destructibles: B000 (Паркан), Name (Name)
 {
-Fence short
+Паркан
 }
 
 STRING 2349
-// Destructibles: B001 (Fence short), Name (Name)
+// Destructibles: B001 (Паркан), Name (Name)
 {
-Fence short
+Паркан
 }
 
 STRING 2350
 // Destructibles: B002 (Fence), Name (Name)
 {
-Fence
+Паркан
 }
 
 STRING 2351
 // Destructibles: B003 (Fence), Name (Name)
 {
-Fence
+Паркан
 }
 
 STRING 2353
@@ -1417,17 +1417,17 @@ medium PB (ground)
 
 STRING 2356
 {
-Blackrock Clan
+Клан Чорного Каменю
 }
 
 STRING 2357
 {
-Wildhammer Clan
+Клан Дикого Молота
 }
 
 STRING 2358
 {
-Wildhammer Settlers
+Поселенці клану Дикого Молота
 }
 
 STRING 2359
@@ -1492,22 +1492,22 @@ Elven Statue
 
 STRING 2434
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Scorched Earth
-  -|cff808080 Destroy Wildhammer Settlements (Completed)|r
-  -|cff808080 Finish before the Alliance arrives (Completed)|r
-  - Prepare defenses against the Alliance
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Попелище
+  -|cff808080 Знищіть поселення дворфів Дикого Молоту (Завершено)|r
+  -|cff808080 Впорайтесь до прибуття сил Альянсу (Завершено)|r
+  - Підготуйте оборону проти Альянсу
 }
 
 STRING 2444
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Third Toe Stew
+|cffffcc00ГОЛОВНЕ ЗВДАННЯ ЗАВЕРШЕНО|r
+Рагу з трьох пальців
 }
 
 STRING 2445
 {
-Blackrock Prisoner
+В'язень клану Чорного Каменю
 }
 
 STRING 2503
@@ -1519,100 +1519,100 @@ STRING 2503
 STRING 2504
 // Units: h003 (Engineer), Name (Name)
 {
-Engineer
+Ельф інженер
 }
 
 STRING 2534
 {
-|cffffcc00OPTIONAL QUEST|r
-Elven Scum
-  - Destroy the Quel’Danil Lodge
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Ельфійські покидьки
+  - Знищіть поселення Квел'Даніл  
 }
 
 STRING 2544
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Eradication
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Викорінення
 }
 
 STRING 2552
 {
-|cffffcc00OPTIONAL QUEST|r
-More Toes for da Pot!
-  - Rally the remaining Trolls (0 of 2 Rallied)
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Більше пальців для рагу!
+  - Відвідайте решту тролиних поселень (0 з 2 відвідано)
 }
 
 STRING 2554
 {
-|cffffcc00OPTIONAL QUEST UPDATE|r
-More Toes for da Pot!
-  - Rally the remaining Trolls (1 of 2 Rallied)
+|cffffcc00ДОДАТКОВЕ ОНОВЛЕНО|r
+Більше пальців для рагу!
+  - Відвідайте решту тролиних поселень (1 з 2 відвідано)
 }
 
 STRING 2557
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-More Toes for da Pot!
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Більше пальців для рагу!
 }
 
 STRING 2559
-// Units: n60W (Troll Farm), Name (Name)
+// Units: n60W (Ферма тролів), Name (Name)
 {
-Troll Farm
+Ферма тролів
 }
 
 STRING 2560
-// Units: n60X (Troll Farm), Name (Name)
+// Units: n60X (Ферма тролів), Name (Name)
 {
-Troll Farm
+Ферма тролів
 }
 
 STRING 2612
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Iron Orc
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Залізний орк
 }
 
 STRING 2616
 {
-|cffffcc00MAIN QUEST FAILED|r
-Third Toe Stew
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Рагу з трьох пальців
 }
 
 STRING 2625
 {
-|cffffcc00OPTIONAL QUEST|r
-Eradication
-  - Destroy the Dwarven Lore Outpost
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Викорінення
+- Зрівняти з землею секретну дворфійську заставу
 }
 
 STRING 2637
 {
-|cffffcc00OPTIONAL QUEST FAILED|r
-More toes for da pot!
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Більше пальців для рагу!
 }
 
 STRING 2653
 {
-|cffffcc00MAIN QUEST UPDATE|r
-Iron Orc
-  -|cff808080 Halt the Alliance until Orgrim and Zul'jin return to base (Completed)|r
-  - Your main camp must not be destroyed
-  - Halt the Alliance until the Goblins destroy the pass
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Залізний орк
+ |cff808080 - Стримуйте Альянс поки Орґрім та Зул'джин не повернуться до табору (Завершено)|r
+ - Ваш табір має вистояти
+ - Стримуйте Альянс поки ґобліни не підірвуть прохід  
 }
 
 STRING 2658
 {
-Halt the Alliance until the Goblins destroy the pass
+Стримуйте Альянс поки ґобліни не підірвуть прохід
 }
 
 STRING 2659
 {
-Hold the line until your escape is assured!
+Тримайте оборону прохід не буде знищено!
 }
 
 STRING 2661
-// Units: h62A (Cottage), EditorSuffix (Name - Editor Suffix)
+// Units: h62A (Дворфійський котедж), EditorSuffix (Name - Editor Suffix)
 {
 (Wildhammer Small)
 }
@@ -1625,13 +1625,13 @@ Rock Chunks Rubble
 
 STRING 2678
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 2680
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your main base has been destroyed!
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Ваш табір було знищено!
 }
 
 STRING 2681
@@ -1668,13 +1668,13 @@ STRING 2687
 STRING 2709
 // Units: htow (Villa), Name (Name)
 {
-Villa
+Ельфійська вілла
 }
 
 STRING 2711
 // Units: hkee (Chateau), Name (Name)
 {
-Chateau
+Ельфійське шато
 }
 
 STRING 2712
@@ -1686,7 +1686,7 @@ Upgrade to Chateau
 STRING 2713
 // Units: hcas (Palace), Name (Name)
 {
-Palace
+Ельфійський палац
 }
 
 STRING 2714
@@ -1696,63 +1696,63 @@ Upgrade to Palace
 }
 
 STRING 2715
-// Units: nefm (High Elven Manor), Name (Name)
+// Units: nefm (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2716
-// Units: nef4 (High Elven Manor), Name (Name)
+// Units: nef4 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2717
-// Units: nef0 (High Elven Manor), Name (Name)
+// Units: nef0 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2718
-// Units: nef1 (High Elven Manor), Name (Name)
+// Units: nef1 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2719
-// Units: nef2 (High Elven Manor), Name (Name)
+// Units: nef2 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2720
-// Units: nef3 (High Elven Manor), Name (Name)
+// Units: nef3 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2721
-// Units: nef5 (High Elven Manor), Name (Name)
+// Units: nef5 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2722
-// Units: nef6 (High Elven Manor), Name (Name)
+// Units: nef6 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2723
-// Units: nef7 (High Elven Manor), Name (Name)
+// Units: nef7 (Садиба вищих ельфів), Name (Name)
 {
-High Elven Manor
+Садиба вищих ельфів
 }
 
 STRING 2724
 // Units: edob (Quel'Danil Lodge), Name (Name)
 {
-Quel'Danil Lodge
+Аванпост Квел'Даніл
 }
 
 STRING 2725
@@ -1768,54 +1768,54 @@ Snowpile Flat
 }
 
 STRING 2728
-// Units: h004 (Tent), Name (Name)
+// Units: h004 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 2729
-// Units: h004 (Tent), Tip (Tooltip - Basic)
+// Units: h004 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 2730
-// Units: h004 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h004 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade No Pathing)
 }
 
 STRING 2731
-// Units: h005 (Tent), Name (Name)
+// Units: h005 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 2732
-// Units: h005 (Tent), Tip (Tooltip - Basic)
+// Units: h005 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 2733
-// Units: h005 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h005 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (No Pathing)
 }
 
 STRING 2737
 {
-Destroy Wildhammer Settlements
+Знищіть поселення дворів Дикого Молоту
 }
 
 STRING 2740
 {
-Rally Troll Camps
+Відвідайте поселення тролів
 }
 
 STRING 2742
 {
-Rally the remaining Trolls (1 of 2 Rallied)
+Відвідайте решту тролиних поселень (1 з 2 відвідано)
 }
 
 STRING 2743
@@ -1826,42 +1826,42 @@ STRING 2743
 
 STRING 2746
 {
-Troll Warriors
+Завербовані тролі
 }
 
 STRING 2761
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your army has been defeated!
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Вашу армію було знищено!
 }
 
 STRING 2762
 // Destructibles: B00C (Barrel with Explosives), Name (Name)
 {
-Barrel with Explosives
+Діжка з вибухівкою
 }
 
 STRING 2763
 {
-Unholy
+Нечестивість
 }
 
 STRING 2787
 // Units: ntrs (Turtle), Name (Name)
 {
-Turtle
+Черепаха
 }
 
 STRING 2788
 // Units: ntrs (Turtle), Tip (Tooltip - Basic)
 {
-Sea Turtle
+Морська черепаха
 }
 
 STRING 2789
 // Units: ntrh (Turtle Hatchling), Name (Name)
 {
-Turtle Hatchling
+Дитинча черепахи
 }
 
 STRING 2790
@@ -1872,7 +1872,7 @@ Hire Turtle Hatchling
 
 STRING 2814
 {
-Rally the remaining Trolls
+Відвідайте решту тролиних поселень
 }
 
 STRING 2818
@@ -1884,7 +1884,7 @@ Visibility Controller
 STRING 2819
 // Units: ocat (Troll Ballista), Name (Name)
 {
-Troll Ballista
+Баліста тролів
 }
 
 STRING 2820
@@ -1902,7 +1902,7 @@ Railways
 STRING 2822
 // Units: n009 (Eagle), Name (Name)
 {
-Eagle
+Орел
 }
 
 STRING 2930
@@ -1913,7 +1913,7 @@ One
 STRING 2931
 // Units: hbot (Fishing Boat), Name (Name)
 {
-Fishing Boat
+Ельфійський човен
 }
 
 STRING 2932
@@ -1924,47 +1924,47 @@ Build Fishing Boat
 
 STRING 2943
 {
-Blackrock Clan
+Клан Чорного Каменю
 }
 
 STRING 2952
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 2953
 {
-I can make you look like and accident...
+Я можу зробити так, щоб це виглядало як нещасний випадок…
 }
 
 STRING 2954
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 2955
 {
-I'm finding myself in demand from human commanders and sorcereres. I have to stay away from these weird perverts!
+Мною зацікавлені як командири людей, так і чаклуни. Але мені варто триматися якомога далі від цих огидних збоченців!
 }
 
 STRING 2956
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 2957
 {
-One day I will have true freedom, far from orcs, demons and death...
+Колись я буду дійсно вільна, далеко від орків, демонів та смерті…
 }
 
 STRING 2958
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 2959
 {
-I traded one master for another... At least this one doesn't have mind control...
+Я змінила одного господаря на іншого… принаймні цей не здатний контролювати мій розум…
 }
 
 STRING 2960
@@ -1975,142 +1975,142 @@ Gryphon Shed (Pathless)
 
 STRING 2961
 {
-Scorched Earth
+Попелище
 }
 
 STRING 2962
 {
-Anduin Lothar is on the march and will arrive soon. If the Warchief's plan is to succeed, you must obliterate every dwarven settlement in the region before the Alliance can reinforce them.
+Андуїн Лотар наближається і незабаром прибуде сюди. Щоб план вождя спрацював, ви повинні знищити всі дворфійські поселення у цій місцевості, до того як сили Альянсу прибудуть і зможуть укріпити їх.
 }
 
 STRING 2963
 {
-Destroy Wildhammer Settlements (0 of 3 Destroyed)
+Знищіть поселення дворфів Дикого Молоту (0 з 3 знищено)
 }
 
 STRING 2964
 {
-Third Toe Stew
+Рагу з трьох пальців
 }
 
 STRING 2965
 {
-The troll warriors in this region are needed elsewhere. Aid Zul'jin in rallying as many of them as he can - they will be needed as he begins his march on Silvermoon.
+Тролі цього регіону будуть корисними трохи згодом. Допоможіть Зул'джину завербувати якомога більше, вони будуть необхідні під час нападу на Срібномісяць.
 }
 
 STRING 2966
 {
-Rally Troll Camps (0 of 3 Rallied)
+Відвідайте поселення тролів (0 of 3 відвідано)
 }
 
 STRING 2967
 {
-More Toes for da Pot!
+Більше пальців для рагу!
 }
 
 STRING 2968
 {
-Quel'thalas must not be given the slightest chance! Rally every troll in the region so that Zul'jin may begin his onslaught from a position of complete strength!
+Цим довговухим собакам з Квел'Таласу не можна лишати жодного шансу! Завербуйте всіх тролів цього регіону, аби Зул'джин міг почати свій наступ максимально укомплектованим!
 }
 
 STRING 2969
 {
-Rally the remaining Trolls (0 of 2 Rallied)
+Відвідайте решту тролиних поселень (0 з 2 відвідано)
 }
 
 STRING 2970
 {
-Elven Scum
+Ельфійські покидьки
 }
 
 STRING 2971
 {
-Destroy the Quel’Danil Lodge to stop elven forces threatening your mission.
+Знищіть поселення Квел'Даніл аби зупинити сили ельфів які становлять загрозу вашому завданню.
 }
 
 STRING 2972
 {
-Destroy the Quel’Danil Lodge
+Знищіть поселення Квел'Даніл
 }
 
 STRING 2973
 {
-|cffffcc00MAIN QUEST|r
-Scorched Earth
-  - Destroy Wildhammer Settlements (0 of 3 Destroyed)
-  - Finish before the Alliance arrives
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Попелище
+  - Знищіть поселення дворфів Дикого Молоту (0 з 3 знищено)
+  - Впорайтесь до прибуття сил Альянсу
 }
 
 STRING 2975
 {
-Alliance Arrival
+Альянс прибуде через:
 }
 
 STRING 2976
 {
-Finish before the Alliance arrives
+Впорайтесь до прибуття сил Альянсу
 }
 
 STRING 2977
 {
-Eradication
+Викорінення
 }
 
 STRING 2978
 {
-Burn all the Dwarven cultural records!
+Спаліть вщент всю культурну спадщину дворфів у цьому регіоні!
 }
 
 STRING 2979
 {
-Destroy the Dwarven Lore Outpost
+Зрівняйте з землею дворфійську заставу, що зберігає їх культурні надбання
 }
 
 STRING 2980
 {
-Finish before the Alliance arrives
+Завербуйте тролів до прибуття Альянсу
 }
 
 STRING 2981
 {
-|cffffcc00MAIN QUEST|r
-Third Toe Stew
-  - Rally Troll Camps (0 of 3 Rallied)
-  - Finish before the Alliance arrives
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Рагу з трьох пальців
+- Відвідайте поселення тролів (0 з 3 відвідано)
+- Завербуйте всіх тролів до прибуття сил Альянсу
 }
 
 STRING 2982
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Elven Scum
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Ельфійські покидьки
 }
 
 STRING 2983
 {
-Iron Orc
+Залізний орк
 }
 
 STRING 2984
 {
-The Alliance has arrived - hold your position until the Warchief and his warriors have escaped! Give no quarter, show no mercy, Lok'tar Ogar!
+Альянс прибув -  утримуйте позицію, поки вождь і його воїни не відійдуть! Ніякої пощади, ніякого милосердя, Лок'тар Оґар!
 }
 
 STRING 2985
 {
-Halt the Alliance until Orgrim and Zul'jin return to base
+Стримуйте Альянс поки Орґрім та Зул'джин не повернуться до табору.
 }
 
 STRING 2986
 {
-Your main camp must not be destroyed
+Ваш табір має вистояти
 }
 
 STRING 2987
 {
-|cffffcc00MAIN QUEST|r
-Iron Orc
-  - Halt the Alliance until Orgrim and Zul'jin return to base
-  - Your main camp must not be destroyed
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Залізний орк
+- Стримуйте Альянс поки Орґрім та Зул'джин не повернуться до табору
+- Ваш табір має вистояти  
 }
 
 STRING 2988
@@ -2140,13 +2140,13 @@ A Troll village has been cleansed.
 
 STRING 2993
 {
-Hold the Pass
+Утримуйте прохід ще:
 }
 
 STRING 2995
 {
-|cff32cd32HINT|r
-You now have control of Eitrigg in place of Doomhammer and Zul'jin.
+|cff32cd32ПІДКАЗКА|r
+Айтріґ перейшов під ваш контроль замість Орґріма та Зул'джина.
 }
 
 STRING 2996
@@ -2157,25 +2157,25 @@ Settlement Surprise
 
 STRING 2999
 {
-Prepare defenses against the Alliance
+Підготуйте оборону проти Альянсу 
 }
 
 STRING 3000
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Scorched Earth
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Попелище
 }
 
 STRING 3004
 // Items: I0L0 (WC2Orc08SDoomhammer1), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3005
 // Items: I0L0 (WC2Orc08SDoomhammer1), Description (Description)
 {
-Well done, Tharbek.
+Гарна робота, Тарбеке.
 }
 
 STRING 3006
@@ -2187,13 +2187,13 @@ WC2Orc08SDoomhammer1
 STRING 3007
 // Items: I0L1 (WC2Orc08SDoomhammer2), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3008
 // Items: I0L1 (WC2Orc08SDoomhammer2), Description (Description)
 {
-And I’m about to, Rend, now listen all of you.
+Так Ренде, якраз збирався розповісти. Тепер слухайте всі уважно.
 }
 
 STRING 3009
@@ -2205,13 +2205,13 @@ WC2Orc08SDoomhammer2
 STRING 3010
 // Items: I0L2 (WC2Orc08SDoomhammer3), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3011
 // Items: I0L2 (WC2Orc08SDoomhammer3), Description (Description)
 {
-The Alliance believes we’ve withdrawn from their paltry northern cities to attack here, but they are fools who will soon see the errors of their ways.
+Альянс вірить, що ми відійшли від їхніх північних міст, аби завдавати удару тут, але вони скоро зрозуміють наскільки вони дурні і прибудуть сюди.
 }
 
 STRING 3012
@@ -2223,13 +2223,13 @@ WC2Orc08SDoomhammer3
 STRING 3013
 // Items: I0L3 (WC2Orc08SDoomhammer4), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3014
 // Items: I0L3 (WC2Orc08SDoomhammer4), Description (Description)
 {
-Don’t be rash, Rend, we’re fighting the Wildhammer Clan here. Varok told me of their ‘ferocity’ back when we were yet invading Khaz Modan.
+Не поспішай з висновками Ренде. Ми тут саме для того, щоб битися з кланом Дикого Молота. Варок мені розповідав про їх лють під час нашого вторгнення у Каз-Модан.
 }
 
 STRING 3015
@@ -2241,13 +2241,13 @@ WC2Orc08SDoomhammer4
 STRING 3016
 // Items: I0L4 (WC2Orc08SDoomhammer5), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3017
 // Items: I0L4 (WC2Orc08SDoomhammer5), Description (Description)
 {
-This matter is not your concern though.
+Але тебе це не стосується.
 }
 
 STRING 3018
@@ -2259,13 +2259,13 @@ WC2Orc08SDoomhammer5
 STRING 3019
 // Items: I0L5 (WC2Orc08SDoomhammer6), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3020
 // Items: I0L5 (WC2Orc08SDoomhammer6), Description (Description)
 {
-No, Zul’jin sent word to prepare a boat for you east of here. Take Utok with you and head for Tyr’s Hand, aid your brother in destroying that city.
+Ні, на прохання Зул'джина на схід звідси для тебе підготовано човен. Візьми з собою Утока і прямуйте до Десниці Тиру, допоможеш своєму брату знищити це місто.
 }
 
 STRING 3021
@@ -2277,13 +2277,13 @@ WC2Orc08SDoomhammer6
 STRING 3022
 // Items: I0L6 (WC2Orc08SDoomhammer7), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3023
 // Items: I0L6 (WC2Orc08SDoomhammer7), Description (Description)
 {
-I’ll never trust blades that served the Shadow Council or Gul’dan, she’ll always be a threat. Guard the camp, Eitrigg, while we concentrate on the Dwarven settlements.
+У мене ніколи не буде довіри до клинків які слугувати Тіньовій Раді чи особисто Ґул'дану, вона завжди буде загрозою. Борони табір Айтріґе, поки ми зосередимося на знищенні поселень дворфів.
 }
 
 STRING 3024
@@ -2295,13 +2295,13 @@ WC2Orc08SDoomhammer7
 STRING 3025
 // Items: I0L8 (WC2Orc08SDoomhammer8), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3026
 // Items: I0L8 (WC2Orc08SDoomhammer8), Description (Description)
 {
-What?! Why are these scum so far from their home?!
+Що? Якого дідька ці довговухі так далеко від своїх земель?!
 }
 
 STRING 3027
@@ -2313,13 +2313,13 @@ WC2Orc08SDoomhammer8
 STRING 3028
 // Items: I0L9 (WC2Orc08SDoomhammer10), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3029
 // Items: I0L9 (WC2Orc08SDoomhammer10), Description (Description)
 {
-Hello...old friend.
+Вітаю… старий друже.
 }
 
 STRING 3030
@@ -2331,13 +2331,13 @@ WC2Orc08SDoomhammer10
 STRING 3031
 // Items: I0L7 (WC2Orc08SDoomhammer11), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3032
 // Items: I0L7 (WC2Orc08SDoomhammer11), Description (Description)
 {
-You, strong warrior, have earned honorable death by my hands.
+Ти, сильний воїн, і заслуговуєш на почесну смерть від моїх рук.
 }
 
 STRING 3033
@@ -2349,13 +2349,13 @@ WC2Orc08SDoomhammer11
 STRING 3034
 // Items: I0LA (WC2Orc08SDoomhammer12), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3035
 // Items: I0LA (WC2Orc08SDoomhammer12), Description (Description)
 {
-Eitrigg! Our work here is done! The Goblins will destroy the pass behind us. Until then, protect them!
+Айтріґе! Наша робота тут зроблена! Ґобліни підірвуть прохід позаду нас. Захищай їх до підтриву!
 }
 
 STRING 3036
@@ -2367,13 +2367,13 @@ WC2Orc08SDoomhammer12
 STRING 3037
 // Items: I0LB (WC2Orc08SAmaniPriest1), Tip (Tooltip - Basic)
 {
-Amani Troll
+Троль Амані
 }
 
 STRING 3038
 // Items: I0LB (WC2Orc08SAmaniPriest1), Description (Description)
 {
-Mighty Zul'jin, ya honor us with ya presence!
+Могутній Зул'джине, твоя присутність тут це честь для нас!
 }
 
 STRING 3039
@@ -2385,13 +2385,13 @@ WC2Orc08SAmaniPriest1
 STRING 3040
 // Items: I0LC (WC2Orc08SAmaniPriest2), Tip (Tooltip - Basic)
 {
-Amani Troll
+Троль Амані
 }
 
 STRING 3041
 // Items: I0LC (WC2Orc08SAmaniPriest2), Description (Description)
 {
-It is Zul'jin! Have ya come to aid us with de Dwarves?
+Це Зул'джин! Ти прийшов аби допомогти нам з дворфами?
 }
 
 STRING 3042
@@ -2403,13 +2403,13 @@ WC2Orc08SAmaniPriest2
 STRING 3043
 // Items: I0LD (WC2Orc08SAmaniPriest3), Tip (Tooltip - Basic)
 {
-Amani Troll
+Троль Амані
 }
 
 STRING 3044
 // Items: I0LD (WC2Orc08SAmaniPriest3), Description (Description)
 {
-Da leader he be here! Bless us!
+Отаман Зул'джин тут! Благослови нас!
 }
 
 STRING 3045
@@ -2421,13 +2421,13 @@ WC2Orc08SAmaniPriest3
 STRING 3046
 // Items: I0LE (WC2Orc08SEitrigg1), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3047
 // Items: I0LE (WC2Orc08SEitrigg1), Description (Description)
 {
-Apologies for interrupting Warchief; why are we yet caging Garona after proving herself subservient in Khaz Modan? I'll watch her as long as you say, but I believe she earned being unshackled at the least.
+Вождь вибач, що втручаюсь, я хотів запитати чому ми все ще тримаємо Ґарону в клітці після того, як вона довела свою вірність у Каз-Модані? Я стежитиму за нею стільки, скільки ти накажеш, але вважаю, що вона принаймні заслужила бути звільненою.
 }
 
 STRING 3048
@@ -2439,13 +2439,13 @@ WC2Orc08SEitrigg1
 STRING 3049
 // Items: I0LF (WC2Orc08SEitrigg2), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3050
 // Items: I0LF (WC2Orc08SEitrigg2), Description (Description)
 {
-By your will, Warchief.
+Як побажаєш, вождь.
 }
 
 STRING 3051
@@ -2457,13 +2457,13 @@ WC2Orc08SEitrigg2
 STRING 3052
 // Items: I0LG (WC2Orc08SEitrigg3), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3053
 // Items: I0LG (WC2Orc08SEitrigg3), Description (Description)
 {
-Warchief! The Elves are attacking us!
+Вождь! Ельфи напали на нас!
 }
 
 STRING 3054
@@ -2475,13 +2475,13 @@ WC2Orc08SEitrigg3
 STRING 3055
 // Items: I0LH (WC2Orc08SEitrigg4), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3056
 // Items: I0LH (WC2Orc08SEitrigg4), Description (Description)
 {
-Go Warchief, I will halt them with all my strength! lok’tar ogar!
+Йди вождь, я затримаю їх, наскільки зможу! Лок'тар Оґар!
 }
 
 STRING 3057
@@ -2493,13 +2493,13 @@ WC2Orc08SEitrigg4
 STRING 3058
 // Items: I0LI (WC2Orc08SEitrigg5), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3059
 // Items: I0LI (WC2Orc08SEitrigg5), Description (Description)
 {
-Damn it! Release her! Even a half orc should die with a blade in her hand!
+Хай йому грець! Звільніть її! Навіть напів орк має право померти з клинком в руках!
 }
 
 STRING 3060
@@ -2511,13 +2511,13 @@ WC2Orc08SEitrigg5
 STRING 3061
 // Items: I0LJ (WC2Orc08SEitrigg6), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3062
 // Items: I0LJ (WC2Orc08SEitrigg6), Description (Description)
 {
-Garona! Bah! Damn it! Defend the camp warriors!
+Ґароно! Грмммм! Чортівня! Воїни обороняйте табір!
 }
 
 STRING 3063
@@ -2529,13 +2529,13 @@ WC2Orc08SEitrigg6
 STRING 3064
 // Items: I0LK (WC2Orc08SEitrigg7), Tip (Tooltip - Basic)
 {
-Eitrigg
+Айтріґ
 }
 
 STRING 3065
 // Items: I0LK (WC2Orc08SEitrigg7), Description (Description)
 {
-Garona...you...you..
+Ґароно… ти… ти…
 }
 
 STRING 3066
@@ -2547,13 +2547,13 @@ WC2Orc08SEitrigg7
 STRING 3067
 // Items: I0LL (WC2Orc08SElvenRanger1), Tip (Tooltip - Basic)
 {
-Elf Ranger
+Слідопит
 }
 
 STRING 3068
 // Items: I0LL (WC2Orc08SElvenRanger1), Description (Description)
 {
-You are not welcome here. One filthy race defiling this land is more than enough.
+Вам тут не раді. Однієї брудної раси, що опоганює цю землю своєю присутністю, більш ніж достатньо.
 }
 
 STRING 3069
@@ -2565,13 +2565,13 @@ WC2Orc08SElvenRanger1
 STRING 3070
 // Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Tip (Tooltip - Basic)
 {
-Dwarf
+Дворф
 }
 
 STRING 3071
 // Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Description (Description)
 {
-Falstaaaaaaaaad!
+Фальстадеееееее!
 }
 
 STRING 3072
@@ -2583,13 +2583,13 @@ WC2Orc08SFalstaaaaaaaad1
 STRING 3073
 // Items: I0LN (WC2Orc08SGarona1), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3074
 // Items: I0LN (WC2Orc08SGarona1), Description (Description)
 {
-Eitrigg! We fought together on many fronts, I don’t want you to trust me! but I can help you! please, get me out! I can fight!
+Айтріґе! Ми багато де воювали з тобою, я не сподіваюсь що ти довірятимеш мені! Але я можу допомогти, прошу, випусти мене. Я можу битися!
 }
 
 STRING 3075
@@ -2601,13 +2601,13 @@ WC2Orc08SGarona1
 STRING 3076
 // Items: I0LO (WC2Orc08SGarona2), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3077
 // Items: I0LO (WC2Orc08SGarona2), Description (Description)
 {
-There’s too many of them!
+Їх забагато!
 }
 
 STRING 3078
@@ -2619,13 +2619,13 @@ WC2Orc08SGarona2
 STRING 3079
 // Items: I0LP (WC2Orc08SGarona3), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3080
 // Items: I0LP (WC2Orc08SGarona3), Description (Description)
 {
-Do not waste your breath, you’re not dying on me today. I’ll patch you up and leave, my debts are paid. I suggest you do the same.
+Не марнуй сили, ти не помреш сьогодні. Я залатаю тебе, а потім піду, мої борги сплачені. Я сподіваюсь ти зробиш те саме.
 }
 
 STRING 3081
@@ -2637,13 +2637,13 @@ WC2Orc08SGarona3
 STRING 3082
 // Items: I0LQ (TyrandePissed1), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3083
 // Items: I0LQ (TyrandePissed1), Description (Description)
 {
-I can make you look like and accident...
+Я можу зробити так, щоб це виглядало як нещасний випадок…
 }
 
 STRING 3084
@@ -2655,13 +2655,13 @@ TyrandePissed1
 STRING 3085
 // Items: I0LR (TyrandePissed4), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3086
 // Items: I0LR (TyrandePissed4), Description (Description)
 {
-One day I will have true freedom, far from orcs, demons and death...
+Колись я буду дійсно вільна, далеко від орків, демонів та смерті…
 }
 
 STRING 3087
@@ -2673,13 +2673,13 @@ TyrandePissed4
 STRING 3088
 // Items: I0LS (TyrandePissed5), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3089
 // Items: I0LS (TyrandePissed5), Description (Description)
 {
-I traded one master for another... At least this one doesn't have mind control...
+Я змінила одного господаря на іншого… принаймні цей не здатний контролювати мій розум…
 }
 
 STRING 3090
@@ -2691,13 +2691,13 @@ TyrandePissed5
 STRING 3091
 // Items: I0LT (WC2Orc08SGoblinSappers1), Tip (Tooltip - Basic)
 {
-Goblin Sappers
+Загін ґоблінів саперів
 }
 
 STRING 3092
 // Items: I0LT (WC2Orc08SGoblinSappers1), Description (Description)
 {
-We’ll need more time preparing the explosives boss, protect us while we do that!
+Еее начальнику нам знадобиться трохи більше часу аби підготувати вибухівку, тому розруліть тут так щоб нас не завалили!
 }
 
 STRING 3093
@@ -2709,13 +2709,13 @@ WC2Orc08SGoblinSappers1
 STRING 3094
 // Items: I0LU (WC2Orc08SGoblinSappers2), Tip (Tooltip - Basic)
 {
-Goblin Sappers
+Загін ґоблінів саперів
 }
 
 STRING 3095
 // Items: I0LU (WC2Orc08SGoblinSappers2), Description (Description)
 {
-The explosives are ready! Clear the area!
+Вибухівка готова! Звалюйте усі!
 }
 
 STRING 3096
@@ -2727,13 +2727,13 @@ WC2Orc08SGoblinSappers2
 STRING 3097
 // Items: I0LV (WC2Orc08SKurdran1), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Курдран Дикий Молот
 }
 
 STRING 3098
 // Items: I0LV (WC2Orc08SKurdran1), Description (Description)
 {
-Blasted mongrels, they’ve decimated my countrymen!
+Ці кляті собаки, повбивали дворфів мого клану, що жили тут!
 }
 
 STRING 3099
@@ -2745,13 +2745,13 @@ WC2Orc08SKurdran1
 STRING 3100
 // Items: I0LW (WC2Orc08SKurdran2), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Курдран Дикий Молот
 }
 
 STRING 3101
 // Items: I0LW (WC2Orc08SKurdran2), Description (Description)
 {
-Help me drive them off, and I’ll consider joining this ‘Alliance’ of yours, son of Arathi.
+Допоможи мені відкинути їх, і я подумаю про приєднання до цього твого «Альянсу», сину Араті.
 }
 
 STRING 3102
@@ -2763,13 +2763,13 @@ WC2Orc08SKurdran2
 STRING 3103
 // Items: I0LX (WC2Orc08SKurdran3), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Курдран Дикий Молот
 }
 
 STRING 3104
 // Items: I0LX (WC2Orc08SKurdran3), Description (Description)
 {
-Blasted Orcs, they’re smarter than they look! The way north has been cut off.
+Кляті орки, вони розумніші, ніж здаються! Шлях на північ тепер відрізано.
 }
 
 STRING 3105
@@ -2781,13 +2781,13 @@ WC2Orc08SKurdran3
 STRING 3106
 // Items: I0LY (WC2Orc08SKurdran4), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Курдран Дикий Молот
 }
 
 STRING 3107
 // Items: I0LY (WC2Orc08SKurdran4), Description (Description)
 {
-We’re with you, Anduin Lothar. This ‘Horde’ is a menace to everyone, and we’ll not stop until it’s dealt with.
+Ми з тобою, Андуїне Лотаре. Ця «Орда» загроза для всіх, і ми не зупинимося, доки ми не вирішимо це питання.
 }
 
 STRING 3108
@@ -2799,13 +2799,13 @@ WC2Orc08SKurdran4
 STRING 3109
 // Items: I0LZ (WC2Orc08SLothar1), Tip (Tooltip - Basic)
 {
-Anduin Lothar
+Андуїн Лотар
 }
 
 STRING 3110
 // Items: I0LZ (WC2Orc08SLothar1), Description (Description)
 {
-Fear not friend, they will pay for all their atrocities.
+Не бійся, друже, вони заплатять за всі свої звірства.
 }
 
 STRING 3111
@@ -2817,13 +2817,13 @@ WC2Orc08SLothar1
 STRING 3112
 // Items: I0La (WC2Orc08SLothar2), Tip (Tooltip - Basic)
 {
-Anduin Lothar
+Андуїн Лотар
 }
 
 STRING 3113
 // Items: I0La (WC2Orc08SLothar2), Description (Description)
 {
-Doomhammer! I owe you pain eternal for this transgression and all the misery you Horde monsters have caused in Azeroth.
+Молот Згуби! Саме тобі я завдячую за нескінченний біль, за беззаконня та страждання які твої ординські чудовиська принесли на Азерот.
 }
 
 STRING 3114
@@ -2835,13 +2835,13 @@ WC2Orc08SLothar2
 STRING 3115
 // Items: I0Lb (WC2Orc08SLothar3), Tip (Tooltip - Basic)
 {
-Anduin Lothar
+Андуїн Лотар
 }
 
 STRING 3116
 // Items: I0Lb (WC2Orc08SLothar3), Description (Description)
 {
-...and your ploy has been foiled, the rest of our armies have been sent to deal with your so called “clans”.
+…але твоїм планам не збутися, решта наших армій відбула аби розібратися з вашими так званими «кланами».
 }
 
 STRING 3117
@@ -2853,13 +2853,13 @@ WC2Orc08SLothar3
 STRING 3118
 // Items: I0Lc (WC2Orc08SLothar4), Tip (Tooltip - Basic)
 {
-Anduin Lothar
+Андуїн Лотар
 }
 
 STRING 3119
 // Items: I0Lc (WC2Orc08SLothar4), Description (Description)
 {
-This soil will not be stained with my blood! Charge!
+Ця земля не буде заплямована моєю кров'ю! До бою!
 }
 
 STRING 3120
@@ -2871,13 +2871,13 @@ WC2Orc08SLothar4
 STRING 3121
 // Items: I0Ld (WC2Orc08SLothar5), Tip (Tooltip - Basic)
 {
-Anduin Lothar
+Андуїн Лотар
 }
 
 STRING 3122
 // Items: I0Ld (WC2Orc08SLothar5), Description (Description)
 {
-Their leader is...pragmatic, he’s always a step ahead.
+Їх лідер досить… прагматичний, завжди на крок попереду.
 }
 
 STRING 3123
@@ -2889,13 +2889,13 @@ WC2Orc08SLothar5
 STRING 3124
 // Items: I0Le (WC2Orc08SRend1), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3125
 // Items: I0Le (WC2Orc08SRend1), Description (Description)
 {
-We've been traveling this narrow mountain pass for sometime warchief, and you still haven’t told us what are we doing here.
+Вождь ми досить довго йшли цим вузьким гірським перевалом, але ти досі не сказав нам навіщо.
 }
 
 STRING 3126
@@ -2907,13 +2907,13 @@ WC2Orc08SRend1
 STRING 3127
 // Items: I0Lf (WC2Orc08SRend2), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3128
 // Items: I0Lf (WC2Orc08SRend2), Description (Description)
 {
-Why not meet them in battle, head on? What is this place?
+Тоді чому ми просто зустрілися з ними прямо в бою? І взагалі, що це за місце?
 }
 
 STRING 3129
@@ -2925,13 +2925,13 @@ WC2Orc08SRend2
 STRING 3130
 // Items: I0Lg (WC2Orc08SRend3), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3131
 // Items: I0Lg (WC2Orc08SRend3), Description (Description)
 {
-The Dwarves pose no threat, Zul’jin.
+Дворфи не становлять якоїсь серйозної загрози, Зул'джине.
 }
 
 STRING 3132
@@ -2943,13 +2943,13 @@ WC2Orc08SRend3
 STRING 3133
 // Items: I0Lh (WC2Orc08SRend4), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3134
 // Items: I0Lh (WC2Orc08SRend4), Description (Description)
 {
-Am I not to fight here?!
+Що?! Я тут не для того, щоб битися?
 }
 
 STRING 3135
@@ -2961,13 +2961,13 @@ WC2Orc08SRend4
 STRING 3136
 // Items: I0Li (WC2Orc08SRend5), Tip (Tooltip - Basic)
 {
-Rend Blackhand
+Ренд Чорнорук
 }
 
 STRING 3137
 // Items: I0Li (WC2Orc08SRend5), Description (Description)
 {
-Hmmm….very well, let’s go Utok.
+Хммм… добре, рушаймо Утоке.
 }
 
 STRING 3138
@@ -2979,13 +2979,13 @@ WC2Orc08SRend5
 STRING 3139
 // Items: I0Lj (WC2Orc08STharbek1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3140
 // Items: I0Lj (WC2Orc08STharbek1), Description (Description)
 {
-Hurry up you mangy dogs, the Warchief could arrive at any moment.
+Поспішайте ви, паршиві собаки, вождь буде за мить.
 }
 
 STRING 3141
@@ -2997,13 +2997,13 @@ WC2Orc08STharbek1
 STRING 3142
 // Items: I0Lk (WC2Orc08STharbek2), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3143
 // Items: I0Lk (WC2Orc08STharbek2), Description (Description)
 {
-Lok’tar Warchief, your camp is up and running as you ordered.
+Лок'тар вождь, табір розгорнуто як ти й наказував.
 }
 
 STRING 3144
@@ -3015,13 +3015,13 @@ WC2Orc08STharbek2
 STRING 3145
 // Items: I0Ll (WC2Orc08SWildhammerThane1), Tip (Tooltip - Basic)
 {
-Thane
+Тан
 }
 
 STRING 3146
 // Items: I0Ll (WC2Orc08SWildhammerThane1), Description (Description)
 {
-By my beard! we’re under attack by the savages, send word to Kurdran laddies and defend yer homes!
+Моя борода! На нас напали ці дикуни, повідомте Курдана, і захищайте свої домівки дівчатка.
 }
 
 STRING 3147
@@ -3033,13 +3033,13 @@ WC2Orc08SWildhammerThane1
 STRING 3148
 // Items: I0Lm (WC2Orc08SWildhammerThane2), Tip (Tooltip - Basic)
 {
-Thane
+Тан
 }
 
 STRING 3149
 // Items: I0Lm (WC2Orc08SWildhammerThane2), Description (Description)
 {
-Trolls have brought friends… we’ll finish ye both!
+Тролі привели друзів… щож прикінчимо всіх разом!
 }
 
 STRING 3150
@@ -3051,13 +3051,13 @@ WC2Orc08SWildhammerThane2
 STRING 3151
 // Items: I0Ln (WC2Orc08SZuljin1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3152
 // Items: I0Ln (WC2Orc08SZuljin1), Description (Description)
 {
-Dis place was once part of da Amani Empire, ma friend, many Troll Tribes still live 'ere. it was once peaceful until de Dwarves came from da south and took dis place, dey be clashin' with us eva since.
+Це місце колись було частиною імперії Амані, мій друже, декілька племен тролів досі живе тут. В цих землях був мир, поки дворфи з півдня не прийшли і не оселилися тут, з того часу вони й воюють з тролями.
 }
 
 STRING 3153
@@ -3069,13 +3069,13 @@ WC2Orc08SZuljin1
 STRING 3154
 // Items: I0Lo (WC2Orc08SZuljin2), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3155
 // Items: I0Lo (WC2Orc08SZuljin2), Description (Description)
 {
-Ma brethren will rally to ma side, once I tell dem of da plan to retake our ancestral lands in da north, while Doomhammer... deals with dem Dwarves.
+Мої брати приєднаються до нас, як тільки я їм розповім про плани щодо повернення земель наших предків на півночі, тим часом Молот Згуби… розбереться з дворфами.
 }
 
 STRING 3156
@@ -3087,13 +3087,13 @@ WC2Orc08SZuljin2
 STRING 3157
 // Items: I0Lp (WC2Orc08SZuljin3), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3158
 // Items: I0Lp (WC2Orc08SZuljin3), Description (Description)
 {
-Brothers, I be rallying de Amani to retake Zul’Aman lands. Head north to Quel’thalas. We be reclaim’in our lands.
+Браття, я збираю тролів Амані аби повернути землі Зул'Аману. Рушайте на північ до Квел'Таласу. Ми повернемо наші землі.
 }
 
 STRING 3159
@@ -3105,13 +3105,13 @@ WC2Orc08SZuljin3
 STRING 3160
 // Items: I0Lq (WC2Orc08SZuljin4), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3161
 // Items: I0Lq (WC2Orc08SZuljin4), Description (Description)
 {
-Brothers, I be rallying de Amani to retake Zul’Aman lands. Head north to Quel’thalas. We be reclaim’in our lands.
+Браття, я збираю тролів Амані разом аби повернути землі Зул'Аману. Рушайте на північ до Квел'Таласу. Ми повернемо наші землі.
 }
 
 STRING 3162
@@ -3123,13 +3123,13 @@ WC2Orc08SZuljin4
 STRING 3163
 // Items: I0Lr (WC2Orc08SZuljin5), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3164
 // Items: I0Lr (WC2Orc08SZuljin5), Description (Description)
 {
-Ya Trolls are to pack up and head north to rejoin our brotha's in reclaim'in Zul'Aman, we will follow ya path.
+Збирайтеся та рушайте на північ аби доєднатися на наших братів для повернення Зул'Аману, ми підемо за вами.
 }
 
 STRING 3165
@@ -3141,13 +3141,13 @@ WC2Orc08SZuljin5
 STRING 3166
 // Items: I0Ls (WC2Orc08SZuljin6), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3167
 // Items: I0Ls (WC2Orc08SZuljin6), Description (Description)
 {
-Where be me mind… Elves have an outpost dere, ma brethren have clashed with dem on occasion, but if we be finish’in our job 'ere without delay, dey need to be taken care of.
+Так так, пригадую… У ельфів тут аванпост, мої брати іноді вступали з ними в сутички. Якщо ми закінчимо наші справи швидко, то подбаємо і про них.
 }
 
 STRING 3168
@@ -3159,13 +3159,13 @@ WC2Orc08SZuljin6
 STRING 3169
 // Items: I0Lt (WC2Orc08SZuljin7), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3170
 // Items: I0Lt (WC2Orc08SZuljin7), Description (Description)
 {
-Hahahaha... da sight of dead Elves be de best part of life!
+Хахахаха… нищити ельфів це ліпша частина життя!
 }
 
 STRING 3171
@@ -3177,13 +3177,13 @@ WC2Orc08SZuljin7
 STRING 3172
 // Items: I0Lu (WC2Orc08SZuljin8), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3173
 // Items: I0Lu (WC2Orc08SZuljin8), Description (Description)
 {
-Ma Brotha's! Our Empire will rise again off da bones an blood of de Elves!
+Мої брати! Наша імперія відродиться на ельфійських кістках та крові!
 }
 
 STRING 3174
@@ -3195,13 +3195,13 @@ WC2Orc08SZuljin8
 STRING 3175
 // Items: I1LQ (TyrandePissed3), Tip (Tooltip - Basic)
 {
-Garona
+Ґарона Напіворчиця
 }
 
 STRING 3176
 // Items: I1LQ (TyrandePissed3), Description (Description)
 {
-I'm finding myself in demand from human commanders and sorcereres. I have to stay away from these weird perverts!
+Мною зацікавлені як командири людей, так і чаклуни. Але мені варто триматися якомога далі від цих огидних збоченців!
 }
 
 STRING 3177
@@ -3213,19 +3213,19 @@ TyrandePissed3
 STRING 3178
 // Units: negt (Arcane Tower), Name (Name)
 {
-Arcane Tower
+Чародійська вежа
 }
 
 STRING 3179
 // Units: h624 (Forge), Name (Name)
 {
-Forge
+Ковальня доврфів
 }
 
 STRING 3180
 // Units: n006 (Barracks), Name (Name)
 {
-Barracks
+Казарми
 }
 
 STRING 3181
@@ -3256,66 +3256,66 @@ STRING 3185
 STRING 3186
 // Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
 {
- of 3 Destroyed)
+ з 3 знищено)
 }
 
 STRING 3187
 // Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
 {
-  - Destroy Wildhammer Settlements (
+  - Знищіть поселення дворів Дикого Молоту (
 }
 
 STRING 3188
 // Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
 {
-Scorched Earth
+Попелище
 }
 
 STRING 3189
 // Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
 {
-|cffffcc00MAIN QUEST UPDATE|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
 }
 
 STRING 3190
 // Items: IQL1 (  - Finish before the Alliance arrives), Tip (Tooltip - Basic)
 {
-Third Toe Stew
+Страва з трьох інгредієнтів
 }
 
 STRING 3191
 // Items: IQL1 (  - Finish before the Alliance arrives), Ubertip (Tooltip - Extended)
 {
- of 3 Rallied)
+ з 3 відвідано)
 }
 
 STRING 3192
 // Items: IQL1 (  - Finish before the Alliance arrives), Description (Description)
 {
-  - Rally Troll Camps (
+  - Відвідайте поселення тролів (
 }
 
 STRING 3193
 // Items: IQL1 (  - Finish before the Alliance arrives), Name (Name)
 {
-  - Finish before the Alliance arrives
+  - Впорайтесь до прибуття Альянсу
 }
 
 STRING 3194
 // Items: IQL2 (Wildhammer Chronicler), Name (Name)
 {
-Wildhammer Chronicler
+Літописець з клану Дикого Молота
 }
 
 STRING 3195
 // Items: IQL2 (Wildhammer Chronicler), Tip (Tooltip - Basic)
 {
-Rally Troll Camps (
+Відвідайте поселення тролів (
 }
 
 STRING 3196
 // Items: IQL2 (Wildhammer Chronicler), Description (Description)
 {
-Destroy Wildhammer Settlements (
+Знищіть поселення дворів Дикого Молоту (
 }
 
