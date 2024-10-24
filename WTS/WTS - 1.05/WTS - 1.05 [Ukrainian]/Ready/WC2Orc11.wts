@@ -10,27 +10,27 @@ LoreCraftDesigns
 
 STRING 239
 {
-Runestone of the Water
+Рунічний камінь води
 }
 
 STRING 240
 {
-Runestone of the Fire
+Рунічний камінь вогню
 }
 
 STRING 241
 {
-Runestone of the Earth
+Рунічний камінь землі
 }
 
 STRING 242
 {
-Runestone of the Wind
+Рунічний камінь вітру
 }
 
 STRING 244
 {
-Runestone of the Forest
+Рунічний камінь лісу
 }
 
 STRING 245
@@ -40,165 +40,161 @@ STRING 245
 
 STRING 255
 {
-Shadow Council
+Тіньова Рада
 }
 
 STRING 256
 {
-Amani Trolls
+Тролі Амані
 }
 
 STRING 258
 {
-Forest Runestone:
+Рунічний камінь лісу:
 }
 
 STRING 261
 {
-Earth Runestone:
+Рунічний камінь землі:
 }
 
 STRING 262
 {
-Air Runestone:
+Рунічний камінь повітря:
 }
 
 STRING 263
 {
-Water Runestone:
+Рунічний камінь води:
 }
 
 STRING 264
 {
-Fire Runestone:
+Рунічний камінь вогню:
 }
 
 STRING 265
 {
-Runestones
+Рунічні камені
 }
 
 STRING 266
 {
-Gul'dan has a plan that will lead him to unlimited power. For this plan to be set in motion, he must first absorb the power of the elven runestones of Quel'Thalas.
+Ґул'дан розробив план, який дасть йому безмежну силу. Для реалізації цього плану він повинен спочатку поглинути сили ельфійських рунічних каменів Квел'Таласу.
 }
 
 STRING 269
 {
-Elven resistance
+Ельфійський опір
 }
 
 STRING 270
 {
-The elves of Quel'Thalas will not stand idly by while you desecrate their shrines. Destroy their stronghold before they can pose a significant threat to your plans.
+Ельфи Квел'Таласу не лишаться осторонь, поки ви оскверняєте їхні святині. Знищіть їх табір, до того як він стане значною загрозою для ваших планів.
 }
 
 STRING 271
 {
-Earth
+Землі
 }
 
 STRING 272
 {
-Water
+Води
 }
 
 STRING 273
 // Destructibles: B617 (Fire), Name (Name)
 {
-Fire
+Вогню
 }
 
 STRING 274
 {
-Wind
+Вітру
 }
 
 STRING 278
 {
-Destroy Elven forces.
+Знищіть всі сили ельфів.
 }
 
 STRING 279
 {
-|cffffcc00MAIN QUEST|r
-Capture Runestones
-- Earth
-- Fire
-- Forest
-- Water
-- Wind
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Захопити рунічні камені
+- Землі
+- Вогню
+- Лісу
+- Води
+- Вітру
 }
 
 STRING 282
 {
-|cffffcc00OPTIONAL QUEST|r
-Troll Camp
-- Help Zul'jin when he needs it
-- The troll camp must not be destroyed
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Табір тролів
+- Допоможіть Зул'джину у разі потреби.
+- Не дайте ельфам знищити табір тролів.
 }
 
 STRING 283
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Capture Runestones
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Захопіть рунічні камені
 }
 
 STRING 284
 {
-|c00FEBA0EOPTIONAL QUEST FAILED|r
-Trolls Camp
-
-
+|c00FEBA0EДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Табір тролів
 }
 
 STRING 285
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Elven Resistance
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Ельфійський опір
 }
 
 STRING 286
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Trolls Camp
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Табір тролів
 }
 
 STRING 292
 {
-|c0020C000MASTERS OF THE FORESTS|r
-With the power of the Forest Runestone absorbed by Gul'dan, you can summon wild beasts that will attack your enemies.
+|c0020C000МАЙСТЕР ЛІСІВ|r
+Завдяки силі Лісового рунічного каменю, поглиненого Ґул'даном, ви можете прикликати зграю диких звірів, які будуть битися на вашому боці.
 }
 
 STRING 293
 {
-|cff00ff00ACID RAIN|r
-With the power of the Water Runestone absorbed by Gul'dan,you can call an Acid Rain that posions your enemies.
+|cff00ff00КИСЛОТНИЙ ДОЩ|r
+Завдяки силі Водного рунічного каменю, поглиненого Ґул'даном, ви можете викликати кислотний дощ, який буде отруювати ваших ворогів.
 }
 
 STRING 294
 {
-|c00FF8040FIRE DAMAGE|r
-With the power of the Fire Runestone absorbed by Gul'dan, you can cause flame strike upon your enemies.
+|c00FF8040ВОГНЯНІ ВИБУХИ|r
+З силою рунічного каменю вогню поглиненого Ґул'даном, ви можете завдавати шкоди своїм ворогам за допомогою вогняних вибухів.
 }
 
 STRING 296
 {
-|c007EBFF1WHIRLWINDS|r
-With the power of the Air Runestone absorbed by Gul'dan, you can summon the Whirlwind that will wipe out your enemies.
+|c007EBFF1ВИХОРИ|r
+Завдяки силі рунічного каменю повітря, поглиненого Ґул'даном, ви можете викликати вихор, який знищить ваших ворогів.
 }
 
 STRING 341
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 342
 // _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Guldan2.flac
 {
-I sense that there are five of these stones along the borders of Quel'Thalas, each of which embodies a certain element, much like the stone I encountered on Caer Darrow. As soon as we find and absorb their power, the elves will crumble before us...
+Я відчуваю, що вздовж кордонів Квел'Таласу розташовується п'ять каменів, кожен з яких втілює певну стихію, подібно до того каменю, який був у Каєр-Дерроу. Як тільки ми знайдемо камені і я поглину їхню силу, ельфи розсиплються перед нами…
 }
 
 STRING 374
@@ -237,7 +233,7 @@ S
 STRING 391
 // Units: H006 (Elven Mage), Name (Name)
 {
-Elven Mage
+Ельф маг
 }
 
 STRING 392
@@ -249,7 +245,7 @@ Magistrate
 STRING 430
 // Units: ocat (Ballista), Name (Name)
 {
-Ballista
+Баліста
 }
 
 STRING 522
@@ -277,7 +273,7 @@ STRING 551
 }
 
 STRING 676
-// Units: nefm (High Elven Manor), Ubertip (Tooltip - Extended)
+// Units: nefm (Маєток вищих ельфів), Ubertip (Tooltip - Extended)
 {
 Provides food, which increases the maximum number of units that can be trained.
 }
@@ -285,7 +281,7 @@ Provides food, which increases the maximum number of units that can be trained.
 STRING 737
 // Units: n60R (Runestone), Name (Name)
 {
-Runestone
+Рунічний камінь
 }
 
 STRING 738
@@ -315,7 +311,7 @@ Forest Spirit
 STRING 782
 // Units: n60V (Duck), Name (Name)
 {
-Duck
+Качка
 }
 
 STRING 783
@@ -327,7 +323,7 @@ Just a mallard
 STRING 784
 // Units: h61K (Judicator), Name (Name)
 {
-Judicator
+Суддя
 }
 
 STRING 785
@@ -363,35 +359,35 @@ STRING 796
 STRING 813
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Баррикада
 }
 
 STRING 823
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 824
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 825
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 826
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 827
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
@@ -429,7 +425,7 @@ Mystic elven artifact
 STRING 898
 // Units: n60Y (Raven), Name (Name)
 {
-Raven
+Ворон
 }
 
 STRING 907
@@ -447,7 +443,7 @@ Spiders
 STRING 1079
 // Destructibles: LTex (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 1100
@@ -693,7 +689,7 @@ Fog
 STRING 1328
 // Destructibles: B006 (Fountain), Name (Name)
 {
-Fountain
+Фонтан
 }
 
 STRING 1333
@@ -771,12 +767,12 @@ Rack Weapon Orc
 STRING 1456
 // Units: ntor (Whirlwind), Name (Name)
 {
-Whirlwind
+Вихор
 }
 
 STRING 2601
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 2602
@@ -872,7 +868,7 @@ STRING 2620
 STRING 2621
 // Units: emow (Mana Stone), Name (Name)
 {
-Mana Stone
+Камінь мани
 }
 
 STRING 2622
@@ -884,7 +880,7 @@ Build Mana Stone
 STRING 2666
 // Units: nbel (High Elf Lieutenant), Name (Name)
 {
-High Elf Lieutenant
+Лейтенант вищих ельфів
 }
 
 STRING 2667
@@ -896,7 +892,7 @@ Train High Elf Lieutenant
 STRING 2668
 // Units: H004 (High Elven Commander), Name (Name)
 {
-High Elven Commander
+Командир вищих ельфів
 }
 
 STRING 2670
@@ -920,7 +916,7 @@ Quelthalas Canopy Tree
 STRING 2675
 // Units: n004 (Botanist), Name (Name)
 {
-Botanist
+Ботанік
 }
 
 STRING 2682
@@ -935,7 +931,7 @@ Cinematic Chogal
 
 STRING 2684
 {
-Farstriders
+Далекоходці
 }
 
 STRING 2687
@@ -962,85 +958,85 @@ Cattail Yellow
 
 STRING 2691
 {
-Elves of Quel'Thalas
+Ельфи Квел'Таласу
 }
 
 STRING 2692
-// Units: nefm (High Elven Manor), Name (Name)
+// Units: nefm (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2693
-// Units: nef0 (High Elven Manor), Name (Name)
+// Units: nef0 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2694
-// Units: nef1 (High Elven Manor), Name (Name)
+// Units: nef1 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2695
-// Units: nef2 (High Elven Manor), Name (Name)
+// Units: nef2 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2696
-// Units: nef3 (High Elven Manor), Name (Name)
+// Units: nef3 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2697
-// Units: nef4 (High Elven Manor), Name (Name)
+// Units: nef4 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2698
-// Units: nef5 (High Elven Manor), Name (Name)
+// Units: nef5 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2699
-// Units: nef6 (High Elven Manor), Name (Name)
+// Units: nef6 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2700
-// Units: nef7 (High Elven Manor), Name (Name)
+// Units: nef7 (Маєток вищих ельфів), Name (Name)
 {
-High Elven Manor
+Маєток вищих ельфів
 }
 
 STRING 2701
-// Destructibles: B001 (Fence), Name (Name)
+// Destructibles: B001 (Огорожа), Name (Name)
 {
-Fence
+Огорожа
 }
 
 STRING 2702
-// Destructibles: B002 (Fence), Name (Name)
+// Destructibles: B002 (Огорожа), Name (Name)
 {
-Fence
+Огорожа
 }
 
 STRING 2703
-// Destructibles: B003 (Fence short), Name (Name)
+// Destructibles: B003 (Короткий паркан), Name (Name)
 {
-Fence short
+Короткий паркан
 }
 
 STRING 2704
-// Destructibles: B004 (Fence short), Name (Name)
+// Destructibles: B004 (Короткий паркан), Name (Name)
 {
-Fence short
+Короткий паркан
 }
 
 STRING 2705
@@ -1052,7 +1048,7 @@ Wooden Bench
 STRING 2706
 // Units: h61N (Elven Hatchery), Name (Name)
 {
-Elven Hatchery
+Ельфійський пташник
 }
 
 STRING 2707
@@ -1076,7 +1072,7 @@ Build to Arcane Tower
 STRING 2710
 // Units: halt (Altar of Heroes), Name (Name)
 {
-Altar of Heroes
+Вівтар героїв
 }
 
 STRING 2711
@@ -1092,15 +1088,15 @@ Trains Priests, Sorceresses. |nAlso contains spell upgrades for Priests and Sorc
 }
 
 STRING 2715
-// Units: nefm (High Elven Manor), Tip (Tooltip - Basic)
+// Units: nefm (Маєток вищих ельфів), Tip (Tooltip - Basic)
 {
-Build High Elven Manor
+Build Маєток вищих ельфів
 }
 
 STRING 2717
 // Units: h005 (Botanist Garden), Name (Name)
 {
-Botanist Garden
+Ботанічний сад
 }
 
 STRING 2718
@@ -1112,55 +1108,55 @@ Build Botanist Garden
 STRING 2719
 // Doodads: D6BU (Fountain), Name (Name)
 {
-Fountain
+Фонтан
 }
 
 STRING 2720
 // Units: o61K (Voodoo Temple), Name (Name)
 {
-Voodoo Temple
+Храм вуду
 }
 
 STRING 2721
 // Units: n60W (Troll Hut), Name (Name)
 {
-Troll Hut
+Хатинка троля
 }
 
 STRING 2722
 // Units: n60X (Troll Hut), Name (Name)
 {
-Troll Hut
+Хатинка троля
 }
 
 STRING 2723
 // Units: negf (Tower of Fire), Name (Name)
 {
-Tower of Fire
+Вежа вогню
 }
 
 STRING 2724
 // Units: negm (Tower of Air), Name (Name)
 {
-Tower of Air
+Вежа повітря
 }
 
 STRING 2725
 // Units: nbt2 (Tower of Earth), Name (Name)
 {
-Tower of Earth
+Вежа землі
 }
 
 STRING 2726
 // Units: ndt2 (Tower of Water), Name (Name)
 {
-Tower of Water
+Вежа води
 }
 
 STRING 2727
 // Units: n007 (Wild Unicorn), Name (Name)
 {
-Wild Unicorn
+Дикий єдиноріг
 }
 
 STRING 2728
@@ -1171,61 +1167,61 @@ Summon Wild Unicorn
 
 STRING 2729
 {
-Trolls Camp
+Табір тролів
 }
 
 STRING 2730
 {
-Zul'jin and his trolls are attacking their hated enemies - the high elves of Quel'Thalas. Amani numbers are still limited in this region,, so your intervention may be required to turn the tide in Zul’jin’s favor. 
+Зул'джин і його тролі б'ються зі своїми заклятими ворогами - вищими ельфами Квел'Таласу. Оскільки в цьому регіоні тролі ще малочисельні, ваша поміч може бути їм необхідна, аби переломити ситуацію на користь Зул'джина.
 }
 
 STRING 2731
 {
-Help Zul'jin when he needs it.
+Допоможіть Зул'джину у разі потреби.
 }
 
 STRING 2732
 {
-The troll camp must not be destroyed.
+Не дайте ельфам знищити табір тролів.
 }
 
 STRING 2735
 {
-Antiquity
+Античність
 }
 
 STRING 2736
 {
-The wild unicorns of Quel’thalas are sacred to the high elves. These magical creatures have great mana potency. Kill them to gain their power and demoralize the elves.
+Дикі єдинороги Квел'Таласу є сакральними тваринами для вищих ельфів. Ці створіння мають велику магічну силу. Вбийте їх аби поглину цю силу та деморалізувати ельфів.
 }
 
 STRING 2737
 {
-Kill 10 unicorns.
+Вбийте 10 єдиноргів.
 }
 
 STRING 2738
 {
-|cffffcc00OPTIONAL QUEST|r
-Culling Antiquity
-- Kill 10 unicorns
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
+Античність
+    - Вбийте 10 єдинорогів.
 }
 
 STRING 2739
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Culling Antiquity
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Античність
 }
 
 STRING 2744
 {
-Zuljin
+Зул'джин
 }
 
 STRING 2745
 // _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin3.flac
 {
-And when dey do… Quel’thalas will finally fall and the ghosts of my people avenged at last!
+І коли це станеться… Квел'Талас врешті-решт паде, і душі мого народу нарешті будуть відомщені.
 }
 
 STRING 2753
@@ -1260,23 +1256,23 @@ STRING 2757
 
 STRING 2778
 {
-Unholy
+Нечестивість
 }
 
 STRING 2779
 {
-Troll
+Троль
 }
 
 STRING 2783
 {
-Utok
+Уток Дряпач
 }
 
 STRING 2810
 // Units: nwlg (Lynx), Name (Name)
 {
-Lynx
+Рись
 }
 
 STRING 2811
@@ -1287,60 +1283,60 @@ Summon Lynx
 
 STRING 2842
 {
-Several hours later...
+Декілька годин потому…
 }
 
 STRING 2848
 // Items: I0Lq (WC2Orc11Zuljin1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2849
 // Items: I0Lv (WC2Orc11Zuljin6), Description (Description)
 {
-We be needing help! Send word to da orcs for reinforcement!
+Нам потрібна допомога! Повідомте орків, що нам потрібне підкріплення!
 }
 
 STRING 2850
 // Items: I0Lr (WC2Orc11Zuljin2), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 2851
 // Items: I0Lu (WC2Orc11Zuljin5), Description (Description)
 {
-We be under attack by da Elves, where be our orcish allies?!
+Ельфи знову напали, де наші орочі союзники?
 }
 
 STRING 2852
 {
-|cffffcc00MAIN QUEST|r
-Elven Resistance
-- Destroy Elven forces
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Ельфійський опір
+- Знищіть всі сили ельфів.
 }
 
 STRING 2873
 {
-Kill 10 Unicorns
+Вбийте 10 єдинорогів
 }
 
 STRING 2874
 {
-Unicorns Killed:
+Єдинорогів вбито:
 }
 
 STRING 2875
 // Units: H007 (Runestone Power), Name (Name)
 {
-Runestone Power
+Сили рунічного каменю
 }
 
 STRING 2876
 // Units: H007 (Runestone Power), Propernames (Proper Names)
 {
-Runestone Power
+Сили рунічного каменю
 }
 
 STRING 2933
@@ -1357,81 +1353,77 @@ Fearies
 
 STRING 2949
 {
-Fire
+Вогню
 }
 
 STRING 2950
 {
-Forest
+Лісу
 }
 
 STRING 2954
 {
-|cffffcc00OPTIONAL QUEST FAILED|r
-Culling Antiquity
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Античність
 }
 
 STRING 2958
 {
-|cff32cd32HINT|r
-Elven forces will use Waygates to move around the map.
+|cff32cd32ПІДКАЗКА|r
+Ельфійські сили будуть використовувати шляхові брами для швидкого переміщення.
 }
 
 STRING 2961
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Trolls Camp
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Табір тролів
 }
 
 STRING 2962
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Capture Runestones
-|c00C0C0C0- Forest (Completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Захопіть рунічні камені
+|c00C0C0C0- Ліс (Завершено)|r
 }
 
 STRING 2963
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Capture Runestones
-|c00C0C0C0- Earth (Completed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Захопіть рунічні камені
+|c00C0C0C0- Земля (Завершено)|r
 }
 
 STRING 2964
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Capture Runestones
-|c00C0C0C0- Fire (Completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Захопіть рунічні камені
+|c00C0C0C0- Вогонь (Завершено)|r
 }
 
 STRING 2965
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Capture Runestones
-|c00C0C0C0- Water (Completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Захопіть рунічні камені
+|c00C0C0C0- Вода (Завершено)|r
 }
 
 STRING 2966
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Capture Runestones
-|c00C0C0C0- Wind (Completed)|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Захопіть рунічні камені
+|c00C0C0C0- Вітер (Завершено)|r
 }
 
 STRING 3078
 // Units: H006 (Elven Mage), Propernames (Proper Names)
 {
-Laryssa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3079
 // Units: H008 (Ranger General), Propernames (Proper Names)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3080
@@ -1449,7 +1441,7 @@ Scroll of Runestone Protection
 STRING 3186
 // Units: H004 (High Elven Commander), Propernames (Proper Names)
 {
-Althorien the Brave
+Алторіен Хоробрий
 }
 
 STRING 3187
@@ -1467,13 +1459,13 @@ Revive Knight
 STRING 3189
 // Units: H008 (Ranger General), Name (Name)
 {
-Ranger General
+Генерал слідопитів
 }
 
 STRING 3191
 // Units: o002 (Troll worker), Name (Name)
 {
-Troll worker
+Троль робітник
 }
 
 STRING 3241
@@ -1483,7 +1475,7 @@ Cinematic Zuluhed
 
 STRING 3258
 {
-Blacktooth grin clan
+Клан Чорнозубого Вищиру
 }
 
 STRING 3259
@@ -1501,77 +1493,78 @@ STRING 3260
 STRING 3294
 // Units: Nfir (Fire Elemental), Name (Name)
 {
-Fire Elemental
+Вогняний елементаль
 }
 
 STRING 3295
 {
-|c00808080STONE SKIN|r
-With the power of the Earth Runestone absorbed by Gul'dan, you can shield your troops with magical armor.
+|c00808080КАМ'ЯНА ШКІРА|r
+Завдяки силі земного рунного каменю, поглиненого Ґул'даном, ви можете захистити свої війська магічною бронею.
 }
 
 STRING 3296
 {
-|cffffcc00MAIN QUEST FAILED|r
-Your camp is destroyed.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Ваш табір знищено.
 }
 
 STRING 3297
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 3298
 {
-Amani Trolls
+Тролі Амані
 }
 
 STRING 3305
 {
-Several hours later, near the Stormreaver clan camp...
+
+Декілька годин потому, біля табору Бурхливої Бурі…
 }
 
 STRING 3306
 {
-The Horde's dragons set fire to the ancient forests of Quel'thalas, sowing death and chaos among its people.
+Багряні дракони Орди спалили древні ліси Квел'таласу, сіючи смерть та хаос серед його мешканців.
 }
 
 STRING 3307
 {
-Meanwhile, the Horde's army closed in on the city of Silvermoon, and started a siege.
+Тим часом армія Орди наблизилася до Срібномісяця і почала облогу.
 }
 
 STRING 3308
 {
-The Siege of Silvermoon lasted for nearly a month, testing Orgrim Doomhammer's patience to its limits.
+Облога Срібномісяця тривала майже місяць, випробовуючи терпіння Орґріма Молота Згуби.
 }
 
 STRING 3309
 {
-In fear of the Alliance potentially encircling the horde's army in Quel'thalas, the Warchief decided to lead the Blacktooth Grin and Dragonmaw clans back to Lordaeron.
+Побоюючись, що Альянс оточить армію Орди у Квел'таласі, Вождь вирішив відкликати клани Чорнозубого Вищиру та Дроконової Пащі назад у Лордерон.
 }
 
 STRING 3310
 {
-He ordered Gul'dan and Zul'jin to continue the siege till magical barriers of the elves are exhausted and the city falls under the countless attacks of the Horde.
+Він наказав Ґул'дану і Зул'джину продовжити облогу, поки магічні сили ельфів не буде вичерпано, і місто не впаде під незліченними атаками Орди.
 }
 
 STRING 3312
 {
-|cffffcc00SECRET FOUND|r
-Secret mission unlocked.
+|cffffcc00ЗНАЙДЕНО СЕКРЕТ|r
+Секретне завдання розблоковано
 }
 
 STRING 3316
 // Items: I0LA (WC2Orc11Dommhammer1), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3317
 // Items: I0LA (WC2Orc11Dommhammer1), Description (Description)
 {
-You’ve done well Gul’dan, now give me your report.
+Гарна робота Ґул'дане, доповідай.
 }
 
 STRING 3318
@@ -1583,13 +1576,13 @@ WC2Orc11Dommhammer1
 STRING 3319
 // Items: I0LB (WC2Orc11Dommhammer2), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3320
 // Items: I0LB (WC2Orc11Dommhammer2), Description (Description)
 {
-Very impressive, Gul’dan, you and your followers have proved your usefulness to the horde.
+Досить вражаюче Ґул'дане, ти та твої посіпаки довели свою корисність Орді.
 }
 
 STRING 3321
@@ -1601,13 +1594,13 @@ WC2Orc11Dommhammer2
 STRING 3322
 // Items: I0LC (WC2Orc11Dommhammer3), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3323
 // Items: I0LC (WC2Orc11Dommhammer3), Description (Description)
 {
-Wait…where’s Utok? I gave him a direct order to stay by your side.
+Почекай но… а де Уток? Я віддав йому прямий наказ залишатися з тобою.
 }
 
 STRING 3324
@@ -1619,13 +1612,13 @@ WC2Orc11Dommhammer3
 STRING 3325
 // Items: I0LD (WC2Orc11Dommhammer4), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3326
 // Items: I0LD (WC2Orc11Dommhammer4), Description (Description)
 {
-Hmmmm, very well. Zuluhed… it’s time to unleash this ‘weapon’ that you promised me, burn this land to ashes!
+Хммм, дуже добре. Зулугеде… настав час використати ту «зброю», що ти мені обіцяв, спаліть тут все вщент!
 }
 
 STRING 3327
@@ -1637,13 +1630,13 @@ WC2Orc11Dommhammer4
 STRING 3328
 // Items: I0LE (WC2Orc11Dommhammer5), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Орґрім Молот Згуби
 }
 
 STRING 3329
 // Items: I0LE (WC2Orc11Dommhammer5), Description (Description)
 {
-Come my warriors! Onwards to Silvermoon!
+Рушайте мої воїни! Вперед, на Срібномісяць!
 }
 
 STRING 3330
@@ -1655,13 +1648,13 @@ WC2Orc11Dommhammer5
 STRING 3331
 // Items: I0LF (WC2Orc11Guldan1), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3332
 // Items: I0LF (WC2Orc11Guldan1), Description (Description)
 {
-Good. The troll leader should be arriving soon, and when he does, we can begin to plan the next steps of this little expedition.
+Добре. Лідер тролів має скоро бути тут, і коли він прибуде, ми зможемо планувати наступні кроки цієї маленької експедиції.
 }
 
 STRING 3333
@@ -1673,13 +1666,13 @@ WC2Orc11Guldan1
 STRING 3334
 // Items: I0LG (WC2Orc11Guldan2), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3335
 // Items: I0LG (WC2Orc11Guldan2), Description (Description)
 {
-I sense that there are five of these stones along the borders of Quel'Thalas, each of which embodies a certain element, much like the stone I encountered on Caer Darrow. As soon as we find and absorb their power, the elves will crumble before us...
+Я відчуваю, що вздовж кордонів Квел'Таласу розташовується п'ять каменів, кожен з яких втілює певну стихію, подібно до того каменю, який був у Каєр-Дерроу. Як тільки ми знайдемо камені і я поглину їхню силу, ельфи розсиплються перед нами…
 }
 
 STRING 3336
@@ -1691,13 +1684,13 @@ WC2Orc11Guldan2
 STRING 3337
 // Items: I0LH (WC2Orc11Guldan3), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3338
 // Items: I0LH (WC2Orc11Guldan3), Description (Description)
 {
-Excellent... those creatures will prove themselves in the upcoming battle. I look forward to seeing the terror in the eyes of the elves when death itself appears before them!
+Прекрасно… ці темні істоти покажуть себе в майбутній битві. З нетерпінням чекаю побачити жах в очах ельфів, коли сама смерть настане перед ними!
 }
 
 STRING 3339
@@ -1709,13 +1702,13 @@ WC2Orc11Guldan3
 STRING 3340
 // Items: I0LI (WC2Orc11Guldan4), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3341
 // Items: I0LI (WC2Orc11Guldan4), Description (Description)
 {
-Ahh.. the little loyal Shaman. How curious, I was just looking for a way to dispose of you discreetly, but you seem to have solved the issue for me. I suppose I should be grateful...
+Ааа… маленький відданий вождю шаманчик. Як цікаво, я шукав спосіб позбутися тебе непомітно, але ти, здається, вирішив цю проблему за мене. Гадаю, я повинен бути вдячний…
 }
 
 STRING 3342
@@ -1727,13 +1720,13 @@ WC2Orc11Guldan4
 STRING 3343
 // Items: I0LJ (WC2Orc11Guldan6), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3344
 // Items: I0LJ (WC2Orc11Guldan6), Description (Description)
 {
-The power of the Earth stone is mine! I feel the strength of stone in my bones!
+Сила каменю Землі – моя! Я відчуваю міць каменю навіть у своїх кістках!
 }
 
 STRING 3345
@@ -1745,13 +1738,13 @@ WC2Orc11Guldan6
 STRING 3346
 // Items: I0LK (WC2Orc11Guldan5), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3347
 // Items: I0LK (WC2Orc11Guldan5), Description (Description)
 {
-Hahaha… The Warchief will do nothing, little one, for he will never know what happened here. You will die in this ditch… alone and weeping… while I secure the destiny I so justly deserve!
+Хахаха… Вождь не зробить нічого, маленький орк, бо він ніколи не дізнається, про що тут сталося. Ти помреш у цій ямі… самотній і заплаканий… поки я піду на зустріч з долею, з долею на яку я заслуговую!
 }
 
 STRING 3348
@@ -1763,13 +1756,13 @@ WC2Orc11Guldan5
 STRING 3349
 // Items: I0LL (WC2Orc11Guldan7), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3350
 // Items: I0LL (WC2Orc11Guldan7), Description (Description)
 {
-The power of the Forest stone is mine! Let the wilds be withered and their beasts beset by madness!
+Сила Лісового каменю – моя! Нехай дикі ліси посохнуть, а їхні звірі будуть охоплені божевіллям!
 }
 
 STRING 3351
@@ -1781,13 +1774,13 @@ WC2Orc11Guldan7
 STRING 3352
 // Items: I0LM (WC2Orc11Guldan8), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3353
 // Items: I0LM (WC2Orc11Guldan8), Description (Description)
 {
-Yes… the power of the Air Stone! The calm breezes of this realm shall give way to wall shattering whirlwinds!
+Так… сила Повітряного каменю! Спокійні вітри цього царства поступляться місцем вихорам, що руйнує стіни!
 }
 
 STRING 3354
@@ -1799,13 +1792,13 @@ WC2Orc11Guldan8
 STRING 3355
 // Items: I0LN (WC2Orc11Guldan9), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3356
 // Items: I0LN (WC2Orc11Guldan9), Description (Description)
 {
-The Water stone belongs to me! The waters that once gave life to these lands will now bring only death!
+Камінь води тепер належить мені! Вода, яка колись стала джерелом життя у цих землях, тепер буде нести лише смерть!
 }
 
 STRING 3357
@@ -1817,13 +1810,13 @@ WC2Orc11Guldan9
 STRING 3358
 // Items: I0LO (WC2Orc11Guldan10), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3359
 // Items: I0LO (WC2Orc11Guldan10), Description (Description)
 {
-The Fire stone is mine! With it, I shall burn this land to cinders!
+Камінь вогню тепер мій! З його силою я спалю ці землі вщент!
 }
 
 STRING 3360
@@ -1835,13 +1828,13 @@ WC2Orc11Guldan10
 STRING 3361
 // Items: I0LP (WC2Orc11Guldan11), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3362
 // Items: I0LP (WC2Orc11Guldan11), Description (Description)
 {
-Your threats mean nothing to me, frail elf! Stormreavers! decimate them!
+Твої погрози це пустий звук для мене, ельфійко. Клан Бурхливої Бурі! Знищити їх!
 }
 
 STRING 3363
@@ -1853,13 +1846,13 @@ WC2Orc11Guldan11
 STRING 3364
 // Items: I0LQ (WC2Orc11Guldan12), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3365
 // Items: I0LQ (WC2Orc11Guldan12), Description (Description)
 {
-That will not be necessary, my apprentice. We have what we came for. Gather our troops and make for the coast. The Stormreaver fleet will have a long journey ahead of it.
+В цьому нема потреби учню мій. Ми вже маємо те, за чим прийшли. Збери наші війська і прямуймо до узбережжя. На флот Бурхливої Бурі чекає довга подорож.
 }
 
 STRING 3366
@@ -1871,13 +1864,13 @@ WC2Orc11Guldan12
 STRING 3367
 // Items: I0LR (WC2Orc11Guldan13), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3368
 // Items: I0LR (WC2Orc11Guldan13), Description (Description)
 {
-I am not Doomhammer, little troll... and he is nothing to me! I didn't come here to return this realm to you insignificant savages... I came to seize its power... and with it... I will bring this wretched world to its knees.
+Я не Молот Згуби, маленький троль… він і його обіцянки для мене ніщо. Я прийшов сюди не для того, щоб повертати це королівство вам нікчемним дикунам… Я прийшов, аби заволодіти силою яка тут є, і разом з цією силою я поставлю цей жалюгідний світ на коліна.
 }
 
 STRING 3369
@@ -1889,13 +1882,13 @@ WC2Orc11Guldan13
 STRING 3370
 // Items: I0LS (WC2Orc11Guldan14), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3371
 // Items: I0LS (WC2Orc11Guldan14), Description (Description)
 {
-You are but pawns in a much greater game... and when it is finished, you and all of creation will bow before me.
+Ти лише пішак в набагато більшій грі… і коли вона закінчиться, ти та всі створіння схилитесь переді мною.
 }
 
 STRING 3372
@@ -1907,13 +1900,13 @@ WC2Orc11Guldan14
 STRING 3373
 // Items: I0LT (WC2Orc11Guldan15), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3374
 // Items: I0LT (WC2Orc11Guldan15), Description (Description)
 {
-Come with me, my apprentice, and see with your own eyes what awaits us.
+Йдемо учню мій, ти побачиш на власні очі що чекає на нас.
 }
 
 STRING 3375
@@ -1925,13 +1918,13 @@ WC2Orc11Guldan15
 STRING 3376
 // Items: I0LU (WC2Orc11Guldan16), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3377
 // Items: I0LU (WC2Orc11Guldan16), Description (Description)
 {
-These magical creatures hold great power within them, we must find more of them to absorb their essence.
+Ці магічні істоти приховують у собі величезну силу, і ми повинні знайти більше їм подібних, щоб поглинути їхню сутність.
 }
 
 STRING 3378
@@ -1943,13 +1936,13 @@ WC2Orc11Guldan16
 STRING 3379
 // Items: I0LV (WC2Orc11Guldan17), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3380
 // Items: I0LV (WC2Orc11Guldan17), Description (Description)
 {
-This slaughter should further demoralize the Elves and increase my powers.
+Вбивство єдиноргів має ще більше деморалізувати ельфів і зміцнити мою силу. 
 }
 
 STRING 3381
@@ -1961,13 +1954,13 @@ WC2Orc11Guldan17
 STRING 3382
 // Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3383
 // Items: I0LW (WC2Orc11Guldan_LireesaEncounter1), Description (Description)
 {
-Oh, what an entrance! And you are…?
+Ооо, яка промова! А ти у нас…?
 }
 
 STRING 3384
@@ -1979,13 +1972,13 @@ WC2Orc11Guldan_LireesaEncounter1
 STRING 3385
 // Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3386
 // Items: I0LX (WC2Orc11Guldan_LireesaEncounter2), Description (Description)
 {
-Such delicious bravado, little elf, but we are the orcs… we are the HORDE… nothing that has stood against us has survived, and neither will you!
+Гарна казочка, ельфійко, але ми орки… ми ОРДА… нічого, що колись протистояло нам, не вижило, і ти в цьому переконаєшся!
 }
 
 STRING 3387
@@ -1997,13 +1990,13 @@ WC2Orc11Guldan_LireesaEncounter2
 STRING 3388
 // Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3389
 // Items: I0LY (WC2Orc11Guldan_LireesaEncounter3), Description (Description)
 {
-Your threats mean nothing to me, frail elf! Stormreavers! Decimate them!
+Твої погрози це пустий звук для мене, ельфійко. Клан Бурхливої Бурі! Знищити їх!
 }
 
 STRING 3390
@@ -2015,13 +2008,13 @@ WC2Orc11Guldan_LireesaEncounter3
 STRING 3391
 // Items: I0LZ (WC2Orc11Guldan_Final1), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3392
 // Items: I0LZ (WC2Orc11Guldan_Final1), Description (Description)
 {
-I already broke you, little one…look around you, take in the death and the suffering... this is what awaits your kingdom and your entire insignificant race!
+Я вже вас зламав, маленька… озирнись навколо, прийми страждання та смерть… це те що чекає ваше королівство, та всю вашу нікчемну расу.
 }
 
 STRING 3393
@@ -2033,13 +2026,13 @@ WC2Orc11Guldan_Final1
 STRING 3394
 // Items: I0La (WC2Orc11Guldan_Final2), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3395
 // Items: I0La (WC2Orc11Guldan_Final2), Description (Description)
 {
-They can try, and they will die. She’s all yours, Warlord Zul’jin, I present to you her soul as a gift…
+Вони можуть спробувати, спробувати й померти. Вона повністю твоя, отамане Зул'джине. Дарую тобі її душу…
 }
 
 STRING 3396
@@ -2051,13 +2044,13 @@ WC2Orc11Guldan_Final2
 STRING 3397
 // Items: I0Lb (WC2Orc11Guldan_Final3), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3398
 // Items: I0Lb (WC2Orc11Guldan_Final3), Description (Description)
 {
-Welcome Warchief. Your arrival is timely.
+Вітаю Вождь. Ти якраз вчасно.
 }
 
 STRING 3399
@@ -2069,13 +2062,13 @@ WC2Orc11Guldan_Final3
 STRING 3400
 // Items: I0Lc (WC2Orc11Guldan_Final4), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3401
 // Items: I0Lc (WC2Orc11Guldan_Final4), Description (Description)
 {
-We have decimated the elves’ outlying defenses, killed their general and claimed the power of their Runestones for the Horde. Quel’thalas is open for conquest, the elves will be powerless against us.
+Ми знищили захисні споруди ельфів, убили їхнього генерала та заволоділи силами їхніх рунічних каменів для Орди. Квел'талас готовий бути завойованим, ельфи будуть безсилі проти нас.
 }
 
 STRING 3402
@@ -2087,13 +2080,13 @@ WC2Orc11Guldan_Final4
 STRING 3403
 // Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Tip (Tooltip - Basic)
 {
-Gul'dan
+Ґул'дан
 }
 
 STRING 3404
 // Items: I0Ld (WC2Orc11Guldan_Final_UtokComment), Description (Description)
 {
-That you did, however… I told him to scout ahead to locate the best possible route to the elven capital. He should be reporting back to camp shortly.
+Так і було, однак… я сказав йому піти вперед на розвідку, аби знайтити найкращий шлях з можливих до ельфійської столиці. Незабаром він має повернутися до табору.
 }
 
 STRING 3405
@@ -2105,13 +2098,13 @@ WC2Orc11Guldan_Final_UtokComment
 STRING 3406
 // Items: I0Le (O05WarsongOrc0201), Tip (Tooltip - Basic)
 {
-Grunt
+Рубайло
 }
 
 STRING 3407
 // Items: I0Le (O05WarsongOrc0201), Description (Description)
 {
-The forest is coming alive! We are under attack!
+Ліс оживає! На нас напали!
 }
 
 STRING 3408
@@ -2123,7 +2116,7 @@ O05WarsongOrc0201
 STRING 3409
 // Items: I0Lf (O04WarsongOrc1001), Tip (Tooltip - Basic)
 {
-Grunt
+Рубайло
 }
 
 STRING 3411
@@ -2135,13 +2128,13 @@ O04WarsongOrc1001
 STRING 3412
 // Items: I0Lg (WC2Orc11Utok1), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3413
 // Items: I0Lg (WC2Orc11Utok1), Description (Description)
 {
-Argh! The pain… I think I broke my arm… Help me! Someone, anyone!
+Аргхх! Боляче… Здається, я зламав руку… Допоможіть! Хтось, хто небудь!
 }
 
 STRING 3414
@@ -2153,13 +2146,13 @@ WC2Orc11Utok1
 STRING 3415
 // Items: I0Lh (WC2Orc11Utok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3416
 // Items: I0Lh (WC2Orc11Utok2), Description (Description)
 {
-What? How dare you! In the name of the Warchief I command you to get me out of here! The Warchief will...
+Що? Та як ти смієш!! Іменем Вождя я наказую тобі витягти мене звідси! Вождь буде…
 }
 
 STRING 3417
@@ -2171,13 +2164,13 @@ WC2Orc11Utok2
 STRING 3418
 // Items: I0Li (WC2Orc11Utok3), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3419
 // Items: I0Li (WC2Orc11Utok3), Description (Description)
 {
-Gul'dan! Damn you! You will die for this… mark my words… you will die for this!
+Ґул'дане! Будь ти проклятий! Ти помреш за це… запам'ятай мої слова… ти помреш за це!
 }
 
 STRING 3420
@@ -2189,13 +2182,13 @@ WC2Orc11Utok3
 STRING 3421
 // Items: I0Lj (WC2Orc11Utok4), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3422
 // Items: I0Lj (WC2Orc11Utok4), Description (Description)
 {
-Anyone there… Help me… Please...
+Хто небудть… Допоможіть… Прошу…
 }
 
 STRING 3423
@@ -2207,13 +2200,13 @@ WC2Orc11Utok4
 STRING 3424
 // Items: I0Lk (WC2Orc11Utok5), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3425
 // Items: I0Lk (WC2Orc11Utok5), Description (Description)
 {
-Gul’dan has betrayed us all, Zul’jin… he left me to die in this pit… help me get me out of here, mighty Zul’jin… Gul’dan must not get away with this!
+Ґул'дан зрадив усіх нас, Зул'джине… він залишив мене помирати в цій ямі… допоможи мені вибратися звідси, могутній Зул'джине… Ґул'дану це не повинно зійти з рук!
 }
 
 STRING 3426
@@ -2225,13 +2218,13 @@ WC2Orc11Utok5
 STRING 3427
 // Items: I0Ll (WC2Orc11Utok6), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3428
 // Items: I0Ll (WC2Orc11Utok6), Description (Description)
 {
-You have suffered a great injustice today Zul’jin. Tharbek and the rest of my warriors are yours to command… I pray they will be enough. As for me, I cannot join you… the Warchief must know what happened here… I must depart at once...
+Ти сьогодні зазнав великої несправедливості, Зул'джин. Тарбек та решта моїх воїнів лишаються під твоїм командуванням… Молюся щоб цього було достатньо. Що стосується мене, то я не можу приєднатися до вас… Вождь має дізнатися, що тут сталося… Я маю вирушити до нього просто зараз…
 }
 
 STRING 3429
@@ -2243,13 +2236,13 @@ WC2Orc11Utok6
 STRING 3430
 // Items: I0Lm (WC2Orc11xUtok2), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Уток Дряпач
 }
 
 STRING 3431
 // Items: I0Lm (WC2Orc11xUtok2), Description (Description)
 {
-Tharbek…this is not the time to gloat, We are in a very serious situation!
+Тарбек… зараз не час для зловтішань, всі ми в дуже серйозній ситуації!
 }
 
 STRING 3432
@@ -2261,13 +2254,13 @@ WC2Orc11xUtok2
 STRING 3433
 // Items: I0Ln (WC2Orc11xTharbek2), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3434
 // Items: I0Ln (WC2Orc11xTharbek2), Description (Description)
 {
-Well, well, well… a commander who fell into a ditch and couldn’t get out… I thought better of you… Utok.
+Так, так, так. Командир який впав у рів і не зміг вибратися… я був про тебе кращої думки Уток…
 }
 
 STRING 3435
@@ -2279,13 +2272,13 @@ WC2Orc11xTharbek2
 STRING 3436
 // Items: I0Lo (WC2Orc11xTharbek3), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 3437
 // Items: I0Lo (WC2Orc11xTharbek3), Description (Description)
 {
-I would’ve gladly cleaved that filthy Warlock’s head in the Warchief’s honor, but I was ordered to remain at Zul’jin’s side at all costs... go with the wind Utok, we will prove our mettle another time.
+Я б із задоволенням відрубав голову цьому нікчемному чорнокнижнику на честь вождя, але Молот Згуби наказав мені за будь-яку ціну бути з Зул'джином… йди з вітром Утоке, позмагаємось у стійкості та силі іншим разом.
 }
 
 STRING 3438
@@ -2297,13 +2290,13 @@ WC2Orc11xTharbek3
 STRING 3439
 // Items: I0Lp (WC2Orc11Zuluhed_Final1), Tip (Tooltip - Basic)
 {
-Zuluhed
+Зулугед Змучений
 }
 
 STRING 3440
 // Items: I0Lp (WC2Orc11Zuluhed_Final1), Description (Description)
 {
-As you command, Warchief!
+Як накажеш вождь!
 }
 
 STRING 3441
@@ -2315,13 +2308,13 @@ WC2Orc11Zuluhed_Final1
 STRING 3442
 // Items: I0Ls (WC2Orc11Zuljin3), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3443
 // Items: I0Lq (WC2Orc11Zuljin1), Description (Description)
 {
-Greetings, Warlocks! Our forces be ready for our joint attack on da elves. As soon as we crush da elven forces to da south and weaken their borders, we can move towards Silvermoon itself and obliterate this vile kingdom once and for all!
+Вітаю, чорнокнижники! Наші сили вже готові для спільної атаки на ельфів. Щойно ми розіб'ємо їхні сили на півдні та послабимо їхні кордони, зможемо рушити до їхньої столиці, Срібномісяця аби знищити це мерзенне королівство раз і назавжди!
 }
 
 STRING 3444
@@ -2333,13 +2326,13 @@ WC2Orc11Zuljin1
 STRING 3445
 // Items: I0Lt (WC2Orc11Zuljin4), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3446
 // Items: I0Lr (WC2Orc11Zuljin2), Description (Description)
 {
-Much of da elves’ great power lies within da Runestones that shield this land. Those stones are exhausting our will and mind with their foul magic, while bolstering da elves’ own immortal powers. We cannot break this realm as long as dey stand.
+Сила та могутність ельфів сильно пов'язана з рунічними каменями які оберігають ці землі. Ці кляті каменюки послаблюють наші сили та розум, за допомогою брудної магії. Разом з тим, вони підсилюють ельфів, які й так великі. Ці землі не підкорити поки камені цілі.
 }
 
 STRING 3447
@@ -2351,13 +2344,13 @@ WC2Orc11Zuljin2
 STRING 3448
 // Items: I0Lu (WC2Orc11Zuljin5), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3449
 // Items: I0Ls (WC2Orc11Zuljin3), Description (Description)
 {
-And when dey do… Quel’thalas will finally fall and the ghosts of my people avenged at last!
+Але коли ми в решті решт підкоримо їх… Квел'талас паде і духи мого народу нарешті будуть відомщені!
 }
 
 STRING 3450
@@ -2369,13 +2362,13 @@ WC2Orc11Zuljin3
 STRING 3451
 // Items: I0Lv (WC2Orc11Zuljin6), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3452
 // Items: I0Lt (WC2Orc11Zuljin4), Description (Description)
 {
-Da Elves are trying to ravage my camp, we be needing your help! You will die here without us!
+Ельфи намагаються знищити наш табір, нам потрібна ваша допомога! Без нас вам не впоратись!
 }
 
 STRING 3453
@@ -2387,7 +2380,7 @@ WC2Orc11Zuljin4
 STRING 3454
 // Items: I0Lw (WC2Orc11Zuljin7), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3456
@@ -2399,7 +2392,7 @@ WC2Orc11Zuljin5
 STRING 3457
 // Items: I0Lx (WC2Orc11Zuljin8), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3459
@@ -2411,13 +2404,13 @@ WC2Orc11Zuljin6
 STRING 3460
 // Items: I0Ly (WC2Orc11Zuljin9), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3461
 // Items: I0Lw (WC2Orc11Zuljin7), Description (Description)
 {
-Gul'dan! Where were your forces when we were attacked?! While my warriors were being slaughtered, you cared only for da power of da elves! Where is your loyalty to the Horde?!
+Ґул'дан! Where were your forces when we were attacked?! While my warriors were being slaughtered, you cared only for da power of da elves! Where is your loyalty to the Horde?!
 }
 
 STRING 3462
@@ -2429,13 +2422,13 @@ WC2Orc11Zuljin7
 STRING 3463
 // Items: I0Lz (WC2Orc11Zuljin10), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3464
 // Items: I0Lx (WC2Orc11Zuljin8), Description (Description)
 {
-What?! You be leaving now?! When are but one step away from complete victory over da elves? When I made my pact with da Horde - Doomhammer himself gave me his word that da Horde would return these lands to da Amani!
+Що?! Ви йдете? Зараз? У той момент за крок до повної перемоги над ельфами? Коли я уклав угоду з Одрою -  Молот Згуби особисто пообіцяв мені що Орда поверне ці землі тролям Амані!
 }
 
 STRING 3465
@@ -2447,13 +2440,13 @@ WC2Orc11Zuljin8
 STRING 3466
 // Items: I1LA (WC2Orc11Zuljin11), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3467
 // Items: I0Ly (WC2Orc11Zuljin9), Description (Description)
 {
-Traitor! Oathbreaker! Your selfish betrayal of da Horde will lead to your death! I have seen your kind before, blinded by greed and arrogance, and their fates have all been the same. Your end will be slow, cruel and agonizing… and when you realize the error of the path you have chosen… it will be too late. This be my curse upon you, Warlock!
+Зрадник! Клятвопорушник! Твоя егоїстична зрада Орди приведе тебе до смерті! Я бачив таких як раніше, засліплених жадібністю та пихатістю, і їхні долі були однакові. Твій кінець буде повільним, жорстоким і болісним… і коли ти усвідомиш помилковість обраного шляху… буде надто пізно. Це моє прокляття тобі, Чорнокнижник!
 }
 
 STRING 3468
@@ -2465,13 +2458,13 @@ WC2Orc11Zuljin9
 STRING 3469
 // Items: I1LB (WC2Orc11Zuljin12), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3470
 // Items: I0Lz (WC2Orc11Zuljin10), Description (Description)
 {
-Scratcher…. your Warlock has betrayed us! The whole army has withdrawn, except for a few grunts, leaving my people and I to fend for ourselves! This is a great disgrace for all of your kind!
+Дряпач… ваш чорнокнижник зрадив нас! Вся його армія лишила позиції, хіба що декілька рубайл залишилось, лишивши моїх тролів і мене напризволяще! Це велика ганьба для всього вашого роду!
 }
 
 STRING 3471
@@ -2483,13 +2476,13 @@ WC2Orc11Zuljin10
 STRING 3472
 // Items: I1LC (KeeperOfTheGroveYesAttack1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3473
 // Items: I1LA (WC2Orc11Zuljin11), Description (Description)
 {
-You are in my debt now, Scratcher. I have saved your life... and so you and your remaining brethren  must help me defend Zul'Aman. Soon da elves will regroup and strike back. Honour da pact, Utok!  Without da Horde at our back, my people will be wiped out!
+Ти тепер у мене в боргу, Дряпач. Я врятував тобі життя… тому ти та твої брати, що залишилися, мають допомогти мені захистити Зул'Аман. Незабаром ельфи перегрупуються і завдадуть удару у відповідь. Тримай обіцянку, що мені дав вождь! Без підтримки Орди, мій народ буде знищено!
 }
 
 STRING 3474
@@ -2501,7 +2494,7 @@ WC2Orc11Zuljin11
 STRING 3476
 // Items: I1LB (WC2Orc11Zuljin12), Description (Description)
 {
-That cursed warlock will be da doom of da Horde…. Do what you must… I will return to my homeland to defend it. Bring my regards to Rend and Orgrim, let them know that my fight continues...
+Цей клятий чорнокнижник погубить Орду… Роби, що маєш Уток… Я маю повернутись на батьківщину, аби захистити її. Передай мої вітання Ренду та Орґріму, повідом їм, що моя боротьба триває…
 }
 
 STRING 3477
@@ -2513,7 +2506,7 @@ WC2Orc11Zuljin12
 STRING 3479
 // Items: I1LC (KeeperOfTheGroveYesAttack1), Description (Description)
 {
-When ya see da Loa, tell ‘em Zul’jin sent ya!
+Коли побачиш Лоа, скажи їм, що це Зул'Джин відправив тебе!
 }
 
 STRING 3480
@@ -2525,13 +2518,13 @@ KeeperOfTheGroveYesAttack1
 STRING 3481
 // Items: I1LD (WC2Orc11ElvenKnight1), Tip (Tooltip - Basic)
 {
-Elf
+Командир ельфів
 }
 
 STRING 3482
 // Items: I1LD (WC2Orc11ElvenKnight1), Description (Description)
 {
-Brothers! The vile trolls have brought these monsters to desecrate our lands! Show them no mercy, for they deserve none!
+Браття. Підступні тролі привели цих істот, осквернити наші землі. Жодного милосердя до них, вони на нього не заслуговують.
 }
 
 STRING 3483
@@ -2543,13 +2536,13 @@ WC2Orc11ElvenKnight1
 STRING 3484
 // Items: I1LE (WC2Orc11ElvenMage1), Tip (Tooltip - Basic)
 {
-Elf
+Командир ельфів
 }
 
 STRING 3485
 // Items: I1LE (WC2Orc11ElvenMage1), Description (Description)
 {
-This kingdom has stood for thousands of years, orc filth... the power of Quel’thalas will decimate you and your pathetic troll allies!
+Це королівство простояло тисячі років, мерзенні орки… Сили Квел'Таласу знищать вас і ваших нікчемних тролиних союзників!
 }
 
 STRING 3486
@@ -2561,7 +2554,7 @@ WC2Orc11ElvenMage1
 STRING 3487
 // Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3489
@@ -2573,13 +2566,13 @@ WC2Orc11Lireesa_ZuljinBase
 STRING 3490
 // Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3491
 // Items: I1LG (WC2Orc11Lireesa_RunestonesGone1), Description (Description)
 {
-Anar'alah belore… the orcs have destroyed our sacred Runestones! Rangers! Fall back to Tranquillien and send word to Silvermoon at once! They will pay dearly for this!
+Анар'ала белоре… орки зруйнували наші священні рунні камені! Слідопити! Відступайте до Транквілліону і негайно відправте звістку у Срібномісяць! Ці тварюки дорого заплатять за це!
 }
 
 STRING 3492
@@ -2591,13 +2584,13 @@ WC2Orc11Lireesa_RunestonesGone1
 STRING 3493
 // Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3494
 // Items: I1LH (WC2Orc11Lireesa_FirstEncounter1), Description (Description)
 {
-You do not belong here, savage beasts! Withdraw from these forests immediately… or suffer the consequences!
+Вам тут не місце, дикі істоти! Забирайтеся негайно з цих лісів… або постраждаєте від наслідків!
 }
 
 STRING 3495
@@ -2609,13 +2602,13 @@ WC2Orc11Lireesa_FirstEncounter1
 STRING 3496
 // Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3497
 // Items: I1LI (WC2Orc11Lireesa_FirstEncounter2), Description (Description)
 {
-I am Lireesa Windrunner, Ranger-General of Silvermoon. Many lesser races have tempted the wrath of Quel’thalas over the centuries… all have been humbled. Let this knowledge guide you as your chose what happens next, brute!
+Я Ліреса Вітрогін, генерал слідопитів Срібномісяця. За минулі століття вже багато нижчих рас на кшталт вас пізнали на собі гнів вищих ельфів Квел'Таласу… усі вони зазнали невдачі. Нехай ця інформація вплине на твій вибір, оскільки від нього залежить, що станеться далі, звірюко!
 }
 
 STRING 3498
@@ -2627,13 +2620,13 @@ WC2Orc11Lireesa_FirstEncounter2
 STRING 3499
 // Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3500
 // Items: I1LJ (WC2Orc11Lireesa_FirstEncounter3), Description (Description)
 {
-This kingdom has stood for longer than your feeble mind can fathom, orc, proceed with your assault… and both the orcs and your pathetic troll allies will be eradicated…
+Це королівство простояло довше, ніж твій примітивний розум може уявити, орк, якщо продовжите свій наступ… то ви та ваші жалюгідні союзники тролі будуть знищені…
 }
 
 STRING 3501
@@ -2645,7 +2638,7 @@ WC2Orc11Lireesa_FirstEncounter3
 STRING 3502
 // Items: I1LK (WC2Orc11Lireesa_Final1), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3504
@@ -2657,13 +2650,13 @@ WC2Orc11Lireesa_Final1
 STRING 3505
 // Items: I1LL (WC2Orc11Lireesa_Final2), Tip (Tooltip - Basic)
 {
-Lireesa Windrunner
+Ліреса Вітрогін
 }
 
 STRING 3506
 // Items: I1LL (WC2Orc11Lireesa_Final2), Description (Description)
 {
-My daughters will…avenge me…
+Мої доньки… помстяться за мене…
 }
 
 STRING 3507
@@ -2675,13 +2668,13 @@ WC2Orc11Lireesa_Final2
 STRING 3508
 // Items: I1LM (WC2Orc11ChoGall1), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3509
 // Items: I1LM (WC2Orc11ChoGall1), Description (Description)
 {
-|cffffdd00Cho:|r Master, our camp has been established. |n|cffffdd00Gall:|r We are ready for new orders.
+|cffffff00Чо:|r Володарю, табір розгорнуто. |n|cffffff00Ґалл:|r Чекаємо подальших наказів.
 }
 
 STRING 3510
@@ -2693,13 +2686,13 @@ WC2Orc11ChoGall1
 STRING 3511
 // Items: I1LN (WC2Orc11ChoGall2), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3512
 // Items: I1LN (WC2Orc11ChoGall2), Description (Description)
 {
-|cffffdd00Gall:|r With destruction of Tyr's Hand and Stratholme, the Alliance will be unable to send reinforcements. The elves will be facing us alone. |n|cffffdd00Cho:|r However we shouldn't underestimate this land of sorcerers. It will not be easy for us to break their defenses. The very nature of this land is on their side.
+|cffffff00Ґалл:|r Після знищення Долоні Тиру та Стратгольму, Альянс не зможе надіслати свої сили в якості підкріплення. Ельфи сам на сам з нами тут. |n|cffffff00Чо:|r Проте, не варто недооцінювати землі цих вухатих чарівників, бо тут сама природа буде битися на їхньому боці. Оборону пробити буде нелегко.
 }
 
 STRING 3513
@@ -2711,13 +2704,13 @@ WC2Orc11ChoGall2
 STRING 3514
 // Items: I1LO (WC2Orc11ChoGall3), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3515
 // Items: I1LO (WC2Orc11ChoGall3), Description (Description)
 {
-|cffffdd00Cho|r: Master, our forces are ready to begin the construction of a Temple of the Damned. |n|cffffdd00Gall:|r When it is finished, our Death Knights will be able to join the attack.
+|cffffff00Чо|r: Володарю, ми готові розпочати будівництво Храму Проклятих. |n|cffffff00Ґалл:|r Коли все буде закінчено, наші Лицарі Смерті зможуть приєднаються до нашого війська.
 }
 
 STRING 3516
@@ -2729,13 +2722,13 @@ WC2Orc11ChoGall3
 STRING 3517
 // Items: I1LP (WC2Orc11ChoGall4), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3518
 // Items: I1LP (WC2Orc11ChoGall4), Description (Description)
 {
-|cffffdd00Cho:|r Such insolence!! |n|cffffdd00Gall:|r Who are you to speak to the Master in such a way!
+|cffffdd00Чо:|r Яке нахабство! |n|cffffdd00Ґалл:|r Хто ти такий щоб говорити з володарем в такому тоні!
 }
 
 STRING 3519
@@ -2747,13 +2740,13 @@ WC2Orc11ChoGall4
 STRING 3520
 // Items: I1LQ (WC2Orc11ChoGall5), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3521
 // Items: I1LQ (WC2Orc11ChoGall5), Description (Description)
 {
-|cffffdd00Cho:|r Master, the elven defenses are broken. We are ready to crush Quel'Thalas and wipe the elves from the face of this world!
+|cffffff00Чо:|r Володарю, ельфійська оборона зламана. Ми готові розтрощити Квел'талас і стерти ельфів з лиця землі!
 }
 
 STRING 3522
@@ -2765,13 +2758,13 @@ WC2Orc11ChoGall5
 STRING 3523
 // Items: I1LR (WC2Orc11ChoGall6), Tip (Tooltip - Basic)
 {
-Cho'gall
+Чо'ґалл
 }
 
 STRING 3524
 // Items: I1LR (WC2Orc11ChoGall6), Description (Description)
 {
-|cffffdd00Cho:|r We do not understand, Master, what could be more important than victory in the war? |n|cffffdd00Gall:|r What power are you talking about?
+|cffffdd00Чо:|r Володарю, ми не розуміємо, що може бути важливішим за перемогу у війні? |n|cffffdd00Ґалл:|r Про яку силу ти кажеш?
 }
 
 STRING 3525
@@ -2782,18 +2775,18 @@ WC2Orc11ChoGall6
 
 STRING 3534
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3535
 // _HD.w3mod/Sound/Dialogue/WC2Orc11/WC2Orc11Zuljin6.flac
 {
-We be needing help! Send word to da orcs for reinforcement!
+Нам потрібна допомога! Повідомте орків, що нам потрібне підкріплення!
 }
 
 STRING 3536
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 3537
@@ -2811,7 +2804,7 @@ Light Red
 STRING 3539
 // Units: n006 (Amani Warrior), Name (Name)
 {
-Amani Warrior
+Воїн Амані
 }
 
 STRING 3540
@@ -2823,19 +2816,19 @@ Hire Amani Warrior
 STRING 3541
 // Items: I0Lf (O04WarsongOrc1001), Description (Description)
 {
-Chieftain! We're under attack.
+Отамане! Нас атакують!
 }
 
 STRING 3542
 // Items: I1LF (WC2Orc11Lireesa_ZuljinBase), Description (Description)
 {
-Rangers! Zul’jin has brought murderous invaders to our lands… destroy his base and bring me his head!
+Слідопити! Зул'джин привів загарбників та вбивць на наші землі… знищіть його табір і принесіть мені його голову!
 }
 
 STRING 3543
 // Items: I1LK (WC2Orc11Lireesa_Final1), Description (Description)
 {
-You really think… that this ends with me, monster? We are the high elves of Quel’thalas and you cannot break us!
+Ти справді думаєш… що це закінчиться моєю смертю, чудовисько? Ми вищі ельфи Квел'Таласу, тобі не зламати всіх нас!
 }
 
 STRING 3544
@@ -2852,13 +2845,13 @@ Tree Crown
 
 STRING 3546
 {
-Quel'Thalas Magisters
+Магістри Квел'Таласу
 }
 
 STRING 3547
 // Units: htow (Villa), Name (Name)
 {
-Villa
+Вілла
 }
 
 STRING 3548
@@ -2876,7 +2869,7 @@ Upgrade to Chateau
 STRING 3550
 // Units: hkee (Chateau), Name (Name)
 {
-Chateau
+Ельфійський замок
 }
 
 STRING 3551
@@ -2888,25 +2881,25 @@ Upgrade to Palace
 STRING 3552
 // Units: hcas (Palace), Name (Name)
 {
-Palace
+Ельфійський палац
 }
 
 STRING 3553
 // Units: nheb (Barracks), Name (Name)
 {
-Barracks
+Казарми
 }
 
 STRING 3554
 // Units: eshy (Shipyard), Name (Name)
 {
-Shipyard
+Корабельня
 }
 
 STRING 3555
 // Units: h61M (Forge), Name (Name)
 {
-Forge
+Ельфійська ковальня
 }
 
 STRING 3556
@@ -2932,18 +2925,18 @@ STRING 3559
 STRING 3560
 // Items: IQL0 (Fanatic), Tip (Tooltip - Basic)
 {
-Gangrel
+Мучитель
 }
 
 STRING 3561
 // Items: IQL0 (Fanatic), Name (Name)
 {
-Fanatic
+Фанатик
 }
 
 STRING 3562
 // Items: IQL0 (Fanatic), Description (Description)
 {
-Friendly target has to be an Infernal.
+Тільки інфернал може бути використаний в якості дружньої цілі.
 }
 
