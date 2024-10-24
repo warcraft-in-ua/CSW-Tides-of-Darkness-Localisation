@@ -15,66 +15,64 @@ STRING 239
 
 STRING 252
 {
-Foothold
+Плацдарм
 }
 
 STRING 253
 {
-The army, led by Orgrim Doomhammer, is moving towards Stratholme. You must prepare the camp and supplies for the arrival of the Horde.
+Армія Орґріма Молота Згуби вже рухається до Стратгольму. Ви маєте підготувати табір і припаси до прибуття вождя.
 }
 
 STRING 260
 {
-Twilighthammer Clan
+Клан Сутінкового Молота
 }
 
 STRING 289
 {
-Find the goldmine.
+Знайдіть золоту шахту.
 }
 
 STRING 299
 {
-|cffffcc00MAIN QUEST|r  
-Foothold
-- Find the goldmine.
-- Cho'gall must survive.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r  
+Плацдарм
+- Знайдіть золоту шахту.
+- Чо'ґалл має вижити.
 }
 
 STRING 311
 {
-|cff32cd32HINT|r
-- Use goblins to explode stone blocks.
+|cff32cd32ПІДКАЗКА|r
+За допомогою ґоблінів саперів ви можете підривати кам'яні блоки та дерева.
 }
 
 STRING 326
 {
-|cffffcc00MAIN QUEST COMPLETED|r   
-Stratholme Port:
-- |c00C0C0C0Destroy Alliance Oil rigs. (Completed).|r
-- |c00C0C0C0Destroy Alliance Navy buildings.  (Completed).|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Порт Стратгольму:
+- |c00C0C0C0Знищіть всі нафтові платформ Альянсу. (Завершено).|r
+- |c00C0C0C0Знищіть всі військово-морські споруди Альянсу. (Завершено).|r
 }
 
 STRING 329
 {
-|cffffcc00MAIN QUEST|r   
-Stratholme:
-- Destroy Stratholme Keep.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r   
+Стратгольм:
+- Знищіть фотрецю міста Стратгольм.
 }
 
 STRING 330
 {
-|cffffcc00OPTIONAL QUEST|r   
-Place of Power:
-- Capture the Place of Power.
-
+|cffffcc00OДОДАТКОВЕ ЗАВДАННЯ|r   
+Місце сили:
+- Захопіть місце сили.
 }
 
 STRING 336
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r   
-Place of Power
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Місце сили
 }
 
 STRING 343
@@ -166,19 +164,19 @@ Train Death Knight
 }
 
 STRING 630
-// Units: n608 (Monk), Name (Name)
+// Units: n608 (Монах), Name (Name)
 {
-Monk
+Монах
 }
 
 STRING 631
-// Units: n608 (Monk), Ubertip (Tooltip - Extended)
+// Units: n608 (Монах), Ubertip (Tooltip - Extended)
 {
 Kind priest.
 }
 
 STRING 632
-// Units: n608 (Monk), Tip (Tooltip - Basic)
+// Units: n608 (Монах), Tip (Tooltip - Basic)
 {
 Holy cleric.
 }
@@ -222,7 +220,7 @@ STRING 920
 STRING 940
 // Destructibles: B60R (Spike Wall), Name (Name)
 {
-Spike Wall
+Стіна з шипами
 }
 
 STRING 941
@@ -232,37 +230,37 @@ Spike Wall
 }
 
 STRING 950
-// Units: h620 (Tent), Name (Name)
+// Units: h620 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 951
-// Units: h620 (Tent), Tip (Tooltip - Basic)
+// Units: h620 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 952
-// Units: h621 (Tent), Name (Name)
+// Units: h621 (Намет), Name (Name)
 {
-Tent
+Намет
 }
 
 STRING 953
-// Units: h621 (Tent), Tip (Tooltip - Basic)
+// Units: h621 (Намет), Tip (Tooltip - Basic)
 {
-Tent
+Намет
 }
 
 STRING 954
-// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+// Units: h621 (Намет), EditorSuffix (Name - Editor Suffix)
 {
 (Upgrade)
 }
 
 STRING 969
-// Units: H628 (Archibishop), Hotkey (Hotkey)
+// Units: H628 (Архієпископ), Hotkey (Hotkey)
 {
 E
 }
@@ -294,7 +292,7 @@ Pack Ram
 STRING 1206
 // Destructibles: LTex (Barrel with Oil), Name (Name)
 {
-Barrel with Oil
+Діжка з нафтою
 }
 
 STRING 1227
@@ -372,13 +370,13 @@ Castle Wall Straight Door
 STRING 1265
 // Destructibles: B62R (Old Tomb), Name (Name)
 {
-Old Tomb
+Стара могила
 }
 
 STRING 1267
 // Destructibles: B62T (Egg), Name (Name)
 {
-Egg
+Яйце черепахи
 }
 
 STRING 1270
@@ -450,7 +448,7 @@ Lighthouse
 STRING 1295
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Скриня
 }
 
 STRING 1296
@@ -983,7 +981,7 @@ Whirlwind
 
 STRING 2728
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 2729
@@ -1003,7 +1001,7 @@ Must build Oil Rig first.
 
 STRING 2732
 {
-Must target an Oil Patch.
+Споруда може бути зведена виключно на нафтовому родовищі.
 }
 
 STRING 2733
@@ -1023,21 +1021,21 @@ Snowpile
 }
 
 STRING 2742
-// Destructibles: B001 (Fence), Name (Name)
+// Destructibles: B001 (Огорожа), Name (Name)
 {
-Fence
+Огорожа
 }
 
 STRING 2743
-// Destructibles: B002 (Fence), Name (Name)
+// Destructibles: B002 (Огорожа), Name (Name)
 {
-Fence
+Огорожа
 }
 
 STRING 2744
-// Destructibles: B003 (Fence short), Name (Name)
+// Destructibles: B003 (Огорожа short), Name (Name)
 {
-Fence short
+Огорожа
 }
 
 STRING 2745
@@ -1047,9 +1045,9 @@ Fountain
 }
 
 STRING 2746
-// Destructibles: B005 (Fence short), Name (Name)
+// Destructibles: B005 (Огорожа short), Name (Name)
 {
-Fence short
+Огорожа short
 }
 
 STRING 2747
@@ -1241,13 +1239,13 @@ Tower of Water
 STRING 2795
 // Units: nth1 (Troll Hut), Name (Name)
 {
-Troll Hut
+Хатинка троля
 }
 
 STRING 2796
 // Units: nth0 (Troll Hut), Name (Name)
 {
-Troll Hut
+Хатинка троля
 }
 
 STRING 2804
@@ -1264,62 +1262,62 @@ Hire Amanishi Guardian
 
 STRING 2963
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2964
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2965
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2966
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2967
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2968
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2969
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2970
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2971
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2972
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2973
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 2974
 {
-|cffffcc00Haul more Oil.|r
+|cffffcc00Потрібно більше нафти.|r
 }
 
 STRING 3040
@@ -1367,7 +1365,7 @@ STRING 3046
 STRING 3047
 // Units: n00J (City clock tower), Name (Name)
 {
-City clock tower
+Міська годинникова вежа
 }
 
 STRING 3048
@@ -1379,7 +1377,7 @@ Build City clock tower
 STRING 3049
 // Units: n00K (Tavern), Name (Name)
 {
-Tavern
+Корчма
 }
 
 STRING 3050
@@ -1396,17 +1394,17 @@ Stratholme green barn
 
 STRING 3053
 {
-Citizens
+Городяни
 }
 
 STRING 3055
 {
-Blackrock Clan
+Клан Чорного Каменю
 }
 
 STRING 3056
 {
-Shadow Council
+Тіньова Рада
 }
 
 STRING 3058
@@ -1420,27 +1418,27 @@ Neutral
 }
 
 STRING 3061
-// Units: H628 (Archibishop), Name (Name)
+// Units: H628 (Архієпископ), Name (Name)
 {
-Archibishop
+Архієпископ
 }
 
 STRING 3062
-// Units: H628 (Archibishop), Awakentip (Tooltip - Awaken)
+// Units: H628 (Архієпископ), Awakentip (Tooltip - Awaken)
 {
-Revive Archibishop
+Revive Архієпископ
 }
 
 STRING 3063
-// Units: H628 (Archibishop), Revivetip (Tooltip - Revive)
+// Units: H628 (Архієпископ), Revivetip (Tooltip - Revive)
 {
-Revive Archibishop
+Revive Архієпископ
 }
 
 STRING 3064
-// Units: H628 (Archibishop), Tip (Tooltip - Basic)
+// Units: H628 (Архієпископ), Tip (Tooltip - Basic)
 {
-Archibishop
+Архієпископ
 }
 
 STRING 3066
@@ -1456,13 +1454,13 @@ Cinematic Dummy
 
 STRING 3069
 {
-Alliance of Lordaeron
+Альянс Лордерону
 }
 
 STRING 3178
 // Units: h006 (Defender of Faith), Name (Name)
 {
-Defender of Faith
+Захисник віри
 }
 
 STRING 3179
@@ -1490,9 +1488,9 @@ Column Double (Pathless)
 }
 
 STRING 3188
-// Doodads: D007 (Iron Fence), Name (Name)
+// Doodads: D007 (Iron Огорожа), Name (Name)
 {
-Iron Fence
+Iron Огорожа
 }
 
 STRING 3189
@@ -1564,7 +1562,7 @@ STRING 3199
 STRING 3200
 // Units: nemi (Verdant Tranquility Activist), Name (Name)
 {
-Verdant Tranquility Activist
+Активіст Зеленого Спокою
 }
 
 STRING 3201
@@ -1660,7 +1658,7 @@ Build Murloc Hut
 STRING 3220
 // Units: h009 (Windmill), Name (Name)
 {
-Windmill
+Млин
 }
 
 STRING 3221
@@ -1672,7 +1670,7 @@ Build Wimdmill
 STRING 3222
 // Units: n004 (Barn), Name (Name)
 {
-Barn
+Хлів
 }
 
 STRING 3223
@@ -1684,7 +1682,7 @@ Build Barn
 STRING 3224
 // Units: h00A (Granary), Name (Name)
 {
-Granary
+Житниця
 }
 
 STRING 3225
@@ -1694,14 +1692,14 @@ Build Granary
 }
 
 STRING 3230
-// Units: h627 (Monk), Name (Name)
+// Units: h627 (Монах), Name (Name)
 {
-Monk
+Монах
 }
 
 STRING 3231
 {
-Alliance Navy
+Морські сили Альянсу
 }
 
 STRING 3232
@@ -1711,28 +1709,28 @@ Sewer Hatch
 }
 
 STRING 3237
-// Units: H628 (Archibishop), Propernames (Proper Names)
+// Units: H628 (Архієпископ), Propernames (Proper Names)
 {
-Alonsus Faol
+Алонс Фаол
 }
 
 STRING 3240
 {
-Cho'gall must survive
+Чо'ґалл має вижити
 }
 
 STRING 3241
 {
-|cffffcc00MAIN QUEST COMPLETED|r  
-Foothold
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r  
+Плацдарм
 }
 
 STRING 3242
 {
-|cffffcc00MAIN QUEST FAILED|r  
-Foothold
-- Find the goldmine.
-- |cffff0000Cho'gall must survive. (Failed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r  
+Плацдарм
+- Знайдіть золоту шахту.
+- |cffff0000Чо'ґалл має вижити. (Провалено)|r
 }
 
 STRING 3249
@@ -1743,15 +1741,15 @@ Visibility Controller
 
 STRING 3261
 {
-|cffffcc00MAIN QUEST|r   
-Stratholme Port:
-- Destroy Alliance Oil rigs.
-- Destroy Alliance Navy buildings.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r   
+Порт Стратгольму:
+- Знищіть всі бурові платформи Альянсу.
+- Знищіть всі військово-морські споруди Альянсу.
 }
 
 STRING 3262
 {
-Stratholme City Watch
+Варта міста Стратгольм
 }
 
 STRING 3293
@@ -1763,7 +1761,7 @@ Serves as a drop-off point for harvested lumber. |nAlso contains upgrades for im
 STRING 3331
 // Units: u005 (Corpse wagon), Name (Name)
 {
-Corpse wagon
+Вагон для трупів
 }
 
 STRING 3332
@@ -1786,81 +1784,80 @@ Wallpaper Mountains
 
 STRING 3356
 {
-Stratholme Port
+Порт Стратгольму
 }
 
 STRING 3357
 {
-Stratholme is the capital of Northlands Lordaeron province and the main supplier of oil to the Alliance. Destroy all oil rigs and refineries.
+Стратгольму є столицею північних земель Лордерону і головний постачальник нафти Альянсу. Знищіть всю нафтовидобувну інфраструктуру.
 }
 
 STRING 3358
 {
-Destroy all Alliance Oil rigs
+Знищіть бурові платформи Альянсу
 }
 
 STRING 3359
 {
-Destroy Stratholme Port
+Знищіть порт Стратгольму
 }
 
 STRING 3360
 {
-Stratholme
+Стратгольм
 }
 
 STRING 3361
 {
-Stratholme must be destroyed.
+Стратгольм має бути знищено.
 }
 
 STRING 3362
 {
-Burn the city to the ground.
+Спаліть місто вщент.
 }
 
 STRING 3363
 {
-Alliance Camp
+Північний табір
 }
 
 STRING 3364
 {
-Destroy the alliance camp that guards the city before the Warchief's arrival.
+Знищіть північний табір Альянсу який боронить центральний вхід у Стратгольм, до того як прибуде вождь зі своїм військом.
 }
 
 STRING 3365
 {
-Destroy the Alliance camp before the Warchief's arrival.
+Знищіть табір Альянсу на півночі.
 }
 
 STRING 3369
 {
-Assault
+Шутрм
 }
 
 STRING 3370
 {
-Breach through the city gates and reach the Cathedral. This swift attack must decimate Stratholme defenders.
+Пробийтеся через міську браму і дійдіть до міського собору. Ця стрімка атака має знести захисників Стратгольму.
 }
 
 STRING 3371
 {
-Reach the Cathedral
+Дійдіть до собору
 }
 
 STRING 3372
 {
-Kill all Cathedral Defenders
+Вбийте захисників собору
 }
 
 STRING 3374
 {
-|cffffcc00MAIN QUEST|r   
-Assault:
-- Reach the Cathedral.
-- Kill all Cathedral Defenders.
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r   
+Штурм:
+- Дійдіть до собору.
+- Вбийте захисників собору.
 }
 
 STRING 3417
@@ -1889,310 +1886,301 @@ Terons Staff
 
 STRING 3425
 {
-|cffffcc00TECHTREE UNLOCKED|r
-- Now you can build Temple of the Damned and summon Death Knights.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+- Відтепер ви можете побудувати Храм Проклятих і викликати лицарів смерті.
 }
 
 STRING 3426
 {
-|cffffcc00TECHTREE UNLOCKED|r
-- Now you can train goblin sappers in the Alchemist Lab.
+|cffffcc00ДЕРЕВО ТЕХНОЛОГІЙ РОЗБЛОКОВАНО|r
+- Відтепер ви можете тренувати загони ґоблінів саперів у майстерні ґобліна алхіміка.
 }
 
 STRING 3427
 // Units: u005 (Corpse wagon), Ubertip (Tooltip - Extended)
 {
-Corpse storage machine. Can gather corpses and drop them for DeathKnights to raise undead.
+Машина для зберігання трупів. Може збирати тіла полеглих і для використання їх пізніше, щоб підіймати невмерлих за допомогою лицарів смерті.
 }
 
 STRING 3428
 {
-|cffffcc00MAIN QUEST COMPLETED|r   
-Assault:
-- |cff808080Reach the Cathedral. (Completed) |r
-- |cff808080Kill all Cathedral Defenders. (Completed) |r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Штурм:
+- |cff808080Дійдіть до собору. (Завершено) |r
+- |cff808080Вбийте захисників собору.(Завершено) |r
 }
 
 STRING 3429
 {
-|cffffcc00MAIN QUEST UPDATED|r   
-Assault:
-- |cff808080Reach the Cathedral. (Completed) |r
-- Kill all Cathedral Defenders.
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Штурм:
+- |cff808080Дійдіть до собору. (Завершено) |r
+- Вбийте захисників собору.
 }
 
 STRING 3460
 {
-Last Stand
+Останній бій
 }
 
 STRING 3461
 {
-Kill the Paladins of Silver Hand order that are defending the Church of Light.
+Вбийте паладинів Срібної Десниці які боронять церкву світла.
 }
 
 STRING 3462
 {
-Kill the paladins of Silver Hand order.
+Вбийте всіх паладинів ордену Срібної Десниці.
 }
 
 STRING 3463
 {
-Kaboom
+Бабах
 }
 
 STRING 3464
 {
-You need to find vulnerable places in Stratholme walls. Find them and explode with the aid of your goblin sappers.
+Ви маєете знайти вразливі місця в стінах Стратгольму. Знайдіть їх та підірвіть стіни у цих місцях за допомогою ґоблінів саперів.
 }
 
 STRING 3465
 {
-Find the voulnerable places in Stratholme wall (0/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (0 з 3 знайдено).
 }
 
 STRING 3468
 {
-|cffffcc00MAIN QUEST|r   
-Last Stand:
-- Kill the paladins of Silver Hand order.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r   
+Останній бій:
+- Вбийте всіх паладинів ордену Срібної Десниці.
 }
 
 STRING 3469
 {
-|cffffcc00MAIN QUEST COMPLETED|r   
-Last Stand
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Останній бій
 }
 
 STRING 3495
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r   
-Kaboom
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Бабах
 }
 
 STRING 3501
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Kaboom:
-- Find the vulnerable places in Stratholme wall. (1/3).
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (1/3).
 }
 
 STRING 3502
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Find the vulnerable places in Stratholme wall. (2/3).
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (2/3).
 }
 
 STRING 3511
 {
-Find the voulnerable places in Stratholme wall (1/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (1/3 знайдено).
 }
 
 STRING 3512
 {
-Find the voulnerable places in Stratholme wall (2/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (2/3 знайдено).
 }
 
 STRING 3513
 {
-Find the voulnerable places in Stratholme wall.
+Знайдіть вразливі місця у стінах Стратгольму.
 }
 
 STRING 3514
 {
-Find the voulnerable places in Stratholme wall (1/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (1/3 знайдено).
 }
 
 STRING 3516
 {
-Find the voulnerable places in Stratholme wall (2/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (2/3 знайдено).
 }
 
 STRING 3517
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Find the vulnerable places in Stratholme wall. (1/3).
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (1/3).
 }
 
 STRING 3518
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Find the vulnerable places in Stratholme wall. (2/3).
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (2/3).
 }
 
 STRING 3519
 {
-Find the voulnerable places in Stratholme wall (1/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (1/3 знайдено).
 }
 
 STRING 3521
 {
-Find the voulnerable places in Stratholme wall (2/3 found).
+Знайдіть вразливі місця у стінах Стратгольму (2/3 знайдено).
 }
 
 STRING 3522
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Find the vulnerable places in Stratholme wall. (1/3).
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (1/3).
 }
 
 STRING 3523
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Find the vulnerable places in Stratholme wall. (2/3).
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (2/3).
 }
 
 STRING 3524
 {
-Explode the walls using goblin sappers. (1/3 exploded).
+Підірвати стіни у вразливому місці. (1/3 підірвано).
 }
 
 STRING 3526
 {
-Explode the walls using goblin sappers. (2/3 exploded).
+Підірвати стіниу вразливому місці. (2/3 підірвано).
 }
 
 STRING 3527
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Explode the walls using goblin sappers. (1/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- За допомогою ґоблінів саперів підірвіть стіни. (1/3 підірвано).
 }
 
 STRING 3528
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Explode the walls using goblin sappers. (2/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- За допомогою ґоблінів саперів підірвіть стіни. (2/3 підірвано).
 }
 
 STRING 3529
 {
-Explode the walls using goblin sappers. (1/3 exploded).
+Підірвати стіни у вразливому місці. (1/3 підірвано).
 }
 
 STRING 3531
 {
-Explode the walls using goblin sappers. (2/3 exploded).
+Підірвати стіниу вразливому місці. (2/3 підірвано).
 }
 
 STRING 3532
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- |cff808080Find the vulnerable places in Stratholme wall. (Completed)|r
-- Explode the walls using goblin sappers. (1/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- |cff808080Знайдіть вразливі місця у стінках Стратгольму. (Завершено)|r
+- За допомогою ґоблінів саперів  підірвіть стіни. (1/3 підірвано).
 }
 
 STRING 3533
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- |cff808080Find the vulnerable places in Stratholme wall. (Completed)|r
-- Explode the walls using goblin sappers. (2/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- |cff808080Знайдіть вразливі місця у стінках Стратгольму. (Завершено)|r
+- За допомогою ґоблінів саперів підірвіть стіни. (2/3 підірвано).
 }
 
 STRING 3534
 {
-Explode the walls using goblin sappers. (1/3 exploded).
+Підірвати стіни у вразливому місці. (1/3 підірвано).
 }
 
 STRING 3536
 {
-Explode the walls using goblin sappers. (2/3 exploded).
+Підірвати стіниу вразливому місці. (2/3 підірвано).
 }
 
 STRING 3537
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- |cff808080Find the vulnerable places in Stratholme wall. (Completed)|r
-- Explode the walls using goblin sappers. (1/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- |cff808080Знайдіть вразливі місця у стінках Стратгольму. (Завершено)|r
+- За допомогою ґоблінів саперів підірвіть стіни. (1/3 підірвано).
 }
 
 STRING 3538
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- |cff808080Find the vulnerable places in Stratholme wall. (Completed)|r
-- Explode the walls using goblin sappers. (2/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- |cff808080Знайдіть вразливі місця у стінках Стратгольму. (Завершено)|r
+- За допомогою ґоблінів саперів підірвіть стіни. (2/3 підірвано).
 }
 
 STRING 3540
 {
-Explode the walls using goblin sappers. (0/3 exploded).
+Підірвати стіни у вразливому місці. (0/3 підірвано).
 }
 
 STRING 3545
 {
-Find the voulnerable places in Stratholme wall.
+Знайдіть вразливі місця у стінах Стратгольму.
 }
 
 STRING 3546
 {
-Find the voulnerable places in Stratholme wall.
+Знайдіть вразливі місця у стінах Стратгольму.
 }
 
 STRING 3547
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- |cff808080Find the vulnerable places in Stratholme wall. (Completed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- |cff808080Знайдіть вразливі місця у стінах Стратгольму. (Завершено)|r
 }
 
 STRING 3552
 {
-Walls Destroyed
+Стін знищено
 }
 
 STRING 3553
 {
-Explode the walls using goblin sappers.
+Підірвіть стіни використовуючи ґоблінів саперів.
 }
 
 STRING 3554
 {
-Explode the walls using goblin sappers.
+Підірвіть стіни використовуючи ґоблінів саперів.
 }
 
 STRING 3555
 {
-Explode the walls using goblin sappers.
+Підірвіть стіни використовуючи ґоблінів саперів.
 }
 
 STRING 3556
 {
-Place of Power
+Місце сили
 }
 
 STRING 3557
 {
-There is a sanctuary of paladins near the city. Defile it and gain its power.
+Недалеко від міста є святилище паладинів. Захопіть його аби отримати його силу.
 }
 
 STRING 3558
 {
-Capture the Place of Power
+Захопіть місце сили
 }
 
 STRING 3559
 // Units: e003 (Holy Fountain), Name (Name)
 {
-Holy Fountain
+Святий фонтан
 }
 
 STRING 3560
@@ -2233,13 +2221,13 @@ STRING 3567
 
 STRING 3568
 {
-Unholy
+Нечестивість
 }
 
 STRING 3572
 // Units: e004 (Unholy Fountain), Name (Name)
 {
-Unholy Fountain
+Нечестивий фонтан
 }
 
 STRING 3573
@@ -2274,8 +2262,8 @@ Cleanse
 
 STRING 3584
 {
-|cff87ceebREINFORCEMENT|r
-- Corpsewagon. You can collect corpses of the fallen and provide them for your deathknigts later.
+|cff87ceebПІДКРІПЛЕННЯ|r
+- Вагон для трупів. За допомогою цього механізму, ви можете збирати тіла полеглих і використовувати їх пізніше, щоб підіймати невмерлих за допомогою лицарів смерті."
 }
 
 STRING 3585
@@ -2292,16 +2280,15 @@ Dummy Fire Emitter
 
 STRING 3589
 {
-|cff87ceebNEW SEMI-HERO|r
-- Teron'gor is the apprentice of Gul'dan and member of shadow council. 
+|cff87ceebНОВИЙ НАПІВ-ГЕРОЙ|r
+- Терон'кров учень Ґул'дана та член Тіньової Ради. 
 }
 
 STRING 3600
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r   
-Kaboom:
-- Explode the walls using goblin sappers. (0/3 exploded).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (0 з 3 знайдено).
 }
 
 STRING 3615
@@ -2335,361 +2322,361 @@ Banner Long Lordaeron
 }
 
 STRING 3620
-// Units: n008 (Old Citizen), Name (Name)
+// Units: n008 (Старий городянин), Name (Name)
 {
-Old Citizen
+Старий городянин
 }
 
 STRING 3621
-// Units: n008 (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n008 (Старий городянин), EditorSuffix (Name - Editor Suffix)
 {
 (E)
 }
 
 STRING 3622
-// Units: n009 (Old Citizen), Name (Name)
+// Units: n009 (Старий городянин), Name (Name)
 {
-Old Citizen
+Старий городянин
 }
 
 STRING 3623
-// Units: n009 (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n009 (Старий городянин), EditorSuffix (Name - Editor Suffix)
 {
 (D)
 }
 
 STRING 3624
-// Units: n00A (Old Citizen), Name (Name)
+// Units: n00A (Старий городянин), Name (Name)
 {
-Old Citizen
+Старий городянин
 }
 
 STRING 3625
-// Units: n00A (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00A (Старий городянин), EditorSuffix (Name - Editor Suffix)
 {
 (C)
 }
 
 STRING 3626
-// Units: n00B (Old Citizen), Name (Name)
+// Units: n00B (Старий городянин), Name (Name)
 {
-Old Citizen
+Старий городянин
 }
 
 STRING 3627
-// Units: n00B (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00B (Старий городянин), EditorSuffix (Name - Editor Suffix)
 {
 (B)
 }
 
 STRING 3628
-// Units: n00C (Old Citizen), Name (Name)
+// Units: n00C (Старий городянин), Name (Name)
 {
-Old Citizen
+Старий городянин
 }
 
 STRING 3629
-// Units: n00C (Old Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00C (Старий городянин), EditorSuffix (Name - Editor Suffix)
 {
 (A)
 }
 
 STRING 3630
-// Units: n00L (Lordaeron Woman), Name (Name)
+// Units: n00L (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3631
-// Units: n00L (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00L (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 7)
 }
 
 STRING 3632
-// Units: n00M (Lordaeron Woman), Name (Name)
+// Units: n00M (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3633
-// Units: n00M (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00M (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 6)
 }
 
 STRING 3634
-// Units: n00N (Lordaeron Woman), Name (Name)
+// Units: n00N (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3635
-// Units: n00N (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00N (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 5)
 }
 
 STRING 3636
-// Units: n00O (Lordaeron Woman), Name (Name)
+// Units: n00O (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3637
-// Units: n00O (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00O (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 4)
 }
 
 STRING 3638
-// Units: n00P (Lordaeron Woman), Name (Name)
+// Units: n00P (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3639
-// Units: n00P (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00P (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 3)
 }
 
 STRING 3640
-// Units: n00Q (Lordaeron Woman), Name (Name)
+// Units: n00Q (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3641
-// Units: n00Q (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00Q (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 1)
 }
 
 STRING 3642
-// Units: n00R (Lordaeron Woman), Name (Name)
+// Units: n00R (Жителька Стратгольму), Name (Name)
 {
-Lordaeron Woman
+Жителька Стратгольму
 }
 
 STRING 3643
-// Units: n00R (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+// Units: n00R (Жителька Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic 2)
 }
 
 STRING 3644
-// Units: n00S (Citizen), Name (Name)
+// Units: n00S (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3645
-// Units: n00S (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00S (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3646
-// Units: n00S (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00S (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (A)
 }
 
 STRING 3647
-// Units: n00T (Citizen), Name (Name)
+// Units: n00T (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3648
-// Units: n00T (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00T (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3649
-// Units: n00T (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00T (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (B)
 }
 
 STRING 3650
-// Units: n00U (Citizen), Name (Name)
+// Units: n00U (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3651
-// Units: n00U (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00U (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3652
-// Units: n00U (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00U (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (C)
 }
 
 STRING 3653
-// Units: n00V (Citizen), Name (Name)
+// Units: n00V (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3654
-// Units: n00V (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00V (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3655
-// Units: n00V (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00V (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (L)
 }
 
 STRING 3656
-// Units: n00W (Citizen), Name (Name)
+// Units: n00W (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3657
-// Units: n00W (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00W (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3658
-// Units: n00W (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00W (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (D)
 }
 
 STRING 3659
-// Units: n00X (Citizen), Name (Name)
+// Units: n00X (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3660
-// Units: n00X (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00X (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3661
-// Units: n00X (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00X (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (E)
 }
 
 STRING 3662
-// Units: n00Y (Citizen), Name (Name)
+// Units: n00Y (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3663
-// Units: n00Y (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00Y (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3664
-// Units: n00Y (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00Y (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (K)
 }
 
 STRING 3665
-// Units: n00Z (Citizen), Name (Name)
+// Units: n00Z (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3666
-// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+// Units: n00Z (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3667
-// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n00Z (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (F)
 }
 
 STRING 3668
-// Units: n010 (Citizen), Name (Name)
+// Units: n010 (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3669
-// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n010 (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3670
-// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n010 (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (J)
 }
 
 STRING 3671
-// Units: n011 (Citizen), Name (Name)
+// Units: n011 (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3672
-// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n011 (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3673
-// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n011 (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (H)
 }
 
 STRING 3674
-// Units: n012 (Citizen), Name (Name)
+// Units: n012 (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3675
-// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n012 (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3676
-// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n012 (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (G)
 }
 
 STRING 3677
-// Units: n013 (Citizen), Name (Name)
+// Units: n013 (Житель Стратгольму), Name (Name)
 {
-Citizen
+Житель Стратгольму
 }
 
 STRING 3678
-// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+// Units: n013 (Житель Стратгольму), Ubertip (Tooltip - Extended)
 {
-Just a regular citizen. |n|n|cffffcc00Attacks land units.|r
+Just a regular Житель Стратгольму. |n|n|cffffcc00Attacks land units.|r
 }
 
 STRING 3679
-// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+// Units: n013 (Житель Стратгольму), EditorSuffix (Name - Editor Suffix)
 {
 (I)
 }
@@ -2771,82 +2758,76 @@ W
 
 STRING 3713
 {
-|cffffcc00OPTIONAL QUEST FAILED|r   
-Alliance Camp:
-- |cffff0000Destroy the Alliance camp before the Warchiefs arrival. (Failed)|r 
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r   
+Північний табір:
+- |cffff0000Знищіть табір Альянсу на півночі. (Провалено)|r 
 }
 
 STRING 3714
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r   
-Alliance Camp
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Північний табір
 }
 
 STRING 3715
 {
-|cffffcc00MAIN QUEST COMPLETED|r   
-Stratholme
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r   
+Стратгольм
 }
 
 STRING 3716
 {
-|cffffcc00MAIN QUEST UPDATED|r   
-Stratholme Port:
--|c00C0C0C0 Destroy Alliance Oil rigs. (Completed).|r
-- Destroy Alliance Navy buildings.
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Порт Стратгольму:
+-|c00C0C0C0 Destroy Знищіть всі нафтові платформ Альянсу. (Завершено).|r
+- Знищіть всі військово-морські споруди Альянсу.
 }
 
 STRING 3717
 {
-|cffffcc00MAIN QUEST UPDATED|r   
-Stratholme Port:
-- Destroy Alliance Oil rigs.
--|c00C0C0C0 Destroy Alliance Navy buildings. (Completed).|r
-
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r   
+Порт Стратгольму:
+- Знищіть всі нафтові платформ Альянсу.
+- |c00C0C0C0 Знищіть всі військово-морські споруди Альянсу. (Завершено).|r
 }
 
 STRING 3718
 {
-The Horde arrives in:
+Вождь прибуде через:
 }
 
 STRING 3719
 {
-|cffffcc00OPTIONAL QUEST|r   
-Alliance Camp:
-- Destroy the Alliance camp before the Warchiefs arrival.
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r   
+Північний табір:
+- Знищіть табір Альянсу на півночі.
 }
 
 STRING 3720
 {
-|cffffcc00OPTIONAL QUEST|r   
-Kaboom:
-- Find the vulnerable places in Stratholme wall (0/3 found).
-
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r   
+Бабах:
+- Знайдіть вразливі місця у стінах Стратгольму. (0 з 3 знайдено).
 }
 
 STRING 3721
 {
-KABOOM
+БАБАХ
 }
 
 STRING 3722
 {
-Vulnerabilities found
+Вразливостей знайдено
 }
 
 STRING 3723
 {
-Twilight's Hammer Clan
+Клан Сутінкового Молота
 }
 
 STRING 3724
 {
-Order of the Silver Hand
+Орден Срібної Десниці
 }
 
 STRING 3725
@@ -2858,7 +2839,7 @@ Orgrim Doomhammer
 STRING 3726
 // Items: I0La (WC2Orc10Doomhammer1), Description (Description)
 {
-Perfect. My warriors have waited long enough for this battle. Their patience will now be rewarded.
+Чудово. Мої воїни чекали досить довго на цю битву, і ось нарешті дочекалися.
 }
 
 STRING 3727
@@ -2876,7 +2857,7 @@ Orgrim Doomhammer
 STRING 3729
 // Items: I0Lb (WC2Orc10Doomhammer2), Description (Description)
 {
-Today we strike at the very heart of Lordaeron’s oil production. Without Stratholme, the Alliance’s war effort will grind to a halt, clearing the way to our ultimate goal… Lordaeron’s Capital!
+Сьогодні ми завдамо удару в саме серце нафтовидобутку Лордерону. Без Стратгольму та його ресурсів, військова машина Альянсу значно ослабне, це нарешті відкриє шлях до нашої головної мети… Столиці Лордерону.
 }
 
 STRING 3730
@@ -2894,7 +2875,7 @@ Orgrim Doomhammer
 STRING 3732
 // Items: I0Lc (WC2Orc10Doomhammer3), Description (Description)
 {
-Break through the gates of Stratholme, and unleash the fury of the Horde on its inhabitants!
+Проб'ємося через центральну браму Стратгольму, і вивільнемо гнів Орди на його мешканців!
 }
 
 STRING 3733
@@ -2912,7 +2893,7 @@ Orgrim Doomhammer
 STRING 3735
 // Items: I0Ld (WC2Orc10Doomhammer4), Description (Description)
 {
-Good, then they will die with honor, Warlock. Now step aside, and let the true warriors have their day. wouldn't you say?
+Добре, тоді вони помруть з честю, чорнокнижник. А тепер відійди, і дай справжнім воїнам зайнятися справою. Зрозуміло?
 }
 
 STRING 3736
@@ -2930,7 +2911,7 @@ Orgrim Doomhammer
 STRING 3738
 // Items: I0Le (WC2Orc10Doomhammer5), Description (Description)
 {
-Attack, my warriors! For the Horde!
+В атаку, мої воїни! За Орду!
 }
 
 STRING 3739
@@ -2948,7 +2929,7 @@ Orgrim Doomhammer
 STRING 3741
 // Items: I0Lf (WC2Orc10Doomhammer6), Description (Description)
 {
-And just what are you suggesting, Warlock?
+І що ти пропонуєш чорнокнижнику?
 }
 
 STRING 3742
@@ -2966,7 +2947,7 @@ Orgrim Doomhammer
 STRING 3744
 // Items: I0Lg (WC2Orc10Doomhammer7), Description (Description)
 {
-I remember that you were on your knees and begging for your life… speak quickly Gul’dan, for my patience is nearly spent…
+Я пам'ятаю як ти на колінах благав зберегти нікчемне твоє життя Ґул'дане. Кажи швидше, бо я втрачаю терпіння…
 }
 
 STRING 3745
@@ -2984,7 +2965,7 @@ Orgrim Doomhammer
 STRING 3747
 // Items: I0Lh (WC2Orc10Doomhammer8), Description (Description)
 {
-You dabble in dangerous magic, Gul’dan… but if these “Death Knights” are as powerful as you say, and loyal to the Horde, you will have proven your usefulness to me. Now... let us put the power of these unliving knights to the test...
+Ти займаєшся небезпечними чарами, Ґул'дане… але якщо ці «Лицарі смерті» настільки могутні, як ти кажеш та ще й вірні Орді, можу сказати, що ти справами довів мені свою користь. А тепер… перевірмо на що здатні ці неживі лицарі в бою…
 }
 
 STRING 3748
@@ -3002,7 +2983,7 @@ Orgrim Doomhammer
 STRING 3750
 // Items: I0Li (WC2Orc10Doomhammer9), Description (Description)
 {
-With the fall of Stratholme, victory in this war is finally within our grasp. Once we destroy the Capital of Lordaeron, and Zul’jin burns Quel’thalas to the ground, none will remain with the power to oppose us!
+З падінням Стратгольму, перемога у цій війні майже у наших руках. Щойно ми знищимо столицю Лордерону, а Зул'джин спалить вщент Квел’Талас, ніхто не буде в змозі протистояти нам!
 }
 
 STRING 3751
@@ -3020,7 +3001,7 @@ Orgrim Doomhammer
 STRING 3753
 // Items: I0Lj (WC2Orc10Doomhammer10), Description (Description)
 {
-Then, at long last, we can ensure a proud and glorious future for the orcs on this world, and everyone brave enough to stand with us!
+І ось тоді, нарешті ми зможемо забезпечити славетне та горде майбутнє для орків у цьому світі, для орків та кожного, кому вистачить хоробрості, доєднатися до нас!
 }
 
 STRING 3754
@@ -3038,7 +3019,7 @@ Orgrim Doomhammer
 STRING 3756
 // Items: I0Lk (WC2Orc10Doomhammer11), Description (Description)
 {
-Glory to the Horde! Victory or Death!
+Слава Орді! Перемога або смерть!
 }
 
 STRING 3757
@@ -3056,7 +3037,7 @@ Gul'dan
 STRING 3759
 // Items: I0Lm (WC2Orc10THGuldan1), Description (Description)
 {
-This city is guarded by some of the most powerful Alliance forces, Warchief. Blindly assaulting the gates will not be enough… the defenders of Stratholme will fight to the death.
+Вождь, місто охороняється ліпшими силами Альянсу. Сліпо йти на браму буде недостатньо аби пробитися у місто… міська варта Стратгольму стоятиме на смерть.
 }
 
 STRING 3760
@@ -3074,7 +3055,7 @@ Gul'dan
 STRING 3762
 // Items: I0Ln (WC2Orc10THGuldan2), Description (Description)
 {
-..as you command, Warchief.
+…як накажеш, вождь.
 }
 
 STRING 3763
@@ -3092,7 +3073,7 @@ Gul'dan
 STRING 3765
 // Items: I0Lo (WC2Orc10THGuldan3), Description (Description)
 {
-As you can see Warchief, the defenses of Stratholme are quite formidable. It’s walls cannot be breached through brute strength alone.
+Як бачиш вождь, оборона Стратгольму досить потужна. Його стіни неможливо зламати лише грубою силою.
 }
 
 STRING 3766
@@ -3110,7 +3091,7 @@ Gul'dan
 STRING 3768
 // Items: I0Lp (WC2Orc10THGuldan4), Description (Description)
 {
-Other means must be explored... if we are to taste victory today.
+Це значить, що треба шукати інший підхід… якщо ми хочемо смакувати перемогу сьогодні.
 }
 
 STRING 3769
@@ -3128,7 +3109,7 @@ Gul'dan
 STRING 3771
 // Items: I0Lq (WC2Orc10THGuldan5), Description (Description)
 {
-Do you remember the promise I made at the start of your reign?
+Ти пам'ятаєш, що я обіцяв коли присягнув тобі на службу?
 }
 
 STRING 3772
@@ -3146,7 +3127,7 @@ Gul'dan
 STRING 3774
 // Items: I0Lr (WC2Orc10THGuldan6), Description (Description)
 {
-I promised you riders of darkness, Warchief, undead wielders of powerful magic to bring ruin to your enemies.
+Я обіцяв тобі вершників темряви, вождь, немертвих володарів могутньої магії, щоб знищити твоїх ворогів.
 }
 
 STRING 3775
@@ -3164,7 +3145,7 @@ Gul'dan
 STRING 3777
 // Items: I0Ls (WC2Orc10THGuldan7), Description (Description)
 {
-After your warriors killed most of my Shadow Council, I sought ways to create these riders with the aid of my surviving Necrolytes… but they proved incapable of imbuing corpses with true consciousness…
+Після того, як твої воїни перебили більшу частину моєї Тіньової Ради, я шукав способи створити цих вершників за допомогою моїх некролітів, що вижили… але вони виявилися неспроможними наділити трупи справжньою свідомістю…
 }
 
 STRING 3778
@@ -3182,7 +3163,7 @@ Gul'dan
 STRING 3780
 // Items: I0Lt (WC2Orc10THGuldan8), Description (Description)
 {
-It was then that I realized… that there is another way…
+І тоді я зрозумів… що існує й інший шлях…
 }
 
 STRING 3781
@@ -3200,7 +3181,7 @@ Gul'dan
 STRING 3783
 // Items: I0Lu (WC2Orc10THGuldan9), Description (Description)
 {
-But the ritual cannot be done, without sacrifice…
+Але ритуал необхідний для цього, не може бути зроблено без жертвоприношення…
 }
 
 STRING 3784
@@ -3218,7 +3199,7 @@ Gul'dan
 STRING 3786
 // Items: I0Lv (WC2Orc10THGuldan10), Description (Description)
 {
-Teron’gor, my apprentice, it is time to leave that mortal vessel.
+Терон'крове, учню мій, настав тобі час покинути цю смертну оболонку.
 }
 
 STRING 3787
@@ -3236,7 +3217,7 @@ Gul'dan
 STRING 3789
 // Items: I0Lw (WC2Orc10THGuldan11), Description (Description)
 {
-Every dog has its day, Teron, and this is yours… joined by the souls of my failed Necrolytes... now embrace this gift, and seize your destiny, Death Knight!
+Всі ми маємо виконати своє призначення, Тероне, і ось ти виконаєш своє… прийми дарунок який створений з душ моїх полеглих нектролітів… прийми його і зустрінь свою долю, лицарю смерті!
 }
 
 STRING 3790
@@ -3254,7 +3235,7 @@ Gul'dan
 STRING 3792
 // Items: I0Lx (WC2Orc10THGuldan12), Description (Description)
 {
-Now, with the souls of the dead, we can turn the fallen knights of our enemies into our servants. The sight of them will tear at the hearts of their human brethren… and fill their souls with terror!
+Тепер, маючи душі померлих, ми можемо перетворити полеглих лицарів наших ворогів на  слуг. Коли люди це побачать, їх серця будуть розірвані… і наповнить їхні душі жахом!
 }
 
 STRING 3793
@@ -3272,7 +3253,7 @@ Gul'dan
 STRING 3795
 // Items: I0Ly (WC2Orc10THGuldan13), Description (Description)
 {
-Stratholme is said to be the holiest of cities to the humans. My Death Knights will desecrate it and bring true terror to the hearts of all humans. This entire city… will be purged.
+Стратгольм вважається найсвятішим містом для людей. Мої Лицарі Смерті осквернять його і вселять справжній жах у серця всіх людей. Все це місто… буде очищено.
 }
 
 STRING 3796
@@ -3290,7 +3271,7 @@ Gul'dan
 STRING 3798
 // Items: I0Lz (WC2Orc10THGuldan14), Description (Description)
 {
-We will be moving north, my apprentices, as there is something in Quel’thalas that I need for the next step of my plan.
+А ми рушимо на північ, учню мій, оскільки у Квел'Таласі є дещо, що вкрай потрібно для наступної частини мого плану.
 }
 
 STRING 3799
@@ -3308,7 +3289,7 @@ Gul'dan
 STRING 3801
 // Items: I0LA (WC2Orc10THGuldan15), Description (Description)
 {
-Gather the warriors… it is time to “reinforce” Zul’jin.
+Збери воїнів… настав час «допомогти» Зул'джину.
 }
 
 STRING 3802
@@ -3326,7 +3307,7 @@ Gul'dan
 STRING 3804
 // Items: I0LB (WC2Orc10Guldan_MaraEncounter1), Description (Description)
 {
-Ah, an Azerothien remnant.. it’s time that you joined your fallen brethren in death!
+Ааа, залишки азеросткьких собак… настав час і вам подохнути!
 }
 
 STRING 3805
@@ -3344,7 +3325,7 @@ Fanatic
 STRING 3807
 // Items: I0LC (WC2Orc10THgrunt1), Description (Description)
 {
-Yes, Chieftan!
+Так, отамане!
 }
 
 STRING 3808
@@ -3374,7 +3355,7 @@ Fanatic
 STRING 3813
 // Items: I0LE (WC2Orc10THGrunt_intro1), Description (Description)
 {
-We followed the maps as you commanded, chieftain Cho’gall..we…
+Ми йшли за мапами, як ви й наказували, отамане Чо'ґалл… ми…
 }
 
 STRING 3814
@@ -3392,7 +3373,7 @@ Fanatic
 STRING 3816
 // Items: I0LF (WC2Orc10THGrunt_Walls1), Description (Description)
 {
-Chieftain! We can’t get through the walls!
+Отамане! Нам не пробитися через стіни!
 }
 
 STRING 3817
@@ -3410,7 +3391,7 @@ Utok Scratcher
 STRING 3819
 // Items: I0LG (WC2Orc10Utok_WallQuest1), Description (Description)
 {
-We need to use our goblin Zeppelins to find vulnerable places where we can breach the walls
+Треба використати ґоблінські дирижаблі аби знайти вразливі місця, де ми зможемо пробити стіни.
 }
 
 STRING 3820
@@ -3428,7 +3409,7 @@ Goblin Sappers
 STRING 3822
 // Items: I0LH (GoblinSapperWhat301), Description (Description)
 {
-Wretched crew here!
+Загін самогубців на місці!
 }
 
 STRING 3823
@@ -3446,7 +3427,7 @@ Teron'Gor
 STRING 3825
 // Items: I0LI (WC2Orc10Terongor1), Description (Description)
 {
-What?! No! Gul’dan!
+Що?! Ні! Ґул'дане!
 }
 
 STRING 3826
@@ -3458,13 +3439,13 @@ WC2Orc10Terongor1
 STRING 3827
 // Items: I0LJ (WC2Orc10Alonsus_Interlude1), Tip (Tooltip - Basic)
 {
-Alonsus Faol
+Алонс Фаол
 }
 
 STRING 3828
 // Items: I0LJ (WC2Orc10Alonsus_Interlude1), Description (Description)
 {
-The city is lost… that damnable Warlock has won again. We have but two choices left… stay and fight to the last man, or retreat to the capital.
+Місто втрачено… це клятий чорнокнижник знову переміг. У нас лишилося два шляхи… лишитися і битися до останнього, або відійти у столицю.
 }
 
 STRING 3829
@@ -3476,13 +3457,13 @@ WC2Orc10Alonsus_Interlude1
 STRING 3830
 // Items: I0LK (WC2Orc10Alonsus_Interlude2), Tip (Tooltip - Basic)
 {
-Alonsus Faol
+Алонс Фаол
 }
 
 STRING 3831
 // Items: I0LK (WC2Orc10Alonsus_Interlude2), Description (Description)
 {
-This is Northshire all over again… please, don't make me lose any more of you…
+Це повторення того що було у Північнокраї… прошу, не змушуй мене знову втратити тебе…
 }
 
 STRING 3832
@@ -3494,13 +3475,13 @@ WC2Orc10Alonsus_Interlude2
 STRING 3833
 // Items: I0LM (WC2Orc10Alonsus_Interlude3), Tip (Tooltip - Basic)
 {
-Alonsus Faol
+Алонс Фаол
 }
 
 STRING 3834
 // Items: I0LM (WC2Orc10Alonsus_Interlude3), Description (Description)
 {
-May the light protect you, child.
+Нехай світло береже тебе, дитино.
 }
 
 STRING 3835
@@ -3518,7 +3499,7 @@ Mara Fordragon
 STRING 3837
 // Items: I0LN (WC2Orc10MaraFordragon_BossFight1), Description (Description)
 {
-Come then… you savages! Taste the wrath of the light!
+Давайте… ви, дикуни! Скуштуйте на смак гнів світла!
 }
 
 STRING 3838
@@ -3548,7 +3529,7 @@ Mara Fordragon
 STRING 3843
 // Items: I0LP (WC2Orc10MaraFordragon_Encounter1), Description (Description)
 {
-You! I remember your desecration of Northshire and its noble citizens, Warlock! Your unholy army will fall here.
+Ти! Я пам'ятаю як ти осквернив Північнокрай та його благородних городян, чорнокнижнику! Твоє нечестиве військо поляже прямо тут.
 }
 
 STRING 3844
@@ -3566,7 +3547,7 @@ Mara Fordragon
 STRING 3846
 // Items: I0LQ (WC2Orc10MaraFordragon_Interlude1), Description (Description)
 {
-We’ve run for far too long… and will run no further! But you are the beating heart of the Silver hand… its future depends on your survival.
+Ми занадто довго тікали… і більше не будемо! Але ви Алонсе, ви серце Срібної Десниці, серце що б'ється… її майбутнє залежить від вашого виживання.
 }
 
 STRING 3847
@@ -3584,7 +3565,7 @@ Mara Fordragon
 STRING 3849
 // Items: I0LR (WC2Orc10MaraFordragon_Interlude2), Description (Description)
 {
-The light will be with us, Faol, in this life and in the next. Now… go with lord Mograine, I will hold them off.
+Світло буде з нами, Фаоле, у цьому житті та в наступному. А тепер… іди з лордом Моґрейном, я затримаю їх.
 }
 
 STRING 3850
@@ -3596,13 +3577,13 @@ WC2Orc10MaraFordragon_Interlude2
 STRING 3851
 // Items: I0LS (WC2Orc10Mograine_Encounter1), Tip (Tooltip - Basic)
 {
-Alexandros Mograine
+Александрос Моґрейн
 }
 
 STRING 3852
 // Items: I0LS (WC2Orc10Mograine_Encounter1), Description (Description)
 {
-Stratholme is the heart of Lordaeron, the holiest of cites... your very presence defiles this land, monsters, and you will NOT desecrate it any further!
+Стратгольм — це саме серце Лордерону, найсвятіше з міст людей… сама ваша присутність оскверняє цю землю, чудовиська, ми покладемо цьому край!
 }
 
 STRING 3853
@@ -3620,7 +3601,7 @@ Alexandros Mograine
 STRING 3855
 // Items: I0LT (WC2Orc10Mograine_Interlude1), Description (Description)
 {
-Your name will be itched in the memories of all Knights of the Silver Hand, brave Mara… farewell…
+Твоє ім'я залишиться в пам'яті всіх лицарів Срібної Долоні, відважна Маро… прощавай…
 }
 
 STRING 3856
@@ -3632,13 +3613,13 @@ WC2Orc10Mograine_Interlude1
 STRING 3857
 // Items: I0LU (WC2Orc10HumanArcher_Oil1), Tip (Tooltip - Basic)
 {
-Archer
+Лучник
 }
 
 STRING 3858
 // Items: I0LU (WC2Orc10HumanArcher_Oil1), Description (Description)
 {
-Pour the oil down on the gates and set those beasts on fire!
+Вилити нафту на браму, підпаліть цих тварюк!
 }
 
 STRING 3859
@@ -3656,7 +3637,7 @@ Teron Gorefiend
 STRING 3861
 // Items: I0LV (WC2Orc10Gorefiend1), Description (Description)
 {
-I… I feel different… I can feel the power inside me! I am now eternal... I am now death incarnate… I am now… Teron Gorefiend!
+Я… почуваюся інакше… Я відчуваю силу всередині себе! Тепер я вічний… Я втілення смерті… Я тепер… Терон Кровобіс!
 }
 
 STRING 3862
@@ -3668,13 +3649,13 @@ WC2Orc10Gorefiend1
 STRING 3863
 // Items: I0LW (WC2Orc10Footman1), Tip (Tooltip - Basic)
 {
-Captain
+Капітан
 }
 
 STRING 3864
 // Items: I0LW (WC2Orc10Footman1), Description (Description)
 {
-Orcs!
+Орки!
 }
 
 STRING 3865
@@ -3692,7 +3673,7 @@ Footman
 STRING 3867
 // Items: I0LX (WC2Orc10Footman2), Description (Description)
 {
-I told you this fire was a bad idea!
+А я казав, що розвести багаття тут це погана ідея!
 }
 
 STRING 3868
@@ -3704,13 +3685,13 @@ WC2Orc10Footman2
 STRING 3869
 // Items: I0LY (WC2Orc10Kobold1), Tip (Tooltip - Basic)
 {
-Kobold
+Кобольд
 }
 
 STRING 3870
 // Items: I0LY (WC2Orc10Kobold1), Description (Description)
 {
-This gold is mine-mine! You no take candle!
+Це золото наше-наше! Ви не отримуєте свічку!
 }
 
 STRING 3871
@@ -3728,7 +3709,7 @@ Cho’gall
 STRING 3873
 // Items: I0LZ (WC2Orc10Chogall_intro1), Description (Description)
 {
-|cffffcc00Cho:|r We have landed near Stratholme as intended.|n|cffffcc00Gall:|r But you morons forgot to survey this land first! we cannot build a base here!
+|cffffcc00Чо:|r Ми висадились біля Стратгольму, як і планувалося. |n|cffffcc00Ґалл:|r Але ж ви, нікчеми, забули спочатку розвідати острів! Ми не можемо таборитися тут!
 }
 
 STRING 3874
@@ -3746,7 +3727,7 @@ Cho’gall
 STRING 3876
 // Items: I0L0 (WC2Orc10Chogall_intro2), Description (Description)
 {
-|cffffcc00Cho:|r Shut your hole or I will gut you and make you eat your own innards!|n|cffffcc00Gall:|r There’s a Goblin band somewhere nearby, I can sense them, let’s recruit them first so they help us find a Goldmine.
+|cffffcc00Чо:|r Стули пельку, або я випотрошу тебе і змушу з'їсти власні нутрощі! |n|cffffcc00Ґалл:|r Десь тут неподалік є ґобліни, я їх відчуваю, треба їх завербувати, щоб вони допомогли нам знайти золоту шахту.
 }
 
 STRING 3877
@@ -3764,7 +3745,7 @@ Cho’gall
 STRING 3879
 // Items: I0L1 (WC2Orc10Chogall_intro3), Description (Description)
 {
-|cffffcc00Cho:|r Understood?
+|cffffcc00Чо:|r Зрозуміло?
 }
 
 STRING 3880
@@ -3782,7 +3763,7 @@ Cho’gall
 STRING 3882
 // Items: I0L2 (WC2Orc10ChoGall1), Description (Description)
 {
-|cffffcc00Cho:|r The Warchief’s army is marching on Stratholme.|n|cffffcc00Gall:|r We have been tasked with setting up a base camp, preparing defenses and filling the food stores!
+|cffffcc00Чо:|r Армія вождя вже крокує до Стратгольму.|n|cffffcc00Ґалл:|r Нам було наказано розгорнути табір, підготувати оборону та припаси.
 }
 
 STRING 3883
@@ -3800,7 +3781,7 @@ Cho’gall
 STRING 3885
 // Items: I0L3 (WC2Orc10ChoGall2), Description (Description)
 {
-|cffffcc00Cho:|r Our scouts report that a large oil shipment is preparing to set off from the city.|n|cffffcc00Gall:|r Take the shipment, burn the oil rigs and destroy Stratholme’s port!
+|cffffcc00Чо:|r Розвідники доповідають, що велика партія нафти готується вирушити з міста. |n|cffffcc00Ґалл:|r Треба її перехопити, спалити всі нафтові платформи та зруйнувати порт Стратгольму!
 }
 
 STRING 3886
@@ -3836,7 +3817,7 @@ Cho’gall
 STRING 3891
 // Items: I0L5 (WC2Orc10ChoGall5), Description (Description)
 {
-|cffffcc00Cho:|r We can feel the place of power where the paladins are strengthening their warriors. |cffffcc00Gall:|r If we defile this place, we can turn its power against them!
+|cffffcc00Чо:|r Ми відчуваємо десь поряд місце сили, де паладини зміцнюють своїх воїнів.|n|cffffcc00Ґалл:|r Якщо осквернимо його, то зможемо використати їх силу проти них самих.
 }
 
 STRING 3892
@@ -3854,7 +3835,7 @@ Cho’gall
 STRING 3894
 // Items: I0L6 (WC2Orc10ChoGall6), Description (Description)
 {
-|cffffcc00Cho:|r Everything has been prepared for your arrival, Warchief.|n|cffffcc00Gall:|r The attack on Stratholme can begin at once, as you demanded!
+|cffffcc00Чо:|r Все було підготовлено до твого прибуття, вождь.|n|cffffcc00Ґалл:|r Наступ на Стратгольм може бути розпочато за твоїм наказом!
 }
 
 STRING 3895
@@ -3872,7 +3853,7 @@ Cho’gall
 STRING 3897
 // Items: I0L7 (WC2Orc10ChoGall7), Description (Description)
 {
-|cffffcc00Cho:|r Master, what will we do now?|n|cffffcc00Gall:|r Doomhammer and his forces will be moving west very soon.
+|cffffcc00Чо:|r Господарю, що ми тепер робитимемо? |n|cffffcc00Ґалл:|r Молот Згуби і його військо дуже скоро вирушить на захід.
 }
 
 STRING 3898
@@ -3883,35 +3864,35 @@ WC2Orc10ChoGall7
 
 STRING 3899
 {
-Place of Power
+Місце сили
 }
 
 STRING 3900
 {
-There is a sanctuary of paladins near the city. Defile it and gain its power.
+Недалеко від міста є святилище паладинів. Захопіть його аби отримати його силу.
 }
 
 STRING 3901
 {
-Capture the Place of Power
+Захопіть місце сили
 }
 
 STRING 3902
 // Items: I0LD (WC2Orc10THgrunt3), Description (Description)
 {
-We have captured the place of Power!
+Ми захопили місце сили!
 }
 
 STRING 3903
 // Items: I1LD (WC2Orc10THgrunt4), Tip (Tooltip - Basic)
 {
-Fanatic
+Фанатик
 }
 
 STRING 3904
 // Items: I1LD (WC2Orc10THgrunt4), Description (Description)
 {
-We have lost the place of Power!
+Ми втратили контроль над місцем сили!
 }
 
 STRING 3905
@@ -3923,7 +3904,7 @@ WC2Orc10THgrunt4
 STRING 3906
 // Items: I0LO (WC2Orc10MaraFordragon_BossFight2), Description (Description)
 {
-Bolvar, in the light we are one...
+Болваре, у світлі ми єдині…
 }
 
 STRING 3907
@@ -3949,13 +3930,13 @@ STRING 3910
 STRING 3911
 // Items: IQL0 (Filson the Rat), Tip (Tooltip - Basic)
 {
-Grunt
+Рубайло
 }
 
 STRING 3912
 // Items: IQL0 (Filson the Rat), Description (Description)
 {
-Bowman
+Орк лучник
 }
 
 STRING 3913
@@ -3967,6 +3948,6 @@ Filson the Rat
 STRING 3914
 // Items: IQL0 (Filson the Rat), Ubertip (Tooltip - Extended)
 {
-Friendly target has to be an Infernal.
+Для цього закляття в якості дружньої цілі може бути обраний лише інфернал.
 }
 
