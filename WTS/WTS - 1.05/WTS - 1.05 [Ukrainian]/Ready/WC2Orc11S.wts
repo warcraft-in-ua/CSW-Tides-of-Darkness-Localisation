@@ -230,15 +230,15 @@ STRING 116
 }
 
 STRING 117
-// Doodads: D00O (-ZL-Vase 1), Name (Name)
+// Doodads: D00O (-ZL-Ваза 1), Name (Name)
 {
--ZL-Vase 1
+-ZL-Ваза 1
 }
 
 STRING 118
-// Doodads: D00P (-ZL-Vase 2), Name (Name)
+// Doodads: D00P (-ZL-Ваза 2), Name (Name)
 {
--ZL-Vase 2
+-ZL-Ваза 2
 }
 
 STRING 119
@@ -248,9 +248,9 @@ STRING 119
 }
 
 STRING 120
-// Doodads: D00R (-ZL-Vase 3), Name (Name)
+// Doodads: D00R (-ZL-Ваза 3), Name (Name)
 {
--ZL-Vase 3
+-ZL-Ваза 3
 }
 
 STRING 121
@@ -657,7 +657,7 @@ STRING 267
 
 STRING 269
 {
-Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
+Build more Farms to continue unit production.,Побудуйте більше свиноферм для подальшого розширення війська.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.
 }
 
 STRING 270
@@ -697,105 +697,105 @@ Unholy
 
 STRING 278
 {
-Cinematic Zul'jin
+Cinematic Зул'джин
 }
 
 STRING 283
 // Units: ZAtA (Avatar of the Eagle), Name (Name)
 {
-Avatar of the Eagle
+Аватара орла
 }
 
 STRING 284
 // Units: ZAtA (Avatar of the Eagle), Propernames (Proper Names)
 {
-Akil'zon
+Акіл'зон
 }
 
 STRING 285
 // Units: ZAtN (Avatar of the Bear), Name (Name)
 {
-Avatar of the Bear
+Аватара ведмедя
 }
 
 STRING 286
 // Units: ZAtN (Avatar of the Bear), Propernames (Proper Names)
 {
-Nalorakk
+Налоракк
 }
 
 STRING 287
 // Units: ZAtJ (Avatar of the Dragonhawk), Name (Name)
 {
-Avatar of the Dragonhawk
+Аватара дракондора
 }
 
 STRING 288
 // Units: ZAtJ (Avatar of the Dragonhawk), Propernames (Proper Names)
 {
-Jan'alai
+Джан'алай
 }
 
 STRING 289
 // Units: ZAtH (Avatar of the Lynx), Name (Name)
 {
-Avatar of the Lynx
+Аватара рисі
 }
 
 STRING 290
 // Units: ZAtH (Avatar of the Lynx), Propernames (Proper Names)
 {
-Halazzi
+Халаззі
 }
 
 STRING 313
 {
-|cffffcc00MISSION FAILED|r
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
 }
 
 STRING 320
 {
-|cffffcc00MAIN QUEST|r
-Zul'Aman
-- Defend the Gate of the inner city.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Зул'Аман
+- Захистіть браму внутрішнього міста.
 }
 
 STRING 321
 {
-|cffffcc00MAIN QUEST  FAILED|r
-Zul'Aman
-- |cffff0000Zul’jin must survive. (Failed)|r
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+ Зул'Аман
+ - |cffff0000Зул'джин має вижити.(Провалено)|r
 }
 
 STRING 322
 {
-|cffffcc00MAIN QUEST COMPLETED|r
-Zul'Aman
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Зул'Аман
 }
 
 STRING 323
 {
-Chieftain of the Amani
+Аманійський отаман
 }
 
 STRING 324
 {
-The Alliance of Lordaeron
+Альянс Лордерону
 }
 
 STRING 325
 {
-The Amani
+Плем'я Амані
 }
 
 STRING 326
 {
-Tharbek’s Forces
+Сили Тарбека
 }
 
 STRING 327
 {
-Kingdom of Quel’thalas
+Короліство Квел'Талас
 }
 
 STRING 328
@@ -815,27 +815,26 @@ Cinematic
 
 STRING 341
 {
-|cff32cd32HINT|r
-Zul’jin can use the secret tunnel systems under the city to quickly traverse through Zul’aman. Use the caves wisely to coordinate your defenses.
+|cff32cd32ПІДКАЗКА|r
+Зул'джин може використовувати секретну мережу тунелів під містом для швидкого переміщення  Зул'Аманом. Використовуйте печери з розумом, щоб координувати свою оборону.
 }
 
 STRING 342
 {
-|cffff0000WARNING|r
-Protect the Loa from Anasterian for 60 seconds.
-
+|cffff0000УВАГА|r
+Захищайте аватар Лоа від Анастеріана протягом 60 сек.
 }
 
 STRING 345
 // Units: ZARH (Elven Mage), Name (Name)
 {
-Elven Mage
+Ельф маг
 }
 
 STRING 346
 // Units: ZARH (Elven Mage), Propernames (Proper Names)
 {
-Rommath
+Верховний магістр Роммат
 }
 
 STRING 347
@@ -859,13 +858,13 @@ Revive Elven Mage
 STRING 350
 // Units: ZALH (High Priest), Name (Name)
 {
-High Priest
+Верховний жрець
 }
 
 STRING 351
 // Units: ZALC (High Priestess), Propernames (Proper Names)
 {
-Liadrin
+Ліадрін
 }
 
 STRING 352
@@ -883,19 +882,19 @@ Revive High Priest
 STRING 354
 // Units: ZAHC (Ranger), Propernames (Proper Names)
 {
-Halduron Brightwing
+Галдурон Яснокрил
 }
 
 STRING 355
 // Units: ZATH (General), Name (Name)
 {
-General
+Генерал
 }
 
 STRING 356
 // Units: ZATH (General), Propernames (Proper Names)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 357
@@ -906,7 +905,7 @@ STRING 357
 
 STRING 359
 {
-Zuljin
+Лідер тролів Амані
 }
 
 STRING 360
@@ -960,13 +959,13 @@ STRING 368
 STRING 373
 // Units: ZAtU (Ula'Tek), Name (Name)
 {
-Ula'Tek
+Ула'Тек
 }
 
 STRING 374
 // Units: ZAtU (Ula'Tek), Propernames (Proper Names)
 {
-Ula'Tek
+Ула'Тек
 }
 
 STRING 375
@@ -978,13 +977,13 @@ STRING 375
 STRING 376
 // Units: ZATZ (Troll Warlord), Name (Name)
 {
-Troll Warlord
+Воєвода тролів
 }
 
 STRING 377
 // Units: ZATZ (Troll Warlord), Propernames (Proper Names)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 378
@@ -996,19 +995,19 @@ T
 STRING 379
 // Units: ZATZ (Troll Warlord), Revivetip (Tooltip - Revive)
 {
-Revive Zul'jin
+Оживити Зул'джина
 }
 
 STRING 380
 // Units: ZATZ (Troll Warlord), Awakentip (Tooltip - Awaken)
 {
-Revive Zul'jin
+Оживити Зул'джина
 }
 
 STRING 381
 // Units: ZATZ (Troll Warlord), Ubertip (Tooltip - Extended)
 {
-The Warlord of the Forest Trolls, Zul'jin seeks to reconquer the lads that High Elves took from the Amani. His exceptional regeneration, combat skills and use of Loa artifacts make his a formidable warrior and a cunning stretegist.
+The Warlord of the Forest Trolls, Зул'джин seeks to reconquer the lads that High Elves took from the Amani. His exceptional regeneration, combat skills and use of Loa artifacts make his a formidable warrior and a cunning stretegist.
 
 |cffffcc00Attacks land units.|r
 }
@@ -1020,9 +1019,9 @@ STRING 382
 }
 
 STRING 383
-// Units: nmrc (Tharbek), Name (Name)
+// Units: nmrc (Тарбек), Name (Name)
 {
-Tharbek
+Тарбек
 }
 
 STRING 384
@@ -1032,13 +1031,13 @@ STRING 384
 }
 
 STRING 385
-// Units: zAoT (Tharbek), Casterupgradename (Caster Upgrade Names)
+// Units: zAoT (Тарбек), Casterupgradename (Caster Upgrade Names)
 {
-Grunt,Slave Master,Lieutenant,Captain,Commander
+Рубайло,Рабовласник,Лейтинант,Капітан,Командир
 }
 
 STRING 386
-// Units: zAoT (Tharbek), Casterupgradetip (Caster Upgrade Tips)
+// Units: zAoT (Тарбек), Casterupgradetip (Caster Upgrade Tips)
 {
 - Resistant Skin,- Resistant Skin|n- Whiplash,- Resistant Skin|n- Whiplash|n- Throw a Spear,- Resistant Skin|n- Whiplash|n- Throw a Spear|n- Cleaving Attack,- Resistant Skin|n- Whiplash|n- Throw a Spear|n- Cleaving Attack|n- Intimidating Shout 
 }
@@ -1046,7 +1045,7 @@ STRING 386
 STRING 387
 // Units: zAtP (Amani Priestess), Name (Name)
 {
-Amani Priestess
+Жриця Амані
 }
 
 STRING 388
@@ -1061,7 +1060,7 @@ Abilities: For the Horde! - Pillage
 STRING 389
 // Units: zAtG (Amani'shi Guardian), Name (Name)
 {
-Amani'shi Guardian
+Аманійський вартовий
 }
 
 STRING 390
@@ -1073,40 +1072,40 @@ Train Amani'shi Guardian
 STRING 391
 // Units: zAtW (Amani Warrior), Ubertip (Tooltip - Extended)
 {
-Brutish Troll warrior.
-Abilities: For the Horde! - Pillage
+Жорстокий троль воїн.
+Здібності: «За Орду!» - «Грабіж»
 
-|cffffcc00Attacks land units.|r
+|cffffcc00Атакує наземні цілі.|r
 }
 
 STRING 393
 // Units: zAtW (Amani Warrior), Name (Name)
 {
-Amani Warrior
+Воїн Амані
 }
 
 STRING 394
 // Units: zAtW (Amani Warrior), Tip (Tooltip - Basic)
 {
-Train Amani Warrior
+Тренувати воїна амані
 }
 
 STRING 395
 // Units: zAtB (Amani War Bear), Name (Name)
 {
-Amani War Bear
+Аманійський бойовий ведмідь
 }
 
 STRING 397
 // Units: zAcs (Snake), Name (Name)
 {
-Snake
+Змія
 }
 
 STRING 398
 // Units: zAtd (Amani Destroyer), Name (Name)
 {
-Amani Destroyer
+Руйнівник Амані
 }
 
 STRING 399
@@ -1187,13 +1186,13 @@ Upgrades to: Paladin
 STRING 412
 // Units: zAeK (Judicator), Name (Name)
 {
-Judicator
+Суддя
 }
 
 STRING 413
 // Units: ZAAH (High King of Quel'Thalas), Name (Name)
 {
-High King of Quel'Thalas
+Верховний король Квел'Таласу
 }
 
 STRING 416
@@ -1211,7 +1210,7 @@ STRING 417
 STRING 418
 // Units: zAeB (Botanist), Name (Name)
 {
-Botanist
+Ботанік
 }
 
 STRING 419
@@ -1223,37 +1222,37 @@ STRING 419
 STRING 420
 // Units: zAtE (Amani Eagle), Name (Name)
 {
-Amani Eagle
+Аманійський орел
 }
 
 STRING 421
 // Units: zAtD (Amani Dragonhawk), Name (Name)
 {
-Amani Dragonhawk
+Аманійський дракондор
 }
 
 STRING 423
 // Units: ZATC (General), Name (Name)
 {
-General
+Генерал
 }
 
 STRING 424
 // Units: ZATC (General), Propernames (Proper Names)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 425
 // Units: ZALC (High Priestess), Name (Name)
 {
-High Priestess
+Верховний жриця
 }
 
 STRING 426
 // Units: ZALH (High Priest), Propernames (Proper Names)
 {
-Liadrin
+Леді Ліадрін
 }
 
 STRING 427
@@ -1277,7 +1276,7 @@ STRING 429
 STRING 430
 // Units: ZAHH (Ranger), Propernames (Proper Names)
 {
-Halduron Brightwing
+Галдурон Яснокрил
 }
 
 STRING 431
@@ -1289,13 +1288,13 @@ STRING 431
 STRING 432
 // Units: ZARC (Elven Mage), Name (Name)
 {
-Elven Mage
+Ельф маг
 }
 
 STRING 433
 // Units: ZARC (Elven Mage), Propernames (Proper Names)
 {
-Rommath
+Верховний магістр Роммат
 }
 
 STRING 434
@@ -1317,7 +1316,7 @@ Revive Elven Mage
 }
 
 STRING 437
-// Units: zAoT (Tharbek), EditorSuffix (Name - Editor Suffix)
+// Units: zAoT (Тарбек), EditorSuffix (Name - Editor Suffix)
 {
 (Cinematic)
 }
@@ -1343,49 +1342,49 @@ STRING 440
 STRING 441
 // Units: zAeC (Elven Lieutenant), Name (Name)
 {
-Elven Lieutenant
+Ельфійський лейтинант
 }
 
 STRING 442
 // Units: zAeF (Elven Swordsman), Name (Name)
 {
-Elven Swordsman
+Ельф мечник
 }
 
 STRING 443
 // Units: zAtL (Amani Lynx), Name (Name)
 {
-Amani Lynx
+Аманійська рись
 }
 
 STRING 444
 {
-Zul'Aman
+Зул'Аман
 }
 
 STRING 445
 {
-The elves and their allies have come to destroy you! Defend Zul’jin and Zul’aman at all cost!
+Ельфи та їхні союзники прийшли, щоб знищити вас! Захистіть Зул'джина та Зул'Аман за будь-яку ціну!
 }
 
 STRING 446
 {
-Defend the Gate of the inner city.
+Захистіть браму внутрішнього міста.
 }
 
 STRING 448
 {
-Loa Avatars
+Аватари Лоа
 }
 
 STRING 449
 {
-Loa Avatars are powerful entities that can help you defend Zul'Aman. Don't let them perish. At least one avatar must survive.
+Аватари Лоа - могутні сутності, які можуть допомогти вам у захисті Зул'Аману. Не допустіть їхньої загибелі. Принаймні один аватар має вижити.
 }
 
 STRING 450
 {
-Protect Loa Akil’zon
+Захистіть Акіл'зона
 }
 
 STRING 451
@@ -1397,13 +1396,13 @@ WC2Orc11SAnasterian1
 STRING 452
 // Items: I0L1 (WC2Orc11SAnasterian1), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 453
 // Items: I0L1 (WC2Orc11SAnasterian1), Description (Description)
 {
-Zul’jin! Fallen pretender to a long-shattered throne! You sought to bring war upon my people but has brought naught but ruin to your misbegotten kind! Come forth, humbled beast, and answer for your crimes against the kingdom of Quel’thalas!
+Зул'джин! Нікчемний кандидат на давно зруйнований трон! Ти бажав принести війну в дома мого народу, але в решті решт приніс знищення своєму. Вийди сюди принижена тварино, і дай відповідь за свої злочини проти королівства Квел'Талас!
 }
 
 STRING 454
@@ -1415,13 +1414,14 @@ WC2Orc11SAnasterian2
 STRING 455
 // Items: I0L2 (WC2Orc11SAnasterian2), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 456
 // Items: I0L2 (WC2Orc11SAnasterian2), Description (Description)
 {
-You dared to mingle with vile foreign monsters, unleashing their savagery upon our forests and Silvermoon itself. But now, as it always is with beasts, they have scattered to the winds and left you to face our wrath alone… and for what you have done, there can be but one answer…
+Ви посміли об'єднатися з цими чужинцями, та вивільнити їхню лють на наші ліси та сам Срібномісяць. Але тепер, як це зазвичай буває з дикими звірами, вони розбіглися від поривів вітру і лишили вас на одинці з нашими гнівом… і за все що ви зробили, може бути лише одна відповідь…
+
 }
 
 STRING 457
@@ -1433,13 +1433,13 @@ WC2Orc11SAnasterian3
 STRING 458
 // Items: I0L3 (WC2Orc11SAnasterian3), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 459
 // Items: I0L3 (WC2Orc11SAnasterian3), Description (Description)
 {
-Our companions from the Alliance will deal with these brutes that yet remain at your side, mongrel, whilst the fury of the elves will be aimed at you alone. We seek not only your head, or the destruction of this pathetic claypit… we seek the end of your entire race, once and for all!
+Наші друзі з Альянсу розберуться з цими тваринами які до вас доєдналися, тоді як лють ельфів буде направлена лише на тебе. Ми прагнемо не лише твоєї голови, не лише знищення цієї ями з якої ви вилізли… ми прагнемо покласти кінець всьому вашому роду, раз і назавжди!
 }
 
 STRING 460
@@ -1451,13 +1451,13 @@ WC2Orc11SAnasterian4
 STRING 461
 // Items: I0L4 (WC2Orc11SAnasterian4), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 462
 // Items: I0L4 (WC2Orc11SAnasterian4), Description (Description)
 {
-Very well then, avengers of Quel’thalas! Commence the siege!
+Що ж добре тоді, месники Квел'Таласу! Починайте облогу!
 }
 
 STRING 463
@@ -1469,13 +1469,13 @@ WC2Orc11SAnasterian_EagleTemple1
 STRING 464
 // Items: I0L5 (WC2Orc11SAnasterian_EagleTemple1), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 465
 // Items: I0L5 (WC2Orc11SAnasterian_EagleTemple1), Description (Description)
 {
-Felo'melorn! Rain fire and death upon the savages!
+Фело'мелорн! Вогняний дощ та і смерть дикунам!
 }
 
 STRING 466
@@ -1487,13 +1487,13 @@ WC2Orc11SAnasterian_BearTemple1
 STRING 467
 // Items: I0L6 (WC2Orc11SAnasterian_BearTemple1), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 468
 // Items: I0L6 (WC2Orc11SAnasterian_BearTemple1), Description (Description)
 {
-Tal anu'men no Quel'dorei!
+Смерть всім хто протистоїть Квел'дорай!
 }
 
 STRING 469
@@ -1505,13 +1505,13 @@ WC2Orc11SAnasterian_LynxTemple1
 STRING 470
 // Items: I0L7 (WC2Orc11SAnasterian_LynxTemple1), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 471
 // Items: I0L7 (WC2Orc11SAnasterian_LynxTemple1), Description (Description)
 {
-Tremble savages and despair! The full might of the high elves is unleashed upon thee!
+Тремтіть дикуни, тремтіть і падіть! Вся сила вищих ельфів вивільнена на вас!
 }
 
 STRING 472
@@ -1523,7 +1523,7 @@ WC2Orc11SAnasterian_DragonhawkTemple1
 STRING 473
 // Items: I0L8 (WC2Orc11SAnasterian_DragonhawkTemple1), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 474
@@ -1541,7 +1541,7 @@ WC2Orc11SAnasterian_final1
 STRING 476
 // Items: I0L9 (WC2Orc11SAnasterian_final1), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 478
@@ -1553,13 +1553,13 @@ WC2Orc11SAnasterian_final2
 STRING 479
 // Items: I0L0 (WC2Orc11SAnasterian_final2), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 480
 // Items: I0L0 (WC2Orc11SAnasterian_final2), Description (Description)
 {
-Stand down, both of you! The general and his men have done enough! Return to Lordaeron with our thanks, general. I will send what forces I can spare to help defend your capital.
+Схаменіться обидва! Генерал Жерар та його люди зробили достатньо! Повертайтеся у Лордерон з нашою вдячністю генерале. Я відправлю стільки ельфів, скільки зможу, аби допомогти з захистом вашої столиці.
 }
 
 STRING 481
@@ -1571,13 +1571,13 @@ WC2Orc11SAnasterian_final3
 STRING 482
 // Items: I0LA (WC2Orc11SAnasterian_final3), Tip (Tooltip - Basic)
 {
-Anasterian Sunstrider
+Анастеріан Сонячний Блукач
 }
 
 STRING 483
 // Items: I0LA (WC2Orc11SAnasterian_final3), Description (Description)
 {
-As for the Amani… this battle has left them bloodied and weakened, they may never fully recover from this day. I will leave the Farstriders to deal with them at their earliest convenience. We will discuss this no further. We march home for Silvermoon within the hour.
+Що стосується Амані… ця битва знекровила їх та ослабила, вони можуть ніколи повністю і не оговтатися після цього дня. Я залишу «Мандрівників» наш елітний загін рейнджерів аби вони розібралися з залишками тролів при першій можливості. Це більше не обговорюється. Ми відходимо додому до Срібномясяця протягом години.
 }
 
 STRING 484
@@ -1589,13 +1589,13 @@ WC2Orc11SGoblinMerchant_Hint1
 STRING 485
 // Items: I0LB (WC2Orc11SGoblinMerchant_Hint1), Tip (Tooltip - Basic)
 {
-Trader Gakle Goldsniffer
+Торговець Ґакл Золотонюхач
 }
 
 STRING 486
 // Items: I0LB (WC2Orc11SGoblinMerchant_Hint1), Description (Description)
 {
-Hey troll boss! I did not come here to die at the hands of those elves! I have plenty of toys that you can use to destroy their advances!
+Агов начальнику тролів, я в Зул'Аман прийшов не для того, щоб загинути від цих ельфійських принцес. Маю багато файних цяцьок, глянь може бути що в нагоді.
 }
 
 STRING 487
@@ -1605,15 +1605,15 @@ WC2Orc11STharbek1
 }
 
 STRING 488
-// Units: zAoT (Tharbek), Name (Name)
+// Units: zAoT (Тарбек), Name (Name)
 {
-Tharbek
+Тарбек
 }
 
 STRING 489
 // Items: I0LC (WC2Orc11STharbek1), Description (Description)
 {
-Warlord Zul’jin…that is a mighty host. I’m afraid my humble forces will not be enough to deter them.
+Воєводо Зул'джине… це досить могутнє військо. Боюся, що моїх скромних сил не вистачить, щоб їх стримати.
 }
 
 STRING 490
@@ -1625,13 +1625,13 @@ WC2Orc11STharbek_Hint1
 STRING 491
 // Items: I0LC (WC2Orc11STharbek1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 492
 // Items: I0LD (WC2Orc11STharbek_Hint1), Description (Description)
 {
-Zul’jin! My forces are yours to command. Use them wisely, or we will be decimated!
+Зул'джине! Мої війська у твоєму розпорядженні. Використовуй їх розумно, або ми всі будемо знищені!
 }
 
 STRING 493
@@ -1643,13 +1643,13 @@ WC2Orc11STharbek_Forces1
 STRING 494
 // Items: I0LD (WC2Orc11STharbek_Hint1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 495
 // Items: I0LE (WC2Orc11STharbek_Forces1), Description (Description)
 {
-Go you mangy dogs! Our troll allies need help!
+Рухайтесь ліниві собаки! Наші союзники тролі потребують допомоги!
 }
 
 STRING 496
@@ -1661,13 +1661,13 @@ WC2Orc11STharbek_Forces2
 STRING 497
 // Items: I0LE (WC2Orc11STharbek_Forces1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 498
 // Items: I0LF (WC2Orc11STharbek_Forces2), Description (Description)
 {
-Lok’tar ogar! Let the Alliance taste our steel one more time!
+Лок'тар оґар! Нехай Альянс знову скуштує на смак нашу сталь.
 }
 
 STRING 499
@@ -1679,13 +1679,13 @@ WC2Orc11STharbek_Forces3
 STRING 500
 // Items: I0LF (WC2Orc11STharbek_Forces2), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 501
 // Items: I0LG (WC2Orc11STharbek_Forces3), Description (Description)
 {
-To the vanguard you slags! To the vanguard!
+На першу лінію ви відброси! На першу лінію!
 }
 
 STRING 502
@@ -1697,13 +1697,13 @@ WC2Orc11SZuljin1
 STRING 503
 // Units: ZaCZ (Troll Warlord), Propernames (Proper Names)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 504
 // Items: I0LH (WC2Orc11SZuljin1), Description (Description)
 {
-Aaah. Da ‘high king’ of da elves himself be ‘gracing us’ with a visit to Zul’Aman. It be about time you climbed down from your high chair…King Sunstrider.
+Ааа, cам «верховний король» ельфів «пошанував» нас своїм візитом до Зул'Аману. Настав час тобі злізти зі свого королівського стільця… Король Сонячний Скиталець.
 }
 
 STRING 505
@@ -1715,13 +1715,13 @@ WC2Orc11SZuljin2
 STRING 506
 // Items: I0LH (WC2Orc11SZuljin1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 507
 // Items: I0LI (WC2Orc11SZuljin2), Description (Description)
 {
-I spit on your legacy and weakling fury, filthy elf! You stole our lands and den you dare call dem yours?! You think you got what it takes to exterminate us! Come den, false king, Zul’Aman will be your tomb!
+Плювати я хотів на твій гнів та лють, ельфійський виродок! Ви вкрали наші землі та смієте називати їх своїми? Ви наївно думаєте, що маєте все аби остаточно знищити нас! Приходь, фальшивий король, Зул'Аман стане твоєю могилою.
 }
 
 STRING 508
@@ -1733,13 +1733,13 @@ WC2Orc11SZuljin3
 STRING 509
 // Items: I0LI (WC2Orc11SZuljin2), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 510
 // Items: I0LJ (WC2Orc11SZuljin3), Description (Description)
 {
-Don’t you worry none, captain Tharbek. You’re in our lands now. We will show you how we deal with dem weakling elves and their allies. Fall back to the city. I’ll call on your aid whenever I need it.
+Не хвилюйся, капітане Тарбек. Ти тепер у наших землях. Ми покажемо тобі, як ми пораємось з нікчемними ельфами та їхніми посіпаками. Повертайся у місто. Я покличу тебе на допомогу, коли вона мені знадобиться.
 }
 
 STRING 511
@@ -1751,13 +1751,13 @@ WC2Orc11SZuljin_Announcement1
 STRING 512
 // Items: I0LJ (WC2Orc11SZuljin3), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 513
 // Items: I0LK (WC2Orc11SZuljin_Announcement1), Description (Description)
 {
-Amani’shi! Da elves and their human ally scum have invaded our sacred homeland! Their bodies be yours to desecrate! For Zul’Aman!
+Амані! Ельфи та це людське сміття яких вони звуть союзниками прийшли напасти на нашу священну батьківщину. Оскверніть їх тіла. За Зул'Аман!
 }
 
 STRING 514
@@ -1769,13 +1769,13 @@ WC2Orc11SZuljin_HireTrolls1
 STRING 515
 // Items: I0LK (WC2Orc11SZuljin_Announcement1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 516
 // Items: I0LL (WC2Orc11SZuljin_HireTrolls1), Description (Description)
 {
-Good! It’s about time da trolls stand united against der common foe!
+Добре! Настав час тролям об'єднатися проти спільного ворога!
 }
 
 STRING 517
@@ -1787,13 +1787,13 @@ WC2Orc11SZuljin_GoblinMerchant1
 STRING 518
 // Items: I0LL (WC2Orc11SZuljin_HireTrolls1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 519
 // Items: I0LM (WC2Orc11SZuljin_GoblinMerchant1), Description (Description)
 {
-Very good, little goblin! We’ll see what you’ve got!
+Дуже добре маленький ґобліне. Нумо гляньмо, що ти там маєш!
 }
 
 STRING 520
@@ -1805,13 +1805,13 @@ WC2Orc11SZuljin_WaveTen1
 STRING 521
 // Items: I0LM (WC2Orc11SZuljin_GoblinMerchant1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 522
 // Items: I0LN (WC2Orc11SZuljin_WaveTen1), Description (Description)
 {
-Good…more elves to da slaughter!
+Добре… ще більше ельфів на забій!
 }
 
 STRING 523
@@ -1823,13 +1823,13 @@ WC2Orc11SZuljin_RemainingTemples1
 STRING 524
 // Items: I0LN (WC2Orc11SZuljin_WaveTen1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 525
 // Items: I0LO (WC2Orc11SZuljin_RemainingTemples1), Description (Description)
 {
-Aman’ishi! Da elves will soon start their assault on our remaining temples. Be on your guard!
+Амані! Ельфи скоро почнуть нападати на храми що лишились. Будьте готові!
 }
 
 STRING 526
@@ -1841,13 +1841,13 @@ WC2Orc11SZuljin_ElvenUpperHand1
 STRING 527
 // Items: I0LO (WC2Orc11SZuljin_RemainingTemples1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 528
 // Items: I0LP (WC2Orc11SZuljin_ElvenUpperHand1), Description (Description)
 {
-Aman’ishi! Da elves be gaining da upper hand! Show dem the might of our people and push dem back!
+Амані! Ельфи перемагають! Покажіть їм міць нашого народу та відкиньте їх назад!
 }
 
 STRING 529
@@ -1859,13 +1859,13 @@ WC2Orc11SZuljin_FallBack1
 STRING 530
 // Items: I0LP (WC2Orc11SZuljin_ElvenUpperHand1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 531
 // Items: I0LQ (WC2Orc11SZuljin_FallBack1), Description (Description)
 {
-Curse da elves and their human servants! Fall back! I have one last thing to do!
+Кляті ельфи та їх людські посіпаки! Відходимо! Мені треба лише дещо зробити наостанок!
 }
 
 STRING 532
@@ -1877,13 +1877,13 @@ WC2Orc11SZuljin_TharbekFarewell1
 STRING 533
 // Items: I0LQ (WC2Orc11SZuljin_FallBack1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 534
 // Items: I0LR (WC2Orc11SZuljin_TharbekFarewell1), Description (Description)
 {
-Your warriors fought bravely, Tharbek, and you have kept your word… and for that I release you from your oath. Go back to your Warchief and die well for your ‘Horde’… I pray dat the treason of your warlock has not doomed your cause…
+Твої воїни хоробро билися, Тарбеку, і ти дотримав свого слова… за це я звільняю тебе від присяги яку ти дав. Повертайся до вождя і віддай життя за свою «Орду»… Я попрошу Лоа, щоб зрада вашого чорнокнижника не прирекла вашу справу…
 }
 
 STRING 535
@@ -1895,13 +1895,13 @@ WC2Orc11SZuljin_CallingUlatek
 STRING 536
 // Items: I0LR (WC2Orc11SZuljin_TharbekFarewell1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 537
 // Items: I0LS (WC2Orc11SZuljin_CallingUlatek), Description (Description)
 {
-Mighty and wise Ula’Tek! I call upon you! Protect your temple! Your city! Your people! Da elves will destroy us all if you don’t aid us! Lend me your power!
+Могутня та мудра Ула'Тек! Я кличу до тебе! Захисти свій храм! Своє місто! Свій народ! Ельфи знищать нас усіх, якщо ти не відгукнешся! Даруй мені свою силу!
 }
 
 STRING 538
@@ -1913,13 +1913,13 @@ WC2Orc11SZuljin_CallingUlatek2
 STRING 539
 // Items: I0LS (WC2Orc11SZuljin_CallingUlatek), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 540
 // Items: I0LT (WC2Orc11SZuljin_CallingUlatek2), Description (Description)
 {
-I accept da price, mighty Ula’Tek! May your powers bring death and terror upon our enemies!
+Я готовий на таку ціну, могутня Ула'Тек! Нехай твоя сила принесе смерть та жах нашим ворогам!
 }
 
 STRING 541
@@ -1931,13 +1931,13 @@ WC2Orc11SZuljin_Empowered1
 STRING 542
 // Items: I0LT (WC2Orc11SZuljin_CallingUlatek2), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 543
 // Items: I0LU (WC2Orc11SZuljin_Empowered1), Description (Description)
 {
-Come taste the fury our gods! Be consumed in their name!
+Скуштуйте на смак лють наших богів! Ви будете поглинуті їхнім іменем!
 }
 
 STRING 544
@@ -1949,13 +1949,13 @@ WC2Orc11SZuljin_Outro1
 STRING 545
 // Items: I0LU (WC2Orc11SZuljin_Empowered1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 546
 // Items: I0LV (WC2Orc11SZuljin_Outro1), Description (Description)
 {
-Da Amani never gives up! Da Amani never surrenders! Da Amani never die!
+Амані ніколи не здадуться! Амані ніколи не підкоряться! Амані ніколи не помруть!
 }
 
 STRING 547
@@ -1967,13 +1967,13 @@ WC2Orc11STrollCaptain_3rdTemple1
 STRING 548
 // Items: I0LW (WC2Orc11STrollCaptain_3rdTemple1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Аманійський капітан
 }
 
 STRING 549
 // Items: I1LW (WC2Orc11STrollCaptain_ProtectAvatars1), Description (Description)
 {
-Warlord Zul’jin! Da elves be heading towards da temples, we must protect da avatars!
+Воєводо Зул'джине! Ельфи прямують до храмів! Ми маємо захистити аватари!
 }
 
 STRING 550
@@ -1985,13 +1985,13 @@ WC2Orc11STrollCaptain_AllTemples
 STRING 551
 // Items: I0LX (WC2Orc11STrollCaptain_AllTemples), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Аманійський капітан
 }
 
 STRING 552
 // Items: I0LX (WC2Orc11STrollCaptain_AllTemples), Description (Description)
 {
-Mighty Zul’jin! We have lost all the temples! We must fall back!
+Могутній Зул'джине! Ми втратили всі храми Лао! Треба відступати!
 }
 
 STRING 553
@@ -2003,13 +2003,13 @@ WC2Orc11STrollCaptain_UpgradeUnits1
 STRING 554
 // Items: I0LY (WC2Orc11STrollCaptain_UpgradeUnits1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Аманійський капітан
 }
 
 STRING 555
 // Items: I0LY (WC2Orc11STrollCaptain_UpgradeUnits1), Description (Description)
 {
-Warlord! We can use our resources to further improve our weaponry and bolster our defenses against da elves!
+Воєводо! Ми можемо використати наші ресурси для поліпшення зброї та укріплення оборони від ельфів!
 }
 
 STRING 556
@@ -2021,13 +2021,13 @@ WC2Orc11STrollCaptain_HireTrolls1
 STRING 557
 // Items: I0LZ (WC2Orc11STrollCaptain_HireTrolls1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Аманійський капітан
 }
 
 STRING 558
 // Items: I0LZ (WC2Orc11STrollCaptain_HireTrolls1), Description (Description)
 {
-Warlord! Da other troll tribes have offered their aid against da elves! You can hire their services from da Market!
+Воєводо! Інші племена тролів запропонували свою допомогу проти ельфів! Ви можете найняти їх на ринку.
 }
 
 STRING 559
@@ -2039,19 +2039,19 @@ WC2Orc11STrollCaptain_WarningTemples1
 STRING 560
 // Items: I0La (WC2Orc11STrollCaptain_WarningTemples1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Капітан Амані
 }
 
 STRING 561
 // Items: I0La (WC2Orc11STrollCaptain_WarningTemples1), Description (Description)
 {
-Warlord Zul’jin! Da elves be heading towards da remaining temples! Da avatars must be protected!
+Воєводо Зул'джине! Ельфи прямують до храмів, що залишилися! Треба захистити аватари!
 }
 
 STRING 563
 // Items: I0Lc (WC2Orc11STrollCaptain_NoTrollsLeft1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Капітан Амані
 }
 
 STRING 565
@@ -2063,13 +2063,13 @@ WC2Orc11STrollCaptain_NoTrollsLeft1
 STRING 566
 // Items: I1LW (WC2Orc11STrollCaptain_ProtectAvatars1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Капітан Амані
 }
 
 STRING 567
 // Items: I0Lc (WC2Orc11STrollCaptain_NoTrollsLeft1), Description (Description)
 {
-Zul’jin! Our forces be nearly spent! We can defend this place no longer! We must fall back to the inner city and evacuate our brothers and sisters!
+Зул'джине! Наші сили майже вичерпано! Ми більше не можемо захистити це місце! Ми повинні повернутися у центр миіста та евакуювати наших братів і сестер!
 }
 
 STRING 568
@@ -2081,13 +2081,13 @@ WC2Orc11SRommath_Attack1
 STRING 569
 // Items: I0Ld (WC2Orc11SRommath_Attack1), Tip (Tooltip - Basic)
 {
-Rommath
+Верховний магістр Роммат
 }
 
 STRING 570
 // Items: I0Ld (WC2Orc11SRommath_Attack1), Description (Description)
 {
-You murderous beasts! I will take great pleasure in making you pay for what you have done!
+Ви кровожерливі звірі! Я з великою радістю зроблю так, аби ви заплатили за те що накоїли!
 }
 
 STRING 571
@@ -2099,13 +2099,13 @@ WC2Orc11SLiadrin_Attack1
 STRING 572
 // Items: I0Le (WC2Orc11SLiadrin_Attack1), Tip (Tooltip - Basic)
 {
-Liadrin
+Леді Ліадрін
 }
 
 STRING 573
 // Items: I0Le (WC2Orc11SLiadrin_Attack1), Description (Description)
 {
-The Light always prevails against the heathens! We will smite these savages from the face of the earth!
+Світло завжди візьме гору над язичниками! Зітремо цих дикунів з лиця землі!
 }
 
 STRING 574
@@ -2117,13 +2117,13 @@ WC2Orc11SHalduron_Attack1
 STRING 575
 // Items: I0Lf (WC2Orc11SHalduron_Attack1), Tip (Tooltip - Basic)
 {
-Halduron Brightwing
+Галдурон Яснокрил
 }
 
 STRING 576
 // Items: I0Lf (WC2Orc11SHalduron_Attack1), Description (Description)
 {
-Your crimes against the noble Windrunner family will not go unpunished, troll filth! I will present your head to Sylvanas and her sisters myself!
+Твої злочини проти знатної родини Вітрогонів не залишаться безкарними, троляча мерзота! Я сам подарую твою голову Сильвані та її сестрам!
 }
 
 STRING 577
@@ -2135,13 +2135,13 @@ WC2Orc11SLorthemar_Attack1
 STRING 578
 // Items: I0Lg (WC2Orc11SLorthemar_Attack1), Tip (Tooltip - Basic)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 579
 // Items: I0Lg (WC2Orc11SLorthemar_Attack1), Description (Description)
 {
-Long have we enjoyed peace in our lands, but once again your miserable race has caused chaos and ruin… this will be the final time!
+Довго ми насолоджувалися миром на наших землях, але ваша жалюгідна раса знову спричинила хаос і руїну… це буде в останнє!
 }
 
 STRING 580
@@ -2153,13 +2153,13 @@ WC2Orc11SLorthemar_End1
 STRING 581
 // Items: I0Lh (WC2Orc11SLorthemar_End1), Tip (Tooltip - Basic)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 582
 // Items: I0Lh (WC2Orc11SLorthemar_End1), Description (Description)
 {
-But my king! We have them on the run! If we can just find Zul’jin and end him, it will leave his people scattered and easy to destroy. The end of our ancestral enemies is within our grasp!
+Але мій король! Ми вже змусили їх тікати! Нам лишилося всього-на-всього знайти та покінчити з Зул'джином, після цього його тролі будуть деморалізовані і їх буде легко знищити.В наших руках можливість позбутися наших споконвічних ворогів!
 }
 
 STRING 583
@@ -2171,7 +2171,7 @@ WC2Orc11SLorthemar_End2
 STRING 584
 // Items: I0Li (WC2Orc11SLorthemar_End2), Tip (Tooltip - Basic)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 586
@@ -2183,13 +2183,13 @@ WC2Orc11SLorthemar_ifDefeat1
 STRING 587
 // Items: I0Lj (WC2Orc11SLorthemar_ifDefeat1), Tip (Tooltip - Basic)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 588
 // Items: I0Lj (WC2Orc11SLorthemar_ifDefeat1), Description (Description)
 {
-Zul’Aman’s defenses are broken! The troll’s ferocity cost us a heavy price, but our main strike force remains. I will prepare our forces for the final siege. It is time to end this!
+Оборону Зул'Аману прорвано! Лють тролів обійшлася нам дорого, але наша головна ударна сила, як і раніше, в строю. Я підготую військо до останньої облоги. Настав час покласти цьому край!
 }
 
 STRING 589
@@ -2201,7 +2201,7 @@ WC2Orc11SLorthemar_ifVictory1
 STRING 590
 // Items: I0Lk (WC2Orc11SLorthemar_ifVictory1), Tip (Tooltip - Basic)
 {
-Lor’themar Theron
+Лор'темар Терон
 }
 
 STRING 592
@@ -2213,13 +2213,13 @@ WC2Orc11SIsenglof1
 STRING 593
 // Items: I0Ll (WC2Orc11SIsenglof1), Tip (Tooltip - Basic)
 {
-General Gerard Isenglof
+Генерал Жерар Ізенґлоф
 }
 
 STRING 594
 // Items: I0Ll (WC2Orc11SIsenglof1), Description (Description)
 {
-With all due respect, elf master, but your king is right. We have already suffered heavy losses here and the Alliance can ill afford to lose much more. As your king wisely emphasizes...
+З усією повагою, командире ельфів, але ваш король має рацію. Ми тут вже зазнали великих втрат, і Альянс навряд чи може дозволити собі втратити ще більше людей. Як мудро наголошує ваш король…
 }
 
 STRING 595
@@ -2231,13 +2231,13 @@ WC2Orc11SIsenglof2
 STRING 596
 // Items: I0Lm (WC2Orc11SIsenglof2), Tip (Tooltip - Basic)
 {
-General Gerard Isenglof
+Генерал Жерар Ізенґлоф
 }
 
 STRING 597
 // Items: I0Lm (WC2Orc11SIsenglof2), Description (Description)
 {
-Yes, our duty was to protect Quel’thalas… and protect it we have! Your lands are safe, and duty now calls us elsewhere.
+Так ви праві, дійсно нашим обов'язком було захистити Квел'Талас… і ми захистили! Ваші землі в безпеці, і тепер наш обов'язок кличе нас далі.
 }
 
 STRING 598
@@ -2249,13 +2249,13 @@ WC2Orc11SIsenglof3
 STRING 599
 // Items: I0Ln (WC2Orc11SIsenglof3), Tip (Tooltip - Basic)
 {
-General Gerard Isenglof
+Генерал Жерар Ізенґлоф
 }
 
 STRING 600
 // Items: I0Ln (WC2Orc11SIsenglof3), Description (Description)
 {
-I just received word from Lord Turalyon that we must withdraw our forces back to Lordaeon immediately. The Horde is moving directly towards the capital! By the end of the day, we answer to Lord Lothar and the Alliance of Lordaeron, not some lordling who questions his king!
+Я щойно отримав звістку від лорда Тураліона про те, що ми повинні негайно відвести наші війська назад у Лордерон. Орда рухається прямо на столицю. До кінця дня ми маємо відповісти на заклик лорда Лотара та Альянсу Лордерону, а не на заклик командира ельфів який ставить під сумнів слова свого короля!
 }
 
 STRING 601
@@ -2267,7 +2267,7 @@ WC2Orc11SIsenglof_Announcement1
 STRING 602
 // Items: I0Lo (WC2Orc11SIsenglof_Announcement1), Tip (Tooltip - Basic)
 {
-General Gerard Isenglof
+Генерал Жерар Ізенґлоф
 }
 
 STRING 603
@@ -2291,7 +2291,7 @@ Ula’Tek
 STRING 606
 // Items: I0Lp (WC2Orc11SUlaTek1), Description (Description)
 {
-Ahhh, young Zul’jin… I have witnesssssed your bravery. I will blessss ya. But da price be high... Your soul will never find resssst, you’ll seek vengeance against all who wronged da Amani!
+Аххх, юний Зул'джин… Я була ссссвідком твоєї хоробрості. Я тебе благословлю, але ціна за це буде надвиссссокою… Твоя душа ніколи не знайде сссспокою. Ти до кінця чассссів будеш мститися всім хто образив Амані!
 }
 
 STRING 607
@@ -2303,13 +2303,13 @@ WC2Orc11SLoaAkilzon_Warning1
 STRING 608
 // Items: I0Lq (WC2Orc11SLoaAkilzon_Warning1), Tip (Tooltip - Basic)
 {
-Avatar of Akil'zon
+Акіл'зон
 }
 
 STRING 609
 // Items: I0Lq (WC2Orc11SLoaAkilzon_Warning1), Description (Description)
 {
-Mighty Zul’jin! Da elves be desecrating my temple! Protect me, and my powers will be yours!
+Могутній Зул'джин! Ельфи оскверняють мій храм! Захисти мене, і мої сили будуть твоїми!
 }
 
 STRING 610
@@ -2321,13 +2321,13 @@ WC2Orc11SLoaHalazzi_Warning1
 STRING 611
 // Items: I0Lr (WC2Orc11SLoaHalazzi_Warning1), Tip (Tooltip - Basic)
 {
-Avatar of Halazzi
+Халаззі
 }
 
 STRING 612
 // Items: I0Lr (WC2Orc11SLoaHalazzi_Warning1), Description (Description)
 {
-Warlord Zul’jin! Da Elves be desecrating my holy temple! Aid me!
+Воєводо Зулж'дине! Ельфи оскверняють моє святилище. Допоможи мені!
 }
 
 STRING 613
@@ -2339,13 +2339,13 @@ WC2Orc11SLoaJanala_Warning1
 STRING 614
 // Items: I0Ls (WC2Orc11SLoaJanala_Warning1), Tip (Tooltip - Basic)
 {
-Avatar of Jan'ala
+Джан'алай
 }
 
 STRING 615
 // Items: I0Ls (WC2Orc11SLoaJanala_Warning1), Description (Description)
 {
-Protect my temple, or you will lose my blessings!
+Захистіть мій храм, або вртатите моє благословіння!
 }
 
 STRING 616
@@ -2363,7 +2363,7 @@ Avatar of Nalorakk
 STRING 618
 // Items: I0Lt (WC2Orc11SLoaNalorakk_Warning1), Description (Description)
 {
-Zul’jin! You must defend my temple! Fail me, and I will be unable bless you and your forces!
+Зул'джине! Ти маєш захистити мій храм! Якщо підведеш, я не зможу благословити тебе та твої війська!
 }
 
 STRING 619
@@ -2373,7 +2373,7 @@ WC2Orc11STrollCaptain_ProtectAvatars1
 }
 
 STRING 621
-// Units: nmrc (Tharbek), EditorSuffix (Name - Editor Suffix)
+// Units: nmrc (Тарбек), EditorSuffix (Name - Editor Suffix)
 {
  (Zulaman)
 }
@@ -2381,7 +2381,7 @@ STRING 621
 STRING 622
 // Items: I0LG (WC2Orc11STharbek_Forces3), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 623
@@ -2393,7 +2393,7 @@ Circle Of Power
 STRING 626
 // Units: nmrk (Voodoo Lounge), Name (Name)
 {
-Voodoo Lounge
+Покої вуду
 }
 
 STRING 627
@@ -2405,7 +2405,7 @@ Build Voodoo Lounge
 STRING 628
 // Units: osld (Marketplace), Name (Name)
 {
-Marketplace
+Ринок
 }
 
 STRING 629
@@ -2416,144 +2416,144 @@ Build Marketplace
 
 STRING 630
 {
-|cffffcc00OPTIONAL QUEST|r
-Loa Avatars
-- Protect Loa Akil’zon
-- Protect Loa Nalorakk
-- Protect Loa Halazzi
-- Protect Loa Jan’alai
-- At least one avatar must survive
+|cffffcc0ДОДАТКОВЕ ЗАВДАННЯ|r
+Аватари Лоа
+- Захистіть Акіл'зона
+- Захистіть Налоракка
+- Захистіть Халаззі
+- Захистіть Джан'алай
+- Як мінмімум один аватар Лоа має вижити
 }
 
 STRING 631
 // Units: ohun (Jungle Troll Headhunter), Name (Name)
 {
-Jungle Troll Headhunter
+Лісовий троль мисливець за головами
 }
 
 STRING 632
 // Units: ohun (Jungle Troll Headhunter), Tip (Tooltip - Basic)
 {
-Hire Jungle Troll Headhunter
+Найняти Лісового троля мисливця за головами
 }
 
 STRING 634
 {
-Elves sending troops in:
+Ельфи відправлять війська через:
 }
 
 STRING 635
 {
-|cffff0000Attention! Elves have sent their troops to attack Zul'Aman.|r
+|cffff0000Увага! Ельфи відправили свої війська на атаку Зул'аману.|r
 }
 
 STRING 636
 {
-Protect Loa Nalorakk
+Захистіть Налоракка
 }
 
 STRING 637
 {
-Protect Loa Halazzi
+Захистіть Халаззі
 }
 
 STRING 638
 {
-Protect Loa Jan’alai
+Захостіть Джан'алай
 }
 
 STRING 639
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
-- |cffff0000Protect Loa Akil’zon (failed)|r
+|cffffcc0ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cffff0000Захистіть Акіл'зона (Правалено)|r
 }
 
 STRING 640
 {
-|cffff0000Protect Loa Akil’zon (failed)|r
+|cffff0000Захистіть Акіл'зона (Правалено)|r
 }
 
 STRING 641
 {
-|cffff0000Protect Loa Nalorakk (failed)|r
+|cffff0000Захистіть Налоракка (Провалено)|r
 }
 
 STRING 642
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
-- |cffff0000Protect Loa Nalorakk (failed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cffff0000Захистіть Ноларакка (Провалено)|r
 }
 
 STRING 643
 {
-|cffff0000Protect Loa Jan’alai (failed)|r
+|cffff0000Захистіть Джан'алай (Провалено)|r
 }
 
 STRING 644
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
-- |cffff0000Protect Loa Jan’alai (failed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+ - |cffff0000ахистіть Джан'алай (Провалено)|r
 }
 
 STRING 645
 {
-|cffff0000Protect Loa Halazzi (failed)|r
+|cffff0000Захистіть Халаззі (Провалено)|r
 }
 
 STRING 646
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
-- |cffff0000Protect Loa Halazzi (failed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cffff0000Захистіть Халаззі (Провалено)|r
 }
 
 STRING 648
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
- - |cff808080Protect Loa Halazzi (Completed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cff808080Захистіть Халаззі (Завершено)|r
 }
 
 STRING 650
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
- - |cff808080Protect Loa Nalorakk (Completed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cff808080Захистіть Налоракка (Завершено)|r
 }
 
 STRING 651
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
- - |cff808080Protect Loa Jan’alai (Completed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cff808080Захистіть Джан'алай (Завершено)|r
 }
 
 STRING 652
 {
-|cffffcc00OPTIONAL QUEST UPDATED|r
-Loa Avatars
- - |cff808080Protect Loa Akil’zon (Completed)|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Аватари Лоа
+- |cff808080Захистіть Акіл'зона (Завершено)|r
 }
 
 STRING 654
 {
-|cffffcc00OPTIONAL QUEST FAILED|r
-Loa Avatars
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Аватари Лоа
 }
 
 STRING 667
 // Destructibles: XTmp (Cage), Name (Name)
 {
-Cage
+Клітка
 }
 
 STRING 668
 // Units: ebZ1 (Elven Ballista), Name (Name)
 {
-Elven Ballista
+Ельфійська баліста
 }
 
 STRING 669
@@ -2573,38 +2573,38 @@ Abilities: Penetrating Bolts
 
 STRING 671
 {
-|cff32cd32HINT|r
-You can free Amani bears from their cages and use them in fight.
+|cff32cd32ПІДКАЗКА|r
+Ви можете випустити Аманійських ведмедів з кліток і використовувати їх в бою.
 }
 
 STRING 673
 // Units: emow (Power Generator), Name (Name)
 {
-Power Generator
+Джерело сили
 }
 
 STRING 674
 {
-|cffffcc00MAIN QUEST UPDATED|r
-Zul'Aman
-- Zul’jin must survive.
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ОНОВЛЕНО|r
+Зул'Аман
+- Зул'джин має вижити.
 }
 
 STRING 675
 {
-Zul’jin must survive.
+Зул'джин має вижити.
 }
 
 STRING 676
 {
-|cff32cd32HINT|r
-You canrevive Zul'jin at the Ula'Tek altar.
+|cff32cd32ПІДКАЗКА|r
+Ви можете оживити Зул'джина у вівтарі Ула'тек.
 }
 
 STRING 677
 // Units: nhcn (Ula'Tek Altar), Name (Name)
 {
-Ula'Tek Altar
+Вівтар Ула'Тек
 }
 
 STRING 678
@@ -2615,54 +2615,54 @@ STRING 678
 
 STRING 680
 {
-|cffffcc00OPTIONAL QUEST COMPLETED|r
-Loa Avatars
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ЗАВЕРШЕНО|r
+Аватари Лоа
 }
 
 STRING 681
 {
-|cffff0000WARNING|r
-Zul'jin cannot be revived anymore.
-Also Zul'jin lost his ability to Regenerate.
+|cffff0000УВАГА|r
+Зул'джина більше не можна оживити.
+Також Зул'джин втратив свою здатність до регенерації здоров'я.
 }
 
 STRING 682
 // Units: H61J (General), Name (Name)
 {
-General
+Генерал
 }
 
 STRING 683
 // Units: H61J (General), Propernames (Proper Names)
 {
-Isenglof
+Жерар Ізенґлоф
 }
 
 STRING 684
 {
-|cff32cd32HINT|r
-Killing enemy units gives bounty that can be spent in marketplaces.
+|cff32cd32ПІДКАЗКА|r
+Вбиваючи ворогів ви заробляєете ресурсі які можна витратити на «ринку».
 }
 
 STRING 686
 {
-Protect Loa
+Захистіть аватари Лоа
 }
 
 STRING 687
 // Items: I0LW (WC2Orc11STrollCaptain_3rdTemple1), Description (Description)
 {
-Warlord Zul’jin! Da elven king has destroyed da third temple! Only one temple remains!
+Воєводо Зул’джине! Король ельфів зруйнував третій храм Лоа! Лишився всього один!
 }
 
 STRING 688
 {
-Hold the Line!
+Тримати позиції!
 }
 
 STRING 689
 {
-Remaining attack waves:
+Залишилось хвиль атак:
 }
 
 STRING 690
@@ -2674,13 +2674,13 @@ WC2Orc11STrollCaptain_PhaseTwo1
 STRING 691
 // Items: I1LA (WC2Orc11STrollCaptain_PhaseTwo1), Tip (Tooltip - Basic)
 {
-Aman’ishi Captain
+Капітан Амані
 }
 
 STRING 692
 // Items: I1LA (WC2Orc11STrollCaptain_PhaseTwo1), Description (Description)
 {
-Da invaders be sending stronger fighter now!
+Загарбники тепер посилають сильніших бійців!
 }
 
 STRING 693
@@ -2692,13 +2692,13 @@ WC2Orc11STharbek_Final1
 STRING 694
 // Items: I1LC (WC2Orc11STharbek_Final1), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 695
 // Items: I1LC (WC2Orc11STharbek_Final1), Description (Description)
 {
-I’m the last orc standing. I never thought I’d die defending a land that is not my own.
+Я останній орк, що стоїть на ногах. Ніколи не думав, що помру, захищаючи землю, яка не моя рідна.
 }
 
 STRING 696
@@ -2710,13 +2710,13 @@ WC2Orc11STharbek_Final2
 STRING 697
 // Items: I2LC (WC2Orc11STharbek_Final2), Tip (Tooltip - Basic)
 {
-Tharbek
+Тарбек
 }
 
 STRING 698
 // Items: I2LC (WC2Orc11STharbek_Final2), Description (Description)
 {
-Thank you…Warlord Zul’jin. I hope you have a plan to destroy this scum. Aka’magosh! May the spirits stand with you!
+Дякую… воєводо Зул'джин. Сподіваюся, ти маєш план, як знищити цю погань. Ака'маґош! Нехай духи будутьз тобою!
 }
 
 STRING 699
@@ -2728,7 +2728,7 @@ Spawn of Ula'Tek
 STRING 700
 // Units: ngme (Trader Goldsniffer), Name (Name)
 {
-Trader Goldsniffer
+Торговець Ґакл Золотонюхач
 }
 
 STRING 706
@@ -2801,19 +2801,19 @@ Bloodsplat06
 STRING 718
 // Items: I0L9 (WC2Orc11SAnasterian_final1), Description (Description)
 {
-We have paid a heavy price indeed, Lor’themar. I yearn to eradicate this blight upon the earth with every fiber of my being… yet the cost of this victory gives me pause. I would not rid the world of the Amani just to leave our kingdom defenseless against a second Horde onslaught… no more elves will die this day.
+Ми заплатили величезну ціну, Лор'темаре. Всім своїм нутром я прагну викорінити це зло з нашої землі… але наші втрати змушують мене спинитись. Я не позбавлю світ від Амані за таку ціну, це наші останні бійці, і їх втрата лишить наше королівство беззахисним перед другою навалою Орди… більше жоден ельф не помре сьогодні.
 }
 
 STRING 719
 // Items: I0Li (WC2Orc11SLorthemar_End2), Description (Description)
 {
-Mind your tongue, human! You’re addressing a commander in the Sun King’s host! You are oathbound to protect Quel’thalas… and as such you will follow our lead!
+Слідкуй за язиком людино. Ти звертаєшся до командира у війську короля ельфів Анастеріана! Ви зобов'язані захищати Квел'Талас… і тому ви продовжите виконувати наші накази!
 }
 
 STRING 720
 // Items: I0Lk (WC2Orc11SLorthemar_ifVictory1), Description (Description)
 {
-Our main strike force is in shambles, yet Zul’Aman’s defenses are almost broken! We... we have paid a heavy price to get here. I will prepare what’s left of our forces for the second siege. It is time to end this!
+Наші головні ударні сили розбиті, але й оборона Зул'Аману майже впала. Ми… ми заплатили над високу ціну аби досягти цього. Я підготую залишки наших військ для другої хвилі нападу. Настав час покласти цьому край!
 }
 
 STRING 721
@@ -2841,37 +2841,37 @@ Light Red
 }
 
 STRING 725
-// Destructibles: Bzu1 (Vase), Name (Name)
+// Destructibles: Bzu1 (Ваза), Name (Name)
 {
-Vase
+Ваза
 }
 
 STRING 726
-// Destructibles: Bzu1 (Vase), EditorSuffix (Editor Suffix)
+// Destructibles: Bzu1 (Ваза), EditorSuffix (Editor Suffix)
 {
 (1)
 }
 
 STRING 727
-// Destructibles: Bzu2 (Vase), Name (Name)
+// Destructibles: Bzu2 (Ваза), Name (Name)
 {
-Vase
+Ваза
 }
 
 STRING 728
-// Destructibles: Bzu2 (Vase), EditorSuffix (Editor Suffix)
+// Destructibles: Bzu2 (Ваза), EditorSuffix (Editor Suffix)
 {
 (2)
 }
 
 STRING 729
-// Destructibles: Bzu3 (Vase), Name (Name)
+// Destructibles: Bzu3 (Ваза), Name (Name)
 {
-Vase
+Ваза
 }
 
 STRING 730
-// Destructibles: Bzu3 (Vase), EditorSuffix (Editor Suffix)
+// Destructibles: Bzu3 (Ваза), EditorSuffix (Editor Suffix)
 {
 (3)
 }
@@ -2891,27 +2891,26 @@ Ula’tek has blessed Zul’jin with shadow powers that increases his defense an
 STRING 737
 // Abilities: AUts (Fury of the Loa), Ubertip (Tooltip - Normal - Extended)
 {
-Enhances the Zul'jin's armor with shadow powers, giving him <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.
+Enhances the Зул'джин's armor with shadow powers, giving him <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.
 }
 
 STRING 738
 // Abilities: AUts (Fury of the Loa), Ubertip (Tooltip - Normal - Extended)
 {
-Enhances the Zul'jin's armor with shadow powers, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.
+Enhances the Зул'джин's armor with shadow powers, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.
 }
 
 STRING 739
 // Abilities: AUts (Fury of the Loa), Ubertip (Tooltip - Normal - Extended)
 {
-Enhances the Zul'jin's armor with shadow powers, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies.
+Enhances the Зул'джин's armor with shadow powers, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies.
 }
 
 STRING 743
 {
-|cff32cd32HINT|r
-Ula'Tek enhanced Zul'jin's armor with shadow powers. 
-She also will summon her spawns to counter elven attacks. 
-
+|cff32cd32ПІДКАЗКА|r
+Ула'Тек зміцнила броню Зул'джина силами пітьми.
+Вона також прикликає своїх слуг для захисту від атак ельфів.
 }
 
 STRING 744
@@ -2923,37 +2922,37 @@ Lich Dummy
 STRING 745
 // Items: IQL0 (Closed Door), Name (Name)
 {
-Closed Door
+Зачинені двері
 }
 
 STRING 746
 // Items: IQL0 (Closed Door), Tip (Tooltip - Basic)
 {
-To Nalorakk Temple
+До храму Налоракк (Лоа ведмедя)
 }
 
 STRING 747
 // Items: IQL0 (Closed Door), Ubertip (Tooltip - Extended)
 {
-To Akil’zon Temple
+До храму Акіл'зон (Лоа орла)
 }
 
 STRING 748
 // Items: IQL0 (Closed Door), Description (Description)
 {
-To Ula'Tek Temple
+До храму Ула'Тек (Лоа змії)
 }
 
 STRING 749
 // Items: IQL1 (To Halazzi  Temple), Name (Name)
 {
-To Halazzi  Temple
+До храму Халаззі (Лоа Рисі)
 }
 
 STRING 750
 // Items: IQL1 (To Halazzi  Temple), Description (Description)
 {
-To Jan’alai Temple
+До храму Джан'алай (Лоа Дракондора)
 }
 
 STRING 751
@@ -2971,19 +2970,19 @@ T
 STRING 753
 // Units: ZaCZ (Troll Warlord), Revivetip (Tooltip - Revive)
 {
-Revive Zul'jin
+Оживити Зул'джина
 }
 
 STRING 754
 // Units: ZaCZ (Troll Warlord), Awakentip (Tooltip - Awaken)
 {
-Revive Zul'jin
+Оживити Зул'джина
 }
 
 STRING 755
 // Units: ZaCZ (Troll Warlord), Ubertip (Tooltip - Extended)
 {
-The Warlord of the Forest Trolls, Zul'jin seeks to reconquer the lads that High Elves took from the Amani. His exceptional regeneration, combat skills and use of Loa artifacts make his a formidable warrior and a cunning stretegist.
+The Warlord of the Forest Trolls, Зул'джин seeks to reconquer the lads that High Elves took from the Amani. His exceptional regeneration, combat skills and use of Loa artifacts make his a formidable warrior and a cunning stretegist.
 
 |cffffcc00Attacks land units.|r
 }
@@ -2997,7 +2996,7 @@ STRING 756
 STRING 757
 // Items: I0LV (WC2Orc11SZuljin_Outro1), Tip (Tooltip - Basic)
 {
-Zul'jin
+Зул'джин
 }
 
 STRING 758
