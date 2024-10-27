@@ -687,7 +687,7 @@ Must build upon Oil Patch.
 
 STRING 275
 {
-You can Revive your hero at the Great Hall.
+Ви можете оживити Зул'джина у цьому вітарі.
 }
 
 STRING 276
@@ -1192,7 +1192,7 @@ STRING 412
 STRING 413
 // Units: ZAAH (High King of Quel'Thalas), Name (Name)
 {
-Верховний король Квел'Таласу
+Король Квел'Таласу
 }
 
 STRING 416
@@ -1529,7 +1529,7 @@ STRING 473
 STRING 474
 // Items: I0L8 (WC2Orc11SAnasterian_DragonhawkTemple1), Description (Description)
 {
-Bear witness to the might of Quel’thalas! Burn, you heathens, Burn!
+Станьте свідками могутності Квел'Таласу! Горіть, дикуни, горіть!
 }
 
 STRING 475
@@ -1577,7 +1577,7 @@ STRING 482
 STRING 483
 // Items: I0LA (WC2Orc11SAnasterian_final3), Description (Description)
 {
-Що стосується Амані… ця битва знекровила їх та ослабила, вони можуть ніколи повністю і не оговтатися після цього дня. Я залишу «Мандрівників» наш елітний загін рейнджерів аби вони розібралися з залишками тролів при першій можливості. Це більше не обговорюється. Ми відходимо додому до Срібномясяця протягом години.
+Що стосується Амані… ця битва знекровила їх та ослабила, вони можуть ніколи повністю і не оговтатися після цього дня. Я залишу «Мандрівників» наш елітний загін слідопитів аби вони розібралися з залишками тролів при першій можливості. Це більше не обговорюється. Ми відходимо додому до Срібномясяця протягом години.
 }
 
 STRING 484
@@ -1703,7 +1703,7 @@ STRING 503
 STRING 504
 // Items: I0LH (WC2Orc11SZuljin1), Description (Description)
 {
-Ааа, cам «верховний король» ельфів «пошанував» нас своїм візитом до Зул'Аману. Настав час тобі злізти зі свого королівського стільця… Король Сонячний Скиталець.
+Ааа, cам «верховний король» ельфів «пошанував» нас своїм візитом до Зул'Аману. Настав час тобі злізти зі свого королівського стільця… Король Сонячний Блукач.
 }
 
 STRING 505
@@ -1829,7 +1829,7 @@ STRING 524
 STRING 525
 // Items: I0LO (WC2Orc11SZuljin_RemainingTemples1), Description (Description)
 {
-Амані! Ельфи скоро почнуть нападати на храми що лишились. Будьте готові!
+Амані! Ельфи скоро почнуть нападати на храми, що лишились. Будьте готові!
 }
 
 STRING 526
@@ -1883,7 +1883,7 @@ STRING 533
 STRING 534
 // Items: I0LR (WC2Orc11SZuljin_TharbekFarewell1), Description (Description)
 {
-Твої воїни хоробро билися, Тарбеку, і ти дотримав свого слова… за це я звільняю тебе від присяги яку ти дав. Повертайся до вождя і віддай життя за свою «Орду»… Я попрошу Лоа, щоб зрада вашого чорнокнижника не прирекла вашу справу…
+Твої воїни хоробро билися, Тарбеку, і виконав назав Молота Згуби… за це я звільняю тебе від присяги яку ти дав. Повертайся до вождя і віддай життя за свою «Орду»… Я попрошу Лоа, щоб зрада вашого чорнокнижника не прирекла вашу справу…
 }
 
 STRING 535
@@ -1937,7 +1937,7 @@ STRING 542
 STRING 543
 // Items: I0LU (WC2Orc11SZuljin_Empowered1), Description (Description)
 {
-Скуштуйте на смак лють наших богів! Ви будете поглинуті їхнім іменем!
+Скуштуйте на смак лють наших богів! Ви знищені на їхню честь!
 }
 
 STRING 544
@@ -2069,7 +2069,7 @@ STRING 566
 STRING 567
 // Items: I0Lc (WC2Orc11STrollCaptain_NoTrollsLeft1), Description (Description)
 {
-Зул'джине! Наші сили майже вичерпано! Ми більше не можемо захистити це місце! Ми повинні повернутися у центр миіста та евакуювати наших братів і сестер!
+Зул'джине! Наші сили майже вичерпано! Ми більше не можемо захистити це місце! Ми повинні повернутися у внутрішню частину міста та евакуювати наших братів і сестер!
 }
 
 STRING 568
@@ -2285,7 +2285,7 @@ WC2Orc11SUlaTek1
 STRING 605
 // Items: I0Lp (WC2Orc11SUlaTek1), Tip (Tooltip - Basic)
 {
-Ula’Tek
+Ула'тек
 }
 
 STRING 606
@@ -2357,7 +2357,7 @@ WC2Orc11SLoaNalorakk_Warning1
 STRING 617
 // Items: I0Lt (WC2Orc11SLoaNalorakk_Warning1), Tip (Tooltip - Basic)
 {
-Avatar of Nalorakk
+Налоракк
 }
 
 STRING 618
@@ -2416,7 +2416,7 @@ Build Marketplace
 
 STRING 630
 {
-|cffffcc0ДОДАТКОВЕ ЗАВДАННЯ|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ|r
 Аватари Лоа
 - Захистіть Акіл'зона
 - Захистіть Налоракка
@@ -2439,7 +2439,7 @@ STRING 632
 
 STRING 634
 {
-Ельфи відправлять війська через:
+Наступна атака через:
 }
 
 STRING 635
@@ -2464,7 +2464,7 @@ STRING 638
 
 STRING 639
 {
-|cffffcc0ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
 Аватари Лоа
 - |cffff0000Захистіть Акіл'зона (Правалено)|r
 }
@@ -2495,7 +2495,7 @@ STRING 644
 {
 |cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ОНОВЛЕНО|r
 Аватари Лоа
- - |cffff0000ахистіть Джан'алай (Провалено)|r
+ - |cffff0000Захистіть Джан'алай (Провалено)|r
 }
 
 STRING 645
@@ -2641,7 +2641,7 @@ STRING 683
 STRING 684
 {
 |cff32cd32ПІДКАЗКА|r
-Вбиваючи ворогів ви заробляєете ресурсі які можна витратити на «ринку».
+Вбиваючи ворогів ви заробляєете золото, за яке можна оплатити послуги найманців на |cffffcc00«Ринку»|r або у |cffffcc00Тарбека|r.
 }
 
 STRING 686
@@ -2652,7 +2652,7 @@ STRING 686
 STRING 687
 // Items: I0LW (WC2Orc11STrollCaptain_3rdTemple1), Description (Description)
 {
-Воєводо Зул’джине! Король ельфів зруйнував третій храм Лоа! Лишився всього один!
+Воєводо Зул'джине! Король ельфів зруйнував третій храм Лоа! Лишився всього один!
 }
 
 STRING 688
@@ -2716,13 +2716,13 @@ STRING 697
 STRING 698
 // Items: I2LC (WC2Orc11STharbek_Final2), Description (Description)
 {
-Дякую… воєводо Зул'джин. Сподіваюся, ти маєш план, як знищити цю погань. Ака'маґош! Нехай духи будутьз тобою!
+Дякую… воєводо Зул'джин. Сподіваюся, ти маєш план, як знищити цю погань. Ака'маґош! Нехай духи будуть з тобою!
 }
 
 STRING 699
 // Units: zAtS (Spawn of Ula'Tek), Name (Name)
 {
-Spawn of Ula'Tek
+Породження Ула'тек
 }
 
 STRING 700
@@ -2879,7 +2879,7 @@ STRING 730
 STRING 735
 // Buffs/Effects: BUts (Fury or the Loa), EditorName (Name (Editor Only))
 {
-Fury or the Loa
+Лють Лоа
 }
 
 STRING 736
@@ -2891,19 +2891,19 @@ Ula’tek has blessed Zul’jin with shadow powers that increases his defense an
 STRING 737
 // Abilities: AUts (Fury of the Loa), Ubertip (Tooltip - Normal - Extended)
 {
-Enhances the Зул'джин's armor with shadow powers, giving him <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.
+Броня Зул'джина наповнена темними силами, які надають йому <AUts,DataC1> од. додаткової броні та повертають ворогам <AUts,DataA1,%>% шкоди від атак ближнього бою.
 }
 
 STRING 738
 // Abilities: AUts (Fury of the Loa), Ubertip (Tooltip - Normal - Extended)
 {
-Enhances the Зул'джин's armor with shadow powers, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.
+Броня Зул'джина наповнена темними силами, які надають йому <AUts,DataC2> од. додаткової броні та повертають ворогам <AUts,DataA2,%>% шкоди від атак ближнього бою.
 }
 
 STRING 739
 // Abilities: AUts (Fury of the Loa), Ubertip (Tooltip - Normal - Extended)
 {
-Enhances the Зул'джин's armor with shadow powers, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies.
+Броня Зул'джина наповнена темними силами, які надають йому <AUts,DataC3> од. додаткової броні та повертають ворогам <AUts,DataA3,%>% шкоди від атак ближнього бою.
 }
 
 STRING 743
