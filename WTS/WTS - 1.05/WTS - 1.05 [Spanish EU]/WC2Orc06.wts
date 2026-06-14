@@ -1,0 +1,3508 @@
+﻿STRING 3
+{
+WC2Orc06Nuevo
+}
+
+STRING 4
+{
+Capítulo Seis: Los Humedales
+}
+
+STRING 5
+{
+Diseños LoreCraft
+}
+
+STRING 10
+{
+Nación de Stromgarde
+}
+
+STRING 11
+{
+Cinematic Dummy
+}
+
+STRING 15
+{
+Enanos de Forjaz
+}
+
+STRING 16
+{
+Horda
+}
+
+STRING 17
+{
+Alianza
+}
+
+STRING 18
+{
+Neutrales
+}
+
+STRING 25
+// Units: n00T (Acechador), Hotkey (Tecla rápida)
+{
+A
+}
+
+STRING 77
+// Units: e601 (Balista), Name (Nombre)
+{
+Balista
+}
+
+STRING 98
+// Units: n60G (Serpiente), Name (Nombre)
+{
+Serpiente
+}
+
+STRING 112
+// Units: e601 (Balista), EditorSuffix (Sufijo de editor)
+{
+(Humana)
+}
+
+STRING 117
+// Units: h602 (Minero), Name (Nombre)
+{
+Minero
+}
+
+STRING 118
+// Units: h602 (Minero), EditorSuffix (Sufijo de editor)
+{
+(Forjaz)
+}
+
+STRING 119
+// Units: h602 (Minero), Tip (Descripción - Básica)
+{
+Entrenar minero
+}
+
+STRING 120
+// Units: h603 (Guardia), Name (Nombre)
+{
+Guardia
+}
+
+STRING 121
+// Units: h603 (Guardia), EditorSuffix (Sufijo de editor)
+{
+(Forjaz)
+}
+
+STRING 122
+// Units: h603 (Guardia), Tip (Descripción - Básica)
+{
+Entrenar guardia
+}
+
+STRING 125
+// Units: h61O (Caballero montañés), EditorSuffix (Sufijo de editor)
+{
+(Forjaz)
+}
+
+STRING 130
+// Units: h60U (Guardia de la Forja), EditorSuffix (Sufijo de editor)
+{
+(Hierro Negro)
+}
+
+STRING 145
+// Units: h607 (Cañón enano), Name (Nombre)
+{
+Cañón enano
+}
+
+STRING 146
+// Units: h607 (Cañón enano), Tip (Descripción - Básica)
+{
+Construir cañón
+}
+
+STRING 147
+// Units: h607 (Cañón enano), Ubertip (Descripción - Extendida)
+{
+Cañón de largo alcance poderoso, pero lento y vulnerable.|n|n|cffffcc00Ataca objetivos terrestres (incluyendo árboles).|r
+}
+
+STRING 149
+// Units: n606 (Tienda orca), Name (Nombre)
+{
+Tienda orca
+}
+
+STRING 164
+// Units: O616 (Jefe), Hotkey (Tecla rápida)
+{
+J
+}
+
+STRING 172
+// Units: n60C (Puesto de exploradores), Name (Nombre)
+{
+Puesto de exploradores
+}
+
+STRING 173
+// Units: n60C (Puesto de exploradores), Tip (Descripción - Básica)
+{
+Puesto de exploradores
+}
+
+STRING 174
+// Units: n60C (Puesto de exploradores), Description (Descripción)
+{
+Puesto de exploradores orco
+}
+
+STRING 203
+// Units: h61T (Guardia del Yunque), EditorSuffix (Sufijo de editor)
+{
+(Forjaz)
+}
+
+STRING 216
+// Units: h60E (Cuartel), EditorSuffix (Sufijo de editor)
+{
+(Enano)
+}
+
+STRING 295
+// Units: o002 (Esclavo), Ubertip (Descripción - Extendida)
+{
+Unidad trabajadora básica. Puede recolectar oro y madera, construir estructuras y reparar.|n|n|cffffcc00Ataca unidades terrestres y árboles.|r
+}
+
+STRING 422
+// Units: h61D (Asentamiento), EditorSuffix (Sufijo de editor)
+{
+(Enano)
+}
+
+STRING 423
+// Units: h61D (Asentamiento), Name (Nombre)
+{
+Asentamiento
+}
+
+STRING 424
+// Units: h61D (Asentamiento), Tip (Descripción - Básica)
+{
+Construir asentamiento
+}
+
+STRING 448
+// Units: n60V (Pato), Name (Nombre)
+{
+Pato
+}
+
+STRING 449
+// Units: n60V (Pato), Tip (Descripción - Básica)
+{
+Solo un ánade real
+}
+
+STRING 455
+// Units: h61O (Caballero montañés), Name (Nombre)
+{
+Caballero montañés
+}
+
+STRING 456
+// Units: h61W (Montaraz), EditorSuffix (Sufijo de editor)
+{
+(Forjaz)
+}
+
+STRING 457
+// Units: h61O (Caballero montañés), Tip (Descripción - Básica)
+{
+Entrenar caballero montañés
+}
+
+STRING 466
+// Destructibles: B621 (Muro de piedra orco), Name (Nombre)
+{
+Muro de piedra orco
+}
+
+STRING 478
+// Destructibles: B60R (Muro de púas), Name (Nombre)
+{
+Muro de púas
+}
+
+STRING 479
+// Doodads: D61D (Muro de púas), Name (Nombre)
+{
+Muro de púas
+}
+
+STRING 487
+// Destructibles: B00U (Espíritu), Name (Nombre)
+{
+Espíritu
+}
+
+STRING 488
+// Units: h620 (Tienda), Name (Nombre)
+{
+Tienda
+}
+
+STRING 489
+// Units: h620 (Tienda), Tip (Descripción - Básica)
+{
+Tienda
+}
+
+STRING 490
+// Units: h621 (Tienda), Name (Nombre)
+{
+Tienda
+}
+
+STRING 491
+// Units: h621 (Tienda), Tip (Descripción - Básica)
+{
+Tienda
+}
+
+STRING 492
+// Units: h621 (Tienda), EditorSuffix (Sufijo de editor)
+{
+(Mejora)
+}
+
+STRING 547
+// Units: h60F (Cañón humano), Name (Nombre)
+{
+Cañón humano
+}
+
+STRING 548
+// Units: h60F (Cañón humano), Tip (Descripción - Básica)
+{
+Construir cañón
+}
+
+STRING 549
+// Units: h60F (Cañón humano), Ubertip (Descripción - Extendida)
+{
+Cañón de largo alcance poderoso, pero lento y vulnerable.|n|n|cffffcc00Ataca objetivos terrestres (incluyendo árboles).|r
+}
+
+STRING 551
+// Units: u004 (Maniquí), Name (Nombre)
+{
+Maniquí
+}
+
+STRING 562
+// Units: n60Y (Cuervo), Name (Nombre)
+{
+Cuervo
+}
+
+STRING 571
+// Units: n60Z (Arañas), Name (Nombre)
+{
+Arañas
+}
+
+STRING 572
+// Units: n60Z (Arañas), Tip (Descripción - Básica)
+{
+Arañas
+}
+
+STRING 573
+// Units: h60T (Clanista), Name (Nombre)
+{
+Clanista
+}
+
+STRING 574
+// Units: h60T (Clanista), EditorSuffix (Sufijo de editor)
+{
+(Martillo Salvaje)
+}
+
+STRING 575
+// Units: h60T (Clanista), Tip (Descripción - Básica)
+{
+Entrenar clanista
+}
+
+STRING 576
+// Units: h60T (Clanista), Ubertip (Descripción - Extendida)
+{
+Soldado de infantería versátil.|n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 578
+// Units: h60U (Guardia de la Forja), Name (Nombre)
+{
+Guardia de la Forja
+}
+
+STRING 579
+// Units: h61U (Fantasma), EditorSuffix (Sufijo de editor)
+{
+(Hierro Negro)
+}
+
+STRING 580
+// Units: h60U (Guardia de la Forja), Tip (Descripción - Básica)
+{
+Entrenar guardia de la Forja
+}
+
+STRING 585
+// Units: h61V (Thane), EditorSuffix (Sufijo de editor)
+{
+(Martillo Salvaje)
+}
+
+STRING 588
+// Units: h61T (Guardia del Yunque), Name (Nombre)
+{
+Guardia del Yunque
+}
+
+STRING 589
+// Units: h61Z (Aserradero), EditorSuffix (Sufijo de editor)
+{
+(Forjaz)
+}
+
+STRING 643
+// Units: h61V (Thane), Name (Nombre)
+{
+Thane
+}
+
+STRING 648
+// Units: h61W (Montaraz), Name (Nombre)
+{
+Montaraz
+}
+
+STRING 656
+// Units: o61S (Búnker), Name (Nombre)
+{
+Búnker
+}
+
+STRING 657
+// Units: o61S (Búnker), Tip (Descripción - Básica)
+{
+Construir búnker
+}
+
+STRING 658
+// Units: o61S (Búnker), Ubertip (Descripción - Extendida)
+{
+Proporciona comida, lo que aumenta el número máximo de unidades que se pueden entrenar. Los fusileros pueden guarnecer en su interior para atacar unidades enemigas.|n|n|cffffcc00Ataca unidades terrestres y aéreas.|r
+}
+
+STRING 665
+// Units: h61Z (Aserradero), Name (Nombre)
+{
+Aserradero
+}
+
+STRING 666
+// Units: h61Z (Aserradero), Tip (Descripción - Básica)
+{
+Construir aserradero
+}
+
+STRING 670
+// Units: n61O (Carnero salvaje), Name (Nombre)
+{
+Carnero salvaje
+}
+
+STRING 671
+// Units: n61O (Carnero salvaje), EditorSuffix (Sufijo de editor)
+{
+(Gris)
+}
+
+STRING 672
+// Units: n61O (Carnero salvaje), Tip (Descripción - Básica)
+{
+Invocar carnero
+}
+
+STRING 673
+// Units: n61O (Carnero salvaje), Ubertip (Descripción - Extendida)
+{
+Carnero salvaje. ¡Puede ser peligroso!
+}
+
+STRING 674
+// Units: n61P (Carnero salvaje), Name (Nombre)
+{
+Carnero salvaje
+}
+
+STRING 675
+// Units: n61P (Carnero salvaje), EditorSuffix (Sufijo de editor)
+{
+(Negro)
+}
+
+STRING 676
+// Units: n61P (Carnero salvaje), Tip (Descripción - Básica)
+{
+Invocar carnero
+}
+
+STRING 677
+// Units: n61P (Carnero salvaje), Ubertip (Descripción - Extendida)
+{
+Carnero salvaje. ¡Puede ser peligroso!
+}
+
+STRING 678
+// Units: n61Q (Carnero salvaje), Name (Nombre)
+{
+Carnero salvaje
+}
+
+STRING 679
+// Units: n61Q (Carnero salvaje), EditorSuffix (Sufijo de editor)
+{
+(Marrón)
+}
+
+STRING 680
+// Units: n61Q (Carnero salvaje), Tip (Descripción - Básica)
+{
+Invocar carnero
+}
+
+STRING 681
+// Units: n61Q (Carnero salvaje), Ubertip (Descripción - Extendida)
+{
+Carnero salvaje. ¡Puede ser peligroso!
+}
+
+STRING 818
+// Units: n00L (Puntero de cabeza cinemático), Name (Nombre)
+{
+Puntero de cabeza cinemático
+}
+
+STRING 906
+// Destructibles: LTex (Barril con petróleo), Name (Nombre)
+{
+Barril con petróleo
+}
+
+STRING 931
+// Destructibles: ATwf (Muelle), Name (Nombre)
+{
+Muelle
+}
+
+STRING 932
+// Destructibles: GTsh (Hongos), Name (Nombre)
+{
+Hongos
+}
+
+STRING 933
+// Destructibles: B615 (Barril con petróleo), Name (Nombre)
+{
+Barril con petróleo
+}
+
+STRING 934
+// Destructibles: OTsp (Portal), Name (Nombre)
+{
+Portal
+}
+
+STRING 942
+// Doodads: D647 (Enredaderas), Name (Nombre)
+{
+Enredaderas
+}
+
+STRING 945
+// Destructibles: B60P (Caverna), Name (Nombre)
+{
+Caverna
+}
+
+STRING 950
+// Destructibles: B615 (Barril con petróleo), EditorSuffix (Sufijo de editor)
+{
+(Sin camino)
+}
+
+STRING 951
+// Destructibles: B616 (Ráfaga de fuego), Name (Nombre)
+{
+Ráfaga de fuego
+}
+
+STRING 952
+// Destructibles: B617 (Fuego), Name (Nombre)
+{
+Fuego
+}
+
+STRING 969
+// Destructibles: B62R (Tumba antigua), Name (Nombre)
+{
+Tumba antigua
+}
+
+STRING 971
+// Destructibles: B62T (Huevo), Name (Nombre)
+{
+Huevo
+}
+
+STRING 976
+// Destructibles: B600 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 977
+// Destructibles: B600 (Acantilados), EditorSuffix (Sufijo de editor)
+{
+(Rampa)
+}
+
+STRING 980
+// Destructibles: B603 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 983
+// Destructibles: B603 (Acantilados), EditorSuffix (Sufijo de editor)
+{
+(Doodad)
+}
+
+STRING 999
+// Destructibles: B60U (Cofre), Name (Nombre)
+{
+Cofre
+}
+
+STRING 1000
+// Destructibles: B60W (Reserva de madera), Name (Nombre)
+{
+Reserva de madera
+}
+
+STRING 1004
+// Destructibles: B61M (Viga de soporte), Name (Nombre)
+{
+Viga de soporte
+}
+
+STRING 1005
+// Destructibles: B61M (Viga de soporte), EditorSuffix (Sufijo de editor)
+{
+Cinemática orca
+}
+
+STRING 1008
+// Destructibles: B00V (HUMEDALES), EditorSuffix (Sufijo de editor)
+{
+(Misión02)
+}
+
+STRING 1009
+// Destructibles: B60V (Arbustos), Name (Nombre)
+{
+Arbustos
+}
+
+STRING 1012
+// Destructibles: B61C (Estandarte de Stromgarde), EditorSuffix (Sufijo de editor)
+{
+(Destruido)
+}
+
+STRING 1014
+// Destructibles: B61X (Lápida orca), Name (Nombre)
+{
+Lápida orca
+}
+
+STRING 1015
+// Destructibles: B61Y (Escombros), Name (Nombre)
+{
+Escombros
+}
+
+STRING 1016
+// Destructibles: B61Z (Telaraña), Name (Nombre)
+{
+Telaraña
+}
+
+STRING 1046
+// Destructibles: B625 (Base de acantilado A), Name (Nombre)
+{
+Base de acantilado A
+}
+
+STRING 1047
+// Destructibles: B626 (Base de acantilado B), Name (Nombre)
+{
+Base de acantilado B
+}
+
+STRING 1048
+// Destructibles: B627 (Base de acantilado C), Name (Nombre)
+{
+Base de acantilado C
+}
+
+STRING 1049
+// Destructibles: B628 (Base de acantilado D), Name (Nombre)
+{
+Base de acantilado D
+}
+
+STRING 1050
+// Destructibles: B629 (Acantilado oscuro), Name (Nombre)
+{
+Acantilado oscuro
+}
+
+STRING 1051
+// Destructibles: B629 (Acantilado oscuro), EditorSuffix (Sufijo de editor)
+{
+(Frondavil)
+}
+
+STRING 1052
+// Destructibles: B62A (Acantilado oscuro pequeño), Name (Nombre)
+{
+Acantilado oscuro pequeño
+}
+
+STRING 1053
+// Destructibles: B62A (Acantilado oscuro pequeño), EditorSuffix (Sufijo de editor)
+{
+(Frondavil)
+}
+
+STRING 1062
+// Destructibles: B62F (Acantilado estival), Name (Nombre)
+{
+Acantilado estival
+}
+
+STRING 1063
+// Destructibles: B62G (Acantilado estival pequeño), Name (Nombre)
+{
+Acantilado estival pequeño
+}
+
+STRING 1064
+// Destructibles: B62H (Acantilado de Los Humedales), Name (Nombre)
+{
+Acantilado de Los Humedales
+}
+
+STRING 1065
+// Destructibles: B62I (Acantilado de Los Humedales), Name (Nombre)
+{
+Acantilado de Los Humedales
+}
+
+STRING 1066
+// Destructibles: B62I (Acantilado de Los Humedales), EditorSuffix (Sufijo de editor)
+{
+(Pequeño)
+}
+
+STRING 1069
+// Destructibles: B002 (Doodad de bestia de la jungla), EditorSuffix (Sufijo de editor)
+{
+(Pequeño)
+}
+
+STRING 1090
+// Destructibles: B00D (Banco de piedra), Name (Nombre)
+{
+Banco de piedra
+}
+
+STRING 1091
+// Destructibles: B00E (Banco de madera), Name (Nombre)
+{
+Banco de madera
+}
+
+STRING 1092
+// Destructibles: B00F (Soporte de armas nuevo), Name (Nombre)
+{
+Soporte de armas nuevo
+}
+
+STRING 1094
+// Destructibles: B00H (Valla), Name (Nombre)
+{
+Valla
+}
+
+STRING 1095
+// Destructibles: B00I (Valla), Name (Nombre)
+{
+Valla
+}
+
+STRING 1096
+// Destructibles: B00J (Valla corta), Name (Nombre)
+{
+Valla corta
+}
+
+STRING 1097
+// Destructibles: B00K (Valla corta), Name (Nombre)
+{
+Valla corta
+}
+
+STRING 1099
+// Destructibles: B00M (Fuente), Name (Nombre)
+{
+Fuente
+}
+
+STRING 1100
+// Destructibles: B00N (Suministros de comida), Name (Nombre)
+{
+Suministros de comida
+}
+
+STRING 1102
+// Destructibles: B00P (Alfombras), Name (Nombre)
+{
+Alfombras
+}
+
+STRING 1103
+// Destructibles: B00Q (Vía férrea), Name (Nombre)
+{
+Vía férrea
+}
+
+STRING 1104
+// Destructibles: B00A (Trampa de enredaderas), Name (Nombre)
+{
+Trampa de enredaderas
+}
+
+STRING 1113
+// Doodads: D60A (Cráter (sin camino)), Name (Nombre)
+{
+Cráter (sin camino)
+}
+
+STRING 1114
+// Doodads: D60D (Círculo de poder WC2), Name (Nombre)
+{
+Círculo de poder WC2
+}
+
+STRING 1118
+// Doodads: D60X (Estandarte del Foso Sangrante), Name (Nombre)
+{
+Estandarte del Foso Sangrante
+}
+
+STRING 1120
+// Doodads: D612 (Estandarte del Clan Crepuscular), Name (Nombre)
+{
+Estandarte del Clan Crepuscular
+}
+
+STRING 1121
+// Doodads: D613 (Estandarte de Diente Negro), Name (Nombre)
+{
+Estandarte de Diente Negro
+}
+
+STRING 1123
+// Doodads: D61E (Hierba alta), Name (Nombre)
+{
+Hierba alta
+}
+
+STRING 1125
+// Doodads: D623 (Estandarte enano), Name (Nombre)
+{
+Estandarte enano
+}
+
+STRING 1131
+// Doodads: D66T (Arbustos animados), Name (Nombre)
+{
+Arbustos animados
+}
+
+STRING 1133
+// Doodads: D693 (Telaraña animada), Name (Nombre)
+{
+Telaraña animada
+}
+
+STRING 1140
+// Doodads: D69C (Plaga), Name (Nombre)
+{
+Plaga
+}
+
+STRING 1156
+// Doodads: D6AC (Resplandor), Name (Nombre)
+{
+Resplandor
+}
+
+STRING 1157
+// Doodads: D6AD (Niebla), Name (Nombre)
+{
+Niebla
+}
+
+STRING 1158
+// Doodads: D6AE (Luz), Name (Nombre)
+{
+Luz
+}
+
+STRING 1159
+// Doodads: D6AF (Luz lateral), Name (Nombre)
+{
+Luz lateral
+}
+
+STRING 1160
+// Doodads: D6AG (Luz desde arriba), Name (Nombre)
+{
+Luz desde arriba
+}
+
+STRING 1167
+// Doodads: D6AV (Estandarte Faucedraco), Name (Nombre)
+{
+Estandarte Faucedraco
+}
+
+STRING 1185
+// Doodads: D6BR (Resplandor pequeño), Name (Nombre)
+{
+Resplandor pequeño
+}
+
+STRING 1192
+// Doodads: D6CQ (Raíces), Name (Nombre)
+{
+Raíces
+}
+
+STRING 1193
+// Doodads: D6CR (Caldero sin camino), Name (Nombre)
+{
+Caldero sin camino
+}
+
+STRING 1194
+// Doodads: D6CS (Brasero sin camino), Name (Nombre)
+{
+Brasero sin camino
+}
+
+STRING 1195
+// Doodads: D6CV (Soporte de estandarte), Name (Nombre)
+{
+Soporte de estandarte
+}
+
+STRING 1198
+// Doodads: D6D6 (Jaula de tortura), Name (Nombre)
+{
+Jaula de tortura
+}
+
+STRING 1199
+// Doodads: D6D8 (Salpicadura de sangre 01), Name (Nombre)
+{
+Salpicadura de sangre 01
+}
+
+STRING 1200
+// Doodads: D6D9 (Salpicadura de sangre 02), Name (Nombre)
+{
+Salpicadura de sangre 02
+}
+
+STRING 1201
+// Doodads: D6DA (Salpicadura de sangre 03), Name (Nombre)
+{
+Salpicadura de sangre 03
+}
+
+STRING 1202
+// Doodads: D6DB (Salpicadura de sangre 04), Name (Nombre)
+{
+Salpicadura de sangre 04
+}
+
+STRING 1203
+// Doodads: D6DC (Salpicadura de sangre 05), Name (Nombre)
+{
+Salpicadura de sangre 05
+}
+
+STRING 1204
+// Doodads: D6DD (Salpicadura de sangre 06), Name (Nombre)
+{
+Salpicadura de sangre 06
+}
+
+STRING 1206
+// Doodads: D6DO (Estandarte de Stromgarde), Name (Nombre)
+{
+Estandarte de Stromgarde
+}
+
+STRING 1207
+// Doodads: D6DQ (Estandarte Filo Ardiente), Name (Nombre)
+{
+Estandarte Filo Ardiente
+}
+
+STRING 1228
+// Doodads: D6EH (Libro verde), Name (Nombre)
+{
+Libro verde
+}
+
+STRING 1229
+// Doodads: D6EI (Libro rojo), Name (Nombre)
+{
+Libro rojo
+}
+
+STRING 1230
+// Doodads: D6EJ (Libro azul), Name (Nombre)
+{
+Libro azul
+}
+
+STRING 1233
+// Doodads: D6EW (Pila de libros A), Name (Nombre)
+{
+Pila de libros A
+}
+
+STRING 1234
+// Doodads: D6EX (Pergaminos), Name (Nombre)
+{
+Pergaminos
+}
+
+STRING 1239
+// Doodads: D6F7 (Resplandor pequeño rojo), Name (Nombre)
+{
+Resplandor pequeño rojo
+}
+
+STRING 1240
+// Doodads: D6F8 (Relámpago ramificado), Name (Nombre)
+{
+Relámpago ramificado
+}
+
+STRING 1241
+// Doodads: D6F9 (Trigo), Name (Nombre)
+{
+Trigo
+}
+
+STRING 1262
+// Doodads: D6GQ (Estandarte largo orco), Name (Nombre)
+{
+Estandarte largo orco
+}
+
+STRING 1269
+// Doodads: D615 (Agujas rocosas de Lordaeron), Name (Nombre)
+{
+Agujas rocosas de Lordaeron
+}
+
+STRING 1277
+// Doodads: D60J (Estandarte del clan Roca Negra), Name (Nombre)
+{
+Estandarte del clan Roca Negra
+}
+
+STRING 1278
+// Doodads: D609 (Soporte de armadura orco), Name (Nombre)
+{
+Soporte de armadura orco
+}
+
+STRING 1279
+// Doodads: D60L (Soporte de armas orco), Name (Nombre)
+{
+Soporte de armas orco
+}
+
+STRING 1280
+// Doodads: D60N (Leña), Name (Nombre)
+{
+Leña
+}
+
+STRING 1297
+// Doodads: D60M (Pozo Martillo Salvaje), Name (Nombre)
+{
+Pozo Martillo Salvaje
+}
+
+STRING 1298
+// Doodads: D61B (Poste Martillo Salvaje), Name (Nombre)
+{
+Poste Martillo Salvaje
+}
+
+STRING 1299
+// Doodads: D61C (Refugio de grifos), Name (Nombre)
+{
+Refugio de grifos
+}
+
+STRING 1300
+// Doodads: D61F (Estandarte mural de Lordaeron), Name (Nombre)
+{
+Estandarte mural de Lordaeron
+}
+
+STRING 1301
+// Doodads: D61G (Estandarte Martillo Salvaje), Name (Nombre)
+{
+Estandarte Martillo Salvaje
+}
+
+STRING 1302
+// Doodads: D000 (Arco de puerta), Name (Nombre)
+{
+Arco de puerta
+}
+
+STRING 1307
+// Doodads: D00X (Tapa de alcantarilla), Name (Nombre)
+{
+Tapa de alcantarilla
+}
+
+STRING 1308
+// Doodads: D006 (Carga), Name (Nombre)
+{
+Carga
+}
+
+STRING 1309
+// Doodads: D007 (Saco de arpillera), Name (Nombre)
+{
+Saco de arpillera
+}
+
+STRING 2523
+{
+Construye más Granjas para continuar la producción de unidades.,Construye más Pocilgas para continuar la producción de unidades.,Invoca más Zigurats para continuar la producción de unidades.,Crea más Pozos Lunares para continuar la producción de unidades.
+}
+
+STRING 2524
+{
+No se puede usar Plataforma petrolera.
+}
+
+STRING 2525
+{
+Ese yacimiento de petróleo ya está siendo utilizado.
+}
+
+STRING 2526
+{
+Debes construir una Plataforma petrolera primero.
+}
+
+STRING 2527
+{
+Debes seleccionar un yacimiento de petróleo.
+}
+
+STRING 2528
+{
+Debes construir sobre un yacimiento de petróleo.
+}
+
+STRING 2529
+{
+Puedes revivir a tu héroe en la Gran Sala.
+}
+
+STRING 2530
+{
+Profano
+}
+
+STRING 2531
+// Destructibles: B60J (Saco de huevos), EditorSuffix (Sufijo de editor)
+{
+(Destructible)
+}
+
+STRING 2532
+// Destructibles: B00S (Puerta de Grim Batol), Name (Nombre)
+{
+Puerta de Grim Batol
+}
+
+STRING 2533
+// Doodads: D008 (Torre de Grim Batol A), Name (Nombre)
+{
+Torre de Grim Batol A
+}
+
+STRING 2534
+// Doodads: D009 (Torre de Grim Batol B), Name (Nombre)
+{
+Torre de Grim Batol B
+}
+
+STRING 2535
+// Doodads: D00A (Torre de Grim Batol C), Name (Nombre)
+{
+Torre de Grim Batol C
+}
+
+STRING 2536
+// Doodads: D00B (Torre de Grim Batol D), Name (Nombre)
+{
+Torre de Grim Batol D
+}
+
+STRING 2537
+// Doodads: D00C (Torre enana A), Name (Nombre)
+{
+Torre enana A
+}
+
+STRING 2538
+// Doodads: D00D (Torre enana B), Name (Nombre)
+{
+Torre enana B
+}
+
+STRING 2539
+// Doodads: D00E (Torre enana C), Name (Nombre)
+{
+Torre enana C
+}
+
+STRING 2540
+// Doodads: D00F (Torre enana D), Name (Nombre)
+{
+Torre enana D
+}
+
+STRING 2547
+// Units: o001 (Salvaje), EditorSuffix (Sufijo de editor)
+{
+(Foso Sangrante)
+}
+
+STRING 2548
+// Units: o001 (Salvaje), Name (Nombre)
+{
+Salvaje
+}
+
+STRING 2549
+// Units: o001 (Salvaje), Tip (Descripción - Básica)
+{
+Entrenar salvaje
+}
+
+STRING 2550
+// Units: njg1 (Bestia del pantano), Name (Nombre)
+{
+Bestia del pantano
+}
+
+STRING 2551
+// Units: njg1 (Bestia del pantano), Tip (Descripción - Básica)
+{
+Invocar bestia del pantano
+}
+
+STRING 2552
+// Units: njgb (Bestia del pantano enfurecida), Name (Nombre)
+{
+Bestia del pantano enfurecida
+}
+
+STRING 2553
+// Units: njgb (Bestia del pantano enfurecida), Tip (Descripción - Básica)
+{
+Invocar bestia del pantano enfurecida
+}
+
+STRING 2554
+// Units: njga (Bestia del pantano enorme), Name (Nombre)
+{
+Bestia del pantano enorme
+}
+
+STRING 2555
+// Units: njga (Bestia del pantano enorme), Tip (Descripción - Básica)
+{
+Invocar bestia del pantano enorme
+}
+
+STRING 2559
+// Units: n00T (Acechador), Name (Nombre)
+{
+Acechador
+}
+
+STRING 2560
+// Units: n00T (Acechador), Tip (Descripción - Básica)
+{
+Entrenar acechador
+}
+
+STRING 2562
+// Units: n00T (Acechador), EditorSuffix (Sufijo de editor)
+{
+(Foso Sangrante)
+}
+
+STRING 2564
+// Units: o002 (Esclavo), EditorSuffix (Sufijo de editor)
+{
+(Foso Sangrante)
+}
+
+STRING 2565
+// Units: o002 (Esclavo), Name (Nombre)
+{
+Esclavo
+}
+
+STRING 2566
+// Units: o002 (Esclavo), Tip (Descripción - Básica)
+{
+Entrenar esclavo
+}
+
+STRING 2567
+// Units: h006 (Soldado raso), EditorSuffix (Sufijo de editor)
+{
+(Stromgarde)
+}
+
+STRING 2568
+// Units: h007 (Caballero), EditorSuffix (Sufijo de editor)
+{
+(Stromgarde)
+}
+
+STRING 2569
+// Units: h008 (Capitán), EditorSuffix (Sufijo de editor)
+{
+(Stromgarde)
+}
+
+STRING 2571
+// Doodads: D00H (Estructura de Los Humedales 01), Name (Nombre)
+{
+Estructura de Los Humedales 01
+}
+
+STRING 2572
+// Doodads: D00W (Estructura de Los Humedales 02), Name (Nombre)
+{
+Estructura de Los Humedales 02
+}
+
+STRING 2573
+// Doodads: D00J (Estructura de Los Humedales 09), Name (Nombre)
+{
+Estructura de Los Humedales 09
+}
+
+STRING 2574
+// Doodads: D00K (Estructura de Los Humedales 10), Name (Nombre)
+{
+Estructura de Los Humedales 10
+}
+
+STRING 2575
+// Doodads: D00L (Columna de Los Humedales), Name (Nombre)
+{
+Columna de Los Humedales
+}
+
+STRING 2576
+// Doodads: D00M (Columna de Los Humedales destruida), Name (Nombre)
+{
+Columna de Los Humedales destruida
+}
+
+STRING 2587
+// Units: n00U (Eagle), Name (Name)
+{
+Águila
+}
+
+STRING 2588
+// Destructibles: B00T (Bridgelog small), Name (Name)
+{
+Tronco de puente pequeño
+}
+
+STRING 2738
+// Units: n00V (The Beast), Name (Name)
+{
+La Bestia
+}
+
+STRING 2628
+// Units: ncpn (Forlorn Spirit), Name (Name)
+{
+Espíritu desolado
+}
+
+STRING 2636
+// Units: n00W (Angwe), Name (Name)
+{
+Angwe
+}
+
+STRING 2660
+// Destructibles: B00V (WETLAND), Name (Name)
+{
+LOS HUMEDALES
+}
+
+STRING 2694
+// Items: I00A (Stranglekelp), Name (Name)
+{
+Alga estranguladora
+}
+
+STRING 2695
+// Items: I00A (Stranglekelp), Tip (Tooltip - Basic)
+{
+Comprar alga estranguladora
+}
+
+STRING 2716
+// Units: n00Y (Ma's Ghost), Name (Name)
+{
+Fantasma de Ma
+}
+
+STRING 2717
+// Units: n00Z (Quijahorror Jr), Name (Name)
+{
+Quijahorror Jr
+}
+
+STRING 2718
+// Items: I00A (Stranglekelp), Ubertip (Tooltip - Extended)
+{
+Restaura 5 puntos de maná.
+
+El alga estranguladora es una hierba que puede ser recolectada por aquellos con herboristería. Se encuentra principalmente bajo el agua en zonas costeras.
+}
+
+STRING 2719
+// Items: I00A (Stranglekelp), Description (Description)
+{
+Restaura 50 de maná.
+Una planta usada en alquimia.
+}
+
+STRING 2723
+// Units: e002 (Vengefull spirit), Name (Name)
+{
+Espíritu vengativo
+}
+
+STRING 2725
+{
+Clan Roca Negra
+}
+
+STRING 2727
+{
+Clan Diente Negro
+}
+
+STRING 2728
+{
+Clan Faucedraco
+}
+
+STRING 2729
+{
+Clan Foso Sangrante
+}
+
+STRING 2730
+// Units: n011 (Ma's Grave), Name (Name)
+{
+Tumba de Ma
+}
+
+STRING 2731
+// Destructibles: B00X (Railroad tilted), Name (Name)
+{
+Vía férrea inclinada
+}
+
+STRING 2732
+// Destructibles: B00Y (Cavern), Name (Name)
+{
+Caverna
+}
+
+STRING 2736
+// Destructibles: B00Z (WETLAND_LIGHTS), Name (Name)
+{
+LUCES DE LOS HUMEDALES
+}
+
+STRING 2739
+// Destructibles: B010 (Pathing Blocker (Ground) (Large Tall)), Name (Name)
+{
+Bloqueador de pathing (tierra) (alto grande)
+}
+
+STRING 2740
+// Destructibles: B011 (Pathing Blocker (Ground) (Large Tall)), Name (Name)
+{
+Bloqueador de pathing (tierra) (alto grande)
+}
+
+STRING 2741
+// Destructibles: B012 (Pathing Blocker (Ground) (Large Tall)), Name (Name)
+{
+Bloqueador de pathing (tierra) (alto grande)
+}
+
+STRING 2742
+// Destructibles: B013 (Pathing Blocker (Ground) (Large Fat)), Name (Name)
+{
+Bloqueador de pathing (tierra) (ancho grande)
+}
+
+STRING 2812
+// Units: Nfir (Elemental), Name (Name)
+{
+Elemental
+}
+
+STRING 2901
+// Units: Nfir (Elemental), Propernames (Proper Names)
+{
+Elemental de fuego
+}
+
+STRING 2905
+// Destructibles: B61C (Stromgarde Banner), Name (Name)
+{
+Estandarte de Stromgarde
+}
+
+STRING 2911
+// Destructibles: B000 (Wetland Canopy Tree), Name (Name)
+{
+Árbol del dosel de Los Humedales
+}
+
+STRING 2912
+{
+|cffffcc00MISIÓN FALLIDA|r
+}
+
+STRING 2913
+{
+Clan Diente Negro
+}
+
+STRING 2922
+{
+|cffff0000ADVERTENCIA|r 
+Has elegido el camino norte. No puedes ir al sur ahora.
+}
+
+STRING 2924
+{
+Elige el camino
+}
+
+STRING 2925
+{
+Ir a la izquierda
+}
+
+STRING 2926
+{
+Ir a la derecha
+}
+
+STRING 3038
+{
+|cffffcc00Truco activado|r
+}
+
+STRING 3041
+{
+|cffffcc00MISIÓN PRINCIPAL FALLIDA|r
+Llegaste tarde, el sol ha salido y Cho'gall no alcanzó el campamento.
+}
+
+STRING 3042
+{
+|cffffcc00MISIÓN PRINCIPAL FALLIDA|r
+Utok ha muerto.
+}
+
+STRING 3043
+{
+|cffffcc00MISIÓN PRINCIPAL FALLIDA|r
+Tu héroe ha muerto.
+}
+
+STRING 3069
+// Destructibles: B001 (Jungle Beast Doodad), Name (Name)
+{
+Doodad de bestia de la jungla
+}
+
+STRING 3071
+// Destructibles: B002 (Jungle Beast Doodad), Name (Name)
+{
+Doodad de bestia de la jungla
+}
+
+STRING 3073
+// Destructibles: B003 (Jungle Beast Doodad), Name (Name)
+{
+Doodad de bestia de la jungla
+}
+
+STRING 3077
+// Destructibles: B004 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3078
+// Destructibles: B004 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Aldeano masculino)
+}
+
+STRING 3079
+// Destructibles: B005 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3080
+// Destructibles: B005 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Caballo de carga)
+}
+
+STRING 3081
+// Destructibles: B006 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3082
+// Destructibles: B006 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Bruto Diente Negro)
+}
+
+STRING 3083
+// Destructibles: B007 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3084
+// Destructibles: B007 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Soldado de Stromgarde)
+}
+
+STRING 3085
+// Destructibles: B008 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3086
+// Destructibles: B008 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Capitán de Stromgarde)
+}
+
+STRING 3087
+// Destructibles: B009 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3088
+// Destructibles: B009 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Arquero de Stromgarde)
+}
+
+STRING 3142
+// Items: I00B (Tome of War), Name (Name)
+{
+Tomo de Guerra
+}
+
+STRING 3143
+// Items: I00B (Tome of War), Tip (Tooltip - Basic)
+{
+Comprar Tomo de Guerra
+}
+
+STRING 3144
+// Items: I00B (Tome of War), Ubertip (Tooltip - Extended)
+{
+Incrementa la maestría con armas de tus unidades.
+}
+
+STRING 3145
+// Items: I00B (Tome of War), Description (Description)
+{
+Mejora la maestría con armas.
+}
+
+STRING 3148
+// Destructibles: B00B (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3149
+// Destructibles: B00B (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Fusilero)
+}
+
+STRING 3150
+// Destructibles: B00C (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3151
+// Destructibles: B00C (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Montaraz)
+}
+
+STRING 3152
+// Destructibles: B00L (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3153
+// Destructibles: B00L (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Salvaje)
+}
+
+STRING 3158
+{
+Clan Filo Ardiente
+}
+
+STRING 3164
+// Destructibles: B00R (Cilyndrical Ramp), Name (Name)
+{
+Rampa cilíndrica
+}
+
+STRING 3165
+// Units: h00A (Visibility Controller), Name (Name)
+{
+Controlador de visibilidad
+}
+
+STRING 3183
+// Destructibles: B014 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3184
+// Destructibles: B014 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Aldeana femenina)
+}
+
+STRING 3185
+// Destructibles: B015 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3186
+// Destructibles: B015 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Aldeana femenina descompuesta)
+}
+
+STRING 3190
+{
+|cffff0000ADVERTENCIA|r 
+Has elegido el camino sur. No puedes ir al norte ahora.
+}
+
+STRING 3191
+// Destructibles: B016 (Dead Body), Name (Name)
+{
+Cadáver
+}
+
+STRING 3192
+// Destructibles: B016 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Balista)
+}
+
+STRING 3309
+// Units: O616 (Chieftain), Propernames (Proper Names)
+{
+Kilrogg Mortojo
+}
+
+STRING 3316
+// Units: O616 (Chieftain), Awakentip (Tooltip - Awaken)
+{
+Revivir al Jefe
+}
+
+STRING 3317
+// Units: O616 (Chieftain), Revivetip (Tooltip - Revive)
+{
+Revivir al Jefe
+}
+
+STRING 3318
+// Units: O616 (Chieftain), Name (Name)
+{
+Jefe
+}
+
+STRING 3339
+{
+|cffd47832TRASFONDO|r
+Cho'gall es un poderoso ogro mago, Iniciado del Quinto Círculo del Consejo de la Sombra y Jefe del clan Martillo Crepuscular. Fue perdonado de la ejecución junto a su maestro Gul'dan y ahora debe demostrar su valía a la Horda.
+}
+
+STRING 3341
+{
+|cffd47832TRASFONDO|r
+Como consecuencia de la Segunda Guerra, Los Humedales se han convertido en un despiadado campo de batalla, con los enanos de Forjaz y sus aliados de Stromgarde luchando sin tregua contra los clanes Foso Sangrante y Filo Ardiente.
+}
+
+STRING 3432
+{
+Zuluhed
+}
+
+STRING 3433
+{
+Hmm...
+}
+
+STRING 3434
+{
+|cff87ceebREFUERZOS|r
+Los |cff008000salvajes|r del Foso Sangrante vinieron de las tierras salvajes de la Jungla de Tanaan en Draenor. Pueden |cffff0000comer cadáveres|r para recuperar salud después del combate.
+}
+
+STRING 3435
+{
+|cff87ceebREFUERZOS|r
+Los |cff008000acechadores|r del Foso Sangrante son unidades a distancia, entrenados para cazar en las peligrosas junglas de Tanaan.
+Tienen |cff00ff00lanzas envenenadas|r que intoxican a sus enemigos.
+}
+
+STRING 3479
+// Units: ndrj (Slime), Name (Name)
+{
+Limo
+}
+
+STRING 3499
+{
+Clan Martillo Crepuscular
+}
+
+STRING 3500
+{
+Clan Diente Negro
+}
+
+STRING 3501
+// Units: n00T (Stalker), Ubertip (Tooltip - Extended)
+{
+Unidad a distancia media que lanza lanzas. |n|n|cffffcc00Ataca unidades terrestres y aéreas.|r
+}
+
+STRING 3507
+// Units: O616 (Chieftain), Tip (Tooltip - Basic)
+{
+Jefe
+}
+
+STRING 3514
+{
+|cffffcc00SECRETO ENCONTRADO|r
+Misión secreta desbloqueada.
+}
+
+STRING 3518
+// Units: Nfir (Elemental), Awakentip (Tooltip - Awaken)
+{
+Revivir elemental
+}
+
+STRING 3519
+// Units: Nfir (Elemental), Tip (Tooltip - Basic)
+{
+Invocar elemental
+}
+
+STRING 3520
+// Units: Nfir (Elemental), Revivetip (Tooltip - Revive)
+{
+Revivir elemental
+}
+
+STRING 3529
+// Units: o001 (Savage), Ubertip (Tooltip - Extended)
+{
+Guerrero orco brutal.
+Habilidades: Canibalismo - Saqueo
+
+|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 3531
+{
+Cho'gall
+}
+
+STRING 3532
+{
+Al poderoso ogro-mago Cho'gall se le ha encomendado la tarea de inspeccionar las instalaciones petroleras de la Horda en Khaz Modan. Llévalo al campamento del Foso Sangrante antes del amanecer.
+}
+
+STRING 3533
+{
+Escolta a Cho'gall al campamento antes del amanecer
+}
+
+STRING 3534
+{
+Cho'gall debe sobrevivir
+}
+
+STRING 3535
+{
+Zuluhed debe sobrevivir
+}
+
+STRING 3538
+{
+EL SOL SALE A LAS 6 AM.
+}
+
+STRING 3539
+{
+Hora actual (en horas):
+}
+
+STRING 3540
+{
+Hora actual:
+}
+
+STRING 3541
+{
+|cffffcc00MISIÓN PRINCIPAL|r 
+Cho'gall
+  - Escolta a Cho'gall al campamento antes del amanecer
+  - Cho'gall debe sobrevivir
+  - Zuluhed debe sobrevivir
+}
+
+STRING 3542
+{
+|cffffcc00MISIÓN PRINCIPAL|r 
+Cho'gall
+  - Escolta a Cho'gall al campamento antes del amanecer
+  - Cho'gall debe sobrevivir
+  - Zuluhed debe sobrevivir
+  - Utok debe sobrevivir
+}
+
+STRING 3549
+{
+|cffd47832TRASFONDO|r
+Los Humedales son una vasta y fría región pantanosa al norte de Forjaz. Nieblas cubren el suelo, y el cielo nublado da a la tierra un tono gris uniforme. Muchas fortalezas de Forjaz se alzaron en esta región, pero la guerra las ha reducido a escombros. La tierra es peligrosa y está llena de animales salvajes que acechan a viajeros desprevenidos.
+}
+
+STRING 3551
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Cho'gall
+}
+
+STRING 3552
+{
+|c0000FF00Observa el reloj, ya pasó la mitad de la noche.|r
+}
+
+STRING 3554
+{
+|c00FF7F00¡Se te acaba el tiempo! ¡El sol saldrá en dos horas!|r
+}
+
+STRING 3556
+{
+|c00FF7F00¡Se te acaba el tiempo! ¡El sol saldrá en una hora!|r
+}
+
+STRING 3558
+{
+|c00FF7F00¡Se te acaba el tiempo! ¡El amanecer es en media hora!|r
+}
+
+STRING 3560
+{
+|cffff0000¡Se te acaba el tiempo! ¡El sol está a punto de salir!|r
+}
+
+STRING 3564
+{
+|cffffcc00MISIÓN PRINCIPAL|r 
+Grim Batol
+- Llega a Grim Batol.
+}
+
+STRING 3565
+{
+Grim Batol
+}
+
+STRING 3566
+{
+Sigue a Kilrogg Mortojo y llega a la puerta de Grim Batol para entrar a las Tierras Altas.
+}
+
+STRING 3567
+{
+Llega a Grim Batol
+}
+
+STRING 3568
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Grim Batol
+}
+
+STRING 3575
+{
+Prisioneros
+}
+
+STRING 3576
+{
+Los humanos han capturado a algunos de nuestros hermanos. Mata a los pieles rosadas y libera a nuestros guerreros.  
+}
+
+STRING 3577
+{
+Libera 4 prisioneros
+}
+
+STRING 3578
+{
+Libera 6 prisioneros
+}
+
+STRING 3579
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Prisioneros
+  - Libera 6 prisioneros
+}
+
+STRING 3582
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+Prisioneros
+}
+
+STRING 3583
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Prisioneros
+  - Libera a 4 prisioneros
+}
+
+STRING 3587
+{
+|cffffcc00MISIÓN OPCIONAL|r
+La Bestia
+  - Elimina a la Bestia
+}
+
+STRING 3591
+{
+Regresa con el Salvaje
+}
+
+STRING 3592
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN OPCIONAL|r
+La Bestia
+  - |cff808080Elimina a la Bestia (Completado)|r
+  - Regresa con el Salvaje
+}
+
+STRING 3593
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+La Bestia
+|cff808080- Elimina a la Bestia. (Completado).|r
+|cff808080- Regresa por tu recompensa. (Completado).|r
+}
+
+STRING 3594
+{
+|cff32cd32PISTA|r
+El Tomo de Guerra mejoró la maestría en combate de tus unidades. Ahora tienen nivel 1 en mejoras de ataque y defensa.
+}
+
+STRING 3595
+{
+|cff8080ffNUEVO HÉROE|r
+Cho'gall es un poderoso ogro mago, Iniciado del Quinto Círculo del Consejo de la Sombra y Jefe de Guerra del clan Martillo Crepuscular. Fue perdonado de la ejecución junto a su maestro Gul'dan y ahora debe demostrar su valía ante la Horda.
+}
+
+STRING 3596
+{
+|cffd47832HISTORIA|r
+Caóticos e impredecibles, los Filo Ardiente son una hermandad de orcos dementes cuyo único objetivo es arrasar y saquear sin importarles su propia seguridad.
+}
+
+STRING 3597
+{
+|cffd47832HISTORIA|r
+El clan Foso Sangrante, bajo el astuto liderazgo de su jefe Kilrogg Ojo Muerto, ha alcanzado estatus legendario por su participación en la destrucción de Ventormenta. Desde entonces, ha sido clave en la ocupación de la Horda de las tierras enanas y gnomos de Khaz Modan.
+}
+
+STRING 3601
+{
+La Bestia
+}
+
+STRING 3602
+{
+La Bestia del Pantano ha matado a muchos orcos del Foso Sangrante en la zona. Encuentra la manera de deshacerte de la criatura.
+}
+
+STRING 3603
+{
+Deshazte de la Bestia
+}
+
+STRING 3606
+{
+Orcos restantes por rescatar:
+}
+
+STRING 3607
+{
+Zuluhed
+}
+
+STRING 3610
+{
+No me agradan las tierras húmedas, Utok. Primero fue Tanaan, luego La Ciénaga Negra y ahora... este lugar.
+}
+
+STRING 3611
+{
+WC2Orc06Zuluhed1
+}
+
+STRING 3612
+{
+Zuluhed
+}
+
+STRING 3613
+{
+Sí. Estos pantanos embotados adormecen mis sentidos... pero debo continuar. Dime, ¿cómo un orco joven como tú terminó practicando los caminos de los chamanes?
+}
+
+STRING 3614
+{
+WC2Orc06Zuluhed2
+}
+
+STRING 3615
+{
+Zuluhed
+}
+
+STRING 3616
+{
+Lo que nos ha pasado es... lamentable. Espero que Orgrim nos lleve a la victoria y nos ayude a construir un futuro lejos de los demonios y su vil corrupción.
+}
+
+STRING 3617
+{
+WC2Orc06Zuluhed3
+}
+
+STRING 3618
+{
+Zuluhed
+}
+
+STRING 3619
+{
+Sugiero que nos centremos en la tarea. ¿Hay noticias sobre el "enviado especial" que debemos proteger?
+}
+
+STRING 3620
+{
+WC2Orc06Zuluhed4
+}
+
+STRING 3621
+{
+Zuluhed
+}
+
+STRING 3622
+{
+¡¿Cho'gall?! ¿Él es el enviado? Nunca imaginé que Martillo Maldito me insultaría haciéndome escoltar a la mascota traidora de Gul'dan.
+}
+
+STRING 3623
+{
+WC2Orc06Zuluhed5
+}
+
+STRING 3624
+{
+Zuluhed
+}
+
+STRING 3625
+{
+Saludos, Cho'gall... veo que tu clan ya no sigue nuestras tradiciones. Su armadura es extraña y su actitud parece... perturbada.
+}
+
+STRING 3626
+{
+WC2Orc06Zuluhed6
+}
+
+STRING 3627
+{
+Zuluhed
+}
+
+STRING 3628
+{
+Que los espíritus me den paciencia... Terminemos con esto...
+}
+
+STRING 3629
+{
+WC2Orc06Zuluhed7
+}
+
+STRING 3630
+{
+Zuluhed
+}
+
+STRING 3631
+{
+El velo de la noche nos ayudará a pasar desapercibidos, pero debemos llegar a Grim Batol antes del amanecer. Avancemos.
+}
+
+STRING 3632
+{
+WC2Orc06Zuluhed8
+}
+
+STRING 3633
+{
+Zuluhed
+}
+
+STRING 3634
+{
+Yo también lo siento, Kilrogg... Me gustaría investigar esto, pero no hay tiempo. Cho'gall, ¿estás listo para continuar?
+}
+
+STRING 3635
+{
+WC2Orc06Zuluhed9
+}
+
+STRING 3636
+{
+Zuluhed
+}
+
+STRING 3637
+{
+No estás solo, Kilrogg. Sentí poderes extraños en él... ni fuego vil ni arcanos... algo más...
+}
+
+STRING 3638
+{
+WC2Orc06Zuluhed10
+}
+
+STRING 3639
+{
+Zuluhed
+}
+
+STRING 3641
+{
+WC2Orc06Zuluhed11
+}
+
+STRING 3642
+{
+Zuluhed
+}
+
+STRING 3643
+{
+Y yo... tengo un misterio que resolver...
+}
+
+STRING 3644
+{
+WC2Orc06Zuluhed12
+}
+
+STRING 3645
+{
+Zuluhed
+}
+
+STRING 3646
+{
+Sería encantador destruir a la Alianza con sus propias armas...
+}
+
+STRING 3647
+{
+WC2Orc06Zuluhed_AllianceCatapult1
+}
+
+STRING 3648
+{
+Zuluhed
+}
+
+STRING 3649
+{
+Ah, por fin hemos llegado...
+}
+
+STRING 3650
+{
+WC2Orc06Zuluhed_BHollowLastCamp1
+}
+
+STRING 3651
+{
+Zuluhed
+}
+
+STRING 3652
+{
+Realmente necesitas una lección de modales... ogro.
+}
+
+STRING 3653
+{
+WC2Orc06Zuluhed_BHollowLastCamp2
+}
+
+STRING 3654
+{
+Zuluhed
+}
+
+STRING 3655
+{
+¡Throm'ka, guerreros! Veo que muchos están heridos.
+}
+
+STRING 3656
+{
+WC2Orc06Zuluhed_BHollowMinicamp1
+}
+
+STRING 3657
+{
+Zuluhed
+}
+
+STRING 3658
+{
+Muy bien, guerrero. No dejaremos que nuestros hermanos pudran en jaulas de la Alianza.
+}
+
+STRING 3659
+{
+WC2Orc06Zuluhed_BHollowMinicamp2
+}
+
+STRING 3660
+{
+Zuluhed
+}
+
+STRING 3661
+{
+Estos puentes no fueron hechos para ogros. Debemos tener cuidado.
+}
+
+STRING 3662
+{
+WC2Orc06Zuluhed_BrokenBridge1
+}
+
+STRING 3663
+{
+Zuluhed
+}
+
+STRING 3664
+{
+El camino se divide. Debemos elegir una ruta a Grim Batol sin separarnos.
+}
+
+STRING 3665
+{
+WC2Orc06Zuluhed_ChooseWay1
+}
+
+STRING 3666
+{
+Zuluhed
+}
+
+STRING 3667
+{
+Ambos caminos son peligrosos, pero no podemos esperar.
+}
+
+STRING 3668
+{
+WC2Orc06Zuluhed_ChooseWay2
+}
+
+STRING 3669
+{
+Zuluhed
+}
+
+STRING 3670
+{
+Descansa, joven sangre. ¿Qué te ocurrió?
+}
+
+STRING 3671
+{
+WC2Orc06Zuluhed_CrocoliskQuest1
+}
+
+STRING 3672
+{
+Zuluhed
+}
+
+STRING 3673
+{
+Ahí estás... No eres un demonio, solo una criatura defendiendo su territorio... pero las vidas que tomaste no quedarán sin venganza.
+}
+
+STRING 3674
+{
+WC2Orc06Zuluhed_CrocoliskQuest2
+}
+
+STRING 3675
+{
+Zuluhed
+}
+
+STRING 3676
+{
+¿Qué debo hacer? ¿Curarte y dejarte en paz o vengar a mis hermanos? ¿Qué piden los espíritus?
+}
+
+STRING 3677
+{
+WC2Orc06Zuluhed_CrocoliskQuest3
+}
+
+STRING 3678
+{
+Zuluhed
+}
+
+STRING 3679
+{
+La bestia no te molestará más, joven sangre. Descansa y únete a nosotros cuando puedas.
+}
+
+STRING 3680
+{
+WC2Orc06Zuluhed_CrocoliskQuest4
+}
+
+STRING 3681
+{
+Zuluhed
+}
+
+STRING 3682
+{
+Te llevaremos con tu jefe, guerrero.
+}
+
+STRING 3683
+{
+WC2Orc06Zuluhed_CrocoliskQuest5
+}
+
+STRING 3684
+{
+Zuluhed
+}
+
+STRING 3685
+{
+¡Otra parte de la figura! Estas deben ser las alas de un dragón. Si presiono aquí... ¡Listo! ¡Está armado!
+}
+
+STRING 3686
+{
+WC2Orc06Zuluhed_Figurine1
+}
+
+STRING 3687
+{
+Zuluhed
+}
+
+STRING 3688
+{
+¡Un espíritu! ¿Qué te ocurrió? ¿Por qué rondas este lugar?
+}
+
+STRING 3689
+{
+WC2Orc06Zuluhed_ForlornSpirit1
+}
+
+STRING 3690
+{
+Zuluhed
+}
+
+STRING 3691
+{
+Destino cruel... Si liberamos a tus amigos, ¿encontrarás paz?
+}
+
+STRING 3692
+{
+WC2Orc06Zuluhed_ForlornSpirit2
+}
+
+STRING 3693
+{
+Zuluhed
+}
+
+STRING 3694
+{
+Quien hizo este campamento estaba ocupado desenterrando artefactos de esta antigua fortaleza.
+}
+
+STRING 3695
+{
+WC2Orc06Zuluhed_RuinsTopLeft1
+}
+
+STRING 3696
+{
+Zuluhed
+}
+
+STRING 3697
+{
+Estas ruinas son muy antiguas. El estilo de estos enanos rivaliza con los draenei y los ogros de Goria.
+}
+
+STRING 3698
+{
+WC2Orc06Zuluhed_RuinsTopRight1
+}
+
+STRING 3699
+{
+Zuluhed
+}
+
+STRING 3700
+{
+Descansa en paz, alma atormentada...
+}
+
+STRING 3701
+{
+WC2Orc06Zuluhed_TormentedSoul1
+}
+
+STRING 3702
+{
+Utok el Arañador
+}
+
+STRING 3703
+{
+¿Qué ocurre, Jefe? Pareces disgustado.
+}
+
+STRING 3704
+{
+WC2Orc06Utok1
+}
+
+STRING 3705
+{
+Utok el Arañador
+}
+
+STRING 3706
+{
+Como era de esperar de un orco nacido en las áridas tierras de Gorgrond.
+}
+
+STRING 3707
+{
+WC2Orc06Utok2
+}
+
+STRING 3708
+{
+Utok el Arañador
+}
+
+STRING 3709
+{
+Desde que Martillo Maldito derrocó al Consejo de la Sombra, quise abrazar las viejas tradiciones. Odio lo que Gul'dan y su corrupción demoníaca hicieron a nuestra raza.
+}
+
+STRING 3710
+{
+WC2Orc06Utok3
+}
+
+STRING 3711
+{
+Utok el Arañador
+}
+
+STRING 3712
+{
+No, el mensajero no dio más detalles. Lo sabremos pronto.
+}
+
+STRING 3713
+{
+WC2Orc06Utok4
+}
+
+STRING 3714
+{
+Utok el Arañador
+}
+
+STRING 3715
+{
+A mí también me sorprende, Zuluhed. Confía en la sabiduría de nuestro Jefe de Guerra. Te eligió porque eres el líder más confiable en Khaz Modan.
+}
+
+STRING 3716
+{
+WC2Orc06Utok5
+}
+
+STRING 3717
+{
+Utok el Arañador
+}
+
+STRING 3718
+{
+¡Jefes, calma! ¡Estamos del mismo lado!
+}
+
+STRING 3719
+{
+WC2Orc06Utok6
+}
+
+STRING 3720
+{
+Utok el Arañador
+}
+
+STRING 3721
+{
+Como digas... ¿Qué nos puedes contar de tu misión?
+}
+
+STRING 3722
+{
+WC2Orc06Utok7
+}
+
+STRING 3723
+{
+Utok el Arañador
+}
+
+STRING 3724
+{
+Impresionante... que estos enanos construyan tal arquitectura.
+}
+
+STRING 3725
+{
+WC2Orc06Utok8
+}
+
+STRING 3726
+{
+Utok el Arañador
+}
+
+STRING 3727
+{
+Jefes, ahora que terminamos, debo regresar a Maim. Necesitaré uno de tus zepelines, Kilrogg.
+}
+
+STRING 3728
+{
+WC2Orc06Utok9
+}
+
+STRING 3729
+{
+Utok el Arañador
+}
+
+STRING 3730
+{
+¡Emboscada! ¡Mátenlos a todos!
+}
+
+STRING 3731
+{
+WC2Orc06Utok_Ambush1
+}
+
+STRING 3732
+{
+Utok el Arañador
+}
+
+STRING 3733
+{
+Maldición... necesitábamos esas catapultas.
+}
+
+STRING 3734
+{
+WC2Orc06Utok_BrokenBridge1
+}
+
+STRING 3735
+{
+Utok el Arañador
+}
+
+STRING 3736
+{
+El amanecer se acerca... debemos decidir rápido.
+}
+
+STRING 3737
+{
+WC2Orc06Utok_ChooseWay1
+}
+
+STRING 3738
+{
+Utok el Arañador
+}
+
+STRING 3739
+{
+¿Qué son esos?!
+}
+
+STRING 3740
+{
+WC2Orc06Utok_ChooseWay2
+}
+
+STRING 3741
+{
+Angwe
+}
+
+STRING 3742
+{
+Si ves escoria de la Alianza, avísame...
+}
+
+STRING 3743
+{
+WC2Orc06Angwee_EasterEgg1
+}
+
+STRING 3744
+{
+Fanático
+}
+
+STRING 3745
+{
+¡Qué insolencia! ¿Quieres que le corte la lengua, Jefe Cho'gall?
+}
+
+STRING 3746
+{
+WC2Orc06THammerGrunt1
+}
+
+STRING 3747
+{
+Salvaje
+}
+
+STRING 3748
+{
+¡Ven, escoria! No encontrarás... ¿eh? ¿Jefe Zuluhed? ¿Cómo es posible?
+}
+
+STRING 3749
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest1
+}
+
+STRING 3750
+{
+Salvaje
+}
+
+STRING 3751
+{
+Luchábamos contra enanos cuando una bestia gigante apareció y masacró a todos.
+}
+
+STRING 3752
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest2a
+}
+
+STRING 3753
+{
+Salvaje
+}
+
+STRING 3754
+{
+Era más grande que cualquier basilisco de Draenor, con escamas blancas y duras como roca...
+}
+
+STRING 3755
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest2b
+}
+
+STRING 3756
+{
+Salvaje
+}
+
+STRING 3757
+{
+Sus dientes eran dagas. Fui el único sobreviviente... ¡Venga a nuestros hermanos!
+}
+
+STRING 3758
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest2c
+}
+
+STRING 3759
+{
+Salvaje
+}
+
+STRING 3760
+{
+Gracias, Jefe. Acepta este obsequio.
+}
+
+STRING 3761
+{
+WC2Orc06BHollowGrunt_CrocoliskQuest3
+}
+
+STRING 3762
+{
+Salvaje
+}
+
+STRING 3763
+{
+¡Zuluhed el Loco! ¡Qué alegría verte! Hoy es un gran día para la Horda. ¡Matamos a esos humanos débiles! Luego iremos por los enanos...
+}
+
+STRING 3764
+{
+WC2Orc06BHollowGrunt_FinalCamp1
+}
+
+STRING 3765
+{
+Salvaje
+}
+
+STRING 3766
+{
+¡Zuluhed el Loco! ¡Matamos a esos enanos cobardes! Luego iremos por los humanos...
+}
+
+STRING 3767
+{
+WC2Orc06BHollowGrunt_FinalCamp1a
+}
+
+STRING 3768
+{
+Salvaje
+}
+
+STRING 3769
+{
+¡Saludos, Jefes! ¡Los esperábamos!
+}
+
+STRING 3770
+{
+WC2Orc06BHollowGrunt_FirstQuest1
+}
+
+STRING 3771
+{
+Salvaje
+}
+
+STRING 3772
+{
+Llevamos semanas luchando contra humanos y enanos. Nuestros números disminuyen. ¡Si nos ayudas, nos uniremos a ti!
+}
+
+STRING 3773
+{
+WC2Orc06BHollowGrunt_FirstQuest2
+}
+
+STRING 3774
+{
+Salvaje
+}
+
+STRING 3775
+{
+¡Lok'tar Ogar! El Jefe Kilrogg se alegrará de tu ayuda.
+}
+
+STRING 3776
+{
+WC2Orc06BHollowGrunt_FirstQuest3
+}
+
+STRING 3777
+{
+Salvaje
+}
+
+STRING 3779
+{
+WC2Orc06BHollowGrunt_Free1
+}
+
+STRING 3780
+{
+Salvaje
+}
+
+STRING 3781
+{
+¡Ah, es bueno ser libre!
+}
+
+STRING 3782
+{
+WC2Orc06BHollowGrunt_Free2
+}
+
+STRING 3783
+{
+Salvaje
+}
+
+STRING 3784
+{
+Estábamos superados... muchos lucharon con honor, pero capturaron a otros. Gracias por salvarnos.
+}
+
+STRING 3785
+{
+WC2Orc06BHollowGrunt_Outnumbered1
+}
+
+STRING 3787
+{
+Salvaje
+}
+
+STRING 3788
+{
+Estamos a tus órdenes.
+}
+
+STRING 3789
+{
+Afligido
+}
+
+STRING 3790
+{
+Zuluhed... huí... nos atacaron, nos encadenaron... y huí sin liberar a mis hermanos. Fallé.
+}
+
+STRING 3791
+{
+WC2Orc06ForlornSpirit1
+}
+
+STRING 3792
+{
+Afligido
+}
+
+STRING 3793
+{
+Sí... sería... por favor, libéralos...
+}
+
+STRING 3794
+{
+WC2Orc06ForlornSpirit2
+}
+
+STRING 3795
+{
+Kilrogg Ojo Muerto
+}
+
+STRING 3796
+{
+¡Ah, Jefe Zuluhed! Es un placer recibir a un viejo guerrero. Te esperábamos.
+}
+
+STRING 3797
+{
+WC2Orc06Kilrogg_EnterCamp1
+}
+
+STRING 3798
+{
+Kilrogg Ojo Muerto
+}
+
+STRING 3799
+{
+Como digas, bruto... sígueme. La ciudad enana de Grim Batol está arriba.
+}
+
+STRING 3800
+{
+WC2Orc06Kilrogg_EnterCamp2
+}
+
+STRING 3801
+{
+Kilrogg Ojo Muerto
+}
+
+STRING 3802
+{
+Este lugar parece maldito... mis guerreros no se atrevieron a entrar.
+}
+
+STRING 3803
+{
+WC2Orc06Kilrogg1
+}
+
+STRING 3804
+{
+Kilrogg Ojo Muerto
+}
+
+STRING 3805
+{
+No entiendo qué ve Martillo Maldito en ese hechicero... no confío en él.
+}
+
+STRING 3806
+{
+WC2Orc06Kilrogg2
+}
+
+STRING 3807
+{
+Kilrogg Ojo Muerto
+}
+
+STRING 3808
+{
+Por supuesto, joven chamán. Puedes quedártelo.
+}
+
+STRING 3809
+{
+WC2Orc06Kilrogg3
+}
+
+STRING 3810
+{
+Capitán
+}
+
+STRING 3811
+{
+¡Hombres! ¡Nos atacan! ¡Destruyan a estos monstruos en nombre de nuestro rey! ¡Por Stromgarde! ¡Por Trollbane!
+}
+
+STRING 3812
+{
+WC2Orc06Knight_StromgardeCamp1
+}
+
+STRING 3813
+{
+Fantasma Enano
+}
+
+STRING 3814
+{
+¡Por los Hierro Negro!
+}
+
+STRING 3815
+{
+WC2Orc06DironCaptain_encounter1
+}
+
+STRING 3816
+{
+Enano
+}
+
+STRING 3817
+{
+¡Los pieles verdes volvieron! ¡Luchen por sus vidas!
+}
+
+STRING 3818
+{
+WC2Orc06DwarfKnight_IronforgeCamp1
+}
+
+STRING 3819
+{
+Soldado
+}
+
+STRING 3820
+{
+¡Los orcos están aquí!
+}
+
+STRING 3821
+{
+WC2Orc06Footman_StromgardeCamp1
+}
+
+STRING 3822
+{
+Cho'gall
+}
+
+STRING 3823
+{
+|cffffcc00Cho:|r Saludos. Los esperábamos, pequeños orcos. |n|cffffcc00Gall:|r ¡Y les tomó su tiempo! ¡Llevamos días pudriéndonos en este pantano!
+}
+
+STRING 3824
+{
+WC2Orc06Chogall1
+}
+
+STRING 3825
+{
+Cho'gall
+}
+
+STRING 3826
+{
+|cffffcc00Cho:|r No... no será necesario, ¡pero el incrédulo mejoraría sus palabras! ¡Juramos lealtad al Jefe de Guerra como cualquier clan! |n|cffffcc00Gall:|r ¿A menos que quieras insistir? Martillo Maldito no estaría contento si ponen en riesgo la unidad de la Horda...
+}
+
+STRING 3827
+{
+WC2Orc06Chogall2
+}
+
+STRING 3828
+{
+Cho'gall
+}
+
+STRING 3829
+{
+|cffffcc00Cho:|r ¡Sí! No hay tiempo para esto. |n|cffffcc00Gall:|r ¡Todos somos "amigos" y soldados del Jefe de Guerra!
+}
+
+STRING 3830
+{
+WC2Orc06Chogall3
+}
+
+STRING 3831
+{
+Cho'gall
+}
+
+STRING 3832
+{
+|cffffcc00Cho:|r Debemos cruzar estos pantanos hacia Grim Batol. El Foso Sangrante nos espera. Luego inspeccionaremos las refinerías de petróleo.
+}
+
+STRING 3833
+{
+WC2Orc06Chogall4
+}
+
+STRING 3834
+{
+Cho'gall
+}
+
+STRING 3835
+{
+|cffffcc00Gall:|r Pero hay un problema: humanos y enanos merodean en gran número. No tenemos tiempo para atacarlos directamente.
+}
+
+STRING 3836
+{
+WC2Orc06Chogall5
+}
+
+STRING 3837
+{
+Cho'gall
+}
+
+STRING 3838
+{
+|cffffcc00Cho:|r Las refinerías deben cumplir sus cuotas, o el Jefe de Guerra nos cortará la cabeza. |n|cffffcc00Gall:|r ¡Y todos volveremos al vacío!
+}
+
+STRING 3839
+{
+WC2Orc06Chogall6
+}
+
+STRING 3840
+{
+Cho'gall
+}
+
+STRING 3841
+{
+|cffffcc00Cho:|r ¿Los enanos? ¡JA! ¡Ya los matamos a todos! |n|cffffcc00Gall:|r ¡El vacío los devoró!
+}
+
+STRING 3842
+{
+WC2Orc06Chogall_BHollowCamp1
+}
+
+STRING 3843
+{
+Cho'gall
+}
+
+STRING 3844
+{
+|cffffcc00Cho:|r ¡JA! ¡Ya los matamos a todos! |n|cffffcc00Gall:|r ¡El vacío los devoró!
+}
+
+STRING 3845
+{
+WC2Orc06Chogall_BHollowCamp1a
+}
+
+STRING 3846
+{
+Cho'gall
+}
+
+STRING 3847
+{
+|cffffcc00Cho:|r ¡Dices que nos esperaban, viejo orco! ¡El Jefe de Guerra nos dio esta misión a NOSOTROS!
+}
+
+STRING 3848
+{
+WC2Orc06Chogall_BHollowCamp2
+}
+
+STRING 3849
+{
+Cho'gall
+}
+
+STRING 3850
+{
+|cffffcc00Cho:|r ¡Maldito pantano! ¡Sáquennos de aquí, hermano!
+}
+
+STRING 3851
+{
+WC2Orc06Chogall_BrokenBridge1
+}
+
+STRING 3852
+{
+Cho'gall
+}
+
+STRING 3853
+{
+|cffffcc00Cho:|r ¡Mucho mejor!
+}
+
+STRING 3854
+{
+WC2Orc06Chogall_BrokenBridge2
+}
+
+STRING 3855
+{
+Cho'gall
+}
+
+STRING 3856
+{
+|cffffcc00Gall:|r ¡Ja-ja-ja-ja! |n|cffffcc00Cho:|r No temas, pequeño orco. Este hechizo se llama "Ojo de Kilrogg". Los ritualistas del Foso Sangrante lo practicaban. Nosotros lo perfeccionamos... y nos mostrará el camino.
+}
+
+STRING 3857
+{
+WC2Orc06Chogall_Crosspath1
+}
+
+STRING 3858
+{
+Cho'gall
+}
+
+STRING 3859
+{
+|cffffcc00Gall:|r El camino derecho lleva a un campamento de enanos veteranos. No creo que les agrademos.
+}
+
+STRING 3860
+{
+WC2Orc06Chogall_Crosspath2
+}
+
+STRING 3861
+{
+Cho'gall
+}
+
+STRING 3862
+{
+|cffffcc00Cho:|r Si vamos a la izquierda, enfrentaremos tropas de Stromgarde. Sus flechas son peligrosas.
+}
+
+STRING 3863
+{
+WC2Orc06Chogall_Crosspath3
+}
+
+STRING 3864
+{
+Cho'gall
+}
+
+STRING 3865
+{
+|cffffcc00Cho:|r ¡Gran victoria para la Horda! ¡El Jefe de Guerra estará contento! ¡Matamos a tantos! |cffffcc00Gall:|r ¡SÍ... LO HICIMOS!
+}
+
+STRING 3866
+{
+WC2Orc06Chogall_Stromgarde_Ironforge1
+}
+
+STRING 3867
+{
+Fantasma
+}
+
+STRING 3868
+{
+Cho'gall
+}
+
+STRING 3869
+{
+|cffffcc00Cho:|r ¡Bah! ¡Estos humanos son una molestia! |cffffcc00Gall:|r ¡SÍ! ¡Sus almas deben ser devoradas!
+}
+
+STRING 3870
+{
+WC2Orc06Chogall_Ambush1
+}
+
+STRING 3872
+{
+Orco
+}
+
+STRING 3873
+{
+¡Throm'ka, Jefe! Gracias por tu ayuda.
+}
+
+STRING 3874
+{
+Me quedaré un tiempo, Kilrogg. Mis viejos huesos necesitan descansar.
+}
+
+STRING 3875
+{
+Torre de Defensa
+}
+
+STRING 3876
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 3877
+{
+|cffffcc00Truco Desactivado|r
+}
+
+STRING 3878
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 3879
+{
+|cffffcc00Truco Desactivado|r
+}
+

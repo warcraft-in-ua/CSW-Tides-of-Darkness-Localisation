@@ -1,0 +1,3321 @@
+﻿STRING 1
+{
+WC2Orc08S
+}
+
+STRING 2
+{
+El Capítulo Perdido II: Tierras del Interior
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 8
+{
+Nación de Lordaeron
+}
+
+STRING 9
+{
+Tribu Corteza Vil
+}
+
+STRING 10
+{
+Aldeanos Martillo Salvaje
+}
+
+STRING 11
+{
+Altos Elfos
+}
+
+STRING 12
+{
+Tribu Secacorteza
+}
+
+STRING 13
+{
+Horda
+}
+
+STRING 14
+{
+Alianza
+}
+
+STRING 20
+// Units: negf (Torre de furia terrenal), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 21
+// Units: negm (Torre de furia celestial), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 24
+// Units: hgra (Nido de grifos), Ubertip (Tooltip - Extended)
+{
+Aumenta el suministro de maná y salud, el poder de ataque y la regeneración de maná de los magos, y les enseña el hechizo 'Invisibilidad'.
+}
+
+STRING 25
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Mago Élfico
+}
+
+STRING 26
+// Units: nchp (Magistrate), Name (Name)
+{
+Magistrado
+}
+
+STRING 27
+// Destructibles: B004 (Cage), Name (Name)
+{
+Jaula
+}
+
+STRING 67
+// Units: e601 (Ballista), Name (Name)
+{
+Balista
+}
+
+STRING 102
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Humano)
+}
+
+STRING 123
+// Units: n604 (Axe Thrower), Name (Name)
+{
+Lanzahachas
+}
+
+STRING 124
+// Units: n604 (Axe Thrower), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 125
+// Units: n604 (Axe Thrower), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 126
+// Units: n604 (Axe Thrower), Tip (Tooltip - Basic)
+{
+Entrenar Lanzahachas
+}
+
+STRING 127
+// Units: n604 (Axe Thrower), Ubertip (Tooltip - Extended)
+{
+Unidad ligera a distancia. |n|n|cffffcc00Ataca a unidades terrestres y aéreas.|r
+}
+
+STRING 136
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Construir Cañón
+}
+
+STRING 137
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Cañón de gran alcance y potencia, pero lento y vulnerable.|n|n|cffffcc00Ataca objetivos terrestres (incluidos árboles).|r
+}
+
+STRING 162
+// Units: n60C (Scout Post), Name (Name)
+{
+Puesto de Exploradores
+}
+
+STRING 163
+// Units: n60C (Scout Post), Tip (Tooltip - Basic)
+{
+Puesto de Exploradores
+}
+
+STRING 164
+// Units: n60C (Scout Post), Description (Description)
+{
+Puesto de Exploradores Orco
+}
+
+STRING 221
+// Units: o60A (Wildhammer Catapult), Name (Name)
+{
+Catapulta Martillo Salvaje
+}
+
+STRING 222
+// Units: o60A (Wildhammer Catapult), Tip (Tooltip - Basic)
+{
+Construir Catapulta
+}
+
+STRING 261
+// Units: h626 (Watch Tower), Ubertip (Tooltip - Extended)
+{
+Estructura defensiva principal. |n|n|cffffcc00Ataca a unidades terrestres y aéreas.|r
+}
+
+STRING 431
+// Units: n60V (Duck), Name (Name)
+{
+Pato
+}
+
+STRING 432
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Solo un ánade real
+}
+
+STRING 433
+// Units: h61K (Judicator), Name (Name)
+{
+Juez
+}
+
+STRING 434
+// Units: h61K (Judicator), Tip (Tooltip - Basic)
+{
+Entrenar Juez
+}
+
+STRING 435
+// Units: h61N (Aviary), EditorSuffix (Name - Editor Suffix)
+{
+(Alto Elfo)
+}
+
+STRING 436
+// Units: h003 (Engineer), EditorSuffix (Name - Editor Suffix)
+{
+(Alto Elfo)
+}
+
+STRING 437
+// Units: h61N (Aviary), Name (Name)
+{
+Aviario
+}
+
+STRING 441
+// Units: o61I (Torre de vigilancia), EditorSuffix (Name - Editor Suffix)
+{
+(Trol)
+}
+
+STRING 442
+// Units: o61J (Recinto de los espíritus), EditorSuffix (Name - Editor Suffix)
+{
+(Trol)
+}
+
+STRING 443
+// Units: o61K (Voodoo Altar), Name (Name)
+{
+Altar Vudú
+}
+
+STRING 444
+// Units: o61L (Cuartel), EditorSuffix (Name - Editor Suffix)
+{
+(Trol)
+}
+
+STRING 449
+// Units: h61R (Orcish Stone Wall), Name (Name)
+{
+Muro de Piedra Orco
+}
+
+STRING 461
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Muro de Púas
+}
+
+STRING 462
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Muro de Púas
+}
+
+STRING 471
+// Units: h620 (Tent), Name (Name)
+{
+Tienda
+}
+
+STRING 472
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tienda
+}
+
+STRING 473
+// Units: h621 (Tent), Name (Name)
+{
+Tienda
+}
+
+STRING 474
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tienda
+}
+
+STRING 475
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Mejora)
+}
+
+STRING 524
+// Units: n60Q (Beastlair), Name (Name)
+{
+Guarida de Bestias
+}
+
+STRING 525
+// Units: n60Q (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Los Baldíos SE)
+}
+
+STRING 526
+// Units: n610 (Beastlair), Name (Name)
+{
+Guarida de Bestias
+}
+
+STRING 527
+// Units: n610 (Beastlair), EditorSuffix (Name - Editor Suffix)
+{
+ (Los Baldíos SO)
+}
+
+STRING 529
+// Units: h60F (Human Cannon), Name (Name)
+{
+Cañón Humano
+}
+
+STRING 544
+// Units: n60Y (Raven), Name (Name)
+{
+Cuervo
+}
+
+STRING 553
+// Units: n60Z (Spiders), Name (Name)
+{
+Arañas
+}
+
+STRING 554
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Arañas
+}
+
+STRING 555
+// Units: h60T (Clansman), Name (Name)
+{
+Clanario
+}
+
+STRING 556
+// Units: h60T (Clansman), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 557
+// Units: h60T (Clansman), Tip (Tooltip - Basic)
+{
+Entrenar Clanario
+}
+
+STRING 558
+// Units: h60T (Clansman), Ubertip (Tooltip - Extended)
+{
+Soldado de a pie versátil. |n|n|cffffcc00Ataca a unidades terrestres.|r
+}
+
+STRING 566
+// Units: h61I (Stonemason), Name (Name)
+{
+Cantero
+}
+
+STRING 567
+// Units: h61I (Stonemason), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 568
+// Units: h61I (Stonemason), Tip (Tooltip - Basic)
+{
+Entrenar Cantero
+}
+
+STRING 569
+// Units: h61I (Stonemason), Ubertip (Tooltip - Extended)
+{
+Unidad trabajadora básica. Puede recolectar oro y madera, construir estructuras y reparar. |n|n|cffffcc00Ataca a unidades terrestres y árboles.|r
+}
+
+STRING 574
+// Units: e60G (Hermit), Name (Name)
+{
+Ermitaño
+}
+
+STRING 575
+// Units: e60G (Hermit), EditorSuffix (Name - Editor Suffix)
+{
+ (Forma Enana)
+}
+
+STRING 576
+// Units: e60G (Hermit), Tip (Tooltip - Basic)
+{
+Entrenar Ermitaño
+}
+
+STRING 577
+// Units: e60H (Wildhammer Druid), Name (Name)
+{
+Druida Martillo Salvaje
+}
+
+STRING 578
+// Units: e60H (Wildhammer Druid), EditorSuffix (Name - Editor Suffix)
+{
+ (Forma de Lechucono)
+}
+
+STRING 579
+// Units: e60K (Stormcaller), Name (Name)
+{
+Clamatormentas
+}
+
+STRING 580
+// Units: e60K (Stormcaller), Tip (Tooltip - Basic)
+{
+Entrenar Clamatormentas
+}
+
+STRING 581
+// Units: e60K (Stormcaller), Ubertip (Tooltip - Extended)
+{
+Lanzador de hechizos maniobrable. Puede lanzar inicialmente Fuego Feérico, que reduce la armadura y da visión de una unidad enemiga. También puede aprender Monzón y Ciclón. |n|n|cffffcc00Ataca a unidades terrestres y aéreas.|r
+}
+
+STRING 582
+// Units: e60K (Stormcaller), Casterupgradetip (Caster Upgrade Tips)
+{
+- Fuego Feérico,- Fuego Feérico|n- Monzón,- Fuego Feérico|n- Monzón|n- Ciclón
+}
+
+STRING 595
+// Units: n007 (Wolf), Name (Name)
+{
+Lobo
+}
+
+STRING 623
+// Units: h61V (Thane), Name (Name)
+{
+Thane
+}
+
+STRING 624
+// Units: h61V (Thane), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 649
+// Units: h618 (Pack Ram), Name (Name)
+{
+Carnero de Carga
+}
+
+STRING 650
+// Units: n61O (Wild Ram), Name (Name)
+{
+Carnero Salvaje
+}
+
+STRING 651
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gris)
+}
+
+STRING 652
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invocar Carnero
+}
+
+STRING 653
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Carnero Salvaje. ¡Puede ser peligroso!
+}
+
+STRING 654
+// Units: n61P (Wild Ram), Name (Name)
+{
+Carnero Salvaje
+}
+
+STRING 655
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Negro)
+}
+
+STRING 656
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invocar Carnero
+}
+
+STRING 657
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Carnero Salvaje. ¡Puede ser peligroso!
+}
+
+STRING 658
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Carnero Salvaje
+}
+
+STRING 659
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Marrón)
+}
+
+STRING 660
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Invocar Carnero
+}
+
+STRING 661
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Carnero Salvaje. ¡Puede ser peligroso!
+}
+
+STRING 676
+// Units: h60A (Longhouse), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 677
+// Units: h60A (Longhouse), Name (Name)
+{
+Casa Larga
+}
+
+STRING 678
+// Units: h60A (Longhouse), Tip (Tooltip - Basic)
+{
+Construir Casa Larga
+}
+
+STRING 679
+// Units: h60A (Longhouse), Ubertip (Tooltip - Extended)
+{
+Edificio principal de producción de tropas. Entrena Clanarios, Lanzahachas y Catapultas.
+}
+
+STRING 680
+// Units: h61L (Aserradero), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 681
+// Units: h61M (Forge), Name (Name)
+{
+Forja
+}
+
+STRING 682
+// Units: h624 (Forge), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 683
+// Units: h626 (Watch Tower), Name (Name)
+{
+Torre de Vigilancia
+}
+
+STRING 685
+// Units: h626 (Watch Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 686
+// Units: h626 (Watch Tower), Tip (Tooltip - Basic)
+{
+Construir Torre de Vigilancia
+}
+
+STRING 687
+// Units: h629 (Hinterlands Den), Name (Name)
+{
+Cubil de las Tierras del Interior
+}
+
+STRING 688
+// Units: h629 (Hinterlands Den), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 689
+// Units: h629 (Hinterlands Den), Tip (Tooltip - Basic)
+{
+Construir Cubil de las Tierras del Interior
+}
+
+STRING 690
+// Units: h62B (Mead Hall), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 691
+// Units: h62A (Cottage), Name (Name)
+{
+Cabaña
+}
+
+STRING 692
+// Units: h62A (Cottage), Tip (Tooltip - Basic)
+{
+Construir Cabaña
+}
+
+STRING 693
+// Units: h62C (Highland Manor), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 694
+// Units: h62B (Mead Hall), Name (Name)
+{
+Sala de Hidromiel
+}
+
+STRING 695
+// Units: h62B (Mead Hall), Tip (Tooltip - Basic)
+{
+Construir Sala de Hidromiel
+}
+
+STRING 696
+// Units: h62G (Aerie Keep), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 697
+// Units: h62C (Highland Manor), Name (Name)
+{
+Mansión de las Tierras Altas
+}
+
+STRING 698
+// Units: h62C (Highland Manor), Tip (Tooltip - Basic)
+{
+Mejorar a Mansión de las Tierras Altas
+}
+
+STRING 699
+// Units: h62C (Highland Manor), Ubertip (Tooltip - Extended)
+{
+Mejora a Mansión de las Tierras Altas para permitir la producción de tipos adicionales de estructuras y unidades.
+}
+
+STRING 700
+// Units: n61N (Cottage), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 701
+// Units: h62G (Aerie Keep), Name (Name)
+{
+Fortaleza del Nidal
+}
+
+STRING 702
+// Units: h62G (Aerie Keep), Tip (Tooltip - Basic)
+{
+Mejorar a Fortaleza del Nidal
+}
+
+STRING 703
+// Units: h62G (Aerie Keep), Ubertip (Tooltip - Extended)
+{
+Mejora a Fortaleza del Nidal para permitir la producción de tipos adicionales de estructuras y unidades.
+}
+
+STRING 704
+// Units: n61N (Cottage), Name (Name)
+{
+Cabaña
+}
+
+STRING 705
+// Units: n61R (Tavern), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje)
+}
+
+STRING 706
+// Units: n61R (Tavern), Name (Name)
+{
+Taberna
+}
+
+STRING 708
+// Units: n61S (Amanishi Guardian), Name (Name)
+{
+Guardián Amanishi
+}
+
+STRING 709
+// Units: n61S (Amanishi Guardian), Tip (Tooltip - Basic)
+{
+Contratar Guardián Amanishi
+}
+
+STRING 722
+// Units: n61T (Gryphon), Name (Name)
+{
+Grifo
+}
+
+STRING 723
+// Units: n61T (Gryphon), Tip (Tooltip - Basic)
+{
+Invocar Grifo
+}
+
+STRING 724
+// Units: n61T (Gryphon), EditorSuffix (Name - Editor Suffix)
+{
+(sin jinete)
+}
+
+STRING 795
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Barril de Petróleo
+}
+
+STRING 816
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Muelle
+}
+
+STRING 817
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Champiñones
+}
+
+STRING 818
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barril de Petróleo
+}
+
+STRING 819
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 825
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 827
+// Destructibles: B60J (Vines), Name (Name)
+{
+Enredaderas
+}
+
+STRING 830
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Caverna
+}
+
+STRING 831
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Muro de Piedra
+}
+
+STRING 835
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(Sin Ruta)
+}
+
+STRING 836
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Ráfaga de Fuego
+}
+
+STRING 837
+// Destructibles: B617 (Fire), Name (Name)
+{
+Fuego
+}
+
+STRING 854
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Tumba Antigua
+}
+
+STRING 856
+// Destructibles: B62T (Egg), Name (Name)
+{
+Huevo
+}
+
+STRING 861
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Acantilados
+}
+
+STRING 862
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Rampa)
+}
+
+STRING 865
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Acantilados
+}
+
+STRING 868
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Decorativo)
+}
+
+STRING 878
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+Plantador de Árboles
+}
+
+STRING 879
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Arbusto de Invierno Frondoso
+}
+
+STRING 880
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Árbol Invernal Caído
+}
+
+STRING 881
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Árbol Invernal Caído
+}
+
+STRING 884
+// Destructibles: B60U (Chest), Name (Name)
+{
+Cofre
+}
+
+STRING 885
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Alijo de Madera
+}
+
+STRING 886
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Oro (Inactivo)
+}
+
+STRING 887
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Oro (Activo)
+}
+
+STRING 888
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Estandarte de la Alianza
+}
+
+STRING 889
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Viga de Soporte
+}
+
+STRING 890
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Cinemática Orco
+}
+
+STRING 894
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Arbustos
+}
+
+STRING 899
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Lápida Orca
+}
+
+STRING 900
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Escombros
+}
+
+STRING 901
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Tela de Araña
+}
+
+STRING 903
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Arbusto de Invierno Frondoso
+}
+
+STRING 904
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variaciones)
+}
+
+STRING 931
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+Base de Acantilado A
+}
+
+STRING 932
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+Base de Acantilado B
+}
+
+STRING 933
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+Base de Acantilado C
+}
+
+STRING 934
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+Base de Acantilado D
+}
+
+STRING 935
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+Acantilado Oscuro
+}
+
+STRING 936
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Frondavil)
+}
+
+STRING 937
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+Acantilado Oscuro Pequeño
+}
+
+STRING 938
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Frondavil)
+}
+
+STRING 947
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+Acantilado Estival
+}
+
+STRING 948
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+Acantilado Estival Pequeño
+}
+
+STRING 949
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+Acantilado de Los Humedales
+}
+
+STRING 950
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+Acantilado de Los Humedales
+}
+
+STRING 951
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Pequeño)
+}
+
+STRING 952
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+Acantilado Invernal
+}
+
+STRING 953
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+Acantilado Invernal
+}
+
+STRING 954
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Pequeño)
+}
+
+STRING 955
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+Acantilado Nevado Invernal
+}
+
+STRING 970
+// Doodads: D60D (Circle Of Power WC2), Name (Name)
+{
+Círculo de Poder WC2
+}
+
+STRING 971
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Torre Cuadrada
+}
+
+STRING 979
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Hierba Alta
+}
+
+STRING 983
+// Doodads: D647 (Vines Poisoned), Name (Name)
+{
+Enredaderas Envenenadas
+}
+
+STRING 987
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Arbustos Animados
+}
+
+STRING 988
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Arbusto Invernal A
+}
+
+STRING 989
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Tela Animada
+}
+
+STRING 995
+// Doodads: D69B (Cloud), Name (Name)
+{
+Nube
+}
+
+STRING 1000
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Hojas Estrelladas
+}
+
+STRING 1012
+// Doodads: D6AC (Glow), Name (Name)
+{
+Resplandor
+}
+
+STRING 1013
+// Doodads: D6AD (Fog), Name (Name)
+{
+Niebla
+}
+
+STRING 1018
+// Doodads: D6AL (Wasteland Bush), Name (Name)
+{
+Arbusto de Tierra Baldía
+}
+
+STRING 1036
+// Doodads: D6BL (Gold), Name (Name)
+{
+Oro
+}
+
+STRING 1042
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Resplandor Pequeño
+}
+
+STRING 1046
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Círculo de Poder
+}
+
+STRING 1049
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Raíces
+}
+
+STRING 1050
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Caldero (Sin Ruta)
+}
+
+STRING 1051
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brasero (Sin Ruta)
+}
+
+STRING 1056
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Salpicadura de Sangre 01
+}
+
+STRING 1057
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Salpicadura de Sangre 02
+}
+
+STRING 1058
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Salpicadura de Sangre 03
+}
+
+STRING 1059
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Salpicadura de Sangre 04
+}
+
+STRING 1060
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Salpicadura de Sangre 05
+}
+
+STRING 1061
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Salpicadura de Sangre 06
+}
+
+STRING 1096
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Resplandor Rojo Pequeño
+}
+
+STRING 1098
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Trigo
+}
+
+STRING 1100
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Cajón Invernal con Nieve
+}
+
+STRING 1104
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Arbusto Invernal 4
+}
+
+STRING 1105
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Escombros de Piedra Invernal 1
+}
+
+STRING 1126
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Agujas Rocosas de Lordaeron
+}
+
+STRING 1127
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Aguja Rocosa Nevada
+}
+
+STRING 1134
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Estandarte del Clan Roca Negra
+}
+
+STRING 1135
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Soporte para Armadura Orco
+}
+
+STRING 1136
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Soporte para Armas Orco
+}
+
+STRING 1137
+// Doodads: D60N (FireWoods), Name (Name)
+{
+Leña
+}
+
+STRING 1150
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Montaña01
+}
+
+STRING 1151
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Montaña02
+}
+
+STRING 1152
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Montaña03
+}
+
+STRING 1153
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Montaña04
+}
+
+STRING 1154
+// Doodads: D60M (Wildhammer Well), Name (Name)
+{
+Pozo Martillo Salvaje
+}
+
+STRING 1155
+// Doodads: D61B (Wildhammer Post), Name (Name)
+{
+Puesto Martillo Salvaje
+}
+
+STRING 1156
+// Doodads: D61C (Gryphon Shed), Name (Name)
+{
+Refugio de Grifos
+}
+
+STRING 1158
+// Doodads: D61G (Wildhammer Banner), Name (Name)
+{
+Estandarte Martillo Salvaje
+}
+
+STRING 1908
+// Abilities: A600 (Beast Form), Name (Name)
+{
+Forma Bestial
+}
+
+STRING 1909
+// Abilities: A600 (Beast Form), Tip (Tooltip - Normal)
+{
+Forma Bestial
+}
+
+STRING 1910
+// Abilities: A600 (Beast Form), Ubertip (Tooltip - Normal - Extended)
+{
+Transforma al Druida en un Lechucono, ralentizando la regeneración de maná, pero convirtiéndolo en un excelente guerrero.
+}
+
+STRING 1911
+// Abilities: A600 (Beast Form), Unubertip (Tooltip - Turn Off - Extended)
+{
+Transforma al Druida de nuevo a su forma enana.
+}
+
+STRING 2341
+{
+Construye más Granjas para continuar la producción de unidades.,Construye más Granja de Cerdos para continuar la producción de unidades.,Invoca más Zigurats para continuar la producción de unidades.,Crea más Pozos de la Luna para continuar la producción de unidades.
+}
+
+STRING 2342
+{
+No se puede usar Plataforma Petrolífera.
+}
+
+STRING 2343
+{
+Ese Yacimiento de Petróleo ya está en uso.
+}
+
+STRING 2344
+{
+Debes construir una Plataforma Petrolífera primero.
+}
+
+STRING 2345
+{
+Debe seleccionar un Yacimiento de Petróleo.
+}
+
+STRING 2346
+{
+Debe construirse sobre un Yacimiento de Petróleo.
+}
+
+STRING 2347
+{
+Puedes Revivir a tu héroe en la Gran Casa.
+}
+
+STRING 2348
+// Destructibles: B000 (Fence short), Name (Name)
+{
+Valla Corta
+}
+
+STRING 2349
+// Destructibles: B001 (Fence short), Name (Name)
+{
+Valla Corta
+}
+
+STRING 2350
+// Destructibles: B002 (Fence), Name (Name)
+{
+Valla
+}
+
+STRING 2351
+// Destructibles: B003 (Fence), Name (Name)
+{
+Valla
+}
+
+STRING 2353
+// Destructibles: B005 (Huge PB (both)), Name (Name)
+{
+PB Enorme (ambos)
+}
+
+STRING 2354
+// Destructibles: B006 (Huge PB (Ground)), Name (Name)
+{
+PB Enorme (Tierra)
+}
+
+STRING 2355
+// Destructibles: B007 (medium PB (ground)), Name (Name)
+{
+PB Mediano (tierra)
+}
+
+STRING 2356
+{
+Clan Roca Negra
+}
+
+STRING 2357
+{
+Clan Martillo Salvaje
+}
+
+STRING 2358
+{
+Colonos Martillo Salvaje
+}
+
+STRING 2359
+// Destructibles: B008 (Huge PB (Ground)), Name (Name)
+{
+PB Enorme (Tierra)
+}
+
+STRING 2360
+// Destructibles: B009 (Huge PB (Ground)), Name (Name)
+{
+PB Enorme (Tierra)
+}
+
+STRING 2361
+// Doodads: D000 (Elven Wall), Name (Name)
+{
+Muro Élfico
+}
+
+STRING 2362
+// Doodads: D001 (Elven Wall), Name (Name)
+{
+Muro Élfico
+}
+
+STRING 2363
+// Doodads: D002 (Elven Wall (light)), Name (Name)
+{
+Muro Élfico (ligero)
+}
+
+STRING 2364
+// Doodads: D003 (Rock Archway), Name (Name)
+{
+Arco de Roca
+}
+
+STRING 2365
+// Doodads: D004 (Elven Wall (light)), Name (Name)
+{
+Muro Élfico (ligero)
+}
+
+STRING 2366
+// Doodads: D005 (Elven Wall (light)), Name (Name)
+{
+Muro Élfico (ligero)
+}
+
+STRING 2367
+// Doodads: D006 (Fearies), Name (Name)
+{
+Hadas
+}
+
+STRING 2368
+// Doodads: D007 (Elven Statue), Name (Name)
+{
+Estatua Élfica
+}
+
+STRING 2434
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN PRINCIPAL|r
+Tierra Quemada
+  -|cff808080 Destruir los Asentamientos Martillo Salvaje (Completado)|r
+  -|cff808080 Terminar antes de que llegue la Alianza (Completado)|r
+  - Preparar defensas contra la Alianza
+}
+
+STRING 2444
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Estofado de Tercer Dedo
+}
+
+STRING 2445
+{
+Prisionero Roca Negra
+}
+
+STRING 2503
+// Units: n006 (Barracks), EditorSuffix (Name - Editor Suffix)
+{
+(Especial)
+}
+
+STRING 2504
+// Units: h003 (Engineer), Name (Name)
+{
+Ingeniero
+}
+
+STRING 2534
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Escoria Élfica
+  - Destruye el Refugio de Quel'Danil
+}
+
+STRING 2544
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+Erradicación
+}
+
+STRING 2552
+{
+|cffffcc00MISIÓN OPCIONAL|r
+¡Más Dedos para la Olla!
+  - Reúne a los trols restantes (0 de 2 Reunidos)
+}
+
+STRING 2554
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN OPCIONAL|r
+¡Más Dedos para la Olla!
+  - Reúne a los trols restantes (1 de 2 Reunidos)
+}
+
+STRING 2557
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+¡Más Dedos para la Olla!
+}
+
+STRING 2559
+// Units: n60W (Troll Farm), Name (Name)
+{
+Granja Trol
+}
+
+STRING 2560
+// Units: n60X (Troll Farm), Name (Name)
+{
+Granja Trol
+}
+
+STRING 2612
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Orco de Hierro
+}
+
+STRING 2616
+{
+|cffffcc00MISIÓN PRINCIPAL FALLADA|r
+Estofado de Tercer Dedo
+}
+
+STRING 2625
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Erradicación
+  - Destruye el Puesto de Conocimiento Enano
+}
+
+STRING 2637
+{
+|cffffcc00MISIÓN OPCIONAL FALLADA|r
+¡Más dedos para la olla!
+}
+
+STRING 2653
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN PRINCIPAL|r
+Orco de Hierro
+  -|cff808080 Detener a la Alianza hasta que Orgrim y Zul'jin regresen a la base (Completado)|r
+  - Tu campamento principal no debe ser destruido
+  - Detener a la Alianza hasta que los Goblins destruyan el paso
+}
+
+STRING 2658
+{
+Detener a la Alianza hasta que los Goblins destruyan el paso
+}
+
+STRING 2659
+{
+¡Mantén la línea hasta que tu escape esté asegurado!
+}
+
+STRING 2661
+// Units: h62A (Cottage), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Salvaje Pequeño)
+}
+
+STRING 2673
+// Destructibles: B00A (Rock Chunks Rubble), Name (Name)
+{
+Escombros de Trozos de Roca
+}
+
+STRING 2678
+{
+|cffffcc00MISIÓN FALLADA|r
+}
+
+STRING 2680
+{
+|cffffcc00MISIÓN PRINCIPAL FALLADA|r
+¡Tu base principal ha sido destruida!
+}
+
+STRING 2681
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 2682
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 2683
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 2684
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 2685
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 2687
+// Units: n007 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Martillo Maldito)
+}
+
+STRING 2709
+// Units: htow (Villa), Name (Name)
+{
+Villa
+}
+
+STRING 2711
+// Units: hkee (Chateau), Name (Name)
+{
+Château
+}
+
+STRING 2712
+// Units: hkee (Chateau), Tip (Tooltip - Basic)
+{
+Mejorar a Château
+}
+
+STRING 2713
+// Units: hcas (Palace), Name (Name)
+{
+Palacio
+}
+
+STRING 2714
+// Units: hcas (Palace), Tip (Tooltip - Basic)
+{
+Mejorar a Palacio
+}
+
+STRING 2715
+// Units: nefm (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2716
+// Units: nef4 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2717
+// Units: nef0 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2718
+// Units: nef1 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2719
+// Units: nef2 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2720
+// Units: nef3 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2721
+// Units: nef5 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2722
+// Units: nef6 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2723
+// Units: nef7 (High Elven Manor), Name (Name)
+{
+Mansión de Altos Elfos
+}
+
+STRING 2724
+// Units: edob (Quel'Danil Lodge), Name (Name)
+{
+Refugio de Quel'Danil
+}
+
+STRING 2725
+// Units: edob (Quel'Danil Lodge), Tip (Tooltip - Basic)
+{
+Construir Refugio de Quel'Danil
+}
+
+STRING 2726
+// Destructibles: B00B (Snowpile Flat), Name (Name)
+{
+Montón de Nieve Plano
+}
+
+STRING 2728
+// Units: h004 (Tent), Name (Name)
+{
+Tienda
+}
+
+STRING 2729
+// Units: h004 (Tent), Tip (Tooltip - Basic)
+{
+Tienda
+}
+
+STRING 2730
+// Units: h004 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Mejora Sin Ruta)
+}
+
+STRING 2731
+// Units: h005 (Tent), Name (Name)
+{
+Tienda
+}
+
+STRING 2732
+// Units: h005 (Tent), Tip (Tooltip - Basic)
+{
+Tienda
+}
+
+STRING 2733
+// Units: h005 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Sin Ruta)
+}
+
+STRING 2737
+{
+Destruir Asentamientos Martillo Salvaje
+}
+
+STRING 2740
+{
+Reunir Campamentos Trol
+}
+
+STRING 2742
+{
+Reúne a los trols restantes (1 de 2 Reunidos)
+}
+
+STRING 2743
+// Units: n008 (Trol del bosque trampero), EditorSuffix (Name - Editor Suffix)
+{
+(Séquito)
+}
+
+STRING 2746
+{
+Guerreros Trol
+}
+
+STRING 2761
+{
+|cffffcc00MISIÓN PRINCIPAL FALLADA|r
+¡Tu ejército ha sido derrotado!
+}
+
+STRING 2762
+// Destructibles: B00C (Barrel with Explosives), Name (Name)
+{
+Barril con Explosivos
+}
+
+STRING 2763
+{
+Profano
+}
+
+STRING 2787
+// Units: ntrs (Turtle), Name (Name)
+{
+Tortuga
+}
+
+STRING 2788
+// Units: ntrs (Turtle), Tip (Tooltip - Basic)
+{
+Tortuga Marina
+}
+
+STRING 2789
+// Units: ntrh (Turtle Hatchling), Name (Name)
+{
+Cría de Tortuga
+}
+
+STRING 2790
+// Units: ntrh (Turtle Hatchling), Tip (Tooltip - Basic)
+{
+Contratar Cría de Tortuga
+}
+
+STRING 2814
+{
+Reúne a los trols restantes
+}
+
+STRING 2818
+// Units: h006 (Visibility Controller), Name (Name)
+{
+Controlador de Visibilidad
+}
+
+STRING 2819
+// Units: ocat (Troll Ballista), Name (Name)
+{
+Balista Trol
+}
+
+STRING 2820
+// Units: ocat (Troll Ballista), Tip (Tooltip - Basic)
+{
+Construir Balista Trol
+}
+
+STRING 2821
+// Destructibles: B00D (Railways), Name (Name)
+{
+Vías Férreas
+}
+
+STRING 2822
+// Units: n009 (Eagle), Name (Name)
+{
+Águila
+}
+
+STRING 2930
+{
+Uno
+}
+
+STRING 2931
+// Units: hbot (Fishing Boat), Name (Name)
+{
+Barco Pesquero
+}
+
+STRING 2932
+// Units: hbot (Fishing Boat), Tip (Tooltip - Basic)
+{
+Construir Barco Pesquero
+}
+
+STRING 2943
+{
+Clan Roca Negra
+}
+
+STRING 2952
+{
+Garona
+}
+
+STRING 2953
+{
+Puedo hacer que parezca un accidente...
+}
+
+STRING 2954
+{
+Garona
+}
+
+STRING 2955
+{
+Me encuentro muy demandada por comandantes humanos y hechiceros. ¡Tengo que mantenerme alejada de estos pervertidos raros!
+}
+
+STRING 2956
+{
+Garona
+}
+
+STRING 2957
+{
+Un día tendré verdadera libertad, lejos de orcos, demonios y muerte...
+}
+
+STRING 2958
+{
+Garona
+}
+
+STRING 2959
+{
+Cambié un amo por otro... Al menos este no tiene control mental...
+}
+
+STRING 2960
+// Doodads: D008 (Gryphon Shed (Pathless)), Name (Name)
+{
+Refugio de Grifos (Sin Ruta)
+}
+
+STRING 2961
+{
+Tierra Quemada
+}
+
+STRING 2962
+{
+Anduin Lothar está en marcha y llegará pronto. Si el plan del Jefe de Guerra va a tener éxito, debes obliterar todos los asentamientos enanos de la región antes de que la Alianza pueda reforzarlos.
+}
+
+STRING 2963
+{
+Destruir Asentamientos Martillo Salvaje (0 de 3 Destruidos)
+}
+
+STRING 2964
+{
+Estofado de Tercer Dedo
+}
+
+STRING 2965
+{
+Los guerreros trol de esta región se necesitan en otro lugar. Ayuda a Zul'jin a reunir a tantos como pueda; se necesitarán cuando comience su marcha sobre Lunargenta.
+}
+
+STRING 2966
+{
+Reunir Campamentos Trol (0 de 3 Reunidos)
+}
+
+STRING 2967
+{
+¡Más Dedos para la Olla!
+}
+
+STRING 2968
+{
+¡No se le debe dar a Quel'thalas la más mínima oportunidad! ¡Reúne a todos los trols de la región para que Zul'jin pueda comenzar su embestida desde una posición de fuerza total!
+}
+
+STRING 2969
+{
+Reúne a los trols restantes (0 de 2 Reunidos)
+}
+
+STRING 2970
+{
+Escoria Élfica
+}
+
+STRING 2971
+{
+Destruye el Refugio de Quel'Danil para evitar que las fuerzas élficas amenacen tu misión.
+}
+
+STRING 2972
+{
+Destruye el Refugio de Quel'Danil
+}
+
+STRING 2973
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Tierra Quemada
+  - Destruir Asentamientos Martillo Salvaje (0 de 3 Destruidos)
+  - Terminar antes de que llegue la Alianza
+}
+
+STRING 2975
+{
+Llegada de la Alianza
+}
+
+STRING 2976
+{
+Terminar antes de que llegue la Alianza
+}
+
+STRING 2977
+{
+Erradicación
+}
+
+STRING 2978
+{
+¡Quema todos los registros culturales Enanos!
+}
+
+STRING 2979
+{
+Destruye el Puesto de Conocimiento Enano
+}
+
+STRING 2980
+{
+Terminar antes de que llegue la Alianza
+}
+
+STRING 2981
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Estofado de Tercer Dedo
+  - Reunir Campamentos Trol (0 de 3 Reunidos)
+  - Terminar antes de que llegue la Alianza
+}
+
+STRING 2982
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+Escoria Élfica
+}
+
+STRING 2983
+{
+Orco de Hierro
+}
+
+STRING 2984
+{
+La Alianza ha llegado: ¡mantén tu posición hasta que el Jefe de Guerra y sus guerreros hayan escapado! No des cuartel, no muestres piedad, ¡Lok'tar Ogar!
+}
+
+STRING 2985
+{
+Detener a la Alianza hasta que Orgrim y Zul'jin regresen a la base
+}
+
+STRING 2986
+{
+Tu campamento principal no debe ser destruido
+}
+
+STRING 2987
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Orco de Hierro
+  - Detener a la Alianza hasta que Orgrim y Zul'jin regresen a la base
+  - Tu campamento principal no debe ser destruido
+}
+
+STRING 2988
+{
+Una aldea trol ha sido purgada.
+}
+
+STRING 2989
+{
+Una aldea trol ha sido purgada.
+}
+
+STRING 2990
+{
+Una aldea trol ha sido purgada.
+}
+
+STRING 2991
+{
+Una aldea trol ha sido purgada.
+}
+
+STRING 2992
+{
+Una aldea trol ha sido purgada.
+}
+
+STRING 2993
+{
+Defiende el Paso
+}
+
+STRING 2995
+{
+|cff32cd32PISTA|r
+Ahora tienes el control de Eitrigg en lugar de Martillo Maldito y Zul'jin.
+}
+
+STRING 2996
+{
+|cffffcc00MISIÓN PRINCIPAL FALLADA|r
+Sorpresa en el Asentamiento
+}
+
+STRING 2999
+{
+Preparar defensas contra la Alianza
+}
+
+STRING 3000
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Tierra Quemada
+}
+
+STRING 3004
+// Items: I0L0 (WC2Orc08SDoomhammer1), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3005
+// Items: I0L0 (WC2Orc08SDoomhammer1), Description (Description)
+{
+Bien hecho, Tharbek.
+}
+
+STRING 3006
+// Items: I0L0 (WC2Orc08SDoomhammer1), Name (Name)
+{
+WC2Orc08SDoomhammer1
+}
+
+STRING 3007
+// Items: I0L1 (WC2Orc08SDoomhammer2), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3008
+// Items: I0L1 (WC2Orc08SDoomhammer2), Description (Description)
+{
+Y estoy a punto de hacerlo, Rend, ahora escuchad todos.
+}
+
+STRING 3009
+// Items: I0L1 (WC2Orc08SDoomhammer2), Name (Name)
+{
+WC2Orc08SDoomhammer2
+}
+
+STRING 3010
+// Items: I0L2 (WC2Orc08SDoomhammer3), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3011
+// Items: I0L2 (WC2Orc08SDoomhammer3), Description (Description)
+{
+La Alianza cree que nos hemos retirado de sus insignificantes ciudades del norte para atacar aquí, pero son unos necios que pronto verán el error de sus formas.
+}
+
+STRING 3012
+// Items: I0L2 (WC2Orc08SDoomhammer3), Name (Name)
+{
+WC2Orc08SDoomhammer3
+}
+
+STRING 3013
+// Items: I0L3 (WC2Orc08SDoomhammer4), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3014
+// Items: I0L3 (WC2Orc08SDoomhammer4), Description (Description)
+{
+No seas precipitado, Rend, aquí estamos luchando contra el Clan Martillo Salvaje. Varok me habló de su "ferocidad" cuando aún estábamos invadiendo Khaz Modan.
+}
+
+STRING 3015
+// Items: I0L3 (WC2Orc08SDoomhammer4), Name (Name)
+{
+WC2Orc08SDoomhammer4
+}
+
+STRING 3016
+// Items: I0L4 (WC2Orc08SDoomhammer5), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3017
+// Items: I0L4 (WC2Orc08SDoomhammer5), Description (Description)
+{
+Sin embargo, este asunto no es de tu incumbencia.
+}
+
+STRING 3018
+// Items: I0L4 (WC2Orc08SDoomhammer5), Name (Name)
+{
+WC2Orc08SDoomhammer5
+}
+
+STRING 3019
+// Items: I0L5 (WC2Orc08SDoomhammer6), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3020
+// Items: I0L5 (WC2Orc08SDoomhammer6), Description (Description)
+{
+No, Zul'jin envió un mensaje para preparar un barco para ti al este de aquí. Llévate a Utok contigo y dirígete a la Mano de Tyr, ayuda a tu hermano a destruir esa ciudad.
+}
+
+STRING 3021
+// Items: I0L5 (WC2Orc08SDoomhammer6), Name (Name)
+{
+WC2Orc08SDoomhammer6
+}
+
+STRING 3022
+// Items: I0L6 (WC2Orc08SDoomhammer7), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3023
+// Items: I0L6 (WC2Orc08SDoomhammer7), Description (Description)
+{
+Nunca confiaré en espadas que sirvieron al Concilio de la Sombra o a Gul'dan, ella siempre será una amenaza. Protege el campamento, Eitrigg, mientras nos concentramos en los asentamientos enanos.
+}
+
+STRING 3024
+// Items: I0L6 (WC2Orc08SDoomhammer7), Name (Name)
+{
+WC2Orc08SDoomhammer7
+}
+
+STRING 3025
+// Items: I0L8 (WC2Orc08SDoomhammer8), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3026
+// Items: I0L8 (WC2Orc08SDoomhammer8), Description (Description)
+{
+¡¿Qué?! ¡¿Por qué esta escoria está tan lejos de su hogar?!
+}
+
+STRING 3027
+// Items: I0L8 (WC2Orc08SDoomhammer8), Name (Name)
+{
+WC2Orc08SDoomhammer8
+}
+
+STRING 3028
+// Items: I0L9 (WC2Orc08SDoomhammer10), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3029
+// Items: I0L9 (WC2Orc08SDoomhammer10), Description (Description)
+{
+Hola...viejo amigo.
+}
+
+STRING 3030
+// Items: I0L9 (WC2Orc08SDoomhammer10), Name (Name)
+{
+WC2Orc08SDoomhammer10
+}
+
+STRING 3031
+// Items: I0L7 (WC2Orc08SDoomhammer11), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3032
+// Items: I0L7 (WC2Orc08SDoomhammer11), Description (Description)
+{
+Tú, fuerte guerrero, te has ganado una muerte honorable a mis manos.
+}
+
+STRING 3033
+// Items: I0L7 (WC2Orc08SDoomhammer11), Name (Name)
+{
+WC2Orc08SDoomhammer11
+}
+
+STRING 3034
+// Items: I0LA (WC2Orc08SDoomhammer12), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3035
+// Items: I0LA (WC2Orc08SDoomhammer12), Description (Description)
+{
+¡Eitrigg! ¡Nuestro trabajo aquí está hecho! Los Goblins destruirán el paso detrás de nosotros. ¡Hasta entonces, protégelos!
+}
+
+STRING 3036
+// Items: I0LA (WC2Orc08SDoomhammer12), Name (Name)
+{
+WC2Orc08SDoomhammer12
+}
+
+STRING 3037
+// Items: I0LB (WC2Orc08SAmaniPriest1), Tip (Tooltip - Basic)
+{
+Trol Amani
+}
+
+STRING 3038
+// Items: I0LB (WC2Orc08SAmaniPriest1), Description (Description)
+{
+¡Poderoso Zul'jin, nos honras con tu presencia!
+}
+
+STRING 3039
+// Items: I0LB (WC2Orc08SAmaniPriest1), Name (Name)
+{
+WC2Orc08SAmaniPriest1
+}
+
+STRING 3040
+// Items: I0LC (WC2Orc08SAmaniPriest2), Tip (Tooltip - Basic)
+{
+Trol Amani
+}
+
+STRING 3041
+// Items: I0LC (WC2Orc08SAmaniPriest2), Description (Description)
+{
+¡Es Zul'jin! ¿Has venido a ayudarnos con los Enanos?
+}
+
+STRING 3042
+// Items: I0LC (WC2Orc08SAmaniPriest2), Name (Name)
+{
+WC2Orc08SAmaniPriest2
+}
+
+STRING 3043
+// Items: I0LD (WC2Orc08SAmaniPriest3), Tip (Tooltip - Basic)
+{
+Trol Amani
+}
+
+STRING 3044
+// Items: I0LD (WC2Orc08SAmaniPriest3), Description (Description)
+{
+¡El líder está aquí! ¡Bendícenos!
+}
+
+STRING 3045
+// Items: I0LD (WC2Orc08SAmaniPriest3), Name (Name)
+{
+WC2Orc08SAmaniPriest3
+}
+
+STRING 3046
+// Items: I0LE (WC2Orc08SEitrigg1), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3047
+// Items: I0LE (WC2Orc08SEitrigg1), Description (Description)
+{
+Disculpas por interrumpir, Jefe de Guerra; ¿por qué seguimos enjaulando a Garona después de que demostró ser sumisa en Khaz Modan? La vigilaré todo el tiempo que digas, pero creo que al menos se ha ganado que le quiten las cadenas.
+}
+
+STRING 3048
+// Items: I0LE (WC2Orc08SEitrigg1), Name (Name)
+{
+WC2Orc08SEitrigg1
+}
+
+STRING 3049
+// Items: I0LF (WC2Orc08SEitrigg2), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3050
+// Items: I0LF (WC2Orc08SEitrigg2), Description (Description)
+{
+Por tu voluntad, Jefe de Guerra.
+}
+
+STRING 3051
+// Items: I0LF (WC2Orc08SEitrigg2), Name (Name)
+{
+WC2Orc08SEitrigg2
+}
+
+STRING 3052
+// Items: I0LG (WC2Orc08SEitrigg3), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3053
+// Items: I0LG (WC2Orc08SEitrigg3), Description (Description)
+{
+¡Jefe de Guerra! ¡Los Elfos nos están atacando!
+}
+
+STRING 3054
+// Items: I0LG (WC2Orc08SEitrigg3), Name (Name)
+{
+WC2Orc08SEitrigg3
+}
+
+STRING 3055
+// Items: I0LH (WC2Orc08SEitrigg4), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3056
+// Items: I0LH (WC2Orc08SEitrigg4), Description (Description)
+{
+¡Vete, Jefe de Guerra, los detendré con todas mis fuerzas! ¡lok’tar ogar!
+}
+
+STRING 3057
+// Items: I0LH (WC2Orc08SEitrigg4), Name (Name)
+{
+WC2Orc08SEitrigg4
+}
+
+STRING 3058
+// Items: I0LI (WC2Orc08SEitrigg5), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3059
+// Items: I0LI (WC2Orc08SEitrigg5), Description (Description)
+{
+¡Maldita sea! ¡Libérenla! ¡Incluso una semi-orco debería morir con una espada en la mano!
+}
+
+STRING 3060
+// Items: I0LI (WC2Orc08SEitrigg5), Name (Name)
+{
+WC2Orc08SEitrigg5
+}
+
+STRING 3061
+// Items: I0LJ (WC2Orc08SEitrigg6), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3062
+// Items: I0LJ (WC2Orc08SEitrigg6), Description (Description)
+{
+¡Garona! ¡Bah! ¡Maldita sea! ¡Defiendan el campamento, guerreros!
+}
+
+STRING 3063
+// Items: I0LJ (WC2Orc08SEitrigg6), Name (Name)
+{
+WC2Orc08SEitrigg6
+}
+
+STRING 3064
+// Items: I0LK (WC2Orc08SEitrigg7), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 3065
+// Items: I0LK (WC2Orc08SEitrigg7), Description (Description)
+{
+Garona... tú... tú...
+}
+
+STRING 3066
+// Items: I0LK (WC2Orc08SEitrigg7), Name (Name)
+{
+WC2Orc08SEitrigg7
+}
+
+STRING 3067
+// Items: I0LL (WC2Orc08SElvenRanger1), Tip (Tooltip - Basic)
+{
+Forestélfico
+}
+
+STRING 3068
+// Items: I0LL (WC2Orc08SElvenRanger1), Description (Description)
+{
+No sois bienvenidos aquí. Una raza inmunda que contamina esta tierra es más que suficiente.
+}
+
+STRING 3069
+// Items: I0LL (WC2Orc08SElvenRanger1), Name (Name)
+{
+WC2Orc08SElvenRanger1
+}
+
+STRING 3070
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Tip (Tooltip - Basic)
+{
+Enano
+}
+
+STRING 3071
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Description (Description)
+{
+¡Falstaaaaaaaaad!
+}
+
+STRING 3072
+// Items: I0LM (WC2Orc08SFalstaaaaaaaad1), Name (Name)
+{
+WC2Orc08SFalstaaaaaaaad1
+}
+
+STRING 3073
+// Items: I0LN (WC2Orc08SGarona1), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3074
+// Items: I0LN (WC2Orc08SGarona1), Description (Description)
+{
+¡Eitrigg! Luchamos juntos en muchos frentes, ¡no quiero que confíes en mí! ¡pero puedo ayudarte! ¡por favor, sácame de aquí! ¡Puedo luchar!
+}
+
+STRING 3075
+// Items: I0LN (WC2Orc08SGarona1), Name (Name)
+{
+WC2Orc08SGarona1
+}
+
+STRING 3076
+// Items: I0LO (WC2Orc08SGarona2), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3077
+// Items: I0LO (WC2Orc08SGarona2), Description (Description)
+{
+¡Hay demasiados!
+}
+
+STRING 3078
+// Items: I0LO (WC2Orc08SGarona2), Name (Name)
+{
+WC2Orc08SGarona2
+}
+
+STRING 3079
+// Items: I0LP (WC2Orc08SGarona3), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3080
+// Items: I0LP (WC2Orc08SGarona3), Description (Description)
+{
+No malgastes tu aliento, no vas a morir hoy por mi culpa. Te curaré y me iré, mis deudas están saldadas. Te sugiero que hagas lo mismo.
+}
+
+STRING 3081
+// Items: I0LP (WC2Orc08SGarona3), Name (Name)
+{
+WC2Orc08SGarona3
+}
+
+STRING 3082
+// Items: I0LQ (TyrandePissed1), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3083
+// Items: I0LQ (TyrandePissed1), Description (Description)
+{
+Puedo hacer que parezca un accidente...
+}
+
+STRING 3084
+// Items: I0LQ (TyrandePissed1), Name (Name)
+{
+TyrandePissed1
+}
+
+STRING 3085
+// Items: I0LR (TyrandePissed4), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3086
+// Items: I0LR (TyrandePissed4), Description (Description)
+{
+Un día tendré verdadera libertad, lejos de orcos, demonios y muerte...
+}
+
+STRING 3087
+// Items: I0LR (TyrandePissed4), Name (Name)
+{
+TyrandePissed4
+}
+
+STRING 3088
+// Items: I0LS (TyrandePissed5), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3089
+// Items: I0LS (TyrandePissed5), Description (Description)
+{
+Cambié un amo por otro... Al menos este no tiene control mental...
+}
+
+STRING 3090
+// Items: I0LS (TyrandePissed5), Name (Name)
+{
+TyrandePissed5
+}
+
+STRING 3091
+// Items: I0LT (WC2Orc08SGoblinSappers1), Tip (Tooltip - Basic)
+{
+Zapadores Goblin
+}
+
+STRING 3092
+// Items: I0LT (WC2Orc08SGoblinSappers1), Description (Description)
+{
+¡Jefe, necesitaremos más tiempo para preparar los explosivos, protégenos mientras lo hacemos!
+}
+
+STRING 3093
+// Items: I0LT (WC2Orc08SGoblinSappers1), Name (Name)
+{
+WC2Orc08SGoblinSappers1
+}
+
+STRING 3094
+// Items: I0LU (WC2Orc08SGoblinSappers2), Tip (Tooltip - Basic)
+{
+Zapadores Goblin
+}
+
+STRING 3095
+// Items: I0LU (WC2Orc08SGoblinSappers2), Description (Description)
+{
+¡Los explosivos están listos! ¡Despejen la zona!
+}
+
+STRING 3096
+// Items: I0LU (WC2Orc08SGoblinSappers2), Name (Name)
+{
+WC2Orc08SGoblinSappers2
+}
+
+STRING 3097
+// Items: I0LV (WC2Orc08SKurdran1), Tip (Tooltip - Basic)
+{
+Kurdran Martillo Salvaje
+}
+
+STRING 3098
+// Items: I0LV (WC2Orc08SKurdran1), Description (Description)
+{
+¡Malditos mongoles, han diezmado a mis compatriotas!
+}
+
+STRING 3099
+// Items: I0LV (WC2Orc08SKurdran1), Name (Name)
+{
+WC2Orc08SKurdran1
+}
+
+STRING 3100
+// Items: I0LW (WC2Orc08SKurdran2), Tip (Tooltip - Basic)
+{
+Kurdran Martillo Salvaje
+}
+
+STRING 3101
+// Items: I0LW (WC2Orc08SKurdran2), Description (Description)
+{
+Ayúdame a repelerlos, y consideraré unirme a esa "Alianza" tuya, hijo de Arathi.
+}
+
+STRING 3102
+// Items: I0LW (WC2Orc08SKurdran2), Name (Name)
+{
+WC2Orc08SKurdran2
+}
+
+STRING 3103
+// Items: I0LX (WC2Orc08SKurdran3), Tip (Tooltip - Basic)
+{
+Kurdran Martillo Salvaje
+}
+
+STRING 3104
+// Items: I0LX (WC2Orc08SKurdran3), Description (Description)
+{
+¡Malditos orcos, son más inteligentes de lo que parecen! El camino del norte ha sido cortado.
+}
+
+STRING 3105
+// Items: I0LX (WC2Orc08SKurdran3), Name (Name)
+{
+WC2Orc08SKurdran3
+}
+
+STRING 3106
+// Items: I0LY (WC2Orc08SKurdran4), Tip (Tooltip - Basic)
+{
+Kurdran Martillo Salvaje
+}
+
+STRING 3107
+// Items: I0LY (WC2Orc08SKurdran4), Description (Description)
+{
+Estamos contigo, Anduin Lothar. Esta "Horda" es una amenaza para todos, y no nos detendremos hasta que sea eliminada.
+}
+
+STRING 3108
+// Items: I0LY (WC2Orc08SKurdran4), Name (Name)
+{
+WC2Orc08SKurdran4
+}
+
+STRING 3109
+// Items: I0LZ (WC2Orc08SLothar1), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3110
+// Items: I0LZ (WC2Orc08SLothar1), Description (Description)
+{
+No temas, amigo, pagarán por todas sus atrocidades.
+}
+
+STRING 3111
+// Items: I0LZ (WC2Orc08SLothar1), Name (Name)
+{
+WC2Orc08SLothar1
+}
+
+STRING 3112
+// Items: I0La (WC2Orc08SLothar2), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3113
+// Items: I0La (WC2Orc08SLothar2), Description (Description)
+{
+¡Martillo Maldito! Te debo un dolor eterno por esta transgresión y toda la miseria que vosotros, monstruos de la Horda, habéis causado en Azeroth.
+}
+
+STRING 3114
+// Items: I0La (WC2Orc08SLothar2), Name (Name)
+{
+WC2Orc08SLothar2
+}
+
+STRING 3115
+// Items: I0Lb (WC2Orc08SLothar3), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3116
+// Items: I0Lb (WC2Orc08SLothar3), Description (Description)
+{
+...y vuestra estratagema ha sido frustrada, el resto de nuestros ejércitos ha sido enviado a ocuparse de vuestros llamados "clanes".
+}
+
+STRING 3117
+// Items: I0Lb (WC2Orc08SLothar3), Name (Name)
+{
+WC2Orc08SLothar3
+}
+
+STRING 3118
+// Items: I0Lc (WC2Orc08SLothar4), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3119
+// Items: I0Lc (WC2Orc08SLothar4), Description (Description)
+{
+¡Esta tierra no se manchará con mi sangre! ¡Carga!
+}
+
+STRING 3120
+// Items: I0Lc (WC2Orc08SLothar4), Name (Name)
+{
+WC2Orc08SLothar4
+}
+
+STRING 3121
+// Items: I0Ld (WC2Orc08SLothar5), Tip (Tooltip - Basic)
+{
+Anduin Lothar
+}
+
+STRING 3122
+// Items: I0Ld (WC2Orc08SLothar5), Description (Description)
+{
+Su líder es... pragmático, siempre va un paso por delante.
+}
+
+STRING 3123
+// Items: I0Ld (WC2Orc08SLothar5), Name (Name)
+{
+WC2Orc08SLothar5
+}
+
+STRING 3124
+// Items: I0Le (WC2Orc08SRend1), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3125
+// Items: I0Le (WC2Orc08SRend1), Description (Description)
+{
+Llevamos un tiempo viajando por este estrecho paso de montaña, Jefe de Guerra, y aún no nos has dicho qué hacemos aquí.
+}
+
+STRING 3126
+// Items: I0Le (WC2Orc08SRend1), Name (Name)
+{
+WC2Orc08SRend1
+}
+
+STRING 3127
+// Items: I0Lf (WC2Orc08SRend2), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3128
+// Items: I0Lf (WC2Orc08SRend2), Description (Description)
+{
+¿Por qué no enfrentarnos a ellos en batalla, de frente? ¿Qué es este lugar?
+}
+
+STRING 3129
+// Items: I0Lf (WC2Orc08SRend2), Name (Name)
+{
+WC2Orc08SRend2
+}
+
+STRING 3130
+// Items: I0Lg (WC2Orc08SRend3), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3131
+// Items: I0Lg (WC2Orc08SRend3), Description (Description)
+{
+Los Enanos no suponen ninguna amenaza, Zul'jin.
+}
+
+STRING 3132
+// Items: I0Lg (WC2Orc08SRend3), Name (Name)
+{
+WC2Orc08SRend3
+}
+
+STRING 3133
+// Items: I0Lh (WC2Orc08SRend4), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3134
+// Items: I0Lh (WC2Orc08SRend4), Description (Description)
+{
+¡¿Acaso no voy a luchar aquí?!
+}
+
+STRING 3135
+// Items: I0Lh (WC2Orc08SRend4), Name (Name)
+{
+WC2Orc08SRend4
+}
+
+STRING 3136
+// Items: I0Li (WC2Orc08SRend5), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3137
+// Items: I0Li (WC2Orc08SRend5), Description (Description)
+{
+Hmmm….muy bien, vamos Utok.
+}
+
+STRING 3138
+// Items: I0Li (WC2Orc08SRend5), Name (Name)
+{
+WC2Orc08SRend5
+}
+
+STRING 3139
+// Items: I0Lj (WC2Orc08STharbek1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3140
+// Items: I0Lj (WC2Orc08STharbek1), Description (Description)
+{
+Daos prisa, perros sarnosos, el Jefe de Guerra podría llegar en cualquier momento.
+}
+
+STRING 3141
+// Items: I0Lj (WC2Orc08STharbek1), Name (Name)
+{
+WC2Orc08STharbek1
+}
+
+STRING 3142
+// Items: I0Lk (WC2Orc08STharbek2), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3143
+// Items: I0Lk (WC2Orc08STharbek2), Description (Description)
+{
+Lok’tar, Jefe de Guerra, su campamento está en funcionamiento como ordenó.
+}
+
+STRING 3144
+// Items: I0Lk (WC2Orc08STharbek2), Name (Name)
+{
+WC2Orc08STharbek2
+}
+
+STRING 3145
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Tip (Tooltip - Basic)
+{
+Thane
+}
+
+STRING 3146
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Description (Description)
+{
+¡Por mi barba! Estamos bajo el ataque de los salvajes, ¡enviad un mensaje a Kurdran, muchachos, y defended vuestros hogares!
+}
+
+STRING 3147
+// Items: I0Ll (WC2Orc08SWildhammerThane1), Name (Name)
+{
+WC2Orc08SWildhammerThane1
+}
+
+STRING 3148
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Tip (Tooltip - Basic)
+{
+Thane
+}
+
+STRING 3149
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Description (Description)
+{
+Los trols han traído amigos… ¡acabaremos con ambos!
+}
+
+STRING 3150
+// Items: I0Lm (WC2Orc08SWildhammerThane2), Name (Name)
+{
+WC2Orc08SWildhammerThane2
+}
+
+STRING 3151
+// Items: I0Ln (WC2Orc08SZuljin1), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3152
+// Items: I0Ln (WC2Orc08SZuljin1), Description (Description)
+{
+Este lugar fue una vez parte del Imperio Amani, amigo mío, muchas tribus trol aún viven aquí. Una vez fue pacífico hasta que los Enanos vinieron del sur y tomaron este lugar, han estado chocando con nosotros desde entonces.
+}
+
+STRING 3153
+// Items: I0Ln (WC2Orc08SZuljin1), Name (Name)
+{
+WC2Orc08SZuljin1
+}
+
+STRING 3154
+// Items: I0Lo (WC2Orc08SZuljin2), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3155
+// Items: I0Lo (WC2Orc08SZuljin2), Description (Description)
+{
+Mis hermanos se unirán a mi lado una vez que les cuente el plan para retomar nuestras tierras ancestrales en el norte, mientras que Martillo Maldito... se ocupa de esos Enanos.
+}
+
+STRING 3156
+// Items: I0Lo (WC2Orc08SZuljin2), Name (Name)
+{
+WC2Orc08SZuljin2
+}
+
+STRING 3157
+// Items: I0Lp (WC2Orc08SZuljin3), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3158
+// Items: I0Lp (WC2Orc08SZuljin3), Description (Description)
+{
+¡Hermanos, estoy reuniendo a los Amani para retomar las tierras de Zul’Aman! ¡Diríjanse al norte hacia Quel’thalas! ¡Recuperaremos nuestras tierras!
+}
+
+STRING 3159
+// Items: I0Lp (WC2Orc08SZuljin3), Name (Name)
+{
+WC2Orc08SZuljin3
+}
+
+STRING 3160
+// Items: I0Lq (WC2Orc08SZuljin4), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3161
+// Items: I0Lq (WC2Orc08SZuljin4), Description (Description)
+{
+¡Hermanos, estoy reuniendo a los Amani para retomar las tierras de Zul’Aman! ¡Diríjanse al norte hacia Quel’thalas! ¡Recuperaremos nuestras tierras!
+}
+
+STRING 3162
+// Items: I0Lq (WC2Orc08SZuljin4), Name (Name)
+{
+WC2Orc08SZuljin4
+}
+
+STRING 3163
+// Items: I0Lr (WC2Orc08SZuljin5), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3164
+// Items: I0Lr (WC2Orc08SZuljin5), Description (Description)
+{
+Vosotros, trols, debéis hacer las maletas y dirigiros al norte para reuniros con nuestros hermanos en la recuperación de Zul'Aman, seguiremos vuestro camino.
+}
+
+STRING 3165
+// Items: I0Lr (WC2Orc08SZuljin5), Name (Name)
+{
+WC2Orc08SZuljin5
+}
+
+STRING 3166
+// Items: I0Ls (WC2Orc08SZuljin6), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3167
+// Items: I0Ls (WC2Orc08SZuljin6), Description (Description)
+{
+¿Dónde tengo la cabeza...? Los Elfos tienen un puesto de avanzada allí, mis hermanos se han enfrentado a ellos en ocasiones, pero si vamos a terminar nuestro trabajo aquí sin demora, hay que ocuparse de ellos.
+}
+
+STRING 3168
+// Items: I0Ls (WC2Orc08SZuljin6), Name (Name)
+{
+WC2Orc08SZuljin6
+}
+
+STRING 3169
+// Items: I0Lt (WC2Orc08SZuljin7), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3170
+// Items: I0Lt (WC2Orc08SZuljin7), Description (Description)
+{
+Jajajaja... ¡la vista de Elfos muertos es la mejor parte de la vida!
+}
+
+STRING 3171
+// Items: I0Lt (WC2Orc08SZuljin7), Name (Name)
+{
+WC2Orc08SZuljin7
+}
+
+STRING 3172
+// Items: I0Lu (WC2Orc08SZuljin8), Tip (Tooltip - Basic)
+{
+Zul'jin
+}
+
+STRING 3173
+// Items: I0Lu (WC2Orc08SZuljin8), Description (Description)
+{
+¡Hermanos míos! ¡Nuestro Imperio se alzará de nuevo sobre los huesos y la sangre de los Elfos!
+}
+
+STRING 3174
+// Items: I0Lu (WC2Orc08SZuljin8), Name (Name)
+{
+WC2Orc08SZuljin8
+}
+
+STRING 3175
+// Items: I1LQ (TyrandePissed3), Tip (Tooltip - Basic)
+{
+Garona
+}
+
+STRING 3176
+// Items: I1LQ (TyrandePissed3), Description (Description)
+{
+¡Me encuentro muy demandada por comandantes humanos y hechiceros! ¡Tengo que mantenerme alejada de estos pervertidos raros!
+}
+
+STRING 3177
+// Items: I1LQ (TyrandePissed3), Name (Name)
+{
+TyrandePissed3
+}
+
+STRING 3178
+// Units: negt (Arcane Tower), Name (Name)
+{
+Torre Arcana
+}
+
+STRING 3179
+// Units: h624 (Forge), Name (Name)
+{
+Forja
+}
+
+STRING 3180
+// Units: n006 (Barracks), Name (Name)
+{
+Cuartel
+}
+
+STRING 3181
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 3182
+{
+|cffffcc00Truco Desactivado|r
+}
+
+STRING 3183
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 3184
+{
+|cffffcc00Truco Desactivado|r
+}
+
+STRING 3185
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 3186
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Tip (Tooltip - Basic)
+{
+ de 3 Destruidos)
+}
+
+STRING 3187
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Ubertip (Tooltip - Extended)
+{
+  - Destruir Asentamientos Martillo Salvaje (
+}
+
+STRING 3188
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Description (Description)
+{
+Tierra Quemada
+}
+
+STRING 3189
+// Items: IQL0 (|cffffcc00MAIN QUEST UPDATE|r), Name (Name)
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN PRINCIPAL|r
+}
+
+STRING 3190
+// Items: IQL1 (  - Finish before the Alliance arrives), Tip (Tooltip - Basic)
+{
+Estofado de Tercer Dedo
+}
+
+STRING 3191
+// Items: IQL1 (  - Finish before the Alliance arrives), Ubertip (Tooltip - Extended)
+{
+ de 3 Reunidos)
+}
+
+STRING 3192
+// Items: IQL1 (  - Finish before the Alliance arrives), Description (Description)
+{
+  - Reunir Campamentos Trol (
+}
+
+STRING 3193
+// Items: IQL1 (  - Finish before the Alliance arrives), Name (Name)
+{
+  - Terminar antes de que llegue la Alianza
+}
+
+STRING 3194
+// Items: IQL2 (Wildhammer Chronicler), Name (Name)
+{
+Cronista Martillo Salvaje
+}
+
+STRING 3195
+// Items: IQL2 (Wildhammer Chronicler), Tip (Tooltip - Basic)
+{
+Reunir Campamentos Trol (
+}
+
+STRING 3196
+// Items: IQL2 (Wildhammer Chronicler), Description (Description)
+{
+Destruir Asentamientos Martillo Salvaje (
+}
+

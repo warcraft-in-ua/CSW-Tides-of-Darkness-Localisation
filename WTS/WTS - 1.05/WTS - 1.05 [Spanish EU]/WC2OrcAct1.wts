@@ -1,0 +1,4317 @@
+﻿STRING 1
+{
+WC2OrcAct1
+}
+
+STRING 2
+{
+Acto I: Los Mares de Sangre
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 180
+// Unidades: n008 (Barco), EditorSuffix (Sufijo de Editor)
+{
+A
+}
+
+STRING 301
+// Unidades: n608 (Monje), Name (Nombre)
+{
+Monje
+}
+
+STRING 302
+// Unidades: n608 (Monje), Ubertip (Descripción - Extendida)
+{
+Sacerdote bondadoso.
+}
+
+STRING 303
+// Unidades: n608 (Monje), Tip (Descripción - Básica)
+{
+Clérigo sagrado.
+}
+
+STRING 313
+// Unidades: n00A (Barco), EditorSuffix (Sufijo de Editor)
+{
+C
+}
+
+STRING 351
+// Destructibles: B61B (Puente Largo del Acantilado), EditorSuffix (Sufijo de Editor)
+{
+(Cinemática)
+}
+
+STRING 415
+// Unidades: n007 (Barco), EditorSuffix (Sufijo de Editor)
+{
+D
+}
+
+STRING 445
+// Unidades: o008 (Grunt Cinemático), Ubertip (Descripción - Extendida)
+{
+Guerrero orco brutal. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 577
+// Destructibles: B60O (Puerta de Forjaz), EditorSuffix (Sufijo de Editor)
+{
+(Cinemática)
+}
+
+STRING 601
+// Destructibles: B621 (Muro de Piedra Orco), Name (Nombre)
+{
+Muro de Piedra Orco
+}
+
+STRING 613
+// Destructibles: B60R (Muro de Púas), Name (Nombre)
+{
+Muro de Púas
+}
+
+STRING 614
+// Doodads: D61D (Muro de Púas), Name (Nombre)
+{
+Muro de Púas
+}
+
+STRING 667
+// Doodads: D6GR (Tiburón), Name (Nombre)
+{
+Tiburón
+}
+
+STRING 887
+// Destructibles: LTex (Barril con Petróleo), Name (Nombre)
+{
+Barril con Petróleo
+}
+
+STRING 890
+// Doodads: D60M (Telescopio), Name (Nombre)
+{
+Telescopio
+}
+
+STRING 908
+// Destructibles: ATwf (Muelle), Name (Nombre)
+{
+Muelle
+}
+
+STRING 909
+// Destructibles: GTsh (Hongos), Name (Nombre)
+{
+Hongos
+}
+
+STRING 910
+// Destructibles: B615 (Barril con Petróleo), Name (Nombre)
+{
+Barril con Petróleo
+}
+
+STRING 911
+// Destructibles: OTsp (Portal), Name (Nombre)
+{
+Portal
+}
+
+STRING 912
+// Destructibles: B605 (Plataforma), Name (Nombre)
+{
+Plataforma
+}
+
+STRING 913
+// Destructibles: B606 (Puerta del Cuartel), Name (Nombre)
+{
+Puerta del Cuartel
+}
+
+STRING 914
+// Destructibles: B606 (Puerta del Cuartel), EditorSuffix (Sufijo de Editor)
+{
+(Sin Camino)
+}
+
+STRING 915
+// Destructibles: B607 (Muro Orco), Name (Nombre)
+{
+Muro Orco
+}
+
+STRING 916
+// Destructibles: B60C (Muro Orco), Name (Nombre)
+{
+Muro Orco
+}
+
+STRING 917
+// Destructibles: B60C (Muro Orco), EditorSuffix (Sufijo de Editor)
+{
+(2)
+}
+
+STRING 918
+// Destructibles: B60G (Árbol Gigante), Name (Nombre)
+{
+Árbol Gigante
+}
+
+STRING 919
+// Destructibles: B60J (Enredaderas), Name (Nombre)
+{
+Enredaderas
+}
+
+STRING 920
+// Destructibles: B60K (Puerta Cinemática), Name (Nombre)
+{
+Puerta Cinemática
+}
+
+STRING 921
+// Destructibles: B60M (Torre del Castillo), Name (Nombre)
+{
+Torre del Castillo
+}
+
+STRING 922
+// Destructibles: B60P (Caverna), Name (Nombre)
+{
+Caverna
+}
+
+STRING 923
+// Destructibles: B60Q (Muro de Piedra), Name (Nombre)
+{
+Muro de Piedra
+}
+
+STRING 925
+// Destructibles: B610 (Escaleras de la Ciudad), Name (Nombre)
+{
+Escaleras de la Ciudad
+}
+
+STRING 927
+// Destructibles: B615 (Barril con Petróleo), EditorSuffix (Sufijo de Editor)
+{
+(Sin Camino)
+}
+
+STRING 928
+// Destructibles: B616 (Ráfaga de Fuego), Name (Nombre)
+{
+Ráfaga de Fuego
+}
+
+STRING 929
+// Destructibles: B617 (Fuego), Name (Nombre)
+{
+Fuego
+}
+
+STRING 930
+// Destructibles: B61B (Puente Largo del Acantilado), Name (Nombre)
+{
+Puente Largo del Acantilado
+}
+
+STRING 932
+// Destructibles: B61F (Esquina del Muro del Castillo), Name (Nombre)
+{
+Esquina del Muro del Castillo
+}
+
+STRING 933
+// Destructibles: B61G (Muro Recto del Castillo), Name (Nombre)
+{
+Muro Recto del Castillo
+}
+
+STRING 934
+// Destructibles: B61H (Muro Corto con Puerta del Castillo), Name (Nombre)
+{
+Muro Corto con Puerta del Castillo
+}
+
+STRING 935
+// Destructibles: B61I (Muro Largo del Castillo), Name (Nombre)
+{
+Muro Largo del Castillo
+}
+
+STRING 936
+// Destructibles: B61J (Muro Recto con Puerta del Castillo), Name (Nombre)
+{
+Muro Recto con Puerta del Castillo
+}
+
+STRING 937
+// Destructibles: B61K (Trampa de Hielo), Name (Nombre)
+{
+Trampa de Hielo
+}
+
+STRING 938
+// Destructibles: B61L (Plataforma de Hielo), Name (Nombre)
+{
+Plataforma de Hielo
+}
+
+STRING 939
+// Destructibles: B61L (Plataforma de Hielo), EditorSuffix (Sufijo de Editor)
+{
+(Sin Camino)
+}
+
+STRING 940
+// Destructibles: B61P (Puerta de Hierro), EditorSuffix (Sufijo de Editor)
+{
+(Sin Camino)
+}
+
+STRING 941
+// Destructibles: B61P (Puerta de Hierro), Name (Nombre)
+{
+Puerta de Hierro
+}
+
+STRING 942
+// Destructibles: B61R (Plataforma de Hielo), Name (Nombre)
+{
+Plataforma de Hielo
+}
+
+STRING 943
+// Destructibles: B61S (Plataforma de Hielo), Name (Nombre)
+{
+Plataforma de Hielo
+}
+
+STRING 944
+// Destructibles: B61S (Plataforma de Hielo), EditorSuffix (Sufijo de Editor)
+{
+(Con Camino)
+}
+
+STRING 946
+// Destructibles: B62N (Puerta Grande), Name (Nombre)
+{
+Puerta Grande
+}
+
+STRING 947
+// Destructibles: B62R (Tumba Antigua), Name (Nombre)
+{
+Tumba Antigua
+}
+
+STRING 948
+// Destructibles: B62S (Altar con el Libro), Name (Nombre)
+{
+Altar con el Libro
+}
+
+STRING 949
+// Destructibles: B62T (Huevo), Name (Nombre)
+{
+Huevo
+}
+
+STRING 950
+// Destructibles: B60O (Puerta de Forjaz), Name (Nombre)
+{
+Puerta de Forjaz
+}
+
+STRING 952
+// Destructibles: B60A (Muro Corto del Castillo), Name (Nombre)
+{
+Muro Corto del Castillo
+}
+
+STRING 953
+// Destructibles: B60B (Suelo de Mármol), Name (Nombre)
+{
+Suelo de Mármol
+}
+
+STRING 954
+// Destructibles: B600 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 955
+// Destructibles: B600 (Acantilados), EditorSuffix (Sufijo de Editor)
+{
+(Rampa)
+}
+
+STRING 956
+// Destructibles: B601 (Acantilados de los Baldíos Rojos), Name (Nombre)
+{
+Acantilados de los Baldíos Rojos
+}
+
+STRING 957
+// Destructibles: B601 (Acantilados de los Baldíos Rojos), EditorSuffix (Sufijo de Editor)
+{
+(Rampa)
+}
+
+STRING 958
+// Destructibles: B602 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 959
+// Destructibles: B602 (Acantilados), EditorSuffix (Sufijo de Editor)
+{
+(Doodad Rojo)
+}
+
+STRING 960
+// Destructibles: B603 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 961
+// Destructibles: B603 (Acantilados), EditorSuffix (Sufijo de Editor)
+{
+(Doodad)
+}
+
+STRING 962
+// Destructibles: B604 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 963
+// Destructibles: B604 (Acantilados), EditorSuffix (Sufijo de Editor)
+{
+(Doodad NegroRojo)
+}
+
+STRING 964
+// Destructibles: B608 (Acantilados de la Mazmorra Roja), Name (Nombre)
+{
+Acantilados de la Mazmorra Roja
+}
+
+STRING 965
+// Destructibles: B608 (Acantilados de la Mazmorra Roja), EditorSuffix (Sufijo de Editor)
+{
+(Rampa)
+}
+
+STRING 966
+// Destructibles: B60D (Plataforma de la Mazmorra), Name (Nombre)
+{
+Plataforma de la Mazmorra
+}
+
+STRING 967
+// Destructibles: B609 (Acantilados), Name (Nombre)
+{
+Acantilados
+}
+
+STRING 968
+// Destructibles: B609 (Acantilados), EditorSuffix (Sufijo de Editor)
+{
+(Doodad Negro)
+}
+
+STRING 969
+// Destructibles: B60E (Acantilados de la Mazmorra Oscura), Name (Nombre)
+{
+Acantilados de la Mazmorra Oscura
+}
+
+STRING 970
+// Destructibles: B60E (Acantilados de la Mazmorra Oscura), EditorSuffix (Sufijo de Editor)
+{
+(Rampa)
+}
+
+STRING 971
+// Destructibles: B60H (Plantador de Árboles), Name (Nombre)
+{
+Plantador de Árboles
+}
+
+STRING 972
+// Destructibles: B60L (Arbusto de Invierno), Name (Nombre)
+{
+Arbusto de Invierno
+}
+
+STRING 973
+// Destructibles: B60N (Árbol Caído de Invierno), Name (Nombre)
+{
+Árbol Caído de Invierno
+}
+
+STRING 974
+// Destructibles: B60S (Árbol Caído de Invierno), Name (Nombre)
+{
+Árbol Caído de Invierno
+}
+
+STRING 975
+// Destructibles: B60S (Árbol Caído de Invierno), EditorSuffix (Sufijo de Editor)
+{
+(2)
+}
+
+STRING 976
+// Destructibles: B60T (Faro), Name (Nombre)
+{
+Faro
+}
+
+STRING 977
+// Destructibles: B60U (Cofre), Name (Nombre)
+{
+Cofre
+}
+
+STRING 978
+// Destructibles: B60W (Alijo de Madera), Name (Nombre)
+{
+Alijo de Madera
+}
+
+STRING 979
+// Destructibles: B619 (Oro (Inactivo)), Name (Nombre)
+{
+Oro (Inactivo)
+}
+
+STRING 980
+// Destructibles: B61A (Oro (Activo)), Name (Nombre)
+{
+Oro (Activo)
+}
+
+STRING 981
+// Destructibles: B61C (Estandarte de la Alianza), Name (Nombre)
+{
+Estandarte de la Alianza
+}
+
+STRING 982
+// Destructibles: B61M (Viga de Soporte), Name (Nombre)
+{
+Viga de Soporte
+}
+
+STRING 983
+// Destructibles: B61M (Viga de Soporte), EditorSuffix (Sufijo de Editor)
+{
+Orco Cinemático
+}
+
+STRING 984
+// Destructibles: B61N (Muro de Jaula Grande), Name (Nombre)
+{
+Muro de Jaula Grande
+}
+
+STRING 985
+// Destructibles: B61O (Muro de Jaula Grande), Name (Nombre)
+{
+Muro de Jaula Grande
+}
+
+STRING 986
+// Destructibles: B61Q (Pared de árboles de Rasganorte), EditorSuffix (Sufijo de Editor)
+{
+(Misión02)
+}
+
+STRING 987
+// Destructibles: B60V (Arbustos), Name (Nombre)
+{
+Arbustos
+}
+
+STRING 988
+// Destructibles: B61U (Torre del Reloj de Trabalomas), Name (Nombre)
+{
+Torre del Reloj de Trabalomas
+}
+
+STRING 989
+// Destructibles: B61V (Torre del Reloj de Trabalomas), Name (Nombre)
+{
+Torre del Reloj de Trabalomas
+}
+
+STRING 990
+// Destructibles: B61V (Torre del Reloj de Trabalomas), EditorSuffix (Sufijo de Editor)
+{
+(Destruida)
+}
+
+STRING 991
+// Destructibles: B61W (Ventanas de la Ciudad), Name (Nombre)
+{
+Ventanas de la Ciudad
+}
+
+STRING 992
+// Destructibles: B61X (Lápida Orca), Name (Nombre)
+{
+Lápida Orca
+}
+
+STRING 993
+// Destructibles: B61Y (Escombros), Name (Nombre)
+{
+Escombros
+}
+
+STRING 994
+// Destructibles: B61Z (Telaraña), Name (Nombre)
+{
+Telaraña
+}
+
+STRING 995
+// Destructibles: B60F (Estatua de Arathor), Name (Nombre)
+{
+Estatua de Arathor
+}
+
+STRING 996
+// Destructibles: B60I (Arbusto de Invierno), Name (Nombre)
+{
+Arbusto de Invierno
+}
+
+STRING 997
+// Destructibles: B60I (Arbusto de Invierno), EditorSuffix (Sufijo de Editor)
+{
+(Variaciones)
+}
+
+STRING 998
+// Destructibles: B60X (Esquina del Muro del Castillo), Name (Nombre)
+{
+Esquina del Muro del Castillo
+}
+
+STRING 999
+// Destructibles: B60X (Esquina del Muro del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Alternativo)
+}
+
+STRING 1000
+// Destructibles: B60Y (Muro en T del Castillo), Name (Nombre)
+{
+Muro en T del Castillo
+}
+
+STRING 1001
+// Destructibles: B60Z (Muro en T del Castillo), Name (Nombre)
+{
+Muro en T del Castillo
+}
+
+STRING 1002
+// Destructibles: B60Z (Muro en T del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Alternativo)
+}
+
+STRING 1003
+// Destructibles: B611 (Muro en T del Castillo), Name (Nombre)
+{
+Muro en T del Castillo
+}
+
+STRING 1004
+// Destructibles: B611 (Muro en T del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1005
+// Destructibles: B612 (Muro en T del Castillo), Name (Nombre)
+{
+Muro en T del Castillo
+}
+
+STRING 1006
+// Destructibles: B612 (Muro en T del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho Alternativo)
+}
+
+STRING 1007
+// Destructibles: B613 (Esquina del Muro del Castillo), Name (Nombre)
+{
+Esquina del Muro del Castillo
+}
+
+STRING 1008
+// Destructibles: B613 (Esquina del Muro del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1009
+// Destructibles: B614 (Esquina del Muro del Castillo), Name (Nombre)
+{
+Esquina del Muro del Castillo
+}
+
+STRING 1010
+// Destructibles: B614 (Esquina del Muro del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho Alternativo)
+}
+
+STRING 1011
+// Destructibles: B618 (Muro Largo del Castillo), Name (Nombre)
+{
+Muro Largo del Castillo
+}
+
+STRING 1012
+// Destructibles: B618 (Muro Largo del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1013
+// Destructibles: B61D (Muro Corto del Castillo), Name (Nombre)
+{
+Muro Corto del Castillo
+}
+
+STRING 1014
+// Destructibles: B61D (Muro Corto del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1015
+// Destructibles: B61E (Muro Recto del Castillo), Name (Nombre)
+{
+Muro Recto del Castillo
+}
+
+STRING 1016
+// Destructibles: B61E (Muro Recto del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1017
+// Destructibles: B61T (Muro Recto con Puerta del Castillo), Name (Nombre)
+{
+Muro Recto con Puerta del Castillo
+}
+
+STRING 1018
+// Destructibles: B61T (Muro Recto con Puerta del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1019
+// Destructibles: B620 (Muro Corto con Puerta del Castillo), Name (Nombre)
+{
+Muro Corto con Puerta del Castillo
+}
+
+STRING 1020
+// Destructibles: B620 (Muro Corto con Puerta del Castillo), EditorSuffix (Sufijo de Editor)
+{
+(Ancho)
+}
+
+STRING 1021
+// Destructibles: B622 (Arco del Castillo), Name (Nombre)
+{
+Arco del Castillo
+}
+
+STRING 1022
+// Destructibles: B623 (Escaleras del Muro del Castillo), Name (Nombre)
+{
+Escaleras del Muro del Castillo
+}
+
+STRING 1023
+// Destructibles: B624 (Estatua de Caballero), Name (Nombre)
+{
+Estatua de Caballero
+}
+
+STRING 1024
+// Destructibles: B625 (Base de Acantilado A), Name (Nombre)
+{
+Base de Acantilado A
+}
+
+STRING 1025
+// Destructibles: B626 (Base de Acantilado B), Name (Nombre)
+{
+Base de Acantilado B
+}
+
+STRING 1026
+// Destructibles: B627 (Base de Acantilado C), Name (Nombre)
+{
+Base de Acantilado C
+}
+
+STRING 1027
+// Destructibles: B628 (Base de Acantilado D), Name (Nombre)
+{
+Base de Acantilado D
+}
+
+STRING 1028
+// Destructibles: B629 (Acantilado Oscuro), Name (Nombre)
+{
+Acantilado Oscuro
+}
+
+STRING 1029
+// Destructibles: B629 (Acantilado Oscuro), EditorSuffix (Sufijo de Editor)
+{
+(Frondavil)
+}
+
+STRING 1030
+// Destructibles: B62A (Acantilado Oscuro Pequeño), Name (Nombre)
+{
+Acantilado Oscuro Pequeño
+}
+
+STRING 1031
+// Destructibles: B62A (Acantilado Oscuro Pequeño), EditorSuffix (Sufijo de Editor)
+{
+(Frondavil)
+}
+
+STRING 1032
+// Destructibles: B62B (Acantilado del Desierto), Name (Nombre)
+{
+Acantilado del Desierto
+}
+
+STRING 1033
+// Destructibles: B62B (Acantilado del Desierto), EditorSuffix (Sufijo de Editor)
+{
+(Los Baldíos)
+}
+
+STRING 1034
+// Destructibles: B62C (Acantilado del Desierto Pequeño), Name (Nombre)
+{
+Acantilado del Desierto Pequeño
+}
+
+STRING 1035
+// Destructibles: B62C (Acantilado del Desierto Pequeño), EditorSuffix (Sufijo de Editor)
+{
+(Los Baldíos)
+}
+
+STRING 1036
+// Destructibles: B62D (Acantilado del Desierto Claro), Name (Nombre)
+{
+Acantilado del Desierto Claro
+}
+
+STRING 1037
+// Destructibles: B62D (Acantilado del Desierto Claro), EditorSuffix (Sufijo de Editor)
+{
+(Los Baldíos)
+}
+
+STRING 1038
+// Destructibles: B62E (Acantilado del Desierto Claro Pequeño), Name (Nombre)
+{
+Acantilado del Desierto Claro Pequeño
+}
+
+STRING 1039
+// Destructibles: B62E (Acantilado del Desierto Claro Pequeño), EditorSuffix (Sufijo de Editor)
+{
+(Los Baldíos)
+}
+
+STRING 1040
+// Destructibles: B62F (Acantilado de Verano), Name (Nombre)
+{
+Acantilado de Verano
+}
+
+STRING 1041
+// Destructibles: B62G (Acantilado de Verano Pequeño), Name (Nombre)
+{
+Acantilado de Verano Pequeño
+}
+
+STRING 1042
+// Destructibles: B62H (Acantilado de los Humedales), Name (Nombre)
+{
+Acantilado de los Humedales
+}
+
+STRING 1043
+// Destructibles: B62I (Acantilado de los Humedales), Name (Nombre)
+{
+Acantilado de los Humedales
+}
+
+STRING 1044
+// Destructibles: B62I (Acantilado de los Humedales), EditorSuffix (Sufijo de Editor)
+{
+(Pequeño)
+}
+
+STRING 1045
+// Destructibles: B62J (Acantilado de Invierno), Name (Nombre)
+{
+Acantilado de Invierno
+}
+
+STRING 1046
+// Destructibles: B62K (Acantilado de Invierno), Name (Nombre)
+{
+Acantilado de Invierno
+}
+
+STRING 1047
+// Destructibles: B62K (Acantilado de Invierno), EditorSuffix (Sufijo de Editor)
+{
+(Pequeño)
+}
+
+STRING 1048
+// Destructibles: B62L (Acantilado de Nieve de Invierno), Name (Nombre)
+{
+Acantilado de Nieve de Invierno
+}
+
+STRING 1049
+// Destructibles: B62M (Acantilado de Nieve de Invierno), Name (Nombre)
+{
+Acantilado de Nieve de Invierno
+}
+
+STRING 1050
+// Destructibles: B62M (Acantilado de Nieve de Invierno), EditorSuffix (Sufijo de Editor)
+{
+(Pequeño)
+}
+
+STRING 1051
+// Doodads: D600 (Árbol Cinemático de Tierra Baldía), Name (Nombre)
+{
+Árbol Cinemático de Tierra Baldía
+}
+
+STRING 1052
+// Doodads: D601 (Estandarte de Kul Tiras), Name (Nombre)
+{
+Estandarte de Kul Tiras
+}
+
+STRING 1053
+// Doodads: D602 (Estandarte de Alterac), Name (Nombre)
+{
+Estandarte de Alterac
+}
+
+STRING 1054
+// Doodads: D603 (Estandarte de Ventormenta), Name (Nombre)
+{
+Estandarte de Ventormenta
+}
+
+STRING 1055
+// Doodads: D604 (Estatua Enana), Name (Nombre)
+{
+Estatua Enana
+}
+
+STRING 1056
+// Doodads: D605 (Efecto de Cascada de Agua), Name (Nombre)
+{
+Efecto de Cascada de Agua
+}
+
+STRING 1057
+// Doodads: D606 (Tienda de Guerra), Name (Nombre)
+{
+Tienda de Guerra
+}
+
+STRING 1058
+// Doodads: D607 (Tienda de Chamán), Name (Nombre)
+{
+Tienda de Chamán
+}
+
+STRING 1059
+// Doodads: D608 (Ataque Nuclear), Name (Nombre)
+{
+Ataque Nuclear
+}
+
+STRING 1060
+// Doodads: D60A (Cráter (Sin Camino)), Name (Nombre)
+{
+Cráter (Sin Camino)
+}
+
+STRING 1061
+// Doodads: D60D (Círculo de Poder WC2), Name (Nombre)
+{
+Círculo de Poder WC2
+}
+
+STRING 1062
+// Doodads: D60H (Torre Cuadrada), Name (Nombre)
+{
+Torre Cuadrada
+}
+
+STRING 1063
+// Doodads: D60K (Pilar de Mazmorra), Name (Nombre)
+{
+Pilar de Mazmorra
+}
+
+STRING 1065
+// Doodads: D60W (Estandarte Grito de Guerra), Name (Nombre)
+{
+Estandarte Grito de Guerra
+}
+
+STRING 1066
+// Doodads: D60X (Estandarte Cuerno Sangrante), Name (Nombre)
+{
+Estandarte Cuerno Sangrante
+}
+
+STRING 1067
+// Doodads: D60Z (Estandarte Quebrantador de Tormentas), Name (Nombre)
+{
+Estandarte Quebrantador de Tormentas
+}
+
+STRING 1068
+// Doodads: D612 (Estandarte del Clan Crepuscular), Name (Nombre)
+{
+Estandarte del Clan Crepuscular
+}
+
+STRING 1069
+// Doodads: D613 (Estandarte Diente Negro), Name (Nombre)
+{
+Estandarte Diente Negro
+}
+
+STRING 1071
+// Doodads: D61E (Hierba Alta), Name (Nombre)
+{
+Hierba Alta
+}
+
+STRING 1072
+// Doodads: D61N (Torre Cuadrada Alta), Name (Nombre)
+{
+Torre Cuadrada Alta
+}
+
+STRING 1073
+// Doodads: D623 (Estandarte Enano), Name (Nombre)
+{
+Estandarte Enano
+}
+
+STRING 1074
+// Doodads: D646 (Plano de Lava), Name (Nombre)
+{
+Plano de Lava
+}
+
+STRING 1075
+// Doodads: D647 (Enredaderas Envenenadas), Name (Nombre)
+{
+Enredaderas Envenenadas
+}
+
+STRING 1076
+// Doodads: D64C (Caverna Grande), Name (Nombre)
+{
+Caverna Grande
+}
+
+STRING 1077
+// Doodads: D656 (Fuente 2), Name (Nombre)
+{
+Fuente 2
+}
+
+STRING 1078
+// Doodads: D66P (Arbusto de Quel'Thalas), Name (Nombre)
+{
+Arbusto de Quel'Thalas
+}
+
+STRING 1079
+// Doodads: D66T (Arbustos Animados), Name (Nombre)
+{
+Arbustos Animados
+}
+
+STRING 1080
+// Doodads: D66U (Arbusto de Invierno A), Name (Nombre)
+{
+Arbusto de Invierno A
+}
+
+STRING 1081
+// Doodads: D66W (Soporte de Armas Destruido), Name (Nombre)
+{
+Soporte de Armas Destruido
+}
+
+STRING 1082
+// Doodads: D66X (Soporte de Armas Destruido 3), Name (Nombre)
+{
+Soporte de Armas Destruido 3
+}
+
+STRING 1083
+// Doodads: D66Y (Soporte de Armas Destruido 2), Name (Nombre)
+{
+Soporte de Armas Destruido 2
+}
+
+STRING 1084
+// Doodads: D66Z (Soporte de Armas Nuevo 2), Name (Nombre)
+{
+Soporte de Armas Nuevo 2
+}
+
+STRING 1085
+// Doodads: D670 (Soporte de Armas Nuevo 3), Name (Nombre)
+{
+Soporte de Armas Nuevo 3
+}
+
+STRING 1086
+// Doodads: D671 (Soporte de Armas Nuevo), Name (Nombre)
+{
+Soporte de Armas Nuevo
+}
+
+STRING 1087
+// Doodads: D693 (Telaraña Animada), Name (Nombre)
+{
+Telaraña Animada
+}
+
+STRING 1088
+// Doodads: D694 (Plano de Agua), Name (Nombre)
+{
+Plano de Agua
+}
+
+STRING 1089
+// Doodads: D697 (Efecto de Explosión de Alma), Name (Nombre)
+{
+Efecto de Explosión de Alma
+}
+
+STRING 1090
+// Doodads: D698 (Efecto de Ácido Verde), Name (Nombre)
+{
+Efecto de Ácido Verde
+}
+
+STRING 1091
+// Doodads: D699 (Efecto de Cráneo Volador), Name (Nombre)
+{
+Efecto de Cráneo Volador
+}
+
+STRING 1092
+// Doodads: D69A (Tranquilidad), Name (Nombre)
+{
+Tranquilidad
+}
+
+STRING 1093
+// Doodads: D69B (Nube), Name (Nombre)
+{
+Nube
+}
+
+STRING 1094
+// Doodads: D69C (Plaga), Name (Nombre)
+{
+Plaga
+}
+
+STRING 1095
+// Doodads: D69D (Frenesí), Name (Nombre)
+{
+Frenesí
+}
+
+STRING 1096
+// Doodads: D69E (Aura Demoníaca), Name (Nombre)
+{
+Aura Demoníaca
+}
+
+STRING 1097
+// Doodads: D69F (Pintura Mágica del Suelo), Name (Nombre)
+{
+Pintura Mágica del Suelo
+}
+
+STRING 1098
+// Doodads: D69J (Hojas Estelares), Name (Nombre)
+{
+Hojas Estelares
+}
+
+STRING 1099
+// Doodads: D69Q (Edificio de Dalaran Sin Camino), Name (Nombre)
+{
+Edificio de Dalaran Sin Camino
+}
+
+STRING 1100
+// Doodads: D69R (Torre de Dalaran Sin Camino), Name (Nombre)
+{
+Torre de Dalaran Sin Camino
+}
+
+STRING 1101
+// Destructibles: B002 (Puerta), Name (Nombre)
+{
+Puerta
+}
+
+STRING 1102
+// Doodads: D6A4 (Altar Doodad), Name (Nombre)
+{
+Altar Doodad
+}
+
+STRING 1103
+// Doodads: D6A5 (Columna Única Sin Camino), Name (Nombre)
+{
+Columna Única Sin Camino
+}
+
+STRING 1104
+// Doodads: D6A6 (Arco Sin Camino), Name (Nombre)
+{
+Arco Sin Camino
+}
+
+STRING 1105
+// Doodads: D6A7 (Casa Doodad), Name (Nombre)
+{
+Casa Doodad
+}
+
+STRING 1106
+// Doodads: D6A8 (Cielo de Tormenta), Name (Nombre)
+{
+Cielo de Tormenta
+}
+
+STRING 1107
+// Doodads: D6A9 (Nube del Cielo 2), Name (Nombre)
+{
+Nube del Cielo 2
+}
+
+STRING 1108
+// Doodads: D6AA (Nube del Cielo 3), Name (Nombre)
+{
+Nube del Cielo 3
+}
+
+STRING 1109
+// Doodads: D6AB (Nube del Cielo), Name (Nombre)
+{
+Nube del Cielo
+}
+
+STRING 1110
+// Doodads: D6AC (Resplandor), Name (Nombre)
+{
+Resplandor
+}
+
+STRING 1111
+// Doodads: D6AD (Niebla), Name (Nombre)
+{
+Niebla
+}
+
+STRING 1112
+// Doodads: D6AE (Luz), Name (Nombre)
+{
+Luz
+}
+
+STRING 1113
+// Doodads: D6AF (Luz Lateral), Name (Nombre)
+{
+Luz Lateral
+}
+
+STRING 1114
+// Doodads: D6AG (Luz desde Arriba), Name (Nombre)
+{
+Luz desde Arriba
+}
+
+STRING 1115
+// Doodads: D6AH (Grietas de Lava Alternativas), Name (Nombre)
+{
+Grietas de Lava Alternativas
+}
+
+STRING 1116
+// Doodads: D6AL (Arbusto de Tierra Baldía), Name (Nombre)
+{
+Arbusto de Tierra Baldía
+}
+
+STRING 1117
+// Doodads: D6AM (Torre de la Ciudad Capital 2), Name (Nombre)
+{
+Torre de la Ciudad Capital 2
+}
+
+STRING 1118
+// Doodads: D6AN (Cúpula de la Ciudad Capital), Name (Nombre)
+{
+Cúpula de la Ciudad Capital
+}
+
+STRING 1119
+// Doodads: D6AO (Aguja de la Ciudad Capital), Name (Nombre)
+{
+Aguja de la Ciudad Capital
+}
+
+STRING 1120
+// Doodads: D6AP (Arco de la Ciudad), Name (Nombre)
+{
+Arco de la Ciudad
+}
+
+STRING 1121
+// Doodads: D6AT (Torre de la Ciudad Capital), Name (Nombre)
+{
+Torre de la Ciudad Capital
+}
+
+STRING 1122
+// Doodads: D6AV (Estandarte Faucedraco), Name (Nombre)
+{
+Estandarte Faucedraco
+}
+
+STRING 1123
+// Doodads: D6B2 (Arco Enano), Name (Nombre)
+{
+Arco Enano
+}
+
+STRING 1124
+// Doodads: D6B3 (Arco de Moria), Name (Nombre)
+{
+Arco de Moria
+}
+
+STRING 1125
+// Doodads: D6B9 (Roca Subterránea 01), Name (Nombre)
+{
+Roca Subterránea 01
+}
+
+STRING 1126
+// Doodads: D6BA (Roca Subterránea 02), Name (Nombre)
+{
+Roca Subterránea 02
+}
+
+STRING 1127
+// Doodads: D6BB (Roca Subterránea 03), Name (Nombre)
+{
+Roca Subterránea 03
+}
+
+STRING 1128
+// Doodads: D6BC (Roca Subterránea 04), Name (Nombre)
+{
+Roca Subterránea 04
+}
+
+STRING 1129
+// Doodads: D6BD (Roca Subterránea 05), Name (Nombre)
+{
+Roca Subterránea 05
+}
+
+STRING 1130
+// Doodads: D6BE (Roca Subterránea 06), Name (Nombre)
+{
+Roca Subterránea 06
+}
+
+STRING 1131
+// Doodads: D6BF (Roca Subterránea 07), Name (Nombre)
+{
+Roca Subterránea 07
+}
+
+STRING 1132
+// Doodads: D6BG (Roca Subterránea 08), Name (Nombre)
+{
+Roca Subterránea 08
+}
+
+STRING 1133
+// Doodads: D6BH (Roca Subterránea 09), Name (Nombre)
+{
+Roca Subterránea 09
+}
+
+STRING 1134
+// Doodads: D6BL (Oro), Name (Nombre)
+{
+Oro
+}
+
+STRING 1135
+// Doodads: D6BM (Vía Férrea), Name (Nombre)
+{
+Vía Férrea
+}
+
+STRING 1136
+// Doodads: D6BN (Curva de Vía Férrea), Name (Nombre)
+{
+Curva de Vía Férrea
+}
+
+STRING 1137
+// Doodads: D6BO (Fin de Vía Férrea), Name (Nombre)
+{
+Fin de Vía Férrea
+}
+
+STRING 1138
+// Doodads: D6BP (Rama de Vía Férrea 02), Name (Nombre)
+{
+Rama de Vía Férrea 02
+}
+
+STRING 1139
+// Doodads: D6BQ (Rama de Vía Férrea), Name (Nombre)
+{
+Rama de Vía Férrea
+}
+
+STRING 1140
+// Doodads: D6BR (Resplandor Pequeño), Name (Nombre)
+{
+Resplandor Pequeño
+}
+
+STRING 1141
+// Doodads: D6BS (Explosión de Tierra), Name (Nombre)
+{
+Explosión de Tierra
+}
+
+STRING 1142
+// Doodads: D6BU (Fuente), Name (Nombre)
+{
+Fuente
+}
+
+STRING 1143
+// Doodads: D6BV (Hojas Cayendo), Name (Nombre)
+{
+Hojas Cayendo
+}
+
+STRING 1144
+// Doodads: D6CF (Círculo de Poder), Name (Nombre)
+{
+Círculo de Poder
+}
+
+STRING 1145
+// Doodads: D6CG (Cenizas de Volcán), Name (Nombre)
+{
+Cenizas de Volcán
+}
+
+STRING 1146
+// Doodads: D6CI (Portal de Ciudad Doodad), Name (Nombre)
+{
+Portal de Ciudad Doodad
+}
+
+STRING 1147
+// Doodads: D6CL (Suministro de Madera), Name (Nombre)
+{
+Suministro de Madera
+}
+
+STRING 1148
+// Doodads: D6CQ (Raíces), Name (Nombre)
+{
+Raíces
+}
+
+STRING 1149
+// Doodads: D6CR (Caldero Sin Camino), Name (Nombre)
+{
+Caldero Sin Camino
+}
+
+STRING 1150
+// Doodads: D6CS (Brasero Sin Camino), Name (Nombre)
+{
+Brasero Sin Camino
+}
+
+STRING 1151
+// Doodads: D6CV (Soporte de Estandarte), Name (Nombre)
+{
+Soporte de Estandarte
+}
+
+STRING 1152
+// Doodads: D6CW (Columna en Semicírculo Sin Camino), Name (Nombre)
+{
+Columna en Semicírculo Sin Camino
+}
+
+STRING 1153
+// Doodads: D6CZ (Estandarte de los Elfos de la Noche), Name (Nombre)
+{
+Estandarte de los Elfos de la Noche
+}
+
+STRING 1154
+// Doodads: D6D6 (Jaula de Tortura), Name (Nombre)
+{
+Jaula de Tortura
+}
+
+STRING 1155
+// Doodads: D6D8 (Salpicadura de Sangre 01), Name (Nombre)
+{
+Salpicadura de Sangre 01
+}
+
+STRING 1156
+// Doodads: D6D9 (Salpicadura de Sangre 02), Name (Nombre)
+{
+Salpicadura de Sangre 02
+}
+
+STRING 1157
+// Doodads: D6DA (Salpicadura de Sangre 03), Name (Nombre)
+{
+Salpicadura de Sangre 03
+}
+
+STRING 1158
+// Doodads: D6DB (Salpicadura de Sangre 04), Name (Nombre)
+{
+Salpicadura de Sangre 04
+}
+
+STRING 1159
+// Doodads: D6DC (Salpicadura de Sangre 05), Name (Nombre)
+{
+Salpicadura de Sangre 05
+}
+
+STRING 1160
+// Doodads: D6DD (Salpicadura de Sangre 06), Name (Nombre)
+{
+Salpicadura de Sangre 06
+}
+
+STRING 1161
+// Doodads: D6DN (Estandarte de Dalaran), Name (Nombre)
+{
+Estandarte de Dalaran
+}
+
+STRING 1162
+// Doodads: D6DO (Estandarte de Stromgarde), Name (Nombre)
+{
+Estandarte de Stromgarde
+}
+
+STRING 1163
+// Doodads: D6DQ (Estandarte Filo Ardiente), Name (Nombre)
+{
+Estandarte Filo Ardiente
+}
+
+STRING 1164
+// Doodads: D6DS (Cascada de Lava), Name (Nombre)
+{
+Cascada de Lava
+}
+
+STRING 1165
+// Doodads: D6DT (Gran Estructura de Castillo), Name (Nombre)
+{
+Gran Estructura de Castillo
+}
+
+STRING 1166
+// Doodads: D6DW (Muro Largo Doodad), Name (Nombre)
+{
+Muro Largo Doodad
+}
+
+STRING 1167
+// Doodads: D6DX (Muro Corto de Castillo), Name (Nombre)
+{
+Muro Corto de Castillo
+}
+
+STRING 1168
+// Doodads: D6E0 (Pilar de Muro), Name (Nombre)
+{
+Pilar de Muro
+}
+
+STRING 1169
+// Doodads: D6E1 (Puerta Grande de Muro), Name (Nombre)
+{
+Puerta Grande de Muro
+}
+
+STRING 1170
+// Doodads: D6E2 (Puerta de Reja de Muro), Name (Nombre)
+{
+Puerta de Reja de Muro
+}
+
+STRING 1171
+// Doodads: D6E3 (Puerta Pequeña de Muro), Name (Nombre)
+{
+Puerta Pequeña de Muro
+}
+
+STRING 1172
+// Doodads: D6E4 (Pasaje Alto de Puerta de Muro), Name (Nombre)
+{
+Pasaje Alto de Puerta de Muro
+}
+
+STRING 1174
+// Doodads: D6E6 (Pilar de Muro), Name (Nombre)
+{
+Pilar de Muro
+}
+
+STRING 1175
+// Doodads: D6E7 (Antorcha de Muro), Name (Nombre)
+{
+Antorcha de Muro
+}
+
+STRING 1176
+// Doodads: D6E8 (Muro con Ventana), Name (Nombre)
+{
+Muro con Ventana
+}
+
+STRING 1177
+// Doodads: D6E9 (Muro con Reja), Name (Nombre)
+{
+Muro con Reja
+}
+
+STRING 1178
+// Doodads: D6EA (Ventana con Vidrio Real), Name (Nombre)
+{
+Ventana con Vidrio Real
+}
+
+STRING 1179
+// Doodads: D6EB (Puerta Doodad), Name (Nombre)
+{
+Puerta Doodad
+}
+
+STRING 1180
+// Doodads: D6ED (Bloque de Estructura de Ciudad Capital), Name (Nombre)
+{
+Bloque de Estructura de Ciudad Capital
+}
+
+STRING 1181
+// Doodads: D6EE (Cofre), Name (Nombre)
+{
+Cofre
+}
+
+STRING 1182
+// Doodads: D6EF (Cofre de la Horda), Name (Nombre)
+{
+Cofre de la Horda
+}
+
+STRING 1183
+// Doodads: D6EG (Matadero), Name (Nombre)
+{
+Matadero
+}
+
+STRING 1184
+// Doodads: D6EH (Libro Verde), Name (Nombre)
+{
+Libro Verde
+}
+
+STRING 1185
+// Doodads: D6EI (Libro Rojo), Name (Nombre)
+{
+Libro Rojo
+}
+
+STRING 1186
+// Doodads: D6EJ (Libro Azul), Name (Nombre)
+{
+Libro Azul
+}
+
+STRING 1187
+// Doodads: D6ET (Pila de Libros C), Name (Nombre)
+{
+Pila de Libros C
+}
+
+STRING 1188
+// Doodads: D6EU (Pila de Libros B), Name (Nombre)
+{
+Pila de Libros B
+}
+
+STRING 1189
+// Doodads: D6EW (Pila de Libros A), Name (Nombre)
+{
+Pila de Libros A
+}
+
+STRING 1190
+// Doodads: D6EX (Pergaminos), Name (Nombre)
+{
+Pergaminos
+}
+
+STRING 1191
+// Doodads: D6EZ (Tela 01), Name (Nombre)
+{
+Tela 01
+}
+
+STRING 1192
+// Doodads: D6F1 (Tela Roja), Name (Nombre)
+{
+Tela Roja
+}
+
+STRING 1193
+// Doodads: D6F2 (Tela Azul), Name (Nombre)
+{
+Tela Azul
+}
+
+STRING 1194
+// Doodads: D6F3 (Tela 02), Name (Nombre)
+{
+Tela 02
+}
+
+STRING 1195
+// Doodads: D6F7 (Resplandor Pequeño Rojo), Name (Nombre)
+{
+Resplandor Pequeño Rojo
+}
+
+STRING 1196
+// Doodads: D6F8 (Relámpago Ramificado), Name (Nombre)
+{
+Relámpago Ramificado
+}
+
+STRING 1197
+// Doodads: D6F9 (Trigo), Name (Nombre)
+{
+Trigo
+}
+
+STRING 1198
+// Doodads: D6FB (Catedral Antigua en Ruinas), Name (Nombre)
+{
+Catedral Antigua en Ruinas
+}
+
+STRING 1199
+// Doodads: D6FN (Caja de Invierno con Nieve), Name (Nombre)
+{
+Caja de Invierno con Nieve
+}
+
+STRING 1200
+// Doodads: D6FQ (Tablón de Camino con Nieve de Invierno 3), Name (Nombre)
+{
+Tablón de Camino con Nieve de Invierno 3
+}
+
+STRING 1201
+// Doodads: D6FR (Tablón de Camino con Nieve de Invierno 4), Name (Nombre)
+{
+Tablón de Camino con Nieve de Invierno 4
+}
+
+STRING 1202
+// Doodads: D6FS (Tablón de Camino con Nieve de Invierno 2), Name (Nombre)
+{
+Tablón de Camino con Nieve de Invierno 2
+}
+
+STRING 1203
+// Doodads: D6FW (Arbusto de Invierno 4), Name (Nombre)
+{
+Arbusto de Invierno 4
+}
+
+STRING 1204
+// Doodads: D6FX (Escombros de Piedra de Invierno 1), Name (Nombre)
+{
+Escombros de Piedra de Invierno 1
+}
+
+STRING 1205
+// Doodads: D6G6 (Roca de Tierra Baldía 1), Name (Nombre)
+{
+Roca de Tierra Baldía 1
+}
+
+STRING 1206
+// Doodads: D6G7 (Roca Pequeña de Tierra Baldía D), Name (Nombre)
+{
+Roca Pequeña de Tierra Baldía D
+}
+
+STRING 1207
+// Doodads: D6G8 (Roca Pequeña de Tierra Baldía A), Name (Nombre)
+{
+Roca Pequeña de Tierra Baldía A
+}
+
+STRING 1208
+// Doodads: D6G9 (Roca Pequeña de Tierra Baldía B), Name (Nombre)
+{
+Roca Pequeña de Tierra Baldía B
+}
+
+STRING 1209
+// Doodads: D6GA (Roca Pequeña de Tierra Baldía C), Name (Nombre)
+{
+Roca Pequeña de Tierra Baldía C
+}
+
+STRING 1210
+// Doodads: D6GB (Piedra Antigua 1), Name (Nombre)
+{
+Piedra Antigua 1
+}
+
+STRING 1211
+// Doodads: D6GC (Piedra Antigua 2), Name (Nombre)
+{
+Piedra Antigua 2
+}
+
+STRING 1212
+// Doodads: D6GD (Piedra Antigua 3), Name (Nombre)
+{
+Piedra Antigua 3
+}
+
+STRING 1213
+// Doodads: D6GE (Piedra Antigua 4), Name (Nombre)
+{
+Piedra Antigua 4
+}
+
+STRING 1214
+// Doodads: D6GF (Piedra Antigua 5), Name (Nombre)
+{
+Piedra Antigua 5
+}
+
+STRING 1215
+// Doodads: D6GG (Piedra Antigua 6), Name (Nombre)
+{
+Piedra Antigua 6
+}
+
+STRING 1216
+// Doodads: D6GH (Aurora Boreal 1), Name (Nombre)
+{
+Aurora Boreal 1
+}
+
+STRING 1217
+// Doodads: D6GI (Aurora Boreal 2), Name (Nombre)
+{
+Aurora Boreal 2
+}
+}
+
+STRING 1220
+// Doodads: D64B (Exterior de Forjaz 01), Name (Nombre)
+{
+Exterior de Forjaz 01
+}
+
+STRING 1221
+// Doodads: D64F (Exterior de Forjaz 02), Name (Nombre)
+{
+Exterior de Forjaz 02
+}
+
+STRING 1222
+// Doodads: D64G (Exterior de Forjaz 03), Name (Nombre)
+{
+Exterior de Forjaz 03
+}
+
+STRING 1223
+// Doodads: D64I (Exterior de Forjaz 04), Name (Nombre)
+{
+Exterior de Forjaz 04
+}
+
+STRING 1224
+// Doodads: D64K (LOD), Name (Nombre)
+{
+LOD
+}
+
+STRING 1226
+// Doodads: D615 (Agujas Rocosas de Lordaeron), Name (Nombre)
+{
+Agujas Rocosas de Lordaeron
+}
+
+STRING 1227
+// Doodads: D616 (Aguja Rocosa Nevada), Name (Nombre)
+{
+Aguja Rocosa Nevada
+}
+
+STRING 1228
+// Doodads: D617 (Arco de Piedra Invernal Sin Camino), Name (Nombre)
+{
+Arco de Piedra Invernal Sin Camino
+}
+
+STRING 1229
+// Doodads: D60C (Base del Acantilado de Tierra Baldía), Name (Nombre)
+{
+Base del Acantilado de Tierra Baldía
+}
+
+STRING 1230
+// Doodads: D60F (Base del Acantilado de Mazmorra), Name (Nombre)
+{
+Base del Acantilado de Mazmorra
+}
+
+STRING 1231
+// Doodads: D60I (Sótano de Piedra de Mazmorra), Name (Nombre)
+{
+Sótano de Piedra de Mazmorra
+}
+
+STRING 1232
+// Doodads: D60B (Muro Recto de Mazmorra), Name (Nombre)
+{
+Muro Recto de Mazmorra
+}
+
+STRING 1233
+// Doodads: D60E (Columna Masiva Redonda de Mazmorra), Name (Nombre)
+{
+Columna Masiva Redonda de Mazmorra
+}
+
+STRING 1234
+// Doodads: D60J (Estandarte del Clan Roca Negra), Name (Nombre)
+{
+Estandarte del Clan Roca Negra
+}
+
+STRING 1235
+// Doodads: D609 (Soporte de Armadura Orco), Name (Nombre)
+{
+Soporte de Armadura Orco
+}
+
+STRING 1236
+// Doodads: D60L (Soporte de Armas Orco), Name (Nombre)
+{
+Soporte de Armas Orco
+}
+
+STRING 1237
+// Doodads: D60N (Leña), Name (Nombre)
+{
+Leña
+}
+
+STRING 1238
+// Doodads: D60O (Estandarte de Refugiados), Name (Nombre)
+{
+Estandarte de Refugiados
+}
+
+STRING 1239
+// Doodads: D60P (Soporte de Armadura de la Mano de Plata), Name (Nombre)
+{
+Soporte de Armadura de la Mano de Plata
+}
+
+STRING 1240
+// Doodads: D60Q (Soporte de Armas de la Mano de Plata), Name (Nombre)
+{
+Soporte de Armas de la Mano de Plata
+}
+
+STRING 1241
+// Doodads: D60R (Nube de Vapor), Name (Nombre)
+{
+Nube de Vapor
+}
+
+STRING 1242
+// Doodads: D60S (Polvo de Excavación), Name (Nombre)
+{
+Polvo de Excavación
+}
+
+STRING 1243
+// Doodads: D60T (Chispas), Name (Nombre)
+{
+Chispas
+}
+
+STRING 1244
+// Doodads: D60U (Texto de FX Compartidos), Name (Nombre)
+{
+Texto de FX Compartidos
+}
+
+STRING 1245
+// Doodads: D60V (Extremo Pequeño de Muro con Rejas), Name (Nombre)
+{
+Extremo Pequeño de Muro con Rejas
+}
+
+STRING 1246
+// Doodads: D60Y (Extremo de Muro con Rejas Oscuro), Name (Nombre)
+{
+Extremo de Muro con Rejas Oscuro
+}
+
+STRING 1247
+// Doodads: D610 (Extremo Pequeño de Muro con Rejas Oscuro), Name (Nombre)
+{
+Extremo Pequeño de Muro con Rejas Oscuro
+}
+
+STRING 1248
+// Doodads: D60G (Mapa Estratégico), Name (Nombre)
+{
+Mapa Estratégico
+}
+
+STRING 1249
+// Doodads: D611 (Puente Thandol), Name (Nombre)
+{
+Puente Thandol
+}
+
+STRING 1250
+// Doodads: D614 (Montaña01), Name (Nombre)
+{
+Montaña01
+}
+
+STRING 1251
+// Doodads: D618 (Montaña02), Name (Nombre)
+{
+Montaña02
+}
+
+STRING 1252
+// Doodads: D619 (Montaña03), Name (Nombre)
+{
+Montaña03
+}
+
+STRING 1253
+// Doodads: D61A (Montaña04), Name (Nombre)
+{
+Montaña04
+}
+
+STRING 2416
+// Destructibles: B000 (Escaleras de la Ciudad), Name (Nombre)
+{
+Escaleras de la Ciudad
+}
+
+STRING 2417
+// Destructibles: B000 (Escaleras de la Ciudad), EditorSuffix (Sufijo de Editor)
+{
+(2)
+}
+
+STRING 2418
+{
+Horda
+}
+
+STRING 2419
+{
+Fuerza
+}
+
+STRING 2560
+// Destructibles: B001 (Suelo de Ladrillo), Name (Nombre)
+{
+Suelo de Ladrillo
+}
+
+STRING 2655
+// Doodads: D69S (Puerta), Name (Nombre)
+{
+Puerta
+}
+
+STRING 2708
+{
+Jugador 21
+}
+
+STRING 2710
+// Units: ewsp (Objetivo de Cabeza), Name (Nombre)
+{
+Objetivo de Cabeza
+}
+
+STRING 2746
+// Doodads: D6GQ (Estandarte de Pared Roca Negra), Name (Nombre)
+{
+Estandarte de Pared Roca Negra
+}
+
+STRING 2747
+// Doodads: D000 (Estandarte de Pared Diente Negro), Name (Nombre)
+{
+Estandarte de Pared Diente Negro
+}
+
+STRING 2748
+// Doodads: D001 (Estandarte de Pared Cuerno Sangrante), Name (Nombre)
+{
+Estandarte de Pared Cuerno Sangrante
+}
+
+STRING 2749
+// Doodads: D002 (Estandarte de Pared Filo Ardiente), Name (Nombre)
+{
+Estandarte de Pared Filo Ardiente
+}
+
+STRING 2750
+// Doodads: D003 (Estandarte de Pared Faucedraco), Name (Nombre)
+{
+Estandarte de Pared Faucedraco
+}
+
+STRING 2751
+// Doodads: D004 (Estandarte de Pared Martillo del Alba), Name (Nombre)
+{
+Estandarte de Pared Martillo del Alba
+}
+
+STRING 2760
+// Doodads: D005 (Rocas Rompeolas), Name (Nombre)
+{
+Rocas Rompeolas
+}
+
+STRING 2822
+// Units: n009 (Barco), EditorSuffix (Sufijo de Editor)
+{
+B
+}
+
+STRING 2826
+// Destructibles: B003 (Trono de Ventormenta), Name (Nombre)
+{
+Trono de Ventormenta
+}
+
+STRING 2827
+// Destructibles: B004 (Base del Trono de Ventormenta), Name (Nombre)
+{
+Base del Trono de Ventormenta
+}
+
+STRING 2828
+// Doodads: D006 (Sombra), Name (Nombre)
+{
+Sombra
+}
+
+STRING 2830
+// Units: o008 (Grunt Cinemático), EditorSuffix (Sufijo de Editor)
+{
+(Con Antorcha)
+}
+
+STRING 2831
+// Units: o008 (Grunt Cinemático), Name (Nombre)
+{
+Grunt Cinemático
+}
+
+STRING 2832
+// Doodads: D007 (Montón de Oro 01), Name (Nombre)
+{
+Montón de Oro 01
+}
+
+STRING 2833
+// Doodads: D008 (Montón de Oro 02), Name (Nombre)
+{
+Montón de Oro 02
+}
+
+STRING 2834
+// Doodads: D009 (Montón de Oro 03), Name (Nombre)
+{
+Montón de Oro 03
+}
+
+STRING 2835
+// Doodads: D00A (Montón de Oro 04), Name (Nombre)
+{
+Montón de Oro 04
+}
+
+STRING 2836
+// Doodads: D00B (Montón de Oro 05), Name (Nombre)
+{
+Montón de Oro 05
+}
+
+STRING 2837
+// Doodads: D00C (Montón de Oro 06), Name (Nombre)
+{
+Montón de Oro 06
+}
+
+STRING 2838
+// Doodads: D00D (Montón de Oro 07), Name (Nombre)
+{
+Montón de Oro 07
+}
+
+STRING 2839
+// Doodads: D00E (Montón de Oro 08), Name (Nombre)
+{
+Montón de Oro 08
+}
+
+STRING 2840
+// Doodads: D00F (Montón de Oro 09), Name (Nombre)
+{
+Montón de Oro 09
+}
+
+STRING 2841
+// Doodads: D00G (Montón de Oro 10), Name (Nombre)
+{
+Montón de Oro 10
+}
+
+STRING 2842
+// Doodads: D00H (Luz Roja), Name (Nombre)
+{
+Luz Roja
+}
+
+STRING 2845
+// Doodads: D6E5 (Hueco de Pared en Arco), Name (Nombre)
+{
+Hueco de Pared en Arco
+}
+
+STRING 2846
+// Doodads: D00J (Hueco de Pared en Arco Grande), Name (Nombre)
+{
+Hueco de Pared en Arco Grande
+}
+
+STRING 2852
+{
+Martillo del Alba
+}
+
+STRING 2853
+{
+Jugador 2
+}
+
+STRING 2854
+{
+Jugador 7
+}
+
+STRING 2855
+// Doodads: D64L (Montañas de Fondo), Name (Nombre)
+{
+Montañas de Fondo
+}
+
+STRING 2856
+// Doodads: D00I (Luz Melocotón Débil), Name (Nombre)
+{
+Luz Melocotón Débil
+}
+
+STRING 2857
+// Units: nX1B (Torre de Tumba), Name (Nombre)
+{
+Torre de Tumba
+}
+
+STRING 2858
+// Units: nX2B (Tumba de Sargeras), Name (Nombre)
+{
+Tumba de Sargeras
+}
+
+STRING 2863
+{
+Varias semanas después...
+}
+
+STRING 2864
+// Items: IAL0 (WC2ORCACT01MartilloMaldito1), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2865
+// Items: IAL0 (WC2ORCACT01MartilloMaldito1), Description (Descripción)
+{
+Throm'ka, Varok! Gracias, lo hice traer de las forjas de Roca Negra en Draenor hace unos días. De esta forma, un pedazo de nuestro hogar siempre me acompañará en las batallas por venir.
+}
+
+STRING 2866
+// Items: IAL0 (WC2ORCACT01MartilloMaldito1), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito1
+}
+
+STRING 2867
+// Items: IAL1 (WC2ORCACT01MartilloMaldito2), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2868
+// Items: IAL1 (WC2ORCACT01MartilloMaldito2), Description (Descripción)
+{
+¿Traes alguna noticia?
+}
+
+STRING 2869
+// Items: IAL1 (WC2ORCACT01MartilloMaldito2), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito2
+}
+
+STRING 2870
+// Items: IAL2 (WC2ORCACT01MartilloMaldito3), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2871
+// Items: IAL2 (WC2ORCACT01MartilloMaldito3), Description (Descripción)
+{
+¿Y el brujo? ¿Lograsteis capturarlo con vida?
+}
+
+STRING 2872
+// Items: IAL2 (WC2ORCACT01MartilloMaldito3), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito3
+}
+
+STRING 2873
+// Items: IAL3 (WC2ORCACT01MartilloMaldito4), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2874
+// Items: IAL3 (WC2ORCACT01MartilloMaldito4), Description (Descripción)
+{
+Quiero que él y los miembros restantes del consejo sean llevados a la ciudad. Encerradlos. Enseñaré al brujo los peligros de la traición...
+}
+
+STRING 2875
+// Items: IAL3 (WC2ORCACT01MartilloMaldito4), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito4
+}
+
+STRING 2876
+// Items: IAL4 (WC2ORCACT01MartilloMaldito5), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2877
+// Items: IAL4 (WC2ORCACT01MartilloMaldito5), Description (Descripción)
+{
+Que vengan. Tengo órdenes para ellos.
+}
+
+STRING 2878
+// Items: IAL4 (WC2ORCACT01MartilloMaldito5), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito5
+}
+
+STRING 2879
+// Items: IAL5 (WC2ORCACT01MartilloMaldito6), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2880
+// Items: IAL5 (WC2ORCACT01MartilloMaldito6), Description (Descripción)
+{
+Sus vidas están en mis manos, Varok. Se sometieron a mí tras el Mak'gora. Les encontraré un buen uso.
+}
+
+STRING 2881
+// Items: IAL5 (WC2ORCACT01MartilloMaldito6), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito6
+}
+
+STRING 2882
+// Items: IAL6 (WC2ORCACT01MartilloMaldito7), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2883
+// Items: IAL6 (WC2ORCACT01MartilloMaldito7), Description (Descripción)
+{
+Lok'tar. Antes que nada, quiero que ambos recordéis siempre que me debéis la vida. La unidad y la fuerza de la Horda son mi máxima prioridad. Por eso acepté vuestros juramentos de lealtad, a pesar de los rumores que circulan.
+}
+
+STRING 2884
+// Items: IAL6 (WC2ORCACT01MartilloMaldito7), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito7
+}
+
+STRING 2885
+// Items: IAL7 (WC2ORCACT01MartilloMaldito8), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2886
+// Items: IAL7 (WC2ORCACT01MartilloMaldito8), Description (Descripción)
+{
+Que estáis planeando una rebelión contra mi mandato.
+}
+
+STRING 2887
+// Items: IAL7 (WC2ORCACT01MartilloMaldito8), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito8
+}
+
+STRING 2888
+// Items: IAL8 (WC2ORCACT01MartilloMaldito9), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2889
+// Items: IAL8 (WC2ORCACT01MartilloMaldito9), Description (Descripción)
+{
+Bien. Me complace que lo entendáis. Por eso tengo una propuesta. Heredaréis el clan Diente Negro y os llevaréis a todos los leales de Puño Negro con vosotros.
+}
+
+STRING 2890
+// Items: IAL8 (WC2ORCACT01MartilloMaldito9), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito9
+}
+
+STRING 2891
+// Items: IAL9 (WC2ORCACT01MartilloMaldito10), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2892
+// Items: IAL9 (WC2ORCACT01MartilloMaldito10), Description (Descripción)
+{
+A cambio, espero que sigáis mis órdenes con fiereza y sin cuestionarlas.
+}
+
+STRING 2893
+// Items: IAL9 (WC2ORCACT01MartilloMaldito10), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito10
+}
+
+STRING 2894
+// Items: IALa (WC2ORCACT01MartilloMaldito11), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2895
+// Items: IALa (WC2ORCACT01MartilloMaldito11), Description (Descripción)
+{
+Bien.
+}
+
+STRING 2896
+// Items: IALa (WC2ORCACT01MartilloMaldito11), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito11
+}
+
+STRING 2897
+// Items: IALb (WC2ORCACT01MartilloMaldito12), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2898
+// Items: IALb (WC2ORCACT01MartilloMaldito12), Description (Descripción)
+{
+Sí, los dejé ir.
+}
+
+STRING 2899
+// Items: IALb (WC2ORCACT01MartilloMaldito12), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito12
+}
+
+STRING 2900
+// Items: IALc (WC2ORCACT01MartilloMaldito13), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2901
+// Items: IALc (WC2ORCACT01MartilloMaldito13), Description (Descripción)
+{
+Sus historias de muerte y terror se extenderán por el norte como un incendio. Sus aliados nos temerán mucho antes de siquiera enfrentarnos. No me cuestionéis de nuevo.
+}
+
+STRING 2902
+// Items: IALc (WC2ORCACT01MartilloMaldito13), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito13
+}
+
+STRING 2903
+// Items: IALd (WC2ORCACT01MartilloMaldito14), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2904
+// Items: IALd (WC2ORCACT01MartilloMaldito14), Description (Descripción)
+{
+Bien. Ahora, si estáis tan preocupados por esos barcos humanos, tengo una misión para vosotros.
+}
+
+STRING 2905
+// Items: IALd (WC2ORCACT01MartilloMaldito14), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito14
+}
+
+STRING 2906
+// Items: IALe (WC2ORCACT01MartilloMaldito15), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2907
+// Items: IALe (WC2ORCACT01MartilloMaldito15), Description (Descripción)
+{
+Los refugiados se dirigen a un reino del norte llamado Lordaeron. Nuestros prisioneros han revelado que este reino humano no solo es el mayor aliado de Ventormenta, sino también la nación humana más poderosa del norte.
+}
+
+STRING 2908
+// Items: IALe (WC2ORCACT01MartilloMaldito15), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito15
+}
+
+STRING 2909
+// Items: IALf (WC2ORCACT01MartilloMaldito16), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2910
+// Items: IALf (WC2ORCACT01MartilloMaldito16), Description (Descripción)
+{
+He ordenado a un orco ambicioso llamado Utok el Arañador que establezca una base en la isla de Zul'dare, cerca de las costas del sur de Lordaeron.
+}
+
+STRING 2911
+// Items: IALf (WC2ORCACT01MartilloMaldito16), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito16
+}
+
+STRING 2912
+// Items: IALg (WC2ORCACT01MartilloMaldito17), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2913
+// Items: IALg (WC2ORCACT01MartilloMaldito17), Description (Descripción)
+{
+Lo acompañaréis en esta misión. Desde Zul'dare evaluaréis la fuerza del enemigo y os prepararéis para la llegada de nuestra fuerza de invasión. Esta será vuestra primera prueba, Rend Puño Negro.
+}
+
+STRING 2914
+// Items: IALg (WC2ORCACT01MartilloMaldito17), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito17
+}
+
+STRING 2915
+// Items: IALh (WC2ORCACT01MartilloMaldito18), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2916
+// Items: IALh (WC2ORCACT01MartilloMaldito18), Description (Descripción)
+{
+Inmediatamente.
+}
+
+STRING 2917
+// Items: IALh (WC2ORCACT01MartilloMaldito18), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito18
+}
+
+STRING 2918
+// Items: IALi (WC2ORCACT01MartilloMaldito19), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2919
+// Items: IALi (WC2ORCACT01MartilloMaldito19), Description (Descripción)
+{
+Te necesito aquí, Maim. Observarás el estado de Gul'dan cuando llegue a la ciudad. Quiero que sea llevado ante mí en cuanto despierte de su coma.
+}
+
+STRING 2920
+// Items: IALi (WC2ORCACT01MartilloMaldito19), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito19
+}
+
+STRING 2921
+// Items: IALj (WC2ORCACT01MartilloMaldito20), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2922
+// Items: IALj (WC2ORCACT01MartilloMaldito20), Description (Descripción)
+{
+...Sí
+}
+
+STRING 2923
+// Items: IALj (WC2ORCACT01MartilloMaldito20), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito20
+}
+
+STRING 2924
+// Items: IALk (WC2ORCACT01MartilloMaldito21), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2925
+// Items: IALk (WC2ORCACT01MartilloMaldito21), Description (Descripción)
+{
+Como excepción... Le diré a Colmillosauro que te devuelva tu lobo.
+}
+
+STRING 2926
+// Items: IALk (WC2ORCACT01MartilloMaldito21), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito21
+}
+
+STRING 2927
+// Items: IALl (WC2ORCACT01MartilloMaldito22), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2928
+// Items: IALl (WC2ORCACT01MartilloMaldito22), Description (Descripción)
+{
+¡Basta! Un jinete de lobos es suficiente para tu clan. ¡Ahora, fuera!
+}
+
+STRING 2929
+// Items: IALl (WC2ORCACT01MartilloMaldito22), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito22
+}
+
+STRING 2930
+// Items: IALm (WC2ORCACT01MartilloMaldito23), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2931
+// Items: IALm (WC2ORCACT01MartilloMaldito23), Description (Descripción)
+{
+Así que al fin despertaste...
+}
+
+STRING 2932
+// Items: IALm (WC2ORCACT01MartilloMaldito23), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito23
+}
+
+STRING 2933
+// Items: IALn (WC2ORCACT01MartilloMaldito24), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2934
+// Items: IALn (WC2ORCACT01MartilloMaldito24), Description (Descripción)
+{
+¡Silencio!
+}
+
+STRING 2935
+// Items: IALn (WC2ORCACT01MartilloMaldito24), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito24
+}
+
+STRING 2936
+// Items: IALo (WC2ORCACT01MartilloMaldito25), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2937
+// Items: IALo (WC2ORCACT01MartilloMaldito25), Description (Descripción)
+{
+Sé lo que hiciste, Gul'dan. Sé cómo manipulaste a Puño Negro, y cómo tu Consejo de la Sombra manejó los hilos de la Horda en secreto.
+}
+
+STRING 2938
+// Items: IALo (WC2ORCACT01MartilloMaldito25), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito25
+}
+
+STRING 2939
+// Items: IALp (WC2ORCACT01MartilloMaldito26), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2940
+// Items: IALp (WC2ORCACT01MartilloMaldito26), Description (Descripción)
+{
+Tus negras magias no te salvarán ahora. Tú y tu vil calaña casi nos destruís a todos, manchando nuestro honor y orgullosas tradiciones con tus trucos y brujería... ¡y por esto pagarás caro!
+}
+
+STRING 2941
+// Items: IALp (WC2ORCACT01MartilloMaldito26), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito26
+}
+
+STRING 2942
+// Items: IALq (WC2ORCACT01MartilloMaldito27), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2943
+// Items: IALq (WC2ORCACT01MartilloMaldito27), Description (Descripción)
+{
+Dame una buena razón para perdonar tu miserable vida, brujo.
+}
+
+STRING 2944
+// Items: IALq (WC2ORCACT01MartilloMaldito27), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito27
+}
+
+STRING 2945
+// Items: IALr (WC2ORCACT01MartilloMaldito28), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2946
+// Items: IALr (WC2ORCACT01MartilloMaldito28), Description (Descripción)
+{
+Palabras vacías, Gul'dan.
+}
+
+STRING 2947
+// Items: IALr (WC2ORCACT01MartilloMaldito28), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito28
+}
+
+STRING 2948
+// Items: IALs (WC2ORCACT01MartilloMaldito29), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2949
+// Items: IALs (WC2ORCACT01MartilloMaldito29), Description (Descripción)
+{
+Lo que dices es... cierto. Muy bien entonces, antepondré los intereses de la Horda a los míos en este asunto. Perdonaré tu vida y las vidas de tu Consejo de la Sombra restante, pero solo mientras sirváis a la Horda.
+}
+
+STRING 2950
+// Items: IALs (WC2ORCACT01MartilloMaldito29), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito29
+}
+
+STRING 2951
+// Items: IALt (WC2ORCACT01MartilloMaldito30), Tip (Descripción - Básica)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 2952
+// Items: IALt (WC2ORCACT01MartilloMaldito30), Description (Descripción)
+{
+Asegúrate de hacerlo... Te estaré observando de cerca, Gul'dan. Si te desvías de este camino, tu vida será perdida.
+}
+
+STRING 2953
+// Items: IALt (WC2ORCACT01MartilloMaldito30), Name (Nombre)
+{
+WC2ORCACT01MartilloMaldito30
+}
+
+STRING 2954
+// Items: IALu (WC2ORCACT01Guldan1), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2955
+// Items: IALu (WC2ORCACT01Guldan1), Description (Descripción)
+{
+Ah... ahí estás, Medivh. La Horda está progresando excelentemente. El Reino de los Humanos está casi derrotado. Ventormenta no durará mucho más.
+}
+
+STRING 2956
+// Items: IALu (WC2ORCACT01Guldan1), Name (Nombre)
+{
+WC2ORCACT01Guldan1
+}
+
+STRING 2957
+// Items: IALv (WC2ORCACT01Guldan2), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2958
+// Items: IALv (WC2ORCACT01Guldan2), Description (Descripción)
+{
+Todos serán esclavizados o asesinados...
+}
+
+STRING 2959
+// Items: IALv (WC2ORCACT01Guldan2), Name (Nombre)
+{
+WC2ORCACT01Guldan2
+}
+
+STRING 2960
+// Items: IALw (WC2ORCACT01Guldan3), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2961
+// Items: IALw (WC2ORCACT01Guldan3), Description (Descripción)
+{
+¡Qué sabes tú de Kil'jaeden, humano!
+}
+
+STRING 2962
+// Items: IALw (WC2ORCACT01Guldan3), Name (Nombre)
+{
+WC2ORCACT01Guldan3
+}
+
+STRING 2963
+// Items: IALx (WC2ORCACT01Guldan4), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2964
+// Items: IALx (WC2ORCACT01Guldan4), Description (Descripción)
+{
+¿Entonces cuál es el punto de esta conversación? Estoy agradecido por tu ayuda al abrir el portal... y por la información que nos ayudará a derrotar a los débiles de este mundo, pero ¿qué quieres a cambio?
+}
+
+STRING 2965
+// Items: IALx (WC2ORCACT01Guldan4), Name (Nombre)
+{
+WC2ORCACT01Guldan4
+}
+
+STRING 2966
+// Items: IALy (WC2ORCACT01Guldan5), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2967
+// Items: IALy (WC2ORCACT01Guldan5), Description (Descripción)
+{
+¡Este mundo pertenecerá a la Horda!
+}
+
+STRING 2968
+// Items: IALy (WC2ORCACT01Guldan5), Name (Nombre)
+{
+WC2ORCACT01Guldan5
+}
+
+STRING 2969
+// Items: IALz (WC2ORCACT01Guldan6), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2970
+// Items: IALz (WC2ORCACT01Guldan6), Description (Descripción)
+{
+¿Y qué sería eso?
+}
+
+STRING 2971
+// Items: IALz (WC2ORCACT01Guldan6), Name (Nombre)
+{
+WC2ORCACT01Guldan6
+}
+
+STRING 2972
+// Items: IALZ (WC2ORCACT01Guldan7), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2973
+// Items: IALZ (WC2ORCACT01Guldan7), Description (Descripción)
+{
+Interesante... ¿y dónde puede encontrarse tal poder?
+}
+
+STRING 2974
+// Items: IALZ (WC2ORCACT01Guldan7), Name (Nombre)
+{
+WC2ORCACT01Guldan7
+}
+
+STRING 2975
+// Items: IALY (WC2ORCACT01Guldan8), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2976
+// Items: IALY (WC2ORCACT01Guldan8), Description (Descripción)
+{
+¿Y dónde puedo encontrar esta tumba?
+}
+
+STRING 2977
+// Items: IALY (WC2ORCACT01Guldan8), Name (Nombre)
+{
+WC2ORCACT01Guldan8
+}
+
+STRING 2978
+// Items: IALX (WC2ORCACT01Guldan9), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2979
+// Items: IALX (WC2ORCACT01Guldan9), Description (Descripción)
+{
+¡Medivh! ¿Dónde está?
+}
+
+STRING 2980
+// Items: IALX (WC2ORCACT01Guldan9), Name (Nombre)
+{
+WC2ORCACT01Guldan9
+}
+
+STRING 2981
+// Items: IALW (WC2ORCACT01Guldan10), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2982
+// Items: IALW (WC2ORCACT01Guldan10), Description (Descripción)
+{
+¡No! ¿Dónde está la Tumba?! ¿Dónde...
+}
+
+STRING 2983
+// Items: IALW (WC2ORCACT01Guldan10), Name (Nombre)
+{
+WC2ORCACT01Guldan10
+}
+
+STRING 2984
+// Items: IALV (WC2ORCACT01Guldan11), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2985
+// Items: IALV (WC2ORCACT01Guldan11), Description (Descripción)
+{
+Dónde...   ...estoy?
+}
+
+STRING 2986
+// Items: IALV (WC2ORCACT01Guldan11), Name (Nombre)
+{
+WC2ORCACT01Guldan11
+}
+
+STRING 2987
+// Items: IALU (WC2ORCACT01Guldan12), Tip (Descripción - Básica)
+{
+Gul'dan
+}
+
+STRING 2988
+// Items: IALU (WC2ORCACT01Guldan12), Description (Descripción)
+{
+No me derroto tan fácilmente... ¿Tenías miedo de que te dejara a merced de Puño Negro, Cho'gall?
+}
+
+STRING 2989
+// Items: IALU (WC2ORCACT01Guldan12), Name (Name)
+{
+WC2ORCACT01Guldan12
+}
+
+STRING 2990
+// Items: IALT (WC2ORCACT01Guldan13), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 2991
+// Items: IALT (WC2ORCACT01Guldan13), Description (Description)
+{
+¿Muerto? ¿Qué ha pasado?
+}
+
+STRING 2992
+// Items: IALT (WC2ORCACT01Guldan13), Name (Name)
+{
+WC2ORCACT01Guldan13
+}
+
+STRING 2993
+// Items: IALS (WC2ORCACT01Guldan14), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 2994
+// Items: IALS (WC2ORCACT01Guldan14), Description (Description)
+{
+¿Adónde me lleváis?
+}
+
+STRING 2995
+// Items: IALS (WC2ORCACT01Guldan14), Name (Name)
+{
+WC2ORCACT01Guldan14
+}
+
+STRING 2996
+// Items: IALR (WC2ORCACT01Guldan15), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 2997
+// Items: IALR (WC2ORCACT01Guldan15), Description (Description)
+{
+¡¿Quién?! ¡¿Quién ha hecho esto?!
+}
+
+STRING 2998
+// Items: IALR (WC2ORCACT01Guldan15), Name (Name)
+{
+WC2ORCACT01Guldan15
+}
+
+STRING 2999
+// Items: IALQ (WC2ORCACT01Guldan16), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3000
+// Items: IALQ (WC2ORCACT01Guldan16), Description (Description)
+{
+Maestro, yo...
+}
+
+STRING 3001
+// Items: IALQ (WC2ORCACT01Guldan16), Name (Name)
+{
+WC2ORCACT01Guldan16
+}
+
+STRING 3002
+// Items: IALP (WC2ORCACT01Guldan17), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3003
+// Items: IALP (WC2ORCACT01Guldan17), Description (Description)
+{
+No... no hagas esto, ¡Martillo Maldito!
+}
+
+STRING 3004
+// Items: IALP (WC2ORCACT01Guldan17), Name (Name)
+{
+WC2ORCACT01Guldan17
+}
+
+STRING 3005
+// Items: IALO (WC2ORCACT01Guldan18), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3006
+// Items: IALO (WC2ORCACT01Guldan18), Description (Description)
+{
+¡Me inclino ante tu fuerza, poderoso Martillo Maldito! ¡Te reconozco como Jefe de Guerra de la Horda y juro lealtad eterna hacia ti!
+}
+
+STRING 3007
+// Items: IALO (WC2ORCACT01Guldan18), Name (Name)
+{
+WC2ORCACT01Guldan18
+}
+
+STRING 3008
+// Items: IALN (WC2ORCACT01Guldan19), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3009
+// Items: IALN (WC2ORCACT01Guldan19), Description (Description)
+{
+¡Nos necesitamos el uno al otro, Jefe de Guerra! Sí, eres mucho más fuerte, sabio y visionario que Puño Negro, pero no puedes ganar la guerra que se avecina por ti solo.
+}
+
+STRING 3010
+// Items: IALN (WC2ORCACT01Guldan19), Name (Name)
+{
+WC2ORCACT01Guldan19
+}
+
+STRING 3011
+// Items: IALM (WC2ORCACT01Guldan20), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3012
+// Items: IALM (WC2ORCACT01Guldan20), Description (Description)
+{
+Ambos sabemos que los humanos no son la única amenaza, y que este no era su único reino. La Horda no podrá mantener su superioridad en las guerras por venir sin brujos. No deseches este poder por venganza.
+}
+
+STRING 3013
+// Items: IALM (WC2ORCACT01Guldan20), Name (Name)
+{
+WC2ORCACT01Guldan20
+}
+
+STRING 3014
+// Items: IALL (WC2ORCACT01Guldan21), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3015
+// Items: IALL (WC2ORCACT01Guldan21), Description (Description)
+{
+Gracias, poderoso Martillo Maldito. Crearé guerreros capaces de resistir incluso a los sacerdotes y magos más poderosos de los humanos. Solo serán leales a ti, ¡te lo juro!
+}
+
+STRING 3016
+// Items: IALL (WC2ORCACT01Guldan21), Name (Name)
+{
+WC2ORCACT01Guldan21
+}
+
+STRING 3017
+// Items: IALK (WC2ORCACT01Guldan22), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3018
+// Items: IALK (WC2ORCACT01Guldan22), Description (Description)
+{
+Reunid al Consejo de la Sombra y convocad a los que queden... tenemos mucho trabajo por hacer.
+}
+
+STRING 3019
+// Items: IALK (WC2ORCACT01Guldan22), Name (Name)
+{
+WC2ORCACT01Guldan22
+}
+
+STRING 3020
+// Items: IALJ (WC2ORCACT01Rend1), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3021
+// Items: IALJ (WC2ORCACT01Rend1), Description (Description)
+{
+Lok'tar... Jefe de Guerra.
+}
+
+STRING 3022
+// Items: IALJ (WC2ORCACT01Rend1), Name (Name)
+{
+WC2ORCACT01Rend1
+}
+
+STRING 3023
+// Items: IALI (WC2ORCACT01Rend2), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3024
+// Items: IALI (WC2ORCACT01Rend2), Description (Description)
+{
+Algunos orcos leales a mi padre quizá deseen algo así... pero reconocemos tu superioridad, Jefe de Guerra. No nos arriesgaremos a empezar una guerra civil.
+}
+
+STRING 3025
+// Items: IALI (WC2ORCACT01Rend2), Name (Name)
+{
+WC2ORCACT01Rend2
+}
+
+STRING 3026
+// Items: IALH (WC2ORCACT01Rend3), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3027
+// Items: IALH (WC2ORCACT01Rend3), Description (Description)
+{
+Es una propuesta muy generosa, Jefe de Guerra.
+}
+
+STRING 3028
+// Items: IALH (WC2ORCACT01Rend3), Name (Name)
+{
+WC2ORCACT01Rend3
+}
+
+STRING 3029
+// Items: IALG (WC2ORCACT01Rend4), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3030
+// Items: IALG (WC2ORCACT01Rend4), Description (Description)
+{
+Se dirigen al norte... ¡llamarán a sus aliados para vengarse! Jefe de Guerra, ¿has dejado escapar a los humanos?
+}
+
+STRING 3031
+// Items: IALG (WC2ORCACT01Rend4), Name (Name)
+{
+WC2ORCACT01Rend4
+}
+
+STRING 3032
+// Items: IALF (WC2ORCACT01Rend5), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3033
+// Items: IALF (WC2ORCACT01Rend5), Description (Description)
+{
+Pero ¿por qué?
+}
+
+STRING 3034
+// Items: IALF (WC2ORCACT01Rend5), Name (Name)
+{
+WC2ORCACT01Rend5
+}
+
+STRING 3035
+// Items: IALE (WC2ORCACT01Rend6), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3036
+// Items: IALE (WC2ORCACT01Rend6), Description (Description)
+{
+Ehm...
+}
+
+STRING 3037
+// Items: IALE (WC2ORCACT01Rend6), Name (Name)
+{
+WC2ORCACT01Rend6
+}
+
+STRING 3038
+// Items: IALD (WC2ORCACT01Rend7), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3039
+// Items: IALD (WC2ORCACT01Rend7), Description (Description)
+{
+¿Cuándo parto?
+}
+
+STRING 3040
+// Items: IALD (WC2ORCACT01Rend7), Name (Name)
+{
+WC2ORCACT01Rend7
+}
+
+STRING 3041
+// Items: IALC (WC2ORCACT01Rend8), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3042
+// Items: IALC (WC2ORCACT01Rend8), Description (Description)
+{
+Jefe de Guerra... tengo una petición personal...
+}
+
+STRING 3043
+// Items: IALC (WC2ORCACT01Rend8), Name (Name)
+{
+WC2ORCACT01Rend8
+}
+
+STRING 3044
+// Items: IALB (WC2ORCACT01Rend9), Tip (Tooltip - Basic)
+{
+Rend Puño Negro
+}
+
+STRING 3045
+// Items: IALB (WC2ORCACT01Rend9), Description (Description)
+{
+Disolviste a los jinetes de lobos tras asumir el mando de Jefe de Guerra. Un caudillo no es tal sin su lobo. Necesito recuperar el mío.
+}
+
+STRING 3046
+// Items: IALB (WC2ORCACT01Rend9), Name (Name)
+{
+WC2ORCACT01Rend9
+}
+
+STRING 3047
+// Items: IALA (WC2ORCACT01Maim1), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3048
+// Items: IALA (WC2ORCACT01Maim1), Description (Description)
+{
+Lok'tar... Esperamos tus órdenes, Jefe de Guerra.
+}
+
+STRING 3049
+// Items: IALA (WC2ORCACT01Maim1), Name (Name)
+{
+WC2ORCACT01Maim1
+}
+
+STRING 3050
+// Items: IaLA (WC2ORCACT01Maim2), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3051
+// Items: IaLA (WC2ORCACT01Maim2), Description (Description)
+{
+¿Qué rumores?
+}
+
+STRING 3052
+// Items: IaLA (WC2ORCACT01Maim2), Name (Name)
+{
+WC2ORCACT01Maim2
+}
+
+STRING 3053
+// Items: IaLB (WC2ORCACT01Maim3), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3054
+// Items: IaLB (WC2ORCACT01Maim3), Description (Description)
+{
+Nuestro clan servirá bien a la Horda, Jefe de Guerra.
+}
+
+STRING 3055
+// Items: IaLB (WC2ORCACT01Maim3), Name (Name)
+{
+WC2ORCACT01Maim3
+}
+
+STRING 3056
+// Items: IaLC (WC2ORCACT01Maim4), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3057
+// Items: IaLC (WC2ORCACT01Maim4), Description (Description)
+{
+Espera, ¿qué es eso? ¿Barcos humanos?
+}
+
+STRING 3058
+// Items: IaLC (WC2ORCACT01Maim4), Name (Name)
+{
+WC2ORCACT01Maim4
+}
+
+STRING 3059
+// Items: IaLD (WC2ORCACT01Maim5), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3060
+// Items: IaLD (WC2ORCACT01Maim5), Description (Description)
+{
+Se hará... Jefe de Guerra.
+}
+
+STRING 3061
+// Items: IaLD (WC2ORCACT01Maim5), Name (Name)
+{
+WC2ORCACT01Maim5
+}
+
+STRING 3062
+// Items: IaLE (WC2ORCACT01Maim6), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3063
+// Items: IaLE (WC2ORCACT01Maim6), Description (Description)
+{
+¡Y yo! Yo también quiero recuperar mi lobo.
+}
+
+STRING 3064
+// Items: IaLE (WC2ORCACT01Maim6), Name (Name)
+{
+WC2ORCACT01Maim6
+}
+
+STRING 3065
+// Items: IaLF (WC2ORCACT01Maim7), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3066
+// Items: IaLF (WC2ORCACT01Maim7), Description (Description)
+{
+¿Por qué a él te dejó recuperar tu lobo y a mí no?
+}
+
+STRING 3067
+// Items: IaLF (WC2ORCACT01Maim7), Name (Name)
+{
+WC2ORCACT01Maim7
+}
+
+STRING 3068
+// Items: IaLG (WC2ORCACT01Maim8), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3069
+// Items: IaLG (WC2ORCACT01Maim8), Description (Description)
+{
+Así que... al fin el brujo despierta. El Jefe de Guerra quiere verte. Sígueme y no hagas movimientos bruscos. Si lo haces, te cortaré las manos.
+}
+
+STRING 3070
+// Items: IaLG (WC2ORCACT01Maim8), Name (Name)
+{
+WC2ORCACT01Maim8
+}
+
+STRING 3071
+// Items: IaLH (WC2ORCACT01Maim9), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3072
+// Items: IaLH (WC2ORCACT01Maim9), Description (Description)
+{
+¡Estoy harto de este hedor putrefacto! ¡Recoged todo lo valioso y quemad los cadáveres!
+}
+
+STRING 3073
+// Items: IaLH (WC2ORCACT01Maim9), Name (Name)
+{
+WC2ORCACT01Maim9
+}
+
+STRING 3074
+// Items: IaLI (WC2ORCACT01Maim10), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3075
+// Items: IaLI (WC2ORCACT01Maim10), Description (Description)
+{
+¡De vuelta al trabajo! Revisad los escombros... necesitamos los materiales.
+}
+
+STRING 3076
+// Items: IaLI (WC2ORCACT01Maim10), Name (Name)
+{
+WC2ORCACT01Maim10
+}
+
+STRING 3077
+// Items: IaLJ (WC2ORCACT01Maim12), Tip (Tooltip - Basic)
+{
+Maim Puño Negro
+}
+
+STRING 3078
+// Items: IaLJ (WC2ORCACT01Maim12), Description (Description)
+{
+¿Y qué hay de mí, Jefe de Guerra?
+}
+
+STRING 3080
+// Items: IaLK (WC2ORCACT01Varok1), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3081
+// Items: IaLK (WC2ORCACT01Varok1), Description (Description)
+{
+¡Throm'ka, Orgrim! Esa armadura te sienta bien, viejo amigo, como corresponde a tu nuevo rango de Jefe de Guerra.
+}
+
+STRING 3082
+// Items: IaLK (WC2ORCACT01Varok1), Name (Name)
+{
+WC2ORCACT01Varok1
+}
+
+STRING 3083
+// Items: IaLL (WC2ORCACT01Varok2), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3084
+// Items: IaLL (WC2ORCACT01Varok2), Description (Description)
+{
+Hemos sitiado el Templo de los Condenados, como ordenaste.
+}
+
+STRING 3085
+// Items: IaLL (WC2ORCACT01Varok2), Name (Name)
+{
+WC2ORCACT01Varok2
+}
+
+STRING 3086
+// Items: IaLM (WC2ORCACT01Varok3), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3087
+// Items: IaLM (WC2ORCACT01Varok3), Description (Description)
+{
+Sí, Jefe de Guerra. Sin embargo, el Consejo de la Sombra opuso resistencia y tuvimos que matar a casi todos. Gul'dan estaba realizando algún tipo de ritual cuando lo encontramos. Cayó inconsciente y no ha dado señales de vida desde que lo trajimos.
+}
+
+STRING 3088
+// Items: IaLM (WC2ORCACT01Varok3), Name (Name)
+{
+WC2ORCACT01Varok3
+}
+
+STRING 3089
+// Items: IaLN (WC2ORCACT01Varok4), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3090
+// Items: IaLN (WC2ORCACT01Varok4), Description (Description)
+{
+Se hará, Jefe de Guerra.
+}
+
+STRING 3091
+// Items: IaLN (WC2ORCACT01Varok4), Name (Name)
+{
+WC2ORCACT01Varok4
+}
+
+STRING 3092
+// Items: IaLO (WC2ORCACT01Varok5), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3093
+// Items: IaLO (WC2ORCACT01Varok5), Description (Description)
+{
+Y otra cosa más... los hijos de Puño Negro, Rend y Maim, piden audiencia.
+}
+
+STRING 3094
+// Items: IaLO (WC2ORCACT01Varok5), Name (Name)
+{
+WC2ORCACT01Varok5
+}
+
+STRING 3095
+// Items: IaLP (WC2ORCACT01Varok6), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3096
+// Items: IaLP (WC2ORCACT01Varok6), Description (Description)
+{
+Con el debido respeto, Jefe de Guerra... no se puede confiar en esos dos. Siempre te guardarán rencor por la muerte de su padre.
+}
+
+STRING 3097
+// Items: IaLP (WC2ORCACT01Varok6), Name (Name)
+{
+WC2ORCACT01Varok6
+}
+
+STRING 3098
+// Items: IaLQ (WC2ORCACT01Varok7), Tip (Tooltip - Basic)
+{
+Varok Colmillosauro
+}
+
+STRING 3099
+// Items: IaLQ (WC2ORCACT01Varok7), Description (Description)
+{
+Como digas, Jefe de Guerra.
+}
+
+STRING 3100
+// Items: IaLQ (WC2ORCACT01Varok7), Name (Name)
+{
+WC2ORCACT01Varok7
+}
+
+STRING 3101
+// Items: IaLR (WC2ORCACT01Grunt1), Tip (Tooltip - Basic)
+{
+Grunt
+}
+
+STRING 3102
+// Items: IaLR (WC2ORCACT01Grunt1), Description (Description)
+{
+Se hará, señor de la guerra...
+}
+
+STRING 3103
+// Items: IaLR (WC2ORCACT01Grunt1), Name (Name)
+{
+WC2ORCACT01Grunt1
+}
+
+STRING 3104
+// Items: IaLS (WC2ORCACT01Peon1), Tip (Tooltip - Basic)
+{
+Peón
+}
+
+STRING 3105
+// Items: IaLS (WC2ORCACT01Peon1), Description (Description)
+{
+Sí, amo.
+}
+
+STRING 3106
+// Items: IaLS (WC2ORCACT01Peon1), Name (Name)
+{
+WC2ORCACT01Peon1
+}
+
+STRING 3107
+// Items: IaLT (WC2ORCACT01Nekros1), Tip (Tooltip - Basic)
+{
+Nekros Rompecráneos
+}
+
+STRING 3108
+// Items: IaLT (WC2ORCACT01Nekros1), Description (Description)
+{
+¡Deja de quejarte, Teron'Gor! Solo seguimos vivos porque Martillo Maldito planea un juicio para Gul'dan... nuestras vidas dependen de que despierte.
+}
+
+STRING 3109
+// Items: IaLT (WC2ORCACT01Nekros1), Name (Name)
+{
+WC2ORCACT01Nekros1
+}
+
+STRING 3110
+// Items: IaLU (WC2ORCACT01Nekros2), Tip (Tooltip - Basic)
+{
+Nekros Rompecráneos
+}
+
+STRING 3111
+// Items: IaLU (WC2ORCACT01Nekros2), Description (Description)
+{
+Cho'gall... ¿tienes idea de cuándo despertará Gul'dan?
+}
+
+STRING 3112
+// Items: IaLU (WC2ORCACT01Nekros2), Name (Name)
+{
+WC2ORCACT01Nekros2
+}
+
+STRING 3113
+// Items: IaLV (WC2ORCACT01Nekros3), Tip (Tooltip - Basic)
+{
+Nekros Rompecráneos
+}
+
+STRING 3114
+// Items: IaLV (WC2ORCACT01Nekros3), Description (Description)
+{
+¡Esperad! Alguien viene...
+}
+
+STRING 3115
+// Items: IaLV (WC2ORCACT01Nekros3), Name (Name)
+{
+WC2ORCACT01Nekros3
+}
+
+STRING 3116
+// Items: IaLW (WC2ORCACT01Terongor1), Tip (Tooltip - Basic)
+{
+Teron'Gor
+}
+
+STRING 3117
+// Items: IaLW (WC2ORCACT01Terongor1), Description (Description)
+{
+He perdido la cuenta de los días que llevo en esta maldita prisión. Debería haber muerto durante el asalto al Templo... ¡estar aquí es insoportable!
+}
+
+STRING 3118
+// Items: IaLW (WC2ORCACT01Terongor1), Name (Name)
+{
+WC2ORCACT01Terongor1
+}
+
+STRING 3119
+// Items: IaLX (WC2ORCACT01Terongor2), Tip (Tooltip - Basic)
+{
+Teron'Gor
+}
+
+STRING 3120
+// Items: IaLX (WC2ORCACT01Terongor2), Description (Description)
+{
+¡Nekros, mira, está despierto! ¡El Maestro está despierto!
+}
+
+STRING 3121
+// Items: IaLX (WC2ORCACT01Terongor2), Name (Name)
+{
+WC2ORCACT01Terongor2
+}
+
+STRING 3122
+// Items: IaLY (WC2ORCACT01Medivh1), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3123
+// Items: IaLY (WC2ORCACT01Medivh1), Description (Description)
+{
+Esto es solo el principio, Gul'dan. Hay otros seis reinos humanos en este continente. Sus tierras son ricas y vulnerables. Los codiciosos enanos custodian sus tesoros en las montañas de Khaz Modan. Los elfos nobles, enviciados con la magia, se esconden en los bosques de Quel'thalas. Todos ellos... son enemigos de la Horda.
+}
+
+STRING 3124
+// Items: IaLY (WC2ORCACT01Medivh1), Name (Name)
+{
+WC2ORCACT01Medivh1
+}
+
+STRING 3125
+// Items: IaLZ (WC2ORCACT01Medivh2), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3126
+// Items: IaLZ (WC2ORCACT01Medivh2), Description (Description)
+{
+Bien... y cuando hayáis terminado, recordad quién fue el que llevó a la Horda a este mundo, quién salvó a vuestra gente del hambre y la muerte después de que Kil'jaeden os abandonara.
+}
+
+STRING 3127
+// Items: IaLZ (WC2ORCACT01Medivh2), Name (Name)
+{
+WC2ORCACT01Medivh2
+}
+
+STRING 3128
+// Items: IaLz (WC2ORCACT01Medivh3), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3129
+// Items: IaLz (WC2ORCACT01Medivh3), Description (Description)
+{
+¿Humano? Soy mucho más que un simple hombre, Gul'dan, y más que un simple mago. Soy el Guardián de Tirisfal. Lo sé todo sobre ti, tu gente y los demonios. También sé que Kil'jaeden solo te usó para deshacerse de sus viejos enemigos, los draenei... pero eso no importa ahora.
+}
+
+STRING 3130
+// Items: IaLz (WC2ORCACT01Medivh3), Name (Name)
+{
+WC2ORCACT01Medivh3
+}
+
+STRING 3131
+// Items: IaLy (WC2ORCACT01Medivh4), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3132
+// Items: IaLy (WC2ORCACT01Medivh4), Description (Description)
+{
+Lo que quiero a cambio, Gul'dan, es este mundo.
+}
+
+STRING 3133
+// Items: IaLy (WC2ORCACT01Medivh4), Name (Name)
+{
+WC2ORCACT01Medivh4
+}
+
+STRING 3134
+// Items: IaLx (WC2ORCACT01Medivh5), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3135
+// Items: IaLx (WC2ORCACT01Medivh5), Description (Description)
+{
+¿La Horda, Gul'dan, o tú mismo? Puedo verte tal como eres, pequeño brujo, y tus deseos son simples. Créeme, lo que yo quiero de este mundo está más allá de ti... pero a cambio te ofreceré algo que vale mil veces más que este mundo.
+}
+
+STRING 3136
+// Items: IaLx (WC2ORCACT01Medivh5), Name (Name)
+{
+WC2ORCACT01Medivh5
+}
+
+STRING 3137
+// Items: IaLw (WC2ORCACT01Medivh6), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3138
+// Items: IaLw (WC2ORCACT01Medivh6), Description (Description)
+{
+Poder, Gul'dan, un poder mucho mayor que la fuerza del propio Kil'jaeden.
+}
+
+STRING 3139
+// Items: IaLw (WC2ORCACT01Medivh6), Name (Name)
+{
+WC2ORCACT01Medivh6
+}
+
+STRING 3140
+// Items: IaLv (WC2ORCACT01Medivh7), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3141
+// Items: IaLv (WC2ORCACT01Medivh7), Description (Description)
+{
+Hace mucho tiempo, este mundo fue sacudido por una gran batalla en la que el titán oscuro Sargeras fue derrotado. Si encuentras su tumba, podrás absorber su esencia y reclamar su poder para ti. Esa es mi oferta.
+}
+
+STRING 3142
+// Items: IaLv (WC2ORCACT01Medivh7), Name (Name)
+{
+WC2ORCACT01Medivh7
+}
+
+STRING 3143
+// Items: IaLu (WC2ORCACT01Medivh8), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3144
+// Items: IaLu (WC2ORCACT01Medivh8), Description (Description)
+{
+¡¿Qué?! ¿Khadgar? ¿Lothar? No deberíais haber venido aquí, viejos amigos.
+}
+
+STRING 3145
+// Items: IaLu (WC2ORCACT01Medivh8), Name (Name)
+{
+WC2ORCACT01Medivh8
+}
+
+STRING 3146
+// Items: IaLt (WC2ORCACT01Medivh9), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3147
+// Items: IaLt (WC2ORCACT01Medivh9), Description (Description)
+{
+¡¿Qué?! ¡No! ¡Imposible!
+}
+
+STRING 3148
+// Items: IaLt (WC2ORCACT01Medivh9), Name (Name)
+{
+WC2ORCACT01Medivh9
+}
+
+STRING 3149
+// Items: IaLs (WC2ORCACT01Chogall1), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3150
+// Items: IaLs (WC2ORCACT01Chogall1), Description (Description)
+{
+|cffffcc00Cho:|r No, Nekros...|n|cffffcc00Gall:|r No sabemos más que tú...
+}
+
+STRING 3151
+// Items: IaLs (WC2ORCACT01Chogall1), Name (Name)
+{
+WC2ORCACT01Chogall1
+}
+
+STRING 3152
+// Items: IaLr (WC2ORCACT01Chogall2), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3153
+// Items: IaLr (WC2ORCACT01Chogall2), Description (Description)
+{
+|cffffcc00Cho:|r Dormías, maestro... como los muertos.|n|cffffcc00Gall:|r Durante semanas no te moviste, solo respirabas. Pensamos que tu espíritu había sido destruido.
+}
+
+STRING 3154
+// Items: IaLr (WC2ORCACT01Chogall2), Name (Name)
+{
+WC2ORCACT01Chogall2
+}
+
+STRING 3155
+// Items: IaLq (WC2ORCACT01Chogall3), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3156
+// Items: IaLq (WC2ORCACT01Chogall3), Description (Description)
+{
+|cffffcc00Cho:|r Puño Negro el Destructor...|n|cffffcc00Gall:|r Está muerto, maestro.
+}
+
+STRING 3157
+// Items: IaLq (WC2ORCACT01Chogall3), Name (Name)
+{
+WC2ORCACT01Chogall3
+}
+
+STRING 3158
+// Items: IaLp (WC2ORCACT01Chogall4), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3159
+// Items: IaLp (WC2ORCACT01Chogall4), Description (Description)
+{
+|cffffcc00Cho:|r Usurpó el poder, maestro Gul'dan, y atacó al Consejo de la Sombra mientras estabas inconsciente.|n|cffffcc00Gall:|r Mató a casi todos... solo quedáis tú, Nekros, Teron'Gor y nosotros.
+}
+
+STRING 3160
+// Items: IaLp (WC2ORCACT01Chogall4), Name (Name)
+{
+WC2ORCACT01Chogall4
+}
+
+STRING 3161
+// Items: IaLo (WC2ORCACT01Chogall5), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3162
+// Items: IaLo (WC2ORCACT01Chogall5), Description (Description)
+{
+|cffffcc00Cho:|r Orgrim Martillo Maldito...|n|cffffcc00Gall:|r los hijos de Puño Negro le juraron lealtad, y la Horda le siguió.
+}
+
+STRING 3164
+// Items: Ial3 (WC2ORCACT01Doomhammer4a), Tip (Tooltip - Basic)
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3165
+// Items: Ial3 (WC2ORCACT01Doomhammer4a), Description (Description)
+{
+Gul'dan encendió una cerilla y el fuego no puede detenerse. Devorará este mundo entero.
+}
+
+STRING 3166
+// Items: Ial3 (WC2ORCACT01Doomhammer4a), Name (Name)
+{
+WC2ORCACT01Doomhammer4a
+}
+
+STRING 3167
+// Items: IaLJ (WC2ORCACT01Maim12), Name (Name)
+{
+WC2ORCACT01Maim12
+}
+
+STRING 3168
+// Items: IaLo (WC2ORCACT01Chogall5), Name (Name)
+{
+WC2ORCACT01Chogall5
+}
+
+STRING 3169
+// Destructibles: B005 (VT¨_ThroneRoom_Knight Statue), Name (Name)
+{
+VT¨_ThroneRoom_Estatua de Caballero
+}
+
+STRING 3170
+// Destructibles: B006 (VT_ThroneRoom_Windows), Name (Name)
+{
+VT_ThroneRoom_Ventanas
+}
+
+STRING 3171
+// Doodads: D00K (VT_Throne Collom), Name (Name)
+{
+VT_Throne_Columna
+}
+
+STRING 3172
+// Doodads: D00L (VT_throne_collumn), Name (Name)
+{
+VT_throne_columna
+}
+
+STRING 3173
+// Doodads: D00M (VT_ThroneRoom_Wall Door), Name (Name)
+{
+VT_ThroneRoom_Puerta de Pared
+}
+
+STRING 3174
+// Doodads: D00N (VT_ThroneRoom_detail), Name (Name)
+{
+VT_ThroneRoom_detalle
+}
+
+STRING 3175
+// Doodads: D00O (VT_ThroneRoom_Archway Ruined), Name (Name)
+{
+VT_ThroneRoom_Arco en Ruinas
+}
+
+STRING 3176
+// Doodads: D00P (VT_ThroneRoom)Bench Stone), Name (Name)
+{
+VT_ThroneRoom_Banco de Piedra
+}
+
+STRING 3177
+// Doodads: D00Q (VT_ThroneRoom_Wall Low (Horizontal)), Name (Name)
+{
+VT_ThroneRoom_Muro Bajo (Horizontal)
+}
+
+STRING 3178
+// Doodads: D00R (VT_ThroneRoom_Light From Aside), Name (Name)
+{
+VT_ThroneRoom_Luz Lateral
+}
+
+STRING 3179
+// Doodads: D00S (VT_Floor_circle), Name (Name)
+{
+VT_Suelo_círculo
+}
+
+STRING 3180
+// Doodads: D00T (VT_Rocks), Name (Name)
+{
+VT_Rocas
+}
+
+STRING 3181
+// Destructibles: B007 (VT_Barrel), Name (Name)
+{
+VT_Barril
+}
+
+STRING 3182
+// Destructibles: B008 (DEAD CORPSE), Name (Name)
+{
+CADÁVER
+}
+
+STRING 3183
+// Doodads: D00U (VT_Crates Empty), Name (Name)
+{
+VT_Cajas Vacías
+}
+
+STRING 3184
+// Doodads: D00V (VT_Table), Name (Name)
+{
+VT_Mesa
+}
+
+STRING 3185
+// Destructibles: B009 (Dead Body), Name (Name)
+{
+Cuerpo sin vida
+}
+
+STRING 3186
+// Destructibles: B009 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Alabardero de Stromgarde)
+}
+
+STRING 3187
+// Doodads: DSTW (DoorArch Throne Room), Name (Name)
+{
+Puerta Arco Sala del Trono
+}
+
+STRING 3188
+// Destructibles: BLTA (Lordaeron Spire), Name (Name)
+{
+Aguja de Lordaeron
+}
+
+STRING 3189
+// Doodads: DCFW (EV_ThroneCielingPlate), Name (Name)
+{
+EV_PlacaTechoTrono
+}
+
+STRING 3190
+// Destructibles: BCSA (City Stairs), Name (Name)
+{
+Escaleras de la Ciudad
+}
+
+STRING 3191
+// Destructibles: BCSA (City Stairs), EditorSuffix (Editor Suffix)
+{
+(No transitable)
+}
+

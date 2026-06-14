@@ -1,0 +1,3806 @@
+﻿STRING 1
+{
+WC2Orc07
+}
+
+STRING 3
+{
+La Caída de Stromgarde
+}
+
+STRING 23
+{
+Transporte
+}
+
+STRING 58
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 135
+{
+LoreCraftDesigns
+}
+
+STRING 138
+{
+Ciudadanos de Stromgarde
+}
+
+STRING 139
+{
+Alianza
+}
+
+STRING 140
+{
+Horda
+}
+
+STRING 200
+// Units: e601 (Ballista), Name (Name)
+{
+Balista
+}
+
+STRING 221
+// Units: n600 (Snake), Name (Name)
+{
+Serpiente
+}
+
+STRING 222
+// Units: n600 (Snake), Tip (Tooltip - Basic)
+{
+Serpiente
+}
+
+STRING 235
+// Units: e601 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(Humano)
+}
+
+STRING 269
+// Units: h60F (Human Cannon), Tip (Tooltip - Basic)
+{
+Construir Cañón
+}
+
+STRING 270
+// Units: h60F (Human Cannon), Ubertip (Tooltip - Extended)
+{
+Cañón de largo alcance poderoso, pero lento y vulnerable.|n|n|cffffcc00Ataca objetivos terrestres (incluyendo árboles).|r
+}
+
+STRING 309
+// Units: e002 (Ballista), Name (Name)
+{
+Balista
+}
+
+STRING 319
+// Units: o006 (Destroyer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 324
+// Units: h605 (Kings Guard), Name (Name)
+{
+Guardia Real
+}
+
+STRING 325
+// Units: h61Q (Torre de observación), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática)
+}
+
+STRING 334
+// Units: h00F (Cannon Worker), EditorSuffix (Name - Editor Suffix)
+{
+(cinemática)
+}
+
+STRING 376
+// Units: o006 (Destroyer), Tip (Tooltip - Basic)
+{
+Construir Destructor
+}
+
+STRING 557
+// Units: H62E (King of Stromgarde), Revivetip (Tooltip - Revive)
+{
+Revivir Rey
+}
+
+STRING 558
+// Units: H62E (King of Stromgarde), Awakentip (Tooltip - Awaken)
+{
+Revivir Rey
+}
+
+STRING 567
+// Units: n60V (Duck), Name (Name)
+{
+Pato
+}
+
+STRING 568
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Solo un ánade real 
+}
+
+STRING 585
+// Destructibles: B621 (Orcish Stone Wall), Name (Name)
+{
+Muro de Piedra Orco
+}
+
+STRING 597
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Muro de Púas
+}
+
+STRING 598
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Muro de Púas
+}
+
+STRING 607
+// Units: h620 (Tent), Name (Name)
+{
+Tienda
+}
+
+STRING 608
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Tienda
+}
+
+STRING 609
+// Units: h621 (Tent), Name (Name)
+{
+Tienda
+}
+
+STRING 610
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Tienda
+}
+
+STRING 611
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Mejora)
+}
+
+STRING 621
+// Units: n627 (Wild horse), Name (Name)
+{
+Caballo Salvaje
+}
+
+STRING 626
+// Units: h627 (Cleric), Name (Name)
+{
+Clérigo
+}
+
+STRING 639
+// Units: H62E (King of Stromgarde), Name (Name)
+{
+Rey de Stromgarde
+}
+
+STRING 651
+// Units: n62A (Shark), Name (Name)
+{
+Tiburón
+}
+
+STRING 652
+// Units: n62A (Shark), Tip (Tooltip - Basic)
+{
+Tiburón
+}
+
+STRING 653
+// Units: n62B (Purple Shark), Name (Name)
+{
+Tiburón Púrpura
+}
+
+STRING 654
+// Units: n62B (Purple Shark), Tip (Tooltip - Basic)
+{
+Tiburón
+}
+
+STRING 666
+// Units: h60F (Human Cannon), Name (Name)
+{
+Cañón Humano
+}
+
+STRING 681
+// Units: n60Y (Raven), Name (Name)
+{
+Cuervo
+}
+
+STRING 690
+// Units: n60Z (Spiders), Name (Name)
+{
+Arañas
+}
+
+STRING 691
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Arañas
+}
+
+STRING 696
+// Units: e60F (Hay Cart), Name (Name)
+{
+Carro de Heno
+}
+
+STRING 788
+// Units: h618 (Pack Ram), Name (Name)
+{
+Carnero de Carga
+}
+
+STRING 789
+// Units: n61O (Wild Ram), Name (Name)
+{
+Carnero Salvaje
+}
+
+STRING 790
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gris)
+}
+
+STRING 791
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Invocar Carnero
+}
+
+STRING 792
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+¡Carnero salvaje. Puede ser peligroso!
+}
+
+STRING 793
+// Units: n61P (Wild Ram), Name (Name)
+{
+Carnero Salvaje
+}
+
+STRING 794
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Negro)
+}
+
+STRING 795
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Invocar Carnero
+}
+
+STRING 796
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+¡Carnero salvaje. Puede ser peligroso!
+}
+
+STRING 797
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Carnero Salvaje
+}
+
+STRING 798
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Marrón)
+}
+
+STRING 799
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Invocar Carnero
+}
+
+STRING 800
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+¡Carnero salvaje. Puede ser peligroso!
+}
+
+STRING 845
+// Units: n00C (Tavern), Name (Name)
+{
+Taberna
+}
+
+STRING 977
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Barril de Aceite
+}
+
+STRING 1002
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Muelle
+}
+
+STRING 1003
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Hongos
+}
+
+STRING 1005
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1007
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Puerta del Cuartel
+}
+
+STRING 1008
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(sin Camino)
+}
+
+STRING 1011
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1013
+// Destructibles: B60J (Vines), Name (Name)
+{
+Enredaderas
+}
+
+STRING 1015
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Torre del Castillo
+}
+
+STRING 1017
+// Destructibles: B60Q (Stone Wall), Name (Name)
+{
+Muro de Piedra
+}
+
+STRING 1019
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+Escaleras de la Ciudad
+}
+
+STRING 1021
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(Sin Camino)
+}
+
+STRING 1026
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Esquina de Muro del Castillo
+}
+
+STRING 1027
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Muro Recto del Castillo
+}
+
+STRING 1028
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Puerta Corta en Muro del Castillo
+}
+
+STRING 1029
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Muro Largo del Castillo
+}
+
+STRING 1030
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Puerta Recta en Muro del Castillo
+}
+
+STRING 1040
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Tumba Antigua
+}
+
+STRING 1042
+// Destructibles: B62T (Egg), Name (Name)
+{
+Huevo
+}
+
+STRING 1045
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Muro Corto del Castillo
+}
+
+STRING 1046
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Suelo de Mármol
+}
+
+STRING 1047
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Acantilados
+}
+
+STRING 1048
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Rampa)
+}
+
+STRING 1051
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Acantilados
+}
+
+STRING 1053
+// Destructibles: B01W (Cliffs), Name (Name)
+{
+Acantilados
+}
+
+STRING 1054
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1064
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+Plantador de Árboles
+}
+
+STRING 1070
+// Destructibles: B60U (Chest), Name (Name)
+{
+Cofre
+}
+
+STRING 1071
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Alijo de Madera
+}
+
+STRING 1072
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Oro (Inactivo)
+}
+
+STRING 1073
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Oro (Activo)
+}
+
+STRING 1075
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Viga de Soporte
+}
+
+STRING 1076
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Cinemática Orco
+}
+
+STRING 1080
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Arbustos
+}
+
+STRING 1085
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Lápida Orca
+}
+
+STRING 1086
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Escombros
+}
+
+STRING 1091
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Esquina de Muro del Castillo
+}
+
+STRING 1092
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternativo)
+}
+
+STRING 1093
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Muro en T del Castillo
+}
+
+STRING 1094
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Muro en T del Castillo
+}
+
+STRING 1095
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternativo)
+}
+
+STRING 1096
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Muro en T del Castillo
+}
+
+STRING 1097
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1098
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Muro en T del Castillo
+}
+
+STRING 1099
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Ancho Alternativo)
+}
+
+STRING 1100
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Esquina de Muro del Castillo
+}
+
+STRING 1101
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1102
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Esquina de Muro del Castillo
+}
+
+STRING 1103
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Ancho Alternativo)
+}
+
+STRING 1104
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Muro Largo del Castillo
+}
+
+STRING 1105
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1106
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Muro Corto del Castillo
+}
+
+STRING 1107
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1108
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Muro Recto del Castillo
+}
+
+STRING 1109
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1110
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Puerta Recta en Muro del Castillo
+}
+
+STRING 1111
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1112
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Puerta Corta en Muro del Castillo
+}
+
+STRING 1113
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Ancho)
+}
+
+STRING 1114
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Arco del Castillo
+}
+
+STRING 1115
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Escaleras del Muro del Castillo
+}
+
+STRING 1116
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Estatua de Caballero
+}
+
+STRING 1117
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+Base de Acantilado A
+}
+
+STRING 1118
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+Base de Acantilado B
+}
+
+STRING 1119
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+Base de Acantilado C
+}
+
+STRING 1120
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+Base de Acantilado D
+}
+
+STRING 1133
+// Destructibles: B004 (SummerCliff), Name (Name)
+{
+Acantilado Estival
+}
+
+STRING 1134
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+Acantilado Estival Pequeño
+}
+
+STRING 1135
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+Acantilado de Los Humedales
+}
+
+STRING 1136
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+Acantilado de Los Humedales
+}
+
+STRING 1137
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Pequeño)
+}
+
+STRING 1152
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Efecto de Cascada
+}
+
+STRING 1156
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Cráter (Sin Camino)
+}
+
+STRING 1161
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Estandarte Foso Sangrante
+}
+
+STRING 1164
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Estandarte Diente Negro
+}
+
+STRING 1166
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Hierba Alta
+}
+
+STRING 1174
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Arbustos Animados
+}
+
+STRING 1177
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Superficie de Agua
+}
+
+STRING 1190
+// Doodads: D69S (Door), Name (Name)
+{
+Puerta
+}
+
+STRING 1201
+// Doodads: D6AE (Light), Name (Name)
+{
+Luz
+}
+
+STRING 1202
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Luz Lateral
+}
+
+STRING 1203
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Luz Superior
+}
+
+STRING 1231
+// Destructibles: B00M (Fountain), Name (Name)
+{
+Fuente
+}
+
+STRING 1236
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Raíces
+}
+
+STRING 1238
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Blandón (Sin Camino)
+}
+
+STRING 1239
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Soporte para Estandarte
+}
+
+STRING 1243
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Salpicadura de Sangre 01
+}
+
+STRING 1244
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Salpicadura de Sangre 02
+}
+
+STRING 1245
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Salpicadura de Sangre 03
+}
+
+STRING 1246
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Salpicadura de Sangre 04
+}
+
+STRING 1247
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Salpicadura de Sangre 05
+}
+
+STRING 1248
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Salpicadura de Sangre 06
+}
+
+STRING 1250
+// Doodads: D6DO (StromGarde Banner), Name (Name)
+{
+Estandarte de Stromgarde
+}
+
+STRING 1285
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Trigo
+}
+
+STRING 1286
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Catedral Antigua en Ruinas
+}
+
+STRING 1291
+// Doodads: D6FW (Winter Bush 4), Name (Name)
+{
+Arbusto Invernal 4
+}
+
+STRING 1306
+// Doodads: D6GQ (Orc Long Banner), Name (Name)
+{
+Estandarte Largo Orco
+}
+
+STRING 1307
+// Doodads: D6GR (Shark), Name (Name)
+{
+Tiburón
+}
+
+STRING 1313
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Agujas Rocosas de Lordaeron
+}
+
+STRING 1321
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Estandarte del Clan Roca Negra
+}
+
+STRING 1322
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Soporte para Armadura Orca
+}
+
+STRING 1323
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Soporte para Armas Orcas
+}
+
+STRING 1324
+// Doodads: D60N (FireWoods), Name (Name)
+{
+Leña
+}
+
+STRING 1326
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Soporte para Armadura de La Mano de Plata
+}
+
+STRING 1327
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Soporte para Armas de La Mano de Plata
+}
+
+STRING 1335
+// Doodads: D60G (Strategy Map), Name (Name)
+{
+Mapa Estratégico
+}
+
+STRING 1344
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Estandarte de Pared de Lordaeron
+}
+
+STRING 1536
+// Abilities: A61Y (Warrior Rage), EditorSuffix (Editor Suffix)
+{
+(Guerrero)
+}
+
+STRING 1537
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Ira del Guerrero [|cffffcc00Nivel 1|r]
+}
+
+STRING 1538
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Ira del Guerrero [|cffffcc00Nivel 2|r]
+}
+
+STRING 1539
+// Abilities: A61Y (Warrior Rage), Tip (Tooltip - Normal)
+{
+Ira del Guerrero [|cffffcc00Nivel 3|r]
+}
+
+STRING 1540
+// Abilities: A61Y (Warrior Rage), Researchtip (Tooltip - Learn)
+{
+Aprender «Ira del Guerrero» [|cffffcc00Nivel %d|r]
+}
+
+STRING 1541
+// Abilities: A61Y (Warrior Rage), Name (Name)
+{
+Ira del Guerrero
+}
+
+STRING 2555
+// Units: nvlw (Citizen), Ubertip (Tooltip - Extended)
+{
+Chica local.
+}
+
+STRING 2585
+// Units: n004 (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2586
+// Units: n006 (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2587
+// Units: n007 (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2588
+// Units: n008 (City clock tower), Name (Name)
+{
+Torre del Reloj de la Ciudad
+}
+
+STRING 2589
+// Units: n008 (City clock tower), Tip (Tooltip - Basic)
+{
+Construir Torre del Reloj
+}
+
+STRING 2590
+// Units: n009 (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Brill)
+}
+
+STRING 2591
+// Units: n009 (City clock tower), Name (Name)
+{
+Torre del Reloj de la Ciudad
+}
+
+STRING 2592
+// Units: n009 (City clock tower), Tip (Tooltip - Basic)
+{
+Construir Torre del Reloj
+}
+
+STRING 2593
+// Units: n00A (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Andorhal)
+}
+
+STRING 2594
+// Units: n00A (City clock tower), Name (Name)
+{
+Torre del Reloj de la Ciudad
+}
+
+STRING 2595
+// Units: n00A (City clock tower), Tip (Tooltip - Basic)
+{
+Construir Torre del Reloj
+}
+
+STRING 2596
+// Units: n00B (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Strahnbrad)
+}
+
+STRING 2597
+// Units: n00B (City clock tower), Name (Name)
+{
+Torre del Reloj de la Ciudad
+}
+
+STRING 2598
+// Units: n00B (City clock tower), Tip (Tooltip - Basic)
+{
+Construir Torre del Reloj
+}
+
+STRING 2600
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+Construir Taberna
+}
+
+STRING 2601
+// Units: n00D (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2602
+// Units: n00E (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2603
+// Units: n00F (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2604
+// Units: n00G (Inn), Name (Name)
+{
+Posada
+}
+
+STRING 2605
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+Construir Posada
+}
+
+STRING 2606
+// Units: h003 (Granary), Name (Name)
+{
+Granero
+}
+
+STRING 2607
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+Construir Granero
+}
+
+STRING 2608
+// Units: h004 (Windmill), Name (Name)
+{
+Molino de Viento
+}
+
+STRING 2609
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+Construir Molino de Viento
+}
+
+STRING 2610
+// Units: n00H (Barn), Name (Name)
+{
+Granja
+}
+
+STRING 2611
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+Construir Granja
+}
+
+STRING 2612
+// Units: n00I (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2613
+// Units: n00J (Estructura de ciudad), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2615
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Indicador de Cabeza Cinemática
+}
+
+STRING 2640
+// Units: n00U (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2641
+// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 1)
+}
+
+STRING 2642
+// Units: n00V (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2643
+// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 2)
+}
+
+STRING 2644
+// Units: n00W (Niño), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 1)
+}
+
+STRING 2645
+// Units: n00X (Niño), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 2)
+}
+
+STRING 2646
+// Units: n00Y (Eagle), Name (Name)
+{
+Águila
+}
+
+STRING 2647
+// Units: nvlw (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2648
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2649
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 2650
+// Units: nvil (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2651
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2652
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 2653
+// Units: nvl2 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2654
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2655
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 2656
+// Units: n00Z (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2657
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2658
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 2659
+// Units: n010 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2660
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+Aquí está la traducción localizada al español, manteniendo el formato y adaptando los términos al universo de Warcraft:
+
+```
+STRING 2661
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 2662
+// Units: n011 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2663
+// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2664
+// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 2665
+// Units: n012 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2666
+// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2667
+// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 2668
+// Units: n013 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2669
+// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2670
+// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 2671
+// Units: n014 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2672
+// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2673
+// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 2674
+// Units: n015 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2675
+// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2676
+// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 2677
+// Units: n016 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2678
+// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2679
+// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 2680
+// Units: n01A (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2681
+// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 3)
+}
+
+STRING 2682
+// Units: n01B (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2683
+// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 4)
+}
+
+STRING 2684
+// Units: n01C (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2685
+// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 5)
+}
+
+STRING 2686
+// Units: n01D (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2687
+// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 6)
+}
+
+STRING 2688
+// Units: n01E (Lordaeron Woman), Name (Name)
+{
+Mujer de Lordaeron
+}
+
+STRING 2689
+// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 7)
+}
+
+STRING 2690
+// Units: n01F (Niño), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 3)
+}
+
+STRING 2691
+// Units: n01G (Niño), EditorSuffix (Name - Editor Suffix)
+{
+(Cinemática 4)
+}
+
+STRING 2692
+// Units: n01H (Old Citizen), Name (Name)
+{
+Ciudadano Anciano
+}
+
+STRING 2693
+// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 2694
+// Units: n01I (Old Citizen), Name (Name)
+{
+Ciudadano Anciano
+}
+
+STRING 2695
+// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 2696
+// Units: n01J (Old Citizen), Name (Name)
+{
+Ciudadano Anciano
+}
+
+STRING 2697
+// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 2698
+// Units: n01K (Old Citizen), Name (Name)
+{
+Ciudadano Anciano
+}
+
+STRING 2699
+// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 2700
+// Units: n01L (Old Citizen), Name (Name)
+{
+Ciudadano Anciano
+}
+
+STRING 2701
+// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 2702
+// Units: n017 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 2703
+// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+{
+Un ciudadano común. |n|n|cffffcc00Ataca unidades terrestres.|r
+}
+
+STRING 2704
+// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 2826
+// Units: h00C (Visibility Controller), Name (Name)
+{
+Controlador de Visibilidad
+}
+
+STRING 2836
+// Destructibles: BTtw (Swamp Tree Wall), Name (Name)
+{
+Muro de Árboles del Pantano
+}
+
+STRING 2837
+// Destructibles: BTtc (Swamp Canopy Tree), Name (Name)
+{
+Árbol del Dosel del Pantano
+}
+
+STRING 2838
+// Destructibles: NTiw (Wetlands Tree Wall), Name (Name)
+{
+Muro de Árboles de Los Humedales
+}
+
+STRING 2839
+// Destructibles: B60J (Vines), EditorSuffix (Editor Suffix)
+{
+(Destructible)
+}
+
+STRING 2842
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+Estatua de Thoradin
+}
+
+STRING 2857
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Banco de Piedra
+}
+
+STRING 2858
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Banco de Madera
+}
+
+STRING 2859
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Soporte de Armas Nuevo
+}
+
+STRING 2861
+// Destructibles: B00H (Fence), Name (Name)
+{
+Valla
+}
+
+STRING 2862
+// Destructibles: B00I (Fence), Name (Name)
+{
+Valla
+}
+
+STRING 2863
+// Destructibles: B00J (Fence short), Name (Name)
+{
+Valla Corta
+}
+
+STRING 2864
+// Destructibles: B00K (Fence short), Name (Name)
+{
+Valla Corta
+}
+
+STRING 2865
+// Destructibles: B00L (Chapel), Name (Name)
+{
+Capilla
+}
+
+STRING 2866
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+Suministros de Comida
+}
+
+STRING 2869
+// Destructibles: B00R (Vine Trap), Name (Name)
+{
+Trampa de Enredaderas
+}
+
+STRING 2876
+// Destructibles: B00X (SummerCliffSmall Angled), Name (Name)
+{
+Acantilado Estival Pequeño Angulado
+}
+
+STRING 2877
+// Destructibles: B00Y (SummerCliff Angled), Name (Name)
+{
+Acantilado Estival Angulado
+}
+
+STRING 2878
+// Destructibles: B00Z (Orc Fences), Name (Name)
+{
+Vallas Orcas
+}
+
+STRING 2879
+// Destructibles: B011 (Orc Spikes), Name (Name)
+{
+Púas Orcas
+}
+
+STRING 2880
+// Destructibles: B012 (Dwarven Stairs), Name (Name)
+{
+Escaleras Enanas
+}
+
+STRING 2884
+// Destructibles: B016 (Stump Hollow Big), Name (Name)
+{
+Tocón Hueco Grande
+}
+
+STRING 2885
+// Destructibles: B017 (Scarab Crator), Name (Name)
+{
+Cráter de Escarabajo
+}
+
+STRING 2886
+// Destructibles: B019 (Spike Trap), Name (Name)
+{
+Trampa de Púas
+}
+
+STRING 2905
+// Destructibles: B01J (Concrete Floor), Name (Name)
+{
+Suelo de Hormigón
+}
+
+STRING 2910
+// Destructibles: B01N (CliffBaseDarkA), Name (Name)
+{
+Base de Acantilado Oscuro A
+}
+
+STRING 2911
+// Destructibles: B01O (CliffBaseDarkB), Name (Name)
+{
+Base de Acantilado Oscuro B
+}
+
+STRING 2912
+// Destructibles: B01P (CliffBaseDarkC), Name (Name)
+{
+Base de Acantilado Oscuro C
+}
+
+STRING 2913
+// Destructibles: B01Q (CliffBaseDarkD), Name (Name)
+{
+Base de Acantilado Oscuro D
+}
+
+STRING 2922
+// Destructibles: B01V (Cannon bed), Name (Name)
+{
+Base de Cañón
+}
+
+STRING 2924
+// Destructibles: B01W (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Amarillo)
+}
+
+STRING 2925
+// Destructibles: B01X (Wooden Floor Tol Barad), Name (Name)
+{
+Suelo de Madera de Tol Barad
+}
+
+STRING 2926
+// Destructibles: B01Y (Pier Tol Barad), Name (Name)
+{
+Muelle de Tol Barad
+}
+
+STRING 2927
+// Destructibles: B01Z (Cannon Shells), Name (Name)
+{
+Proyectiles de Cañón
+}
+
+STRING 2928
+// Doodads: ZCv2 (Vines Cliffside (2)), Name (Name)
+{
+Enredaderas en Acantilado (2)
+}
+
+STRING 2938
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+Tapa de Alcantarilla
+}
+
+STRING 2939
+// Doodads: D006 (Cargo), Name (Name)
+{
+Carga
+}
+
+STRING 2940
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Saco de Arpillera
+}
+
+STRING 2949
+// Doodads: D00G (Dragonfly swarm), Name (Name)
+{
+Enjambre de Libélulas
+}
+
+STRING 2980
+// Doodads: D01B (Mine Cart Destroyed), Name (Name)
+{
+Vagoneta de Mina Destruida
+}
+
+STRING 2981
+// Doodads: D01C (Mine Cart Angled), Name (Name)
+{
+Vagoneta de Mina Angulada
+}
+
+STRING 2982
+// Doodads: D01D (- Waterfall Mini), Name (Name)
+{
+- Cascada Mini
+}
+
+STRING 2983
+// Doodads: D01F (Wetlands Grass 01), Name (Name)
+{
+Hierba de Los Humedales 01
+}
+
+STRING 2984
+// Doodads: D01G (Wetlands Grass 02), Name (Name)
+{
+Hierba de Los Humedales 02
+}
+
+STRING 2985
+// Doodads: D01H (Log Pathless), Name (Name)
+{
+Tronco (Sin Camino)
+}
+
+STRING 2986
+// Doodads: D01I (Black Glow), Name (Name)
+{
+Resplandor Negro
+}
+
+STRING 2990
+// Doodads: D01M (Brick Doodad), Name (Name)
+{
+Doodad de Ladrillos
+}
+
+STRING 2992
+// Doodads: D01O (Shadow), Name (Name)
+{
+Sombra
+}
+
+STRING 2995
+// Doodads: D01R (Shadow Angled), Name (Name)
+{
+Sombra Angulada
+}
+
+STRING 2996
+// Doodads: D01S (Dripping Water 2), Name (Name)
+{
+Goteo de Agua 2
+}
+
+STRING 2999
+// Doodads: D01U (Banner Long Baradin), Name (Name)
+{
+Estandarte Largo de Baradin
+}
+
+STRING 3000
+// Doodads: D01V (Lordaeron Rock Spires Yellow), Name (Name)
+{
+Agujas Rocosas de Lordaeron Amarillas
+}
+
+STRING 3001
+// Doodads: D01W (Rock Archway No Path Yellow), Name (Name)
+{
+Arco de Roca (Sin Camino) Amarillo
+}
+
+STRING 3003
+// Doodads: D01Y (-ZL-Pier), Name (Name)
+{
+-ZL-Muelle
+}
+
+STRING 3272
+// Units: H00E (Liam Trollbane), Awakentip (Tooltip - Awaken)
+{
+Revivir al Duque
+}
+
+STRING 3273
+// Units: H00E (Liam Trollbane), Revivetip (Tooltip - Revive)
+{
+Revivir al Duque
+}
+
+STRING 3300
+{
+Construye más Granjas para continuar la producción de unidades.,Construye más Granja de Cerdos para continuar la producción de unidades.,Invoca más Zigurats para continuar la producción de unidades.,Crea más Pozos Lunares para continuar la producción de unidades.
+}
+
+STRING 3301
+{
+No se puede usar Plataforma Petrolera.
+}
+
+STRING 3302
+{
+Ese Yacimiento de Petróleo ya está en uso.
+}
+
+STRING 3303
+{
+Debes construir una Plataforma Petrolera primero.
+}
+
+STRING 3304
+{
+Debes seleccionar un Yacimiento de Petróleo.
+}
+
+STRING 3305
+{
+Debes construir sobre un Yacimiento de Petróleo.
+}
+
+STRING 3306
+{
+Puedes revivir a tu héroe en el Gran Salón.
+}
+
+STRING 3307
+{
+Profano
+}
+
+STRING 3308
+{
+Clan Roca Negra
+}
+
+STRING 3309
+{
+Nación de Stromgarde
+}
+
+STRING 3310
+{
+Clan Diente Negro
+}
+
+STRING 3311
+{
+Maniquí Cinemático
+}
+
+STRING 3312
+{
+Neutral
+}
+
+STRING 3313
+// Destructibles: B61C (Stromgarde Banner), Name (Name)
+{
+Estandarte de Stromgarde
+}
+
+STRING 3314
+// Destructibles: B61C (Stromgarde Banner), EditorSuffix (Editor Suffix)
+{
+(Destructible)
+}
+
+STRING 3315
+// Doodads: D647 (Vines Doodad), Name (Name)
+{
+Doodad de Enredaderas
+}
+
+STRING 3316
+// Doodads: D64K (Distant Land), Name (Name)
+{
+Tierra Lejana
+}
+
+STRING 3317
+// Destructibles: B000 (Castle Wall Cannon), Name (Name)
+{
+Cañón de Muro del Castillo
+}
+
+STRING 3318
+// Destructibles: B001 (Castle Wall Pillar), Name (Name)
+{
+Pilar de Muro del Castillo
+}
+
+STRING 3319
+// Doodads: D001 (Waterfall Of Piss), Name (Name)
+{
+Cascada de Orina
+}
+
+STRING 3320
+// Units: n032 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 1
+}
+
+STRING 3321
+// Units: n032 (Stromgarde City Building), Name (Name)
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3322
+// Units: n033 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 2
+}
+
+STRING 3323
+// Units: n033 (Stromgarde City Building), Name (Name)
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3324
+// Units: n034 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 3
+}
+
+STRING 3325
+// Units: n034 (Stromgarde City Building), Name (Name)
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3326
+// Units: n035 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 4
+}
+
+STRING 3328
+// Units: n036 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 5
+}
+
+STRING 3330
+// Doodads: D008 (Wall Fountain Yellow), Name (Name)
+{
+Fuente de Pared Amarilla
+}
+
+STRING 3331
+// Units: n037 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 6
+}
+
+STRING 3333
+// Units: n038 (Stromgarde City Building), EditorSuffix (Name - Editor Suffix)
+{
+ 7
+}
+
+STRING 3335
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3336
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3337
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3338
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3339
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3340
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3341
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3342
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3343
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3344
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3345
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3346
+{
+|cffffcc00Transporta más Petróleo.|r
+}
+
+STRING 3347
+// Doodads: D009 (Banner Long Stromgarde), Name (Name)
+{
+Estandarte Largo de Stromgarde
+}
+
+STRING 3348
+// Destructibles: B002 (Castle Wall Pillar Small), Name (Name)
+{
+Pilar Pequeño de Muro del Castillo
+}
+
+STRING 3504
+// Units: H00E (Liam Trollbane), Name (Name)
+{
+Liam Trollbane
+}
+
+STRING 3508
+// Units: H00E (Liam Trollbane), Propernames (Proper Names)
+{
+Liam Trollbane
+}
+
+STRING 3542
+// Units: H62E (King of Stromgarde), Propernames (Proper Names)
+{
+Thoras Trollbane
+}
+
+STRING 3590
+{
+|cff8080ffNUEVOS HÉROES|r
+Controlas a Orgrim Martillo Maldito, el poderoso Jefe de Guerra de la Horda y el guerrero orco más fuerte que existe.
+}
+
+STRING 3607
+{
+|cffffcc00MISIÓN PRINCIPAL FALLADA|r
+Punto de Apoyo
+- |cffff0000Prepara un punto de apoyo antes de que llegue el Jefe de Guerra (Fallado)|r
+}
+
+STRING 3610
+{
+|cffffcc00MISIÓN FALLADA|r
+}
+
+STRING 3628
+// Units: h00G (Cannon Wall), Name (Name)
+{
+Muro de Cañones
+}
+
+STRING 3630
+// Units: h00H (Cannon Wall), Name (Name)
+{
+Muro de Cañones
+}
+
+STRING 3632
+// Units: h00G (Cannon Wall), EditorSuffix (Name - Editor Suffix)
+{
+(altura 20)
+}
+
+STRING 3634
+// Units: h00H (Cannon Wall), EditorSuffix (Name - Editor Suffix)
+{
+(altura 100, ataque Z -300)
+}
+
+STRING 3635
+{
+Defensores de Stromgarde
+}
+
+STRING 3661
+// Units: o006 (Destroyer), Name (Name)
+{
+Destructor
+}
+
+STRING 3663
+// Units: o006 (Destroyer), Ubertip (Tooltip - Extended)
+{
+Los Destructores son embarcaciones rápidas y de aspecto siniestro diseñadas para atravesar flotas enemigas y dañar sus naves y apoyo aéreo. |n|n|cffffcc00Ataca unidades terrestres y aéreas.|r |n|n|cffffcc00Requiere|r 700 |cffffcc00de Petróleo|r.
+}
+
+STRING 3693
+// Units: o007 (Cinematic ship), Name (Name)
+{
+Barco Cinemático
+}
+
+STRING 3704
+// Units: h00F (Cannon Worker), Name (Name)
+{
+Obrero de Cañones
+}
+
+STRING 3786
+// Destructibles: B003 (Pathing UnBlocker (Ground Large)), Name (Name)
+{
+Desbloqueador de Ruta (Tierra Grande)
+}
+
+STRING 3791
+// Units: n018 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 3792
+// Units: n019 (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 3793
+// Units: n01M (Citizen), Name (Name)
+{
+Ciudadano
+}
+
+STRING 3794
+// Units: e002 (Ballista), EditorSuffix (Name - Editor Suffix)
+{
+(EnMuro)
+}
+
+STRING 3797
+// Doodads: DRWS (Rack Weapon Spear), Name (Name)
+{
+Soporte para Lanzas
+}
+
+STRING 3798
+{
+Preparativos
+}
+
+STRING 3799
+{
+Tus transportes han sido capturados por las tropas de Stromgarde. Libéralos para que podamos asegurar una mina de oro y comenzar nuestro asalto a Stromgarde.
+}
+
+STRING 3800
+{
+Recaptura los Transportes Orcos
+}
+
+STRING 3801
+{
+Maim debe sobrevivir
+}
+
+STRING 3802
+{
+Al menos un Peón debe sobrevivir
+}
+
+STRING 3803
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Preparativos
+  - Recaptura los Transportes Orcos
+  - Captura la Mina de Oro
+  - Maim debe sobrevivir
+  - Al menos un Peón debe sobrevivir
+}
+
+STRING 3804
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN PRINCIPAL|r
+Preparativos
+  -|cff808080 Recapturar los Transportes (Completado)|r
+  - Captura la Mina de Oro
+  - Maim debe sobrevivir
+  - Al menos un Peón debe sobrevivir
+}
+
+STRING 3812
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Preparativos
+}
+
+STRING 3813
+{
+Superioridad Naval
+}
+
+STRING 3814
+{
+Para suprimir la armada de Stromgarde, necesitas destruir sus instalaciones de producción de petróleo.
+}
+
+STRING 3815
+{
+Destruye las Plataformas Petroleras
+}
+
+STRING 3816
+{
+Destruye los Astilleros
+}
+
+STRING 3817
+{
+Destruye las Refinerías
+}
+
+STRING 3818
+{
+Destruye las Fundiciones
+}
+
+STRING 3832
+{
+Stromgarde
+}
+
+STRING 3833
+{
+Solo Stromgarde se interpone entre nosotros y las tierras del norte. Este reino de necios ha sido una espina en nuestro costado durante demasiado tiempo... reduce sus muros a polvo y inunda las calles con la sangre de su gente masacrada...
+}
+
+STRING 3834
+{
+Destruye los Cuarteles
+}
+
+STRING 3835
+{
+Destruye los Establos
+}
+
+STRING 3836
+{
+Destruye la Torre del Puerto
+}
+
+STRING 3837
+{
+Destruye el Ayuntamiento
+}
+
+STRING 3838
+{
+Destruye la Fortaleza de Stromgarde
+}
+
+STRING 3840
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Stromgarde
+  - Destruye los Cuarteles
+  - Destruye los Establos
+  - Destruye la Torre del Puerto
+  - Destruye el Ayuntamiento
+  - Destruye la Fortaleza de Stromgarde
+}
+
+STRING 3846
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Stromgarde
+}
+
+STRING 3848
+{
+|cffffcc00ÁRBOL TECNOLÓGICO DESBLOQUEADO|r
+Ogres. Estos gigantes de dos cabezas fueron entrenados por el mismísimo Cho'gall. Pueden ser entrenados en el |cffffcc00Montículo de Ogros|r.
+}
+
+STRING 3849
+{
+Trollbane
+}
+
+STRING 3850
+{
+Debes matar al líder de la nación de Stromgarde para quebrar su moral.
+}
+
+STRING 3851
+{
+Mata a Liam Trollbane
+}
+
+STRING 3853
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Trollbane
+  - Mata a Liam Trollbane
+}
+
+STRING 3854
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Trollbane
+}
+
+STRING 3855
+{
+Cabecera de playa
+}
+
+STRING 3856
+{
+Para preparar tu campamento para la llegada del Jefe de Guerra, primero debes establecer una cabecera de playa en la isla cercana.
+}
+
+STRING 3857
+{
+Prepara la base antes de que llegue el Jefe de Guerra
+}
+
+STRING 3859
+{
+Construye unos Cuarteles
+}
+
+STRING 3860
+{
+Construye un Molino de Guerra
+}
+
+STRING 3861
+{
+Construye una Herrería
+}
+
+STRING 3862
+{
+Construye un Laboratorio Goblin
+}
+
+STRING 3863
+{
+Construye un Astillero
+}
+
+STRING 3864
+{
+Construye una Refinería
+}
+
+STRING 3865
+{
+Construye una Fundición
+}
+
+STRING 3867
+{
+Prepara la base:
+}
+
+STRING 3877
+{
+|cffffcc00MISIÓN PRINCIPAL|r
+Cabecera de playa
+  - Prepara la base antes de que llegue el Jefe de Guerra
+  - Construye unos Cuarteles
+  - Construye un Molino de Guerra
+  - Construye una Herrería
+  - Construye un Laboratorio Goblin
+  - Construye un Astillero
+  - Construye una Refinería
+  - Construye una Fundición
+}
+
+STRING 3878
+{
+|cffffcc00MISIÓN PRINCIPAL COMPLETADA|r
+Cabecera de playa
+}
+
+STRING 3880
+{
+El Jefe de Guerra llegará en:
+}
+
+STRING 3882
+{
+Cuarteles
+}
+
+STRING 3886
+{
+Herrería
+}
+
+STRING 3887
+{
+Molino de Guerra
+}
+
+STRING 3889
+{
+Laboratorio Goblin
+}
+
+STRING 3891
+{
+Astillero
+}
+
+STRING 3893
+{
+Refinería
+}
+
+STRING 3895
+{
+Fundición
+}
+
+STRING 3897
+{
+|cffffcc00MISIÓN OPCIONAL COMPLETADA|r
+Superioridad naval
+}
+
+STRING 3898
+{
+|cffff0000ADVERTENCIA|r
+Debes construir tu base antes de que llegue el Jefe de Guerra. Revisa el temporizador en la esquina superior derecha de la pantalla.
+}
+
+STRING 3899
+{
+|cffff0000ADVERTENCIA|r
+Queda un minuto para la llegada del Jefe de Guerra.
+}
+
+STRING 3904
+{
+|cff32cd32CONSEJO|r
+Los muros del castillo con rejas son |cffd47832destructibles|r.
+Tus catapultas pueden atacar los muros del castillo haciendo clic derecho.
+}
+
+STRING 3905
+{
+|cffffcc00MODIFICACIÓN DEL ÁRBOL TECNOLÓGICO|r
+Armería de Orcos a Distancia. En el Molino de Guerra encontrarás nuevas mejoras para los lanzadores de lanzas orcos.
+}
+
+STRING 3907
+{
+|cffffcc00MISIÓN PRINCIPAL FALLIDA|r
+Stromgarde
+- |cffff0000Tu base está destruida, tus peones están muertos.|r
+}
+
+STRING 3908
+{
+Captura la Mina de Oro
+}
+
+STRING 3910
+{
+|cffffcc00MISIÓN PRINCIPAL FALLIDA|r
+Preparativos
+- |cffff0000Al menos un Peón debe sobrevivir. (Fallido)|r
+}
+
+STRING 3911
+{
+|cffffcc00MISIÓN PRINCIPAL FALLIDA|r
+Preparativos
+- |cffff0000Maim debe sobrevivir. (Fallido)|r
+}
+
+STRING 3912
+{
+|cffffcc00MISIÓN OPCIONAL|r
+Superioridad naval
+  - Destruye las Plataformas petrolíferas
+  - Destruye los Astilleros
+  - Destruye las Refinerías
+  - Destruye las Fundiciones
+}
+
+STRING 3913
+{
+Clan Martillo Crepuscular
+}
+
+STRING 3914
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3915
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3916
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3917
+{
+Edificio de la Ciudad de Stromgarde
+}
+
+STRING 3921
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3922
+{
+Throm'ka, guerreros.
+}
+
+STRING 3923
+{
+WC2Orc07Doomhammer1
+}
+
+STRING 3924
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3925
+{
+Buen trabajo... Maim. Zuluhed informa que no eres tan inútil como pensé después de tu fracaso en Dun Modr. Eres apasionado y valiente, pero deberías recordar que la fortuna no es infinita.
+}
+
+STRING 3926
+{
+WC2Orc07Doomhammer2
+}
+
+STRING 3927
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3928
+{
+Y tú, Utok. Preciso y reflexivo, cualidades raras en un orco. Estás en buena compañía con los Puño Negro. La guerra va bien cuando cada soldado conoce su lugar.
+}
+
+STRING 3929
+{
+WC2Orc07Doomhammer3
+}
+
+STRING 3930
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3931
+{
+Cho'gall informa que las Refinerías de Khaz Modan están bien mantenidas y cumpliendo sus cuotas. La Horda ahora tendrá más que suficiente petróleo para montar una feroz campaña en las tierras del norte.
+}
+
+STRING 3932
+{
+WC2Orc07Doomhammer4
+}
+
+STRING 3933
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3934
+{
+Como gesto de gratitud por mantenerlo a salvo en los humedales, Cho'gall ha enviado a sus ogros para ayudarnos aquí.
+}
+
+STRING 3935
+{
+WC2Orc07Doomhammer5
+}
+
+STRING 3936
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3937
+{
+Solo los molestos humanos de Stromgarde quedan por ser eliminados antes de enviar a la Horda en su próxima misión.
+}
+
+STRING 3938
+{
+WC2Orc07Doomhammer6
+}
+
+STRING 3939
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3940
+{
+Entonces es hora de arrasar su capital. Stromgarde intentó detener nuestro avance... y ahora cosecharán las consecuencias... ¡sangre y muerte!
+}
+
+STRING 3941
+{
+WC2Orc07Doomhammer7
+}
+
+STRING 3942
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3943
+{
+Me honras con tus halagos, joven Utok. Un día te convertirás en uno de mis guerreros más confiables.
+}
+
+STRING 3944
+{
+WC2Orc07Doomhammer8
+}
+
+STRING 3945
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3946
+{
+¡Así es! Pero no debemos quedarnos aquí demasiado tiempo. Ese rey cobarde seguramente advertirá a sus aliados sobre lo ocurrido aquí. Debemos movernos al norte pronto.
+}
+
+STRING 3947
+{
+WC2Orc07Doomhammer9
+}
+
+STRING 3948
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3949
+{
+Las celebraciones degeneran la disciplina, Maim. Quiero que nuestros guerreros estén preparados en todo momento. ¡Dales un día de descanso, luego prepárate para partir!
+}
+
+STRING 3950
+{
+WC2Orc07Doomhammer10
+}
+
+STRING 3951
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3952
+{
+Tú. No eres rey. El rey es cobarde. Huyó.
+}
+
+STRING 3953
+{
+WC2Orc07Doomhammer_Bossfight1
+}
+
+STRING 3954
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3955
+{
+Eres un guerrero valiente. ¡Pero un intento inútil!
+}
+
+STRING 3956
+{
+WC2Orc07Doomhammer_Bossfight2
+}
+
+STRING 3957
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3958
+{
+¡Construye más catapultas! ¡Debemos destruir los muros internos para entrar en la ciudad!
+}
+
+STRING 3959
+{
+WC2Orc07Doomhammer_BuildCatapults1
+}
+
+STRING 3960
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3961
+{
+¡Utok! ¡Maim! ¡A mi lado de inmediato! ¡La ciudad está al borde de caer! ¡Avancen!
+}
+
+STRING 3962
+{
+WC2Orc07Doomhammer_FirstGate1
+}
+
+STRING 3963
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3964
+{
+¡La supremacía de la Horda sobre los mares está asegurada!
+}
+
+STRING 3965
+{
+WC2Orc07Doomhammer_OilRigComplete1
+}
+
+STRING 3966
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3967
+{
+¡Entonces destruiremos sus plataformas y las reclamaremos como nuestras!
+}
+
+STRING 3968
+{
+WC2Orc07Doomhammer_OilRigTrigger1
+}
+
+STRING 3969
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3970
+{
+¡Entonces destruiremos sus plataformas y las reclamaremos como nuestras!
+}
+
+STRING 3971
+{
+WC2Orc07Doomhammer_OilRigTrigger1
+}
+
+STRING 3972
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3973
+{
+¡Guerreros! No desde Ventormenta hemos enfrentado defensas tan formidables. Los muros de Stromgarde son fuertes y su gente luchadores experimentados... endurecidos por siglos de guerra contra nuestros aliados Amani.
+}
+
+STRING 3974
+{
+WC2Orc07Doomhammer_Rally1
+}
+
+STRING 3975
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3976
+{
+¡Pero nada, ni muros ni experiencia, los salvará de nuestra máquina de guerra hoy! ¡Diezmen sus muros! ¡Masacren a su gente! ¡Lok'tar ogar! ¡Por la Horda!
+}
+
+STRING 3977
+{
+WC2Orc07Doomhammer_Rally2
+}
+
+STRING 3978
+{
+Orgrim Martillo Maldito
+}
+
+STRING 3979
+{
+Eres el líder de esta fortaleza. Matarte me traerá gran honor, humano.
+}
+
+STRING 3980
+{
+WC2Orc07Doomhammer_StromgardeLanding1
+}
+
+STRING 3981
+{
+Utok El Arañador
+}
+
+STRING 3982
+{
+¡Silencio! Veo algo moviéndose en la zona de desembarco.
+}
+
+STRING 3983
+{
+WC2Orc07Utok1
+}
+
+STRING 3984
+{
+Utok El Arañador
+}
+
+STRING 3985
+{
+¡Maldición! Nuestra posición ha sido comprometida. ¡Ahí se fue nuestro elemento sorpresa!
+}
+
+STRING 3986
+{
+WC2Orc07Utok2
+}
+
+STRING 3987
+{
+Utok El Arañador
+}
+
+STRING 3988
+{
+¡Envía una señal a nuestros barcos! Prepararemos una contra-sorpresa para estos humanos.
+}
+
+STRING 3989
+{
+WC2Orc07Utok3
+}
+
+STRING 3990
+{
+Utok El Arañador
+}
+
+STRING 3991
+{
+La ciudad está tomada, Jefe de Guerra. Completamente destruida por tu poder. Es un gran honor luchar a tu lado.
+}
+
+STRING 3992
+{
+WC2Orc07Utok4
+}
+
+STRING 3993
+{
+Utok El Arañador
+}
+
+STRING 3994
+{
+No te fallaré, Jefe de Guerra. Este fue un largo asedio. Con tu permiso, nuestros guerreros merecen descanso y un festín.
+}
+
+STRING 3995
+{
+WC2Orc07Utok5
+}
+
+STRING 3996
+{
+Utok El Arañador
+}
+
+STRING 3997
+{
+¡Ahí, una mina de oro! Este será un lugar perfecto para nuestro campamento avanzado. Sin embargo, esos molestos humanos han fortificado su posición alrededor...
+}
+
+STRING 3998
+{
+WC2Orc07Utok_Goldmine1
+}
+
+STRING 3999
+{
+Utok El Arañador
+}
+
+STRING 4000
+{
+Realmente extraño trabajar con Rend... este hermano suyo tiene más cráneo que cerebro...
+}
+
+STRING 4001
+{
+WC2Orc07Utok_Goldmine2
+}
+
+STRING 4002
+{
+Utok El Arañador
+}
+
+STRING 4003
+{
+¡Jefe de Guerra! Stromgarde tiene una flota fuerte y nuestro asedio se verá obstaculizado si no destruimos su producción de petróleo y líneas de suministro!
+}
+
+STRING 4004
+{
+WC2Orc07Utok_OilRig1
+}
+
+STRING 4005
+{
+Utok El Arañador
+}
+
+STRING 4006
+{
+Gracias, Jefe de Guerra, es un gran honor para mí servirte a ti y a la Horda.
+}
+
+STRING 4007
+{
+WC2Orc07Utok_OrgrimWelcome1
+}
+
+STRING 4008
+{
+Maim Puño Negro
+}
+
+STRING 4009
+{
+Cuidado con tu boca, sangre joven... el Jefe de Guerra nos ha honrado con esta misión que llevará a nuestro clan a la gloria... ¡¿y te quejas de los mosquitos?!
+}
+
+STRING 4010
+{
+WC2Orc07Maim1
+}
+
+STRING 4011
+{
+Maim Puño Negro
+}
+
+STRING 4012
+{
+¿Eh? ¿Qué ves?
+}
+
+STRING 4013
+{
+WC2Orc07Maim2
+}
+
+STRING 4014
+{
+Maim Puño Negro
+}
+
+STRING 4015
+{
+Debemos recuperar esos barcos y usarlos para establecer una cabeza de playa en la isla. Cuando llegue el Jefe de Guerra, necesitaremos proporcionarle todo lo que necesite para comenzar el asedio.
+}
+
+STRING 4016
+{
+WC2Orc07Maim3
+}
+
+STRING 4017
+{
+Maim Puño Negro
+}
+
+STRING 4018
+{
+¡Throm'ka, Jefe de Guerra! La cabeza de playa que solicitaste está lista. ¡Los patéticos humanos no tuvieron ninguna oportunidad contra nosotros!
+}
+
+STRING 4019
+{
+WC2Orc07Maim4
+}
+
+STRING 4020
+{
+Maim Puño Negro
+}
+
+STRING 4021
+{
+Nuestras fuerzas están listas para aplastarlos, Jefe de Guerra.
+}
+
+STRING 4022
+{
+WC2Orc07Maim5
+}
+
+STRING 4023
+{
+Maim Puño Negro
+}
+
+STRING 4024
+{
+Pero debemos celebrar para levantar la moral de nuestros guerreros, Jefe de Guerra.
+}
+
+STRING 4025
+{
+WC2Orc07Maim6
+}
+
+STRING 4026
+{
+Maim Puño Negro
+}
+
+STRING 4027
+{
+Como ordenes. Poderoso Orgrim.
+}
+
+STRING 4028
+{
+WC2Orc07Maim7
+}
+
+STRING 4029
+{
+Maim Puño Negro
+}
+
+STRING 4030
+{
+¡Por la Horda!
+}
+
+STRING 4031
+{
+WC2Orc07Maim_FirstGate1
+}
+
+STRING 4032
+{
+Maim Puño Negro
+}
+
+STRING 4033
+{
+¡Ja! Escuché que querían masacrarnos, ¡humanos débiles! ¡Vengan entonces! ¡Muéstrenme su fuerza! ¡Ja-ja-ja!
+}
+
+STRING 4034
+{
+WC2Orc07Maim_FootmanEncounter1
+}
+
+STRING 4035
+{
+Maim Puño Negro
+}
+
+STRING 4036
+{
+¿Dónde está el problema, Utok? ¡Más cadáveres para mí!
+}
+
+STRING 4037
+{
+WC2Orc07Maim_Goldmine1
+}
+
+STRING 4038
+{
+Maim Puño Negro
+}
+
+STRING 4039
+{
+¡Saquen la ciudad! ¡Arrásenla!
+}
+
+STRING 4040
+{
+WC2Orc07Maim_Siege1a01
+}
+
+STRING 4041
+{
+Bruto
+}
+
+STRING 4042
+{
+¡Jefe, llevamos horas parados hasta la cintura en este lodazal!
+}
+
+STRING 4043
+{
+WC2Orc07Grunt1
+}
+
+STRING 4044
+{
+Capitán
+}
+
+STRING 4045
+{
+¡Los merodeadores de la Horda han desembarcado cerca de nuestras costas! Envía un mensaje a la capital. Están aquí.
+}
+
+STRING 4046
+{
+WC2Orc07Footman1
+}
+
+STRING 4047
+{
+Soldado
+}
+
+STRING 4048
+{
+Parece ser una fuerza de exploración. Probablemente se esconden en el lodazal... no más de una docena, debemos masacrarlos.
+}
+
+STRING 4049
+{
+WC2Orc07Footman2
+}
+
+STRING 4050
+{
+Soldado
+}
+
+STRING 4051
+{
+¡Miren! Más orcos. Nuestra inteligencia tenía razón...
+}
+
+STRING 4052
+{
+D06AFootman0601
+}
+
+STRING 4053
+{
+Liam Trollbane
+}
+
+STRING 4054
+{
+¿Alguna vez has contemplado un espectáculo así, hermano? Nunca en la historia de nuestro reino hemos presenciado mareas de fatalidad que se acercan a nuestras costas...
+}
+
+STRING 4055
+{
+WC2Orc07Liam1
+}
+
+STRING 4056
+{
+Liam Trollbane
+}
+
+STRING 4057
+{
+Fue llamado por Anduin Lothar para ayudar a sofocar los grupos de avanzada de la Horda después de que Trabalomas fuera destruida. Ojalá estuviera aquí...
+}
+
+STRING 4058
+{
+WC2Orc07Liam2
+}
+
+STRING 4059
+{
+Liam Trollbane
+}
+
+STRING 4060
+{
+¡Han destruido la ciudad baja y abierto brecha! ¡Hombres! ¡Defiendan sus hogares a toda costa!
+}
+
+STRING 4061
+{
+WC2Orc07Liam_LowerCity1
+}
+
+STRING 4062
+{
+Liam Trollbane
+}
+
+STRING 4063
+{
+¡No! Él no huyó. Sus acciones han salvado un linaje... ¡y te han robado el precio que buscabas! ¡Ahora enfréntame a mí!
+}
+
+STRING 4064
+{
+WC2Orc07Liam_BossFight1
+}
+
+STRING 4065
+{
+Liam Trollbane
+}
+
+STRING 4066
+{
+¡Hermano! La ciudad ha caído. ¡La Horda está a las puertas de nuestra fortaleza!
+}
+
+STRING 4067
+{
+WC2Orc07Liam_Retreat1
+}
+
+STRING 4068
+{
+Liam Trollbane
+}
+
+STRING 4069
+{
+Eres nuestro Rey. Tu vida es mucho más importante que la mía. La Casa Trollbane sobrevive a través de ti, hermano. Debes retirarte a Lordaeron.
+}
+
+STRING 4070
+{
+WC2Orc07Liam_Retreat2
+}
+
+STRING 4071
+{
+Liam Trollbane
+}
+
+STRING 4072
+{
+No. Terenas es tu amigo. Te ayudará. Y Anduin Lothar estará a tu lado cuando llegue el momento de vengarme. Vive hoy y lucha mañana... vive, para que Stromgarde pueda vivir. La ciudad puede reconstruirse. Y nuestra familia perdurará.
+}
+
+STRING 4073
+{
+WC2Orc07Liam_Retreat3
+}
+
+STRING 4074
+{
+Liam Trollbane
+}
+
+STRING 4075
+{
+Dile a Danath que lo quiero... y que me recuerde. Dile que siempre he estado orgulloso de que sea mi hijo. ¡Ahora vete! ¡Cubriré tu retirada!
+}
+
+STRING 4076
+{
+WC2Orc07Liam_Retreat4
+}
+
+STRING 4077
+{
+Liam Trollbane
+}
+
+STRING 4078
+{
+¡Luchen hasta el último hombre! ¡Stromgarde no debe caer!
+}
+
+STRING 4079
+{
+WC2Orc07Liam_Siege1
+}
+
+STRING 4080
+{
+Thoras Trollbane
+}
+
+STRING 4081
+{
+Pase lo que pase, Liam, somos hijos de Arathor... la guerra está en nuestra sangre, es lo que hacemos mejor. ¿Dónde está tu hijo, Danath?
+}
+
+STRING 4082
+{
+WC2Orc07Thoras1
+}
+
+STRING 4083
+{
+Thoras Trollbane
+}
+
+STRING 4084
+{
+Fortalece tu corazón, hermano, Stromgarde nunca ha caído ante ningún enemigo. Los trols probaron suerte y fallaron, sus bandas de guerra aplastadas hasta convertirse en polvo bajo estos mismos muros... esta "Horda" no será diferente...
+}
+
+STRING 4085
+{
+WC2Orc07Thoras2
+}
+
+STRING 4086
+{
+Thoras Trollbane
+}
+
+STRING 4087
+{
+No flaquearemos. Este es nuestro hogar. ¡No podemos abandonarlo!
+}
+
+STRING 4088
+{
+WC2Orc07Thoras_Retreat1
+}
+
+STRING 4089
+{
+Thoras Trollbane
+}
+
+STRING 4090
+{
+¡No seré conocido como el rey que huyó, Liam! Además... eres mi hermano. ¡No permitiré que perezcas así!
+}
+
+STRING 4091
+{
+WC2Orc07Thoras_Retreat2
+}
+
+STRING 4092
+{
+Thoras Trollbane
+}
+
+STRING 4093
+{
+¡Te vengaré hermano. Lo juro!
+}
+
+STRING 4094
+{
+WC2Orc07Thoras_Retreat3
+}
+
+STRING 4095
+{
+Thoras Trollbane
+}
+
+STRING 4096
+{
+¡Hijos de Stromgarde! Este es vuestro hogar, vuestras tierras! ¡La Horda ha venido a destruir todo lo que os es querido! ¡Defended vuestro honor! ¡Defended vuestro hogar!
+}
+
+STRING 4097
+{
+WC2Orc07Thoras_Siege1
+}
+
+STRING 4098
+{
+Thoras Trollbane
+}
+
+STRING 4099
+{
+Esta ciudad fue una vez el corazón mismo de la civilización humana, orco... ¡no la profanarás!
+}
+
+STRING 4100
+{
+WC2Orc07Thoras_StromgardeLanding1
+}
+
+STRING 4101
+{
+Thoras Trollbane
+}
+
+STRING 4102
+{
+Ya veremos, piel verde. Mi espada ha matado a incontables brutos como tú, y aún no he conocido a uno que suponga un desafío.
+}
+
+STRING 4103
+{
+WC2Orc07Thoras_StromgardeLanding2
+}
+
+STRING 4104
+{
+Luz amarilla
+}
+
+STRING 4105
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 4106
+{
+|cffffcc00Truco Desactivado|r
+}
+
+STRING 4107
+{
+|cffffcc00Truco Desactivado|r
+}
+
+STRING 4108
+{
+|cffffcc00Truco Activado|r
+}
+
+STRING 4109
+{
+  - Destruye las Plataformas petrolíferas
+}
+
+STRING 4110
+{
+  -|cff808080 Destruye las Plataformas petrolíferas (Completado)|r
+}
+
+STRING 4111
+{
+Superioridad naval
+}
+
+STRING 4112
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN OPCIONAL|r
+}
+
+STRING 4113
+{
+  - Destruye los Astilleros
+}
+
+STRING 4114
+{
+  -|cff808080 Destruye los Astilleros (Completado)|r
+}
+
+STRING 4115
+{
+  -|cff808080 Destruye las Refinerías (Completado)|r
+}
+
+STRING 4116
+{
+  - Destruye las Refinerías
+}
+
+STRING 4117
+{
+  - Construye una Fundición
+}
+
+STRING 4118
+{
+  -|cff808080 Construye una Fundición (Completado)|r
+}
+
+STRING 4119
+{
+  -|cff808080 Destruye las Fundiciones (Completado)|r
+}
+
+STRING 4120
+{
+  - Destruye las Fundiciones
+}
+
+STRING 4121
+{
+  - Construye un Astillero
+}
+
+STRING 4122
+{
+  -|cff808080 Construye un Astillero (Completado)|r
+}
+
+STRING 4123
+{
+  -|cff808080 Construye una Refinería (Completado)|r
+}
+
+STRING 4124
+{
+  - Construye una Refinería
+}
+
+STRING 4125
+{
+  - Construye una Herrería
+}
+
+STRING 4126
+{
+  -|cff808080 Construye una Herrería (Completado)|r
+}
+
+STRING 4127
+{
+  -|cff808080 Construye un Laboratorio Goblin (Completado)|r
+}
+
+STRING 4128
+{
+  - Construye un Laboratorio Goblin
+}
+
+STRING 4129
+{
+  - Prepara la base antes de que llegue el Jefe de Guerra
+}
+
+STRING 4130
+{
+Cabecera de playa
+}
+
+STRING 4131
+{
+  -|cff808080 Construye unos Cuarteles (Completado)|r
+}
+
+STRING 4132
+{
+  - Construye unos Cuarteles
+}
+
+STRING 4133
+{
+  - Construye un Molino de Guerra
+}
+
+STRING 4134
+{
+  -|cff808080 Construye un Molino de Guerra (Completado)|r
+}
+
+STRING 4135
+{
+Stromgarde
+}
+
+STRING 4136
+{
+|cffffcc00ACTUALIZACIÓN DE MISIÓN PRINCIPAL|r
+}
+
+STRING 4137
+{
+  - Destruye los Establos
+}
+
+STRING 4138
+{
+  -|cff808080 Destruye los Establos (Completado)|r
+}
+
+STRING 4139
+{
+  -|cff808080 Destruye los Cuarteles (Completado)|r
+}
+
+STRING 4140
+{
+  - Destruye los Cuarteles
+}
+
+STRING 4141
+{
+  - Destruye el Ayuntamiento
+}
+
+STRING 4142
+{
+  -|cff808080 Destruye el Ayuntamiento (Completado)|r
+}
+
+STRING 4143
+{
+  -|cff808080 Destruye la Torre del Puerto (Completado)|r
+}
+
+STRING 4144
+{
+  - Destruye la Torre del Puerto
+}
+
+STRING 4145
+{
+  -|cff808080 Destruye la Fortaleza (Completado)|r
+}
+
+STRING 4146
+{
+  - Destruye la Fortaleza
+}
+
+STRING 4147
+{
+Después de que terminó la batalla espantosa, Orgrim Martillo Maldito reunió a sus lugartenientes en la plaza principal de Stromgarde, cubierta con los cadáveres de humanos caídos...
+}
+
