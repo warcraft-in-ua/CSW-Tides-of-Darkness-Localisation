@@ -1,0 +1,636 @@
+{
+  "ToD_A01_M03_FRCS_001": {
+    "original": "Blackrock clan",
+    "translated": "Klan Czarnej Skały",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_FRCS_002": {
+    "original": "Forest Trolls",
+    "translated": "Leśne trolle",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_FRCS_004": {
+    "original": "Nation of Lordaeron",
+    "translated": "Królestwo Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MAP_001": {
+    "original": "Barrel with Oil",
+    "translated": "Beczka Ropy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MAP_002": {
+    "original": "Destroyer",
+    "translated": "Niszczyciel",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MAP_003": {
+    "original": "Egg",
+    "translated": "Jajo",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MAP_004": {
+    "original": "Iron Cage",
+    "translated": "Żelazna klatka",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MAP_005": {
+    "original": "Tent",
+    "translated": "Namiot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MAP_006": {
+    "original": "Tent",
+    "translated": "Namiot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_001": {
+    "original": "Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.",
+    "translated": "Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_002": {
+    "original": "|cffffcc00MAIN QUEST|r",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_003": {
+    "original": "|cffffcc00MAIN QUEST UPDATE|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_004": {
+    "original": "|cff00ff00HINT|r\nBuild a Troll Lumber Mill to unlock Advanced Buildings and Shipyard construction.",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nZbuduj tartak trolli, aby odblokować zaawansowane budynki i budowę stoczni.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_005": {
+    "original": "|cff00ff00HINT|r\nSelect a Peon and press Advanced Buildings to enable additional structures.",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nWybierz peona i naciśnij przycisk budynków zaawansowanych, aby uzyskać dostęp do dodatkowych budowli.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_007": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nDestroyers. Troll ships can fire at ground and air targets\nRequires |c00FEBA0E700 Oil|r to build.",
+    "translated": "|cffffcc00NOWA JEDNOSTKA|r\nNiszczyciel. Okręt trolli atakujący jednostki naziemne i latające.\nBudowa wymaga |c00FEBA0E700 jednostek ropy|r.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_008": {
+    "original": "|cff00ff00HINT|r\nOrder the Tanker to build an Oil Platform on the closest Oil Patch.",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nKaż tankowcowi zbudować platformę wiertniczą na najbliższym złożu ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_009": {
+    "original": "|cff32CD32HINT|r \nYour peons can repair ships.",
+    "translated": "|cff32CD32WSKAZÓWKA|r\nPeoni mogą naprawiać okręty.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_010": {
+    "original": "|cff000000",
+    "translated": "|cff000000",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_011": {
+    "original": " oil.  ",
+    "translated": " jednostek ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_012": {
+    "original": "|cff00ff00HINT|r - You pillaged ",
+    "translated": "|cff00ff00WSKAZÓWKA|r — Złupiono ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_013": {
+    "original": "|cffffcc00Haul more Oil.|r",
+    "translated": "|cffffcc00Dostarcz więcej ropy.|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_014": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nSupplying the Armada\n- |cffff0000Gather 10,000 Gallons of Oil (Failed)|r",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nZaopatrzenie armady\n- |cffff0000Zgromadź 10 000 galonów ropy (nie wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_015": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nSupplying the Armada\n- |cffff0000Build 4 Oil Platforms. (Failed)|r",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nZaopatrzenie armady\n- |cffff0000Zbuduj 4 platformy wiertnicze (nie wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_016": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nAll structures and units were destroyed.",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWszystkie jednostki i budowle zostały zniszczone.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_MESS_017": {
+    "original": "Defeat!",
+    "translated": "Porażka!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_001": {
+    "original": "Supplying the Armada",
+    "translated": "Zaopatrzenie armady",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_002": {
+    "original": "  - Build a Shipyard",
+    "translated": "  - Zbuduj stocznię",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_003": {
+    "original": "Build a Shipyard",
+    "translated": "Zbuduj stocznię",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_004": {
+    "original": "  - |cff808080Build a Shipyard (Completed)|r",
+    "translated": "  - |cff808080Zbuduj stocznię (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_005": {
+    "original": "  - Build Oil Platforms (",
+    "translated": "  - Zbuduj platformy wiertnicze (wzniesiono ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_006": {
+    "original": " of 4 Built)",
+    "translated": " z 4)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_007": {
+    "original": "Build Oil Platforms (0 of 4 Built)",
+    "translated": "Zbuduj platformy wiertnicze (wzniesiono 0 z 4)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_008": {
+    "original": "Build Oil Platforms",
+    "translated": "Zbuduj platformy wiertnicze",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_009": {
+    "original": "  - |cff808080Build Oil Platforms (Completed)|r",
+    "translated": "  - |cff808080Zbuduj platformy wiertnicze (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_010": {
+    "original": "  - Gather ",
+    "translated": "  - Zgromadź ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_011": {
+    "original": "Gather ",
+    "translated": "Zgromadź ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_012": {
+    "original": "  - |cff808080Gather ",
+    "translated": "  - |cff808080Zgromadź ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_013": {
+    "original": " Gallons of Oil",
+    "translated": " galonów ropy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_014": {
+    "original": " Gallons of Oil (Completed)|r",
+    "translated": " galonów ropy (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_015": {
+    "original": "To refuel the Armada once it arrives and maintain a number of support vessels, the Horde requires massive amounts of the resource called oil. Build four oil platforms and pump the seabed dry!",
+    "translated": "Horda potrzebuje ogromnych ilości ropy, aby zaopatrzyć przybywającą armadę oraz utrzymać flotę okrętów wsparcia. Wznieś cztery platformy wiertnicze i wyciśnij z dna morskiego ostatnią kroplę!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_016": {
+    "original": "|cffffcc00MAIN QUEST|r\nSupplying the Armada\n  - Build a Shipyard\n  - Build Oil Platforms (0 of 4 Built)\n  - Gather 10,000 Gallons of Oil",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nZaopatrzenie armady\n  - Zbuduj stocznię\n  - Zbuduj platformy wiertnicze (wzniesiono 0 z 4)\n  - Zgromadź 10 000 galonów ropy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_017": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nSupplying the Armada",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nZaopatrzenie armady",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_018": {
+    "original": "Alliance Troops",
+    "translated": "Wojska Przymierza",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_019": {
+    "original": "Destroy the Alliance camp on the island",
+    "translated": "Zniszcz obóz Przymierza na wyspie",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_020": {
+    "original": "The humans have established an outpost on the island. They must not be allowed to threaten our operation! Find them, and slaughter them!",
+    "translated": "Ludzie założyli na wyspie przyczółek. Nie wolno dopuścić, by zagrozili naszym działaniom! Znajdź ich i wybij!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_021": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nAlliance Troops\n  - Destroy the Alliance camp on the island",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nWojska Przymierza\n  - Zniszcz obóz Przymierza na wyspie",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_022": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nAlliance Troops\n",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nWojska Przymierza\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_023": {
+    "original": "Southshore Squadron",
+    "translated": "Eskadra Południowego Brzegu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_024": {
+    "original": "Destroy the Battleships",
+    "translated": "Zniszcz pancerniki",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_025": {
+    "original": "A squadron of Lordaeron Battleships lay anchored near Southshore. This threat to your operations cannot be tolerated – sink them!",
+    "translated": "W pobliżu Południowego Brzegu kotwiczy eskadra pancerników Lordaeronu. To zagrożenie dla naszych działań, którego nie możemy tolerować. Zatop je!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_026": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nSouthshore Squadron\n  - Destroy the Battleships",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nEskadra Południowego Brzegu\n  - Zniszcz pancerniki",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_027": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nSouthshore Squadron",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nEskadra Południowego Brzegu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_028": {
+    "original": "Oil War",
+    "translated": "Wojna o ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_029": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nOil War\n  - Destroy the enemy Refineries",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nWojna o ropę\n  - Zniszcz rafinerie wroga",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_030": {
+    "original": "|cffff0000WARNING|r\nThere are two Oil Patches under Alliance control. Capture at least one of before they become depleted.",
+    "translated": "|cffff0000OSTRZEŻENIE|r\nPrzymierze kontroluje dwa złoża ropy. Zajmij przynajmniej jedno, zanim zostaną wyczerpane.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_031": {
+    "original": "Destroy the enemy Refineries",
+    "translated": "Zniszcz rafinerie wroga",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_032": {
+    "original": "A large amount of oil is stored in the Alliance’s oil refineries. Destroy them and add their oil supplies to our own.",
+    "translated": "Rafinerie Przymierza przechowują znaczne zapasy ropy. Zniszcz je i przejmij zasoby wroga.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_033": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nOil War\n",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nWojna o ropę\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OBJE_2811": {
+    "original": "Build Oil Platforms (",
+    "translated": "Zbuduj platformy wiertnicze",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_ALREADY_USED": {
+    "original": "That Oil Patch has already being used.",
+    "translated": "To złoże ropy jest już eksploatowane.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_BUILD_FIRST": {
+    "original": "Must build Oil Rig first.",
+    "translated": "Najpierw trzeba zbudować platformę wiertniczą.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_COLLECTOR_ABIL_DESCRIPTION_EMPTY": {
+    "original": "Collect Oil from Oil Rigs.",
+    "translated": "Odbieraj ropę z platform wiertniczych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_COLLECTOR_ABIL_DESCRIPTION_FULL": {
+    "original": "Return the Oil to the nearest Shipyard.",
+    "translated": "Dostarcz ropę do najbliższej stoczni.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_COLLECTOR_ABIL_NAME_EMPTY": {
+    "original": "Gather Oil",
+    "translated": "Wydobywaj ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_COLLECTOR_ABIL_NAME_FULL": {
+    "original": "Deliver Oil",
+    "translated": "Dostarcz ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_DEPLETED_WARNING": {
+    "original": "|c00640000Oil patch is depleted|r",
+    "translated": "|c00640000Złoże ropy zostało wyczerpane|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_LOCALISATION_NAME": {
+    "original": "Oil: ",
+    "translated": "Ropa: ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_LOW_WARNING": {
+    "original": "The oil patch is running low",
+    "translated": "Złoże ropy jest na wyczerpaniu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_MUST_BUILD_UPON": {
+    "original": "Must build upon Oil Patch.",
+    "translated": "Ten budynek można wznieść tylko na złożu ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_UNABLE": {
+    "original": "Unable to use Oil Rig.",
+    "translated": "Nie można użyć platformy wiertniczej.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_WHERE_GET_OIL": {
+    "original": "Oil is gathered from Oil Patches.",
+    "translated": "Ropę pozyskuje się ze złóż ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_OIL_ZERO": {
+    "original": "Oil: 0",
+    "translated": "Ropa: 0",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_SCRN_001": {
+    "original": "Mission Objectives",
+    "translated": "Cele misji",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_SCRN_002": {
+    "original": "Shipyard Built:",
+    "translated": "Wzniesione stocznie:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_SCRN_003": {
+    "original": "Oil Platforms Built:",
+    "translated": "Platformy:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_SCRN_004": {
+    "original": "Battleships Remaining:",
+    "translated": "Pancerniki:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M03_VO_S001_001": {
+    "original": "Lok’tar, Chieftain!",
+    "translated": "Lok’tar, wodzu!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S001_002": {
+    "original": "Lok’tar! Our mighty Armada will arrive in these waters soon, ushering in our long awaited assault on Lordaeron. All that we have done here has led us to this moment.",
+    "translated": "Lok’tar! Nasza potężna armada wkrótce wpłynie na te wody i rozpocznie długo wyczekiwany szturm na Lordaeron. Wszystko, co tu zrobiliśmy, prowadziło do tej chwili.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S001_003": {
+    "original": "To ensure that the Armada will be operating at maximum efficiency, the Warchief has directed us to begin construction of facilities for them near the Southshore region.",
+    "translated": "Wódz rozkazał nam wznieść zaplecze w okolicach Południowego Brzegu, by armada mogła działać z pełną sprawnością.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S001_004": {
+    "original": "He also instructs us to build a fleet of our own, so that we may keep these facilities safe against any Alliance incursions.",
+    "translated": "Mamy również zbudować własną flotę, która ochroni te obiekty przed atakami Przymierza.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S001_005": {
+    "original": "Accomplishing both of these tasks will require massive amounts of the black liquid known as oil.",
+    "translated": "Oba zadania pochłoną ogromne ilości czarnej cieczy zwanej ropą.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S001_006": {
+    "original": "The local waters are rich with this resource, and recent ice melts have made it even more of it accessible. But some deposits may be guarded by alliance ships.",
+    "translated": "Tutejsze wody obfitują w ten surowiec. Niedawna odwilż odsłoniła kolejne złoża. Niektórych mogą jednak strzec okręty Przymierza.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S001_007": {
+    "original": "We will need to build a shipyard and oil tankers in order to extract this resource.",
+    "translated": "Żeby wydobywać ten surowiec, musimy zbudować stocznię i tankowce.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S001_008": {
+    "original": "Once our task is completed and our Armada arrives, the invasion of Lordaeron can finally begin… starting with Hillsbrad.",
+    "translated": "Gdy wykonamy zadanie, a armada przybędzie, wreszcie rozpocznie się inwazja na Lordaeron… Najpierw Hillsbrad.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S001_009": {
+    "original": "Glory to the Horde, Chieftain!",
+    "translated": "Chwała Hordzie, wodzu!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S002_001": {
+    "original": "What is this?",
+    "translated": "Co to jest?",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S002_002": {
+    "original": "Wait... something is wrong...",
+    "translated": "Zaraz… Coś jest nie tak…",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S002_003": {
+    "original": "Blackhand, watch out!",
+    "translated": "Czarnoręki, uważaj!",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M03_VO_S002_004": {
+    "original": "I owe you my life, Zul’jin! Thank you for killing those cowardly elves.",
+    "translated": "Zawdzięczam ci życie, Zul’jinie! Dziękuję, że zabiłeś te tchórzliwe elfy.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S002_005": {
+    "original": "My pleasure, Rend Blackhand! You and I be brothers now, and brothers be looking out for one another!",
+    "translated": "Cała przyjemność po mojej stronie, Rwiju Czarnoręki! Teraz jesteśmy braćmi. A bracia strzegą siebie nawzajem!",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M03_VO_S002_006": {
+    "original": "My axes be thirsting for da blood of da humans and elves who took me, my warriors and I be here to aid ya in the battles ahead!",
+    "translated": "Moje topory łakną krwi ludzi i elfów, którzy mnie pojmali. Ja i moi wojownicy pomożemy wam w nadchodzących bitwach!",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M03_VO_S002_007": {
+    "original": "I am glad that you came here. Together we will establish Horde authority over these seas.",
+    "translated": "Cieszę się, że przybyłeś. Razem zaprowadzimy na tych morzach władzę Hordy.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S003_001": {
+    "original": "The pathetic humans got to the island before us! Find their camp and burn it to the ground!",
+    "translated": "Żałośni ludzie dotarli na wyspę przed nami! Znajdźcie ich obóz i spalcie go do szczętu!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S004_001": {
+    "original": "Thanks for freeing us mon! We should hurry, da elves said dat the Gilneans be planning something big!",
+    "translated": "Dzięki, żeście nas uwolnili, bracia! Musimy się spieszyć. Elfy mówiły, że Gilneanie szykują coś wielkiego!",
+    "unit_name": "Troll",
+    "unit_name_translated": "Troll"
+  },
+  "ToD_A01_M03_VO_S004_002": {
+    "original": "The Gilneans? Chieftain, perhaps we should warn the Armada? Gilneas should not be...",
+    "translated": "Gilneanie? Wodzu, może powinniśmy ostrzec armadę? Gilneas nie powinno…",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S004_003": {
+    "original": "Nonsense! The Orcish Armada is the greatest naval force in orcish history… if the Gilneans are foolish enough to stand in their way, then let them sail to their doom!",
+    "translated": "Bzdura! Orcza armada to największa flota w historii naszego ludu… Jeśli Gilneanie są dość głupi, by stanąć jej na drodze, niech płyną ku zagładzie!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S004_004": {
+    "original": "Zug-Zug… Chieftain.",
+    "translated": "Zug-zug… wodzu.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S005_001": {
+    "original": "That’s the last of them. Now we can focus on our main task, without hindrance.",
+    "translated": "To już ostatni. Teraz możemy bez przeszkód zająć się naszym głównym zadaniem.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S006_001": {
+    "original": "Dis be the Destroyer. These ships be swift and deadly. Dey can shoot at both ground and air targets. Dey will be indispensable in naval battles with da Alliance.",
+    "translated": "To niszczyciel. Te okręty są szybkie i zabójcze. Mogą ostrzeliwać cele naziemne i powietrzne. Bez nich nie obejdzie się żadna morska bitwa z Przymierzem.",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M03_VO_S007_001": {
+    "original": "Chieftain! There is a force of battleships anchored in Southshore, they could set sail at any moment!",
+    "translated": "Wodzu! W Południowym Brzegu kotwiczy eskadra pancerników. W każdej chwili może wypłynąć!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S007_002": {
+    "original": "Lok'Narash! They must not be allowed to threaten our operations here, destroy them immediately!",
+    "translated": "Lok’narash! Nie wolno dopuścić, by zagrozili naszym działaniom. Natychmiast ich zniszczcie!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S008_001": {
+    "original": "Chieftain, this human tanker carried oil, maybe we can pillage more oil from these pathetic humans?",
+    "translated": "Wodzu, ten ludzki tankowiec przewoził ropę. Może zdołamy złupić więcej zapasów tych żałosnych ludzi?",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M03_VO_S008_002": {
+    "original": "Excellent idea Utok! This way we can claim even more oil, while striking a crippling blow against our enemies.",
+    "translated": "Znakomity pomysł, Utoku! Zdobędziemy więcej ropy, a zarazem zadamy wrogom dotkliwy cios.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M03_VO_S009_001": {
+    "original": "Excellent! Our tankers are bursting with oil, now nothing can stop us from destroying Hillsbrad!",
+    "translated": "Doskonale! Nasze tankowce są pełne ropy. Nic już nie przeszkodzi nam w zniszczeniu Hillsbradu!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "_UNMATCHED_NO_WTS_STRING": {
+    "ToD_A01_M03_FRCS_003": {
+      "original": "Nation of Gilneas",
+      "unit_name": ""
+    },
+    "ToD_A01_M03_MESS_006": {
+      "original": "|cffffcc00TECHTREE UNLOCKED|r \nAdvanced Structures - Shipyard.",
+      "unit_name": ""
+    }
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "ToD_A04_M12_OIL_ALREADY_USED": {
+    "original": "That Oil Patch has already being used.",
+    "translated": "To złoże ropy jest już eksploatowane.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_BUILD_FIRST": {
+    "original": "Must build Oil Rig first.",
+    "translated": "Najpierw trzeba zbudować platformę wiertniczą.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_COLLECTOR_ABIL_DESCRIPTION_EMPTY": {
+    "original": "Collect Oil from Oil Rigs.",
+    "translated": "Odbieraj ropę z platform wiertniczych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_COLLECTOR_ABIL_DESCRIPTION_FULL": {
+    "original": "Return the Oil to the nearest Shipyard.",
+    "translated": "Dostarcz ropę do najbliższej stoczni.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_COLLECTOR_ABIL_NAME_EMPTY": {
+    "original": "Gather Oil",
+    "translated": "Wydobywaj ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_COLLECTOR_ABIL_NAME_FULL": {
+    "original": "Deliver Oil",
+    "translated": "Dostarcz ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_DEPLETED_WARNING": {
+    "original": "|c00640000Oil patch is depleted|r",
+    "translated": "|c00640000Złoże ropy zostało wyczerpane|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_LOCALISATION_NAME": {
+    "original": "Oil: ",
+    "translated": "Ropa: ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_LOW_WARNING": {
+    "original": "The oil patch is running low",
+    "translated": "Złoże ropy jest na wyczerpaniu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_MUST_BUILD_UPON": {
+    "original": "Must build upon Oil Patch.",
+    "translated": "Ten budynek można wznieść tylko na złożu ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_UNABLE": {
+    "original": "Unable to use Oil Rig.",
+    "translated": "Nie można użyć platformy wiertniczej.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_WHERE_GET_OIL": {
+    "original": "Oil is gathered from Oil Patches.",
+    "translated": "Ropę pozyskuje się ze złóż ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_OIL_ZERO": {
+    "original": "Oil: 0",
+    "translated": "Ropa: 0",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_001": {
+    "original": "Search for Gul'dan",
+    "translated": "Pościg za Gul’danem",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_002": {
+    "original": "Find Gul'dan.",
+    "translated": "Znajdź Gul’dana.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_004": {
+    "original": "|cffffcc00MAIN QUEST|r\nSearch for Gul'dan\n - Find Gul'dan",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nPościg za Gul’danem\n - Znajdź Gul’dana",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_006": {
+    "original": "Shadow Council Remnants",
+    "translated": "Niedobitki Rady Cieni",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_007": {
+    "original": "Destroy Shadow Council camp",
+    "translated": "Zniszcz obóz Rady Cieni",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_008": {
+    "original": "Bring the artifact to Drak'thul.",
+    "translated": "Zanieś artefakt Drak’thulowi.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_009": {
+    "original": "If you want Drak'thul to come to your side and help find Gul'dan, you must destroy the Shadow Council warlocks camp. Drak'thul fears revenge if he betrays Gul'dan. He wants to protect himself with the help of an artifact owned by his fellow warlocks.",
+    "translated": "Aby Drak’thul przeszedł na twoją stronę i pomógł odnaleźć Gul’dana, musisz zniszczyć obóz czarnoksiężników Rady Cieni. Drak’thul boi się zemsty za zdradę i chce zabezpieczyć się artefaktem, który posiadają jego dawni towarzysze.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_010": {
+    "original": "|cffffcc00OPTIONAL QUEST|r \nShadow Council\n - Destroy Shadow Council camp\n - Bring the artifact dead to Drak'thul",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nNiedobitki Rady Cieni\n - Zniszcz obóz Rady Cieni\n - Zanieś artefakt Drak’thulowi",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_011": {
+    "original": "|cffffcc00OPTIONAL QUEST UPDATED|r \nShadow Council\n|cffc0c0c0 - Destroy Shadow Council camp (completed)|r\n - Bring the artifact to Drak'thul",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r\nNiedobitki Rady Cieni\n|cffc0c0c0 - Zniszcz obóz Rady Cieni (wykonano)|r\n - Zanieś artefakt Drak’thulowi",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_013": {
+    "original": "Twilight orcs",
+    "translated": "Orki Młota Zmierzchu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_014": {
+    "original": "Destroy Twilight Hammer base.",
+    "translated": "Zniszcz bazę Młota Zmierzchu.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_016": {
+    "original": "|cffffcc00MAIN QUEST|r\nTwilight orcs\n - Destroy Twilight Hammer base",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nOrki Młota Zmierzchu\n - Zniszcz bazę Młota Zmierzchu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_018": {
+    "original": "The Tomb of Sargeras",
+    "translated": "Grobowiec Sargerasa",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_020": {
+    "original": "Defeat Cho'gall near the tomb entrance.",
+    "translated": "Pokonaj Cho’galla przy wejściu do grobowca.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_021": {
+    "original": "|cffffcc00MAIN QUEST|r\nThe Tomb of Sargeras\n - Defeat Cho'gall near the tomb entrance\n - Maim must survive\n - Rend must survive",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nGrobowiec Sargerasa\n - Pokonaj Cho’galla przy wejściu do grobowca\n - Szarp musi przeżyć\n - Rwij musi przeżyć",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_022": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nThe Tomb of Sargeras",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nGrobowiec Sargerasa",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_023": {
+    "original": "Rend must survive.",
+    "translated": "Rwij musi przeżyć.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_024": {
+    "original": "Maim must survive.",
+    "translated": "Szarp musi przeżyć.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_025": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nYour hero has fallen",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nTwój bohater poległ.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_026": {
+    "original": "|cffffcc00SECRET AREA DISCOVERED|r\nYou have found an ancient library.",
+    "translated": "|cffffcc00ODKRYTO TAJEMNY OBSZAR|r\nPradawna biblioteka została odnaleziona.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_027": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nYour base is destroyed",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nTwoja baza została zniszczona.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_028": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nUnholy Centry. This research can make your Towers detect hidden enemy units, such as War Turtles. Available in the Temple of the Damned.",
+    "translated": "|cffffcc00NOWE ULEPSZENIE|r\nNieświęty Wartownik. Pozwala wieżom wykrywać ukryte jednostki wroga, takie jak żółwie wojenne. Ulepszenie jest dostępne w Świątyni Potępionych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_029": {
+    "original": "|cffffcc00Haul more Oil.|r",
+    "translated": "|cffffcc00Dostarcz więcej ropy.|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_030": {
+    "original": "|cffffcc00MISSION FAILED|r",
+    "translated": "|cffffcc00MISJA NIEUDANA|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_031": {
+    "original": "Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.",
+    "translated": "Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_032": {
+    "original": "Barrel with Oil",
+    "translated": "Beczka Ropy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_033": {
+    "original": "Blackrock Traitor",
+    "translated": "Zdrajca Czarnej Skały",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_034": {
+    "original": "Bonecrusher",
+    "translated": "Miażdżyciel kości",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_035": {
+    "original": "Cage",
+    "translated": "Klatka",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_036": {
+    "original": "Chest",
+    "translated": "Skrzynia",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_037": {
+    "original": "Cho'gall",
+    "translated": "Cho'gall",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_038": {
+    "original": "Drak'thul",
+    "translated": "Drak'thul",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_039": {
+    "original": "Drak'thul's hut",
+    "translated": "Chata Drak’thula",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_040": {
+    "original": "Egg",
+    "translated": "Jajo",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_041": {
+    "original": "Ghost",
+    "translated": "Duch",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_042": {
+    "original": "Highborne Ghost",
+    "translated": "Duch wysokourodzonego",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_043": {
+    "original": "Ogre Cultist",
+    "translated": "Ogr kultysta",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_044": {
+    "original": "Ogre Magi",
+    "translated": "Ogrzy mag",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_045": {
+    "original": "Old God Tentacle",
+    "translated": "Macka Starego Boga",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_046": {
+    "original": "Orb of Fire",
+    "translated": "Kula ognia",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_048": {
+    "original": "Shark",
+    "translated": "Rekin",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_049": {
+    "original": "Spike Wall",
+    "translated": "Palisada z kolców",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_050": {
+    "original": "Suspicious Dirt Pile",
+    "translated": "Podejrzana sterta ziemi",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_052": {
+    "original": "Twilight Cultist",
+    "translated": "Kultysta Zmierzchu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_053": {
+    "original": "Unholy",
+    "translated": "Nieświęty",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_054": {
+    "original": "Blacktoothgrin Clan",
+    "translated": "Klan Uśmiechu Czarnego Zęba",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_055": {
+    "original": "Shadow Council Remnants",
+    "translated": "Niedobitki Rady Cieni",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_056": {
+    "original": "Stormreaver clan",
+    "translated": "Klan Łupieżców Burzy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_057": {
+    "original": "Twilight's Hammer clan",
+    "translated": "Klan Młota Zmierzchu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_293": {
+    "original": "Gul'dan and his traitorous clans have landed and made camp somewhere within these island chains. Find him and exact the Warchief’s revenge!",
+    "translated": "Gul’dan i jego zdradzieckie klany wylądowali na jednej z tych wysp i założyli obóz. Znajdź go i dokonaj zemsty w imieniu wodza!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_305": {
+    "original": "Gul'dan has delved into the Ancient Temple and ordered his dog, Cho'gall, to bar your way from following him. It is time to put that treasonous Ogre to the ground, kill him and all who aid him in blocking your pursuit.",
+    "translated": "Gul’dan wszedł do pradawnej świątyni i kazał swojemu sługusowi, Cho’gallowi, zatrzymać pościg. Czas położyć kres temu zdradzieckiemu ogrowi. Zabij go i wszystkich, którzy pomagają mu zagrodzić ci drogę.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_3242": {
+    "original": "Gul'dan is using the Twilight's Hammer Clan as his frontline fortification, foolishly thinking this will stop the Horde’s revenge for his betrayal. Eradicate the Twilight’s Hammer and find Gul’dan!",
+    "translated": "Gul’dan wystawił klan Młota Zmierzchu na pierwszą linię obrony. Łudzi się, że powstrzyma w ten sposób zemstę Hordy za swoją zdradę. Zniszcz Młot Zmierzchu i odnajdź Gul’dana!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_EXTRA_001": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nSearch for Gul'dan",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nPościg za Gul’danem",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_EXTRA_002": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r \nShadow Council",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nNiedobitki Rady Cieni",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_TXT_EXTRA_003": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nTwilight orcs",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nOrki Młota Zmierzchu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M12_VO_001": {
+    "original": "These islands don't appear on any of our maps... but the course matches our spy’s report.",
+    "translated": "Tych wysp nie ma na żadnej z naszych map… Ale kurs zgadza się z raportem szpiega.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M12_VO_002": {
+    "original": "Something is wrong about this place... it feels... unnatural.",
+    "translated": "Coś jest nie tak z tym miejscem… Jest jakieś… nienaturalne.",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M12_VO_003": {
+    "original": "Yes... I feel it too... And these ruins, they look elven, but different from what Utok has described. Zuluhed, what do you think?",
+    "translated": "Tak… Też to czuję… A te ruiny wyglądają na elfie, ale są inne niż te, które opisywał Utok. Co o tym sądzisz, Zuluhedzie?",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_004": {
+    "original": "They are very old no doubt, and seem to be marked by very powerful magic… Perhaps this was once the beating heart of elven civilization on this world, much like Goria was to the ogres back on Draenor. As for the foul taint in the air I sense... something ancient... a power... a Dark presence.",
+    "translated": "Z pewnością są bardzo stare i naznaczone potężną magią… Może niegdyś biło tu serce elfiej cywilizacji, tak jak w Gorii serce cywilizacji ogrów na Draenorze. A co do tej plugawej skazy w powietrzu… Wyczuwam coś pradawnego… Moc… Mroczną obecność.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_005": {
+    "original": "Is it Gul’dan? Do you see him?",
+    "translated": "To Gul’dan? Widzisz go?",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_006": {
+    "original": "My vision is clouded, just as these islands are shrouded in fog. But the stench of fel is unmistakable.",
+    "translated": "Moje widzenie jest niejasne, jak te wyspy spowite mgłą. Ale nie sposób pomylić odoru spaczenia.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_007": {
+    "original": "Then Gul'dan must be close, we must make haste!",
+    "translated": "Gul’dan musi więc być blisko. Trzeba się pospieszyć!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_008": {
+    "original": "The traitors have more than just a strong fleet on their side. We can expect to face Ogre-Magi, Warlocks, and those new 'Death Knights' as well...",
+    "translated": "Zdrajcy mają po swojej stronie nie tylko potężną flotę. Przyjdzie nam też walczyć z ogrzymi magami, czarnoksiężnikami i tymi nowymi „rycerzami śmierci”…",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M12_VO_009": {
+    "original": "We can count on such forces as well, Utok. Gul'dan has made many enemies, and he can't outrun them any longer.",
+    "translated": "My też mamy takie siły, Utoku. Gul’dan narobił sobie wielu wrogów. Nie zdoła już przed nimi uciec.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_010": {
+    "original": "Warriors, we will set up a camp here and then continue the hunt. Come what may, Gul’dan will die today!",
+    "translated": "Wojownicy, założymy tu obóz, a potem ruszymy dalej w pościg. Cokolwiek nas tu czeka, Gul’dan dziś zginie!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_011": {
+    "original": "Drak'thul...",
+    "translated": "Drak’thulu…",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_012": {
+    "original": "Zuluhed! Hah! So we’ve ended up on opposite sides... What will you do? Cut my throat and leave me to die?",
+    "translated": "Zuluhedzie! Ha! A więc stanęliśmy po przeciwnych stronach… Co zrobisz? Poderżniesz mi gardło i zostawisz na śmierć?",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_013": {
+    "original": "Great idea. Kill him.",
+    "translated": "Świetny pomysł. Zabij go.",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M12_VO_014": {
+    "original": "Wait brother! He may know where Gul'dan is.",
+    "translated": "Czekaj, bracie! Może wiedzieć, gdzie jest Gul’dan.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_015": {
+    "original": "You used to be a shaman, Drak'thul. Is this dark path worth dying for?",
+    "translated": "Byłeś kiedyś szamanem, Drak’thulu. Czy ta mroczna ścieżka warta jest twojego życia?",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_016": {
+    "original": "I don’t wish to die Zuluhed, but I obeyed Gul'dan because... because the weak must follow the strong.",
+    "translated": "Nie chcę umierać, Zuluhedzie. Słuchałem Gul’dana, bo… Bo słabi muszą podążać za silnymi.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_017": {
+    "original": "But now you are weak, and we are the strong. Tell us where Gul'dan is hiding and we will spare your life.",
+    "translated": "Ale teraz to ty jesteś słaby, a my silni. Powiedz, gdzie ukrywa się Gul’dan, a darujemy ci życie.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_018": {
+    "original": "I fear the Shadow Council's wrath, Zuluhed. But if you destroy them, then I will tell you everything! They are channeling a terrible ritual on the nearby island... kill them, and bring me the artifact that they are using.",
+    "translated": "Boję się gniewu Rady Cieni, Zuluhedzie. Ale jeśli ich zniszczysz, powiem ci wszystko! Na pobliskiej wyspie odprawiają straszliwy rytuał… Zabij ich i przynieś mi artefakt, którego używają.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_019": {
+    "original": "Go away.",
+    "translated": "Odejdź.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_020": {
+    "original": "Heh. You think me a foolish orc, frail and ready to be put to the wolves? I was communicating with demons when you were in swaddling blankets.",
+    "translated": "Heh. Uważasz mnie za głupiego, słabego orka, którego można rzucić wilkom na pożarcie? Rozmawiałem z demonami, gdy ty leżałeś jeszcze w powijakach.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_021": {
+    "original": "I wish to be alone, until darkness overtakes me at last.",
+    "translated": "Chcę być sam, aż wreszcie pochłonie mnie ciemność.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_022": {
+    "original": "Me not that kind of orc!",
+    "translated": "Ja nie być taki ork!",
+    "unit_name": "Peon",
+    "unit_name_translated": "Peon"
+  },
+  "ToD_A04_M12_VO_023": {
+    "original": "There’s the demon ridden dogs! Slaughter them in the name of the Horde!",
+    "translated": "Tam są te opętane przez demony psy! Wybić ich w imieniu Hordy!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_024": {
+    "original": "No more will I submit to Orgrim’s Hammer only rule! I’ll cleave your heart with my axe!",
+    "translated": "Nie będę już ulegał Orgrimowi i jego młotowi! Rozrąbię ci serce toporem!",
+    "unit_name": "Blackrock Traitor",
+    "unit_name_translated": "Zdrajca Czarnej Skały"
+  },
+  "ToD_A04_M12_VO_025": {
+    "original": "The traitors are dead... and here is the artifact, as promised.",
+    "translated": "Zdrajcy nie żyją… Oto artefakt, tak jak obiecałem.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_026": {
+    "original": "Thank you... Gul'dan's power is vast, these very islands were raised by him to find an ancient tomb...  the final resting place of a monstrous Dark Titan. It is this Titan’s terrible power that Gul’dan now seeks...",
+    "translated": "Dziękuję… Gul’dan ma ogromną moc. Sam wydźwignął te wyspy, by odnaleźć pradawny grobowiec… Miejsce spoczynku potwornego Mrocznego Tytana. To jego straszliwej potęgi szuka teraz Gul’dan…",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_027": {
+    "original": "A Dark Titan?",
+    "translated": "Mroczny Tytan?",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_028": {
+    "original": "He was called... Sargeras, the Lord of an endless legion of demons. It is told that Sargeras was defeated and his tomb sunk beneath the ocean waves, many centuries ago. It was Sargeras’ demons that enabled Gul’dan to become what he is. It was Sargeras’ demons who helped empower our chieftains all those years ago. All that we are, everything that we have done, can be traced to him.",
+    "translated": "Sargeras… Władca legionów demonów. Podobno pokonano go przed wiekami.\nZatopiono jego grobowiec. Jego demony dały moc Gul’danowi i naszym wodzom.\nWszystko, czym jesteśmy i czego dokonaliśmy, ma swój początek w nim.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_029": {
+    "original": "North of here is a great tower... that is the tomb I spoke of. It is there that you will find Gul'dan. It is there that you will most likely meet your end. You’ve got what you wanted, now leave me in peace... I would like to live what I have left of my life in solitude.",
+    "translated": "Na północ stąd stoi wielka wieża… To grobowiec, o którym mówiłem. Tam znajdziesz Gul’dana. Tam najpewniej czeka cię zguba. Dostałeś, czego chciałeś. Zostaw mnie teraz w spokoju… Chcę dożyć reszty swoich dni w samotności.",
+    "unit_name": "Drak'thul",
+    "unit_name_translated": "Drak'thul"
+  },
+  "ToD_A04_M12_VO_030": {
+    "original": "Gul'dan is insane! His obsession with power will destroy this world as it did Draenor! Onwards warriors! We end this now!",
+    "translated": "Gul’dan oszalał! Jego żądza potęgi zniszczy ten świat, tak jak zniszczyła Draenor! Naprzód, wojownicy! Czas z tym skończyć!",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_031": {
+    "original": "Hmm... these ruins might hold some secret treasure.",
+    "translated": "Hmm… Te ruiny mogą skrywać jakiś skarb.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_032": {
+    "original": "The Door is open! At last!",
+    "translated": "Drzwi otwarte! Nareszcie!",
+    "unit_name": "Gul'dan",
+    "unit_name_translated": "Gul'dan"
+  },
+  "ToD_A04_M12_VO_033": {
+    "original": "Cho'gall, stay and guard the entrance. Kill anyone who tries to come after us. The rest of you, come with me!",
+    "translated": "Cho’gallu, zostań i pilnuj wejścia. Zabij każdego, kto spróbuje pójść za nami. Reszta ze mną!",
+    "unit_name": "Gul'dan",
+    "unit_name_translated": "Gul'dan"
+  },
+  "ToD_A04_M12_VO_034": {
+    "original": "|cffffcc00Cho:|r As you say, master.",
+    "translated": "|cffffcc00Cho:|r Jak rozkażesz, mistrzu.",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_035": {
+    "original": "Gul'dan! I knew that we would find him! Lok'tar, warriors!",
+    "translated": "Gul’dan! Wiedziałem, że go znajdziemy! Lok’tar, wojownicy!",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_036": {
+    "original": "Take his head in the name of the Warchief!",
+    "translated": "Odetnij mu głowę w imieniu wodza!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M12_VO_037": {
+    "original": "|cffffcc00Cho:|r Not so fast, little Shamans... |n|cffffcc00Gall:|r You have to go through us first!",
+    "translated": "|cffffcc00Cho:|r Nie tak szybko, mali szamani…|n|cffffcc00Gall:|r Najpierw musicie przejść przez nas!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_038": {
+    "original": "Rend! Maim!\n",
+    "translated": "Rwiju! Szarpie!\n",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M12_VO_039": {
+    "original": "These shamans have far more strength in them than someone so plump and lazy as you, ogre filth!",
+    "translated": "Ci szamani mają w sobie o wiele więcej siły niż ty, gruby i leniwy ogrze!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_040": {
+    "original": "|cffffcc00Cho:|r Aah, the Blackhand brats... |n|cffffcc00Gall:|r The two impotent sons of Blackhand. Aah, Maim, if only your wits could match that forehead of yours... maybe then you might have offered some challenge.",
+    "translated": "|cffffcc00Cho:|r Aaa… Szczeniaki Czarnorękiego…|n|cffffcc00Gall:|r Dwaj nieudolni synowie Czarnorękiego. Ach, Szarpie… Gdybyś miał rozum równie wielki jak czoło… może stanowiłbyś jakieś wyzwanie.",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_041": {
+    "original": "|cffffcc00Gall:|r And Rend... you may have some of your father's cunning, but what use is that when even your sister could break you like a twig? No wonder the Horde believes that you two were naught but dirty toddlers when Blackhand ordered his warlocks to age you.",
+    "translated": "|cffffcc00Gall:|r A Rwij… Może odziedziczyłeś trochę sprytu po ojcu, ale co z tego, skoro nawet siostra złamałaby cię jak patyk? Nic dziwnego, że Horda uważa, iż byliście jeszcze brudnymi maluchami, gdy Czarnoręki kazał czarnoksiężnikom was postarzyć.",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_042": {
+    "original": "I’ll cut you into pieces, you two-headed pile of fat!!!",
+    "translated": "Porąbię cię na kawałki, dwugłowa góro sadła!",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M12_VO_043": {
+    "original": "Sons of Blackhand, I will aid you!",
+    "translated": "Synowie Czarnorękiego! Pomogę wam!",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_044": {
+    "original": "|cffffcc00Gall:|r The jaws of death close in upon you.",
+    "translated": "|cffffcc00Gall:|r Szczęki śmierci zaciskają się wokół was.",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_045": {
+    "original": "|cffffcc00Gall:|r Flames and Fury.",
+    "translated": "|cffffcc00Gall:|r Płomienie i furia!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_046": {
+    "original": "None impede the wrath of Cho'gall!",
+    "translated": "Nikt nie powstrzyma gniewu Cho’galla!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_047": {
+    "original": "|cffffcc00Cho:|r Your bones will snap!",
+    "translated": "|cffffcc00Cho:|r Wasze kości pękną!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_048": {
+    "original": "|cffffcc00Gall:|r Ahahaha!",
+    "translated": "|cffffcc00Gall:|r A-ha-ha-ha!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_049": {
+    "original": "|cffffcc00Gall:|r Burn them all!",
+    "translated": "|cffffcc00Gall:|r Spalić ich wszystkich!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_050": {
+    "original": "What in the...",
+    "translated": "Co do…",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_051": {
+    "original": "Rend, Maim! The powers that Cho'gall controlls is beyond any of us, kill him fast before he unleashed unspeakable horrors upon us!",
+    "translated": "Rwiju! Szarpie! Moc Cho’galla przerasta każdego z nas! Zabijcie go szybko, zanim sprowadzi na nas niewysłowioną grozę!",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_052": {
+    "original": "Steel yourself brother! We end this heretical filth now!",
+    "translated": "Gotuj się, bracie! Skończymy teraz z tym plugawym heretykiem!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_053": {
+    "original": "Die in the Masters name!",
+    "translated": "Giń w imieniu mistrza!",
+    "unit_name": "Ogre Cultist",
+    "unit_name_translated": "Ogr kultysta"
+  },
+  "ToD_A04_M12_VO_054": {
+    "original": "Succumb to Fear!",
+    "translated": "Poddaj się strachowi!",
+    "unit_name": "Ogre Cultist",
+    "unit_name_translated": "Ogr kultysta"
+  },
+  "ToD_A04_M12_VO_055": {
+    "original": "Your dreams will be shattered",
+    "translated": "Wasze marzenia legną w gruzach!",
+    "unit_name": "Ogre Cultist",
+    "unit_name_translated": "Ogr kultysta"
+  },
+  "ToD_A04_M12_VO_056": {
+    "original": "|cffffcc00Cho:|r Enough! The maddening shrieks of the dark gods shall tear your souls apart!. |cffffcc00Gall:|r Behold the might of our true masters!",
+    "translated": "|cffffcc00Cho:|r Dość! Obłędne wrzaski mrocznych bogów rozerwą wasze dusze! |cffffcc00Gall:|r Ujrzyjcie potęgę naszych prawdziwych panów!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_057": {
+    "original": "|cffffcc00Cho:|r All shall serve!. |cffffcc00Gall:|r All shall feed the insatiable hunger of the gods!",
+    "translated": "|cffffcc00Cho:|r Wszyscy będą służyć! |cffffcc00Gall:|r Wszyscy nasycą nieposkromiony głód bogów!",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_058": {
+    "original": "Is he dead? We need to be sure!",
+    "translated": "Nie żyje? Musimy mieć pewność!",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M12_VO_059": {
+    "original": "Agreed brother... I take one head and you take the other!",
+    "translated": "Zgoda, bracie… Jedna głowa dla mnie, druga dla ciebie!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_060": {
+    "original": "We have no time for this! Utok, return to the base and heal your wounds... keep the ships in check until we return.",
+    "translated": "Nie mamy na to czasu! Utoku, wróć do bazy i opatrz rany… Pilnuj okrętów do naszego powrotu.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_061": {
+    "original": "Arghhh! Damn it! I wanted that head!",
+    "translated": "Aargh! Niech to szlag! Chciałem jego głowę!",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M12_VO_062": {
+    "original": "We will get them later, now go!",
+    "translated": "Dopadniemy ich później. Teraz ruszaj!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M12_VO_EXTRA_001": {
+    "original": "Revive Ogre Magi (|cffffcc00O|r)",
+    "translated": "Ożywienie ogra maga (|cffffcc00O|r)",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_EXTRA_002": {
+    "original": "Shaman",
+    "translated": "Szaman",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_EXTRA_003": {
+    "original": "Revive Shaman (|cffffcc00S|r)",
+    "translated": "Ożywienie szamana (|cffffcc00S|r)",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_EXTRA_004": {
+    "original": "Shaman (|cffffcc00S|r)",
+    "translated": "Szaman (|cffffcc00S|r)",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M12_VO_EXTRA_005": {
+    "original": "Ogre Magi (|cffffcc00O|r)",
+    "translated": "Ogrzy mag (|cffffcc00O|r)",
+    "unit_name": "Cho'gall",
+    "unit_name_translated": "Cho'gall"
+  },
+  "ToD_A04_M12_VO_EXTRA_006": {
+    "original": "Rend! Maim!",
+    "translated": "Rwiju! Szarpie!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M12_VO_EXTRA_007": {
+    "original": "|cffffcc00Cheat Disabled|r",
+    "translated": "|cffffcc00Kod wyłączony|r",
+    "unit_name": "Blackrock Traitor",
+    "unit_name_translated": "Zdrajca Czarnej Skały"
+  }
+}

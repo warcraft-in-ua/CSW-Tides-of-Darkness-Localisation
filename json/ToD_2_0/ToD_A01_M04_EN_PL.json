@@ -1,0 +1,630 @@
+{
+  "ToD_A01_M04_FRCS_001": {
+    "original": "Blackrock clan",
+    "translated": "Klan Czarnej Skały",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_FRCS_002": {
+    "original": "Nation of Gilneas",
+    "translated": "Królestwo Gilneas",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_FRCS_003": {
+    "original": "Nation of Lordaeron",
+    "translated": "Królestwo Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_FRCS_004": {
+    "original": "Stormwind Refugees",
+    "translated": "Uchodźcy z Wichrogrodu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_MAP_001": {
+    "original": "Captain",
+    "translated": "Kapitan",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_MAP_003": {
+    "original": "Lady",
+    "translated": "Dama",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_MAP_005": {
+    "original": "Tent",
+    "translated": "Namiot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_MAP_006": {
+    "original": "Tent",
+    "translated": "Namiot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_001": {
+    "original": "The Fall of Hillsbrad",
+    "translated": "Upadek Hillsbradu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_002": {
+    "original": "Destroy Hillsbrad",
+    "translated": "Zniszcz Hillsbrad",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_003": {
+    "original": "The time we have been waiting for has finally come! All who oppose the Horde must be taught a harsh lesson. Burn Hillsbrad to the ground - leave no one alive!",
+    "translated": "Nadeszła chwila, na którą czekaliśmy! Każdy, kto sprzeciwia się Hordzie, musi dostać surową nauczkę. Spal Hillsbrad do szczętu — nie pozostaw nikogo przy życiu!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_004": {
+    "original": "|cffffcc00MAIN QUEST|r\nThe Fall of Hillsbrad\n  - Destroy Hillsbrad",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nUpadek Hillsbradu\n  - Zniszcz Hillsbrad",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_005": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nThe Fall of Hillsbrad",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nUpadek Hillsbradu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_006": {
+    "original": "Lambs to the Slaugther",
+    "translated": "Jak owce na rzeź",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_007": {
+    "original": "Sink the retreating Gilnean warships",
+    "translated": "Zatop uciekające okręty Gilneas",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_008": {
+    "original": "The Gilneans were foolish enough to test our Armada on the open waters, now they flee like the cowards they are. Show them the true price of their arrogance, and send them all to the bottom of the sea!",
+    "translated": "Gilneanie byli dość głupi, by stawić czoła naszej armadzie na otwartym morzu. Teraz uciekają jak przystało na tchórzy. Niech słono zapłacą za swoją arogancję — poślij ich wszystkich na dno!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_009": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nLambs to the Slaugther\n  - Sink the retreating Gilnean warships",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nJak owce na rzeź\n  - Zatop uciekające okręty Gilneas",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_010": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nLambs to the Slaugther",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nJak owce na rzeź",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_011": {
+    "original": "Remnants of Stormwind",
+    "translated": "Niedobitki Wichrogrodu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_012": {
+    "original": "Destroy the forces of Stormwind",
+    "translated": "Zniszcz wojska Wichrogrodu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_013": {
+    "original": "Veterans from the fall of Stormwind have entrenched themselves on a nearby island, pestering you with their constant attacks. Their knowledge of our ways of war makes them dangerous, kill them all!",
+    "translated": "Weterani, którzy przeżyli upadek Wichrogrodu, okopali się na pobliskiej wyspie i nękają cię nieustannymi atakami. Znają nasze sposoby walki, co czyni ich groźnymi przeciwnikami. Wybij ich wszystkich!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_014": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nRemnants of Stormwind\n  - Destroy the forces of Stormwind",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nNiedobitki Wichrogrodu\n  - Zniszcz wojska Wichrogrodu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OBJE_015": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nRemnants of Stormwind",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nNiedobitki Wichrogrodu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_ALREADY_USED": {
+    "original": "That Oil Patch has already being used.",
+    "translated": "To złoże ropy jest już eksploatowane.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_BUILD_FIRST": {
+    "original": "Must build Oil Rig first.",
+    "translated": "Najpierw trzeba zbudować platformę wiertniczą.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_COLLECTOR_ABIL_DESCRIPTION_EMPTY": {
+    "original": "Collect Oil from Oil Rigs.",
+    "translated": "Odbieraj ropę z platform wiertniczych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_COLLECTOR_ABIL_DESCRIPTION_FULL": {
+    "original": "Return the Oil to the nearest Shipyard.",
+    "translated": "Dostarcz ropę do najbliższej stoczni.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_COLLECTOR_ABIL_NAME_EMPTY": {
+    "original": "Gather Oil",
+    "translated": "Wydobywaj ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_COLLECTOR_ABIL_NAME_FULL": {
+    "original": "Deliver Oil",
+    "translated": "Dostarcz ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_DEPLETED_WARNING": {
+    "original": "|c00640000Oil patch is depleted|r",
+    "translated": "|c00640000Złoże ropy zostało wyczerpane|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_LOCALISATION_NAME": {
+    "original": "Oil: ",
+    "translated": "Ropa: ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_LOW_WARNING": {
+    "original": "The oil patch is running low",
+    "translated": "Złoże ropy jest na wyczerpaniu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_MUST_BUILD_UPON": {
+    "original": "Must build upon Oil Patch.",
+    "translated": "Ten budynek można wznieść tylko na złożu ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_UNABLE": {
+    "original": "Unable to use Oil Rig.",
+    "translated": "Nie można użyć platformy wiertniczej.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_WHERE_GET_OIL": {
+    "original": "Oil is gathered from Oil Patches.",
+    "translated": "Ropę pozyskuje się ze złóż ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_OIL_ZERO": {
+    "original": "Oil: 0",
+    "translated": "Ropa: 0",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_001": {
+    "original": "Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.",
+    "translated": "Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_002": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nWatch tower. Your peons can now build watch towers that increase visibility of the area and can be upgraded to a guard tower.",
+    "translated": "|cffffcc00NOWY BUDYNEK|r\nStrażnica. Peoni mogą już budować strażnice, które zwiększają widoczność terenu i można je przekształcać w wieże strażnicze.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_003": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nBlacksmith. Build a blacksmith to improve the weapons and armor of your warriors.",
+    "translated": "|cffffcc00NOWY BUDYNEK|r\nKuźnia. Zbuduj ją, aby ulepszać broń i pancerz swoich wojowników.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_004": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nGrunts can learn new skills at the Barracks with the upgrade \"Horde Melee Training\".",
+    "translated": "|cffffcc00NOWE ULEPSZENIE|r\nW koszarach możesz opracować Szkolenie piechoty Hordy, które zapewni siepaczom nowe umiejętności.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_005": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nFoundry. By building the Foundry you will get the opportunity to build transport ships and improve the armor and weapons of your warships.",
+    "translated": "|cffffcc00NOWY BUDYNEK|r\nOdlewnia. Jej budowa pozwala wytwarzać transportowce oraz ulepszać pancerz i uzbrojenie okrętów wojennych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_006": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nRefineries.\nOil refining is an important part of naval expansion. Building refineries enables you to extract even more oil. It is recommended that you build refineries in close proximity to oil rigs, as this enables your tankers to deliver the resource as a faster rate.",
+    "translated": "|cffffcc00NOWY BUDYNEK|r\nRafineria.\nRafinacja ropy jest niezbędna do rozbudowy floty. Rafinerie zwiększają ilość pozyskiwanej ropy. Warto budować je w pobliżu platform wiertniczych, aby tankowce szybciej dostarczały surowiec.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_007": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nYou can now build transport ships. This will help you transfer troops to the other side of the channel.",
+    "translated": "|cffffcc00NOWA JEDNOSTKA|r\nMożesz już budować transportowce i przewozić wojska na drugi brzeg kanału.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_008": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nYou can improve the armor and weaponry of ships at the Foundry.",
+    "translated": "|cffffcc00NOWE ULEPSZENIA|r\nW odlewni możesz ulepszać pancerz i uzbrojenie okrętów.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_009": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nAll structures and units were destroyed.",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWszystkie jednostki i budowle zostały zniszczone.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_010": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nGuard tower. By building a watch tower, you can upgrade it to a guard tower, thereby increasing the effectiveness of the defense of the camp.",
+    "translated": "|cffffcc00NOWY BUDYNEK|r\nWieża strażnicza. Możesz przekształcić strażnicę w wieżę strażniczą, aby wzmocnić obronę obozu.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_SCRN_011": {
+    "original": "|cffffcc00Haul more Oil.|r",
+    "translated": "|cffffcc00Dostarcz więcej ropy.|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M04_VO_EXTRA_001": {
+    "original": "Revive Captain",
+    "translated": "Ożywienie kapitana",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A01_M04_VO_EXTRA_002": {
+    "original": "Food Supply Stock for Large Army",
+    "translated": "Zapasy żywności dla wielkiej armii",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A01_M04_VO_S001_001": {
+    "original": "Good day Magistrate! May the Light bless you and your people.",
+    "translated": "Witaj, zarządco! Niech Światłość błogosławi tobie i twoim ludziom.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_002": {
+    "original": "Thank you, Captain. What brings you and your men to Hillsbrad?",
+    "translated": "Dziękuję, kapitanie. Co sprowadza ciebie i twoich ludzi do Hillsbradu?",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_003": {
+    "original": "I would like an update on the evacuation of the civilian population, Magistrate, as the Horde could make its move at any moment.",
+    "translated": "Chciałbym wiedzieć, jak przebiega ewakuacja ludności cywilnej, zarządco. Horda może uderzyć w każdej chwili.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_004": {
+    "original": "Ah yes, about that… I’m afraid the evacuation you requested is not going to happen.",
+    "translated": "Ach tak, w tej sprawie… Obawiam się, że żądana przez ciebie ewakuacja nie dojdzie do skutku.",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_005": {
+    "original": "What? We warned you about the Horde’s intentions months ago! Who is responsible for this outrage?",
+    "translated": "Co?! Ostrzegaliśmy was o zamiarach Hordy już kilka miesięcy temu! Kto odpowiada za ten skandal?",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_006": {
+    "original": "I am, captain. Suffice to say I remain unconvinced that a Horde offensive is as imminent as you and your kinsmen seem to think.",
+    "translated": "Mówię poważnie, kapitanie. Wystarczy powiedzieć, że wciąż nie wierzę, by ofensywa Hordy była tak bliska, jak utrzymujesz ty i twoi rodacy.",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_007": {
+    "original": "I have ordered our people to remain here, and tasked my officials with matters of much greater importance… such as trade.",
+    "translated": "Nakazałem mieszkańcom pozostać na miejscu, a urzędnikom zająć się znacznie ważniejszymi sprawami… takimi jak handel.",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_008": {
+    "original": "Are you serious? What about the recent attacks near Southshore? What about the assaults on the Durnholde prison camps?",
+    "translated": "Mówisz poważnie? A ostatnie ataki w pobliżu Południowego Brzegu? A szturmy na obozy jenieckie Durnholde?",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_009": {
+    "original": "The Orcs have been testing us for months, Captain, and none of what you describe indicate a change in behavior to me.",
+    "translated": "Orkowie nękają nas od miesięcy, kapitanie. Nic z tego, co opisujesz, nie świadczy moim zdaniem o zmianie ich postępowania.",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_010": {
+    "original": "This fearmongering is but the latest incarnation of a very old pattern. Kings and high lords will go to any length to justify their tax hikes, just so they can feed their armies and play their political games.",
+    "translated": "To sianie paniki jest tylko kolejną odsłoną starej gry. Królowie i wielmoże zrobią wszystko, by uzasadnić podwyżki podatków, wykarmić swoje armie i prowadzić polityczne rozgrywki.",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_011": {
+    "original": "Feeding their armies you say? Why then can I only see three dozen soldiers here?",
+    "translated": "Wykarmić swoje armie, powiadasz? Dlaczego więc widzę tu zaledwie trzy tuziny żołnierzy?",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_012": {
+    "original": "I sent parts of our garrison to Tarren Mill. A recent increase in bandit activity demanded a response…",
+    "translated": "Wysłałem część garnizonu do Młyna Tarren. Ostatnio coraz częściej grasują tam bandyci. Musieliśmy zareagować…",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_013": {
+    "original": "My country was ruled by naive and shortsighted aristocrats. When the Horde came to my homeland, these people failed to realize the magnitude of the threat.",
+    "translated": "Moim krajem rządzili naiwni, krótkowzroczni arystokraci. Gdy Horda najechała moją ojczyznę, nie potrafili pojąć skali zagrożenia.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_014": {
+    "original": "They were too slow to act, too proud to ask for help and they led our nation to ruin. Now you are repeating that same mistake.",
+    "translated": "Zwlekali z działaniem, byli zbyt dumni, by prosić o pomoc, i doprowadzili nasz kraj do ruiny. Teraz popełniasz ten sam błąd.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_015": {
+    "original": "I will take this matter to Lord Lothar, you will be held accountable for your negligence, Magistrate.",
+    "translated": "Przedstawię tę sprawę lordowi Lotharowi. Odpowiesz za swoje zaniedbania, zarządco.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_016": {
+    "original": "Now now, Captain Meryn. There is really no reason to go that far! If the Horde really is about to attack Lordaeron, then what are you proposing that I do about it?",
+    "translated": "Spokojnie, kapitanie Merynie. Naprawdę nie ma powodu, by posuwać się tak daleko! Jeśli Horda rzeczywiście zamierza zaatakować Lordaeron, co proponujesz?",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_017": {
+    "original": "Recall your troops from Tarren Mill, and reinforce your bulwarks. Send your civilians into Lordaeron’s interior, and prepare for the fight of your life… the Horde takes no prisoners, the Horde shows no mercy.",
+    "translated": "Odwołaj żołnierzy z Młyna Tarren i rozbuduj obronę. Wyślij cywilów w głąb Lordaeronu i przygotuj się na walkę o życie… Horda nie bierze jeńców. Horda nie zna litości.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S001_018": {
+    "original": "I will… and Meryn, you can take some packhorses with food and supplies for your men.",
+    "translated": "Tak zrobię… A ty, Merynie, możesz zabrać kilka koni jucznych z żywnością i zaopatrzeniem dla swoich ludzi.",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S001_019": {
+    "original": "Thank you, Magistrate. My men and I are done retreating. We will buy your people whatever time we can.",
+    "translated": "Dziękuję, zarządco. Ja i moi ludzie nie zamierzamy już się wycofywać. Kupimy wam tyle czasu, ile zdołamy.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S002_001": {
+    "original": "Patrick! Samwell!",
+    "translated": "Patricku! Samwellu!",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S002_002": {
+    "original": "The magistrate of Hillsbrad has neglected his duty, and left his Township and this region in mortal danger.",
+    "translated": "Zarządca Hillsbradu zaniedbał swoje obowiązki, narażając miasto i cały region na śmiertelne niebezpieczeństwo.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S002_003": {
+    "original": "The Horde is coming, we know it is, and it falls to us to distract them long enough for Hillsbrad to rally its defenses and send its people to safety.",
+    "translated": "Horda nadchodzi. Wiemy to. Musimy odwrócić jej uwagę na tyle długo, by Hillsbrad zdążył przygotować obronę i ewakuować mieszkańców.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S002_004": {
+    "original": "This is it men, this is our final stand. This is our chance to avenge the ghosts of Stormwind!",
+    "translated": "To koniec odwrotu, żołnierze. Tutaj stawimy ostatni opór. Oto nasza szansa, by pomścić poległych z Wichrogrodu!",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S002_005": {
+    "original": "The lion will roar, commander! I will hand out weapons and prepare our men for the battle ahead!",
+    "translated": "Lew zaryczy, dowódco! Rozdam broń i przygotuję naszych ludzi do nadchodzącej bitwy!",
+    "unit_name": "Patrick",
+    "unit_name_translated": "Patrick"
+  },
+  "ToD_A01_M04_VO_S002_006": {
+    "original": "Samwell. We will need to scout the nearby islands for any sign of Horde activity. If our fears are correct, then we must know when and where to strike – the fate of Hillsbrad depends on it.",
+    "translated": "Samwellu, zwiad musi sprawdzić pobliskie wyspy i wypatrzyć wszelkie ślady Hordy. Jeśli nasze obawy się potwierdzą, musimy wiedzieć, kiedy i gdzie uderzyć. Od tego zależy los Hillsbradu.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S002_007": {
+    "original": "Yes, Captain!",
+    "translated": "Tak jest, kapitanie!",
+    "unit_name": "Samwell",
+    "unit_name_translated": "Samwell"
+  },
+  "ToD_A01_M04_VO_S003_001": {
+    "original": "I don’t understand this. The armada was supposed to have been here hours ago! If Doomhammer has lost his nerve, then I will carry out this invasion myself!",
+    "translated": "Nie rozumiem. Armada miała przybyć kilka godzin temu! Jeśli Zgładziciel stracił odwagę, sam przeprowadzę tę inwazję!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S003_002": {
+    "original": "My scouts be reporting dat the Armada be under attack by the Gilnean navy! Dey say dat the clash be very brutal, and very bloody!",
+    "translated": "Moi zwiadowcy donoszą, że flota Gilneas zaatakowała armadę! Mówią, że to strasznie zażarta i krwawa bitwa!",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M04_VO_S003_003": {
+    "original": "Chieftain, in light of this development, should we not withdraw our forces to a more defensible position? Without the Armada we…",
+    "translated": "Wodzu, czy wobec takiego obrotu spraw nie powinniśmy wycofać wojsk na pozycje dogodniejsze do obrony? Bez armady…",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M04_VO_S003_004": {
+    "original": "No, Utok. The Armada will get here once it has crushed those Gilnean dogs, until then we will make do with what we have. What is our situation in terms of ship construction?",
+    "translated": "Nie, Utoku. Armada dotrze tu, gdy zmiażdży te gilneańskie psy. Do tego czasu wystarczy nam to, co mamy. Jak idzie budowa okrętów?",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S003_005": {
+    "original": "Hmm… with the aid of new foundry sites we should be able to construct more advanced ships, including transports.",
+    "translated": "Hmm… Dzięki nowym odlewniom powinniśmy móc budować bardziej zaawansowane okręty, w tym transportowce.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M04_VO_S003_006": {
+    "original": "That will enable us to deliver our forces across the channel to the cowering human settlements, and lay waste to Hillsbrad as the Warchief commands.",
+    "translated": "Przewieziemy nimi wojska przez kanał, do osad tchórzliwych ludzi, i obrócimy Hillsbrad w ruinę, tak jak rozkazał wódz Hordy.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M04_VO_S003_007": {
+    "original": "Excellent Utok! All who oppose the Horde must be taught a harsh lesson this day… burn Hillsbrad to the ground! Leave no one alive!",
+    "translated": "Znakomicie, Utoku! Dziś każdy, kto sprzeciwia się Hordzie, dostanie surową nauczkę… Spalić Hillsbrad do szczętu! Nie zostawiać nikogo przy życiu!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S004_001": {
+    "original": "Chieftain! Ships flying Gilnean colors are heading this way, they seem to be badly damaged!",
+    "translated": "Wodzu! Zbliżają się okręty pod banderą Gilneas. Wyglądają na poważnie uszkodzone!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M04_VO_S004_002": {
+    "original": "Now be ya chance to show me how da Orcs be handeling fleeing prey, Rend Blackhand!",
+    "translated": "Pokaż mi teraz, jak orki polują na uciekającą zwierzynę, Rwiju Czarnoręki!",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M04_VO_S004_003": {
+    "original": "Hahaha! I knew those weaklings would stand little chance against our glorious Armada! Make their defeat absolute… sink every last one of them!",
+    "translated": "Hahaha! Wiedziałem, że ci słabeusze nie mają szans z naszą wspaniałą armadą! Niech poniosą całkowitą klęskę… zatopcie ich co do jednego!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S005_001": {
+    "original": "Wait… are those Stormwind remnants? Kill them all!",
+    "translated": "Zaraz… Czy to niedobitki Wichrogrodu? Wybić wszystkich!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S005_002": {
+    "original": "Vile beasts! You will pay for every innocent blood you spilled in Stormwind and all of Azeroth’s folk!",
+    "translated": "Podłe bestie! Zapłacicie za niewinną krew przelaną w Wichrogrodzie i całym Azeroth!",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S006_001": {
+    "original": "Wreched orcs! How dare you follow us to this land?!",
+    "translated": "Przeklęci orkowie! Jak śmieliście podążyć za nami do tej krainy?!",
+    "unit_name": "Archer",
+    "unit_name_translated": "Łucznik"
+  },
+  "ToD_A01_M04_VO_S007_001": {
+    "original": "Time and time again, ya be showing me dat I made da right choice, Rend Blackhand!",
+    "translated": "Raz za razem udowadniasz mi, że dobrze wybrałem, Rwiju Czarnoręki!",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M04_VO_S007_002": {
+    "original": "This is only the beginning, my friend, together we shall make this world tremble beneath the might of the Horde!",
+    "translated": "To dopiero początek, przyjacielu. Razem sprawimy, że świat zadrży przed potęgą Hordy!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S008_001": {
+    "original": "Despite your frailty, you fight well, for a human.",
+    "translated": "Mimo swojej słabości walczysz dobrze. Jak na człowieka.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S008_002": {
+    "original": "Foolish creatures… by attacking us… you have given Hillsbrad time to prepare… Light willing… they will be ready… for you.",
+    "translated": "Głupie stworzenia… Atakując nas… daliście Hillsbradowi czas na przygotowania… Światłość sprawi… że będą na was… gotowi.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S008_003": {
+    "original": "Now… get it… over with… you mindless savage.",
+    "translated": "Teraz… skończ z tym… bezmyślny dzikusie.",
+    "unit_name": "Meryn",
+    "unit_name_translated": "Meryn"
+  },
+  "ToD_A01_M04_VO_S008_004": {
+    "original": "Hah, gladly.",
+    "translated": "Ha! Z przyjemnością.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S009_001": {
+    "original": "No! Meryn was right... what have I done? Light's mercy what have I done? Fortify the entrance! Fight men! defend the town!",
+    "translated": "Nie! Meryn miał rację… Co ja zrobiłem? Na miłosierdzie Światłości, co ja zrobiłem?! Umocnić wejście! Do walki, żołnierze! Bronić miasta!",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S009_002": {
+    "original": "Orcs! Arm yourselves!",
+    "translated": "Orkowie! Do broni!",
+    "unit_name": "Footman",
+    "unit_name_translated": "Piechur"
+  },
+  "ToD_A01_M04_VO_S009_003": {
+    "original": "Foul beast!",
+    "translated": "Giń, potworze!",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A01_M04_VO_S010_001": {
+    "original": "Please... spare my life... I'm very rich, I can give you all my gold....",
+    "translated": "Błagam… darujcie mi życie… Jestem bardzo bogaty, oddam wam całe moje złoto…",
+    "unit_name": "Magistrate",
+    "unit_name_translated": "Zarządca"
+  },
+  "ToD_A01_M04_VO_S010_002": {
+    "original": "Haha!",
+    "translated": "Haha!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S010_003": {
+    "original": "What a miserable coward...",
+    "translated": "Cóż za żałosny tchórz…",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S010_004": {
+    "original": "Lived without honor, and died without it.",
+    "translated": "Żył bez honoru i bez honoru zginął.",
+    "unit_name": "Zul'jin",
+    "unit_name_translated": "Zul’jin"
+  },
+  "ToD_A01_M04_VO_S010_005": {
+    "original": "We all did a great job here. I will personally report to Doomhammer about your tactical talents, Utok. You will be promoted.",
+    "translated": "Wszyscy spisaliśmy się znakomicie. Osobiście opowiem Zgładzicielowi o twoim talencie taktycznym, Utoku. Czeka cię awans.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M04_VO_S010_006": {
+    "original": "Thank you, Chieftain. Serving the Horde is a great honor for me.",
+    "translated": "Dziękuję, wodzu. Służba Hordzie to dla mnie wielki zaszczyt.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "_UNMATCHED_NO_WTS_STRING": {
+    "ToD_A01_M04_MAP_002": {
+      "original": "Destroyer",
+      "unit_name": ""
+    },
+    "ToD_A01_M04_MAP_004": {
+      "original": "Stormwind Veteran",
+      "unit_name": ""
+    }
+  }
+}

@@ -1,0 +1,1172 @@
+{
+  "ToD_A04_M14_OIL_ALREADY_USED": {
+    "original": "That Oil Patch has already being used.",
+    "translated": "To złoże ropy jest już eksploatowane.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_BUILD_FIRST": {
+    "original": "Must build Oil Rig first.",
+    "translated": "Najpierw trzeba zbudować platformę wiertniczą.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_COLLECTOR_ABIL_DESCRIPTION_EMPTY": {
+    "original": "Collect Oil from Oil Rigs.",
+    "translated": "Odbieraj ropę z platform wiertniczych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_COLLECTOR_ABIL_DESCRIPTION_FULL": {
+    "original": "Return the Oil to the nearest Shipyard.",
+    "translated": "Dostarcz ropę do najbliższej stoczni.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_COLLECTOR_ABIL_NAME_EMPTY": {
+    "original": "Gather Oil",
+    "translated": "Wydobywaj ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_COLLECTOR_ABIL_NAME_FULL": {
+    "original": "Deliver Oil",
+    "translated": "Dostarcz ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_DEPLETED_WARNING": {
+    "original": "|c00640000Oil patch is depleted|r",
+    "translated": "|c00640000Złoże ropy zostało wyczerpane|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_LOCALISATION_NAME": {
+    "original": "Oil: ",
+    "translated": "Ropa: ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_LOW_WARNING": {
+    "original": "The oil patch is running low",
+    "translated": "Złoże ropy jest na wyczerpaniu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_MUST_BUILD_UPON": {
+    "original": "Must build upon Oil Patch.",
+    "translated": "Ten budynek można wznieść tylko na złożu ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_UNABLE": {
+    "original": "Unable to use Oil Rig.",
+    "translated": "Nie można użyć platformy wiertniczej.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_WHERE_GET_OIL": {
+    "original": "Oil is gathered from Oil Patches.",
+    "translated": "Ropę pozyskuje się ze złóż ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_OIL_ZERO": {
+    "original": "Oil: 0",
+    "translated": "Ropa: 0",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_001": {
+    "original": "Fenris Isle",
+    "translated": "Wyspa Fenris",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_002": {
+    "original": "Capture Fenris Island.",
+    "translated": "Zdobądź wyspę Fenris.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_003": {
+    "original": "Fenris Isle stands between you and our ultimate price. Eliminate our enemies, seize the island and establish a strong foothold. Only then can we lay siege to the capital city itself. ",
+    "translated": "Wyspa Fenris dzieli nas od ostatecznego celu. Pokonaj wrogów, zajmij wyspę i załóż na niej mocny przyczółek. Dopiero wtedy będziemy mogli oblegać samą stolicę.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_004": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nFenris Island\n - Capture Fenris Island\n|cffff0000 - Orgrim must survive (Failed)|r\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWyspa Fenris\n - Zdobądź wyspę Fenris\n|cffff0000 - Orgrim musi przeżyć (nie wykonano)|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_005": {
+    "original": "|cffffcc00MAIN QUEST|r\nFenris Isle\n - Capture Fenris Island.\n - Orgrim must survive.\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nWyspa Fenris\n - Zdobądź wyspę Fenris.\n - Orgrim musi przeżyć.\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_006": {
+    "original": "Orgrim must survive.",
+    "translated": "Orgrim musi przeżyć.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_007": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nFenris Island\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nWyspa Fenris\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_008": {
+    "original": "Lordaeron Harbour",
+    "translated": "Port Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_009": {
+    "original": "Destroy Shipyards.",
+    "translated": "Zniszcz stocznie.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_010": {
+    "original": "The remnants of Lordaeron’s naval forces threaten our invasion of the capital. This cannot be allowed - eliminate them!",
+    "translated": "Niedobitki floty Lordaeronu zagrażają naszemu natarciu na stolicę. Nie możemy na to pozwolić. Zniszcz je!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_011": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nLordaeron Harbour\n|cffc0c0c0 - Destroy Shipyards (completed)|r\n",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nPort Lordaeronu\n|cffc0c0c0 - Zniszcz stocznie (wykonano)|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_012": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nLordaeron Harbour\n|cffc0c0c0 - Destroy Refinery (completed)|r\n",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nPort Lordaeronu\n|cffc0c0c0 - Zniszcz rafinerię (wykonano)|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_013": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nLordaeron Harbour\n|cffc0c0c0 - Destroy Foundry (completed)|r\n",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nPort Lordaeronu\n|cffc0c0c0 - Zniszcz odlewnię (wykonano)|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_014": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nLordaeron Harbour\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nPort Lordaeronu\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_015": {
+    "original": "|cffffcc00MAIN QUEST|r\nLordaeron Harbour\n - Destroy Shipyards\n - Destroy Refinery\n - Destroy Foundry\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nPort Lordaeronu\n - Zniszcz stocznie\n - Zniszcz rafinerię\n - Zniszcz odlewnię\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_016": {
+    "original": "Sack the Capital",
+    "translated": "Splądrowanie stolicy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_017": {
+    "original": "The Capital of Lordaeron stands before you. All that you have done has led you to this moment. Seize your destiny and earn your place in the chronicles of the Horde. Burn everything to the ground! Slaughter everyone who stands in your way!",
+    "translated": "Stolica Lordaeronu stoi przed tobą. Wszystko, czego dokonałeś, prowadziło do tej chwili. Wypełnij swe przeznaczenie i zapisz się w kronikach Hordy. Spal wszystko do gołej ziemi! Zabij każdego, kto stanie ci na drodze!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_018": {
+    "original": "Destroy Barracks",
+    "translated": "Zniszcz koszary",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_019": {
+    "original": "Destroy Mage Tower",
+    "translated": "Zniszcz wieżę magów",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_020": {
+    "original": "Destroy Gryphon Aviary",
+    "translated": "Zniszcz gryfią wolierę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_021": {
+    "original": "Destroy Stables",
+    "translated": "Zniszcz stajnie",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_022": {
+    "original": "Destroy Town Hall",
+    "translated": "Zniszcz ratusz",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_023": {
+    "original": "Destroy Keep",
+    "translated": "Zniszcz twierdzę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_024": {
+    "original": "Destroy Castle",
+    "translated": "Zniszcz zamek",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_025": {
+    "original": "Destroy Refinery.",
+    "translated": "Zniszcz rafinerię.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_026": {
+    "original": "Destroy Foundry.",
+    "translated": "Zniszcz odlewnię.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_027": {
+    "original": "Destroy Church",
+    "translated": "Zniszcz kościół",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_028": {
+    "original": "|cffffcc00MAIN QUEST|r\nSack the Capital\n- Destroy Barracks\n- Destroy Mage Towers\n- Destroy Gryphon Aviary\n- Destroy Stables\n- Destroy Town Hall\n- Destroy Keep\n- Destroy Castle\n- Destroy Church",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nSplądrowanie stolicy\n- Zniszcz koszary\n- Zniszcz wieże magów\n- Zniszcz gryfią wolierę\n- Zniszcz stajnie\n- Zniszcz ratusz\n- Zniszcz twierdzę\n- Zniszcz zamek\n- Zniszcz kościół",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_029": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Barracks (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz koszary (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_030": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Mage Tower (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz wieżę magów (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_031": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Stables (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz stajnie (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_032": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Gryphon Aviary (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz gryfią wolierę (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_033": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Town Hall (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz ratusz (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_034": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Keep (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz twierdzę (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_035": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Castle (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz zamek (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_036": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nSack the Capital\n|cffc0c0c0- Destroy Church (completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nSplądrowanie stolicy\n|cffc0c0c0- Zniszcz kościół (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_037": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nSack the Capital",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nSplądrowanie stolicy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_038": {
+    "original": "Tons of Gold",
+    "translated": "Góry złota",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_039": {
+    "original": "Plunder tresuries.",
+    "translated": "Splądruj skarbce.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_041": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nTons of Gold\n - Plunder Treasuries\n",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nGóry złota\n - Splądruj skarbce\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_042": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nTons of Gold\n",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nGóry złota\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_043": {
+    "original": "The Cross Island",
+    "translated": "Wyspa Krzyżowa",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_045": {
+    "original": "Kill the Archmage",
+    "translated": "Zabij arcymaga",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_046": {
+    "original": "Destroy the Violet CItadel",
+    "translated": "Zniszcz Fioletową Cytadelę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_047": {
+    "original": "Rend must survive",
+    "translated": "Rwij musi przeżyć",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_048": {
+    "original": "Maim must survive",
+    "translated": "Szarp musi przeżyć",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_049": {
+    "original": "Zuluhed must survive",
+    "translated": "Zuluhed musi przeżyć",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_050": {
+    "original": "|cffffcc00MAIN QUEST|r\nThe Cross Island\n- Destroy Arcane Observatories\n- Kill the Archmage\n- Destroy the Violet Citadel\n- Rend must survive\n- Maim must survive\n- Zuluhed must survive\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nWyspa Krzyżowa\n- Zniszcz tajemne obserwatoria\n- Zabij arcymaga\n- Zniszcz Fioletową Cytadelę\n- Rwij musi przeżyć\n- Szarp musi przeżyć\n- Zuluhed musi przeżyć\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_051": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nThe Cross Island\n|cffc0c0c0- Destroy Arcane Observatories (completed)|r\n- Kill the Archmage\n- Destroy the Violet Citadel\n- Rend must survive\n- Maim must survive\n- Zuluhed must survive\n",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nWyspa Krzyżowa\n|cffc0c0c0- Zniszcz tajemne obserwatoria (wykonano)|r\n- Zabij arcymaga\n- Zniszcz Fioletową Cytadelę\n- Rwij musi przeżyć\n- Szarp musi przeżyć\n- Zuluhed musi przeżyć\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_052": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nThe Cross Island\n|cffc0c0c0- Destroy Arcane Observatories (completed)|r\n|cffc0c0c0- Kill the Archmage (completed)|r\n- Destroy the Violet Citadel\n- Rend must survive\n- Maim must survive\n- Zuluhed must survive\n",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nWyspa Krzyżowa\n|cffc0c0c0- Zniszcz tajemne obserwatoria (wykonano)|r\n|cffc0c0c0- Zabij arcymaga (wykonano)|r\n- Zniszcz Fioletową Cytadelę\n- Rwij musi przeżyć\n- Szarp musi przeżyć\n- Zuluhed musi przeżyć\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_053": {
+    "original": "Destroy Arcane Observatories (0/3)",
+    "translated": "Zniszcz tajemne obserwatoria (0/3)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_054": {
+    "original": "Destroy Arcane Observatories (1/3)",
+    "translated": "Zniszcz tajemne obserwatoria (1/3)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_055": {
+    "original": "Destroy Arcane Observatories (2/3)",
+    "translated": "Zniszcz tajemne obserwatoria (2/3)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_056": {
+    "original": "Destroy Arcane Observatories (3/3)",
+    "translated": "Zniszcz tajemne obserwatoria (3/3)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_057": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nCross Island",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nWyspa Krzyżowa",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_058": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nThe Cross Island\n|cffff0000- Rend must survive (failed)|r\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWyspa Krzyżowa\n|cffff0000- Rwij musi przeżyć (nie wykonano)|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_059": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nThe Cross Island\n|cffff0000- Maim must survive (failed)|r",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWyspa Krzyżowa\n|cffff0000- Szarp musi przeżyć (nie wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_060": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nThe Cross Island\n|cffff0000- Zuluhed must survive (failed)|r\n",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWyspa Krzyżowa\n|cffff0000- Zuluhed musi przeżyć (nie wykonano)|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_061": {
+    "original": "Arcane Observatories",
+    "translated": "Tajemne obserwatoria",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_062": {
+    "original": "Destroyed",
+    "translated": "Zniszczone",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_063": {
+    "original": "Observatories Destroyed",
+    "translated": "Zniszczone obserwatoria",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_064": {
+    "original": "Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.",
+    "translated": "Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_065": {
+    "original": "|cffffcc00Haul more Oil.|r",
+    "translated": "|cffffcc00Dostarcz więcej ropy.|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_066": {
+    "original": "|cffffcc00MISSION FAILED|r",
+    "translated": "|cffffcc00MISJA NIEUDANA|r\n",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_067": {
+    "original": "|cffffcc00TECHTREE UNLOCKED|r\nDragons - are the Ultimate Weapon provided by Dragonmaw clan. In Dragon Roost you can train Red Dragons and research upgrades for them.",
+    "translated": "|cffffcc00NOWA JEDNOSTKA|r\nSmoki to najpotężniejsza broń klanu Smoczej Paszczy. W smoczym gnieździe możesz szkolić czerwone smoki i opracowywać ich ulepszenia.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_068": {
+    "original": "|cff00ff00HINT|r\nZuluhed cannot use his \"Feral Leap\" ability on the cross island.",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nZuluhed nie może używać Dzikiego Skoku na Wyspie Krzyżowej.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_069": {
+    "original": "|c003366FFREINFORCEMENT|r\n- Grunts and battleships that returned from the lost islands are now under your command.",
+    "translated": "|c003366FFPOSIŁKI|r\n- Siepacze i pancerniki, które powróciły z Zaginionych Wysp, są teraz pod twoją komendą.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_070": {
+    "original": "Altar With the Book",
+    "translated": "Ołtarz z księgą",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_073": {
+    "original": "Barn",
+    "translated": "Stodoła",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_074": {
+    "original": "Barrel with Oil",
+    "translated": "Beczka Ropy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_075": {
+    "original": "Bonecrusher",
+    "translated": "Miażdżyciel kości",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_076": {
+    "original": "Brute",
+    "translated": "Brutal",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_077": {
+    "original": "Cage",
+    "translated": "Klatka",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_078": {
+    "original": "Chest",
+    "translated": "Skrzynia",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_080": {
+    "original": "Citizen",
+    "translated": "Mieszkaniec",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_081": {
+    "original": "City clock tower",
+    "translated": "Miejska wieża zegarowa",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_082": {
+    "original": "Dalaran Building",
+    "translated": "Budynek Dalaranu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_083": {
+    "original": "Dalaran City Building",
+    "translated": "Budynek miasta Dalaran",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_085": {
+    "original": "Dalaran Wizard",
+    "translated": "Czarodziej Dalaranu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_086": {
+    "original": "Dolly",
+    "translated": "Dolly",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_087": {
+    "original": "Doomhammer",
+    "translated": "Zgładziciel",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_088": {
+    "original": "Duck",
+    "translated": "Kaczka",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_089": {
+    "original": "Eagle",
+    "translated": "Orzeł",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_090": {
+    "original": "Fence",
+    "translated": "Płot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_091": {
+    "original": "Fence short",
+    "translated": "Krótki płot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_092": {
+    "original": "Food Supplies",
+    "translated": "Zapasy żywności",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_094": {
+    "original": "Granary",
+    "translated": "Spichlerz",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_098": {
+    "original": "Inn",
+    "translated": "Gospoda",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_100": {
+    "original": "Lordaeron Citizens",
+    "translated": "Mieszkańcy Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_101": {
+    "original": "Lordaeron City Building",
+    "translated": "Budynek miasta Lordaeron",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_102": {
+    "original": "Lordaeron Guard Tower",
+    "translated": "Wieża strażnicza Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_103": {
+    "original": "Lordaeron Woman",
+    "translated": "Kobieta z Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_105": {
+    "original": "Maim",
+    "translated": "Szarp",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_106": {
+    "original": "Mana Stone",
+    "translated": "Kamień many",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_108": {
+    "original": "Norlan",
+    "translated": "Norlan",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_109": {
+    "original": "Old Citizen",
+    "translated": "Starszy mieszkaniec",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_110": {
+    "original": "Old Tomb",
+    "translated": "Stary grobowiec",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_112": {
+    "original": "Senior Wizard",
+    "translated": "Starszy czarodziej",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_114": {
+    "original": "Shorka",
+    "translated": "Shorka",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_116": {
+    "original": "Suspicious Crow",
+    "translated": "Podejrzana wrona",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_117": {
+    "original": "Tent",
+    "translated": "Namiot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_118": {
+    "original": "The Wholoomancer",
+    "translated": "Wololomanta",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_119": {
+    "original": "Thoradin Statue",
+    "translated": "Posąg Thoradina",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_120": {
+    "original": "Unholy",
+    "translated": "Nieświęty",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_121": {
+    "original": "Utok",
+    "translated": "Utok",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_122": {
+    "original": "Violet Citadel",
+    "translated": "Fioletowa Cytadela",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_123": {
+    "original": "Windmill",
+    "translated": "Wiatrak",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_124": {
+    "original": "Wizard",
+    "translated": "Czarodziej",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_125": {
+    "original": "Blackrock clan",
+    "translated": "Klan Czarnej Skały",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_126": {
+    "original": "Blacktoothgrin clan",
+    "translated": "Klan Uśmiechu Czarnego Zęba",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_127": {
+    "original": "Dragonmaw clan",
+    "translated": "Klan Smoczej Paszczy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_128": {
+    "original": "Ironforge Envoy",
+    "translated": "Wysłannik Żelaznej Kuźni",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_129": {
+    "original": "Kirin Tor",
+    "translated": "Kirin Tor",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_130": {
+    "original": "Nation of Azeroth",
+    "translated": "Królestwo Azeroth",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_131": {
+    "original": "Nation of Dalaran",
+    "translated": "Państwo Dalaran",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_132": {
+    "original": "Nation of Lordaeron",
+    "translated": "Królestwo Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_133": {
+    "original": "Order of Death Knights",
+    "translated": "Zakon rycerzy śmierci",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_134": {
+    "original": "The Horde",
+    "translated": "Horda",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_TXT_3996": {
+    "original": "The Violet Citadel on Cross Island serves as the gatekeeper to the nation of Dalaran itself. Sack the citadel, kill its archmage, and destroy its defenses. Only then will the way to Dalaran be cleared.",
+    "translated": "Fioletowa Cytadela na Wyspie Krzyżowej strzeże dostępu do Dalaranu. Złup cytadelę, zabij jej arcymaga i zniszcz umocnienia. Dopiero wtedy droga do Dalaranu stanie otworem.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A04_M14_VO_001": {
+    "original": "I don't wanna go to the catacombs, it’s scary…",
+    "translated": "Nie chcę iść do katakumb. Tam jest strasznie…",
+    "unit_name": "Timmy",
+    "unit_name_translated": "Timmy"
+  },
+  "ToD_A04_M14_VO_002": {
+    "original": "You will be safe there child, don't be afraid, the light will protect you, and  your mother and siblings will have need of you in the halls below. Your duty is to them. Now go.",
+    "translated": "Tam będziesz bezpieczny, dziecko. Nie lękaj się. Światłość cię ochroni, a twoja matka i rodzeństwo będą cię potrzebować w podziemiach. Twoim obowiązkiem jest im pomóc. Idź już.",
+    "unit_name": "Uther",
+    "unit_name_translated": "Uther Światłodzierżca"
+  },
+  "ToD_A04_M14_VO_003": {
+    "original": "Sir Uther, we have locked the gates and prepared the ballistas.",
+    "translated": "Panie Utherze, bramy zamknięte, balisty gotowe.",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A04_M14_VO_004": {
+    "original": "Good, order archers to mount the defense on the parapets, Lordaeron will not fall today!",
+    "translated": "Dobrze. Każ łucznikom zająć pozycje na blankach. Dziś Lordaeron nie upadnie!",
+    "unit_name": "Uther",
+    "unit_name_translated": "Uther Światłodzierżca"
+  },
+  "ToD_A04_M14_VO_005": {
+    "original": "Warchief, the strike force awaits your command.",
+    "translated": "Wodzu, oddział szturmowy czeka na rozkazy.",
+    "unit_name": "Tharbek",
+    "unit_name_translated": "Tharbek"
+  },
+  "ToD_A04_M14_VO_006": {
+    "original": "Good. We need to capture Fenris island and build a base near the goldmine. After we accomplish that, our assault on the capital can finally begin.",
+    "translated": "Dobrze. Musimy zdobyć wyspę Fenris i założyć bazę przy kopalni złota. Wtedy wreszcie rozpoczniemy szturm na stolicę.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_007": {
+    "original": "Faster you lazy maggot! The siege of the capital begins at dawn… if you are not ready by then, the Warchief will have your hides!",
+    "translated": "Szybciej, leniwe robactwo! O świcie zaczyna się oblężenie stolicy… Jeśli nie będziecie gotowi, wódz obedrze was ze skóry!",
+    "unit_name": "Tharbek",
+    "unit_name_translated": "Tharbek"
+  },
+  "ToD_A04_M14_VO_008": {
+    "original": "Dragonmaw and Blacktooth grin sails… the carriers of my vengeance return at last.",
+    "translated": "Żagle Smoczej Paszczy i Uśmiechu Czarnego Zęba… Wykonawcy mej zemsty wreszcie powrócili.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_009": {
+    "original": "Give report, now.. ",
+    "translated": "Raport. Natychmiast.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_010": {
+    "original": "Greetings Warchief. We lost many good warriors, but your will is fulfilled.",
+    "translated": "Witaj, wodzu. Straciliśmy wielu dobrych wojowników, lecz twoja wola została wypełniona.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_011": {
+    "original": "Good… my misguided mercy has now been rectified. This will be a reminder to anyone who would dare oppose my rule.",
+    "translated": "Dobrze… Naprawiliście błąd, który popełniłem, okazując litość. Niech to będzie przestroga dla każdego, kto ośmieli się sprzeciwić mojej władzy.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_012": {
+    "original": "Warchief, we have captured some survivors from the Twilight’s hammer and the Stormreaver clans. They’re begging for your forgiveness.",
+    "translated": "Wodzu, pojmaliśmy ocalałych z klanów Młota Zmierzchu i Łupieżców Burzy. Błagają o przebaczenie.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M14_VO_013": {
+    "original": "Yes, Warchief. They surrendered after we destroyed their fleet and slaughtered their leaders.",
+    "translated": "Tak, wodzu. Poddali się, gdy zniszczyliśmy ich flotę i wybiliśmy przywódców.",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M14_VO_014": {
+    "original": "Gul’dan’s betrayal has cost so much… In light of this fact we thought it's wisest to deliver them to your court, instead of slaughtering them outright.",
+    "translated": "Zdrada Gul’dana tak wiele nas kosztowała… Uznaliśmy, że roztropniej będzie oddać ich pod twój osąd, niż od razu wybić.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M14_VO_015": {
+    "original": "They are all untrustworthy traitors… but you are right, Rend. The strength of our armies have decreased dramatically, though it pains me greatly to admit it. One way or the other, the future of the Horde will be decided today. Put those ogres in the vanguard… their debt to us will be repaid in blood. As for the rest of them - the Death Knights will watch over them until I decide their fate.",
+    "translated": "Nie ufam tym zdrajcom. Masz rację, Rwiju — boleśnie odczuliśmy straty.\nDziś waży się los Hordy. Ogry na pierwszą linię! Spłacą swój dług krwią.\nReszty dopilnują rycerze śmierci, dopóki nie zdecyduję o ich losie.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_016": {
+    "original": "What is our next objective, Warchief?",
+    "translated": "Jaki jest nasz następny cel, wodzu?",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_017": {
+    "original": "Teron Gorefiend struggles with the siege of Dalaran to the south.  I want you to throw all the forces that you have against that city. Rend and Maim will go with you.",
+    "translated": "Teron Krwawy Bies ma trudności z oblężeniem Dalaranu na południu. Rzuć na to miasto wszystkie swoje siły. Rwij i Szarp pójdą z tobą.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_018": {
+    "original": "Wouldn't we be more useful against the capital city?",
+    "translated": "Czy nie przydalibyśmy się bardziej pod stolicą?",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M14_VO_019": {
+    "original": "No, Rend. The Violet Citadel of Dalaran serves as sanctum and heaven to the mages of the Kirin Tor. Once Lordaeron has fallen, Dalaran will be the last and the most dangerous barrier between the Horde and the subjugation of humanity.",
+    "translated": "Nie, Rwiju. Fioletowa Cytadela Dalaranu jest sanktuarium i schronieniem magów Kirin Tor. Gdy Lordaeron upadnie, Dalaran będzie ostatnią i najgroźniejszą przeszkodą na drodze Hordy do podporządkowania sobie ludzi.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_020": {
+    "original": "It is good that we have saved our greatest weapon for just this moment - Dragons! A flock of them just joined in from the hatcheries of the Dragonmaw!",
+    "translated": "Dobrze, że zachowaliśmy naszą najpotężniejszą broń właśnie na tę chwilę — smoki! Dołączyło do nas stado z hodowli Smoczej Paszczy!",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_021": {
+    "original": "Yes! Today the last bastions of humanity will burn in dragon fire. Go now!",
+    "translated": "Tak! Dziś ostatnie bastiony ludzi spłoną w smoczym ogniu. Ruszajcie!",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_022": {
+    "original": "You shall not pass, twisted undead creature!",
+    "translated": "Nie przejdziesz, wynaturzony nieumarły!",
+    "unit_name": "Archmage",
+    "unit_name_translated": "Arcymag"
+  },
+  "ToD_A04_M14_VO_023": {
+    "original": "Your petty magick can’t stop us, mage.",
+    "translated": "Twoje marne sztuczki nas nie powstrzymają, magu.",
+    "unit_name": "Teron Gorefiend",
+    "unit_name_translated": "Teron Krwawy Bies"
+  },
+  "ToD_A04_M14_VO_024": {
+    "original": "I can see the Cross island - the key point of the Dalarans' defense. Teron Gorefiend has started the attack, but his forces are progressing slowly.",
+    "translated": "Widzę Wyspę Krzyżową — kluczowy punkt obrony Dalaranu. Teron Krwawy Bies rozpoczął szturm, ale jego wojska posuwają się powoli.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_025": {
+    "original": "What is the best tactic we can use to aid him?",
+    "translated": "Jak najlepiej możemy go wesprzeć?",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_026": {
+    "original": "There are three arcane observatories that are shielding the hearth of the island - Violet citadel. If we destroy them, the kirin tor defenders will lose their magical shielding.",
+    "translated": "Trzy tajemne obserwatoria osłaniają serce wyspy — Fioletową Cytadelę. Gdy je zniszczymy, obrońcy Kirin Tor stracą swoje magiczne osłony.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_027": {
+    "original": "And after that we can sack the citadel itself!",
+    "translated": "A potem złupimy samą cytadelę!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M14_VO_028": {
+    "original": "The citadel is protected by the spell conjured by the archmage. First, we need to kill him.",
+    "translated": "Cytadelę chroni zaklęcie arcymaga. Najpierw musimy go zabić.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_029": {
+    "original": "I will have great pleasure to slice him into pieces!",
+    "translated": "Z rozkoszą posiekam go na kawałki!",
+    "unit_name": "Maim Blackhand",
+    "unit_name_translated": "Szarp Czarnoręki"
+  },
+  "ToD_A04_M14_VO_030": {
+    "original": "We need to use our forces wisely. Ships and Towers are protecting the island.",
+    "translated": "Musimy rozważnie użyć naszych sił. Wyspy strzegą okręty i wieże.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_031": {
+    "original": "Dragons will burn the defenses and prepare the site for our ground troops' arrival.",
+    "translated": "Smoki spalą umocnienia i przygotują teren do lądowania naszych wojsk.",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_032": {
+    "original": "Thank you for freeing me from this prison, strangers, the Kirin Tor doesn't respect ambitious wizards like me.",
+    "translated": "Dziękuję, nieznajomi, że uwolniliście mnie z tego więzienia. Kirin Tor nie szanuje ambitnych czarodziejów takich jak ja.",
+    "unit_name": "Retera the Whoolomancer",
+    "unit_name_translated": "Retera Wololomanta"
+  },
+  "ToD_A04_M14_VO_033": {
+    "original": "They thought my experiments were too bold, I was punished for it, regardless, I'm done with this place, to hell with all of you!",
+    "translated": "Uznali moje eksperymenty za zbyt śmiałe i ukarali mnie za nie. Mniejsza o to… Mam dość tego miejsca. A was wszystkich niech diabli wezmą!",
+    "unit_name": "Retera the Whoolomancer",
+    "unit_name_translated": "Retera Wololomanta"
+  },
+  "ToD_A04_M14_VO_034": {
+    "original": "What was that?",
+    "translated": "Co to było?",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A04_M14_VO_035": {
+    "original": "Humans...",
+    "translated": "Ludzie…",
+    "unit_name": "Zuluhed the Whacked",
+    "unit_name_translated": "Zuluhed Szalony"
+  },
+  "ToD_A04_M14_VO_036": {
+    "original": "I will report to the warchief about our success here.",
+    "translated": "Zamelduję wodzowi o naszym zwycięstwie.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_037": {
+    "original": "Good. The Dragonmaw and Blacktooth grin forces arrived at perfect timing. We will go south and prepare for the siege of the city.",
+    "translated": "Dobrze. Wojska Smoczej Paszczy i Uśmiechu Czarnego Zęba przybyły w samą porę. Ruszymy na południe i przygotujemy się do oblężenia miasta.",
+    "unit_name": "Teron Gorefiend",
+    "unit_name_translated": "Teron Krwawy Bies"
+  },
+  "ToD_A04_M14_VO_038": {
+    "original": "Warchief, The camp and supplies are ready for the attack on the Capital!",
+    "translated": "Wodzu! Obóz i zapasy są gotowe. Możemy ruszać na stolicę!",
+    "unit_name": "Tharbek",
+    "unit_name_translated": "Tharbek"
+  },
+  "ToD_A04_M14_VO_039": {
+    "original": "Good, We shall start the attack now!",
+    "translated": "Dobrze. Rozpoczynamy atak!",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_040": {
+    "original": "Warchief! The cross island has fallen under the might of the Horde!",
+    "translated": "Wodzu! Wyspa Krzyżowa padła pod naporem Hordy!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_041": {
+    "original": "Just as planned!",
+    "translated": "Zgodnie z planem!",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_042": {
+    "original": "Utok! You will stay here with me. I want you to scribe the glorious moment when the walls of Lordaeron fall to our furious armies! We end this… today! Rise up Sons of the Horde! Blood and glory awaits us!",
+    "translated": "Utoku! Zostaniesz ze mną. Chcę, byś opisał tę chwalebną chwilę, gdy mury Lordaeronu runą przed naszymi rozwścieczonymi wojskami! Dziś… położymy temu kres! Powstańcie, synowie Hordy! Czeka nas krew i chwała!",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_043": {
+    "original": "We need to end the remnants of Lordaeron’s pathetic fleet.  Destroy the harbour and use it as a location for our siege weapons and ground troops to attack the city.",
+    "translated": "Musimy wykończyć niedobitki tej żałosnej floty Lordaeronu. Zniszczcie port. Rozstawimy tam machiny oblężnicze i wojska lądowe do ataku na miasto.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_044": {
+    "original": "There should be several ways to launch assaults against the city. Let’s use zeppelins to scout the shoreline.",
+    "translated": "Powinno być kilka miejsc dogodnych do szturmu na miasto. Wyślijmy sterowce na zwiad wzdłuż wybrzeża.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_045": {
+    "original": "Today, I will finally prove to the Warchief who's the better Orc…Scratcher!",
+    "translated": "Dziś wreszcie pokażę wodzowi, kto jest lepszym orkiem… Bazgraczu!",
+    "unit_name": "Tharbek",
+    "unit_name_translated": "Tharbek"
+  },
+  "ToD_A04_M14_VO_046": {
+    "original": "Don’t push it, ‘Captain Tharbek’, the Warchief does not tolerate soldiers who disobey their superiors, now fall to command!",
+    "translated": "Nie pozwalaj sobie, „kapitanie Tharbeku”. Wódz nie toleruje żołnierzy, którzy nie słuchają przełożonych. Masz wykonywać rozkazy!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_047": {
+    "original": "Soon, ‘Commander Scratcher’, soon..",
+    "translated": "Już niedługo, „dowódco Bazgraczu”… Już niedługo.",
+    "unit_name": "Tharbek",
+    "unit_name_translated": "Tharbek"
+  },
+  "ToD_A04_M14_VO_048": {
+    "original": "I'll be a blast!",
+    "translated": "Ale zaraz urwie!",
+    "unit_name": "Goblin Sappers",
+    "unit_name_translated": "Goblińscy saperzy"
+  },
+  "ToD_A04_M14_VO_049": {
+    "original": "Warchief, the walls are heavily fortified and we are losing many warriors to elven archers and ballistas.",
+    "translated": "Wodzu, mury są silnie umocnione. Elfi łucznicy i balisty zabijają wielu naszych wojowników.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A04_M14_VO_050": {
+    "original": "We have come too far to be denied by arrows and wall defenses… Rise up my mighty Horde! Glory and riches awaits you beyond these walls! Shred them to pieces my warriors, and take what is rightfully yours!",
+    "translated": "Zaszliśmy zbyt daleko, by zatrzymały nas strzały i obrońcy murów… Powstań, moja potężna Hordo! Za tymi murami czekają chwała i bogactwa! Rozszarpcie ich, moi wojownicy, i weźcie to, co wam się należy!",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_051": {
+    "original": "Take this, you bastard!",
+    "translated": "Posmakuj tego, pieronie!",
+    "unit_name": "Muradin Bronzebeard",
+    "unit_name_translated": "Muradin Miedziobrody"
+  },
+  "ToD_A04_M14_VO_052": {
+    "original": "I've met gnomes that are tougher than you!",
+    "translated": "Widywałem gnomy, co to miały większą krzepę w rękach.",
+    "unit_name": "Muradin Bronzebeard",
+    "unit_name_translated": "Muradin Miedziobrody"
+  },
+  "ToD_A04_M14_VO_053": {
+    "original": "Aw, is that the best you can do?!",
+    "translated": "Na więcej was nie stać?!",
+    "unit_name": "Muradin Bronzebeard",
+    "unit_name_translated": "Muradin Miedziobrody"
+  },
+  "ToD_A04_M14_VO_054": {
+    "original": "For Khaz Modan!",
+    "translated": "Za Khaz Modan!",
+    "unit_name": "Muradin Bronzebeard",
+    "unit_name_translated": "Muradin Miedziobrody"
+  },
+  "ToD_A04_M14_VO_055": {
+    "original": "For the Bronzebeards!",
+    "translated": "Za Miedziobrodych!",
+    "unit_name": "Muradin Bronzebeard",
+    "unit_name_translated": "Muradin Miedziobrody"
+  },
+  "ToD_A04_M14_VO_056": {
+    "original": "Beards, blood, booze and thunder!",
+    "translated": "Na brodę dziadunia!",
+    "unit_name": "Muradin Bronzebeard",
+    "unit_name_translated": "Muradin Miedziobrody"
+  },
+  "ToD_A04_M14_VO_057": {
+    "original": "We'll fight for Lordaeron! Get your swords!",
+    "translated": "Będziemy walczyć za Lordaeron! Łapcie za broń!",
+    "unit_name": "Militia",
+    "unit_name_translated": "Milicja"
+  },
+  "ToD_A04_M14_VO_058": {
+    "original": "You shall not take this city!",
+    "translated": "Nie zdobędziecie tego miasta!",
+    "unit_name": "Uther",
+    "unit_name_translated": "Uther Światłodzierżca"
+  },
+  "ToD_A04_M14_VO_059": {
+    "original": "Demon worshipping fanatics, be purged by the light!",
+    "translated": "Czciciele demonów, niech oczyści was Światłość!",
+    "unit_name": "Uther",
+    "unit_name_translated": "Uther Światłodzierżca"
+  },
+  "ToD_A04_M14_VO_060": {
+    "original": "Men! Defend the city at all costs!",
+    "translated": "Żołnierze! Bronić miasta za wszelką cenę!",
+    "unit_name": "Uther",
+    "unit_name_translated": "Uther Światłodzierżca"
+  },
+  "ToD_A04_M14_VO_061": {
+    "original": "The alabaster parapets of Lordaeron's capital loom before us in the distance. The proud, defiant armies of the Alliance stand resolute in their final, fleeting moments. All that remains is the shrill, clarion call to battle and the fulfillment of our destiny. The tides of darkness are now at hand!",
+    "translated": "W oddali wznoszą się alabastrowe blanki stolicy Lordaeronu. Dumne, nieugięte wojska Przymierza trwają na pozycjach w swych ostatnich chwilach. Pozostał już tylko donośny głos rogu wzywający do bitwy — i wypełnienie naszego przeznaczenia. Nadciągają fale ciemności!",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  },
+  "ToD_A04_M14_VO_EXTRA_001": {
+    "original": "Revive Captain",
+    "translated": "Ożywienie kapitana",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A04_M14_VO_EXTRA_002": {
+    "original": "Give report, now..",
+    "translated": "Raport. Natychmiast.",
+    "unit_name": "Orgrim Doomhammer",
+    "unit_name_translated": "Orgrim Zgładziciel"
+  }
+}

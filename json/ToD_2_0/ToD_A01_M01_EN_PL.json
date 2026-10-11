@@ -1,0 +1,602 @@
+{
+  "ToD_A01_M01_FRCS_001": {
+    "original": "Blackrock Clan",
+    "translated": "Klan Czarnej Skały",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_FRCS_002": {
+    "original": "Nation of Lordaeron",
+    "translated": "Królestwo Lordaeronu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MAP_001": {
+    "original": "Den",
+    "translated": "Legowisko",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MAP_002": {
+    "original": "Tent",
+    "translated": "Namiot",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MAP_003": {
+    "original": "Wild Bear",
+    "translated": "Dziki niedźwiedź",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_001": {
+    "original": "Build more Farms to continue unit production.,Build more Pigfarms to continue unit production.,Summon more Ziggurats to continue unit production.,Create more Moon Wells to continue unit production.",
+    "translated": "Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_002": {
+    "original": "|cffffcc00MAIN QUEST UPDATE|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_003": {
+    "original": "Defeat!",
+    "translated": "Porażka!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_004": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nAll Gold Mines depleted before gathering enough resources.",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWszystkie kopalnie złota zostały wyczerpane, zanim zebrano wymagane zasoby.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_005": {
+    "original": "|cffffcc00MAIN QUEST FAILED|r\nAll structures and units were destroyed.",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r\nWszystkie jednostki i budowle zostały zniszczone.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_006": {
+    "original": "|c0000FF00Hint:|r Fallen Hero can be revived in the Great Hall.",
+    "translated": "|c0000FF00Wskazówka:|r Poległego bohatera można wskrzesić w wielkiej sali.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_007": {
+    "original": "|cff00ff00HINT|r\nUtok is a semi-hero that can carry items. If he dies in combat, you can revive him in the Great Hall, however he will have to bring his lost items back. \nUtok's level progression depends on Side Quests completion.",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nUtok jest specjalną jednostką, która może nosić przedmioty. Jeśli polegnie, można wskrzesić go w wielkiej sali, ale utracone przedmioty trzeba będzie odzyskać.\nUtok zdobywa kolejne poziomy dzięki wykonywaniu zadań dodatkowych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_MESS_008": {
+    "original": "|cff00ff00HINT|r\nEach chapter contains side quests that can increase Utok's level, granting him access to new spells and increasing his stats. ",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nW każdym rozdziale są zadania dodatkowe, za które Utok zdobywa kolejne poziomy. W ten sposób rozwija swoje atrybuty i zyskuje dostęp do nowych zaklęć.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_001": {
+    "original": "Landing",
+    "translated": "Przyczółek",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_002": {
+    "original": "Orgrim Doomhammer has entrusted you with the construction of an outpost on the island of Zul’dare.\nBuild several farms to feed the troops and a barracks to protect the camp.",
+    "translated": "Orgrim Zgładziciel powierzył ci budowę przyczółka na wyspie Zul’dare.\nWznieś kilka chlewni, by wyżywić wojsko, oraz koszary, by zabezpieczyć obóz.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_003": {
+    "original": "Build a Barracks",
+    "translated": "Zbuduj koszary",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_004": {
+    "original": "Build Pig Farms",
+    "translated": "Zbuduj chlewnie",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_005": {
+    "original": "Build Pig Farms (0 of 4 Built)",
+    "translated": "Zbuduj chlewnie (wzniesiono 0 z 4)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_006": {
+    "original": "  - Build Pig Farms (",
+    "translated": "  - Zbuduj chlewnie (wzniesiono ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_007": {
+    "original": " of 4 Built)",
+    "translated": " z 4)",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_008": {
+    "original": "Build Pig Farms (",
+    "translated": "Zbuduj chlewnie (wzniesiono ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_009": {
+    "original": "  -|cff808080 Build Pig Farms (Completed)|r",
+    "translated": "  -|cff808080 Zbuduj chlewnie (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_010": {
+    "original": "  - Build a Barracks",
+    "translated": "  - Zbuduj koszary",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_011": {
+    "original": "  -|cff808080 Build a Barracks (Completed)|r",
+    "translated": "  -|cff808080 Zbuduj koszary (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_012": {
+    "original": "|cffffcc00MAIN QUEST|r\nLanding\n - Build Pig Farms (0 of 4 Built)\n - Build a Barracks",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nPrzyczółek\n - Zbuduj chlewnie (wzniesiono 0 z 4)\n - Zbuduj koszary",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_013": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nLanding",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nPrzyczółek",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_014": {
+    "original": "Fuel the Fires",
+    "translated": "Podsycić płomienie",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_015": {
+    "original": "In preparation for the northern campaign, you are to gather vast amounts of gold and lumber. ",
+    "translated": "W ramach przygotowań do wyprawy na północ masz zgromadzić znaczne zapasy złota i drewna.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_016": {
+    "original": "  - Gather ",
+    "translated": "  - Zgromadź ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_017": {
+    "original": "Gather ",
+    "translated": "Zgromadź ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_018": {
+    "original": " Gold",
+    "translated": " szt. złota",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_019": {
+    "original": "Harvest ",
+    "translated": "Pozyskaj ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_020": {
+    "original": "  - Harvest ",
+    "translated": "  - Pozyskaj ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_021": {
+    "original": " Lumber",
+    "translated": " jednostek drewna",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_022": {
+    "original": "  -|cff808080 Harvest ",
+    "translated": "  -|cff808080 Pozyskaj ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_023": {
+    "original": " Lumber (Completed)|r",
+    "translated": " jednostek drewna (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_024": {
+    "original": "  -|cff808080 Gather ",
+    "translated": "  -|cff808080 Zgromadź ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_025": {
+    "original": " Gold (Completed)|r",
+    "translated": " szt. złota (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_026": {
+    "original": "|cffffcc00MAIN QUEST|r",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_027": {
+    "original": "|cff00ff00HINT|r\nEach time your peons gather 3,000 Gold or Lumber, this amount is transferred towards the quest objective.",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nZa każdym razem, gdy peoni zgromadzą 3000 szt. złota lub 3000 jednostek drewna, zasoby te zostają przekazane na wykonanie zadania.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_028": {
+    "original": "|cff00ff00HINT|r\n|cffffcc003,000 Gold|r was taken towards the quest objective. ",
+    "translated": "|cff00ff00WSKAZÓWKA|r\n|cffffcc003000 szt. złota|r przekazano na wykonanie zadania.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_029": {
+    "original": "|cff00ff00HINT|r\n|cff0080003,000 Lumber|r was taken towards the quest objective. ",
+    "translated": "|cff00ff00WSKAZÓWKA|r\n|cff0080003000 jednostek drewna|r przekazano na wykonanie zadania.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_030": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nFuel the Fire",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nPodsycić płomienie",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_031": {
+    "original": "Wolves",
+    "translated": "Wilki",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_032": {
+    "original": "Find and destroy all Wolf Dens",
+    "translated": "Znajdź i zniszcz wszystkie wilcze legowiska",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_033": {
+    "original": "Your efforts have provoked a local pack of wolves. Scout the area, find their dens, and eradicate them.",
+    "translated": "Wasza działalność rozjuszyła miejscową watahę wilków. Zbadaj okolicę, odnajdź ich legowiska i zniszcz je.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_034": {
+    "original": "|cffffcc00OPTIONAL QUEST|r\nWolves\n - Find and destroy all Wolf Dens",
+    "translated": "|cffffcc00ZADANIE DODATKOWE|r\nWilki\n - Znajdź i zniszcz wszystkie wilcze legowiska",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_035": {
+    "original": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nWolves",
+    "translated": "|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r\nWilki",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_036": {
+    "original": "Remaining Wolf Dens:",
+    "translated": "Legowiska:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_037": {
+    "original": "First Blood",
+    "translated": "Pierwsza krew",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_038": {
+    "original": "Put out the Signal Fire",
+    "translated": "Zgaś ogień sygnałowy",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_039": {
+    "original": "Kill the Scouts",
+    "translated": "Zabij zwiadowców",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_040": {
+    "original": "A group of Human scouts have landed on the island of Zul’dare. They must not be allowed to warn the mainland. Slaughter them all!",
+    "translated": "Na Zul’dare wylądował oddział ludzkich zwiadowców. Nie wolno dopuścić, by ostrzegli stały ląd. Wybij ich do ostatniego!",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_041": {
+    "original": "|cffffcc00MAIN QUEST|r\nFirst Blood\n - Put out the Signal Fire\n - Kill the Scouts",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE|r\nPierwsza krew\n - Zgaś ogień sygnałowy\n - Zabij zwiadowców",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_042": {
+    "original": "|cff00ff00HINT|r\nPick any unit and order him to reach the circle of power near the signal fire in order to put it out. ",
+    "translated": "|cff00ff00WSKAZÓWKA|r\nWybierz dowolną jednostkę i każ jej wejść do kręgu mocy przy ognisku sygnałowym, aby zgasić ogień.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_043": {
+    "original": "|cffffcc00MAIN QUEST UPDATE|r\nFirst Blood\n  -|cff808080 Put out the Signal Fire (Completed)|r\n  - Kill the Scouts",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nPierwsza krew\n  -|cff808080 Zgaś ogień sygnałowy (wykonano)|r\n  - Zabij zwiadowców",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_044": {
+    "original": "|cffffcc00MAIN QUEST UPDATED|r\nFirst Blood\n  -|cffff0000 Put out the Signal Fire (failed)|r\n  - Kill the Scouts",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nPierwsza krew\n  -|cffff0000 Zgaś ogień sygnałowy (nie wykonano)|r\n  - Zabij zwiadowców",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_045": {
+    "original": "|cffffcc00MAIN QUEST UPDATE|r\nFirst Blood\n  - Put out the Signal Fire\n  -|cff808080 Kill the Scouts (Completed)|r",
+    "translated": "|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r\nPierwsza krew\n  - Zgaś ogień sygnałowy\n  -|cff808080 Zabij zwiadowców (wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_046": {
+    "original": "|cffff0000Put out the Signal Fire (failed)|r",
+    "translated": "|cffff0000Zgaś ogień sygnałowy (nie wykonano)|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OBJE_047": {
+    "original": "|cffffcc00MAIN QUEST COMPLETED|r\nFirst Blood",
+    "translated": "|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r\nPierwsza krew",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_ALREADY_USED": {
+    "original": "That Oil Patch has already being used.",
+    "translated": "To złoże ropy jest już eksploatowane.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_BUILD_FIRST": {
+    "original": "Must build Oil Rig first.",
+    "translated": "Najpierw trzeba zbudować platformę wiertniczą.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_COLLECTOR_ABIL_DESCRIPTION_EMPTY": {
+    "original": "Collect Oil from Oil Rigs.",
+    "translated": "Odbieraj ropę z platform wiertniczych.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_COLLECTOR_ABIL_DESCRIPTION_FULL": {
+    "original": "Return the Oil to the nearest Shipyard.",
+    "translated": "Dostarcz ropę do najbliższej stoczni.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_COLLECTOR_ABIL_NAME_EMPTY": {
+    "original": "Gather Oil",
+    "translated": "Wydobywaj ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_COLLECTOR_ABIL_NAME_FULL": {
+    "original": "Deliver Oil",
+    "translated": "Dostarcz ropę",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_DEPLETED_WARNING": {
+    "original": "|c00640000Oil patch is depleted|r",
+    "translated": "|c00640000Złoże ropy zostało wyczerpane|r",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_LOCALISATION_NAME": {
+    "original": "Oil: ",
+    "translated": "Ropa: ",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_LOW_WARNING": {
+    "original": "The oil patch is running low",
+    "translated": "Złoże ropy jest na wyczerpaniu",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_MUST_BUILD_UPON": {
+    "original": "Must build upon Oil Patch.",
+    "translated": "Ten budynek można wznieść tylko na złożu ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_UNABLE": {
+    "original": "Unable to use Oil Rig.",
+    "translated": "Nie można użyć platformy wiertniczej.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_WHERE_GET_OIL": {
+    "original": "Oil is gathered from Oil Patches.",
+    "translated": "Ropę pozyskuje się ze złóż ropy.",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_OIL_ZERO": {
+    "original": "Oil: 0",
+    "translated": "Ropa: 0",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_SCRN_001": {
+    "original": "Mission Objectives",
+    "translated": "Cele misji",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_SCRN_002": {
+    "original": "Pig Farms Built:",
+    "translated": "Wzniesione chlewnie:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_SCRN_003": {
+    "original": "Barracks Built:",
+    "translated": "Wzniesione koszary:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_SCRN_004": {
+    "original": "Gold for the Horde:",
+    "translated": "Złoto dla Hordy:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_SCRN_005": {
+    "original": "Lumber for the Horde:",
+    "translated": "Drewno dla Hordy:",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_SCRN_006": {
+    "original": "Put out the fire",
+    "translated": "Zgaś ogień",
+    "unit_name": "",
+    "unit_name_translated": ""
+  },
+  "ToD_A01_M01_VO_EXTRA_001": {
+    "original": "Orcs! Arm yourselves!",
+    "translated": "Orkowie! Do broni!",
+    "unit_name": "Footman",
+    "unit_name_translated": "Piechur"
+  },
+  "ToD_A01_M01_VO_S001_001": {
+    "original": "Throm'ka, Chieftain.",
+    "translated": "Throm’ka, wodzu.",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M01_VO_S001_002": {
+    "original": "Throm'ka, warrior.",
+    "translated": "Throm’ka, wojowniku.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S001_003": {
+    "original": "The horde is preparing to launch an assault against the mainland of Lordaeron.",
+    "translated": "Horda szykuje się do ataku na wybrzeże Lordaeronu.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S001_004": {
+    "original": "Orgrim Doomhammer - Warchief of the Orcish hordes and Ruler of the Blackrock Clan - has ordered us to establish a small outpost on Lordaeron's southern shores.",
+    "translated": "Orgrim Zgładziciel, wódz Hordy i przywódca klanu Czarnej Skały, rozkazał nam założyć niewielki przyczółek na południowym wybrzeżu Lordaeronu.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S001_005": {
+    "original": "To secure the Zul'dare region as Doomhammer demands we will need to construct a Barracks and several Farms to feed the troops.",
+    "translated": "Aby zabezpieczyć okolice Zul’dare zgodnie z wolą Zgładziciela, musimy zbudować koszary oraz kilka chlewni, które zapewnią wojsku żywność.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S001_006": {
+    "original": "Our success may help us determine the extent of the pathetic Human defenses and what resistance they can offer against our forces.",
+    "translated": "Jeśli nam się powiedzie, poznamy siłę tych żałosnych ludzkich umocnień i przekonamy się, jaki opór mogą stawić naszym wojskom.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S002_001": {
+    "original": "We need a huge amount of resources for the needs of the northern campaign. Gather gold and cut down the forest!",
+    "translated": "Wyprawa na północ pochłonie ogromne ilości zasobów. Gromadźcie złoto i rąbcie las!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S003_001": {
+    "original": "Wolves, we are under attack!",
+    "translated": "Wilki! Atakują nas!",
+    "unit_name": "Peon",
+    "unit_name_translated": "Peon"
+  },
+  "ToD_A01_M01_VO_S003_002": {
+    "original": "Find their den and put an end to these attacks!",
+    "translated": "Znajdźcie ich legowiska i skończcie z tymi atakami!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S003_003": {
+    "original": "That's the last of them.",
+    "translated": "To już ostatnie.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S004_001": {
+    "original": "Alright men, establish a basecamp and prepare to move out.",
+    "translated": "Dobra, ludzie. Rozbijcie obóz i przygotujcie się do wymarszu.",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A01_M01_VO_S004_002": {
+    "original": "Is it true sir? Have the orcs really made it this far north?",
+    "translated": "To prawda, kapitanie? Orkowie naprawdę dotarli tak daleko na północ?",
+    "unit_name": "Footman",
+    "unit_name_translated": "Piechur"
+  },
+  "ToD_A01_M01_VO_S004_003": {
+    "original": "And the stories? If even half of them are true, how can we possibly defeat them?",
+    "translated": "A te opowieści? Jeśli choć połowa z nich jest prawdziwa, jak mamy ich pokonać?",
+    "unit_name": "Footman",
+    "unit_name_translated": "Piechur"
+  },
+  "ToD_A01_M01_VO_S004_004": {
+    "original": "Calm yourselves and stay focused on our task. We are here to investigate the rumors of a suspected Horde presence in the Zul’dare region.",
+    "translated": "Spokojnie. Skupcie się na zadaniu. Mamy sprawdzić pogłoski o obecności Hordy w okolicach Zul’dare.",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A01_M01_VO_S004_005": {
+    "original": "Now, see if you can get that fire going.",
+    "translated": "A teraz spróbujcie rozpalić ten ogień.",
+    "unit_name": "Captain",
+    "unit_name_translated": "Kapitan"
+  },
+  "ToD_A01_M01_VO_S004_006": {
+    "original": "Light protect us...",
+    "translated": "Niech Światłość nas chroni…",
+    "unit_name": "Footman",
+    "unit_name_translated": "Piechur"
+  },
+  "ToD_A01_M01_VO_S004_007": {
+    "original": "Chieftain, there are human ships in the northern bay!",
+    "translated": "Wodzu, w północnej zatoce są ludzkie okręty!",
+    "unit_name": "Utok Scratcher",
+    "unit_name_translated": "Utok Bazgracz"
+  },
+  "ToD_A01_M01_VO_S005_001": {
+    "original": "Damn! We are not prepared for this! We must put out the signal fire immediately, or they will notice us from the ships. Scour the island, slaughter the humans, and don’t let them warn the mainland!",
+    "translated": "Cholera! Nie jesteśmy na to gotowi! Musimy natychmiast zgasić ogień sygnałowy, inaczej dostrzegą nas z okrętów. Przeczeszcie wyspę, wybijcie ludzi i nie pozwólcie im ostrzec stałego lądu!",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  },
+  "ToD_A01_M01_VO_S006_001": {
+    "original": "The wretched humans have been destroyed!",
+    "translated": "Te parszywe człowieczki zostały pokonane!",
+    "unit_name": "Grunt",
+    "unit_name_translated": "Siepacz"
+  },
+  "ToD_A01_M01_VO_S007_001": {
+    "original": "Excellent, we've made ready and scouted the area. Doomhammer will be pleased.",
+    "translated": "Doskonale. Przygotowania zakończone, a okolica rozpoznana. Zgładziciel będzie zadowolony.",
+    "unit_name": "Rend Blackhand",
+    "unit_name_translated": "Rwij Czarnoręki"
+  }
+}
