@@ -1,0 +1,2981 @@
+﻿STRING 1
+{
+WC2OrcAct3
+}
+
+STRING 2
+{
+Akt III: Północne krainy
+}
+
+STRING 3
+{
+LoreCraftDesigns
+}
+
+STRING 23
+{
+Krasnolud
+}
+
+STRING 24
+{
+Zasadzka!
+}
+
+STRING 57
+// Units: O002 (Warchief), Propernames (Proper Names)
+{
+Orgrim Zgładziciel
+}
+
+STRING 61
+// Units: O008 (Warchief), Propernames (Proper Names)
+{
+Orgrim Zgładziciel
+}
+
+STRING 79
+// Units: O001 (Troll Chieftan), Propernames (Proper Names)
+{
+Zul’jin
+}
+
+STRING 83
+// Units: O009 (Troll Chieftan), Propernames (Proper Names)
+{
+Zul’jin
+}
+
+STRING 147
+// Units: otbk (Berserker), Ubertip (Tooltip - Extended)
+{
+Wszechstronny miotacz toporów, skuteczny przeciw jednostkom latającym. Dysponuje zdolnością Szał Bojowy, która zwiększa szybkość ataku, ale sprawia też, że otrzymuje więcej obrażeń. Może nauczyć się Regeneracji trolli, Wzroku berserkera i Lżejszych toporów. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 148
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 149
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+Elfia łowczyni
+}
+
+STRING 150
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+Podstawowa jednostka o dużym zasięgu ataku. Może korzystać z ulepszeń Celność, Ulepszone łuki i Oswajanie hipogryfów.|n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r
+}
+
+STRING 151
+// Units: htow (Town Hall), Ubertip (Tooltip - Extended)
+{
+Mistrzowskie szkolenie magów (|cffffcc00O|r)
+}
+
+STRING 152
+// Units: negf (Earth-Fury Tower), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 153
+// Units: negm (Sky-Fury Tower), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 154
+// Units: nefm (High Elven Farm), Tip (Tooltip - Basic)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Spowolnienia.
+}
+
+STRING 155
+// Units: nefm (High Elven Farm), Ubertip (Tooltip - Extended)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Spowolnienia.
+}
+
+STRING 156
+// Units: hgra (Gryphon Aviary), Ubertip (Tooltip - Extended)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Niewidzialności.
+}
+
+STRING 157
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Elfi mag
+}
+
+STRING 158
+// Units: nchp (Magistrate), Name (Name)
+{
+Zarządca
+}
+
+STRING 159
+// Units: nwc1 (Cage), Name (Name)
+{
+Klatka
+}
+
+STRING 160
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+Zbuduj klatkę
+}
+
+STRING 161
+// Units: nwc1 (Cage), Description (Description)
+{
+Solidna klatka przeznaczona do przetrzymywania jeńców.
+}
+
+STRING 162
+// Units: nbel (High Elf Captain), Name (Name)
+{
+Kapitan wysokich elfów
+}
+
+STRING 163
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+Wyszkol kapitana wysokich elfów
+}
+
+STRING 164
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+Potężny kapitan armii Srebrnej Luny. Specjalizuje się w zwalczaniu jednostek rzucających zaklęcia.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 189
+// Units: n009 (Ogre), Name (Name)
+{
+Ogr
+}
+
+STRING 190
+// Units: n009 (Ogre), Tip (Tooltip - Basic)
+{
+Ogr (|cffffcc00O|r)
+}
+
+STRING 191
+// Units: n009 (Ogre), Hotkey (Hotkey)
+{
+O
+}
+
+STRING 216
+// Units: O002 (Warchief), Name (Name)
+{
+Wódz Hordy
+}
+
+STRING 218
+// Units: O002 (Warchief), Revivetip (Tooltip - Revive)
+{
+Ożywienie wodza wojennego (|cffffcc00W|r)
+}
+
+STRING 219
+// Units: O002 (Warchief), Awakentip (Tooltip - Awaken)
+{
+Ożywienie wodza wojennego (|cffffcc00W|r)
+}
+
+STRING 220
+// Units: O002 (Warchief), Ubertip (Tooltip - Extended)
+{
+Potężny wódz Hordy, niezwykle silny w walce wręcz.
+}
+
+STRING 221
+// Units: O002 (Warchief), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 222
+// Units: O002 (Warchief), Tip (Tooltip - Basic)
+{
+Wódz Hordy (|cffffcc00W|r)
+}
+
+STRING 258
+// Units: n604 (Axe Thrower), Name (Name)
+{
+Topornik
+}
+
+STRING 259
+// Units: n604 (Axe Thrower), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 260
+// Units: n604 (Axe Thrower), EditorSuffix (Name - Editor Suffix)
+{
+(WIldhammer)
+}
+
+STRING 261
+// Units: n604 (Axe Thrower), Tip (Tooltip - Basic)
+{
+Wyszkol miotacza toporów
+}
+
+STRING 262
+// Units: n604 (Axe Thrower), Ubertip (Tooltip - Extended)
+{
+Lekka jednostka dystansowa. |n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r
+}
+
+STRING 286
+// Units: O008 (Warchief), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 289
+// Units: o007 (Catapult), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 302
+// Units: O001 (Troll Chieftan), Name (Name)
+{
+Wódz trolli
+}
+
+STRING 303
+// Units: O001 (Troll Chieftan), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 304
+// Units: O001 (Troll Chieftan), Tip (Tooltip - Basic)
+{
+Wódz trolli (|cffffcc00T|r)
+}
+
+STRING 305
+// Units: O001 (Troll Chieftan), Revivetip (Tooltip - Revive)
+{
+Ożywienie wodza trolli (|cffffcc00T|r)
+}
+
+STRING 306
+// Units: O001 (Troll Chieftan), Awakentip (Tooltip - Awaken)
+{
+Ożywienie wodza trolli (|cffffcc00T|r)
+}
+
+STRING 307
+// Units: O001 (Troll Chieftan), Ubertip (Tooltip - Extended)
+{
+Zwinny bohater, mistrz magii leczniczej i klątw. Może nauczyć się Uzdrawiającej Fali, Złego Uroku, Znaku Węża i Wielkiego Złego Voodoo. |n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r
+}
+
+STRING 311
+// Units: O008 (Warchief), Name (Name)
+{
+Wódz Hordy
+}
+
+STRING 313
+// Units: O008 (Warchief), Revivetip (Tooltip - Revive)
+{
+Ożywienie wodza wojennego (|cffffcc00W|r)
+}
+
+STRING 314
+// Units: O008 (Warchief), Awakentip (Tooltip - Awaken)
+{
+Ożywienie wodza wojennego (|cffffcc00W|r)
+}
+
+STRING 315
+// Units: O008 (Warchief), Tip (Tooltip - Basic)
+{
+Wódz Hordy (|cffffcc00W|r)
+}
+
+STRING 317
+// Units: O008 (Warchief), Ubertip (Tooltip - Extended)
+{
+Potężny wódz Hordy, niezwykle silny w walce wręcz.
+}
+
+STRING 326
+// Destructibles: B61B (Long Cliff Bridge), EditorSuffix (Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 335
+// Units: n004 (Bird), EditorSuffix (Name - Editor Suffix)
+{
+(scena filmowa)
+}
+
+STRING 385
+// Units: O009 (Troll Chieftan), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 420
+// Units: o00B (Grunt), Ubertip (Tooltip - Extended)
+{
+Brutalny orczy wojownik. |n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 422
+// Units: o006 (Troll Axethrower), Name (Name)
+{
+Troll miotacz toporów
+}
+
+STRING 423
+// Units: o006 (Troll Axethrower), Tip (Tooltip - Basic)
+{
+Wyszkol trolla miotacza toporów
+}
+
+STRING 424
+// Units: o006 (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+Wszechstronny miotacz toporów, skuteczny przeciw jednostkom powietrznym. Może korzystać z Regeneracji Trolli. Po ulepszeniu do berserkera zyskuje lepsze statystyki i zdolność Szał Bojowy. |n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r 
+}
+
+STRING 426
+// Units: o007 (Catapult), Name (Name)
+{
+Katapulta
+}
+
+STRING 427
+// Units: o007 (Catapult), Tip (Tooltip - Basic)
+{
+Zbuduj katapultę
+}
+
+STRING 568
+// Units: n60V (Duck), Name (Name)
+{
+Kaczka
+}
+
+STRING 569
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Zwykła krzyżówka
+}
+
+STRING 598
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Palisada z kolców
+}
+
+STRING 599
+// Doodads: D61D (Spike Wall), Name (Name)
+{
+Palisada z kolców
+}
+
+STRING 615
+// Units: n621 (Tumbleweed), Name (Name)
+{
+Toczący się krzew
+}
+
+STRING 673
+// Units: O009 (Troll Chieftan), Name (Name)
+{
+Wódz trolli
+}
+
+STRING 675
+// Units: O009 (Troll Chieftan), Tip (Tooltip - Basic)
+{
+Wódz trolli (|cffffcc00T|r)
+}
+
+STRING 676
+// Units: O009 (Troll Chieftan), Revivetip (Tooltip - Revive)
+{
+Ożywienie wodza trolli (|cffffcc00T|r)
+}
+
+STRING 677
+// Units: O009 (Troll Chieftan), Awakentip (Tooltip - Awaken)
+{
+Ożywienie wodza trolli (|cffffcc00T|r)
+}
+
+STRING 678
+// Units: O009 (Troll Chieftan), Ubertip (Tooltip - Extended)
+{
+Zwinny bohater, mistrz magii leczniczej i klątw. Może nauczyć się Uzdrawiającej Fali, Złego Uroku, Znaku Węża i Wielkiego Złego Voodoo. |n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r
+}
+
+STRING 681
+// Units: n60Y (Raven), Name (Name)
+{
+Kruk
+}
+
+STRING 690
+// Units: n60Z (Spiders), Name (Name)
+{
+Pająki
+}
+
+STRING 691
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Pająki
+}
+
+STRING 692
+// Units: h60T (Clansman), Name (Name)
+{
+Wojownik klanu
+}
+
+STRING 693
+// Units: h60T (Clansman), EditorSuffix (Name - Editor Suffix)
+{
+(Wild Hammer)
+}
+
+STRING 694
+// Units: h60T (Clansman), Tip (Tooltip - Basic)
+{
+Wyszkol wojownika klanu
+}
+
+STRING 695
+// Units: h60T (Clansman), Ubertip (Tooltip - Extended)
+{
+Wszechstronny żołnierz piechoty.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 704
+// Units: h61V (Thane), EditorSuffix (Name - Editor Suffix)
+{
+(Dziki Młot)
+}
+
+STRING 762
+// Units: h61V (Thane), Name (Name)
+{
+Tan
+}
+
+STRING 788
+// Units: h618 (Pack Ram), Name (Name)
+{
+Baran juczny
+}
+
+STRING 789
+// Units: n61O (Wild Ram), Name (Name)
+{
+Dziki baran
+}
+
+STRING 790
+// Units: n61O (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Gray)
+}
+
+STRING 791
+// Units: n61O (Wild Ram), Tip (Tooltip - Basic)
+{
+Przywołaj barana
+}
+
+STRING 792
+// Units: n61O (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Dziki baran. Może być niebezpieczny!
+}
+
+STRING 793
+// Units: n61P (Wild Ram), Name (Name)
+{
+Dziki baran
+}
+
+STRING 794
+// Units: n61P (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Black)
+}
+
+STRING 795
+// Units: n61P (Wild Ram), Tip (Tooltip - Basic)
+{
+Przywołaj barana
+}
+
+STRING 796
+// Units: n61P (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Dziki baran. Może być niebezpieczny!
+}
+
+STRING 797
+// Units: n61Q (Wild Ram), Name (Name)
+{
+Dziki baran
+}
+
+STRING 798
+// Units: n61Q (Wild Ram), EditorSuffix (Name - Editor Suffix)
+{
+(Brown)
+}
+
+STRING 799
+// Units: n61Q (Wild Ram), Tip (Tooltip - Basic)
+{
+Przywołaj barana
+}
+
+STRING 800
+// Units: n61Q (Wild Ram), Ubertip (Tooltip - Extended)
+{
+Dziki baran. Może być niebezpieczny!
+}
+
+STRING 847
+// Units: n61S (Amanishi Guardian), Name (Name)
+{
+Strażnik Amani
+}
+
+STRING 848
+// Units: n61S (Amanishi Guardian), Tip (Tooltip - Basic)
+{
+Najmij strażnika Amani
+}
+
+STRING 905
+// Units: n61Y (Drak'thul's hut), Name (Name)
+{
+Chata Drak’thula
+}
+
+STRING 906
+// Units: n61Y (Drak'thul's hut), EditorSuffix (Name - Editor Suffix)
+{
+(Kampania)
+}
+
+STRING 977
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1002
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Nabrzeże
+}
+
+STRING 1003
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Grzyby
+}
+
+STRING 1004
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1005
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1006
+// Destructibles: B605 (Platform), Name (Name)
+{
+Podest
+}
+
+STRING 1007
+// Destructibles: B606 (Garrison Gate), Name (Name)
+{
+Brama garnizonu
+}
+
+STRING 1008
+// Destructibles: B606 (Garrison Gate), EditorSuffix (Editor Suffix)
+{
+(no Path)
+}
+
+STRING 1009
+// Destructibles: B607 (Orc Wall), Name (Name)
+{
+Orczy mur
+}
+
+STRING 1010
+// Destructibles: B60C (Orc Wall), Name (Name)
+{
+Orczy mur
+}
+
+STRING 1011
+// Destructibles: B60C (Orc Wall), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1012
+// Destructibles: B60G (Giant Tree), Name (Name)
+{
+Wielkie drzewo
+}
+
+STRING 1014
+// Destructibles: B60K (Cinematic Gate), Name (Name)
+{
+Brama (scena filmowa)
+}
+
+STRING 1015
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Wieża zamkowa
+}
+
+STRING 1016
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Jaskinia
+}
+
+STRING 1019
+// Destructibles: B610 (City Stairs), Name (Name)
+{
+Miejskie schody
+}
+
+STRING 1021
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1022
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Ognisty podmuch
+}
+
+STRING 1023
+// Destructibles: B617 (Fire), Name (Name)
+{
+Ogień
+}
+
+STRING 1024
+// Destructibles: B61B (Long Cliff Bridge), Name (Name)
+{
+Długi most nad urwiskiem
+}
+
+STRING 1026
+// Destructibles: B61F (Castle Wall Corner), Name (Name)
+{
+Narożnik muru zamkowego
+}
+
+STRING 1027
+// Destructibles: B61G (Castle Wall Straight), Name (Name)
+{
+Prosty odcinek muru zamkowego
+}
+
+STRING 1028
+// Destructibles: B61H (Castle Wall Short Door), Name (Name)
+{
+Krótki mur zamkowy z drzwiami
+}
+
+STRING 1029
+// Destructibles: B61I (Castle Wall Long), Name (Name)
+{
+Długi mur zamkowy
+}
+
+STRING 1030
+// Destructibles: B61J (Castle Wall Straight Door), Name (Name)
+{
+Prosty mur zamkowy z drzwiami
+}
+
+STRING 1031
+// Destructibles: B61K (Ice trap), Name (Name)
+{
+Lodowa pułapka
+}
+
+STRING 1033
+// Destructibles: B61P (Iron Gate ), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1035
+// Destructibles: B61P (Iron Gate ), Name (Name)
+{
+Żelazna brama
+}
+
+STRING 1039
+// Destructibles: B62N (Big Door), Name (Name)
+{
+Wielkie drzwi
+}
+
+STRING 1040
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Stary grobowiec
+}
+
+STRING 1041
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+Ołtarz z księgą
+}
+
+STRING 1042
+// Destructibles: B62T (Egg), Name (Name)
+{
+Jajo
+}
+
+STRING 1045
+// Destructibles: B60A (Castle Wall Short), Name (Name)
+{
+Krótki mur zamkowy
+}
+
+STRING 1046
+// Destructibles: B60B (Marble Floor), Name (Name)
+{
+Marmurowa posadzka
+}
+
+STRING 1047
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1048
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1049
+// Destructibles: B601 (Cliffs Red Barrens), Name (Name)
+{
+Czerwone klify Pustkowi
+}
+
+STRING 1050
+// Destructibles: B601 (Cliffs Red Barrens), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1051
+// Destructibles: B602 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1052
+// Destructibles: B602 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Red)
+}
+
+STRING 1053
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1054
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1055
+// Destructibles: B604 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1056
+// Destructibles: B604 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad BlackRed)
+}
+
+STRING 1057
+// Destructibles: B608 (Cliffs Red Dungeon ), Name (Name)
+{
+Czerwone klify lochu
+}
+
+STRING 1058
+// Destructibles: B608 (Cliffs Red Dungeon ), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1060
+// Destructibles: B609 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1061
+// Destructibles: B609 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Black)
+}
+
+STRING 1062
+// Destructibles: B60E (Cliffs Dark Dungeon), Name (Name)
+{
+Ciemne klify lochu
+}
+
+STRING 1063
+// Destructibles: B60E (Cliffs Dark Dungeon), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1064
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+Drzewo w donicy
+}
+
+STRING 1065
+// Destructibles: B60L (Winter Canopy Bush), Name (Name)
+{
+Ośnieżony krzew
+}
+
+STRING 1066
+// Destructibles: B60N (Fallen Winter Tree), Name (Name)
+{
+Powalone zimowe drzewo
+}
+
+STRING 1067
+// Destructibles: B60S (Fallen Winter Tree), Name (Name)
+{
+Powalone zimowe drzewo
+}
+
+STRING 1068
+// Destructibles: B60S (Fallen Winter Tree), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1069
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Latarnia morska
+}
+
+STRING 1070
+// Destructibles: B60U (Chest), Name (Name)
+{
+Skrzynia
+}
+
+STRING 1071
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Zapas drewna
+}
+
+STRING 1072
+// Destructibles: B619 (Gold (Inactive)), Name (Name)
+{
+Złoto (nieaktywne)
+}
+
+STRING 1073
+// Destructibles: B61A (Gold (Active)), Name (Name)
+{
+Złoto (aktywne)
+}
+
+STRING 1074
+// Destructibles: B61C (AllianceBanner), Name (Name)
+{
+Sztandar Przymierza
+}
+
+STRING 1075
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Belka nośna
+}
+
+STRING 1076
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1077
+// Destructibles: B61N (Big Cage Wall), Name (Name)
+{
+Ściana wielkiej klatki
+}
+
+STRING 1078
+// Destructibles: B61O (Big Cage Wall), Name (Name)
+{
+Ściana wielkiej klatki
+}
+
+STRING 1079
+// Destructibles: B61Q (Northrend Tree Wall), EditorSuffix (Editor Suffix)
+{
+(Mission02)
+}
+
+STRING 1080
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Krzewy
+}
+
+STRING 1081
+// Destructibles: B61U (Hillsbrad Clock Tower), Name (Name)
+{
+Wieża zegarowa Hillsbradu
+}
+
+STRING 1082
+// Destructibles: B61V (Hillsbrad Clock Tower), Name (Name)
+{
+Wieża zegarowa Hillsbradu
+}
+
+STRING 1083
+// Destructibles: B61V (Hillsbrad Clock Tower), EditorSuffix (Editor Suffix)
+{
+(Destroyed)
+}
+
+STRING 1084
+// Destructibles: B61W (City Windows), Name (Name)
+{
+Miejskie okna
+}
+
+STRING 1085
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orczy nagrobek
+}
+
+STRING 1086
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Gruz
+}
+
+STRING 1087
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Pajęczyna
+}
+
+STRING 1088
+// Destructibles: B60F (Arathor Statue), Name (Name)
+{
+Posąg Arathoru
+}
+
+STRING 1089
+// Destructibles: B60I (Winter Canopy Bush), Name (Name)
+{
+Ośnieżony krzew
+}
+
+STRING 1090
+// Destructibles: B60I (Winter Canopy Bush), EditorSuffix (Editor Suffix)
+{
+(Variations)
+}
+
+STRING 1091
+// Destructibles: B60X (Castle Wall Corner), Name (Name)
+{
+Narożnik muru zamkowego
+}
+
+STRING 1092
+// Destructibles: B60X (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1093
+// Destructibles: B60Y (Castle Wall T), Name (Name)
+{
+Mur zamkowy — skrzyżowanie
+}
+
+STRING 1094
+// Destructibles: B60Z (Castle Wall T), Name (Name)
+{
+Mur zamkowy — skrzyżowanie
+}
+
+STRING 1095
+// Destructibles: B60Z (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Alternate)
+}
+
+STRING 1096
+// Destructibles: B611 (Castle Wall T), Name (Name)
+{
+Mur zamkowy — skrzyżowanie
+}
+
+STRING 1097
+// Destructibles: B611 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1098
+// Destructibles: B612 (Castle Wall T), Name (Name)
+{
+Mur zamkowy — skrzyżowanie
+}
+
+STRING 1099
+// Destructibles: B612 (Castle Wall T), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1100
+// Destructibles: B613 (Castle Wall Corner), Name (Name)
+{
+Narożnik muru zamkowego
+}
+
+STRING 1101
+// Destructibles: B613 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1102
+// Destructibles: B614 (Castle Wall Corner), Name (Name)
+{
+Narożnik muru zamkowego
+}
+
+STRING 1103
+// Destructibles: B614 (Castle Wall Corner), EditorSuffix (Editor Suffix)
+{
+(Wide Alternate)
+}
+
+STRING 1104
+// Destructibles: B618 (Castle Wall Long), Name (Name)
+{
+Długi mur zamkowy
+}
+
+STRING 1105
+// Destructibles: B618 (Castle Wall Long), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1106
+// Destructibles: B61D (Castle Wall Short), Name (Name)
+{
+Krótki mur zamkowy
+}
+
+STRING 1107
+// Destructibles: B61D (Castle Wall Short), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1108
+// Destructibles: B61E (Castle Wall Straight), Name (Name)
+{
+Prosty odcinek muru zamkowego
+}
+
+STRING 1109
+// Destructibles: B61E (Castle Wall Straight), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1110
+// Destructibles: B61T (Castle Wall Straight Door), Name (Name)
+{
+Prosty mur zamkowy z drzwiami
+}
+
+STRING 1111
+// Destructibles: B61T (Castle Wall Straight Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1112
+// Destructibles: B620 (Castle Wall Short Door), Name (Name)
+{
+Krótki mur zamkowy z drzwiami
+}
+
+STRING 1113
+// Destructibles: B620 (Castle Wall Short Door), EditorSuffix (Editor Suffix)
+{
+(Wide)
+}
+
+STRING 1114
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Łuk zamkowy
+}
+
+STRING 1115
+// Destructibles: B623 (Castle Wall Stairs), Name (Name)
+{
+Schody na murze zamkowym
+}
+
+STRING 1116
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Posąg rycerza
+}
+
+STRING 1117
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+Podstawa klifu A
+}
+
+STRING 1118
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+Podstawa klifu B
+}
+
+STRING 1119
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+Podstawa klifu C
+}
+
+STRING 1120
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+Podstawa klifu D
+}
+
+STRING 1121
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+Ciemny klif
+}
+
+STRING 1122
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1123
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+Mały ciemny klif
+}
+
+STRING 1124
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1125
+// Destructibles: B62B (DesertCliff), Name (Name)
+{
+Pustynny klif
+}
+
+STRING 1126
+// Destructibles: B62B (DesertCliff), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1127
+// Destructibles: B62C (DesertCliffSmall), Name (Name)
+{
+Mały pustynny klif
+}
+
+STRING 1128
+// Destructibles: B62C (DesertCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1129
+// Destructibles: B62D (DesertCliffLight), Name (Name)
+{
+Jasny pustynny klif
+}
+
+STRING 1130
+// Destructibles: B62D (DesertCliffLight), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1131
+// Destructibles: B62E (DesertCliffLightSmall), Name (Name)
+{
+Mały jasny pustynny klif
+}
+
+STRING 1132
+// Destructibles: B62E (DesertCliffLightSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1133
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+Letni klif
+}
+
+STRING 1134
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+Mały letni klif
+}
+
+STRING 1135
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+Klif Mokradeł
+}
+
+STRING 1136
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+Klif Mokradeł
+}
+
+STRING 1137
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1138
+// Destructibles: B62J (WinterCliff), Name (Name)
+{
+Ośnieżony klif
+}
+
+STRING 1139
+// Destructibles: B62K (WinterCliff), Name (Name)
+{
+Ośnieżony klif
+}
+
+STRING 1140
+// Destructibles: B62K (WinterCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1141
+// Destructibles: B62L (WinterSnowCliff), Name (Name)
+{
+Ośnieżony zimowy klif
+}
+
+STRING 1142
+// Destructibles: B62M (WinterSnowCliff), Name (Name)
+{
+Ośnieżony zimowy klif
+}
+
+STRING 1143
+// Destructibles: B62M (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1144
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+Miejskie schody
+}
+
+STRING 1145
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1146
+// Destructibles: B61R (Dwarven Statue), Name (Name)
+{
+Krasnoludzki posąg
+}
+
+STRING 1147
+// Destructibles: B62P (AltarCinematic), Name (Name)
+{
+Ołtarz ze sceny filmowej
+}
+
+STRING 1148
+// Doodads: D600 (Wasteland Tree Cinematic), Name (Name)
+{
+Wasteland Tree Cinematic
+}
+
+STRING 1153
+// Doodads: D606 (War Tent), Name (Name)
+{
+War Tent
+}
+
+STRING 1154
+// Doodads: D607 (Shaman Tent), Name (Name)
+{
+Shaman Tent
+}
+
+STRING 1156
+// Doodads: D60A (Crater(Pathless)), Name (Name)
+{
+Crater(Pathless)
+}
+
+STRING 1158
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 1161
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1162
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1163
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1164
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1167
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+Square Tower Tall
+}
+
+STRING 1169
+// Doodads: D646 (Lava Plane), Name (Name)
+{
+Lava Plane
+}
+
+STRING 1172
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+Fountain 2
+}
+
+STRING 1173
+// Doodads: D66P (QuelThalas Bush), Name (Name)
+{
+QuelThalas Bush
+}
+
+STRING 1174
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1175
+// Doodads: D66U (Winter Bush A), Name (Name)
+{
+Winter Bush A
+}
+
+STRING 1176
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1178
+// Doodads: D697 (Wisp Explode Effect), Name (Name)
+{
+Wisp Explode Effect
+}
+
+STRING 1179
+// Doodads: D698 (Green Acid Effect), Name (Name)
+{
+Green Acid Effect
+}
+
+STRING 1180
+// Doodads: D699 (Flying Skull FX), Name (Name)
+{
+Flying Skull FX
+}
+
+STRING 1181
+// Doodads: D69A (Tranquility), Name (Name)
+{
+Tranquility
+}
+
+STRING 1182
+// Doodads: D69B (Cloud), Name (Name)
+{
+Cloud
+}
+
+STRING 1183
+// Doodads: D69C (Plague), Name (Name)
+{
+Plague
+}
+
+STRING 1184
+// Doodads: D69D (Frenzy), Name (Name)
+{
+Frenzy
+}
+
+STRING 1185
+// Doodads: D69E (Demonic Aura), Name (Name)
+{
+Demonic Aura
+}
+
+STRING 1186
+// Doodads: D69F (Floor Magic Painting), Name (Name)
+{
+Floor Magic Painting
+}
+
+STRING 1187
+// Doodads: D69J (Star leaves), Name (Name)
+{
+Star leaves
+}
+
+STRING 1188
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+Dalaran Building Pathless
+}
+
+STRING 1189
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1190
+// Doodads: D69S (Door), Name (Name)
+{
+Drzwi
+}
+
+STRING 1191
+// Doodads: D6A4 (Altar Doodad), Name (Name)
+{
+Altar Doodad
+}
+
+STRING 1192
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+Single Column Pathless
+}
+
+STRING 1193
+// Doodads: D6A6 (Archway Pathless), Name (Name)
+{
+Archway Pathless
+}
+
+STRING 1194
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+House Doodad
+}
+
+STRING 1199
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1200
+// Doodads: D6AD (Fog), Name (Name)
+{
+Fog
+}
+
+STRING 1201
+// Doodads: D6AE (Light), Name (Name)
+{
+Światło
+}
+
+STRING 1202
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1203
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1206
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+Capital City Tower 2
+}
+
+STRING 1207
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+Capital City Dome
+}
+
+STRING 1208
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+Capital City Spire
+}
+
+STRING 1209
+// Doodads: D6AP (City Archway), Name (Name)
+{
+City Archway
+}
+
+STRING 1210
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+Capital City Tower
+}
+
+STRING 1211
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1229
+// Doodads: D6BR (Glow Small), Name (Name)
+{
+Glow Small
+}
+
+STRING 1231
+// Doodads: D6BU (Fountain), Name (Name)
+{
+Fontanna
+}
+
+STRING 1232
+// Doodads: D6BV (Leaves Fall Dowm), Name (Name)
+{
+Leaves Fall Dowm
+}
+
+STRING 1233
+// Doodads: D6CF (Circle of Power), Name (Name)
+{
+Circle of Power
+}
+
+STRING 1235
+// Doodads: D6CI (City Portal Doodad), Name (Name)
+{
+City Portal Doodad
+}
+
+STRING 1236
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1237
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1238
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1239
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1240
+// Doodads: D6CW (Column Semi Circle Pathless), Name (Name)
+{
+Column Semi Circle Pathless
+}
+
+STRING 1242
+// Doodads: D6D6 (Torture Cage), Name (Name)
+{
+Torture Cage
+}
+
+STRING 1243
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1244
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1245
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1246
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1247
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1248
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1251
+// Doodads: D6DQ (Burning Blade Banner), Name (Name)
+{
+Burning Blade Banner
+}
+
+STRING 1253
+// Doodads: D6DT (Big Castle Doodad), Name (Name)
+{
+Big Castle Doodad
+}
+
+STRING 1267
+// Doodads: D6EB (Door Doodad), Name (Name)
+{
+Door Doodad
+}
+
+STRING 1268
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+Capital City Structure Block
+}
+
+STRING 1271
+// Doodads: D6EG (Slaughterhouse), Name (Name)
+{
+Slaughterhouse
+}
+
+STRING 1272
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1273
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1274
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1275
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+Books Pile C
+}
+
+STRING 1276
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+Books Pile B
+}
+
+STRING 1277
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1278
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1283
+// Doodads: D6F7 (Glow Small Red), Name (Name)
+{
+Glow Small Red
+}
+
+STRING 1285
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1286
+// Doodads: D6FB (Ruined Cathedral Ancient), Name (Name)
+{
+Ruined Cathedral Ancient
+}
+
+STRING 1287
+// Doodads: D6FN (Winter Crate snow), Name (Name)
+{
+Winter Crate snow
+}
+
+STRING 1292
+// Doodads: D6FX (Winter Rubble Stone 1), Name (Name)
+{
+Winter Rubble Stone 1
+}
+
+STRING 1293
+// Doodads: D6G6 (Wasteland Rock 1), Name (Name)
+{
+Wasteland Rock 1
+}
+
+STRING 1294
+// Doodads: D6G7 (Wasteland Rock Small D), Name (Name)
+{
+Wasteland Rock Small D
+}
+
+STRING 1295
+// Doodads: D6G8 (Wasteland Rock Small A), Name (Name)
+{
+Wasteland Rock Small A
+}
+
+STRING 1296
+// Doodads: D6G9 (Wasteland Rock Small B), Name (Name)
+{
+Wasteland Rock Small B
+}
+
+STRING 1297
+// Doodads: D6GA (Wasteland Rock Small C), Name (Name)
+{
+Wasteland Rock Small C
+}
+
+STRING 1313
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1314
+// Doodads: D616 (Snowy Rock Spire), Name (Name)
+{
+Snowy Rock Spire
+}
+
+STRING 1315
+// Doodads: D617 (Archway Stone Winter Pathless), Name (Name)
+{
+Archway Stone Winter Pathless
+}
+
+STRING 1316
+// Doodads: D60C (Wasteland Cliff Bottom), Name (Name)
+{
+Wasteland Cliff Bottom
+}
+
+STRING 1317
+// Doodads: D60F (Dungeon Cliff Bottom), Name (Name)
+{
+Dungeon Cliff Bottom
+}
+
+STRING 1321
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1322
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1323
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1324
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1326
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1327
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1328
+// Doodads: D60R (Steam Cloud), Name (Name)
+{
+Steam Cloud
+}
+
+STRING 1329
+// Doodads: D60S (Digging Dust), Name (Name)
+{
+Digging Dust
+}
+
+STRING 1330
+// Doodads: D60T (Sparks), Name (Name)
+{
+Sparks
+}
+
+STRING 1331
+// Doodads: D60U (SharedFX Test), Name (Name)
+{
+SharedFX Test
+}
+
+STRING 1332
+// Doodads: D60V (Wall Barred Small Endcap), Name (Name)
+{
+Wall Barred Small Endcap
+}
+
+STRING 1333
+// Doodads: D60Y (Wall Barred Endcap Dark), Name (Name)
+{
+Wall Barred Endcap Dark
+}
+
+STRING 1334
+// Doodads: D610 (Wall Barred Small Endcap Dark), Name (Name)
+{
+Wall Barred Small Endcap Dark
+}
+
+STRING 1335
+// Doodads: D60G (Strategy Map), Name (Name)
+{
+Strategy Map
+}
+
+STRING 1337
+// Doodads: D614 (Mountain01), Name (Name)
+{
+Mountain01
+}
+
+STRING 1338
+// Doodads: D618 (Mountain02), Name (Name)
+{
+Mountain02
+}
+
+STRING 1339
+// Doodads: D619 (Mountain03), Name (Name)
+{
+Mountain03
+}
+
+STRING 1340
+// Doodads: D61A (Mountain04), Name (Name)
+{
+Mountain04
+}
+
+STRING 1341
+// Doodads: D60M (Wildhammer Well), Name (Name)
+{
+Wildhammer Well
+}
+
+STRING 1342
+// Doodads: D61B (Wildhammer Post), Name (Name)
+{
+Wildhammer Post
+}
+
+STRING 1343
+// Doodads: D61C (Gryphon Shed), Name (Name)
+{
+Gryphon Shed
+}
+
+STRING 1344
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1345
+// Doodads: D61G (Wildhammer Banner), Name (Name)
+{
+Wildhammer Banner
+}
+
+STRING 2550
+// Doodads: D000 (Hinterlands_Ferns), Name (Name)
+{
+Hinterlands_Ferns
+}
+
+STRING 2551
+// Doodads: D001 (Hinterlands_rocks), Name (Name)
+{
+Hinterlands_rocks
+}
+
+STRING 2552
+// Units: n004 (Bird), Name (Name)
+{
+Ptak
+}
+
+STRING 2554
+// Doodads: D002 (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 2555
+// Doodads: D003 (Hinterlands_TREES_base), Name (Name)
+{
+Hinterlands_TREES_base
+}
+
+STRING 2556
+// Doodads: D004 (Hinterlands_TREES), Name (Name)
+{
+Hinterlands_TREES
+}
+
+STRING 2557
+// Doodads: D006 (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2558
+// Doodads: D007 (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2559
+// Doodads: D008 (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2560
+// Doodads: D009 (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2561
+// Doodads: D00A (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2562
+// Doodads: D00B (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2563
+// Doodads: D00C (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2564
+// Doodads: D00D (ORC barricade), Name (Name)
+{
+ORC barricade
+}
+
+STRING 2565
+// Doodads: D00E (ORC HUT), Name (Name)
+{
+ORC HUT
+}
+
+STRING 2566
+// Doodads: D00F (VT_shrub), Name (Name)
+{
+VT_shrub
+}
+
+STRING 2567
+// Doodads: D00G (ORC doodad), Name (Name)
+{
+ORC doodad
+}
+
+STRING 2568
+// Doodads: D00H (ORC WALL), Name (Name)
+{
+ORC WALL
+}
+
+STRING 2569
+// Units: n006 (Orc tent), Name (Name)
+{
+Orczy namiot
+}
+
+STRING 2570
+// Units: n007 (Orc tent), Name (Name)
+{
+Orczy namiot
+}
+
+STRING 2571
+// Destructibles: B000 (WinterSnowCliff), Name (Name)
+{
+Ośnieżony zimowy klif
+}
+
+STRING 2572
+// Destructibles: B000 (WinterSnowCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 2573
+// Doodads: D00I (Wintercliff_vt), Name (Name)
+{
+Wintercliff_vt
+}
+
+STRING 2574
+// Doodads: D00J (Wintercliff_vt), Name (Name)
+{
+Wintercliff_vt
+}
+
+STRING 2575
+// Destructibles: B001 (Summer Tree Wall), EditorSuffix (Editor Suffix)
+{
+VT
+}
+
+STRING 2583
+// Units: O001 (Troll Chieftan), EditorSuffix (Name - Editor Suffix)
+{
+(BIG cinematic)
+}
+
+STRING 2589
+// Units: O002 (Warchief), EditorSuffix (Name - Editor Suffix)
+{
+(Mounted - BIG cinematic)
+}
+
+STRING 2593
+// Units: o00A (Troll Axethrower), Name (Name)
+{
+Troll miotacz toporów
+}
+
+STRING 2594
+// Units: o00A (Troll Axethrower), Tip (Tooltip - Basic)
+{
+Wyszkol trolla miotacza toporów
+}
+
+STRING 2595
+// Units: o00A (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+Wszechstronny miotacz toporów, skuteczny przeciw jednostkom powietrznym. Może korzystać z Regeneracji Trolli. Po ulepszeniu do berserkera zyskuje lepsze statystyki i zdolność Szał Bojowy. |n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r 
+}
+
+STRING 2597
+// Units: n008 (Random Raccoon), Name (Name)
+{
+Przypadkowy szop
+}
+
+STRING 2624
+{
+Cztery dni później…
+}
+
+STRING 2639
+// Units: n009 (Ogre), EditorSuffix (Name - Editor Suffix)
+{
+(Mini)
+}
+
+STRING 2642
+// Units: oA3T (Troll Axethrower), Name (Name)
+{
+Troll miotacz toporów
+}
+
+STRING 2643
+// Units: oA3T (Troll Axethrower), Tip (Tooltip - Basic)
+{
+Wyszkol trolla miotacza toporów
+}
+
+STRING 2644
+// Units: oA3T (Troll Axethrower), Ubertip (Tooltip - Extended)
+{
+Wszechstronny miotacz toporów, skuteczny przeciw jednostkom powietrznym. Może korzystać z Regeneracji Trolli. Po ulepszeniu do berserkera zyskuje lepsze statystyki i zdolność Szał Bojowy. |n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r 
+}
+
+STRING 2645
+// Units: o006 (Troll Axethrower), EditorSuffix (Name - Editor Suffix)
+{
+(Mini)
+}
+
+STRING 2649
+// Units: o007 (Catapult), EditorSuffix (Name - Editor Suffix)
+{
+(Mini)
+}
+
+STRING 2668
+// Units: O008 (Warchief), EditorSuffix (Name - Editor Suffix)
+{
+(Mounted Mini)
+}
+
+STRING 2674
+// Units: O009 (Troll Chieftan), EditorSuffix (Name - Editor Suffix)
+{
+(Mini)
+}
+
+STRING 2714
+// Doodads: D64K (Distant Land), Name (Name)
+{
+Distant Land
+}
+
+STRING 2715
+// Doodads: D00K (Snowy Mountains), Name (Name)
+{
+Snowy Mountains
+}
+
+STRING 2716
+{
+Horda
+}
+
+STRING 2717
+{
+Trolle
+}
+
+STRING 2718
+{
+Elfy
+}
+
+STRING 2719
+{
+Klan Dzikiego Młota
+}
+
+STRING 2736
+// Destructibles: B002 (Dead Body), Name (Name)
+{
+Zwłoki
+}
+
+STRING 2737
+// Destructibles: B002 (Dead Body), EditorSuffix (Editor Suffix)
+{
+(Catapult)
+}
+
+STRING 2754
+{
+Zul’jin
+}
+
+STRING 2755
+{
+Bracia Czarnoręcy
+}
+
+STRING 2756
+{
+Przymierze
+}
+
+STRING 2824
+// Units: o00B (Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Korkron)
+}
+
+STRING 2825
+// Doodads: D00L (Light Weak), Name (Name)
+{
+Light Weak
+}
+
+STRING 2829
+// Units: o00A (Troll Axethrower), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic_above shot) X
+}
+
+STRING 2830
+// Units: oA3T (Troll Axethrower), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic_above shot) 
+}
+
+STRING 2831
+// Items: I0La (WC2ORCACT03Orgrim1), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2832
+// Items: I0La (WC2ORCACT03Orgrim1), Description (Description)
+{
+Żwawiej, wojownicy! Musimy jak najszybciej przedostać się przez te góry!
+}
+
+STRING 2833
+// Items: I0La (WC2ORCACT03Orgrim1), Name (Name)
+{
+WC2ORCACT03Orgrim1
+}
+
+STRING 2834
+// Items: I0Lb (WC2ORCACT03Orgrim2), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2836
+// Items: I0Lb (WC2ORCACT03Orgrim2), Name (Name)
+{
+WC2ORCACT03Orgrim2
+}
+
+STRING 2837
+// Items: I0Lc (WC2ORCACT03Orgrim3), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2838
+// Items: I0Lc (WC2ORCACT03Orgrim3), Description (Description)
+{
+Już teraz siedzą w swoich warownych zamkach i miastach, licząc na to, że rzucimy się wprost na ich umocnienia. Zrobimy coś zupełnie przeciwnego.
+}
+
+STRING 2839
+// Items: I0Lc (WC2ORCACT03Orgrim3), Name (Name)
+{
+WC2ORCACT03Orgrim3
+}
+
+STRING 2840
+// Items: I0Ld (WC2ORCACT03Orgrim4), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2841
+// Items: I0Ld (WC2ORCACT03Orgrim4), Description (Description)
+{
+Spójrz na horyzont, Rwiju. Oto Mur Thoradina. Te umocnienia ciągną się przez setki mil i podobno nigdy ich nie przełamano. Nie zamierzam poświęcać naszych wojowników, żeby się przez nie przebić.
+}
+
+STRING 2842
+// Items: I0Ld (WC2ORCACT03Orgrim4), Name (Name)
+{
+WC2ORCACT03Orgrim4
+}
+
+STRING 2843
+// Items: I0Le (WC2ORCACT03Orgrim5), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2844
+// Items: I0Le (WC2ORCACT03Orgrim5), Description (Description)
+{
+Bo tego też by się spodziewali, Szarpie.
+}
+
+STRING 2845
+// Items: I0Le (WC2ORCACT03Orgrim5), Name (Name)
+{
+WC2ORCACT03Orgrim5
+}
+
+STRING 2846
+// Items: I0Lf (WC2ORCACT03Orgrim6), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2847
+// Items: I0Lf (WC2ORCACT03Orgrim6), Description (Description)
+{
+…A jeśli dotrzemy na północ przez góry, możemy odciąć dostawy od elfów, których ludzie będą tak rozpaczliwie potrzebować.
+}
+
+STRING 2848
+// Items: I0Lf (WC2ORCACT03Orgrim6), Name (Name)
+{
+WC2ORCACT03Orgrim6
+}
+
+STRING 2849
+// Items: I0Lg (WC2ORCACT03Orgrim7a), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2850
+// Items: I0Lg (WC2ORCACT03Orgrim7a), Description (Description)
+{
+Tak jak obiecałem, twój lud doczeka się zemsty, potężny Zul’jinie. Ale zanim najedziemy ziemie elfów, musimy umocnić naszą pozycję tutaj. Zwiadowcy donieśli mi, że siły Przymierza zbierają się nad jeziorem Darrowmere.
+}
+
+STRING 2851
+// Items: I0Lg (WC2ORCACT03Orgrim7a), Name (Name)
+{
+WC2ORCACT03Orgrim7a
+}
+
+STRING 2852
+// Items: I0Lh (WC2ORCACT03Orgrim7b), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2853
+// Items: I0Lh (WC2ORCACT03Orgrim7b), Description (Description)
+{
+Rozkazałem klanom Łupieżców Burzy i Młota Zmierzchu ruszyć wzdłuż koryta rzeki. Gul’dan i Cho’gall odciągną uwagę Przymierza, a Szarp i klan Uśmiechu Czarnego Zęba uderzą na Dłoń Tyra.
+}
+
+STRING 2854
+// Items: I0Lh (WC2ORCACT03Orgrim7b), Name (Name)
+{
+WC2ORCACT03Orgrim7b
+}
+
+STRING 2855
+// Items: I0Li (WC2ORCACT03Orgrim8), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2856
+// Items: I0Li (WC2ORCACT03Orgrim8), Description (Description)
+{
+Pozostaje Stratholme, klejnot północy i drugie co do wielkości miasto Lordaeronu. Dopóki stoi, nie zdołamy przypuścić szturmu na Quel’Thalas.
+}
+
+STRING 2857
+// Items: I0Li (WC2ORCACT03Orgrim8), Name (Name)
+{
+WC2ORCACT03Orgrim8
+}
+
+STRING 2858
+// Items: I0Lj (WC2ORCACT03Orgrim9), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2859
+// Items: I0Lj (WC2ORCACT03Orgrim9), Description (Description)
+{
+Doskonale. Nie wątp, Zul’jinie. Wyzwolimy twoją ojczyznę… I wybijemy tych, którzy cię skrzywdzili.
+}
+
+STRING 2860
+// Items: I0Lj (WC2ORCACT03Orgrim9), Name (Name)
+{
+WC2ORCACT03Orgrim9
+}
+
+STRING 2861
+// Items: I0Lk (WC2ORCACT03Orgrim10), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2862
+// Items: I0Lk (WC2ORCACT03Orgrim10), Description (Description)
+{
+Kontynuujcie oblężenie i pozwólcie im głodować. Wyślij jeźdźca z moimi rozkazami do Varoka. Klany Płonącego Ostrza i Krwawiącego Oczodołu pozostaną w Khaz Modan, by udaremniać wszelkie próby uderzenia w nasze wojska i dostawy. A ty, Eitriggu, dołączysz do mojej armii tutaj, w Lordaeronie.
+}
+
+STRING 2863
+// Items: I0Lk (WC2ORCACT03Orgrim10), Name (Name)
+{
+WC2ORCACT03Orgrim10
+}
+
+STRING 2864
+// Items: I0Ll (WC2ORCACT03Orgrim11), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2866
+// Items: I0Ll (WC2ORCACT03Orgrim11), Name (Name)
+{
+WC2ORCACT03Orgrim11
+}
+
+STRING 2867
+// Items: I0Lm (WC2ORCACT03Orgrim12), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 2868
+// Items: I0Lm (WC2ORCACT03Orgrim12), Description (Description)
+{
+Zul’jinie, doniesiono mi, że do obozu właśnie przybyła grupa trolli. Usłyszeli, że idziesz z nami. Proszą o spotkanie.
+}
+
+STRING 2869
+// Items: I0Lm (WC2ORCACT03Orgrim12), Name (Name)
+{
+WC2ORCACT03Orgrim12
+}
+
+STRING 2870
+// Items: I0Ln (WC2ORCACT03Utok1), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 2871
+// Items: I0Ln (WC2ORCACT03Utok1), Description (Description)
+{
+Wodzu, słyszałem, że mnie wzywałeś.
+}
+
+STRING 2872
+// Items: I0Ln (WC2ORCACT03Utok1), Name (Name)
+{
+WC2ORCACT03Utok1
+}
+
+STRING 2873
+// Items: I0Lo (WC2ORCACT03Utok2), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 2874
+// Items: I0Lo (WC2ORCACT03Utok2), Description (Description)
+{
+Tak się stanie, wodzu. Dopilnuję, żeby Gul’dan i jego sługusy wykonywali twoje rozkazy.
+}
+
+STRING 2875
+// Items: I0Lo (WC2ORCACT03Utok2), Name (Name)
+{
+WC2ORCACT03Utok2
+}
+
+STRING 2876
+// Items: I0Lp (WC2ORCACT03Maim1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 2877
+// Items: I0Lp (WC2ORCACT03Maim1), Description (Description)
+{
+Ale dlaczego po prostu nie obeszliśmy gór? Albo nie ominęliśmy lądu na naszych okrętach?
+}
+
+STRING 2878
+// Items: I0Lp (WC2ORCACT03Maim1), Name (Name)
+{
+WC2ORCACT03Maim1
+}
+
+STRING 2879
+// Items: I0Lq (WC2ORCACT03Rend1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 2880
+// Items: I0Lq (WC2ORCACT03Rend1), Description (Description)
+{
+Wodzu, nie zamierzam podważać twoich decyzji, ale dlaczego idziemy tędy?
+}
+
+STRING 2881
+// Items: I0Lq (WC2ORCACT03Rend1), Name (Name)
+{
+WC2ORCACT03Rend1
+}
+
+STRING 2882
+// Items: I0Lr (WC2ORCACT03Rend2), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 2883
+// Items: I0Lr (WC2ORCACT03Rend2), Description (Description)
+{
+Zdaje się, że oddalamy się od wroga i jego osad. Nie rozumiem tego.
+}
+
+STRING 2884
+// Items: I0Lr (WC2ORCACT03Rend2), Name (Name)
+{
+WC2ORCACT03Rend2
+}
+
+STRING 2885
+// Items: I0Ls (WC2ORCACT03Rend3), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 2886
+// Items: I0Ls (WC2ORCACT03Rend3), Description (Description)
+{
+Mądrze mówisz, wodzu…
+}
+
+STRING 2887
+// Items: I0Ls (WC2ORCACT03Rend3), Name (Name)
+{
+WC2ORCACT03Rend3
+}
+
+STRING 2888
+// Items: I0Lt (WC2ORCACT03Etirigg1), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 2889
+// Items: I0Lt (WC2ORCACT03Etirigg1), Description (Description)
+{
+Wodzu, przynoszę ważne wieści od Zaurzykła. Nie zdołaliśmy wyłamać bram Żelaznej Kuźni. Żadna z naszych machin nie mogła ich naruszyć…
+}
+
+STRING 2890
+// Items: I0Lt (WC2ORCACT03Etirigg1), Name (Name)
+{
+WC2ORCACT03Etirigg1
+}
+
+STRING 2891
+// Items: I0Lu (WC2ORCACT03Etirigg2), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 2892
+// Items: I0Lu (WC2ORCACT03Etirigg2), Description (Description)
+{
+Zawiedliśmy cię, wodzu… Przyjmiemy każdą karę, jaką uznasz za słuszną…
+}
+
+STRING 2893
+// Items: I0Lu (WC2ORCACT03Etirigg2), Name (Name)
+{
+WC2ORCACT03Etirigg2
+}
+
+STRING 2894
+// Items: I0Lv (WC2ORCACT03Etirigg3), Tip (Tooltip - Basic)
+{
+Eitrigg
+}
+
+STRING 2895
+// Items: I0Lv (WC2ORCACT03Etirigg3), Description (Description)
+{
+Jak rozkażesz, wodzu.
+}
+
+STRING 2896
+// Items: I0Lv (WC2ORCACT03Etirigg3), Name (Name)
+{
+WC2ORCACT03Etirigg3
+}
+
+STRING 2897
+// Items: I0Lw (WC2ORCACT03Zuljin1A), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2898
+// Items: I0Lw (WC2ORCACT03Zuljin1A), Description (Description)
+{
+Jeszcze tydzień marszu i dotrzemy do granic Quel’Thalas…
+}
+
+STRING 2899
+// Items: I0Lw (WC2ORCACT03Zuljin1A), Name (Name)
+{
+WC2ORCACT03Zuljin1A
+}
+
+STRING 2900
+// Items: I0Lx (WC2ORCACT03Zuljin1B), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2901
+// Items: I0Lx (WC2ORCACT03Zuljin1B), Description (Description)
+{
+…I choć staram się trzymać nerwy na wodzy, na samą myśl o zemście i sprawiedliwości moje topory rwą się do walki…
+}
+
+STRING 2902
+// Items: I0Lx (WC2ORCACT03Zuljin1B), Name (Name)
+{
+WC2ORCACT03Zuljin1B
+}
+
+STRING 2903
+// Items: I0Ly (WC2ORCACT03Zuljin2), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2904
+// Items: I0Ly (WC2ORCACT03Zuljin2), Description (Description)
+{
+W lasach między tymi górami a Stratholme jest wiele kryjówek trolli. Jeśli je znajdziemy, nie trzeba będzie długo namawiać naszych braci do przyłączenia się do Hordy.
+}
+
+STRING 2905
+// Items: I0Ly (WC2ORCACT03Zuljin2), Name (Name)
+{
+WC2ORCACT03Zuljin2
+}
+
+STRING 2906
+// Items: I0Lz (WC2ORCACT03Zuljin3), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2907
+// Items: I0Lz (WC2ORCACT03Zuljin3), Description (Description)
+{
+Witajcie, potężni synowie Uschniętej Kory! Dobrze słyszeliście. Z Hordą u boku zniszczymy wszystkich, którzy nas skrzywdzili… Także krasnoludy z tych ziem!
+}
+
+STRING 2908
+// Items: I0Lz (WC2ORCACT03Zuljin3), Name (Name)
+{
+WC2ORCACT03Zuljin3
+}
+
+STRING 2909
+// Items: I0LA (WC2ORCACT03Zuljin4), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2910
+// Items: I0LA (WC2ORCACT03Zuljin4), Description (Description)
+{
+Zyskują przewagę, tak? To chyba pora trochę zamieszać… Co wy na to? Gotowi wyrównać rachunki?
+}
+
+STRING 2911
+// Items: I0LA (WC2ORCACT03Zuljin4), Name (Name)
+{
+WC2ORCACT03Zuljin4
+}
+
+STRING 2912
+// Items: I0LB (WC2ORCACT03Zuljin5), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2913
+// Items: I0LB (WC2ORCACT03Zuljin5), Description (Description)
+{
+Za Zul’Aman! Za Hordę!
+}
+
+STRING 2914
+// Items: I0LB (WC2ORCACT03Zuljin5), Name (Name)
+{
+WC2ORCACT03Zuljin5
+}
+
+STRING 2915
+// Items: I0LC (WC2ORCACT03Zuljin6), Tip (Tooltip - Basic)
+{
+Zul’jin
+}
+
+STRING 2916
+// Items: I0LC (WC2ORCACT03Zuljin6), Description (Description)
+{
+Za Hordę!
+}
+
+STRING 2917
+// Items: I0LC (WC2ORCACT03Zuljin6), Name (Name)
+{
+WC2ORCACT03Zuljin6
+}
+
+STRING 2918
+// Items: I0LD (WC2ORCACT03Tomahawk1A), Tip (Tooltip - Basic)
+{
+Czarny Tomahawk
+}
+
+STRING 2919
+// Items: I0LD (WC2ORCACT03Tomahawk1A), Description (Description)
+{
+Wielki wodzu Zul’jinie! Pochodzimy z plemienia Uschniętej Kory. Przynosimy wieści od naszych braci, którzy walczą z klanami krasnoludów w tych dolinach. Słyszeliśmy, że znalazłeś potężnego sprzymierzeńca, który może pomóc nam wygrać tę wojnę.
+}
+
+STRING 2920
+// Items: I0LD (WC2ORCACT03Tomahawk1A), Name (Name)
+{
+WC2ORCACT03Tomahawk1A
+}
+
+STRING 2921
+// Items: I0LE (WC2ORCACT03Tomahawk1B), Tip (Tooltip - Basic)
+{
+Czarny Tomahawk
+}
+
+STRING 2922
+// Items: I0LE (WC2ORCACT03Tomahawk1B), Description (Description)
+{
+Chwała loa! Przybywasz w samą porę, bracie. Ostatnio te brodate szkodniki zyskują przewagę. Od miesięcy czujemy na karku oddech Bwonsamdiego.
+}
+
+STRING 2923
+// Items: I0LE (WC2ORCACT03Tomahawk1B), Name (Name)
+{
+WC2ORCACT03Tomahawk1B
+}
+
+STRING 2924
+// Items: I0LF (WC2ORCACT03Dwarf1), Tip (Tooltip - Basic)
+{
+Zwiadowca Dzikiego Młota
+}
+
+STRING 2925
+// Items: I0LF (WC2ORCACT03Dwarf1), Description (Description)
+{
+A więc pogłoski są prawdziwe. Wódz trolli sprzymierzył się z bestiami z obcych ziem. Musimy ostrzec tana.
+}
+
+STRING 2926
+// Items: I0LF (WC2ORCACT03Dwarf1), Name (Name)
+{
+WC2ORCACT03Dwarf1
+}
+
+STRING 2927
+// Items: I0LG (WC2ORCACT03Dwarf2), Tip (Tooltip - Basic)
+{
+Zwiadowca Dzikiego Młota
+}
+
+STRING 2928
+// Items: I0LG (WC2ORCACT03Dwarf2), Description (Description)
+{
+Zasadzka!
+}
+
+STRING 2929
+// Items: I0LG (WC2ORCACT03Dwarf2), Name (Name)
+{
+WC2ORCACT03Dwarf2
+}
+
+STRING 2930
+// Items: I0Ll (WC2ORCACT03Orgrim11), Description (Description)
+{
+Utoku, wyprzedź nas i rusz na północ, nad jezioro Darrowmere. Gul’dan i jego klan właśnie zakładają obóz na jego brzegu. Chcę, żebyś miał go na oku.
+}
+
+STRING 2931
+// Items: I0Lb (WC2ORCACT03Orgrim2), Description (Description)
+{
+Ludzie i ich sprzymierzeńcy uważają nas za bezmyślne osiłki. Zamierzam to wykorzystać.
+}
+
+STRING 2932
+// Doodads: D00M (Light Red), Name (Name)
+{
+Light Red
+}
+

@@ -1,0 +1,4060 @@
+﻿STRING 1
+{
+WC2Orc13
+}
+
+STRING 2
+{
+Grobowiec Sargerasa
+}
+
+STRING 3
+{
+LoreCraft Designs
+}
+
+STRING 283
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 297
+{
+Niedobitki Rady Cieni
+}
+
+STRING 330
+// Items: I0LA (WC2Orc13Maim1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 406
+{
+Horda orków
+}
+
+STRING 407
+{
+Klan Młota Zmierzchu
+}
+
+STRING 410
+{
+Horda
+}
+
+STRING 457
+{
+Jednostka pomocnicza sceny filmowej
+}
+
+STRING 458
+{
+Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.
+}
+
+STRING 459
+{
+Nie można użyć platformy wiertniczej.
+}
+
+STRING 460
+{
+To złoże ropy jest już eksploatowane.
+}
+
+STRING 461
+{
+Najpierw trzeba zbudować platformę wiertniczą.
+}
+
+STRING 462
+{
+Należy wskazać złoże ropy.
+}
+
+STRING 463
+{
+Ten budynek można wznieść tylko na złożu ropy.
+}
+
+STRING 464
+{
+Bohatera można wskrzesić w wielkiej sali.
+}
+
+STRING 465
+{
+Nieświęty
+}
+
+STRING 478
+// Units: nwc1 (Cage), Name (Name)
+{
+Klatka
+}
+
+STRING 479
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+Zbuduj klatkę
+}
+
+STRING 480
+// Units: nwc1 (Cage), Description (Description)
+{
+Solidna klatka przeznaczona do przetrzymywania jeńców.
+}
+
+STRING 618
+// Units: U006 (죽음의 기사), Ubertip (Tooltip - Extended)
+{
+Potężny orczy czarnoksiężnik, uczeń Gul’dana, który po śmierci powstał jako rycerz śmierci. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 644
+// Units: n00F (Doomguard), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 882
+// Destructibles: B61B (Long Cliff Bridge), EditorSuffix (Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 913
+// Units: n00P (Beholder), Name (Name)
+{
+Obserwator
+}
+
+STRING 917
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Palisada z kolców
+}
+
+STRING 990
+// Units: u005 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 1010
+// Units: n60Z (Spiders), Name (Name)
+{
+Pająki
+}
+
+STRING 1011
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Pająki
+}
+
+STRING 1050
+// Units: u004 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 1072
+// Units: n617 (Felguard), Name (Name)
+{
+Strażnik spaczenia
+}
+
+STRING 1074
+// Units: n61A (Felhunter), Name (Name)
+{
+Spaczony tropiciel
+}
+
+STRING 1296
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1317
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Nabrzeże
+}
+
+STRING 1318
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Grzyby
+}
+
+STRING 1320
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1321
+// Destructibles: B605 (Platform), Name (Name)
+{
+Podest
+}
+
+STRING 1326
+// Destructibles: B00V (Urn), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1331
+// Destructibles: B60P (Cavern), Name (Name)
+{
+Jaskinia
+}
+
+STRING 1337
+// Destructibles: B616 (Fire Gust), Name (Name)
+{
+Ognisty podmuch
+}
+
+STRING 1338
+// Destructibles: B617 (Fire), Name (Name)
+{
+Ogień
+}
+
+STRING 1339
+// Destructibles: B61B (Long Cliff Bridge), Name (Name)
+{
+Długi most nad urwiskiem
+}
+
+STRING 1357
+// Destructibles: B62T (Egg), Name (Name)
+{
+Jajo
+}
+
+STRING 1362
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1363
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1366
+// Destructibles: B602 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1367
+// Destructibles: B602 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Red)
+}
+
+STRING 1368
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1369
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1370
+// Destructibles: B604 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1371
+// Destructibles: B604 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad BlackRed)
+}
+
+STRING 1375
+// Destructibles: B609 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1376
+// Destructibles: B609 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad Black)
+}
+
+STRING 1385
+// Destructibles: B60U (Chest), Name (Name)
+{
+Skrzynia
+}
+
+STRING 1395
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Krzewy
+}
+
+STRING 1401
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Gruz
+}
+
+STRING 1402
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Pajęczyna
+}
+
+STRING 1432
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+Podstawa klifu A
+}
+
+STRING 1433
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+Podstawa klifu B
+}
+
+STRING 1434
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+Podstawa klifu C
+}
+
+STRING 1435
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+Podstawa klifu D
+}
+
+STRING 1436
+// Destructibles: B629 (DarkCliff), Name (Name)
+{
+Ciemny klif
+}
+
+STRING 1437
+// Destructibles: B629 (DarkCliff), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1438
+// Destructibles: B62A (DarkCliffSmall), Name (Name)
+{
+Mały ciemny klif
+}
+
+STRING 1439
+// Destructibles: B62A (DarkCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Felwood)
+}
+
+STRING 1440
+// Destructibles: B62B (DesertCliff), Name (Name)
+{
+Pustynny klif
+}
+
+STRING 1441
+// Destructibles: B62B (DesertCliff), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1442
+// Destructibles: B62C (DesertCliffSmall), Name (Name)
+{
+Mały pustynny klif
+}
+
+STRING 1443
+// Destructibles: B62C (DesertCliffSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1444
+// Destructibles: B62D (DesertCliffLight), Name (Name)
+{
+Jasny pustynny klif
+}
+
+STRING 1445
+// Destructibles: B62D (DesertCliffLight), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1446
+// Destructibles: B62E (DesertCliffLightSmall), Name (Name)
+{
+Mały jasny pustynny klif
+}
+
+STRING 1447
+// Destructibles: B62E (DesertCliffLightSmall), EditorSuffix (Editor Suffix)
+{
+(Barrens)
+}
+
+STRING 1450
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+Klif Mokradeł
+}
+
+STRING 1451
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+Klif Mokradeł
+}
+
+STRING 1452
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1475
+// Doodads: D60X (Bleeding Hollow Banner), Name (Name)
+{
+Bleeding Hollow Banner
+}
+
+STRING 1477
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1478
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1488
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1491
+// Doodads: D694 (Water Plane), Name (Name)
+{
+Water Plane
+}
+
+STRING 1500
+// Doodads: D69F (Floor Magic Painting), Name (Name)
+{
+Floor Magic Painting
+}
+
+STRING 1513
+// Doodads: D6AC (Glow), Name (Name)
+{
+Glow
+}
+
+STRING 1515
+// Doodads: D6AE (Light), Name (Name)
+{
+Światło
+}
+
+STRING 1516
+// Doodads: D6AF (Light From Aside), Name (Name)
+{
+Light From Aside
+}
+
+STRING 1517
+// Doodads: D6AG (Light From Above), Name (Name)
+{
+Light From Above
+}
+
+STRING 1551
+// Doodads: D6CR (Cauldron Pathless), Name (Name)
+{
+Cauldron Pathless
+}
+
+STRING 1552
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1553
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1557
+// Doodads: D6D8 (Blood Splat 01), Name (Name)
+{
+Blood Splat 01
+}
+
+STRING 1558
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1559
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1560
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1561
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1562
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1586
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1587
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1588
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1589
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+Books Pile C
+}
+
+STRING 1590
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+Books Pile B
+}
+
+STRING 1591
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1592
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1635
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1636
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1637
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1638
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1643
+// Doodads: D60S (Digging Dust), Name (Name)
+{
+Digging Dust
+}
+
+STRING 1658
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1667
+// Destructibles: B00J (Fel Fire), Name (Name)
+{
+Spaczony ogień
+}
+
+STRING 1679
+// Units: ntor (Whirlwind), Name (Name)
+{
+Wir
+}
+
+STRING 2842
+{
+Cinematic Blackrock
+}
+
+STRING 2843
+{
+Cinematic Blacktooth
+}
+
+STRING 2844
+{
+Cinematic Dragonmaw
+}
+
+STRING 2845
+{
+Cinemaitc
+}
+
+STRING 2848
+{
+Horda orków
+}
+
+STRING 2851
+// Doodads: D000 (ToS Exterior Main Tower), Name (Name)
+{
+ToS Exterior Main Tower
+}
+
+STRING 2852
+// Doodads: D001 (ToS Exterior Tower), Name (Name)
+{
+ToS Exterior Tower
+}
+
+STRING 2853
+// Doodads: D002 (ToS Exterior Wall), Name (Name)
+{
+ToS Exterior Wall
+}
+
+STRING 2855
+// Doodads: D004 (ToS Wall), Name (Name)
+{
+ToS Wall
+}
+
+STRING 2856
+// Doodads: D005 (ToS Column Broken), Name (Name)
+{
+ToS Column Broken
+}
+
+STRING 2857
+// Doodads: D006 (ToS Exterior Gate), Name (Name)
+{
+ToS Exterior Gate
+}
+
+STRING 2858
+// Doodads: D007 (ToS Archway), Name (Name)
+{
+ToS Archway
+}
+
+STRING 2859
+// Doodads: D008 (ToS Statue), Name (Name)
+{
+ToS Statue
+}
+
+STRING 2861
+// Doodads: D009 (ToS Statues), Name (Name)
+{
+ToS Statues
+}
+
+STRING 2862
+// Doodads: D00A (ToS Statues Broken), Name (Name)
+{
+ToS Statues Broken
+}
+
+STRING 2864
+// Doodads: D00C (ToS Rubble), Name (Name)
+{
+ToS Rubble
+}
+
+STRING 2866
+// Doodads: D00E (ToS Corals 2), Name (Name)
+{
+ToS Corals 2
+}
+
+STRING 2868
+// Doodads: D00G (ToS Seaweed 1), Name (Name)
+{
+ToS Seaweed 1
+}
+
+STRING 2870
+// Doodads: D00I (ToS Cattail), Name (Name)
+{
+ToS Cattail
+}
+
+STRING 2871
+// Doodads: D00J (Waterfall Mini), Name (Name)
+{
+Waterfall Mini
+}
+
+STRING 2872
+// Doodads: D00K (ToS Column Semi Circle), Name (Name)
+{
+ToS Column Semi Circle
+}
+
+STRING 2873
+// Doodads: D00L (ToS Column Semi Circle Ruined), Name (Name)
+{
+ToS Column Semi Circle Ruined
+}
+
+STRING 2874
+// Doodads: D00B (ToS Rocks 1), Name (Name)
+{
+ToS Rocks 1
+}
+
+STRING 2875
+// Doodads: D00M (ToS Rocks 2), Name (Name)
+{
+ToS Rocks 2
+}
+
+STRING 2876
+// Doodads: D00N (ToS Rocks 3), Name (Name)
+{
+ToS Rocks 3
+}
+
+STRING 2877
+// Doodads: D00O (ToS Rocks 4), Name (Name)
+{
+ToS Rocks 4
+}
+
+STRING 2878
+// Doodads: D00P (ToS Rocks 5), Name (Name)
+{
+ToS Rocks 5
+}
+
+STRING 2879
+// Doodads: D00Q (ToS Rocks 6), Name (Name)
+{
+ToS Rocks 6
+}
+
+STRING 2880
+// Doodads: D00F (ToS Barnacles), Name (Name)
+{
+ToS Barnacles
+}
+
+STRING 2882
+// Doodads: D00H (ToS Seaweed Hanging 1), Name (Name)
+{
+ToS Seaweed Hanging 1
+}
+
+STRING 2883
+// Doodads: D00R (ToS Seaweed Hanging 2), Name (Name)
+{
+ToS Seaweed Hanging 2
+}
+
+STRING 2884
+// Doodads: D00D (ToS Corals Red), Name (Name)
+{
+ToS Corals Red
+}
+
+STRING 2885
+// Doodads: D00S (ToS Seaweed 2), Name (Name)
+{
+ToS Seaweed 2
+}
+
+STRING 2886
+// Doodads: D00T (ToS Seaweed 3), Name (Name)
+{
+ToS Seaweed 3
+}
+
+STRING 2888
+// Doodads: D00U (ToS Exterior Wall (Angled)), Name (Name)
+{
+ToS Exterior Wall (Angled)
+}
+
+STRING 2889
+// Doodads: D00V (ToS Corals 3), Name (Name)
+{
+ToS Corals 3
+}
+
+STRING 2890
+// Destructibles: B000 (Ancient Tree), Name (Name)
+{
+Pradawne drzewo
+}
+
+STRING 2891
+// Destructibles: B000 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 1)
+}
+
+STRING 2892
+// Destructibles: B001 (Ancient Tree), Name (Name)
+{
+Pradawne drzewo
+}
+
+STRING 2893
+// Destructibles: B001 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 2)
+}
+
+STRING 2894
+// Doodads: D00W (ToS Bench), Name (Name)
+{
+ToS Bench
+}
+
+STRING 2895
+// Doodads: D00X (ToS Fountain), Name (Name)
+{
+ToS Fountain
+}
+
+STRING 2896
+// Doodads: D00Y (ToS Fountain Broken), Name (Name)
+{
+ToS Fountain Broken
+}
+
+STRING 2899
+// Doodads: D010 (ToS Statues (angle)), Name (Name)
+{
+ToS Statues (angle)
+}
+
+STRING 2900
+// Doodads: D011 (ToS Rock Archway), Name (Name)
+{
+ToS Rock Archway
+}
+
+STRING 2901
+// Doodads: D012 (Black), Name (Name)
+{
+Black
+}
+
+STRING 2902
+// Destructibles: B002 (Torch), Name (Name)
+{
+Pochodnia
+}
+
+STRING 2903
+// Destructibles: B005 (Ritual), Name (Name)
+{
+Rytuał
+}
+
+STRING 2904
+// Destructibles: B003 (Ritual Fel), Name (Name)
+{
+Rytuał spaczenia
+}
+
+STRING 2905
+// Destructibles: B004 (Ritual Void), Name (Name)
+{
+Rytuał Pustki
+}
+
+STRING 2906
+// Destructibles: B006 (Ritual Fire), Name (Name)
+{
+Rytuał ognia
+}
+
+STRING 2907
+// Units: n004 (Ancient Dragon Turtle), Name (Name)
+{
+Pradawny smoczy żółw
+}
+
+STRING 2911
+// Destructibles: DEGG (Egg), Name (Name)
+{
+Jajo
+}
+
+STRING 2912
+// Units: n617 (Felguard), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 2930
+// Destructibles: DMAG (Magical Barrier), Name (Name)
+{
+Magiczna bariera
+}
+
+STRING 2931
+// Destructibles: DMAG (Magical Barrier), EditorSuffix (Editor Suffix)
+{
+(Fake)
+}
+
+STRING 2932
+// Destructibles: DIG1 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2933
+// Destructibles: DIG2 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2968
+// Destructibles: B00B (Old God Eye), Name (Name)
+{
+Oko Starego Boga
+}
+
+STRING 2969
+// Destructibles: B00C (Old God Tentacle), Name (Name)
+{
+Macka Starego Boga
+}
+
+STRING 2970
+// Units: u005 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Zaklęcia)
+}
+
+STRING 3210
+// Destructibles: B008 (ToS Tombguard Scene), Name (Name)
+{
+ToS Tombguard Scene
+}
+
+STRING 3211
+// Destructibles: B007 (ToS Guldan Scene), Name (Name)
+{
+ToS Guldan Scene
+}
+
+STRING 3212
+// Destructibles: B009 (ToS Gate), Name (Name)
+{
+Brama grobowca
+}
+
+STRING 3213
+// Doodads: D013 (ToS Stairs), Name (Name)
+{
+ToS Stairs
+}
+
+STRING 3223
+// Destructibles: B00A (Fake Sky Ashenvale), Name (Name)
+{
+Fake Sky Ashenvale
+}
+
+STRING 3225
+// Units: n00E (Highborne Ghost), Name (Name)
+{
+Duch wysokourodzonego
+}
+
+STRING 3226
+// Destructibles: B00D (Ghost), Name (Name)
+{
+Duch
+}
+
+STRING 3227
+// Destructibles: B00E (Suspicious Dirt Pile), Name (Name)
+{
+Podejrzana sterta ziemi
+}
+
+STRING 3228
+// Units: n61A (Felhunter), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3234
+// Units: n00F (Doomguard), Name (Name)
+{
+Strażnik zagłady
+}
+
+STRING 3310
+// Doodads: D015 (- Statue of Azshara), Name (Name)
+{
+- Statue of Azshara
+}
+
+STRING 3311
+// Doodads: D016 (- Wall Border), Name (Name)
+{
+- Wall Border
+}
+
+STRING 3313
+// Doodads: D018 (- Light Cold), Name (Name)
+{
+- Light Cold
+}
+
+STRING 3316
+// Doodads: D01B (- ToS Orb), Name (Name)
+{
+- ToS Orb
+}
+
+STRING 3318
+// Doodads: D01F (ToS Column Tall), Name (Name)
+{
+ToS Column Tall
+}
+
+STRING 3319
+// Doodads: D01D (ToS Column Thicc), Name (Name)
+{
+ToS Column Thicc
+}
+
+STRING 3320
+// Units: n00G (Highborne Ghost), Name (Name)
+{
+Duch wysokourodzonego
+}
+
+STRING 3322
+// Doodads: D01E (- ToS Wall (Collapse)), Name (Name)
+{
+- ToS Wall (Collapse)
+}
+
+STRING 3323
+// Abilities: A889 (Seduction), Tip (Tooltip - Normal)
+{
+Uwodzenie
+}
+
+STRING 3324
+// Abilities: A889 (Seduction), Name (Name)
+{
+Uwodzenie
+}
+
+STRING 3325
+// Buffs/Effects: BSNP (Seduction), EditorName (Name (Editor Only))
+{
+Uwodzenie
+}
+
+STRING 3326
+// Buffs/Effects: BSNP (Seduction), EditorSuffix (Editor Suffix)
+{
+(Pause)
+}
+
+STRING 3327
+// Buffs/Effects: BSNS (Seduction), EditorName (Name (Editor Only))
+{
+Uwodzenie
+}
+
+STRING 3328
+// Buffs/Effects: BSNS (Seduction), EditorSuffix (Editor Suffix)
+{
+(Stun)
+}
+
+STRING 3330
+// Destructibles: B00F (ToS Bridge), Name (Name)
+{
+ToS Bridge
+}
+
+STRING 3331
+// Destructibles: B00G (ToS Bridge), Name (Name)
+{
+ToS Bridge
+}
+
+STRING 3332
+// Doodads: D003 (ToS Column Tall (angle)), Name (Name)
+{
+ToS Column Tall (angle)
+}
+
+STRING 3333
+// Doodads: D01G (ToS Archway Single), Name (Name)
+{
+ToS Archway Single
+}
+
+STRING 3334
+// Destructibles: B00H (ToS Stairs 0), Name (Name)
+{
+ToS Stairs 0
+}
+
+STRING 3335
+{
+Płonący Legion
+}
+
+STRING 3336
+{
+Duchy wysokourodzonych
+}
+
+STRING 3337
+{
+Wrogowie
+}
+
+STRING 3338
+{
+Elfy
+}
+
+STRING 3339
+// Destructibles: B00I (ToS Bridge Nether), Name (Name)
+{
+ToS Bridge Nether
+}
+
+STRING 3340
+// Doodads: D01H (- ToS Wall Corner), Name (Name)
+{
+- ToS Wall Corner
+}
+
+STRING 3341
+// Doodads: D019 (- ToS Wall Balcony Open), Name (Name)
+{
+- ToS Wall Balcony Open
+}
+
+STRING 3342
+// Doodads: D01C (- ToS Wall Balcony Full), Name (Name)
+{
+- ToS Wall Balcony Full
+}
+
+STRING 3343
+// Doodads: D01I (- Sand), Name (Name)
+{
+- Sand
+}
+
+STRING 3344
+// Doodads: D01A (- ToS Wall Straight), Name (Name)
+{
+- ToS Wall Straight
+}
+
+STRING 3345
+// Doodads: D01J (- ToS Wall Balcony Circle), Name (Name)
+{
+- ToS Wall Balcony Circle
+}
+
+STRING 3346
+// Items: I001 (Mysterious Fragment), Name (Name)
+{
+Tajemniczy Fragment
+}
+
+STRING 3347
+// Items: I001 (Mysterious Fragment), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3348
+// Items: I001 (Mysterious Fragment), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3349
+// Items: I003 (Mysterious Fragment +1), Name (Name)
+{
+Tajemniczy Fragment +1
+}
+
+STRING 3350
+// Items: I003 (Mysterious Fragment +1), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 1.
+}
+
+STRING 3351
+// Items: I003 (Mysterious Fragment +1), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3352
+// Items: I005 (Mysterious Fragment +2), Name (Name)
+{
+Tajemniczy Fragment +2
+}
+
+STRING 3353
+// Items: I005 (Mysterious Fragment +2), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 2.
+}
+
+STRING 3354
+// Items: I005 (Mysterious Fragment +2), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3355
+// Items: I006 (Mysterious Fragment +3), Name (Name)
+{
+Tajemniczy Fragment +3
+}
+
+STRING 3356
+// Items: I006 (Mysterious Fragment +3), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 3.
+}
+
+STRING 3357
+// Items: I006 (Mysterious Fragment +3), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3358
+// Items: I007 (Mysterious Fragment +4), Name (Name)
+{
+Tajemniczy Fragment +4
+}
+
+STRING 3359
+// Items: I007 (Mysterious Fragment +4), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 4.
+}
+
+STRING 3360
+// Items: I007 (Mysterious Fragment +4), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3361
+// Items: I008 (Mysterious Fragment +5), Name (Name)
+{
+Tajemniczy Fragment +5
+}
+
+STRING 3362
+// Items: I008 (Mysterious Fragment +5), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 5.
+}
+
+STRING 3363
+// Items: I008 (Mysterious Fragment +5), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3364
+// Items: I009 (Mysterious Fragment +6), Name (Name)
+{
+Tajemniczy Fragment +6
+}
+
+STRING 3365
+// Items: I009 (Mysterious Fragment +6), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 6.
+}
+
+STRING 3366
+// Items: I009 (Mysterious Fragment +6), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3367
+// Items: I00A (Mysterious Fragment +7), Name (Name)
+{
+Tajemniczy Fragment +7
+}
+
+STRING 3368
+// Items: I00A (Mysterious Fragment +7), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 7.
+}
+
+STRING 3369
+// Items: I00A (Mysterious Fragment +7), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3370
+// Items: I00B (Mysterious Fragment +8), Name (Name)
+{
+Tajemniczy Fragment +8
+}
+
+STRING 3371
+// Items: I00B (Mysterious Fragment +8), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 8.
+}
+
+STRING 3372
+// Items: I00B (Mysterious Fragment +8), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3373
+// Items: I00C (Mysterious Fragment +9), Name (Name)
+{
+Tajemniczy Fragment +9
+}
+
+STRING 3374
+// Items: I00C (Mysterious Fragment +9), Ubertip (Tooltip - Extended)
+{
+Fragment tajemniczego artefaktu o potężnej mocy. Zwiększa obrażenia posiadacza o 9.
+}
+
+STRING 3375
+// Items: I00C (Mysterious Fragment +9), Description (Description)
+{
+Fragment tajemniczego artefaktu o potężnej mocy.
+}
+
+STRING 3379
+// Doodads: D01K (- Sand 1), Name (Name)
+{
+- Sand 1
+}
+
+STRING 3380
+// Doodads: D01L (- Sand 2), Name (Name)
+{
+- Sand 2
+}
+
+STRING 3382
+// Doodads: D01M (- Moonglow), Name (Name)
+{
+- Moonglow
+}
+
+STRING 3387
+// Doodads: D01N (- Moonrunes), Name (Name)
+{
+- Moonrunes
+}
+
+STRING 3388
+// Units: N00R (Avatar), Propernames (Proper Names)
+{
+Awatar Sargerasa
+}
+
+STRING 3390
+// Doodads: D01P (- Puddle 1), Name (Name)
+{
+- Puddle 1
+}
+
+STRING 3391
+// Destructibles: B00Q (Fel Fire), Name (Name)
+{
+Spaczony ogień
+}
+
+STRING 3392
+// Destructibles: B00K (- Stormreaver Grunt), Name (Name)
+{
+- Stormreaver Grunt
+}
+
+STRING 3393
+// Destructibles: B00L (- Stormreaver Warlock), Name (Name)
+{
+- Stormreaver Warlock
+}
+
+STRING 3394
+// Doodads: D01Q (Gore 1), Name (Name)
+{
+Gore 1
+}
+
+STRING 3395
+// Doodads: D01R (Gore 2), Name (Name)
+{
+Gore 2
+}
+
+STRING 3399
+// Units: n00K (Tomb Guard), Name (Name)
+{
+Strażnik grobowca
+}
+
+STRING 3400
+// Destructibles: B00M (Bookshelf), Name (Name)
+{
+Regał z księgami
+}
+
+STRING 3401
+// Units: n61B (서큐버스), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3402
+// Doodads: D017 (- Fey), Name (Name)
+{
+- Fey
+}
+
+STRING 3403
+// Units: h003 (Restless Priestess), Name (Name)
+{
+Niespokojna kapłanka
+}
+
+STRING 3404
+// Units: n00I (Restless Sentry), Name (Name)
+{
+Niespokojna wartowniczka
+}
+
+STRING 3405
+// Doodads: D01S (ToS Cliff 1), Name (Name)
+{
+ToS Cliff 1
+}
+
+STRING 3406
+// Doodads: D01T (ToS Cliff 2), Name (Name)
+{
+ToS Cliff 2
+}
+
+STRING 3407
+// Doodads: D01U (ToS Cliff 3), Name (Name)
+{
+ToS Cliff 3
+}
+
+STRING 3408
+// Doodads: D01V (ToS Cliff 4), Name (Name)
+{
+ToS Cliff 4
+}
+
+STRING 3409
+// Doodads: D01W (ToS Cliff 5), Name (Name)
+{
+ToS Cliff 5
+}
+
+STRING 3410
+// Doodads: D01X (ToS Cliff 6), Name (Name)
+{
+ToS Cliff 6
+}
+
+STRING 3411
+// Doodads: D01Y (ToS Cliff 7), Name (Name)
+{
+ToS Cliff 7
+}
+
+STRING 3412
+// Doodads: D01Z (ToS Cliff 8), Name (Name)
+{
+ToS Cliff 8
+}
+
+STRING 3413
+// Destructibles: B00N (- Stormreaver Ship), Name (Name)
+{
+- Stormreaver Ship
+}
+
+STRING 3414
+// Destructibles: B00O (- Lobster), Name (Name)
+{
+- Lobster
+}
+
+STRING 3415
+// Doodads: D020 (Acid), Name (Name)
+{
+Acid
+}
+
+STRING 3416
+// Doodads: D021 (Light From Aside Angled), Name (Name)
+{
+Light From Aside Angled
+}
+
+STRING 3417
+// Destructibles: B00P (- Stormreaver Ship 2), Name (Name)
+{
+- Stormreaver Ship 2
+}
+
+STRING 3418
+// Doodads: D022 (- Spiderweb 1), Name (Name)
+{
+- Spiderweb 1
+}
+
+STRING 3419
+// Doodads: D023 (- Spiderweb 2), Name (Name)
+{
+- Spiderweb 2
+}
+
+STRING 3420
+// Doodads: D024 (- Spiderweb 3), Name (Name)
+{
+- Spiderweb 3
+}
+
+STRING 3422
+// Doodads: D026 (- Light Night), Name (Name)
+{
+- Light Night
+}
+
+STRING 3423
+// Doodads: D027 (- Light Red), Name (Name)
+{
+- Light Red
+}
+
+STRING 3424
+// Doodads: D028 (- Light Green), Name (Name)
+{
+- Light Green
+}
+
+STRING 3425
+// Destructibles: B00J (Fel Fire), EditorSuffix (Editor Suffix)
+{
+1
+}
+
+STRING 3426
+// Destructibles: B00Q (Fel Fire), EditorSuffix (Editor Suffix)
+{
+2
+}
+
+STRING 3427
+// Doodads: D029 (- Fel Fire), Name (Name)
+{
+- Fel Fire
+}
+
+STRING 3429
+// Doodads: D02A (- Light Green New), Name (Name)
+{
+- Light Green New
+}
+
+STRING 3430
+// Doodads: D02B (- ToS Wall Straight (no path)), Name (Name)
+{
+- ToS Wall Straight (no path)
+}
+
+STRING 3431
+// Units: n00N (Unstable Portal), Name (Name)
+{
+Niestabilny portal
+}
+
+STRING 3432
+// Units: n00L (Faldorei Broodmother), Name (Name)
+{
+Matka lęgu fal’dorei
+}
+
+STRING 3433
+// Units: n00M (Tomb Stalker), Name (Name)
+{
+Czyhacz grobowca
+}
+
+STRING 3434
+// Units: n00H (Spider Eggs), Name (Name)
+{
+Pajęcze jaja
+}
+
+STRING 3435
+// Destructibles: B00R (Pathing Blocker (Ground) (Extra Large)), Name (Name)
+{
+Pathing Blocker (Ground) (Extra Large)
+}
+
+STRING 3436
+// Destructibles: B00S (Light Green), Name (Name)
+{
+Jasnozielony
+}
+
+STRING 3437
+// Destructibles: B00S (Light Green), EditorSuffix (Editor Suffix)
+{
+(Strong)
+}
+
+STRING 3438
+// Destructibles: B00T (Light Green), Name (Name)
+{
+Jasnozielony
+}
+
+STRING 3439
+// Destructibles: B00T (Light Green), EditorSuffix (Editor Suffix)
+{
+(Weak)
+}
+
+STRING 3440
+// Doodads: D02C (- Light Yellow), Name (Name)
+{
+- Jasnożółty
+}
+
+STRING 3441
+// Units: n00O (Tomb Crawler), Name (Name)
+{
+Pełzacz grobowca
+}
+
+STRING 3442
+// Abilities: ATSp (Spooders), Name (Name)
+{
+Pajączki
+}
+
+STRING 3443
+// Abilities: ATSp (Spooders), Tip (Tooltip - Normal)
+{
+Pajączki
+}
+
+STRING 3447
+// Destructibles: B00U (Urn), Name (Name)
+{
+Urna
+}
+
+STRING 3448
+// Destructibles: B00U (Urn), EditorSuffix (Editor Suffix)
+{
+(1)
+}
+
+STRING 3449
+// Destructibles: B00V (Urn), Name (Name)
+{
+Urna
+}
+
+STRING 3451
+// Destructibles: B00W (Urn), Name (Name)
+{
+Urna
+}
+
+STRING 3452
+// Destructibles: B00W (Urn), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 3457
+// Abilities: ADFr (Fel Ray Attack), Name (Name)
+{
+Spaczony Promień
+}
+
+STRING 3459
+// Units: u004 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Immolation)
+}
+
+STRING 3460
+// Units: n00Q (Pirate Den), Name (Name)
+{
+Kryjówka piratów
+}
+
+STRING 3461
+// Units: N00R (Avatar), Name (Name)
+{
+Awatar
+}
+
+STRING 3462
+// Abilities: ATDP (Dark Presence), Name (Name)
+{
+Mroczna Obecność
+}
+
+STRING 3466
+// Doodads: D02D (Light From Aside Angled 2), Name (Name)
+{
+Light From Aside Angled 2
+}
+
+STRING 3467
+// Doodads: D02E (Wall Banner Twilights Hammer), Name (Name)
+{
+Wall Banner Twilights Hammer
+}
+
+STRING 3468
+// Destructibles: B00X (- Felhunter), Name (Name)
+{
+- Felhunter
+}
+
+STRING 3469
+// Destructibles: B00Y (- Felguard), Name (Name)
+{
+- Felguard
+}
+
+STRING 3473
+// Doodads: D02F (- Light Purple), Name (Name)
+{
+- Light Purple
+}
+
+STRING 3474
+// Destructibles: B00Z (ToS Massive Gate), Name (Name)
+{
+ToS Massive Gate
+}
+
+STRING 3475
+// Doodads: D02G (ToS Statues (angle 2)), Name (Name)
+{
+ToS Statues (angle 2)
+}
+
+STRING 3476
+// Doodads: D02H (- Black), Name (Name)
+{
+- Black
+}
+
+STRING 3480
+// Doodads: D02I (ToS Stairs (Fake)), Name (Name)
+{
+ToS Stairs (Fake)
+}
+
+STRING 3481
+// Doodads: D02J (ToS Ramp), Name (Name)
+{
+ToS Ramp
+}
+
+STRING 3482
+// Doodads: D02K (ToS Wall (No Path)), Name (Name)
+{
+ToS Wall (No Path)
+}
+
+STRING 3483
+// Destructibles: B010 (Dome), Name (Name)
+{
+Kopuła
+}
+
+STRING 3484
+// Destructibles: B010 (Dome), EditorSuffix (Editor Suffix)
+{
+1
+}
+
+STRING 3485
+// Destructibles: B011 (Pathing Walkable), Name (Name)
+{
+Pathing Walkable
+}
+
+STRING 3487
+// Doodads: D02L (- Giant Chains 1), Name (Name)
+{
+- Giant Chains 1
+}
+
+STRING 3488
+// Doodads: D02M (- Giant Chains 2), Name (Name)
+{
+- Giant Chains 2
+}
+
+STRING 3489
+// Doodads: D02N (- Giant Chains 3), Name (Name)
+{
+- Giant Chains 3
+}
+
+STRING 3490
+// Units: H004 (Grand Magna), Propernames (Proper Names)
+{
+Egwina
+}
+
+STRING 3491
+// Units: n00J (Ner'zhul), Name (Name)
+{
+Ner'zhul
+}
+
+STRING 3492
+// Destructibles: B012 (-- TEST CHARACTER), Name (Name)
+{
+-- TEST CHARACTER
+}
+
+STRING 3493
+// Abilities: ACSF (Shadow FX), Name (Name)
+{
+Shadow FX
+}
+
+STRING 3494
+// Destructibles: B013 (Light Night), Name (Name)
+{
+Light Night
+}
+
+STRING 3495
+// Destructibles: B013 (Light Night), EditorSuffix (Editor Suffix)
+{
+(Strong)
+}
+
+STRING 3540
+// Items: I0Li (WC2Orc13Zuluhed_Runes2), Description (Description)
+{
+Potężny artefakt… co do tego nie ma wątpliwości. Może mieć związek z mocą upadłego tytana.
+}
+
+STRING 3544
+// Items: I0LN (WC2Orc13Rend_PirateEncounter1), Description (Description)
+{
+Ha, wilki morskie! Zawsze zwietrzą okazję! Niech będzie, przydadzą nam się posiłki.
+}
+
+STRING 3581
+{
+Fragmenty: |cffffffff10/10|r
+}
+
+STRING 3582
+{
+Fragmenty: |cffffffff9/10|r
+}
+
+STRING 3583
+{
+Fragmenty: |cffffffff8/10|r
+}
+
+STRING 3584
+{
+Fragmenty: |cffffffff7/10|r
+}
+
+STRING 3585
+{
+Fragmenty: |cffffffff6/10|r
+}
+
+STRING 3586
+{
+Fragmenty: |cffffffff5/10|r
+}
+
+STRING 3587
+{
+Fragmenty: |cffffffff4/10|r
+}
+
+STRING 3588
+{
+Fragmenty: |cffffffff3/10|r
+}
+
+STRING 3589
+{
+Fragmenty: |cffffffff2/10|r
+}
+
+STRING 3590
+{
+Fragmenty: |cffffffff1/10|r
+}
+
+STRING 3591
+{
+|cffffcc00MISJA NIEUDANA|r
+Jeden z bohaterów poległ.
+}
+
+STRING 3592
+{
+Znajdź fragmenty artefaktu
+}
+
+STRING 3593
+{
+|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r
+Tajemniczy artefakt
+}
+
+STRING 3606
+{
+Znajdź fragmenty artefaktu (znaleziono 3 z 10)
+}
+
+STRING 3608
+{
+Znajdź fragmenty artefaktu (znaleziono 2 z 10)
+}
+
+STRING 3609
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 2 z 10)
+}
+
+STRING 3610
+{
+|cffffcc00ZADANIE DODATKOWE|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 1 z 10)
+}
+
+STRING 3611
+{
+Tajemniczy artefakt
+}
+
+STRING 3612
+{
+Znalazłeś fragment pradawnego artefaktu o niezwykłej mocy. Czujesz, że jego historia splata się z losami tego miejsca.
+Zbierz wszystkie 10 fragmentów, a artefakt zyska na sile i odsłoni swą tajemnicę…
+}
+
+STRING 3613
+{
+Znajdź fragmenty artefaktu (znaleziono 1 z 10)
+}
+
+STRING 3620
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Ucieczka z grobowca
+}
+
+STRING 3621
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Ucieczka z grobowca
+}
+
+STRING 3622
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Ucieczka z grobowca
+  - Doprowadź Zuluheda do wejścia do grobowca
+  - Zuluhed musi przeżyć
+}
+
+STRING 3623
+{
+Grobowiec Sargerasa
+}
+
+STRING 3624
+{
+Demony w grobowcu przebudziły się i szykują do ataku. Czas ucieka. Zuluhed musi wykorzystać Dziki Skok, by dotrzeć na powierzchnię, zanim to miejsce stanie się także jego grobem.
+}
+
+STRING 3625
+{
+Doprowadź Zuluheda do wejścia do grobowca
+}
+
+STRING 3626
+{
+Zuluhed musi przeżyć
+}
+
+STRING 3627
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Poszukiwania Gul’dana
+}
+
+STRING 3628
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Poszukiwania Gul’dana
+  - Znajdź Gul’dana
+  - Bohaterowie muszą przeżyć
+}
+
+STRING 3629
+{
+Poszukiwania Gul’dana
+}
+
+STRING 3630
+{
+Nikczemne zamiary przywiodły Gul’dana w głąb Grobowca Sargerasa. Znajdź zdrajcę i odkryj, co knuje.
+}
+
+STRING 3631
+{
+Znajdź Gul’dana
+}
+
+STRING 3632
+{
+Bohaterowie muszą przeżyć
+}
+
+STRING 3633
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 3 z 10)
+}
+
+STRING 3634
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 4 z 10)
+}
+
+STRING 3635
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 5 z 10)
+}
+
+STRING 3636
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 6 z 10)
+}
+
+STRING 3637
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 7 z 10)
+}
+
+STRING 3638
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 8 z 10)
+}
+
+STRING 3639
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Tajemniczy artefakt
+  - Znajdź fragmenty artefaktu (znaleziono 9 z 10)
+}
+
+STRING 3640
+{
+Znajdź fragmenty artefaktu (znaleziono 4 z 10)
+}
+
+STRING 3641
+{
+Znajdź fragmenty artefaktu (znaleziono 5 z 10)
+}
+
+STRING 3642
+{
+Znajdź fragmenty artefaktu (znaleziono 6 z 10)
+}
+
+STRING 3643
+{
+Znajdź fragmenty artefaktu (znaleziono 7 z 10)
+}
+
+STRING 3644
+{
+Znajdź fragmenty artefaktu (znaleziono 8 z 10)
+}
+
+STRING 3645
+{
+Znajdź fragmenty artefaktu (znaleziono 9 z 10)
+}
+
+STRING 3654
+// Units: n00S (Pit Lord), Name (Name)
+{
+Lord Otchłani
+}
+
+STRING 3655
+{
+
+}
+
+STRING 3656
+{
+Strażnicy grobowca
+}
+
+STRING 3657
+{
+Niedobitki Rady Cieni
+}
+
+STRING 3658
+{
+Klan Młota Zmierzchu
+}
+
+STRING 3659
+{
+Duchy wysokourodzonych
+}
+
+STRING 3661
+{
+Pozostały czas
+}
+
+STRING 3666
+{
+|cffffcc00MISJA NIEUDANA|r
+
+}
+
+STRING 3669
+{
+Pokonaj Rakmara Ostrokła
+
+}
+
+STRING 3670
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Ucieczka z grobowca
+  - Pokonaj Rakmara Ostrokła
+  - Zuluhed musi przeżyć
+}
+
+STRING 3672
+// Units: U006 (죽음의 기사), Propernames (Proper Names)
+{
+Rakmar Ostrokieł
+}
+
+STRING 3675
+// Doodads: D01O (- Felhound), Name (Name)
+{
+- Felhound
+}
+
+STRING 3676
+// Doodads: D02O (- Tomb Guard), Name (Name)
+{
+- Tomb Guard
+}
+
+STRING 3678
+// Units: n00T (Gloomhound), Name (Name)
+{
+Mroczny ogar
+}
+
+STRING 3679
+// Units: n004 (Ancient Dragon Turtle), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3680
+// Abilities: AFS0 (Felstorm), Name (Name)
+{
+Spaczona Nawałnica
+}
+
+STRING 3681
+// Abilities: AFS0 (Felstorm), Tip (Tooltip - Normal)
+{
+Spaczona Nawałnica
+}
+
+STRING 3682
+// Abilities: AFS0 (Felstorm), Tip (Tooltip - Normal)
+{
+Spaczona Nawałnica
+}
+
+STRING 3683
+// Abilities: AFS0 (Felstorm), Tip (Tooltip - Normal)
+{
+Spaczona Nawałnica
+}
+
+STRING 3684
+// Abilities: AFS0 (Felstorm), Ubertip (Tooltip - Normal - Extended)
+{
+Tworzy wokół rzucającego niszczycielską nawałnicę ostrzy, która zapewnia mu odporność na magię i zadaje pobliskim naziemnym jednostkom wroga <AOww,DataA1> pkt. obrażeń na sekundę. |nTrwa <AOww,Dur1> s.
+}
+
+STRING 3685
+// Abilities: AFS0 (Felstorm), Ubertip (Tooltip - Normal - Extended)
+{
+Tworzy wokół rzucającego niszczycielską nawałnicę ostrzy, która zapewnia mu odporność na magię i zadaje pobliskim naziemnym jednostkom wroga <AOww,DataA1> pkt. obrażeń na sekundę. |nTrwa <AOww,Dur1> s.
+}
+
+STRING 3686
+// Units: n00U (Felhunter), Name (Name)
+{
+Spaczony tropiciel
+}
+
+STRING 3687
+// Units: n00U (Felhunter), EditorSuffix (Name - Editor Suffix)
+{
+(Escape)
+}
+
+STRING 3688
+// Units: n00E (Highborne Ghost), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3689
+// Units: n00K (Tomb Guard), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3691
+// Units: n00V (Felfire Elemental), EditorSuffix (Name - Editor Suffix)
+{
+(Zuluhed ToS Only)
+}
+
+STRING 3692
+// Abilities: ASFE (Summon Fel Fire Elemental), Name (Name)
+{
+Przyzwanie Żywiołaka Spaczonego Ognia
+}
+
+STRING 3693
+// Abilities: ASFE (Summon Fel Fire Elemental), EditorSuffix (Editor Suffix)
+{
+(Zuluhed ToS Only)
+}
+
+STRING 3694
+// Doodads: D025 (- ToS Rain (small)), Name (Name)
+{
+- ToS Rain (small)
+}
+
+STRING 3695
+// Doodads: D02P (- Puddle 2), Name (Name)
+{
+- Puddle 2
+}
+
+STRING 3696
+// Doodads: D02Q (- Puddle 1), Name (Name)
+{
+- Puddle 1
+}
+
+STRING 3697
+// Doodads: D02R (- Puddle 3), Name (Name)
+{
+- Puddle 3
+}
+
+STRING 3706
+// Units: n00V (Felfire Elemental), Name (Name)
+{
+Żywiołak spaczonego ognia
+}
+
+STRING 3712
+// Abilities: ARLD (생명력 흡수), EditorSuffix (Editor Suffix)
+{
+(Rakmar)
+}
+
+STRING 3713
+// Units: H004 (Grand Magna), Name (Name)
+{
+Wielka Magna
+}
+
+STRING 3714
+{
+Rytuał Łupieżców Burzy
+}
+
+STRING 3715
+// Units: n00H (Spider Eggs), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3716
+// Units: n00L (Faldorei Broodmother), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3717
+// Units: n00M (Tomb Stalker), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3718
+// Units: n00N (Unstable Portal), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3719
+// Units: n00O (Tomb Crawler), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3720
+// Units: n00P (Beholder), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3721
+// Units: n00Q (Pirate Den), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3722
+// Units: N00R (Avatar), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3723
+// Units: H004 (Grand Magna), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3724
+// Units: n00S (Pit Lord), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3725
+// Units: n00T (Gloomhound), EditorSuffix (Name - Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3726
+// Destructibles: DEGG (Egg), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3727
+// Destructibles: B00E (Suspicious Dirt Pile), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3728
+// Destructibles: B014 (Bookshelf), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3729
+// Abilities: ATFF (Rain of Felfire), Name (Name)
+{
+Deszcz Spaczonego Ognia
+}
+
+STRING 3730
+// Buffs/Effects: XRF0 (Rain of Felfire (Effect)), EditorName (Name (Editor Only))
+{
+Rain of Felfire (Effect)
+}
+
+STRING 3731
+// Buffs/Effects: B00K (), Bufftip (Tooltip)
+{
+Deszcz Spaczonego Ognia
+}
+
+STRING 3732
+// Buffs/Effects: B00K (), Buffubertip (Tooltip - Extended)
+{
+Jednostka została trafiona Deszczem Spaczonego Ognia i otrzymuje obrażenia rozłożone w czasie.
+}
+
+STRING 3733
+// Buffs/Effects: BRF9 (Rain of Felfire (Area)), EditorName (Name (Editor Only))
+{
+Rain of Felfire (Area)
+}
+
+STRING 3734
+// Destructibles: B00M (Bookshelf), EditorSuffix (Editor Suffix)
+{
+(ToS) old
+}
+
+STRING 3735
+// Destructibles: B014 (Bookshelf), Name (Name)
+{
+Regał z księgami
+}
+
+STRING 3736
+// Destructibles: B015 (Ceiling), Name (Name)
+{
+Ceiling
+}
+
+STRING 3739
+// Destructibles: B016 (Cinematic Wall), Name (Name)
+{
+Cinematic Wall
+}
+
+STRING 3740
+// Destructibles: B017 (Cinematic Column), Name (Name)
+{
+Cinematic Column
+}
+
+STRING 3741
+// Destructibles: B018 (Cinematic Archway), Name (Name)
+{
+Cinematic Archway
+}
+
+STRING 3749
+// Units: hVCu (Visibility Controller), Name (Name)
+{
+Kontroler widoczności
+}
+
+STRING 3750
+// Units: nct2 (Tent), Name (Name)
+{
+Namiot
+}
+
+STRING 3752
+{
+|cffffcc00MISJA NIEUDANA|r
+
+}
+
+STRING 3786
+// Abilities: A889 (Seduction), EditorSuffix (Editor Suffix)
+{
+(Succubus)
+}
+
+STRING 3787
+// Buffs/Effects: B99I (Dark Presence), EditorName (Name (Editor Only))
+{
+Mroczna Obecność
+}
+
+STRING 3788
+// Buffs/Effects: B99I (Dark Presence), Bufftip (Tooltip)
+{
+Mroczna Obecność
+}
+
+STRING 3789
+// Buffs/Effects: B99I (Dark Presence), Buffubertip (Tooltip - Extended)
+{
+Czujesz przytłaczającą mroczną obecność…
+}
+
+STRING 3790
+// Doodads: D00Z (Water Plane HD), Name (Name)
+{
+Water Plane HD
+}
+
+STRING 3791
+// Abilities: A889 (Seduction), Ubertip (Tooltip - Normal - Extended)
+{
+Uwodzi wskazaną jednostkę wroga, ogłuszając ją na <ACsl,Dur1> s. Atak przerywa działanie uroku.
+}
+
+STRING 3792
+// Buffs/Effects: BSND (), Bufftip (Tooltip)
+{
+Uwodzenie
+}
+
+STRING 3793
+// Buffs/Effects: BSND (), Buffubertip (Tooltip - Extended)
+{
+Jednostka jest uwiedziona. Nie może się poruszać, atakować ani rzucać zaklęć. Atak przerywa działanie uroku.
+}
+
+STRING 3794
+// Units: hVCu (Visibility Controller), EditorSuffix (Name - Editor Suffix)
+{
+Fixed
+}
+
+STRING 3795
+// Abilities: ATDP (Dark Presence), EditorSuffix (Editor Suffix)
+{
+(Fixed)
+}
+
+STRING 3796
+// Abilities: AFS0 (Felstorm), EditorSuffix (Editor Suffix)
+{
+(Demon)
+}
+
+STRING 3797
+// Abilities: ADFr (Fel Ray Attack), EditorSuffix (Editor Suffix)
+{
+(Beholder)
+}
+
+STRING 3798
+// Abilities: ATSp (Spooders), EditorSuffix (Editor Suffix)
+{
+(Fixed)
+}
+
+STRING 3799
+// Abilities: ATFF (Rain of Felfire), EditorSuffix (Editor Suffix)
+{
+(Fixed)
+}
+
+STRING 3800
+// Abilities: ACSF (Shadow FX), EditorSuffix (Editor Suffix)
+{
+(Fixed)
+}
+
+STRING 3801
+// Items: I0LB (WC2Orc13Maim_Shreds1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3802
+// Items: I0LA (WC2Orc13Maim1), Description (Description)
+{
+Dość gadania! Ta szumowina bez honoru musi za to zapłacić!
+}
+
+STRING 3803
+// Items: I0LA (WC2Orc13Maim1), Name (Name)
+{
+WC2Orc13Maim1
+}
+
+STRING 3804
+// Items: I0LC (WC2Orc13Maim1_SpiderBoss1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3805
+// Items: I0LB (WC2Orc13Maim_Shreds1), Description (Description)
+{
+Zrobiliśmy, co do nas należało! Musimy stąd uciekać, bracie!
+}
+
+STRING 3806
+// Items: I0LB (WC2Orc13Maim_Shreds1), Name (Name)
+{
+WC2Orc13Maim_Shreds1
+}
+
+STRING 3807
+// Items: I0LD (WC2Orc13Maim1_SpiderBoss2), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3808
+// Items: I0LC (WC2Orc13Maim1_SpiderBoss1), Description (Description)
+{
+Co… co to za stwór?! Zabijcie go! Szybko!
+}
+
+STRING 3809
+// Items: I0LC (WC2Orc13Maim1_SpiderBoss1), Name (Name)
+{
+WC2Orc13Maim1_SpiderBoss1
+}
+
+STRING 3810
+// Items: I0LE (WC2Orc13Maim1_SpidersTrigger1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3811
+// Items: I0LD (WC2Orc13Maim1_SpiderBoss2), Description (Description)
+{
+Mhhm...
+}
+
+STRING 3812
+// Items: I0LD (WC2Orc13Maim1_SpiderBoss2), Name (Name)
+{
+WC2Orc13Maim1_SpiderBoss2
+}
+
+STRING 3813
+// Items: I0LF (WC2Orc13Maim1_SpidersTrigger2), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3814
+// Items: I0LE (WC2Orc13Maim1_SpidersTrigger1), Description (Description)
+{
+Uch! Nienawidzę pająków! Wybijcie je, szybko!
+}
+
+STRING 3815
+// Items: I0LE (WC2Orc13Maim1_SpidersTrigger1), Name (Name)
+{
+WC2Orc13Maim1_SpidersTrigger1
+}
+
+STRING 3817
+// Items: I0LF (WC2Orc13Maim1_SpidersTrigger2), Description (Description)
+{
+Ugh...
+}
+
+STRING 3818
+// Items: I0LF (WC2Orc13Maim1_SpidersTrigger2), Name (Name)
+{
+WC2Orc13Maim1_SpidersTrigger2
+}
+
+STRING 3819
+// Items: I0LG (WC2Orc13Rend1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3820
+// Items: I0LG (WC2Orc13Rend1), Description (Description)
+{
+W życiu stawiłem czoła wielu potężnym wrogom, Zuluhedzie. Ogrom, arakkoa… raz nawet genesaurowi. Żaden mnie nie powstrzymał… Ale to, co czeka na nas tam, w dole…
+}
+
+STRING 3821
+// Items: I0LG (WC2Orc13Rend1), Name (Name)
+{
+WC2Orc13Rend1
+}
+
+STRING 3822
+// Items: I0LH (WC2Orc13Rend2), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3823
+// Items: I0LH (WC2Orc13Rend2), Description (Description)
+{
+Racja. Niewiele jest rzeczy, które potrafią wycisnąć z orka taki krzyk… To… to nie jest naturalne…
+}
+
+STRING 3824
+// Items: I0LH (WC2Orc13Rend2), Name (Name)
+{
+WC2Orc13Rend2
+}
+
+STRING 3825
+// Items: I0LI (WC2Orc13Rend_Shreds1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3826
+// Items: I0LI (WC2Orc13Rend_Shreds1), Description (Description)
+{
+Czarnoksiężnika rozszarpano na strzępy! A jego zabójca zwrócił na siebie uwagę wszystkich demonów w tym miejscu! Nadchodzą!
+}
+
+STRING 3827
+// Items: I0LI (WC2Orc13Rend_Shreds1), Name (Name)
+{
+WC2Orc13Rend_Shreds1
+}
+
+STRING 3828
+// Items: I0LJ (WC2Orc13Rend_GrabHead1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3829
+// Items: I0LJ (WC2Orc13Rend_GrabHead1), Description (Description)
+{
+Proszę bardzo, Zuluhedzie… Bierz ją i ruszajmy!
+}
+
+STRING 3830
+// Items: I0LJ (WC2Orc13Rend_GrabHead1), Name (Name)
+{
+WC2Orc13Rend_GrabHead1
+}
+
+STRING 3831
+// Items: I0LK (WC2Orc13Rend_Farewell1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3832
+// Items: I0LK (WC2Orc13Rend_Farewell1), Description (Description)
+{
+Cholera! Zuluhedzie! Nie możemy do ciebie dotrzeć! Ale widzę tunel, który może prowadzić do wyjścia!
+}
+
+STRING 3833
+// Items: I0LK (WC2Orc13Rend_Farewell1), Name (Name)
+{
+WC2Orc13Rend_Farewell1
+}
+
+STRING 3834
+// Items: I0LL (WC2Orc13Rend_Farewell2), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3835
+// Items: I0LL (WC2Orc13Rend_Farewell2), Description (Description)
+{
+Dobrze… Zuluhedzie. Aka’magosh! Do zobaczenia na powierzchni!
+}
+
+STRING 3836
+// Items: I0LL (WC2Orc13Rend_Farewell2), Name (Name)
+{
+WC2Orc13Rend_Farewell2
+}
+
+STRING 3837
+// Items: I0LM (WC2Orc13Rend_OrcScreams1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3838
+// Items: I0LM (WC2Orc13Rend_OrcScreams1), Description (Description)
+{
+Żałosne parszywe psy… Tak kończą ci, którzy idą za oszalałym, żądnym władzy czarnoksiężnikiem…
+}
+
+STRING 3839
+// Items: I0LM (WC2Orc13Rend_OrcScreams1), Name (Name)
+{
+WC2Orc13Rend_OrcScreams1
+}
+
+STRING 3840
+// Items: I0LN (WC2Orc13Rend_PirateEncounter1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3842
+// Items: I0LN (WC2Orc13Rend_PirateEncounter1), Name (Name)
+{
+WC2Orc13Rend_PirateEncounter1
+}
+
+STRING 3843
+// Items: I0LO (WC2Orc13Rend_Rune1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3844
+// Items: I0LO (WC2Orc13Rend_Rune1), Description (Description)
+{
+Znów wspomniał o tym tajemniczym oku. Czym ono może być?
+}
+
+STRING 3845
+// Items: I0LO (WC2Orc13Rend_Rune1), Name (Name)
+{
+WC2Orc13Rend_Rune1
+}
+
+STRING 3846
+// Items: I0LP (WC2Orc13Rend_SpidersTrigger1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3847
+// Items: I0LP (WC2Orc13Rend_SpidersTrigger1), Description (Description)
+{
+Spójrz, bracie! Znowu pająki do ubicia!
+}
+
+STRING 3848
+// Items: I0LP (WC2Orc13Rend_SpidersTrigger1), Name (Name)
+{
+WC2Orc13Rend_SpidersTrigger1
+}
+
+STRING 3849
+// Items: I0LQ (WC2Orc13Rend_THammer1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3850
+// Items: I0LQ (WC2Orc13Rend_THammer1), Description (Description)
+{
+Opamiętaj się, wściekły psie! Nie jesteśmy demonami!
+}
+
+STRING 3851
+// Items: I0LQ (WC2Orc13Rend_THammer1), Name (Name)
+{
+WC2Orc13Rend_THammer1
+}
+
+STRING 3852
+// Items: I0LR (WC2Orc13Rend_WarlockServants1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3853
+// Items: I0LR (WC2Orc13Rend_WarlockServants1), Description (Description)
+{
+Słudzy czarnoksiężnika! Zabić ich wszystkich!
+}
+
+STRING 3854
+// Items: I0LR (WC2Orc13Rend_WarlockServants1), Name (Name)
+{
+WC2Orc13Rend_WarlockServants1
+}
+
+STRING 3855
+// Items: I0LS (WC2Orc13Zuluhed1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3856
+// Items: I0LS (WC2Orc13Zuluhed1), Description (Description)
+{
+Co się dzieje? Wyglądasz na niespokojnego…
+}
+
+STRING 3857
+// Items: I0LS (WC2Orc13Zuluhed1), Name (Name)
+{
+WC2Orc13Zuluhed1
+}
+
+STRING 3858
+// Items: I0LT (WC2Orc13Zuluhed2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3859
+// Items: I0LT (WC2Orc13Zuluhed2), Description (Description)
+{
+Nie ma wstydu w lęku przed tym, co nienaturalne, Rwiju. Pamiętaj, że wspólnie stawimy czoła grozie tego miejsca. Cokolwiek się stanie, nie zostaniesz sam.
+}
+
+STRING 3860
+// Items: I0LT (WC2Orc13Zuluhed2), Name (Name)
+{
+WC2Orc13Zuluhed2
+}
+
+STRING 3861
+// Items: I0LU (WC2Orc13Zuluhed3), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3862
+// Items: I0LU (WC2Orc13Zuluhed3), Description (Description)
+{
+Hmm… Orcze runy. Gul’dan najwyraźniej zostawił je, by odnaleźć drogę powrotną.
+}
+
+STRING 3863
+// Items: I0LU (WC2Orc13Zuluhed3), Name (Name)
+{
+WC2Orc13Zuluhed3
+}
+
+STRING 3864
+// Items: I0LV (WC2Orc13Zuluhed4), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3865
+// Items: I0LV (WC2Orc13Zuluhed4), Description (Description)
+{
+Ciekawe… Opisuje tu swoje przybycie do grobowca…
+}
+
+STRING 3866
+// Items: I0LV (WC2Orc13Zuluhed4), Name (Name)
+{
+WC2Orc13Zuluhed4
+}
+
+STRING 3867
+// Items: I0LW (WC2Orc13Zuluhed5), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3868
+// Items: I0LW (WC2Orc13Zuluhed5), Description (Description)
+{
+Nie wiemy, jakie moce Gul’dan i jego sługusy obudzili w tym miejscu. Zachowajmy ostrożność.
+}
+
+STRING 3869
+// Items: I0LW (WC2Orc13Zuluhed5), Name (Name)
+{
+WC2Orc13Zuluhed5
+}
+
+STRING 3870
+// Items: I0LX (WC2Orc13Zuluhed_GrabHead1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3871
+// Items: I0LX (WC2Orc13Zuluhed_GrabHead1), Description (Description)
+{
+Czekajcie! Wódz kazał nam przynieść głowę Gul’dana. Inaczej nam nie uwierzy!
+}
+
+STRING 3872
+// Items: I0LX (WC2Orc13Zuluhed_GrabHead1), Name (Name)
+{
+WC2Orc13Zuluhed_GrabHead1
+}
+
+STRING 3873
+// Items: I0LY (WC2Orc13Zuluhed_GrabHead2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3874
+// Items: I0LY (WC2Orc13Zuluhed_GrabHead2), Description (Description)
+{
+Niech wiatr cię prowadzi, Rwiju. Sam znajdę drogę na powierzchnię!
+}
+
+STRING 3875
+// Items: I0LY (WC2Orc13Zuluhed_GrabHead2), Name (Name)
+{
+WC2Orc13Zuluhed_GrabHead2
+}
+
+STRING 3876
+// Items: I0LZ (WC2Orc13Zuluhed_RakmarEncounter1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3877
+// Items: I0LZ (WC2Orc13Zuluhed_RakmarEncounter1), Description (Description)
+{
+Było blisko. Chyba zgubiły mój trop.
+}
+
+STRING 3878
+// Items: I0LZ (WC2Orc13Zuluhed_RakmarEncounter1), Name (Name)
+{
+WC2Orc13Zuluhed_RakmarEncounter1
+}
+
+STRING 3879
+// Items: I0La (WC2Orc13Zuluhed_RakmarEncounter2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3880
+// Items: I0La (WC2Orc13Zuluhed_RakmarEncounter2), Description (Description)
+{
+Rakmar? Rakmar Ostrokieł? Niemal cię nie poznałem!
+}
+
+STRING 3881
+// Items: I0La (WC2Orc13Zuluhed_RakmarEncounter2), Name (Name)
+{
+WC2Orc13Zuluhed_RakmarEncounter2
+}
+
+STRING 3882
+// Items: I0Lb (WC2Orc13Zuluhed_RakmarEncounter3), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3883
+// Items: I0Lb (WC2Orc13Zuluhed_RakmarEncounter3), Description (Description)
+{
+Twój pan nie żyje, rycerzu śmierci! Zabiły go te same moce, którym przysiągł służyć… Oto jego głowa!
+}
+
+STRING 3884
+// Items: I0Lb (WC2Orc13Zuluhed_RakmarEncounter3), Name (Name)
+{
+WC2Orc13Zuluhed_RakmarEncounter3
+}
+
+STRING 3885
+// Items: I0Lc (WC2Orc13Zuluhed_RakmarEncounter4), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3886
+// Items: I0Lc (WC2Orc13Zuluhed_RakmarEncounter4), Description (Description)
+{
+Winieneś wierność Hordzie. Podporządkuj się jej albo giń!
+}
+
+STRING 3887
+// Items: I0Lc (WC2Orc13Zuluhed_RakmarEncounter4), Name (Name)
+{
+WC2Orc13Zuluhed_RakmarEncounter4
+}
+
+STRING 3888
+// Items: I0Ld (WC2Orc13Zuluhed_Final1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3889
+// Items: I0Ld (WC2Orc13Zuluhed_Final1), Description (Description)
+{
+Oby to miejsce obróciło się w gruzy i na zawsze zniknęło w morskich głębinach…
+}
+
+STRING 3890
+// Items: I0Ld (WC2Orc13Zuluhed_Final1), Name (Name)
+{
+WC2Orc13Zuluhed_Final1
+}
+
+STRING 3891
+// Items: I0Le (WC2Orc13Zuluhed_GhostElves1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3892
+// Items: I0Le (WC2Orc13Zuluhed_GhostElves1), Description (Description)
+{
+To muszą być duchy tych, którzy niegdyś zamieszkiwali te ziemie… Istotnie, wyglądają na elfy. Fascynujące! Miejcie się na baczności… Te niespokojne duchy łakną zemsty.
+}
+
+STRING 3893
+// Items: I0Le (WC2Orc13Zuluhed_GhostElves1), Name (Name)
+{
+WC2Orc13Zuluhed_GhostElves1
+}
+
+STRING 3894
+// Items: I0Lf (WC2Orc13Zuluhed_GuldanLocation1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3895
+// Items: I0Lf (WC2Orc13Zuluhed_GuldanLocation1), Description (Description)
+{
+Słyszę głos za bramą… To Gul’dan!
+}
+
+STRING 3896
+// Items: I0Lf (WC2Orc13Zuluhed_GuldanLocation1), Name (Name)
+{
+WC2Orc13Zuluhed_GuldanLocation1
+}
+
+STRING 3897
+// Items: I0Lg (WC2Orc13Zuluhed_Run1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3898
+// Items: I0Lg (WC2Orc13Zuluhed_Run1), Description (Description)
+{
+Nie zdołam pokonać tych oszalałych demonów! Muszę natychmiast wydostać się na powierzchnię!
+}
+
+STRING 3899
+// Items: I0Lg (WC2Orc13Zuluhed_Run1), Name (Name)
+{
+WC2Orc13Zuluhed_Run1
+}
+
+STRING 3900
+// Items: I0Lh (WC2Orc13Zuluhed_Runes1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3901
+// Items: I0Lh (WC2Orc13Zuluhed_Runes1), Description (Description)
+{
+Więcej run… Powinny doprowadzić nas do niego!
+}
+
+STRING 3902
+// Items: I0Lh (WC2Orc13Zuluhed_Runes1), Name (Name)
+{
+WC2Orc13Zuluhed_Runes1
+}
+
+STRING 3903
+// Items: I0Li (WC2Orc13Zuluhed_Runes2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3905
+// Items: I0Li (WC2Orc13Zuluhed_Runes2), Name (Name)
+{
+WC2Orc13Zuluhed_Runes2
+}
+
+STRING 3906
+// Items: I0Lj (WC2Orc13Zuluhed_SpiderBossKilled1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3907
+// Items: I0Lj (WC2Orc13Zuluhed_SpiderBossKilled1), Description (Description)
+{
+Ciężka walka… Szarpie? Wszystko w porządku, wielkoludzie?
+}
+
+STRING 3908
+// Items: I0Lj (WC2Orc13Zuluhed_SpiderBossKilled1), Name (Name)
+{
+WC2Orc13Zuluhed_SpiderBossKilled1
+}
+
+STRING 3909
+// Items: I0Lk (WC2Orc13Zuluhed_Staff1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3910
+// Items: I0Lk (WC2Orc13Zuluhed_Staff1), Description (Description)
+{
+To fragment kostura. Emanuje magiczną mocą… Wezmę go.
+}
+
+STRING 3911
+// Items: I0Lk (WC2Orc13Zuluhed_Staff1), Name (Name)
+{
+WC2Orc13Zuluhed_Staff1
+}
+
+STRING 3912
+// Items: I0Ll (WC2Orc13Zuluhed_Staff2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3913
+// Items: I0Ll (WC2Orc13Zuluhed_Staff2), Description (Description)
+{
+Nareszcie! Ostatni fragment kostura! Artefakt Strażniczki dobrze nam posłuży.
+}
+
+STRING 3914
+// Items: I0Ll (WC2Orc13Zuluhed_Staff2), Name (Name)
+{
+WC2Orc13Zuluhed_Staff2
+}
+
+STRING 3915
+// Items: I0Lm (WC2Orc13Zuluhed_Vision1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3916
+// Items: I0Lm (WC2Orc13Zuluhed_Vision1), Description (Description)
+{
+Ach… Wizja… Potężna Strażniczka tego świata… Pokonała upadłego tytana… Rozbiła swój kostur, gdy pieczętowała grobowiec!
+}
+
+STRING 3917
+// Items: I0Lm (WC2Orc13Zuluhed_Vision1), Name (Name)
+{
+WC2Orc13Zuluhed_Vision1
+}
+
+STRING 3918
+// Items: I0Ln (WC2Orc13Guldan1), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3919
+// Items: I0Ln (WC2Orc13Guldan1), Description (Description)
+{
+Nareszcie! Wreszcie otrzymam należną mi nagrodę!
+}
+
+STRING 3920
+// Items: I0Ln (WC2Orc13Guldan1), Name (Name)
+{
+WC2Orc13Guldan1
+}
+
+STRING 3921
+// Items: I0Lo (WC2Orc13Guldan2), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3922
+// Items: I0Lo (WC2Orc13Guldan2), Description (Description)
+{
+Kto tam?! Sargerasie? To ty?!
+}
+
+STRING 3923
+// Items: I0Lo (WC2Orc13Guldan2), Name (Name)
+{
+WC2Orc13Guldan2
+}
+
+STRING 3924
+// Items: I0Lp (WC2Orc13Guldan3), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3925
+// Items: I0Lp (WC2Orc13Guldan3), Description (Description)
+{
+Ty?! Przecież widziałem twoją śmierć!
+}
+
+STRING 3926
+// Items: I0Lp (WC2Orc13Guldan3), Name (Name)
+{
+WC2Orc13Guldan3
+}
+
+STRING 3927
+// Items: I0Lq (WC2Orc13Guldan4), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3928
+// Items: I0Lq (WC2Orc13Guldan4), Description (Description)
+{
+To bez znaczenia… Patrz, mizerny magu, jak odnoszę największy triumf. Lecz jeśli staniesz mi na drodze… z rozkoszą znów oddam cię w objęcia śmierci!
+}
+
+STRING 3929
+// Items: I0Lq (WC2Orc13Guldan4), Name (Name)
+{
+WC2Orc13Guldan4
+}
+
+STRING 3930
+// Items: I0Lr (WC2Orc13Guldan5), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3931
+// Items: I0Lr (WC2Orc13Guldan5), Description (Description)
+{
+Żałosny?! Zaraz pokażę ci, co znaczy…
+}
+
+STRING 3932
+// Items: I0Lr (WC2Orc13Guldan5), Name (Name)
+{
+WC2Orc13Guldan5
+}
+
+STRING 3933
+// Items: I0Ls (WC2Orc13Guldan6), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3934
+// Items: I0Ls (WC2Orc13Guldan6), Description (Description)
+{
+Zgładziciel? Ale nie rozum…
+}
+
+STRING 3935
+// Items: I0Ls (WC2Orc13Guldan6), Name (Name)
+{
+WC2Orc13Guldan6
+}
+
+STRING 3936
+// Items: I0Lt (WC2Orc13Visage_Guldan1), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3937
+// Items: I0Lt (WC2Orc13Visage_Guldan1), Description (Description)
+{
+Zapomniałeś, kim byłeś, Gul’danie? Wątłym słabeuszem, psem swego klanu. Ja nie zapomniałem, mały czarnoksiężniku. Zawsze byłeś tylko tym… słabeuszem!
+}
+
+STRING 3938
+// Items: I0Lt (WC2Orc13Visage_Guldan1), Name (Name)
+{
+WC2Orc13Visage_Guldan1
+}
+
+STRING 3939
+// Items: I0Lu (WC2Orc13Guldan7), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3940
+// Items: I0Lu (WC2Orc13Guldan7), Description (Description)
+{
+Nie… Ja… ja…
+}
+
+STRING 3941
+// Items: I0Lu (WC2Orc13Guldan7), Name (Name)
+{
+WC2Orc13Guldan7
+}
+
+STRING 3942
+// Items: I0Lv (WC2Orc13Guldan8), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3943
+// Items: I0Lv (WC2Orc13Guldan8), Description (Description)
+{
+Nie… To niemożliwe…
+}
+
+STRING 3944
+// Items: I0Lv (WC2Orc13Guldan8), Name (Name)
+{
+WC2Orc13Guldan8
+}
+
+STRING 3945
+// Items: I0Lw (WC2Orc13Guldan9), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3946
+// Items: I0Lw (WC2Orc13Guldan9), Description (Description)
+{
+Ja… jestem… twym pokornym sługą, potężny Sargerasie! Tak, przybyłem zerwać twe okowy… Jestem wysłannikiem spoza tego świata… Wszyscy poznają twą chwałę! A razem…
+}
+
+STRING 3947
+// Items: I0Lw (WC2Orc13Guldan9), Name (Name)
+{
+WC2Orc13Guldan9
+}
+
+STRING 3948
+// Items: I0Lx (WC2Orc13Guldan10), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3949
+// Items: I0Lx (WC2Orc13Guldan10), Description (Description)
+{
+Ależ mistrzu! Błagam! Wypełniłem wszystkie twe rozkazy!
+}
+
+STRING 3950
+// Items: I0Lx (WC2Orc13Guldan10), Name (Name)
+{
+WC2Orc13Guldan10
+}
+
+STRING 3951
+// Items: I0Ly (WC2Orc13Guldan11), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3952
+// Items: I0Ly (WC2Orc13Guldan11), Description (Description)
+{
+Nie! Jestem Gul’dan! Jestem wcieleniem ciemności… To nie może się skończyć… w ten sposób…
+}
+
+STRING 3953
+// Items: I0Ly (WC2Orc13Guldan11), Name (Name)
+{
+WC2Orc13Guldan11
+}
+
+STRING 3954
+// Items: I0Lz (WC2Orc13Sargeras1), Tip (Tooltip - Basic)
+{
+Tajemniczy głos
+}
+
+STRING 3955
+// Items: I0Lz (WC2Orc13Sargeras1), Description (Description)
+{
+Gul’danie…
+}
+
+STRING 3956
+// Items: I0Lz (WC2Orc13Sargeras1), Name (Name)
+{
+WC2Orc13Sargeras1
+}
+
+STRING 3957
+// Items: I1LA (WC2Orc13Sargeras2), Tip (Tooltip - Basic)
+{
+Sargeras
+}
+
+STRING 3958
+// Items: I1LA (WC2Orc13Sargeras2), Description (Description)
+{
+Bezczelny robaku! Śmiesz przysięgać mi wierność w chwili swej największej klęski?! Uwolniłem się, gdy tylko wkroczyłeś do tego grobowca, słabeuszu. Patrz teraz na potęgę zagłady wyzwolonej z oków!
+}
+
+STRING 3959
+// Items: I1LA (WC2Orc13Sargeras2), Name (Name)
+{
+WC2Orc13Sargeras2
+}
+
+STRING 3960
+// Items: I1LB (WC2Orc13Sargeras3), Tip (Tooltip - Basic)
+{
+Sargeras
+}
+
+STRING 3961
+// Items: I1LB (WC2Orc13Sargeras3), Description (Description)
+{
+Tak tchórzliwy… tak nędzny! Staniesz się strawą dla płomienia, nad którym niegdyś panowałeś! Niech twoje zwęglone szczątki posłużą naprawieniu tego, co zniweczyłeś!
+}
+
+STRING 3962
+// Items: I1LB (WC2Orc13Sargeras3), Name (Name)
+{
+WC2Orc13Sargeras3
+}
+
+STRING 3963
+// Items: I1LC (WC2Orc13Visage_Medivh1), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3965
+// Items: I1LC (WC2Orc13Visage_Medivh1), Name (Name)
+{
+WC2Orc13Visage_Medivh1
+}
+
+STRING 3966
+// Items: I1LD (WC2Orc13Visage_Medivh2), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3967
+// Items: I1LD (WC2Orc13Visage_Medivh2), Description (Description)
+{
+Och, głupie, żałosne stworzenie… Tak wiele jeszcze nie wiesz. Tak wiele nie rozumiesz.
+}
+
+STRING 3968
+// Items: I1LD (WC2Orc13Visage_Medivh2), Name (Name)
+{
+WC2Orc13Visage_Medivh2
+}
+
+STRING 3969
+// Items: I1LE (WC2Orc13Visage_Medivh3a), Tip (Tooltip - Basic)
+{
+Medivh
+}
+
+STRING 3971
+// Items: I1LE (WC2Orc13Visage_Medivh3a), Name (Name)
+{
+WC2Orc13Visage_Medivh3a
+}
+
+STRING 3972
+// Items: I1LF (WC2Orc13Visage_Doomhammer1), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3973
+// Items: I1LF (WC2Orc13Visage_Doomhammer1), Description (Description)
+{
+Zdradziecka szumowino! Nigdy nie byłeś wierny nikomu prócz siebie. Pycha cię zaślepiła i uczyniła bezbronnym wobec tych, którzy naprawdę cię przewyższają!
+}
+
+STRING 3974
+// Items: I1LF (WC2Orc13Visage_Doomhammer1), Name (Name)
+{
+WC2Orc13Visage_Doomhammer1
+}
+
+STRING 3975
+// Items: I1LG (WC2Orc13Visage_Nerzhul1), Tip (Tooltip - Basic)
+{
+Ner'zhul
+}
+
+STRING 3976
+// Items: I1LG (WC2Orc13Visage_Nerzhul1), Description (Description)
+{
+Wydałeś swój lud demonom… tylko po to, by skończyć w hańbie i poniżeniu!
+}
+
+STRING 3977
+// Items: I1LG (WC2Orc13Visage_Nerzhul1), Name (Name)
+{
+WC2Orc13Visage_Nerzhul1
+}
+
+STRING 3978
+// Items: I1LH (WC2Orc13Visage_Awegynn1), Tip (Tooltip - Basic)
+{
+Egwina
+}
+
+STRING 3980
+// Items: I1LH (WC2Orc13Visage_Awegynn1), Name (Name)
+{
+WC2Orc13Visage_Awegynn1
+}
+
+STRING 3981
+// Items: I1LI (WC2Orc13Visage_Awegynn2), Tip (Tooltip - Basic)
+{
+Egwina
+}
+
+STRING 3982
+// Items: I1LI (WC2Orc13Visage_Awegynn2), Description (Description)
+{
+Kiedy go powaliłam, jego plugawa esencja przeniknęła do mojej duszy… Niczym nieświęty pasożyt, który pożerał mnie powoli, aż skaził moje łono i moje dziecko…
+}
+
+STRING 3983
+// Items: I1LI (WC2Orc13Visage_Awegynn2), Name (Name)
+{
+WC2Orc13Visage_Awegynn2
+}
+
+STRING 3984
+// Items: I1LJ (WC2Orc13Rakmar_Encounter1), Tip (Tooltip - Basic)
+{
+Rakmar Ostrokieł
+}
+
+STRING 3985
+// Items: I1LJ (WC2Orc13Rakmar_Encounter1), Description (Description)
+{
+Nigdzie nie pójdziesz… Zuluhedzie.
+}
+
+STRING 3986
+// Items: I1LJ (WC2Orc13Rakmar_Encounter1), Name (Name)
+{
+WC2Orc13Rakmar_Encounter1
+}
+
+STRING 3987
+// Items: I1LK (WC2Orc13Rakmar_Encounter2), Tip (Tooltip - Basic)
+{
+Rakmar Ostrokieł
+}
+
+STRING 3988
+// Items: I1LK (WC2Orc13Rakmar_Encounter2), Description (Description)
+{
+Narodziłem się na nowo, szamanie! Mam teraz moc, jakiej nie potrafisz sobie nawet wyobrazić. Chwała darowi Gul’dana!
+}
+
+STRING 3989
+// Items: I1LK (WC2Orc13Rakmar_Encounter2), Name (Name)
+{
+WC2Orc13Rakmar_Encounter2
+}
+
+STRING 3990
+// Items: I1LL (WC2Orc13Rakmar_Encounter3), Tip (Tooltip - Basic)
+{
+Rakmar Ostrokieł
+}
+
+STRING 3991
+// Items: I1LL (WC2Orc13Rakmar_Encounter3), Description (Description)
+{
+Taka jest cena potęgi! Poprowadzę ocalałych Łupieżców Burzy ku nowej chwale!
+}
+
+STRING 3992
+// Items: I1LL (WC2Orc13Rakmar_Encounter3), Name (Name)
+{
+WC2Orc13Rakmar_Encounter3
+}
+
+STRING 3993
+// Items: I1LM (WC2Orc13Rakmar_Encounter4), Tip (Tooltip - Basic)
+{
+Rakmar Ostrokieł
+}
+
+STRING 3994
+// Items: I1LM (WC2Orc13Rakmar_Encounter4), Description (Description)
+{
+Sam wybieram, komu służę, szamanie! Chodź więc… Pokaż, na co cię stać!
+}
+
+STRING 3995
+// Items: I1LM (WC2Orc13Rakmar_Encounter4), Name (Name)
+{
+WC2Orc13Rakmar_Encounter4
+}
+
+STRING 3996
+// Items: I1LN (WC2Orc13Rakmar_death1), Tip (Tooltip - Basic)
+{
+Rakmar Ostrokieł
+}
+
+STRING 3997
+// Items: I1LN (WC2Orc13Rakmar_death1), Description (Description)
+{
+Oddaję… mą duszę… mrocznym panom.
+}
+
+STRING 3998
+// Items: I1LN (WC2Orc13Rakmar_death1), Name (Name)
+{
+WC2Orc13Rakmar_death1
+}
+
+STRING 3999
+// Items: I1LO (WC2Orc13Fanatic_THammer1), Tip (Tooltip - Basic)
+{
+Fanatyk
+}
+
+STRING 4000
+// Items: I1LO (WC2Orc13Fanatic_THammer1), Description (Description)
+{
+Bracia! Słudzy Otchłani powrócili!
+}
+
+STRING 4001
+// Items: I1LO (WC2Orc13Fanatic_THammer1), Name (Name)
+{
+WC2Orc13Fanatic_THammer1
+}
+
+STRING 4002
+// Items: I1LP (WC2Orc13Fanatic_THammer3), Tip (Tooltip - Basic)
+{
+Fanatyk
+}
+
+STRING 4003
+// Items: I1LP (WC2Orc13Fanatic_THammer3), Description (Description)
+{
+Pomioty demonów! Wasza krucjata nie oprze się wszechpochłaniającej Pustce!
+}
+
+STRING 4004
+// Items: I1LP (WC2Orc13Fanatic_THammer3), Name (Name)
+{
+WC2Orc13Fanatic_THammer3
+}
+
+STRING 4005
+// Items: I1LQ (WC2Orc13GruntPirate_Encounter1), Tip (Tooltip - Basic)
+{
+Orczy pirat
+}
+
+STRING 4006
+// Items: I1LQ (WC2Orc13GruntPirate_Encounter1), Description (Description)
+{
+Ej, wy tam! Podzielcie się znalezionymi tu skarbami, a będziemy dla was walczyć!
+}
+
+STRING 4007
+// Items: I1LQ (WC2Orc13GruntPirate_Encounter1), Name (Name)
+{
+WC2Orc13GruntPirate_Encounter1
+}
+
+STRING 4008
+// Items: I1LR (ToSFaldoreiQueen1), Tip (Tooltip - Basic)
+{
+Królowa fal’dorei
+}
+
+STRING 4009
+// Items: I1LR (ToSFaldoreiQueen1), Description (Description)
+{
+Ach… Dar godny królowej.
+}
+
+STRING 4010
+// Items: I1LR (ToSFaldoreiQueen1), Name (Name)
+{
+ToSFaldoreiQueen1
+}
+
+STRING 4011
+// Items: I1LS (ToSFaldoreiQueen2), Tip (Tooltip - Basic)
+{
+Królowa fal’dorei
+}
+
+STRING 4012
+// Items: I1LS (ToSFaldoreiQueen2), Description (Description)
+{
+Chodźcie, moje dzieci! Ucztujcie na ich kościach!
+}
+
+STRING 4013
+// Items: I1LS (ToSFaldoreiQueen2), Name (Name)
+{
+ToSFaldoreiQueen2
+}
+
+STRING 4014
+// Items: I1LT (ToSFaldoreiQueen3), Tip (Tooltip - Basic)
+{
+Królowa fal’dorei
+}
+
+STRING 4015
+// Items: I1LT (ToSFaldoreiQueen3), Description (Description)
+{
+Hngh… Mój skarb… coraz cięższy…
+}
+
+STRING 4016
+// Items: I1LT (ToSFaldoreiQueen3), Name (Name)
+{
+ToSFaldoreiQueen3
+}
+
+STRING 4017
+// Items: I1LU (S03OverlordOne10), Tip (Tooltip - Basic)
+{
+Lord Otchłani
+}
+
+STRING 4018
+// Items: I1LU (S03OverlordOne10), Description (Description)
+{
+Zawróćcie, śmiertelniczki! Nie zbezcześcicie Grobowca Sargerasa!
+}
+
+STRING 4019
+// Items: I1LU (S03OverlordOne10), Name (Name)
+{
+S03OverlordOne10
+}
+
+STRING 4020
+// Items: I1LC (WC2Orc13Visage_Medivh1), Description (Description)
+{
+Czy zdrada Kil’jaedena niczego cię nie nauczyła, mały orku?
+}
+
+STRING 4021
+// Items: I1LE (WC2Orc13Visage_Medivh3a), Description (Description)
+{
+Nieraz zastanawialiśmy się, co stało się z marionetkami Kil’jaedena… z ulubionymi pupilami Mannorotha… A ty byłeś tam: złamany, zagubiony i tak żałośnie zdesperowany…
+}
+
+STRING 4022
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 4023
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 4024
+{
+|cffffcc00Kod wyłączony|r
+}
+
+STRING 4025
+{
+|cffffcc00Kod wyłączony|r
+}
+
+STRING 4026
+// Abilities: Asph (Sphere (feral leap replacement)), Name (Name)
+{
+Sphere (feral leap replacement)
+}
+
+STRING 4027
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 4028
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 4029
+// Items: I1LH (WC2Orc13Visage_Awegynn1), Description (Description)
+{
+Przed wiekami zniszczyłam ten plugawy awatar i zamknęłam go w grobowcu na wieczność, by historia o nim zapomniała… Żadna istota z tego świata nie mogła go otworzyć. Lecz moje zwycięstwo nie było pełne…
+}
+
+STRING 4031
+{
+Odbieraj ropę z platform wiertniczych.
+}
+
+STRING 4034
+{
+Dostarcz ropę
+}
+
+STRING 4037
+{
+|c00640000Złoże ropy zostało wyczerpane|r
+}
+
+STRING 4040
+{
+Wydobywaj ropę
+}
+
+STRING 4043
+{
+Dostarcz ropę do najbliższej stoczni.
+}
+
+STRING 4046
+{
+Złoże ropy jest na wyczerpaniu
+}
+
+STRING 4049
+{
+Ropę pozyskuje się ze złóż ropy.
+}
+
+STRING 4052
+{
+Ropa: 
+}
+
+STRING 4055
+{
+Ropa: 0
+}
+

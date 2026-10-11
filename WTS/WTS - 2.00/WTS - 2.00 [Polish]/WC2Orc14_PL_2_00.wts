@@ -1,0 +1,4548 @@
+﻿STRING 1
+{
+WC2Orc14
+}
+
+STRING 3
+{
+Upadek Lordaeronu
+}
+
+STRING 4
+{
+LoreCraftDesigns
+}
+
+STRING 267
+{
+Horda
+}
+
+STRING 269
+{
+Przymierze
+}
+
+STRING 270
+// Units: otbk (광전사), Ubertip (Tooltip - Extended)
+{
+Wszechstronny miotacz toporów, skuteczny przeciw jednostkom latającym. Dysponuje zdolnością Szał Bojowy, która zwiększa szybkość ataku, ale sprawia też, że otrzymuje więcej obrażeń. Może nauczyć się Regeneracji trolli, Wzroku berserkera i Lżejszych toporów. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 271
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 272
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+Elfia łowczyni
+}
+
+STRING 273
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+Podstawowa jednostka o dużym zasięgu ataku. Może korzystać z ulepszeń Celność, Ulepszone łuki i Oswajanie hipogryfów.|n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r
+}
+
+STRING 274
+// Units: htow (마을 회관), Ubertip (Tooltip - Extended)
+{
+Mistrzowskie szkolenie magów (|cffffcc00O|r)
+}
+
+STRING 275
+// Units: negf (대지 분노 탑), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 276
+// Units: negm (하늘 분노 탑), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 277
+// Units: nefm (하이 엘프족 농장), Tip (Tooltip - Basic)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Spowolnienia.
+}
+
+STRING 278
+// Units: nefm (하이 엘프족 농장), Ubertip (Tooltip - Extended)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Spowolnienia.
+}
+
+STRING 279
+// Units: hgra (그리핀 사육장), Ubertip (Tooltip - Extended)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Niewidzialności.
+}
+
+STRING 280
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Elfi mag
+}
+
+STRING 281
+// Units: nchp (Magistrate), Name (Name)
+{
+Zarządca
+}
+
+STRING 282
+// Units: nwc1 (Cage), Name (Name)
+{
+Klatka
+}
+
+STRING 283
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+Zbuduj klatkę
+}
+
+STRING 284
+// Units: nwc1 (Cage), Description (Description)
+{
+Solidna klatka przeznaczona do przetrzymywania jeńców.
+}
+
+STRING 285
+// Units: nbel (High Elf Captain), Name (Name)
+{
+Kapitan wysokich elfów
+}
+
+STRING 286
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+Wyszkol kapitana wysokich elfów
+}
+
+STRING 287
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+Potężny kapitan armii Srebrnej Luny. Specjalizuje się w zwalczaniu jednostek rzucających zaklęcia.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 401
+// Units: n608 (Abbot), Ubertip (Tooltip - Extended)
+{
+Życzliwy kapłan.
+}
+
+STRING 402
+// Units: n608 (Abbot), Tip (Tooltip - Basic)
+{
+Duchowny Światłości.
+}
+
+STRING 448
+// Units: h61P (Violet Citadel), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 505
+// Items: I0Lu (WC2Orc14Uther1), Tip (Tooltip - Basic)
+{
+Uther
+}
+
+STRING 516
+// Units: h006 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+Wieża strażnicza (|cffffcc00G|r)
+}
+
+STRING 517
+// Units: h006 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+Podstawowa budowla obronna. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 561
+// Units: n00T (Dragon), Name (Name)
+{
+Smok
+}
+
+STRING 562
+// Units: n00T (Dragon), Tip (Tooltip - Basic)
+{
+Wyszkol smoka
+}
+
+STRING 563
+// Units: n00T (Dragon), Ubertip (Tooltip - Extended)
+{
+Smoki łączą niezwykłą siłę niszczycielską z bystrym umysłem, stanowiąc najpotężniejszą broń Hordy. Ogień ziejący z paszcz starszych smoków może unicestwić całe zastępy wroga, a potężne skrzydła pozwalają im niestrudzenie przemierzać niebo.
+}
+
+STRING 686
+// Units: h61Q (정찰탑), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 690
+// Units: n00T (Dragon), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 691
+// Units: n60V (Duck), Name (Name)
+{
+Kaczka
+}
+
+STRING 692
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Zwykła krzyżówka
+}
+
+STRING 701
+// Units: n00K (천막), EditorSuffix (Name - Editor Suffix)
+{
+(Troll)
+}
+
+STRING 707
+// Units: H008 (성기사), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 708
+// Units: n02G (Zuluhed), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 731
+// Units: h620 (Tent), Name (Name)
+{
+Namiot
+}
+
+STRING 732
+// Units: h620 (Tent), Tip (Tooltip - Basic)
+{
+Namiot
+}
+
+STRING 733
+// Units: h621 (Tent), Name (Name)
+{
+Namiot
+}
+
+STRING 734
+// Units: h621 (Tent), Tip (Tooltip - Basic)
+{
+Namiot
+}
+
+STRING 735
+// Units: h621 (Tent), EditorSuffix (Name - Editor Suffix)
+{
+(Upgrade)
+}
+
+STRING 757
+// Units: H62F (Captain), Name (Name)
+{
+Kapitan
+}
+
+STRING 758
+// Units: H62F (Captain), Revivetip (Tooltip - Revive)
+{
+Ożywienie kapitana
+}
+
+STRING 759
+// Units: H62F (Captain), Awakentip (Tooltip - Awaken)
+{
+Ożywienie kapitana
+}
+
+STRING 761
+// Units: H62F (Captain), Tip (Tooltip - Basic)
+{
+Kapitan
+}
+
+STRING 771
+// Units: H62F (Captain), Propernames (Proper Names)
+{
+Luric
+}
+
+STRING 774
+// Units: H62F (Captain), EditorSuffix (Name - Editor Suffix)
+{
+(Lordaeron)
+}
+
+STRING 793
+// Units: n02K (Orc Pirate), Name (Name)
+{
+Orczy pirat
+}
+
+STRING 805
+// Units: n60Y (Raven), Name (Name)
+{
+Kruk
+}
+
+STRING 814
+// Units: n60Z (Spiders), Name (Name)
+{
+Pająki
+}
+
+STRING 815
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Pająki
+}
+
+STRING 856
+// Units: n611 (Wolf), Name (Name)
+{
+Wilk
+}
+
+STRING 857
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 947
+// Units: h007 (Lordaeron Guard Tower), Ubertip (Tooltip - Extended)
+{
+Podstawowa budowla obronna. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 969
+// Units: n00C (Tavern), Name (Name)
+{
+Tawerna
+}
+
+STRING 1101
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1126
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Nabrzeże
+}
+
+STRING 1127
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Grzyby
+}
+
+STRING 1128
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1129
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1135
+// Destructibles: B62O (City Stairs), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1139
+// Destructibles: B60M (Castle Tower), Name (Name)
+{
+Wieża zamkowa
+}
+
+STRING 1143
+// Destructibles: B62O (City Stairs), Name (Name)
+{
+Miejskie schody
+}
+
+STRING 1145
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1149
+// Units: n02H (Maim), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 1164
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Stary grobowiec
+}
+
+STRING 1165
+// Destructibles: B62S (Altar With the Book), Name (Name)
+{
+Ołtarz z księgą
+}
+
+STRING 1168
+// Units: n02I (Rend), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 1171
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1172
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1175
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1178
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1188
+// Destructibles: B60H (TreePlanter), Name (Name)
+{
+Drzewo w donicy
+}
+
+STRING 1192
+// Destructibles: B00S (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(2)
+}
+
+STRING 1193
+// Destructibles: B60T (Lighthouse), Name (Name)
+{
+Latarnia morska
+}
+
+STRING 1194
+// Destructibles: B60U (Chest), Name (Name)
+{
+Skrzynia
+}
+
+STRING 1195
+// Destructibles: B60W (Lumber Stash), Name (Name)
+{
+Zapas drewna
+}
+
+STRING 1199
+// Destructibles: B61M (Support Beam), Name (Name)
+{
+Belka nośna
+}
+
+STRING 1200
+// Destructibles: B61M (Support Beam), EditorSuffix (Editor Suffix)
+{
+Orc Cinematic
+}
+
+STRING 1204
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Krzewy
+}
+
+STRING 1208
+// Destructibles: B61W (City Windows), Name (Name)
+{
+Miejskie okna
+}
+
+STRING 1209
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orczy nagrobek
+}
+
+STRING 1210
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Gruz
+}
+
+STRING 1211
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Pajęczyna
+}
+
+STRING 1238
+// Destructibles: B622 (Castle Archway), Name (Name)
+{
+Łuk zamkowy
+}
+
+STRING 1240
+// Destructibles: B624 (Knight Statue), Name (Name)
+{
+Posąg rycerza
+}
+
+STRING 1241
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+Podstawa klifu A
+}
+
+STRING 1242
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+Podstawa klifu B
+}
+
+STRING 1243
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+Podstawa klifu C
+}
+
+STRING 1244
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+Podstawa klifu D
+}
+
+STRING 1257
+// Destructibles: B62F (SummerCliff), Name (Name)
+{
+Letni klif
+}
+
+STRING 1258
+// Destructibles: B62G (SummerCliffSmall), Name (Name)
+{
+Mały letni klif
+}
+
+STRING 1259
+// Destructibles: B62H (WetlandsCliff), Name (Name)
+{
+Klif Mokradeł
+}
+
+STRING 1260
+// Destructibles: B62I (WetlandsCliff), Name (Name)
+{
+Klif Mokradeł
+}
+
+STRING 1261
+// Destructibles: B62I (WetlandsCliff), EditorSuffix (Editor Suffix)
+{
+(Small)
+}
+
+STRING 1276
+// Doodads: D605 (Water Fall FX), Name (Name)
+{
+Water Fall FX
+}
+
+STRING 1282
+// Doodads: D60H (Square Tower), Name (Name)
+{
+Square Tower
+}
+
+STRING 1288
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1290
+// Doodads: D61E (Grass Tall), Name (Name)
+{
+Grass Tall
+}
+
+STRING 1291
+// Doodads: D61N (Square Tower Tall), Name (Name)
+{
+Square Tower Tall
+}
+
+STRING 1296
+// Doodads: D656 (Fountain 2), Name (Name)
+{
+Fountain 2
+}
+
+STRING 1298
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1312
+// Doodads: D69Q (Dalaran Building Pathless), Name (Name)
+{
+Dalaran Building Pathless
+}
+
+STRING 1313
+// Doodads: D69R (Dalaran Tower Pathless), Name (Name)
+{
+Dalaran Tower Pathless
+}
+
+STRING 1314
+// Doodads: D69S (Door), Name (Name)
+{
+Drzwi
+}
+
+STRING 1316
+// Doodads: D6A5 (Single Column Pathless), Name (Name)
+{
+Single Column Pathless
+}
+
+STRING 1318
+// Doodads: D6A7 (House Doodad), Name (Name)
+{
+House Doodad
+}
+
+STRING 1330
+// Doodads: D6AM (Capital City Tower 2), Name (Name)
+{
+Capital City Tower 2
+}
+
+STRING 1331
+// Doodads: D6AN (Capital City Dome), Name (Name)
+{
+Capital City Dome
+}
+
+STRING 1332
+// Doodads: D6AO (Capital City Spire), Name (Name)
+{
+Capital City Spire
+}
+
+STRING 1333
+// Doodads: D6AP (City Archway), Name (Name)
+{
+City Archway
+}
+
+STRING 1334
+// Doodads: D6AT (Capital City Tower), Name (Name)
+{
+Capital City Tower
+}
+
+STRING 1355
+// Destructibles: B00M (Fountain), Name (Name)
+{
+Fontanna
+}
+
+STRING 1360
+// Doodads: D6CQ (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 1362
+// Doodads: D6CS (Brazier Pathless), Name (Name)
+{
+Brazier Pathless
+}
+
+STRING 1363
+// Doodads: D6CV (Banner Holder), Name (Name)
+{
+Banner Holder
+}
+
+STRING 1368
+// Doodads: D6D9 (Blood Splat 02), Name (Name)
+{
+Blood Splat 02
+}
+
+STRING 1369
+// Doodads: D6DA (Blood Splat 03), Name (Name)
+{
+Blood Splat 03
+}
+
+STRING 1370
+// Doodads: D6DB (Blood Splat 04), Name (Name)
+{
+Blood Splat 04
+}
+
+STRING 1371
+// Doodads: D6DC (Blood Splat 05), Name (Name)
+{
+Blood Splat 05
+}
+
+STRING 1372
+// Doodads: D6DD (Blood Splat 06), Name (Name)
+{
+Blood Splat 06
+}
+
+STRING 1373
+// Doodads: D6DN (Dalaran Banner), Name (Name)
+{
+Dalaran Banner
+}
+
+STRING 1392
+// Doodads: D6ED (Capital City Structure Block), Name (Name)
+{
+Capital City Structure Block
+}
+
+STRING 1396
+// Doodads: D6EH (Book Green), Name (Name)
+{
+Book Green
+}
+
+STRING 1397
+// Doodads: D6EI (Book Red), Name (Name)
+{
+Book Red
+}
+
+STRING 1398
+// Doodads: D6EJ (Book Blue), Name (Name)
+{
+Book Blue
+}
+
+STRING 1399
+// Doodads: D6ET (Books Pile C), Name (Name)
+{
+Books Pile C
+}
+
+STRING 1400
+// Doodads: D6EU (Books Pile B), Name (Name)
+{
+Books Pile B
+}
+
+STRING 1401
+// Doodads: D6EW (Books Pile A), Name (Name)
+{
+Books Pile A
+}
+
+STRING 1402
+// Doodads: D6EX (Scrolls), Name (Name)
+{
+Scrolls
+}
+
+STRING 1409
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1437
+// Doodads: D615 (Lordaeron Rock Spires), Name (Name)
+{
+Lordaeron Rock Spires
+}
+
+STRING 1445
+// Doodads: D60J (Banner Blackrock clan), Name (Name)
+{
+Banner Blackrock clan
+}
+
+STRING 1446
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1447
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1448
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1449
+// Doodads: D60O (Refugee Banner), Name (Name)
+{
+Refugee Banner
+}
+
+STRING 1450
+// Doodads: D60P (Rack Armor Silver Hand), Name (Name)
+{
+Rack Armor Silver Hand
+}
+
+STRING 1451
+// Doodads: D60Q (Rack Weapon Silver Hand), Name (Name)
+{
+Rack Weapon Silver Hand
+}
+
+STRING 1468
+// Doodads: D61F (Banner Wall Lordaeron), Name (Name)
+{
+Banner Wall Lordaeron
+}
+
+STRING 1489
+// Units: ntor (Whirlwind), Name (Name)
+{
+Wir
+}
+
+STRING 1645
+// Units: n02J (Utok), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 1955
+// Units: n02I (Rend), Name (Name)
+{
+Rwij
+}
+
+STRING 2674
+// Destructibles: B000 (Lordaeron Wall Short), Name (Name)
+{
+Lordaeron Wall Short
+}
+
+STRING 2675
+// Destructibles: B001 (Lordaeron Wall T), Name (Name)
+{
+Lordaeron Wall T
+}
+
+STRING 2676
+// Destructibles: B002 (Lordaeron Wall Long), Name (Name)
+{
+Lordaeron Wall Long
+}
+
+STRING 2677
+// Destructibles: B003 (Lordaeron Wall Corner), Name (Name)
+{
+Lordaeron Wall Corner
+}
+
+STRING 2678
+// Destructibles: B004 (Lordaeron Wall Straight), Name (Name)
+{
+Lordaeron Wall Straight
+}
+
+STRING 2679
+// Destructibles: B005 (Lordaeron Spire), Name (Name)
+{
+Iglica Lordaeronu
+}
+
+STRING 2680
+// Destructibles: B006 (Lordaeron Palace), Name (Name)
+{
+Pałac Lordaeronu
+}
+
+STRING 2681
+// Destructibles: B007 (Lordaeron Dome), Name (Name)
+{
+Lordaeron Dome
+}
+
+STRING 2682
+// Destructibles: B008 (Lordaeron Wall Endcap), Name (Name)
+{
+Lordaeron Wall Endcap
+}
+
+STRING 2683
+// Destructibles: B009 (Lordaeron City Gate), Name (Name)
+{
+Brama miasta Lordaeron
+}
+
+STRING 2684
+// Destructibles: B00A (Lordaeron Roof Tiles), Name (Name)
+{
+Lordaeron Roof Tiles
+}
+
+STRING 2685
+{
+Królestwo Azeroth
+}
+
+STRING 2686
+{
+Królestwo Lordaeronu
+}
+
+STRING 2687
+// Doodads: D000 (DoorArch), Name (Name)
+{
+DoorArch
+}
+
+STRING 2688
+// Doodads: D001 (Balcony), Name (Name)
+{
+Balcony
+}
+
+STRING 2689
+// Destructibles: B00B (Lordaeron Wall Stairs), Name (Name)
+{
+Lordaeron Wall Stairs
+}
+
+STRING 2690
+// Destructibles: B00C (Lordaeron Small Gate), Name (Name)
+{
+Mała brama Lordaeronu
+}
+
+STRING 2750
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 2778
+{
+|c003366FFPOSIŁKI|r
+- Siepacze i pancerniki, które powróciły z Zaginionych Wysp, są teraz pod twoją komendą.
+}
+
+STRING 2788
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2789
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2790
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2791
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2792
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2793
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2794
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2795
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2796
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2797
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2798
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2799
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 2803
+{
+Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.
+}
+
+STRING 2804
+{
+Nie można użyć platformy wiertniczej.
+}
+
+STRING 2805
+{
+To złoże ropy jest już eksploatowane.
+}
+
+STRING 2806
+{
+Najpierw trzeba zbudować platformę wiertniczą.
+}
+
+STRING 2807
+{
+Należy wskazać złoże ropy.
+}
+
+STRING 2808
+{
+Ten budynek można wznieść tylko na złożu ropy.
+}
+
+STRING 2809
+{
+Bohatera można wskrzesić w wielkiej sali.
+}
+
+STRING 2810
+{
+Nieświęty
+}
+
+STRING 2839
+{
+Wyspa Fenris
+}
+
+STRING 2840
+{
+Wyspa Fenris dzieli nas od ostatecznego celu. Pokonaj wrogów, zajmij wyspę i załóż na niej mocny przyczółek. Dopiero wtedy będziemy mogli oblegać samą stolicę.
+}
+
+STRING 2843
+{
+Zdobądź wyspę Fenris.
+}
+
+STRING 2844
+{
+Port Lordaeronu
+}
+
+STRING 2845
+{
+Niedobitki floty Lordaeronu zagrażają naszemu natarciu na stolicę. Nie możemy na to pozwolić. Zniszcz je!
+}
+
+STRING 2846
+{
+Zniszcz stocznie.
+}
+
+STRING 2847
+{
+Splądrowanie stolicy
+}
+
+STRING 2848
+{
+Stolica Lordaeronu stoi przed tobą. Wszystko, czego dokonałeś, prowadziło do tej chwili. Wypełnij swe przeznaczenie i zapisz się w kronikach Hordy. Spal wszystko do gołej ziemi! Zabij każdego, kto stanie ci na drodze!
+}
+
+STRING 2849
+{
+Zniszcz koszary
+}
+
+STRING 2850
+{
+Zniszcz wieżę magów
+}
+
+STRING 2851
+{
+Zniszcz gryfią wolierę
+}
+
+STRING 2852
+{
+Zniszcz stajnie
+}
+
+STRING 2853
+{
+Zniszcz ratusz
+}
+
+STRING 2854
+{
+Zniszcz twierdzę
+}
+
+STRING 2855
+{
+Zniszcz zamek
+}
+
+STRING 2856
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Wyspa Fenris
+ - Zdobądź wyspę Fenris.
+ - Orgrim musi przeżyć.
+
+}
+
+STRING 2857
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Wyspa Fenris
+
+}
+
+STRING 2858
+{
+Góry złota
+}
+
+STRING 2859
+{
+Stolica Lordaeronu skrywa nieprzebrane bogactwa. Przeszukaj każdy zakątek i złup miasto dla Hordy!
+}
+
+STRING 2860
+{
+Splądruj skarbce.
+}
+
+STRING 2861
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Port Lordaeronu
+ - Zniszcz stocznie
+ - Zniszcz rafinerię
+ - Zniszcz odlewnię
+
+}
+
+STRING 2862
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Splądrowanie stolicy
+- Zniszcz koszary
+- Zniszcz wieże magów
+- Zniszcz gryfią wolierę
+- Zniszcz stajnie
+- Zniszcz ratusz
+- Zniszcz twierdzę
+- Zniszcz zamek
+- Zniszcz kościół
+}
+
+STRING 2863
+{
+|cffffcc00ZADANIE DODATKOWE|r
+Góry złota
+ - Splądruj skarbce
+
+}
+
+STRING 2864
+// Destructibles: B00D (Stone Bench), Name (Name)
+{
+Kamienna ławka
+}
+
+STRING 2865
+// Destructibles: B00E (Wooden Bench), Name (Name)
+{
+Drewniana ławka
+}
+
+STRING 2866
+// Destructibles: B00F (Weapon Rack New), Name (Name)
+{
+Stojak na broń — nowy
+}
+
+STRING 2867
+// Destructibles: B00G (Wooden Floor), Name (Name)
+{
+Drewniana podłoga
+}
+
+STRING 2868
+// Destructibles: B00H (Fence), Name (Name)
+{
+Płot
+}
+
+STRING 2869
+// Destructibles: B00I (Fence), Name (Name)
+{
+Płot
+}
+
+STRING 2870
+// Destructibles: B00J (Fence short), Name (Name)
+{
+Krótki płot
+}
+
+STRING 2871
+// Destructibles: B00K (Fence short), Name (Name)
+{
+Krótki płot
+}
+
+STRING 2872
+// Units: n004 (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 16
+}
+
+STRING 2873
+// Units: n006 (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 17
+}
+
+STRING 2874
+// Units: n007 (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 18
+}
+
+STRING 2875
+// Units: n008 (City clock tower), Name (Name)
+{
+Miejska wieża zegarowa
+}
+
+STRING 2876
+// Units: n008 (City clock tower), Tip (Tooltip - Basic)
+{
+Zbuduj miejską wieżę zegarową
+}
+
+STRING 2877
+// Units: n009 (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Brill)
+}
+
+STRING 2878
+// Units: n009 (City clock tower), Name (Name)
+{
+Miejska wieża zegarowa
+}
+
+STRING 2879
+// Units: n009 (City clock tower), Tip (Tooltip - Basic)
+{
+Zbuduj miejską wieżę zegarową
+}
+
+STRING 2880
+// Units: n00A (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Andorhal)
+}
+
+STRING 2881
+// Units: n00A (City clock tower), Name (Name)
+{
+Miejska wieża zegarowa
+}
+
+STRING 2882
+// Units: n00A (City clock tower), Tip (Tooltip - Basic)
+{
+Zbuduj miejską wieżę zegarową
+}
+
+STRING 2883
+// Units: n00B (City clock tower), EditorSuffix (Name - Editor Suffix)
+{
+(Stranbrad)
+}
+
+STRING 2884
+// Units: n00B (City clock tower), Name (Name)
+{
+Miejska wieża zegarowa
+}
+
+STRING 2885
+// Units: n00B (City clock tower), Tip (Tooltip - Basic)
+{
+Zbuduj miejską wieżę zegarową
+}
+
+STRING 2887
+// Units: n00C (Tavern), Tip (Tooltip - Basic)
+{
+Zbuduj tawernę
+}
+
+STRING 2888
+// Units: n00D (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 19
+}
+
+STRING 2889
+// Units: n00E (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 20
+}
+
+STRING 2890
+// Units: n00F (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 21
+}
+
+STRING 2891
+// Units: n00G (Inn), Name (Name)
+{
+Gospoda
+}
+
+STRING 2892
+// Units: n00G (Inn), Tip (Tooltip - Basic)
+{
+Zbuduj gospodę
+}
+
+STRING 2893
+// Units: h003 (Granary), Name (Name)
+{
+Spichlerz
+}
+
+STRING 2894
+// Units: h003 (Granary), Tip (Tooltip - Basic)
+{
+Zbuduj spichlerz
+}
+
+STRING 2895
+// Units: h004 (Windmill), Name (Name)
+{
+Wiatrak
+}
+
+STRING 2896
+// Units: h004 (Windmill), Tip (Tooltip - Basic)
+{
+Zbuduj wiatrak
+}
+
+STRING 2897
+// Units: n00H (Barn), Name (Name)
+{
+Stodoła
+}
+
+STRING 2898
+// Units: n00H (Barn), Tip (Tooltip - Basic)
+{
+Zbuduj stodołę
+}
+
+STRING 2899
+// Destructibles: B00L (Chapel), Name (Name)
+{
+Kaplica
+}
+
+STRING 2901
+// Destructibles: B00N (Food Supplies), Name (Name)
+{
+Zapasy żywności
+}
+
+STRING 2902
+// Units: n00I (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 22
+}
+
+STRING 2903
+// Units: n00J (도시 건물), EditorSuffix (Name - Editor Suffix)
+{
+ 23
+}
+
+STRING 2904
+{
+Klan Czarnej Skały
+}
+
+STRING 2909
+// Destructibles: B00O (Pillows), Name (Name)
+{
+Poduszki
+}
+
+STRING 2910
+// Destructibles: B00P (Carpets), Name (Name)
+{
+Dywany
+}
+
+STRING 2911
+// Doodads: D002 (Sign Shadis Lounge), Name (Name)
+{
+Sign Shadis Lounge
+}
+
+STRING 2912
+// Doodads: D003 (Guitar), Name (Name)
+{
+Guitar
+}
+
+STRING 2913
+// Doodads: D004 (Hookah), Name (Name)
+{
+Hookah
+}
+
+STRING 2918
+{
+Klan Uśmiechu Czarnego Zęba
+}
+
+STRING 2919
+{
+Klan Smoczej Paszczy
+}
+
+STRING 2928
+// Units: n00L (Cinematic Head Pointer), Name (Name)
+{
+Kontroler głowy w scenie filmowej
+}
+
+STRING 2954
+{
+Zniszcz odlewnię.
+}
+
+STRING 2955
+{
+Zniszcz rafinerię.
+}
+
+STRING 2957
+// Destructibles: B60F (Thoradin Statue), Name (Name)
+{
+Posąg Thoradina
+}
+
+STRING 2958
+// Units: n00M (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 2959
+// Units: n00M (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2960
+// Units: n00N (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 2961
+// Units: n00N (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2962
+// Units: n00O (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 2963
+// Units: n00O (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2964
+// Units: n00P (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 2965
+// Units: n00P (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2966
+// Units: n00Q (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2967
+// Units: n00R (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 2968
+// Units: n00R (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2969
+// Units: n00S (Lordaeron City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 2970
+// Units: n00S (Lordaeron City Building), Name (Name)
+{
+Budynek miasta Lordaeron
+}
+
+STRING 2971
+{
+|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r
+Góry złota
+
+}
+
+STRING 2972
+// Doodads: D005 (Sewer Hatch), Name (Name)
+{
+Sewer Hatch
+}
+
+STRING 2973
+// Doodads: D006 (Cargo), Name (Name)
+{
+Cargo
+}
+
+STRING 2974
+// Doodads: D007 (Gunny Bag), Name (Name)
+{
+Gunny Bag
+}
+
+STRING 3016
+{
+Horda
+}
+
+STRING 3027
+// Units: h006 (Lordaeron Guard Tower), Name (Name)
+{
+Wieża strażnicza Lordaeronu
+}
+
+STRING 3028
+// Units: h007 (Lordaeron Guard Tower), Tip (Tooltip - Basic)
+{
+Wieża strażnicza (|cffffcc00G|r)
+}
+
+STRING 3030
+// Units: h007 (Lordaeron Guard Tower), Name (Name)
+{
+Wieża strażnicza Lordaeronu
+}
+
+STRING 3033
+// Units: h007 (Lordaeron Guard Tower), EditorSuffix (Name - Editor Suffix)
+{
+(Fat)
+}
+
+STRING 3058
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Port Lordaeronu
+|cffc0c0c0 - Zniszcz stocznie (wykonano)|r
+
+}
+
+STRING 3059
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Port Lordaeronu
+|cffc0c0c0 - Zniszcz stocznie (wykonano)|r
+
+}
+
+STRING 3060
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Port Lordaeronu
+|cffc0c0c0 - Zniszcz rafinerię (wykonano)|r
+
+}
+
+STRING 3064
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz koszary (wykonano)|r
+}
+
+STRING 3065
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz wieżę magów (wykonano)|r
+}
+
+STRING 3068
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz stajnie (wykonano)|r
+}
+
+STRING 3069
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz ratusz (wykonano)|r
+}
+
+STRING 3070
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz twierdzę (wykonano)|r
+}
+
+STRING 3071
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz zamek (wykonano)|r
+}
+
+STRING 3073
+// Units: n00U (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3074
+// Units: n00U (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 3075
+// Units: n00V (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3076
+// Units: n00V (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 3077
+// Units: n00W (어린이), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 1)
+}
+
+STRING 3078
+// Units: n00X (어린이), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 2)
+}
+
+STRING 3079
+// Units: n02K (Orc Pirate), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 3080
+// Units: n00Y (Eagle), Name (Name)
+{
+Orzeł
+}
+
+STRING 3081
+// Units: n00Z (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3082
+// Units: n00Z (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3083
+// Units: n00Z (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3084
+// Units: n010 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3085
+// Units: n010 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3086
+// Units: n010 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3087
+// Units: n011 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3088
+// Units: n011 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3089
+// Units: n011 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3090
+// Units: n012 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3091
+// Units: n012 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3092
+// Units: n012 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3093
+// Units: n013 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3094
+// Units: n013 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3095
+// Units: n013 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3096
+// Units: n014 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3097
+// Units: n014 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3098
+// Units: n014 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(F)
+}
+
+STRING 3099
+// Units: n015 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3100
+// Units: n015 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3101
+// Units: n015 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(G)
+}
+
+STRING 3102
+// Units: n016 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3103
+// Units: n016 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3104
+// Units: n016 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(H)
+}
+
+STRING 3105
+// Units: n017 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3106
+// Units: n017 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3107
+// Units: n017 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(I)
+}
+
+STRING 3108
+// Units: n018 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3109
+// Units: n018 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3110
+// Units: n018 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(J)
+}
+
+STRING 3111
+// Units: n019 (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3112
+// Units: n019 (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3113
+// Units: n019 (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(K)
+}
+
+STRING 3114
+// Units: n01A (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3115
+// Units: n01A (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 3116
+// Units: n01B (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3117
+// Units: n01B (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 3118
+// Units: n01C (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3119
+// Units: n01C (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 5)
+}
+
+STRING 3120
+// Units: n01D (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3121
+// Units: n01D (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 6)
+}
+
+STRING 3122
+// Units: n01E (Lordaeron Woman), Name (Name)
+{
+Kobieta z Lordaeronu
+}
+
+STRING 3123
+// Units: n01E (Lordaeron Woman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 7)
+}
+
+STRING 3124
+// Units: n01F (어린이), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 3)
+}
+
+STRING 3125
+// Units: n01G (어린이), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic 4)
+}
+
+STRING 3126
+// Units: n01H (Old Citizen), Name (Name)
+{
+Starszy mieszkaniec
+}
+
+STRING 3127
+// Units: n01H (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(A)
+}
+
+STRING 3128
+// Units: n01I (Old Citizen), Name (Name)
+{
+Starszy mieszkaniec
+}
+
+STRING 3129
+// Units: n01I (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(B)
+}
+
+STRING 3130
+// Units: n01J (Old Citizen), Name (Name)
+{
+Starszy mieszkaniec
+}
+
+STRING 3131
+// Units: n01J (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(C)
+}
+
+STRING 3132
+// Units: n01K (Old Citizen), Name (Name)
+{
+Starszy mieszkaniec
+}
+
+STRING 3133
+// Units: n01K (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(D)
+}
+
+STRING 3134
+// Units: n01L (Old Citizen), Name (Name)
+{
+Starszy mieszkaniec
+}
+
+STRING 3135
+// Units: n01L (Old Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(E)
+}
+
+STRING 3136
+// Units: n01M (Citizen), Name (Name)
+{
+Mieszkaniec
+}
+
+STRING 3137
+// Units: n01M (Citizen), Ubertip (Tooltip - Extended)
+{
+Zwykły mieszkaniec.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 3138
+// Units: n01M (Citizen), EditorSuffix (Name - Editor Suffix)
+{
+(L)
+}
+
+STRING 3141
+{
+Milicja
+}
+
+STRING 3142
+{
+Będziemy walczyć za Lordaeron! Łapcie za broń!
+}
+
+STRING 3183
+{
+Wysłannik Żelaznej Kuźni
+}
+
+STRING 3200
+// Units: n01O (Cinematic Raven), Name (Name)
+{
+Cinematic Raven
+}
+
+STRING 3201
+// Doodads: D008 (Guldans Head), Name (Name)
+{
+Guldans Head
+}
+
+STRING 3202
+{
+Orgrim musi przeżyć.
+}
+
+STRING 3203
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Wyspa Fenris
+ - Zdobądź wyspę Fenris
+|cffff0000 - Orgrim musi przeżyć (nie wykonano)|r
+
+}
+
+STRING 3204
+{
+|cffffcc00MISJA NIEUDANA|r
+
+}
+
+STRING 3211
+{
+Kirin Tor
+}
+
+STRING 3214
+// Destructibles: XTbd (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3215
+// Destructibles: B00S (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3217
+// Destructibles: B00T (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3218
+// Destructibles: B00T (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 3219
+// Destructibles: B00U (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3220
+// Destructibles: B00U (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(4)
+}
+
+STRING 3221
+// Destructibles: B00V (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3222
+// Destructibles: B00V (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(5)
+}
+
+STRING 3223
+// Destructibles: B00W (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3224
+// Destructibles: B00W (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(6)
+}
+
+STRING 3225
+// Destructibles: B00X (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3226
+// Destructibles: B00X (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(7)
+}
+
+STRING 3227
+// Destructibles: B00Y (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3228
+// Destructibles: B00Y (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(8)
+}
+
+STRING 3229
+// Destructibles: B010 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3231
+// Destructibles: B011 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3232
+// Destructibles: B010 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(10)
+}
+
+STRING 3233
+// Destructibles: B012 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3234
+// Destructibles: B011 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(11)
+}
+
+STRING 3235
+// Destructibles: B013 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3236
+// Destructibles: B012 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(12)
+}
+
+STRING 3237
+// Destructibles: B014 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3238
+// Destructibles: B013 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(13)
+}
+
+STRING 3239
+// Destructibles: B015 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3240
+// Destructibles: B014 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(14)
+}
+
+STRING 3241
+// Destructibles: B016 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3242
+// Destructibles: B015 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(15)
+}
+
+STRING 3243
+// Destructibles: B017 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3244
+// Destructibles: B016 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(16)
+}
+
+STRING 3245
+// Destructibles: B018 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3246
+// Destructibles: B017 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(17)
+}
+
+STRING 3247
+// Destructibles: B019 (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3248
+// Destructibles: B018 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(18)
+}
+
+STRING 3249
+// Destructibles: B01A (Dalaran Building), Name (Name)
+{
+Budynek Dalaranu
+}
+
+STRING 3250
+// Destructibles: B019 (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(19)
+}
+
+STRING 3251
+{
+Państwo Dalaran
+}
+
+STRING 3253
+// Destructibles: B01A (Dalaran Building), EditorSuffix (Editor Suffix)
+{
+(20)
+}
+
+STRING 3254
+// Doodads: D009 (DivineShield), Name (Name)
+{
+DivineShield
+}
+
+STRING 3255
+// Units: h61P (Violet Citadel), Name (Name)
+{
+Fioletowa Cytadela
+}
+
+STRING 3256
+// Units: h61P (Violet Citadel), Tip (Tooltip - Basic)
+{
+Budowa Fioletowej Cytadeli
+}
+
+STRING 3257
+// Units: n01P (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3258
+// Units: n01Q (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+1
+}
+
+STRING 3259
+// Units: n01Q (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3260
+// Units: n01R (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+2
+}
+
+STRING 3261
+// Units: n01R (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3262
+// Units: n01S (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+3
+}
+
+STRING 3263
+// Units: n01S (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3264
+// Units: n01T (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+4
+}
+
+STRING 3265
+// Units: n01T (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3266
+// Units: n01U (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+5
+}
+
+STRING 3267
+// Units: n01U (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3268
+// Units: n01V (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+6
+}
+
+STRING 3269
+// Units: n01V (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3270
+// Units: n01W (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+7
+}
+
+STRING 3271
+// Units: n01W (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3272
+// Units: n01X (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+8
+}
+
+STRING 3273
+// Units: n01X (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3274
+// Units: n01Y (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+9
+}
+
+STRING 3275
+// Units: n01Y (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3276
+// Units: n01Z (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+10
+}
+
+STRING 3277
+// Units: n01Z (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3278
+// Units: n020 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+11
+}
+
+STRING 3279
+// Units: n020 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3280
+// Units: n021 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+12
+}
+
+STRING 3281
+// Units: n021 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3282
+// Units: n022 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+13
+}
+
+STRING 3283
+// Units: n022 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3284
+// Units: n023 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+14
+}
+
+STRING 3285
+// Units: n023 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3286
+// Units: n024 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+15
+}
+
+STRING 3287
+// Units: n024 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3288
+// Units: n025 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+16
+}
+
+STRING 3289
+// Units: n025 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3290
+// Units: n026 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+17
+}
+
+STRING 3291
+// Units: n026 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3292
+// Units: n027 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+18
+}
+
+STRING 3293
+// Units: n027 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3294
+// Units: n028 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+19
+}
+
+STRING 3295
+// Units: n028 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3296
+// Units: n029 (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+20
+}
+
+STRING 3297
+// Units: n029 (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3298
+// Units: n02A (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+21
+}
+
+STRING 3299
+// Units: n02A (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3300
+// Units: n02B (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+22
+}
+
+STRING 3301
+// Units: n02B (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3302
+// Units: n02C (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+23
+}
+
+STRING 3303
+// Units: n02C (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3304
+// Units: n02D (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+24
+}
+
+STRING 3305
+// Units: n02D (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3306
+// Units: n02E (Dalaran City Building), EditorSuffix (Name - Editor Suffix)
+{
+25
+}
+
+STRING 3307
+// Units: n02E (Dalaran City Building), Name (Name)
+{
+Budynek miasta Dalaran
+}
+
+STRING 3308
+{
+Zakon rycerzy śmierci
+}
+
+STRING 3312
+// Doodads: D00A (Log Doodad), Name (Name)
+{
+Log Doodad
+}
+
+STRING 3313
+// Units: H00B (The Wholoomancer), Name (Name)
+{
+Wololomanta
+}
+
+STRING 3314
+// Doodads: D00B (Antonidas Statue), Name (Name)
+{
+Antonidas Statue
+}
+
+STRING 3319
+// Units: e001 (Mana Stone), Name (Name)
+{
+Kamień many
+}
+
+STRING 3320
+// Units: e001 (Mana Stone), Tip (Tooltip - Basic)
+{
+Wznieś kamień many
+}
+
+STRING 3325
+// Units: n02G (Zuluhed), Name (Name)
+{
+Zuluhed
+}
+
+STRING 3403
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Wyspa Krzyżowa
+}
+
+STRING 3404
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Wyspa Krzyżowa
+|cffc0c0c0- Zniszcz tajemne obserwatoria (wykonano)|r
+- Zabij arcymaga
+- Zniszcz Fioletową Cytadelę
+- Rwij musi przeżyć
+- Szarp musi przeżyć
+- Zuluhed musi przeżyć
+
+}
+
+STRING 3405
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Wyspa Krzyżowa
+|cffc0c0c0- Zniszcz tajemne obserwatoria (wykonano)|r
+|cffc0c0c0- Zabij arcymaga (wykonano)|r
+- Zniszcz Fioletową Cytadelę
+- Rwij musi przeżyć
+- Szarp musi przeżyć
+- Zuluhed musi przeżyć
+
+}
+
+STRING 3407
+{
+Zniszcz tajemne obserwatoria (1/3)
+}
+
+STRING 3408
+{
+Zniszcz tajemne obserwatoria (2/3)
+}
+
+STRING 3409
+{
+Zniszcz tajemne obserwatoria (3/3)
+}
+
+STRING 3410
+{
+Zniszcz tajemne obserwatoria (3/3)
+}
+
+STRING 3411
+{
+Zniszcz tajemne obserwatoria (2/3)
+}
+
+STRING 3412
+{
+Zniszcz tajemne obserwatoria (1/3)
+}
+
+STRING 3413
+{
+Zniszcz tajemne obserwatoria (3/3)
+}
+
+STRING 3414
+{
+Zniszcz tajemne obserwatoria (2/3)
+}
+
+STRING 3415
+{
+Zniszcz tajemne obserwatoria (1/3)
+}
+
+STRING 3420
+// Doodads: D00D (Bone Bridge), Name (Name)
+{
+Bone Bridge
+}
+
+STRING 3421
+// Destructibles: B01D (Dalaran Stairs), Name (Name)
+{
+Dalaran Stairs
+}
+
+STRING 3426
+// Units: Hamg (대마법사), Propernames (Proper Names)
+{
+Norlan
+}
+
+STRING 3448
+// Units: H00B (The Wholoomancer), Propernames (Proper Names)
+{
+Shorka
+}
+
+STRING 3449
+// Units: o001 (Juggernaught), Name (Name)
+{
+Pancernik
+}
+
+STRING 3450
+// Units: o001 (Juggernaught), EditorSuffix (Name - Editor Suffix)
+{
+(CInematic)
+}
+
+STRING 3452
+// Units: n02H (Maim), Name (Name)
+{
+Szarp
+}
+
+STRING 3453
+// Units: n02J (Utok), Name (Name)
+{
+Utok
+}
+
+STRING 3454
+// Units: n02L (Blacktoothgrin Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 3455
+// Units: n02M (Korkron Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 3456
+// Units: n02N (Dragonmaw Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 3457
+// Units: n02O (Blackrock Grunt), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 3460
+// Units: n02L (Blacktoothgrin Grunt), Name (Name)
+{
+Siepacz Uśmiechu Czarnego Zęba
+}
+
+STRING 3461
+// Units: n02M (Korkron Grunt), Name (Name)
+{
+Siepacz Kor’kronu
+}
+
+STRING 3462
+// Units: n02N (Dragonmaw Grunt), Name (Name)
+{
+Siepacz Smoczej Paszczy
+}
+
+STRING 3463
+// Units: n02P (Doomhammer), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 3464
+// Units: n02O (Blackrock Grunt), Name (Name)
+{
+Siepacz Czarnej Skały
+}
+
+STRING 3506
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Wyspa Krzyżowa
+|cffff0000- Rwij musi przeżyć (nie wykonano)|r
+
+}
+
+STRING 3507
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Wyspa Krzyżowa
+|cffff0000- Szarp musi przeżyć (nie wykonano)|r
+}
+
+STRING 3508
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Wyspa Krzyżowa
+|cffff0000- Zuluhed musi przeżyć (nie wykonano)|r
+
+}
+
+STRING 3658
+// Units: n02P (Doomhammer), Name (Name)
+{
+Zgładziciel
+}
+
+STRING 3720
+{
+|cff00ff00WSKAZÓWKA|r
+Zuluhed nie może używać Dzikiego Skoku na Wyspie Krzyżowej.
+}
+
+STRING 3751
+// Doodads: D64K (Wallpaper), Name (Name)
+{
+Wallpaper
+}
+
+STRING 3752
+{
+|cffffcc00NOWA JEDNOSTKA|r
+Smoki to najpotężniejsza broń klanu Smoczej Paszczy. W smoczym gnieździe możesz szkolić czerwone smoki i opracowywać ich ulepszenia.
+}
+
+STRING 3753
+{
+Zniszcz kościół
+}
+
+STRING 3754
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz kościół (wykonano)|r
+}
+
+STRING 3755
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Splądrowanie stolicy
+|cffc0c0c0- Zniszcz gryfią wolierę (wykonano)|r
+}
+
+STRING 3756
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Splądrowanie stolicy
+}
+
+STRING 3757
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Port Lordaeronu
+
+}
+
+STRING 3758
+// Units: uCDX (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 3759
+// Units: uCDX (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Projectile shooter)
+}
+
+STRING 3760
+{
+Mieszkańcy Lordaeronu
+}
+
+STRING 3761
+// Items: I0LA (WC2Orc14Orgrim1), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3762
+// Items: I0LA (WC2Orc14Orgrim1), Description (Description)
+{
+Dobrze. Musimy zdobyć wyspę Fenris i założyć bazę przy kopalni złota. Wtedy wreszcie rozpoczniemy szturm na stolicę.
+}
+
+STRING 3763
+// Items: I0LA (WC2Orc14Orgrim1), Name (Name)
+{
+WC2Orc14Orgrim1
+}
+
+STRING 3764
+// Items: I0LB (WC2Orc14Orgrim2), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3765
+// Items: I0LB (WC2Orc14Orgrim2), Description (Description)
+{
+Żagle Smoczej Paszczy i Uśmiechu Czarnego Zęba… Wykonawcy mej zemsty wreszcie powrócili.
+}
+
+STRING 3766
+// Items: I0LB (WC2Orc14Orgrim2), Name (Name)
+{
+WC2Orc14Orgrim2
+}
+
+STRING 3767
+// Items: I0LC (WC2Orc14Orgrim3), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3768
+// Items: I0LC (WC2Orc14Orgrim3), Description (Description)
+{
+Raport. Natychmiast.
+}
+
+STRING 3769
+// Items: I0LC (WC2Orc14Orgrim3), Name (Name)
+{
+WC2Orc14Orgrim3
+}
+
+STRING 3770
+// Items: I0LD (WC2Orc14Orgrim4), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3771
+// Items: I0LD (WC2Orc14Orgrim4), Description (Description)
+{
+Dobrze… Naprawiliście błąd, który popełniłem, okazując litość. Niech to będzie przestroga dla każdego, kto ośmieli się sprzeciwić mojej władzy.
+}
+
+STRING 3772
+// Items: I0LD (WC2Orc14Orgrim4), Name (Name)
+{
+WC2Orc14Orgrim4
+}
+
+STRING 3773
+// Items: I0LE (WC2Orc14Orgrim5), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3774
+// Items: I0LE (WC2Orc14Orgrim5), Description (Description)
+{
+Nie ufam tym zdrajcom. Masz rację, Rwiju — boleśnie odczuliśmy straty.
+Dziś waży się los Hordy. Ogry na pierwszą linię! Spłacą swój dług krwią.
+Reszty dopilnują rycerze śmierci, dopóki nie zdecyduję o ich losie.
+}
+
+STRING 3775
+// Items: I0LE (WC2Orc14Orgrim5), Name (Name)
+{
+WC2Orc14Orgrim5
+}
+
+STRING 3776
+// Items: I0LF (WC2Orc14Orgrim6), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3777
+// Items: I0LF (WC2Orc14Orgrim6), Description (Description)
+{
+Teron Krwawy Bies ma trudności z oblężeniem Dalaranu na południu. Rzuć na to miasto wszystkie swoje siły. Rwij i Szarp pójdą z tobą.
+}
+
+STRING 3778
+// Items: I0LF (WC2Orc14Orgrim6), Name (Name)
+{
+WC2Orc14Orgrim6
+}
+
+STRING 3779
+// Items: I0LG (WC2Orc14Orgrim7), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3781
+// Items: I0LG (WC2Orc14Orgrim7), Name (Name)
+{
+WC2Orc14Orgrim7
+}
+
+STRING 3782
+// Items: I0LH (WC2Orc14Orgrim8), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3783
+// Items: I0LH (WC2Orc14Orgrim8), Description (Description)
+{
+Tak! Dziś ostatnie bastiony ludzi spłoną w smoczym ogniu. Ruszajcie!
+}
+
+STRING 3784
+// Items: I0LH (WC2Orc14Orgrim8), Name (Name)
+{
+WC2Orc14Orgrim8
+}
+
+STRING 3785
+// Items: I0LI (WC2Orc14Orgrim9), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3786
+// Items: I0LI (WC2Orc14Orgrim9), Description (Description)
+{
+Utoku! Zostaniesz ze mną. Chcę, byś opisał tę chwalebną chwilę, gdy mury Lordaeronu runą przed naszymi rozwścieczonymi wojskami! Dziś… położymy temu kres! Powstańcie, synowie Hordy! Czeka nas krew i chwała!
+}
+
+STRING 3787
+// Items: I0LI (WC2Orc14Orgrim9), Name (Name)
+{
+WC2Orc14Orgrim9
+}
+
+STRING 3788
+// Items: I0LJ (WC2Orc14Orgrim10), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3789
+// Items: I0LJ (WC2Orc14Orgrim10), Description (Description)
+{
+Musimy wykończyć niedobitki tej żałosnej floty Lordaeronu. Zniszczcie port. Rozstawimy tam machiny oblężnicze i wojska lądowe do ataku na miasto.
+}
+
+STRING 3790
+// Items: I0LJ (WC2Orc14Orgrim10), Name (Name)
+{
+WC2Orc14Orgrim10
+}
+
+STRING 3791
+// Items: I0LK (WC2Orc14Orgrim11), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3792
+// Items: I0LK (WC2Orc14Orgrim11), Description (Description)
+{
+Zaszliśmy zbyt daleko, by zatrzymały nas strzały i obrońcy murów… Powstań, moja potężna Hordo! Za tymi murami czekają chwała i bogactwa! Rozszarpcie ich, moi wojownicy, i weźcie to, co wam się należy!
+}
+
+STRING 3793
+// Items: I0LK (WC2Orc14Orgrim11), Name (Name)
+{
+WC2Orc14Orgrim11
+}
+
+STRING 3794
+// Items: I0LL (WC2Orc14Orgrim12), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3795
+// Items: I0LL (WC2Orc14Orgrim12), Description (Description)
+{
+W oddali wznoszą się alabastrowe blanki stolicy Lordaeronu. Dumne, nieugięte wojska Przymierza trwają na pozycjach w swych ostatnich chwilach. Pozostał już tylko donośny głos rogu wzywający do bitwy — i wypełnienie naszego przeznaczenia. Nadciągają fale ciemności!
+}
+
+STRING 3796
+// Items: I0LL (WC2Orc14Orgrim12), Name (Name)
+{
+WC2Orc14Orgrim12
+}
+
+STRING 3797
+// Items: I0LM (WC2Orc14Orgrim13), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3798
+// Items: I0LM (WC2Orc14Orgrim13), Description (Description)
+{
+Dobrze. Rozpoczynamy atak!
+}
+
+STRING 3799
+// Items: I0LM (WC2Orc14Orgrim13), Name (Name)
+{
+WC2Orc14Orgrim13
+}
+
+STRING 3800
+// Items: I0LN (WC2Orc14Orgrim14), Tip (Tooltip - Basic)
+{
+Orgrim Zgładziciel
+}
+
+STRING 3801
+// Items: I0LN (WC2Orc14Orgrim14), Description (Description)
+{
+Zgodnie z planem!
+}
+
+STRING 3802
+// Items: I0LN (WC2Orc14Orgrim14), Name (Name)
+{
+WC2Orc14Orgrim14
+}
+
+STRING 3803
+// Items: I0LO (WC2Orc14Rend1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3805
+// Items: I0LO (WC2Orc14Rend1), Name (Name)
+{
+WC2Orc14Rend1
+}
+
+STRING 3806
+// Items: I0LP (WC2Orc14Rend2), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3808
+// Items: I0LP (WC2Orc14Rend2), Name (Name)
+{
+WC2Orc14Rend2
+}
+
+STRING 3809
+// Items: I0LQ (WC2Orc14Rend3), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3810
+// Items: I0LQ (WC2Orc14Rend3), Description (Description)
+{
+Czy nie przydalibyśmy się bardziej pod stolicą?
+}
+
+STRING 3811
+// Items: I0LQ (WC2Orc14Rend3), Name (Name)
+{
+WC2Orc14Rend3
+}
+
+STRING 3812
+// Items: I0LR (WC2Orc14Rend4), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3813
+// Items: I0LR (WC2Orc14Rend4), Description (Description)
+{
+A potem złupimy samą cytadelę!
+}
+
+STRING 3814
+// Items: I0LR (WC2Orc14Rend4), Name (Name)
+{
+WC2Orc14Rend4
+}
+
+STRING 3815
+// Items: I0LS (WC2Orc14Rend5), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3816
+// Items: I0LS (WC2Orc14Rend5), Description (Description)
+{
+Co to było?
+}
+
+STRING 3817
+// Items: I0LS (WC2Orc14Rend5), Name (Name)
+{
+WC2Orc14Rend5
+}
+
+STRING 3818
+// Items: I0LT (WC2Orc14Maim1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3819
+// Items: I0LT (WC2Orc14Maim1), Description (Description)
+{
+Tak, wodzu. Poddali się, gdy zniszczyliśmy ich flotę i wybiliśmy przywódców.
+}
+
+STRING 3820
+// Items: I0LT (WC2Orc14Maim1), Name (Name)
+{
+WC2Orc14Maim1
+}
+
+STRING 3821
+// Items: I0LU (WC2Orc14Maim2), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3822
+// Items: I0LU (WC2Orc14Maim2), Description (Description)
+{
+Z rozkoszą posiekam go na kawałki!
+}
+
+STRING 3823
+// Items: I0LU (WC2Orc14Maim2), Name (Name)
+{
+WC2Orc14Maim2
+}
+
+STRING 3824
+// Items: I0LV (WC2Orc14Utok1), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3825
+// Items: I0LV (WC2Orc14Utok1), Description (Description)
+{
+Powinno być kilka miejsc dogodnych do szturmu na miasto. Wyślijmy sterowce na zwiad wzdłuż wybrzeża.
+}
+
+STRING 3826
+// Items: I0LV (WC2Orc14Utok1), Name (Name)
+{
+WC2Orc14Utok1
+}
+
+STRING 3827
+// Items: I0LW (WC2Orc14Utok2), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3828
+// Items: I0LW (WC2Orc14Utok2), Description (Description)
+{
+Wodzu, mury są silnie umocnione. Elfi łucznicy i balisty zabijają wielu naszych wojowników.
+}
+
+STRING 3829
+// Items: I0LW (WC2Orc14Utok2), Name (Name)
+{
+WC2Orc14Utok2
+}
+
+STRING 3830
+// Items: I0LX (WC2Orc14Utok3), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3831
+// Items: I0LX (WC2Orc14Utok3), Description (Description)
+{
+Jak najlepiej możemy go wesprzeć?
+}
+
+STRING 3832
+// Items: I0LX (WC2Orc14Utok3), Name (Name)
+{
+WC2Orc14Utok3
+}
+
+STRING 3833
+// Items: I0LY (WC2Orc14Utok4), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3834
+// Items: I0LY (WC2Orc14Utok4), Description (Description)
+{
+Musimy rozważnie użyć naszych sił. Wyspy strzegą okręty i wieże.
+}
+
+STRING 3835
+// Items: I0LY (WC2Orc14Utok4), Name (Name)
+{
+WC2Orc14Utok4
+}
+
+STRING 3836
+// Items: I0LZ (WC2Orc14Utok5), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3837
+// Items: I0LZ (WC2Orc14Utok5), Description (Description)
+{
+Zamelduję wodzowi o naszym zwycięstwie.
+}
+
+STRING 3838
+// Items: I0LZ (WC2Orc14Utok5), Name (Name)
+{
+WC2Orc14Utok5
+}
+
+STRING 3839
+// Items: I0La (WC2Orc14Utok6), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3840
+// Items: I0La (WC2Orc14Utok6), Description (Description)
+{
+Nie pozwalaj sobie, „kapitanie Tharbeku”. Wódz nie toleruje żołnierzy, którzy nie słuchają przełożonych. Masz wykonywać rozkazy!
+}
+
+STRING 3841
+// Items: I0La (WC2Orc14Utok6), Name (Name)
+{
+WC2Orc14Utok6
+}
+
+STRING 3842
+// Items: I0Lb (WC2Orc14Utok7), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3843
+// Items: I0Lb (WC2Orc14Utok7), Description (Description)
+{
+Wodzu! Wyspa Krzyżowa padła pod naporem Hordy!
+}
+
+STRING 3844
+// Items: I0Lb (WC2Orc14Utok7), Name (Name)
+{
+WC2Orc14Utok7
+}
+
+STRING 3845
+// Items: I0Lc (WC2Orc14Tharbek1), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3846
+// Items: I0Lc (WC2Orc14Tharbek1), Description (Description)
+{
+Wodzu, oddział szturmowy czeka na rozkazy.
+}
+
+STRING 3847
+// Items: I0Lc (WC2Orc14Tharbek1), Name (Name)
+{
+WC2Orc14Tharbek1
+}
+
+STRING 3848
+// Items: I0Ld (WC2Orc14Tharbek2), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3849
+// Items: I0Ld (WC2Orc14Tharbek2), Description (Description)
+{
+Szybciej, leniwe robactwo! O świcie zaczyna się oblężenie stolicy… Jeśli nie będziecie gotowi, wódz obedrze was ze skóry!
+}
+
+STRING 3850
+// Items: I0Ld (WC2Orc14Tharbek2), Name (Name)
+{
+WC2Orc14Tharbek2
+}
+
+STRING 3851
+// Items: I0Le (WC2Orc14Tharbek3), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3852
+// Items: I0Le (WC2Orc14Tharbek3), Description (Description)
+{
+Wodzu! Obóz i zapasy są gotowe. Możemy ruszać na stolicę!
+}
+
+STRING 3853
+// Items: I0Le (WC2Orc14Tharbek3), Name (Name)
+{
+WC2Orc14Tharbek3
+}
+
+STRING 3854
+// Items: I0Lf (WC2Orc14Tharbek4), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3855
+// Items: I0Lf (WC2Orc14Tharbek4), Description (Description)
+{
+Dziś wreszcie pokażę wodzowi, kto jest lepszym orkiem… Bazgraczu!
+}
+
+STRING 3856
+// Items: I0Lf (WC2Orc14Tharbek4), Name (Name)
+{
+WC2Orc14Tharbek4
+}
+
+STRING 3857
+// Items: I0Lg (WC2Orc14Tharbek5), Tip (Tooltip - Basic)
+{
+Tharbek
+}
+
+STRING 3858
+// Items: I0Lg (WC2Orc14Tharbek5), Description (Description)
+{
+Już niedługo, „dowódco Bazgraczu”… Już niedługo.
+}
+
+STRING 3859
+// Items: I0Lg (WC2Orc14Tharbek5), Name (Name)
+{
+WC2Orc14Tharbek5
+}
+
+STRING 3860
+// Items: I0Lh (WC2Orc14Zuluhed1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3861
+// Items: I0Lh (WC2Orc14Zuluhed1), Description (Description)
+{
+Witaj, wodzu. Straciliśmy wielu dobrych wojowników, lecz twoja wola została wypełniona.
+}
+
+STRING 3862
+// Items: I0Lh (WC2Orc14Zuluhed1), Name (Name)
+{
+WC2Orc14Zuluhed1
+}
+
+STRING 3863
+// Items: I0Li (WC2Orc14Zuluhed2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3864
+// Items: I0Li (WC2Orc14Zuluhed2), Description (Description)
+{
+Jaki jest nasz następny cel, wodzu?
+}
+
+STRING 3865
+// Items: I0Li (WC2Orc14Zuluhed2), Name (Name)
+{
+WC2Orc14Zuluhed2
+}
+
+STRING 3866
+// Items: I0Lj (WC2Orc14Zuluhed3), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3867
+// Items: I0Lj (WC2Orc14Zuluhed3), Description (Description)
+{
+Dobrze, że zachowaliśmy naszą najpotężniejszą broń właśnie na tę chwilę — smoki! Dołączyło do nas stado z hodowli Smoczej Paszczy!
+}
+
+STRING 3868
+// Items: I0Lj (WC2Orc14Zuluhed3), Name (Name)
+{
+WC2Orc14Zuluhed3
+}
+
+STRING 3869
+// Items: I0Lk (WC2Orc14Zuluhed4), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3870
+// Items: I0Lk (WC2Orc14Zuluhed4), Description (Description)
+{
+Widzę Wyspę Krzyżową — kluczowy punkt obrony Dalaranu. Teron Krwawy Bies rozpoczął szturm, ale jego wojska posuwają się powoli.
+}
+
+STRING 3871
+// Items: I0Lk (WC2Orc14Zuluhed4), Name (Name)
+{
+WC2Orc14Zuluhed4
+}
+
+STRING 3872
+// Items: I0Ll (WC2Orc14Zuluhed5), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3873
+// Items: I0Ll (WC2Orc14Zuluhed5), Description (Description)
+{
+Trzy tajemne obserwatoria osłaniają serce wyspy — Fioletową Cytadelę. Gdy je zniszczymy, obrońcy Kirin Tor stracą swoje magiczne osłony.
+}
+
+STRING 3874
+// Items: I0Ll (WC2Orc14Zuluhed5), Name (Name)
+{
+WC2Orc14Zuluhed5
+}
+
+STRING 3875
+// Items: I0Lm (WC2Orc14Zuluhed6), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3876
+// Items: I0Lm (WC2Orc14Zuluhed6), Description (Description)
+{
+Cytadelę chroni zaklęcie arcymaga. Najpierw musimy go zabić.
+}
+
+STRING 3877
+// Items: I0Lm (WC2Orc14Zuluhed6), Name (Name)
+{
+WC2Orc14Zuluhed6
+}
+
+STRING 3878
+// Items: I0Ln (WC2Orc14Zuluhed7), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3879
+// Items: I0Ln (WC2Orc14Zuluhed7), Description (Description)
+{
+Smoki spalą umocnienia i przygotują teren do lądowania naszych wojsk.
+}
+
+STRING 3880
+// Items: I0Ln (WC2Orc14Zuluhed7), Name (Name)
+{
+WC2Orc14Zuluhed7
+}
+
+STRING 3881
+// Items: I0Lo (WC2Orc14Zuluhed8), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3882
+// Items: I0Lo (WC2Orc14Zuluhed8), Description (Description)
+{
+Ludzie…
+}
+
+STRING 3883
+// Items: I0Lo (WC2Orc14Zuluhed8), Name (Name)
+{
+WC2Orc14Zuluhed8
+}
+
+STRING 3884
+// Items: I0Lp (WC2Orc14Gorefiend1), Tip (Tooltip - Basic)
+{
+Teron Krwawy Bies
+}
+
+STRING 3885
+// Items: I0Lp (WC2Orc14Gorefiend1), Description (Description)
+{
+Twoje marne sztuczki nas nie powstrzymają, magu.
+}
+
+STRING 3886
+// Items: I0Lp (WC2Orc14Gorefiend1), Name (Name)
+{
+WC2Orc14Gorefiend1
+}
+
+STRING 3887
+// Items: I0Lq (WC2Orc14Gorefiend2), Tip (Tooltip - Basic)
+{
+Teron Krwawy Bies
+}
+
+STRING 3888
+// Items: I0Lq (WC2Orc14Gorefiend2), Description (Description)
+{
+Dobrze. Wojska Smoczej Paszczy i Uśmiechu Czarnego Zęba przybyły w samą porę. Ruszymy na południe i przygotujemy się do oblężenia miasta.
+}
+
+STRING 3889
+// Items: I0Lq (WC2Orc14Gorefiend2), Name (Name)
+{
+WC2Orc14Gorefiend2
+}
+
+STRING 3890
+// Items: I0Lr (WC2Orc14Archmage01), Tip (Tooltip - Basic)
+{
+Arcymag
+}
+
+STRING 3891
+// Items: I0Lr (WC2Orc14Archmage01), Description (Description)
+{
+Nie przejdziesz, wynaturzony nieumarły!
+}
+
+STRING 3892
+// Items: I0Lr (WC2Orc14Archmage01), Name (Name)
+{
+WC2Orc14Archmage01
+}
+
+STRING 3893
+// Items: I0Ls (WC2Orc14Retera1), Tip (Tooltip - Basic)
+{
+Retera Wololomanta
+}
+
+STRING 3894
+// Items: I0Ls (WC2Orc14Retera1), Description (Description)
+{
+Dziękuję, nieznajomi, że uwolniliście mnie z tego więzienia. Kirin Tor nie szanuje ambitnych czarodziejów takich jak ja.
+}
+
+STRING 3895
+// Items: I0Ls (WC2Orc14Retera1), Name (Name)
+{
+WC2Orc14Retera1
+}
+
+STRING 3896
+// Items: I0Lt (WC2Orc14Retera2), Tip (Tooltip - Basic)
+{
+Retera Wololomanta
+}
+
+STRING 3897
+// Items: I0Lt (WC2Orc14Retera2), Description (Description)
+{
+Uznali moje eksperymenty za zbyt śmiałe i ukarali mnie za nie. Mniejsza o to… Mam dość tego miejsca. A was wszystkich niech diabli wezmą!
+}
+
+STRING 3898
+// Items: I0Lt (WC2Orc14Retera2), Name (Name)
+{
+WC2Orc14Retera2
+}
+
+STRING 3899
+// Items: I0Lv (WC2Orc14Uther2), Tip (Tooltip - Basic)
+{
+Uther
+}
+
+STRING 3900
+// Items: I0Lu (WC2Orc14Uther1), Description (Description)
+{
+Tam będziesz bezpieczny, dziecko. Nie lękaj się. Światłość cię ochroni, a twoja matka i rodzeństwo będą cię potrzebować w podziemiach. Twoim obowiązkiem jest im pomóc. Idź już.
+}
+
+STRING 3901
+// Items: I0Lu (WC2Orc14Uther1), Name (Name)
+{
+WC2Orc14Uther1
+}
+
+STRING 3902
+// Items: I0Lw (WC2Orc14Uther3), Tip (Tooltip - Basic)
+{
+Uther
+}
+
+STRING 3903
+// Items: I0Lv (WC2Orc14Uther2), Description (Description)
+{
+Dobrze. Każ łucznikom zająć pozycje na blankach. Dziś Lordaeron nie upadnie!
+}
+
+STRING 3904
+// Items: I0Lv (WC2Orc14Uther2), Name (Name)
+{
+WC2Orc14Uther2
+}
+
+STRING 3905
+// Items: I0Lx (WC2Orc14Uther4), Tip (Tooltip - Basic)
+{
+Uther
+}
+
+STRING 3906
+// Items: I0Lw (WC2Orc14Uther3), Description (Description)
+{
+Czciciele demonów, niech oczyści was Światłość!
+}
+
+STRING 3907
+// Items: I0Lw (WC2Orc14Uther3), Name (Name)
+{
+WC2Orc14Uther3
+}
+
+STRING 3908
+// Items: I0Lz (WC2Orc14Uther5), Tip (Tooltip - Basic)
+{
+Uther
+}
+
+STRING 3909
+// Items: I0Lx (WC2Orc14Uther4), Description (Description)
+{
+Żołnierze! Bronić miasta za wszelką cenę!
+}
+
+STRING 3910
+// Items: I0Lx (WC2Orc14Uther4), Name (Name)
+{
+WC2Orc14Uther4
+}
+
+STRING 3912
+// Items: I0Lz (WC2Orc14Uther5), Description (Description)
+{
+Nie zdobędziecie tego miasta!
+}
+
+STRING 3913
+// Items: I0Lz (WC2Orc14Uther5), Name (Name)
+{
+WC2Orc14Uther5
+}
+
+STRING 3914
+// Items: I1LA (MuradinTaunt2), Tip (Tooltip - Basic)
+{
+Muradin Miedziobrody
+}
+
+STRING 3915
+// Items: I1LA (MuradinTaunt2), Description (Description)
+{
+Widywałem gnomy, co to miały większą krzepę w rękach.
+}
+
+STRING 3916
+// Items: I1LA (MuradinTaunt2), Name (Name)
+{
+MuradinTaunt2
+}
+
+STRING 3917
+// Items: I1LB (MuradinTaunt1), Tip (Tooltip - Basic)
+{
+Muradin Miedziobrody
+}
+
+STRING 3918
+// Items: I1LB (MuradinTaunt1), Description (Description)
+{
+Na więcej was nie stać?!
+}
+
+STRING 3919
+// Items: I1LB (MuradinTaunt1), Name (Name)
+{
+MuradinTaunt1
+}
+
+STRING 3920
+// Items: I1LC (MuradinWarcry1), Tip (Tooltip - Basic)
+{
+Muradin Miedziobrody
+}
+
+STRING 3922
+// Items: I1LC (MuradinWarcry1), Name (Name)
+{
+MuradinWarcry1
+}
+
+STRING 3923
+// Items: I1LD (MuradinYesAttack1), Tip (Tooltip - Basic)
+{
+Muradin Miedziobrody
+}
+
+STRING 3924
+// Items: I1LD (MuradinYesAttack1), Description (Description)
+{
+Za Khaz Modan!
+}
+
+STRING 3925
+// Items: I1LD (MuradinYesAttack1), Name (Name)
+{
+MuradinYesAttack1
+}
+
+STRING 3926
+// Items: ITLE (MuradinYesAttack2), Tip (Tooltip - Basic)
+{
+Muradin Miedziobrody
+}
+
+STRING 3927
+// Items: ITLE (MuradinYesAttack2), Description (Description)
+{
+Za Miedziobrodych!
+}
+
+STRING 3928
+// Items: ITLE (MuradinYesAttack2), Name (Name)
+{
+MuradinYesAttack2
+}
+
+STRING 3929
+// Items: I1LF (MuradinYesAttack3), Tip (Tooltip - Basic)
+{
+Muradin Miedziobrody
+}
+
+STRING 3930
+// Items: I1LF (MuradinYesAttack3), Description (Description)
+{
+Posmakuj tego, pieronie!
+}
+
+STRING 3931
+// Items: I1LF (MuradinYesAttack3), Name (Name)
+{
+MuradinYesAttack3
+}
+
+STRING 3932
+// Items: I1LG (WC2Orc14Captain1), Tip (Tooltip - Basic)
+{
+Kapitan
+}
+
+STRING 3933
+// Items: I1LG (WC2Orc14Captain1), Description (Description)
+{
+Panie Utherze, bramy zamknięte, balisty gotowe.
+}
+
+STRING 3934
+// Items: I1LG (WC2Orc14Captain1), Name (Name)
+{
+WC2Orc14Captain1
+}
+
+STRING 3935
+// Items: I1LH (WC2Orc14ChildTimmy1), Tip (Tooltip - Basic)
+{
+Timmy
+}
+
+STRING 3936
+// Items: I1LH (WC2Orc14ChildTimmy1), Description (Description)
+{
+Nie chcę iść do katakumb. Tam jest strasznie…
+}
+
+STRING 3937
+// Items: I1LH (WC2Orc14ChildTimmy1), Name (Name)
+{
+WC2Orc14ChildTimmy1
+}
+
+STRING 3938
+// Items: I1LI (GoblinSapperYes3), Tip (Tooltip - Basic)
+{
+Goblińscy saperzy
+}
+
+STRING 3939
+// Items: I1LI (GoblinSapperYes3), Description (Description)
+{
+Ale zaraz urwie!
+}
+
+STRING 3940
+// Items: I1LI (GoblinSapperYes3), Name (Name)
+{
+GoblinSapperYes3
+}
+
+STRING 3941
+// Upgrades: R00O (불타는 기름), EditorSuffix (Editor Suffix)
+{
+(WC2) (Broken)
+}
+
+STRING 3942
+// Units: nwzr (Wizard), Name (Name)
+{
+Czarodziej
+}
+
+STRING 3943
+// Units: nwzg (Senior Wizard), Name (Name)
+{
+Starszy czarodziej
+}
+
+STRING 3944
+// Units: nwzd (Dalaran Wizard), Name (Name)
+{
+Czarodziej Dalaranu
+}
+
+STRING 3945
+// Items: I0LG (WC2Orc14Orgrim7), Description (Description)
+{
+Nie, Rwiju. Fioletowa Cytadela Dalaranu jest sanktuarium i schronieniem magów Kirin Tor. Gdy Lordaeron upadnie, Dalaran będzie ostatnią i najgroźniejszą przeszkodą na drodze Hordy do podporządkowania sobie ludzi.
+}
+
+STRING 3946
+// Items: I1LC (MuradinWarcry1), Description (Description)
+{
+Na brodę dziadunia!
+}
+
+STRING 3947
+// Items: I0LO (WC2Orc14Rend1), Description (Description)
+{
+Wodzu, pojmaliśmy ocalałych z klanów Młota Zmierzchu i Łupieżców Burzy. Błagają o przebaczenie.
+}
+
+STRING 3948
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3949
+{
+|cffffcc00Kod wyłączony|r
+}
+
+STRING 3950
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3951
+{
+|cffffcc00Kod wyłączony|r
+}
+
+STRING 3952
+// Upgrades: RM61 (영혼 방랑자 중급 훈련,영혼 방랑자 고급 훈련), EditorSuffix (Editor Suffix)
+{
+(Cross Island)
+}
+
+STRING 3953
+// Upgrades: RM61 (영혼 방랑자 중급 훈련,영혼 방랑자 고급 훈련), Name (Name)
+{
+Zniszczone obserwatoria
+}
+
+STRING 3954
+// Upgrades: RM61 (영혼 방랑자 중급 훈련,영혼 방랑자 고급 훈련), Tip (Tooltip)
+{
+Zniszczone obserwatoria
+}
+
+STRING 3955
+// Upgrades: RM61 (영혼 방랑자 중급 훈련,영혼 방랑자 고급 훈련), Ubertip (Tooltip - Extended)
+{
+Zuluhed nie może używać Dzikiego Skoku z powodu zaklęcia ochronnego rzuconego przez czarodziejów Dalaranu.
+}
+
+STRING 3956
+// Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
+{
+Podejrzana wrona
+}
+
+STRING 3957
+// Items: IQL0 (Bonecrusher), Description (Description)
+{
+Brutal
+}
+
+STRING 3958
+// Items: IQL0 (Bonecrusher), Name (Name)
+{
+Miażdżyciel kości
+}
+
+STRING 3959
+// Items: IQL0 (Bonecrusher), Ubertip (Tooltip - Extended)
+{
+Dolly
+}
+
+STRING 3966
+// Units: nhea (Elven Sentinel), Tip (Tooltip - Basic)
+{
+Szkolenie Elfiego Wartownika
+}
+
+STRING 3967
+// Units: nhea (Elven Sentinel), Name (Name)
+{
+Elfi wartownik
+}
+
+STRING 3968
+// Units: h60B (Bowman), Name (Name)
+{
+Łucznik
+}
+
+STRING 3974
+// Units: n608 (Abbot), Name (Name)
+{
+Opat
+}
+
+STRING 3975
+// Doodads: DSLC (Statue Lordaeron), Name (Name)
+{
+Statue Lordaeron
+}
+
+STRING 3976
+{
+Zabij strażników arcymaga
+}
+
+STRING 3978
+{
+Strażnicy:
+}
+
+STRING 3979
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3980
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3981
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3982
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3983
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3984
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3985
+{
+Flota Przymierza przerwała ataki, ponieważ wyczerpały się jej zapasy ropy.
+}
+
+STRING 3987
+{
+|cffffcc00NOWE ULEPSZENIE|r
+Przewóz Pasażerów. Goblińscy inżynierowie mogą ulepszyć sterowce, by przewoziły do 4 małych lub 2 dużych jednostek.
+}
+
+STRING 3988
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3989
+{
+Diagnostyka |cffff0000wyłączona|r
+}
+
+STRING 3990
+{
+Diagnostyka |cff00ff00włączona|r
+}
+
+STRING 3991
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Port Lordaeronu
+|cffc0c0c0 - Zniszcz odlewnię (wykonano)|r
+
+}
+
+STRING 3993
+{
+|cffffcc00AKTUALIZACJA ZADANIA GŁÓWNEGO|r
+Port Lordaeronu
+|cffc0c0c0 - Zniszcz odlewnię (wykonano)|r
+
+}
+
+STRING 3994
+// Doodads: DLow (Light Orange Med), Name (Name)
+{
+Light Orange Med
+}
+
+STRING 3995
+{
+Wyspa Krzyżowa
+}
+
+STRING 3996
+{
+Fioletowa Cytadela na Wyspie Krzyżowej strzeże dostępu do Dalaranu. Złup cytadelę, zabij jej arcymaga i zniszcz umocnienia. Dopiero wtedy droga do Dalaranu stanie otworem.
+}
+
+STRING 3997
+{
+Zniszcz tajemne obserwatoria (0/3)
+}
+
+STRING 3998
+{
+Zabij arcymaga
+}
+
+STRING 3999
+{
+Zniszcz Fioletową Cytadelę
+}
+
+STRING 4000
+{
+Rwij musi przeżyć
+}
+
+STRING 4001
+{
+Szarp musi przeżyć
+}
+
+STRING 4002
+{
+Zuluhed musi przeżyć
+}
+
+STRING 4003
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Wyspa Krzyżowa
+- Zniszcz tajemne obserwatoria
+- Zabij arcymaga
+- Zniszcz Fioletową Cytadelę
+- Rwij musi przeżyć
+- Szarp musi przeżyć
+- Zuluhed musi przeżyć
+
+}
+
+STRING 4004
+{
+Tajemne obserwatoria
+}
+
+STRING 4005
+{
+Zniszczone
+}
+
+STRING 4006
+// Units: h9ZZ (Frigate), Name (Name)
+{
+Fregata
+}
+
+STRING 4009
+// Units: h9Zz (Battleship), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 4010
+// Units: h9Zz (Battleship), Name (Name)
+{
+Pancernik
+}
+
+STRING 4011
+// Units: h9Zz (Battleship), Tip (Tooltip - Basic)
+{
+Zbuduj pancernik
+}
+
+STRING 4012
+// Units: h9Zz (Battleship), Ubertip (Tooltip - Extended)
+{
+Potężne uzbrojenie i niezrównany pancerz czynią z tych olbrzymich jednostek najgroźniejsze okręty Przymierza. Choć powolne, dzięki ogromnej sile ognia panują na morzach.|n|n|cffffcc00Zdolności:|r Działo Dziobowe.|n|n|cffffcc00Atakują jednostki naziemne i morskie.|r|n|n|cffffcc00Wymagają|r 1000 |cffffcc00jednostek ropy.|r
+}
+
+STRING 4013
+// Units: h9ZY (Submarine), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 4014
+// Units: h9ZY (Submarine), Name (Name)
+{
+Łódź podwodna
+}
+
+STRING 4015
+// Units: h9ZY (Submarine), Tip (Tooltip - Basic)
+{
+Zbuduj łódź podwodną
+}
+
+STRING 4016
+// Units: h9Zy (Gnomish Flying Machine), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 4017
+// Units: h9ZY (Submarine), Ubertip (Tooltip - Extended)
+{
+Zanurzoną łódź podwodną mogą wykryć tylko wieże z magicznymi wartownikami, zwiadowcy powietrzni i inne jednostki pływające pod wodą.|n|n|cffffcc00Zdolności:|r Luneta, Zanurzenie.|n|n|cffffcc00Atakuje jednostki morskie i budowle na wodzie.|r|n|n|cffffcc00Wymaga|r 800 |cffffcc00jednostek ropy.|r
+}
+
+STRING 4018
+// Units: h9ZY (Submarine), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 4019
+// Units: h9Zy (Gnomish Flying Machine), Ubertip (Tooltip - Extended)
+{
+Cud gnomiej pomysłowości i odwagi. Maszyna latająca wykrywa ukrytych wrogów, takich jak miny morskie lub zanurzone żółwie.|nPo ulepszeniu może bombardować cele naziemne i naprawiać uszkodzone budynki, balisty oraz okręty.|n|n|cffffcc00Zdolności:|r Luneta, Bomby Maszyny Latającej, Naprawa.|n|n|cffffcc00Atakuje jednostki latające.|r
+}
+
+STRING 4020
+// Units: h9Zy (Gnomish Flying Machine), Name (Name)
+{
+Gnomia maszyna latająca
+}
+
+STRING 4021
+// Units: h9Zy (Gnomish Flying Machine), Tip (Tooltip - Basic)
+{
+Zbuduj gnomią maszynę latającą
+}
+
+STRING 4022
+// Units: h9ZZ (Frigate), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 4023
+// Units: h9ZW (Demolition Squad), Name (Name)
+{
+Oddział saperów
+}
+
+STRING 4024
+// Units: h9ZW (Demolition Squad), Tip (Tooltip - Basic)
+{
+Wyszkol oddział saperów
+}
+
+STRING 4025
+// Units: h9ZW (Demolition Squad), Ubertip (Tooltip - Extended)
+{
+Z głębokich hal Khaz Modan przybywają oddziały saperów — mistrzowie materiałów wybuchowych, zdolni rozsadzać mury i kamienne umocnienia. Zuchwali i nieustraszeni, w służbie Przymierza podkładają ładunki, by niszczyć wrogie umocnienia.|nJednorazowego użytku. Szczególnie skuteczni przeciw budynkom.|n|n|cffffcc00Atakują jednostki naziemne i drzewa.|r
+}
+
+STRING 4026
+// Units: h9ZW (Demolition Squad), EditorSuffix (Name - Editor Suffix)
+{
+(WC2 attacker)
+}
+
+STRING 4027
+// Units: h9ZW (Demolition Squad), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 4028
+// Units: h9Zw (그리핀 기수), Ubertip (Tooltip - Extended)
+{
+Dosiadające legendarnych bestii i uzbrojone w mistyczne młoty burzy krasnoludy z klanu Dzikiego Młota przyłączyły się do Przymierza ze względu na dawną przyjaźń z elfami Quel’Thalas oraz wdzięczność dla Anduina Lothara, który niegdyś ocalił ich pobratymców.|n|n|cffffcc00Zdolności:|r Młoty Burzy, Żelazne Pióra.|n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 4029
+// Units: h9Zw (그리핀 기수), EditorSuffix (Name - Editor Suffix)
+{
+(WC2 Standard)
+}
+
+STRING 4030
+// Items: I0LP (WC2Orc14Rend2), Description (Description)
+{
+Zdrada Gul’dana tak wiele nas kosztowała… Uznaliśmy, że roztropniej będzie oddać ich pod twój osąd, niż od razu wybić.
+}
+
+STRING 4032
+{
+Złoże ropy jest na wyczerpaniu
+}
+
+STRING 4035
+{
+|c00640000Złoże ropy zostało wyczerpane|r
+}
+
+STRING 4038
+{
+Odbieraj ropę z platform wiertniczych.
+}
+
+STRING 4041
+{
+Dostarcz ropę
+}
+
+STRING 4045
+{
+Wydobywaj ropę
+}
+
+STRING 4048
+{
+Dostarcz ropę do najbliższej stoczni.
+}
+
+STRING 4052
+{
+Ropę pozyskuje się ze złóż ropy.
+}
+
+STRING 4055
+{
+Ropa: 
+}
+
+STRING 4058
+{
+Ropa: 0
+}
+

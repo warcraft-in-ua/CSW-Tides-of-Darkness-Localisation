@@ -1,0 +1,2766 @@
+﻿STRING 1
+{
+WC2Orc12
+}
+
+STRING 2
+{
+Zaginione wyspy
+}
+
+STRING 3
+{
+Blizzard\LoreCraftDesigns
+}
+
+STRING 283
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 291
+{
+|cffffcc00ODKRYTO TAJEMNY OBSZAR|r
+Pradawna biblioteka została odnaleziona.
+}
+
+STRING 292
+{
+Pościg za Gul’danem
+}
+
+STRING 293
+{
+Gul’dan i jego zdradzieckie klany wylądowali na jednej z tych wysp i założyli obóz. Znajdź go i dokonaj zemsty w imieniu wodza!
+}
+
+STRING 294
+{
+Znajdź Gul’dana.
+}
+
+STRING 296
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Pościg za Gul’danem
+}
+
+STRING 297
+{
+Niedobitki Rady Cieni
+}
+
+STRING 298
+{
+Aby Drak’thul przeszedł na twoją stronę i pomógł odnaleźć Gul’dana, musisz zniszczyć obóz czarnoksiężników Rady Cieni. Drak’thul boi się zemsty za zdradę i chce zabezpieczyć się artefaktem, który posiadają jego dawni towarzysze.
+}
+
+STRING 299
+{
+Zniszcz obóz Rady Cieni
+}
+
+STRING 300
+{
+Zanieś artefakt Drak’thulowi.
+}
+
+STRING 301
+{
+|cffffcc00ZADANIE DODATKOWE|r
+Niedobitki Rady Cieni
+ - Zniszcz obóz Rady Cieni
+ - Zanieś artefakt Drak’thulowi
+}
+
+STRING 302
+{
+|cffffcc00AKTUALIZACJA ZADANIA DODATKOWEGO|r
+Niedobitki Rady Cieni
+|cffc0c0c0 - Zniszcz obóz Rady Cieni (wykonano)|r
+ - Zanieś artefakt Drak’thulowi
+}
+
+STRING 303
+{
+|cffffcc00ZADANIE DODATKOWE UKOŃCZONE|r
+Niedobitki Rady Cieni
+}
+
+STRING 304
+{
+Grobowiec Sargerasa
+}
+
+STRING 305
+{
+Gul’dan wszedł do pradawnej świątyni i kazał swojemu sługusowi, Cho’gallowi, zatrzymać pościg. Czas położyć kres temu zdradzieckiemu ogrowi. Zabij go i wszystkich, którzy pomagają mu zagrodzić ci drogę.
+}
+
+STRING 306
+{
+Pokonaj Cho’galla przy wejściu do grobowca.
+}
+
+STRING 307
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Grobowiec Sargerasa
+ - Pokonaj Cho’galla przy wejściu do grobowca
+ - Szarp musi przeżyć
+ - Rwij musi przeżyć
+}
+
+STRING 308
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Grobowiec Sargerasa
+}
+
+STRING 353
+{
+Drak'thul
+}
+
+STRING 406
+{
+Horda orków
+}
+
+STRING 407
+{
+Klan Młota Zmierzchu
+}
+
+STRING 408
+{
+Klan Łupieżców Burzy
+}
+
+STRING 410
+{
+Horda
+}
+
+STRING 411
+{
+Zdrajcy
+}
+
+STRING 414
+// Units: n61Y (Drak'thul's hut), Name (Name)
+{
+Chata Drak’thula
+}
+
+STRING 438
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 439
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 440
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 441
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 442
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 443
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 444
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 445
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 446
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 447
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 448
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 449
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 457
+{
+Jednostka pomocnicza sceny filmowej
+}
+
+STRING 458
+{
+Zbuduj więcej farm, aby szkolić kolejne jednostki.,Zbuduj więcej chlewni, aby szkolić kolejne jednostki.,Przyzwij więcej zigguratów, aby szkolić kolejne jednostki.,Stwórz więcej księżycowych studni, aby szkolić kolejne jednostki.
+}
+
+STRING 459
+{
+Nie można użyć platformy wiertniczej.
+}
+
+STRING 460
+{
+To złoże ropy jest już eksploatowane.
+}
+
+STRING 461
+{
+Najpierw trzeba zbudować platformę wiertniczą.
+}
+
+STRING 462
+{
+Należy wskazać złoże ropy.
+}
+
+STRING 463
+{
+Ten budynek można wznieść tylko na złożu ropy.
+}
+
+STRING 464
+{
+Bohatera można wskrzesić w wielkiej sali.
+}
+
+STRING 465
+{
+Nieświęty
+}
+
+STRING 467
+// Units: hrtt (Elven Ranger), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 468
+// Units: hrtt (Elven Ranger), Name (Name)
+{
+Elfia łowczyni
+}
+
+STRING 469
+// Units: hrtt (Elven Ranger), Ubertip (Tooltip - Extended)
+{
+Podstawowa jednostka o dużym zasięgu ataku. Może korzystać z ulepszeń Celność, Ulepszone łuki i Oswajanie hipogryfów.|n|n|cffffcc00Atakuje jednostki naziemne i powietrzne.|r
+}
+
+STRING 470
+// Units: htow (마을 회관), Ubertip (Tooltip - Extended)
+{
+Mistrzowskie szkolenie magów (|cffffcc00O|r)
+}
+
+STRING 471
+// Units: negf (대지 분노 탑), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 472
+// Units: negm (하늘 분노 탑), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 473
+// Units: nefm (하이 엘프족 농장), Tip (Tooltip - Basic)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Spowolnienia.
+}
+
+STRING 474
+// Units: nefm (하이 엘프족 농장), Ubertip (Tooltip - Extended)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Spowolnienia.
+}
+
+STRING 475
+// Units: hgra (그리핀 사육장), Ubertip (Tooltip - Extended)
+{
+Zwiększa maksymalną manę, zdrowie, obrażenia od ataku oraz szybkość regeneracji many magów. Pozwala im także nauczyć się Niewidzialności.
+}
+
+STRING 476
+// Units: Hblm (Elven Mage), Name (Name)
+{
+Elfi mag
+}
+
+STRING 477
+// Units: nchp (Magistrate), Name (Name)
+{
+Zarządca
+}
+
+STRING 478
+// Units: nwc1 (Cage), Name (Name)
+{
+Klatka
+}
+
+STRING 479
+// Units: nwc1 (Cage), Tip (Tooltip - Basic)
+{
+Zbuduj klatkę
+}
+
+STRING 480
+// Units: nwc1 (Cage), Description (Description)
+{
+Solidna klatka przeznaczona do przetrzymywania jeńców.
+}
+
+STRING 481
+// Units: nbel (High Elf Captain), Name (Name)
+{
+Kapitan wysokich elfów
+}
+
+STRING 482
+// Units: nbel (High Elf Captain), Tip (Tooltip - Basic)
+{
+Wyszkol kapitana wysokich elfów
+}
+
+STRING 483
+// Units: nbel (High Elf Captain), Ubertip (Tooltip - Extended)
+{
+Potężny kapitan armii Srebrnej Luny. Specjalizuje się w zwalczaniu jednostek rzucających zaklęcia.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 505
+// Units: O002 (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 513
+// Units: n008 (Twilight Cultist), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 514
+// Units: n008 (Twilight Cultist), Ubertip (Tooltip - Extended)
+{
+Wojownik Legionu Ogrów posługujący się magią. Potrafi rzucać Żądzę Krwi. Może nauczyć się Oka Kilrogga i Run.|n|n|cffffcc00Atakuje jednostki naziemne.|r
+}
+
+STRING 528
+// Units: O001 (Ogre Magi), Propernames (Proper Names)
+{
+Cho'gall
+}
+
+STRING 530
+// Units: O001 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Ożywienie ogra maga (|cffffcc00O|r)
+}
+
+STRING 531
+// Units: O001 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Ożywienie ogra maga (|cffffcc00O|r)
+}
+
+STRING 533
+// Units: O001 (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogrzy mag (|cffffcc00O|r)
+}
+
+STRING 551
+// Units: O007 (Shaman), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 644
+// Units: n00F (Doomguard), EditorSuffix (Name - Editor Suffix)
+{
+(Scena filmowa)
+}
+
+STRING 801
+// Units: O002 (Shaman), Propernames (Proper Names)
+{
+Zuluhed Szalony
+}
+
+STRING 802
+// Units: O002 (Shaman), Name (Name)
+{
+Szaman
+}
+
+STRING 805
+// Units: O002 (Shaman), Revivetip (Tooltip - Revive)
+{
+Ożywienie szamana (|cffffcc00S|r)
+}
+
+STRING 806
+// Units: O002 (Shaman), Tip (Tooltip - Basic)
+{
+Ożywienie szamana (|cffffcc00S|r)
+}
+
+STRING 807
+// Units: O002 (Shaman), Awakentip (Tooltip - Awaken)
+{
+Szaman (|cffffcc00S|r)
+}
+
+STRING 846
+// Units: O007 (Shaman), Propernames (Proper Names)
+{
+Zuluhed Szalony
+}
+
+STRING 847
+// Units: O007 (Shaman), Name (Name)
+{
+Szaman
+}
+
+STRING 849
+// Units: O007 (Shaman), Awakentip (Tooltip - Awaken)
+{
+Szaman (|cffffcc00S|r)
+}
+
+STRING 850
+// Units: O007 (Shaman), Revivetip (Tooltip - Revive)
+{
+Ożywienie szamana (|cffffcc00S|r)
+}
+
+STRING 851
+// Units: O002 (Shaman), Ubertip (Tooltip - Extended)
+{
+Mistyczny bohater, mistrz walki na dystans i zwiadu. Może nauczyć się Seryjnych Błyskawic, Dalekowidzenia, Ducha Wilka i Trzęsienia Ziemi.|n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 852
+// Units: O007 (Shaman), Tip (Tooltip - Basic)
+{
+Ożywienie szamana (|cffffcc00S|r)
+}
+
+STRING 887
+// Units: n60V (Duck), Name (Name)
+{
+Kaczka
+}
+
+STRING 888
+// Units: n60V (Duck), Tip (Tooltip - Basic)
+{
+Zwykła krzyżówka
+}
+
+STRING 917
+// Destructibles: B60R (Spike Wall), Name (Name)
+{
+Palisada z kolców
+}
+
+STRING 971
+// Doodads: D6GR (Shark), Name (Name)
+{
+Rekin
+}
+
+STRING 990
+// Units: u005 (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 1001
+// Units: n60Y (Raven), Name (Name)
+{
+Kruk
+}
+
+STRING 1010
+// Units: n60Z (Spiders), Name (Name)
+{
+Pająki
+}
+
+STRING 1011
+// Units: n60Z (Spiders), Tip (Tooltip - Basic)
+{
+Pająki
+}
+
+STRING 1052
+// Units: n611 (Wolf), Name (Name)
+{
+Wilk
+}
+
+STRING 1053
+// Units: n611 (Wolf), EditorSuffix (Name - Editor Suffix)
+{
+(Rend)
+}
+
+STRING 1066
+// Units: O005 (Ogre Magi), Propernames (Proper Names)
+{
+Cho'gall
+}
+
+STRING 1068
+// Units: O005 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Ożywienie ogra maga (|cffffcc00O|r)
+}
+
+STRING 1069
+// Units: O005 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Ożywienie ogra maga (|cffffcc00O|r)
+}
+
+STRING 1070
+// Units: O005 (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogrzy mag (|cffffcc00O|r)
+}
+
+STRING 1225
+// Units: n61Y (Drak'thul's hut), EditorSuffix (Name - Editor Suffix)
+{
+(Kampania)
+}
+
+STRING 1296
+// Destructibles: LTex (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1317
+// Destructibles: ATwf (Wharf), Name (Name)
+{
+Nabrzeże
+}
+
+STRING 1318
+// Destructibles: GTsh (Shrooms), Name (Name)
+{
+Grzyby
+}
+
+STRING 1319
+// Destructibles: B615 (Barrel with Oil), Name (Name)
+{
+Beczka Ropy
+}
+
+STRING 1320
+// Destructibles: OTsp (Portal), Name (Name)
+{
+Portal
+}
+
+STRING 1336
+// Destructibles: B615 (Barrel with Oil), EditorSuffix (Editor Suffix)
+{
+(No Path)
+}
+
+STRING 1355
+// Destructibles: B62R (Old Tomb), Name (Name)
+{
+Stary grobowiec
+}
+
+STRING 1357
+// Destructibles: B62T (Egg), Name (Name)
+{
+Jajo
+}
+
+STRING 1362
+// Destructibles: B600 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1363
+// Destructibles: B600 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Ramp)
+}
+
+STRING 1366
+// Destructibles: B603 (Cliffs), Name (Name)
+{
+Klify
+}
+
+STRING 1369
+// Destructibles: B603 (Cliffs), EditorSuffix (Editor Suffix)
+{
+(Doodad)
+}
+
+STRING 1385
+// Destructibles: B60U (Chest), Name (Name)
+{
+Skrzynia
+}
+
+STRING 1395
+// Destructibles: B60V (Bushes), Name (Name)
+{
+Krzewy
+}
+
+STRING 1400
+// Destructibles: B61X (Orc Grave Stone), Name (Name)
+{
+Orczy nagrobek
+}
+
+STRING 1401
+// Destructibles: B61Y (Rubble), Name (Name)
+{
+Gruz
+}
+
+STRING 1402
+// Destructibles: B61Z (Spider Web), Name (Name)
+{
+Pajęczyna
+}
+
+STRING 1432
+// Destructibles: B625 (CliffBaseA), Name (Name)
+{
+Podstawa klifu A
+}
+
+STRING 1433
+// Destructibles: B626 (CliffBaseB), Name (Name)
+{
+Podstawa klifu B
+}
+
+STRING 1434
+// Destructibles: B627 (CliffBaseC), Name (Name)
+{
+Podstawa klifu C
+}
+
+STRING 1435
+// Destructibles: B628 (CliffBaseD), Name (Name)
+{
+Podstawa klifu D
+}
+
+STRING 1476
+// Doodads: D60Z (Storm Reaver Banner), Name (Name)
+{
+Storm Reaver Banner
+}
+
+STRING 1477
+// Doodads: D612 (Twilight Clan Banner), Name (Name)
+{
+Twilight Clan Banner
+}
+
+STRING 1478
+// Doodads: D613 (Black Tooth Grin Banner), Name (Name)
+{
+Black Tooth Grin Banner
+}
+
+STRING 1488
+// Doodads: D66T (Animated Bushes), Name (Name)
+{
+Animated Bushes
+}
+
+STRING 1490
+// Doodads: D693 (Web Animated), Name (Name)
+{
+Web Animated
+}
+
+STRING 1525
+// Doodads: D6AV (DragonMaw Banner), Name (Name)
+{
+DragonMaw Banner
+}
+
+STRING 1599
+// Doodads: D6F9 (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 1636
+// Doodads: D609 (Rack Armor Orc), Name (Name)
+{
+Rack Armor Orc
+}
+
+STRING 1637
+// Doodads: D60L (Rack Weapon Orc), Name (Name)
+{
+Rack Weapon Orc
+}
+
+STRING 1638
+// Doodads: D60N (FireWoods), Name (Name)
+{
+FireWoods
+}
+
+STRING 1679
+// Units: ntor (Whirlwind), Name (Name)
+{
+Wir
+}
+
+STRING 2842
+{
+Cinematic Blackrock
+}
+
+STRING 2843
+{
+Cinematic Blacktooth
+}
+
+STRING 2844
+{
+Cinematic Dragonmaw
+}
+
+STRING 2845
+{
+Cinemaitc
+}
+
+STRING 2848
+{
+Klan Uśmiechu Czarnego Zęba
+}
+
+STRING 2851
+// Doodads: D000 (ToS Exterior Main Tower), Name (Name)
+{
+ToS Exterior Main Tower
+}
+
+STRING 2852
+// Doodads: D001 (ToS Exterior Tower), Name (Name)
+{
+ToS Exterior Tower
+}
+
+STRING 2853
+// Doodads: D002 (ToS Exterior Wall), Name (Name)
+{
+ToS Exterior Wall
+}
+
+STRING 2854
+// Doodads: D003 (ToS Column), Name (Name)
+{
+ToS Column
+}
+
+STRING 2855
+// Doodads: D004 (ToS Wall), Name (Name)
+{
+ToS Wall
+}
+
+STRING 2856
+// Doodads: D005 (ToS Column Broken), Name (Name)
+{
+ToS Column Broken
+}
+
+STRING 2857
+// Doodads: D006 (ToS Exterior Gate), Name (Name)
+{
+ToS Exterior Gate
+}
+
+STRING 2858
+// Doodads: D007 (ToS Archway), Name (Name)
+{
+ToS Archway
+}
+
+STRING 2859
+// Doodads: D008 (ToS Statue), Name (Name)
+{
+ToS Statue
+}
+
+STRING 2861
+// Doodads: D009 (ToS Statues), Name (Name)
+{
+ToS Statues
+}
+
+STRING 2862
+// Doodads: D00A (ToS Statues Broken), Name (Name)
+{
+ToS Statues Broken
+}
+
+STRING 2864
+// Doodads: D00C (ToS Rubble), Name (Name)
+{
+ToS Rubble
+}
+
+STRING 2866
+// Doodads: D00E (ToS Corals 2), Name (Name)
+{
+ToS Corals 2
+}
+
+STRING 2868
+// Doodads: D00G (ToS Seaweed 1), Name (Name)
+{
+ToS Seaweed 1
+}
+
+STRING 2870
+// Doodads: D00I (ToS Cattail), Name (Name)
+{
+ToS Cattail
+}
+
+STRING 2871
+// Doodads: D00J (Waterfall Mini), Name (Name)
+{
+Waterfall Mini
+}
+
+STRING 2872
+// Doodads: D00K (ToS Column Semi Circle), Name (Name)
+{
+ToS Column Semi Circle
+}
+
+STRING 2873
+// Doodads: D00L (ToS Column Semi Circle Ruined), Name (Name)
+{
+ToS Column Semi Circle Ruined
+}
+
+STRING 2874
+// Doodads: D00B (ToS Rocks 1), Name (Name)
+{
+ToS Rocks 1
+}
+
+STRING 2875
+// Doodads: D00M (ToS Rocks 2), Name (Name)
+{
+ToS Rocks 2
+}
+
+STRING 2876
+// Doodads: D00N (ToS Rocks 3), Name (Name)
+{
+ToS Rocks 3
+}
+
+STRING 2877
+// Doodads: D00O (ToS Rocks 4), Name (Name)
+{
+ToS Rocks 4
+}
+
+STRING 2878
+// Doodads: D00P (ToS Rocks 5), Name (Name)
+{
+ToS Rocks 5
+}
+
+STRING 2879
+// Doodads: D00Q (ToS Rocks 6), Name (Name)
+{
+ToS Rocks 6
+}
+
+STRING 2880
+// Doodads: D00F (ToS Barnacles), Name (Name)
+{
+ToS Barnacles
+}
+
+STRING 2882
+// Doodads: D00H (ToS Seaweed Hanging 1), Name (Name)
+{
+ToS Seaweed Hanging 1
+}
+
+STRING 2883
+// Doodads: D00R (ToS Seaweed Hanging 2), Name (Name)
+{
+ToS Seaweed Hanging 2
+}
+
+STRING 2884
+// Doodads: D00D (ToS Corals Red), Name (Name)
+{
+ToS Corals Red
+}
+
+STRING 2885
+// Doodads: D00S (ToS Seaweed 2), Name (Name)
+{
+ToS Seaweed 2
+}
+
+STRING 2886
+// Doodads: D00T (ToS Seaweed 3), Name (Name)
+{
+ToS Seaweed 3
+}
+
+STRING 2888
+// Doodads: D00U (ToS Exterior Wall (Angled)), Name (Name)
+{
+ToS Exterior Wall (Angled)
+}
+
+STRING 2889
+// Doodads: D00V (ToS Corals 3), Name (Name)
+{
+ToS Corals 3
+}
+
+STRING 2890
+// Destructibles: B000 (Ancient Tree), Name (Name)
+{
+Pradawne drzewo
+}
+
+STRING 2891
+// Destructibles: B000 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 1)
+}
+
+STRING 2892
+// Destructibles: B001 (Ancient Tree), Name (Name)
+{
+Pradawne drzewo
+}
+
+STRING 2893
+// Destructibles: B001 (Ancient Tree), EditorSuffix (Editor Suffix)
+{
+(ToS 2)
+}
+
+STRING 2894
+// Doodads: D00W (ToS Bench), Name (Name)
+{
+ToS Bench
+}
+
+STRING 2895
+// Doodads: D00X (ToS Fountain), Name (Name)
+{
+ToS Fountain
+}
+
+STRING 2896
+// Doodads: D00Y (ToS Fountain Broken), Name (Name)
+{
+ToS Fountain Broken
+}
+
+STRING 2898
+// Doodads: D00Z (Hay Roof), Name (Name)
+{
+Hay Roof
+}
+
+STRING 2899
+// Doodads: D010 (ToS Statues (angle)), Name (Name)
+{
+ToS Statues (angle)
+}
+
+STRING 2900
+// Doodads: D011 (ToS Rock Archway), Name (Name)
+{
+ToS Rock Archway
+}
+
+STRING 2901
+// Doodads: D012 (Black), Name (Name)
+{
+Black
+}
+
+STRING 2902
+// Destructibles: B002 (Torch), Name (Name)
+{
+Pochodnia
+}
+
+STRING 2903
+// Destructibles: B005 (Ritual), Name (Name)
+{
+Rytuał
+}
+
+STRING 2904
+// Destructibles: B003 (Ritual Fel), Name (Name)
+{
+Rytuał spaczenia
+}
+
+STRING 2905
+// Destructibles: B004 (Ritual Void), Name (Name)
+{
+Rytuał Pustki
+}
+
+STRING 2906
+// Destructibles: B006 (Ritual Fire), Name (Name)
+{
+Rytuał ognia
+}
+
+STRING 2907
+// Units: n004 (Ancient Dragon Turtle), Name (Name)
+{
+Pradawny smoczy żółw
+}
+
+STRING 2911
+// Destructibles: DEGG (Egg), Name (Name)
+{
+Jajo
+}
+
+STRING 2912
+// Destructibles: DEGG (Egg), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 2915
+// Units: O006 (Ogre Magi), Propernames (Proper Names)
+{
+Cho'gall
+}
+
+STRING 2917
+// Units: O006 (Ogre Magi), Revivetip (Tooltip - Revive)
+{
+Ożywienie ogra maga (|cffffcc00O|r)
+}
+
+STRING 2918
+// Units: O006 (Ogre Magi), Awakentip (Tooltip - Awaken)
+{
+Ożywienie ogra maga (|cffffcc00O|r)
+}
+
+STRING 2919
+// Units: O006 (Ogre Magi), Tip (Tooltip - Basic)
+{
+Ogrzy mag (|cffffcc00O|r)
+}
+
+STRING 2920
+// Units: n006 (촉수), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2924
+// Units: O002 (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2930
+// Destructibles: DMAG (Magical Barrier), Name (Name)
+{
+Magiczna bariera
+}
+
+STRING 2931
+// Destructibles: DMAG (Magical Barrier), EditorSuffix (Editor Suffix)
+{
+(Fake)
+}
+
+STRING 2932
+// Destructibles: DIG1 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2933
+// Destructibles: DIG2 (Invisible Gate), Name (Name)
+{
+Invisible Gate
+}
+
+STRING 2939
+// Units: O007 (Shaman), Ubertip (Tooltip - Extended)
+{
+Mistyczny bohater, mistrz walki na dystans i zwiadu. Może nauczyć się Seryjnych Błyskawic, Dalekowidzenia, Ducha Wilka i Trzęsienia Ziemi.|n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
+}
+
+STRING 2941
+// Units: n007 (Orb of Fire), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2943
+// Units: n008 (Twilight Cultist), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 2948
+// Units: n007 (Orb of Fire), Name (Name)
+{
+Kula ognia
+}
+
+STRING 2968
+// Destructibles: B00B (Old God Eye), Name (Name)
+{
+Oko Starego Boga
+}
+
+STRING 2969
+// Destructibles: B00C (Old God Tentacle), Name (Name)
+{
+Macka Starego Boga
+}
+
+STRING 2970
+// Units: u005 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Zaklęcia)
+}
+
+STRING 3150
+// Units: O001 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 1)
+}
+
+STRING 3156
+// Units: O005 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 3)
+}
+
+STRING 3162
+// Units: O006 (Ogre Magi), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight - Phase 2)
+}
+
+STRING 3209
+// Units: n008 (Twilight Cultist), Name (Name)
+{
+Kultysta Zmierzchu
+}
+
+STRING 3210
+// Destructibles: B008 (ToS Tombguard Scene), Name (Name)
+{
+ToS Tombguard Scene
+}
+
+STRING 3211
+// Destructibles: B007 (ToS Guldan Scene), Name (Name)
+{
+ToS Guldan Scene
+}
+
+STRING 3212
+// Destructibles: B009 (ToS Gate), Name (Name)
+{
+Brama grobowca
+}
+
+STRING 3213
+// Doodads: D013 (ToS Stairs), Name (Name)
+{
+ToS Stairs
+}
+
+STRING 3221
+// Units: O007 (Shaman), EditorSuffix (Name - Editor Suffix)
+{
+(Cinematic Fly)
+}
+
+STRING 3222
+// Units: n00D (Rend's Wolf), Name (Name)
+{
+Wilk Rwija
+}
+
+STRING 3223
+// Destructibles: B00A (Fake Sky Ashenvale), Name (Name)
+{
+Fake Sky Ashenvale
+}
+
+STRING 3225
+// Units: n00E (Highborne Ghost), Name (Name)
+{
+Duch wysokourodzonego
+}
+
+STRING 3226
+// Destructibles: B00D (Ghost), Name (Name)
+{
+Duch
+}
+
+STRING 3227
+// Destructibles: B00E (Suspicious Dirt Pile), Name (Name)
+{
+Podejrzana sterta ziemi
+}
+
+STRING 3228
+// Destructibles: B00E (Suspicious Dirt Pile), EditorSuffix (Editor Suffix)
+{
+(ToS)
+}
+
+STRING 3234
+// Units: n00F (Doomguard), Name (Name)
+{
+Strażnik zagłady
+}
+
+STRING 3241
+{
+Orki Młota Zmierzchu
+}
+
+STRING 3242
+{
+Gul’dan wystawił klan Młota Zmierzchu na pierwszą linię obrony. Łudzi się, że powstrzyma w ten sposób zemstę Hordy za swoją zdradę. Zniszcz Młot Zmierzchu i odnajdź Gul’dana!
+}
+
+STRING 3243
+{
+Zniszcz bazę Młota Zmierzchu.
+}
+
+STRING 3244
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Orki Młota Zmierzchu
+ - Zniszcz bazę Młota Zmierzchu
+}
+
+STRING 3245
+{
+|cffffcc00ZADANIE GŁÓWNE UKOŃCZONE|r
+Orki Młota Zmierzchu
+}
+
+STRING 3301
+{
+Blackhand brats will be healed by cheat
+}
+
+STRING 3302
+{
+Blackhand brats will NOT be healed by cheat
+}
+
+STRING 3305
+{
+Rwij musi przeżyć.
+}
+
+STRING 3306
+{
+Szarp musi przeżyć.
+}
+
+STRING 3307
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Twój bohater poległ.
+}
+
+STRING 3309
+// Doodads: D014 (FakeSky), Name (Name)
+{
+FakeSky
+}
+
+STRING 3328
+// Doodads: D015 (ToS Gate), Name (Name)
+{
+Brama grobowca
+}
+
+STRING 3329
+{
+|cffffcc00MISJA NIEUDANA|r
+
+}
+
+STRING 3334
+{
+|cffffcc00Gall:|r Spalić ich wszystkich!
+}
+
+STRING 3335
+{
+|cffffcc00NOWE ULEPSZENIE|r
+Nieświęty Wartownik. Pozwala wieżom wykrywać ukryte jednostki wroga, takie jak żółwie wojenne. Ulepszenie jest dostępne w Świątyni Potępionych.
+}
+
+STRING 3336
+{
+|cffff0000W tej misji kody są niedozwolone!|r
+}
+
+STRING 3337
+// Units: oUC1 (Utok Scratcher), Name (Name)
+{
+Utok Bazgracz
+}
+
+STRING 3338
+// Units: oUC1 (Utok Scratcher), EditorSuffix (Name - Editor Suffix)
+{
+(Boss Fight)
+}
+
+STRING 3339
+// Items: I0LA (WC2Orc12Maim1), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3340
+// Items: I0LA (WC2Orc12Maim1), Description (Description)
+{
+Coś jest nie tak z tym miejscem… Jest jakieś… nienaturalne.
+}
+
+STRING 3341
+// Items: I0LA (WC2Orc12Maim1), Name (Name)
+{
+WC2Orc12Maim1
+}
+
+STRING 3342
+// Items: I0LB (WC2Orc12Maim2), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3343
+// Items: I0LB (WC2Orc12Maim2), Description (Description)
+{
+Świetny pomysł. Zabij go.
+}
+
+STRING 3344
+// Items: I0LB (WC2Orc12Maim2), Name (Name)
+{
+WC2Orc12Maim2
+}
+
+STRING 3345
+// Items: I0LC (WC2Orc12Maim3), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3346
+// Items: I0LC (WC2Orc12Maim3), Description (Description)
+{
+Porąbię cię na kawałki, dwugłowa góro sadła!
+}
+
+STRING 3347
+// Items: I0LC (WC2Orc12Maim3), Name (Name)
+{
+WC2Orc12Maim3
+}
+
+STRING 3348
+// Items: I0LD (WC2Orc12Maim4), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3349
+// Items: I0LD (WC2Orc12Maim4), Description (Description)
+{
+Nie żyje? Musimy mieć pewność!
+}
+
+STRING 3350
+// Items: I0LD (WC2Orc12Maim4), Name (Name)
+{
+WC2Orc12Maim4
+}
+
+STRING 3351
+// Items: I0LE (WC2Orc12Maim5), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3352
+// Items: I0LE (WC2Orc12Maim5), Description (Description)
+{
+Aargh! Niech to szlag! Chciałem jego głowę!
+}
+
+STRING 3353
+// Items: I0LE (WC2Orc12Maim5), Name (Name)
+{
+WC2Orc12Maim5
+}
+
+STRING 3354
+// Items: I0LF (WC2Orc12Rend8), Tip (Tooltip - Basic)
+{
+Szarp Czarnoręki
+}
+
+STRING 3355
+// Items: I0LF (WC2Orc12Rend8), Ubertip (Tooltip - Extended)
+{
+(This line was moved to Maim)
+}
+
+STRING 3356
+// Items: I0LF (WC2Orc12Rend8), Description (Description)
+{
+Co do…
+}
+
+STRING 3357
+// Items: I0LF (WC2Orc12Rend8), Name (Name)
+{
+WC2Orc12Rend8
+}
+
+STRING 3358
+// Items: I0LG (WC2Orc12Rend1), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3359
+// Items: I0LG (WC2Orc12Rend1), Description (Description)
+{
+Tak… Też to czuję… A te ruiny wyglądają na elfie, ale są inne niż te, które opisywał Utok. Co o tym sądzisz, Zuluhedzie?
+}
+
+STRING 3360
+// Items: I0LG (WC2Orc12Rend1), Name (Name)
+{
+WC2Orc12Rend1
+}
+
+STRING 3361
+// Items: I0LH (WC2Orc12Rend2), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3362
+// Items: I0LH (WC2Orc12Rend2), Description (Description)
+{
+To Gul’dan? Widzisz go?
+}
+
+STRING 3363
+// Items: I0LH (WC2Orc12Rend2), Name (Name)
+{
+WC2Orc12Rend2
+}
+
+STRING 3364
+// Items: I0LJ (WC2Orc12Rend3), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3365
+// Items: I0LJ (WC2Orc12Rend3), Description (Description)
+{
+Gul’dan musi więc być blisko. Trzeba się pospieszyć!
+}
+
+STRING 3366
+// Items: I0LJ (WC2Orc12Rend3), Name (Name)
+{
+WC2Orc12Rend3
+}
+
+STRING 3367
+// Items: I0LK (WC2Orc12Rend4), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3370
+// Items: I0LL (WC2Orc12Rend5), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3371
+// Items: I0LK (WC2Orc12Rend4), Description (Description)
+{
+Wojownicy, założymy tu obóz, a potem ruszymy dalej w pościg. Cokolwiek nas tu czeka, Gul’dan dziś zginie!
+}
+
+STRING 3372
+// Items: I0LK (WC2Orc12Rend4), Name (Name)
+{
+WC2Orc12Rend4
+}
+
+STRING 3373
+// Items: I0LN (WC2Orc12Rend6), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3374
+// Items: I0LL (WC2Orc12Rend5), Description (Description)
+{
+Czekaj, bracie! Może wiedzieć, gdzie jest Gul’dan.
+}
+
+STRING 3375
+// Items: I0LL (WC2Orc12Rend5), Name (Name)
+{
+WC2Orc12Rend5
+}
+
+STRING 3376
+// Items: I0LO (WC2Orc12Rend7), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3379
+// Items: I0LP (WC2Orc12Rend9), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3380
+// Items: I0LN (WC2Orc12Rend6), Description (Description)
+{
+Tam są te opętane przez demony psy! Wybić ich w imieniu Hordy!
+}
+
+STRING 3381
+// Items: I0LN (WC2Orc12Rend6), Name (Name)
+{
+WC2Orc12Rend6
+}
+
+STRING 3382
+// Items: I0LQ (WC2Orc12Rend10), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3383
+// Items: I0LO (WC2Orc12Rend7), Description (Description)
+{
+Ci szamani mają w sobie o wiele więcej siły niż ty, gruby i leniwy ogrze!
+}
+
+STRING 3384
+// Items: I0LO (WC2Orc12Rend7), Name (Name)
+{
+WC2Orc12Rend7
+}
+
+STRING 3385
+// Items: I0LR (WC2Orc12Rend11), Tip (Tooltip - Basic)
+{
+Rwij Czarnoręki
+}
+
+STRING 3386
+// Items: I0LP (WC2Orc12Rend9), Description (Description)
+{
+Gotuj się, bracie! Skończymy teraz z tym plugawym heretykiem!
+}
+
+STRING 3387
+// Items: I0LP (WC2Orc12Rend9), Name (Name)
+{
+WC2Orc12Rend9
+}
+
+STRING 3389
+// Items: I0LQ (WC2Orc12Rend10), Description (Description)
+{
+Zgoda, bracie… Jedna głowa dla mnie, druga dla ciebie!
+}
+
+STRING 3390
+// Items: I0LQ (WC2Orc12Rend10), Name (Name)
+{
+WC2Orc12Rend10
+}
+
+STRING 3392
+// Items: I0LR (WC2Orc12Rend11), Description (Description)
+{
+Dopadniemy ich później. Teraz ruszaj!
+}
+
+STRING 3393
+// Items: I0LR (WC2Orc12Rend11), Name (Name)
+{
+WC2Orc12Rend11
+}
+
+STRING 3394
+// Items: I0LS (WC2Orc12Utok1), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3395
+// Items: I0LS (WC2Orc12Utok1), Description (Description)
+{
+Tych wysp nie ma na żadnej z naszych map… Ale kurs zgadza się z raportem szpiega.
+}
+
+STRING 3396
+// Items: I0LS (WC2Orc12Utok1), Name (Name)
+{
+WC2Orc12Utok1
+}
+
+STRING 3397
+// Items: I0LT (WC2Orc12Utok2), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3398
+// Items: I0LT (WC2Orc12Utok2), Description (Description)
+{
+Zdrajcy mają po swojej stronie nie tylko potężną flotę. Przyjdzie nam też walczyć z ogrzymi magami, czarnoksiężnikami i tymi nowymi „rycerzami śmierci”…
+}
+
+STRING 3399
+// Items: I0LT (WC2Orc12Utok2), Name (Name)
+{
+WC2Orc12Utok2
+}
+
+STRING 3400
+// Items: I0LU (WC2Orc12Utok3), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3401
+// Items: I0LU (WC2Orc12Utok3), Description (Description)
+{
+Odetnij mu głowę w imieniu wodza!
+}
+
+STRING 3402
+// Items: I0LU (WC2Orc12Utok3), Name (Name)
+{
+WC2Orc12Utok3
+}
+
+STRING 3403
+// Items: I0LV (WC2Orc12Utok4), Tip (Tooltip - Basic)
+{
+Utok Bazgracz
+}
+
+STRING 3404
+// Items: I0LV (WC2Orc12Utok4), Description (Description)
+{
+Rwiju! Szarpie!
+
+}
+
+STRING 3405
+// Items: I0LV (WC2Orc12Utok4), Name (Name)
+{
+WC2Orc12Utok4
+}
+
+STRING 3406
+// Items: I0LW (WC2Orc12Zuluhed1), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3407
+// Items: I0LW (WC2Orc12Zuluhed1), Description (Description)
+{
+Z pewnością są bardzo stare i naznaczone potężną magią… Może niegdyś biło tu serce elfiej cywilizacji, tak jak w Gorii serce cywilizacji ogrów na Draenorze. A co do tej plugawej skazy w powietrzu… Wyczuwam coś pradawnego… Moc… Mroczną obecność.
+}
+
+STRING 3408
+// Items: I0LW (WC2Orc12Zuluhed1), Name (Name)
+{
+WC2Orc12Zuluhed1
+}
+
+STRING 3409
+// Items: I0LX (WC2Orc12Zuluhed2), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3410
+// Items: I0LX (WC2Orc12Zuluhed2), Description (Description)
+{
+Moje widzenie jest niejasne, jak te wyspy spowite mgłą. Ale nie sposób pomylić odoru spaczenia.
+}
+
+STRING 3411
+// Items: I0LX (WC2Orc12Zuluhed2), Name (Name)
+{
+WC2Orc12Zuluhed2
+}
+
+STRING 3412
+// Items: I0LY (WC2Orc12Zuluhed3), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3413
+// Items: I0LY (WC2Orc12Zuluhed3), Description (Description)
+{
+My też mamy takie siły, Utoku. Gul’dan narobił sobie wielu wrogów. Nie zdoła już przed nimi uciec.
+}
+
+STRING 3414
+// Items: I0LY (WC2Orc12Zuluhed3), Name (Name)
+{
+WC2Orc12Zuluhed3
+}
+
+STRING 3415
+// Items: I0LZ (WC2Orc12Zuluhed4), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3416
+// Items: I0LZ (WC2Orc12Zuluhed4), Description (Description)
+{
+Drak’thulu…
+}
+
+STRING 3417
+// Items: I0LZ (WC2Orc12Zuluhed4), Name (Name)
+{
+WC2Orc12Zuluhed4
+}
+
+STRING 3418
+// Items: I0La (WC2Orc12Zuluhed5), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3419
+// Items: I0La (WC2Orc12Zuluhed5), Description (Description)
+{
+Byłeś kiedyś szamanem, Drak’thulu. Czy ta mroczna ścieżka warta jest twojego życia?
+}
+
+STRING 3420
+// Items: I0La (WC2Orc12Zuluhed5), Name (Name)
+{
+WC2Orc12Zuluhed5
+}
+
+STRING 3421
+// Items: I0Lb (WC2Orc12Zuluhed6), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3422
+// Items: I0Lb (WC2Orc12Zuluhed6), Description (Description)
+{
+Ale teraz to ty jesteś słaby, a my silni. Powiedz, gdzie ukrywa się Gul’dan, a darujemy ci życie.
+}
+
+STRING 3423
+// Items: I0Lb (WC2Orc12Zuluhed6), Name (Name)
+{
+WC2Orc12Zuluhed6
+}
+
+STRING 3424
+// Items: I0Lc (WC2Orc12Zuluhed7), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3425
+// Items: I0Lc (WC2Orc12Zuluhed7), Description (Description)
+{
+Zdrajcy nie żyją… Oto artefakt, tak jak obiecałem.
+}
+
+STRING 3426
+// Items: I0Lc (WC2Orc12Zuluhed7), Name (Name)
+{
+WC2Orc12Zuluhed7
+}
+
+STRING 3427
+// Items: I0Ld (WC2Orc12Zuluhed8), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3428
+// Items: I0Ld (WC2Orc12Zuluhed8), Description (Description)
+{
+Mroczny Tytan?
+}
+
+STRING 3429
+// Items: I0Ld (WC2Orc12Zuluhed8), Name (Name)
+{
+WC2Orc12Zuluhed8
+}
+
+STRING 3430
+// Items: I0Le (WC2Orc12Zuluhed9), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3431
+// Items: I0Le (WC2Orc12Zuluhed9), Description (Description)
+{
+Gul’dan oszalał! Jego żądza potęgi zniszczy ten świat, tak jak zniszczyła Draenor! Naprzód, wojownicy! Czas z tym skończyć!
+}
+
+STRING 3432
+// Items: I0Le (WC2Orc12Zuluhed9), Name (Name)
+{
+WC2Orc12Zuluhed9
+}
+
+STRING 3433
+// Items: I0Lf (WC2Orc12Zuluhed10), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3434
+// Items: I0Lf (WC2Orc12Zuluhed10), Description (Description)
+{
+Gul’dan! Wiedziałem, że go znajdziemy! Lok’tar, wojownicy!
+}
+
+STRING 3435
+// Items: I0Lf (WC2Orc12Zuluhed10), Name (Name)
+{
+WC2Orc12Zuluhed10
+}
+
+STRING 3436
+// Items: I0Lg (WC2Orc12Zuluhed11), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3437
+// Items: I0Lg (WC2Orc12Zuluhed11), Description (Description)
+{
+Synowie Czarnorękiego! Pomogę wam!
+}
+
+STRING 3438
+// Items: I0Lg (WC2Orc12Zuluhed11), Name (Name)
+{
+WC2Orc12Zuluhed11
+}
+
+STRING 3439
+// Items: I0Lh (WC2Orc12Zuluhed12), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3440
+// Items: I0Lh (WC2Orc12Zuluhed12), Description (Description)
+{
+Rwiju! Szarpie! Moc Cho’galla przerasta każdego z nas! Zabijcie go szybko, zanim sprowadzi na nas niewysłowioną grozę!
+}
+
+STRING 3441
+// Items: I0Lh (WC2Orc12Zuluhed12), Name (Name)
+{
+WC2Orc12Zuluhed12
+}
+
+STRING 3442
+// Items: I0Lj (WC2Orc12Zuluhed13), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3443
+// Items: I0Lj (WC2Orc12Zuluhed13), Description (Description)
+{
+Nie mamy na to czasu! Utoku, wróć do bazy i opatrz rany… Pilnuj okrętów do naszego powrotu.
+}
+
+STRING 3444
+// Items: I0Lj (WC2Orc12Zuluhed13), Name (Name)
+{
+WC2Orc12Zuluhed13
+}
+
+STRING 3445
+// Items: I0Lk (WC2Orc12Zuluhed14), Tip (Tooltip - Basic)
+{
+Zuluhed
+}
+
+STRING 3446
+// Items: I0Lk (WC2Orc12Zuluhed14), Description (Description)
+{
+Hmm… Te ruiny mogą skrywać jakiś skarb.
+}
+
+STRING 3447
+// Items: I0Lk (WC2Orc12Zuluhed14), Name (Name)
+{
+WC2Orc12Zuluhed14
+}
+
+STRING 3448
+// Items: I0Ll (WC2Orc12Drakthul1), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3449
+// Items: I0Ll (WC2Orc12Drakthul1), Description (Description)
+{
+Zuluhedzie! Ha! A więc stanęliśmy po przeciwnych stronach… Co zrobisz? Poderżniesz mi gardło i zostawisz na śmierć?
+}
+
+STRING 3450
+// Items: I0Ll (WC2Orc12Drakthul1), Name (Name)
+{
+WC2Orc12Drakthul1
+}
+
+STRING 3451
+// Items: I0Lm (WC2Orc12Drakthul2), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3452
+// Items: I0Lm (WC2Orc12Drakthul2), Description (Description)
+{
+Nie chcę umierać, Zuluhedzie. Słuchałem Gul’dana, bo… Bo słabi muszą podążać za silnymi.
+}
+
+STRING 3453
+// Items: I0Lm (WC2Orc12Drakthul2), Name (Name)
+{
+WC2Orc12Drakthul2
+}
+
+STRING 3454
+// Items: I0Ln (WC2Orc12Drakthul3), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3456
+// Items: I0Ln (WC2Orc12Drakthul3), Name (Name)
+{
+WC2Orc12Drakthul3
+}
+
+STRING 3457
+// Items: I0Lo (WC2Orc12Drakthul4), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3458
+// Items: I0Lo (WC2Orc12Drakthul4), Description (Description)
+{
+Dziękuję… Gul’dan ma ogromną moc. Sam wydźwignął te wyspy, by odnaleźć pradawny grobowiec… Miejsce spoczynku potwornego Mrocznego Tytana. To jego straszliwej potęgi szuka teraz Gul’dan…
+}
+
+STRING 3459
+// Items: I0Lo (WC2Orc12Drakthul4), Name (Name)
+{
+WC2Orc12Drakthul4
+}
+
+STRING 3460
+// Items: I0Lp (WC2Orc12Drakthul5), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3462
+// Items: I0Lp (WC2Orc12Drakthul5), Name (Name)
+{
+WC2Orc12Drakthul5
+}
+
+STRING 3463
+// Items: I0Lq (WC2Orc12Drakthul6), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3465
+// Items: I0Lq (WC2Orc12Drakthul6), Name (Name)
+{
+WC2Orc12Drakthul6
+}
+
+STRING 3466
+// Items: I0Lr (WC2Orc12Drakthul7), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3467
+// Items: I0Lr (WC2Orc12Drakthul7), Description (Description)
+{
+Odejdź.
+}
+
+STRING 3468
+// Items: I0Lr (WC2Orc12Drakthul7), Name (Name)
+{
+WC2Orc12Drakthul7
+}
+
+STRING 3469
+// Items: I0Ls (WC2Orc12Drakthul8), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3471
+// Items: I0Ls (WC2Orc12Drakthul8), Name (Name)
+{
+WC2Orc12Drakthul8
+}
+
+STRING 3472
+// Items: I0Lt (WC2Orc12Drakthul9), Tip (Tooltip - Basic)
+{
+Drak'thul
+}
+
+STRING 3473
+// Items: I0Lt (WC2Orc12Drakthul9), Description (Description)
+{
+Chcę być sam, aż wreszcie pochłonie mnie ciemność.
+}
+
+STRING 3474
+// Items: I0Lt (WC2Orc12Drakthul9), Name (Name)
+{
+WC2Orc12Drakthul9
+}
+
+STRING 3475
+// Items: I0Lu (WC2Orc12Guldan1), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3476
+// Items: I0Lu (WC2Orc12Guldan1), Description (Description)
+{
+Drzwi otwarte! Nareszcie!
+}
+
+STRING 3477
+// Items: I0Lu (WC2Orc12Guldan1), Name (Name)
+{
+WC2Orc12Guldan1
+}
+
+STRING 3478
+// Items: I0Lv (WC2Orc12Guldan2), Tip (Tooltip - Basic)
+{
+Gul'dan
+}
+
+STRING 3479
+// Items: I0Lv (WC2Orc12Guldan2), Description (Description)
+{
+Cho’gallu, zostań i pilnuj wejścia. Zabij każdego, kto spróbuje pójść za nami. Reszta ze mną!
+}
+
+STRING 3480
+// Items: I0Lv (WC2Orc12Guldan2), Name (Name)
+{
+WC2Orc12Guldan2
+}
+
+STRING 3481
+// Items: I0Lw (WC2Orc12ChoGall1), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3482
+// Items: I0Lw (WC2Orc12ChoGall1), Description (Description)
+{
+|cffffcc00Cho:|r Jak rozkażesz, mistrzu.
+}
+
+STRING 3483
+// Items: I0Lw (WC2Orc12ChoGall1), Name (Name)
+{
+WC2Orc12ChoGall1
+}
+
+STRING 3484
+// Items: I0Lx (WC2Orc12ChoGall2), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3485
+// Items: I0Lx (WC2Orc12ChoGall2), Description (Description)
+{
+|cffffcc00Cho:|r Nie tak szybko, mali szamani…|n|cffffcc00Gall:|r Najpierw musicie przejść przez nas!
+}
+
+STRING 3486
+// Items: I0Lx (WC2Orc12ChoGall2), Name (Name)
+{
+WC2Orc12ChoGall2
+}
+
+STRING 3487
+// Items: I0Ly (WC2Orc12ChoGall3a), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3488
+// Items: I0Ly (WC2Orc12ChoGall3a), Description (Description)
+{
+|cffffcc00Cho:|r Aaa… Szczeniaki Czarnorękiego…|n|cffffcc00Gall:|r Dwaj nieudolni synowie Czarnorękiego. Ach, Szarpie… Gdybyś miał rozum równie wielki jak czoło… może stanowiłbyś jakieś wyzwanie.
+}
+
+STRING 3489
+// Items: I0Ly (WC2Orc12ChoGall3a), Name (Name)
+{
+WC2Orc12ChoGall3a
+}
+
+STRING 3490
+// Items: I0Lz (WC2Orc12ChoGall3b), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3491
+// Items: I0Lz (WC2Orc12ChoGall3b), Description (Description)
+{
+|cffffcc00Gall:|r A Rwij… Może odziedziczyłeś trochę sprytu po ojcu, ale co z tego, skoro nawet siostra złamałaby cię jak patyk? Nic dziwnego, że Horda uważa, iż byliście jeszcze brudnymi maluchami, gdy Czarnoręki kazał czarnoksiężnikom was postarzyć.
+}
+
+STRING 3492
+// Items: I0Lz (WC2Orc12ChoGall3b), Name (Name)
+{
+WC2Orc12ChoGall3b
+}
+
+STRING 3493
+// Items: I1LA (WC2Orc12ChoGall4), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3494
+// Items: I1LA (WC2Orc12ChoGall4), Description (Description)
+{
+|cffffcc00Gall:|r Szczęki śmierci zaciskają się wokół was.
+}
+
+STRING 3495
+// Items: I1LA (WC2Orc12ChoGall4), Name (Name)
+{
+WC2Orc12ChoGall4
+}
+
+STRING 3496
+// Items: I1LB (WC2Orc12ChoGall5), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3497
+// Items: I1LB (WC2Orc12ChoGall5), Description (Description)
+{
+|cffffcc00Gall:|r Płomienie i furia!
+}
+
+STRING 3498
+// Items: I1LB (WC2Orc12ChoGall5), Name (Name)
+{
+WC2Orc12ChoGall5
+}
+
+STRING 3499
+// Items: I1LC (WC2Orc12ChoGall7), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3500
+// Items: I1LC (WC2Orc12ChoGall7), Description (Description)
+{
+Nikt nie powstrzyma gniewu Cho’galla!
+}
+
+STRING 3501
+// Items: I1LC (WC2Orc12ChoGall7), Name (Name)
+{
+WC2Orc12ChoGall7
+}
+
+STRING 3502
+// Items: I1LD (WC2Orc12ChoGall8), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3503
+// Items: I1LD (WC2Orc12ChoGall8), Description (Description)
+{
+|cffffcc00Cho:|r Wasze kości pękną!
+}
+
+STRING 3504
+// Items: I1LD (WC2Orc12ChoGall8), Name (Name)
+{
+WC2Orc12ChoGall8
+}
+
+STRING 3505
+// Items: I1LE (WC2Orc12ChoGall9), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3506
+// Items: I1LE (WC2Orc12ChoGall9), Description (Description)
+{
+|cffffcc00Gall:|r A-ha-ha-ha!
+}
+
+STRING 3507
+// Items: I1LE (WC2Orc12ChoGall9), Name (Name)
+{
+WC2Orc12ChoGall9
+}
+
+STRING 3508
+// Items: I1LF (WC2Orc12ChoGall10), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3509
+// Items: I1LF (WC2Orc12ChoGall10), Description (Description)
+{
+|cffffcc00Cho:|r Dość! Obłędne wrzaski mrocznych bogów rozerwą wasze dusze! |cffffcc00Gall:|r Ujrzyjcie potęgę naszych prawdziwych panów!
+}
+
+STRING 3510
+// Items: I1LF (WC2Orc12ChoGall10), Name (Name)
+{
+WC2Orc12ChoGall10
+}
+
+STRING 3511
+// Items: I1LG (WC2Orc12ChoGall11), Tip (Tooltip - Basic)
+{
+Cho'gall
+}
+
+STRING 3512
+// Items: I1LG (WC2Orc12ChoGall11), Description (Description)
+{
+|cffffcc00Cho:|r Wszyscy będą służyć! |cffffcc00Gall:|r Wszyscy nasycą nieposkromiony głód bogów!
+}
+
+STRING 3513
+// Items: I1LG (WC2Orc12ChoGall11), Name (Name)
+{
+WC2Orc12ChoGall11
+}
+
+STRING 3514
+// Items: I1LH (PeonPissed4), Tip (Tooltip - Basic)
+{
+Peon
+}
+
+STRING 3515
+// Items: I1LH (PeonPissed4), Description (Description)
+{
+Ja nie być taki ork!
+}
+
+STRING 3516
+// Items: I1LH (PeonPissed4), Name (Name)
+{
+PeonPissed4
+}
+
+STRING 3517
+// Items: I1LI (WC2Orc12Cultist1), Tip (Tooltip - Basic)
+{
+Ogr kultysta
+}
+
+STRING 3518
+// Items: I1LI (WC2Orc12Cultist1), Description (Description)
+{
+Giń w imieniu mistrza!
+}
+
+STRING 3519
+// Items: I1LI (WC2Orc12Cultist1), Name (Name)
+{
+WC2Orc12Cultist1
+}
+
+STRING 3520
+// Items: I1LJ (WC2Orc12Cultist2), Tip (Tooltip - Basic)
+{
+Ogr kultysta
+}
+
+STRING 3521
+// Items: I1LJ (WC2Orc12Cultist2), Description (Description)
+{
+Poddaj się strachowi!
+}
+
+STRING 3522
+// Items: I1LJ (WC2Orc12Cultist2), Name (Name)
+{
+WC2Orc12Cultist2
+}
+
+STRING 3523
+// Items: I1LK (WC2Orc12Cultist3), Tip (Tooltip - Basic)
+{
+Ogr kultysta
+}
+
+STRING 3524
+// Items: I1LK (WC2Orc12Cultist3), Description (Description)
+{
+Wasze marzenia legną w gruzach!
+}
+
+STRING 3525
+// Items: I1LK (WC2Orc12Cultist3), Name (Name)
+{
+WC2Orc12Cultist3
+}
+
+STRING 3527
+// Items: I1lx (WC2Orc12Grunt1), Description (Description)
+{
+Nie będę już ulegał Orgrimowi i jego młotowi! Rozrąbię ci serce toporem!
+}
+
+STRING 3528
+// Items: I1lx (WC2Orc12Grunt1), Name (Name)
+{
+WC2Orc12Grunt1
+}
+
+STRING 3529
+// Units: O001 (Ogre Magi), Name (Name)
+{
+Ogrzy mag
+}
+
+STRING 3530
+// Units: O005 (Ogre Magi), Name (Name)
+{
+Ogrzy mag
+}
+
+STRING 3531
+// Units: O006 (Ogre Magi), Name (Name)
+{
+Ogrzy mag
+}
+
+STRING 3532
+// Items: I0Ln (WC2Orc12Drakthul3), Description (Description)
+{
+Boję się gniewu Rady Cieni, Zuluhedzie. Ale jeśli ich zniszczysz, powiem ci wszystko! Na pobliskiej wyspie odprawiają straszliwy rytuał… Zabij ich i przynieś mi artefakt, którego używają.
+}
+
+STRING 3533
+// Items: I0Lp (WC2Orc12Drakthul5), Description (Description)
+{
+Sargeras… Władca legionów demonów. Podobno pokonano go przed wiekami.
+Zatopiono jego grobowiec. Jego demony dały moc Gul’danowi i naszym wodzom.
+Wszystko, czym jesteśmy i czego dokonaliśmy, ma swój początek w nim.
+}
+
+STRING 3534
+// Items: I1lx (WC2Orc12Grunt1), Tip (Tooltip - Basic)
+{
+Zdrajca Czarnej Skały
+}
+
+STRING 3535
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3536
+{
+|cffffcc00Kod wyłączony|r
+}
+
+STRING 3537
+{
+|cffffcc00Kod wyłączony|r
+}
+
+STRING 3538
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3539
+// Items: IQL0 (Bonecrusher), Tip (Tooltip - Basic)
+{
+Zdrajca Czarnej Skały
+}
+
+STRING 3540
+// Items: IQL0 (Bonecrusher), Name (Name)
+{
+Miażdżyciel kości
+}
+
+STRING 3541
+{
+|cffffcc00ZADANIE GŁÓWNE NIEUDANE|r
+Twoja baza została zniszczona.
+}
+
+STRING 3542
+// Items: I0Ls (WC2Orc12Drakthul8), Description (Description)
+{
+Heh. Uważasz mnie za głupiego, słabego orka, którego można rzucić wilkom na pożarcie? Rozmawiałem z demonami, gdy ty leżałeś jeszcze w powijakach.
+}
+
+STRING 3543
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3544
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3545
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3546
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3547
+{
+|cffffcc00Dostarcz więcej ropy.|r
+}
+
+STRING 3548
+{
+Diagnostyka |cffff0000wyłączona|r
+}
+
+STRING 3549
+{
+Diagnostyka |cff00ff00włączona|r
+}
+
+STRING 3550
+{
+Twilight Hammer Navy stopped attacking due to lack of Oil
+}
+
+STRING 3551
+{
+Storm Reaver Navy stopped attacking due to lack of Oil
+}
+
+STRING 3552
+{
+|cffffcc00Kod włączony|r
+}
+
+STRING 3553
+// Items: I0Lq (WC2Orc12Drakthul6), Description (Description)
+{
+Na północ stąd stoi wielka wieża… To grobowiec, o którym mówiłem. Tam znajdziesz Gul’dana. Tam najpewniej czeka cię zguba. Dostałeś, czego chciałeś. Zostaw mnie teraz w spokoju… Chcę dożyć reszty swoich dni w samotności.
+}
+
+STRING 3554
+// Units: o9ZZ (Orc Tier 3 Dummy), Name (Name)
+{
+Orc Tier 3 Dummy
+}
+
+STRING 3555
+// Units: o9Zz (Goblin Zeppelin), Hotkey (Hotkey)
+{
+Z
+}
+
+STRING 3556
+// Units: o9Zz (Goblin Zeppelin), Name (Name)
+{
+Gobliński sterowiec
+}
+
+STRING 3557
+// Units: o9Zz (Goblin Zeppelin), EditorSuffix (Name - Editor Suffix)
+{
+(Attacker)
+}
+
+STRING 3558
+// Units: o9ZX (Troll Destroyer), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 3559
+// Units: o9ZX (Troll Destroyer), Name (Name)
+{
+Niszczyciel trolli
+}
+
+STRING 3560
+// Units: o9ZY (Ogre Juggernaught), Name (Name)
+{
+Ogrzy pancernik
+}
+
+STRING 3561
+// Units: o9ZY (Ogre Juggernaught), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 3562
+// Units: o9Zy (War Turtle), Name (Name)
+{
+Żółw wojenny
+}
+
+STRING 3563
+// Units: o9Zy (War Turtle), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 3564
+{
+|cffffcc00ZADANIE GŁÓWNE|r
+Pościg za Gul’danem
+ - Znajdź Gul’dana
+}
+
+STRING 3565
+// Units: o9Zx (Goblin Sappers), Name (Name)
+{
+Goblińscy saperzy
+}
+
+STRING 3566
+// Units: o9Zx (Goblin Sappers), EditorSuffix (Name - Editor Suffix)
+{
+(attacker)
+}
+
+STRING 3568
+// Units: o9ZW (오크 수송선), Tip (Tooltip - Basic)
+{
+Zbuduj transportowiec
+}
+
+STRING 3569
+// Units: o9ZW (오크 수송선), Ubertip (Tooltip - Extended)
+{
+Solidny transportowiec zdolny przewozić jednostki przez morze.|n|n|cffffcc00Wymaga|r 500 |cffffcc00jednostek ropy|r.
+}
+
+STRING 3570
+// Units: o9ZW (오크 수송선), EditorSuffix (Name - Editor Suffix)
+{
+(Rawcode Q Debug)
+}
+
+STRING 3571
+// Units: o9Zw (오크 수송선), EditorSuffix (Name - Editor Suffix)
+{
+(Rawcode Q Debug AI)
+}
+
+STRING 3572
+// Units: o9Zw (오크 수송선), Tip (Tooltip - Basic)
+{
+Zbuduj transportowiec
+}
+
+STRING 3573
+// Units: o9Zw (오크 수송선), Ubertip (Tooltip - Extended)
+{
+Solidny transportowiec zdolny przewozić jednostki przez morze.|n|n|cffffcc00Wymaga|r 500 |cffffcc00jednostek ropy|r.
+}
+
+STRING 3576
+{
+Złoże ropy jest na wyczerpaniu
+}
+
+STRING 3579
+{
+|c00640000Złoże ropy zostało wyczerpane|r
+}
+
+STRING 3582
+{
+Wydobywaj ropę
+}
+
+STRING 3586
+{
+Dostarcz ropę
+}
+
+STRING 3588
+{
+Odbieraj ropę z platform wiertniczych.
+}
+
+STRING 3591
+{
+Dostarcz ropę do najbliższej stoczni.
+}
+
+STRING 3594
+{
+Ropę pozyskuje się ze złóż ropy.
+}
+
+STRING 3597
+{
+Ropa: 
+}
+
+STRING 3600
+{
+Ropa: 0
+}
+
